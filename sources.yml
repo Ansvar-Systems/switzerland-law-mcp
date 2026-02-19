@@ -1,0 +1,55 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "Switzerland Law MCP"
+jurisdiction: "CH"
+
+sources:
+  - name: "Fedlex (Swiss Federal Chancellery)"
+    authority: "Swiss Federal Chancellery (Bundeskanzlei)"
+    official_portal: "https://www.fedlex.admin.ch"
+    canonical_identifier: "SR (Systematic Collection) number, e.g., SR 235.1 for nFADP"
+    retrieval_method: "API"
+    api_documentation: "https://www.fedlex.admin.ch/en/help/data-conventions"
+    update_frequency: "daily"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Open Data (Open Government Data)"
+      url: "https://www.fedlex.admin.ch/en/help/legal-information"
+      summary: "Swiss federal legislation is freely available under open government data principles; Fedlex provides structured data via XML, RDF, and SPARQL endpoints; no restrictions on reuse of legal text"
+    coverage:
+      scope: "All Swiss federal legislation in the Classified Compilation (SR/RS), including the Federal Act on Data Protection (nFADP/DSG, SR 235.1), Federal Act on Information Security (ISA, SR 128.1), Telecommunications Act (TCA, SR 784.10), Code of Obligations (OR, SR 220), Swiss Criminal Code (StGB, SR 311.0), Federal Act on Electronic Signatures (ZertES, SR 943.03), Federal Act on Surveillance of Post and Telecommunications (BÜPF, SR 780.1), and all federal ordinances"
+      limitations: "Cantonal (state-level) legislation is not covered; historical versions prior to digitization may be incomplete; some implementing ordinances may lag behind primary legislation; unofficial English translations are available for major laws but German/French/Italian are authoritative"
+    languages:
+      - "de"
+      - "fr"
+      - "it"
+      - "en"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"
+
+# Notes:
+# - Fedlex (fedlex.admin.ch) is the authoritative, free, multilingual source for all
+#   Swiss federal law, operated by the Swiss Federal Chancellery
+# - Fedlex provides excellent structured data: XML, RDF, SPARQL endpoint, and
+#   LinkedData (data conventions documented at fedlex.admin.ch/en/help/data-conventions)
+# - Switzerland has three official legal languages: German (de), French (fr), Italian (it)
+#   All three versions are equally authoritative for federal law
+# - English translations are available for major laws but are not legally authoritative
+# - The new Federal Act on Data Protection (nFADP/DSG, SR 235.1) replaced the 1992 DPA,
+#   effective September 1, 2023. It aligns closely with GDPR but has Swiss-specific
+#   features: no DPO requirement, fines on individuals (not companies, max CHF 250,000),
+#   and no one-stop-shop mechanism
+# - Switzerland has an EU adequacy decision (renewed 2024), recognizing it as providing
+#   adequate data protection for EU-CH data transfers
+# - FDPIC (Federal Data Protection and Information Commissioner / Eidgenössischer
+#   Datenschutz- und Öffentlichkeitsbeauftragter) is the supervisory authority
+# - Swiss Criminal Code (StGB) Art. 143bis criminalizes unauthorized access to
+#   computer systems ("Hacking article")
+# - Switzerland is not an EU member but participates in various EU frameworks through
+#   bilateral agreements; GDPR compliance is often required for Swiss companies
+#   processing EU residents' data
+# - SR (Systematische Rechtssammlung / Recueil systématique) numbers provide stable
+#   identifiers for all federal legislation

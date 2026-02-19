@@ -1,0 +1,78 @@
+{
+  "name": "@ansvar/switzerland-law-mcp",
+  "version": "1.0.0",
+  "mcpName": "eu.ansvar/switzerland-law-mcp",
+  "description": "Switzerland law database covering federal data protection (nFADP/DSG), information security, telecommunications, code of obligations, criminal code cybercrime provisions, and electronic signatures with full-text search",
+  "author": "Ansvar Systems <hello@ansvar.eu>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ansvar-Systems/switzerland-law-mcp.git"
+  },
+  "homepage": "https://ansvar.eu",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "switzerland-law",
+    "swiss-law",
+    "nfadp",
+    "dsg",
+    "data-protection",
+    "information-security",
+    "criminal-code",
+    "telecommunications",
+    "code-of-obligations",
+    "legislation",
+    "legal",
+    "compliance",
+    "fedlex",
+    "ansvar"
+  ],
+  "type": "module",
+  "main": "dist/server.js",
+  "bin": {
+    "switzerland-law-mcp": "dist/server.js"
+  },
+  "files": [
+    "dist/",
+    "data/database-free.db",
+    "sources.yml",
+    "fixtures/",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:contract": "vitest run __tests__/contract/",
+    "test:watch": "vitest",
+    "lint": "eslint src/",
+    "start": "node dist/server.js",
+    "start:stdio": "node dist/server.js --stdio",
+    "health": "curl -s http://localhost:3000/health | jq .",
+    "build:db": "tsx scripts/build-db.ts",
+    "build:db:free": "tsx scripts/build-db-free.ts",
+    "ingest": "tsx scripts/ingest.ts",
+    "drift:detect": "tsx scripts/drift-detect.ts",
+    "check:freshness": "tsx scripts/check-freshness.ts",
+    "validate": "npm run lint && npm run test && npm run test:contract"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "node-sqlite3-wasm": "^0.8.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "eslint": "^9.0.0",
+    "prettier": "^3.4.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

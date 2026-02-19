@@ -1,0 +1,180 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Switzerland Law MCP",
+  "description": "Golden contract tests for the Switzerland Law MCP covering data protection (nFADP/DSG), information security, telecommunications, obligations, criminal code cybercrime provisions, and electronic signatures legislation",
+  "tests": [
+    {
+      "id": "ch-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Art. 1 of the new Federal Act on Data Protection (nFADP/DSG, SR 235.1) -- purpose and scope",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Act on Data Protection (DSG, SR 235.1)",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["personality", "privacy", "personal data", "Persönlichkeit"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ch-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Art. 1 of the Federal Act on Information Security (ISA, SR 128.1) -- purpose",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Act on Information Security (ISA, SR 128.1)",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["information", "security", "Sicherheit"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ch-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Art. 143bis of the Swiss Criminal Code (StGB, SR 311.0) -- unauthorized access to computer systems",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Swiss Criminal Code (StGB, SR 311.0)",
+        "article": "143bis"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["data processing", "Datenverarbeitungssystem", "computer", "unbefugt"],
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ch-004",
+      "category": "search",
+      "description": "Full-text search for 'Personendaten' (personal data in German) returns nFADP provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "Personendaten"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Datenschutzgesetz", "Personendaten", "DSG"]
+      }
+    },
+    {
+      "id": "ch-005",
+      "category": "search",
+      "description": "Full-text search for 'donnees personnelles' (personal data in French) returns nFADP provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "donnees personnelles"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["protection des donnees", "donnees personnelles", "LPD"]
+      }
+    },
+    {
+      "id": "ch-006",
+      "category": "search",
+      "description": "Full-text search for 'data protection' returns nFADP provisions in English",
+      "tool": "search_legislation",
+      "input": {
+        "query": "data protection"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Data Protection", "personal data", "FADP"]
+      }
+    },
+    {
+      "id": "ch-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for nFADP Art. 2 includes fedlex.admin.ch URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Act on Data Protection (DSG, SR 235.1)",
+        "article": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "fedlex\\.admin\\.ch",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ch-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Code of Obligations Art. 1 includes fedlex.admin.ch URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Code of Obligations (OR, SR 220)",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ch-009",
+      "category": "eu_cross_reference",
+      "description": "nFADP cross-reference to GDPR -- Switzerland has EU adequacy decision and nFADP aligns with GDPR",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Federal Act on Data Protection (DSG, SR 235.1)"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "adequacy"]
+      }
+    },
+    {
+      "id": "ch-010",
+      "category": "eu_cross_reference",
+      "description": "Federal Act on Electronic Signatures (ZertES) cross-reference to eIDAS Regulation",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Federal Act on Electronic Signatures (ZertES, SR 943.03)"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["eIDAS", "electronic identification", "910/2014", "electronic signature"]
+      }
+    },
+    {
+      "id": "ch-011",
+      "category": "negative_test",
+      "description": "Non-existent Swiss law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Bundesgesetz ueber fiktive Angelegenheiten 9999",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ch-012",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Act on Data Protection (DSG, SR 235.1)",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}
