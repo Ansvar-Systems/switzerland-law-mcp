@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Switzerland Law MCP",
+  "jurisdiction": "CH",
+  "provisions": [
+    {
+      "id": "ch-hash-001",
+      "description": "Federal Constitution of the Swiss Confederation (SR 101), Art. 13 -- right to privacy and protection of personal data",
+      "upstream_url": "https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_13",
+      "selector_hint": "Art. 13 - Right to privacy",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "privacy"
+    },
+    {
+      "id": "ch-hash-002",
+      "description": "Federal Act on Data Protection (nFADP/DSG, SR 235.1), Art. 1 -- purpose of the Act",
+      "upstream_url": "https://www.fedlex.admin.ch/eli/cc/2022/491/en#art_1",
+      "selector_hint": "Art. 1 - Purpose",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "personality"
+    },
+    {
+      "id": "ch-hash-003",
+      "description": "Federal Act on Information Security (ISA, SR 128.1), Art. 1 -- purpose of the Act",
+      "upstream_url": "https://www.fedlex.admin.ch/eli/cc/2023/483/en#art_1",
+      "selector_hint": "Art. 1 - Purpose",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "security"
+    },
+    {
+      "id": "ch-hash-004",
+      "description": "Code of Obligations (OR, SR 220), Art. 1 -- conclusion of contract by mutual consent",
+      "upstream_url": "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1",
+      "selector_hint": "Art. 1 - Conclusion of Contract",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "contract"
+    },
+    {
+      "id": "ch-hash-005",
+      "description": "Swiss Criminal Code (StGB, SR 311.0), Art. 1 -- no punishment without law (nulla poena sine lege)",
+      "upstream_url": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/en#art_1",
+      "selector_hint": "Art. 1 - No punishment without law",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "punish"
+    },
+    {
+      "id": "ch-hash-006",
+      "description": "Telecommunications Act (TCA, SR 784.10), Art. 1 -- purpose and scope of telecommunications regulation",
+      "upstream_url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/en#art_1",
+      "selector_hint": "Art. 1 - Purpose",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "telecommunication"
+    }
+  ]
+}

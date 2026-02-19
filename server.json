@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "eu.ansvar/switzerland-law-mcp",
+  "description": "Switzerland law database covering federal data protection (nFADP/DSG), information security, telecommunications, code of obligations, criminal code cybercrime provisions, and electronic signatures with full-text search",
+  "repository": {
+    "url": "https://github.com/Ansvar-Systems/switzerland-law-mcp",
+    "source": "github"
+  },
+  "homepage": "https://ansvar.eu",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@ansvar/switzerland-law-mcp",
+      "version": "1.0.0",
+      "transport": { "type": "stdio" }
+    }
+  ]
+}
