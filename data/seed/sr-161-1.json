@@ -1,0 +1,184 @@
+{
+  "id": "sr-161-1",
+  "type": "statute",
+  "title": "Bundesgesetz über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)",
+  "title_en": "Federal Act on Freedom of Information in the Administration (FoIA)",
+  "short_name": "BGÖ",
+  "status": "in_force",
+  "issued_date": "2004-12-17",
+  "in_force_date": "2006-07-01",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2006/355/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Provisions",
+      "section": "1",
+      "title": "Aim and subject matter",
+      "content": "This Act seeks to promote transparency with regard to the mandate, organisation and activities of the Administration. To this end, it contributes to informing the public by ensuring access to official documents."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Provisions",
+      "section": "2",
+      "title": "Personal scope of application",
+      "content": "1 This Act applies to: a. the Federal Administration; b. public and private bodies outside the Federal Administration, insofar as they enact legislation or issue first instance rulings within the meaning of Article 5 of the Federal Act of 20 December 1968 on Administrative Procedure (Administrative Procedure Act); c. the Parliamentary Services. 2 This Act does not apply to the Swiss National Bank or the Swiss Financial Market Supervisory Authority. 3 The Federal Council may exclude other organisational units of the Federal Administration, as well as other organisations and persons outside the Federal Administration, from the scope of this Act if: a. the tasks assigned to the same so require; b. their competitiveness would be prejudiced by being subject to this Act; or c. the tasks assigned to them are of only minor importance. SR 172.021 Amended by Annex No 1 the Financial Market Supervision Act of 22 June 2007, in force since 1 Jan. 2009 ( AS 2008 5207 ; BBl 2006 2829 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 General Provisions",
+      "section": "3",
+      "title": "Material scope of application",
+      "content": "1 This Act does not apply to: a. access to official documents relating to: 1. civil proceedings, 2. criminal proceedings, 3. international mutual and administrative assistance proceedings, 4. international dispute settlement proceedings, 5. constitutional and administrative judicial proceedings; or 6. arbitration proceedings; b. the consultation, by a party, of the case file in first-instance administrative proceedings. 2 Access to official documents containing personal data about the person requesting access is governed by the Data Protection Act of 25 September 2020 (FADP). SR 235.1 Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 General Provisions",
+      "section": "4",
+      "title": "Reservation of special provisions",
+      "content": "Special provisions contained in other Federal Acts are reserved where they: a. declare certain information secret; or b. declare the access to certain information to be subject to requirements derogating from those set out herein;"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Official documents",
+      "content": "1 An official document is any information: a. which has been recorded, regardless of the medium; b. retained by the authority which issued the same or to which it has been communicated; and c. which concerns the fulfilment of a public task. 2 Documents which have been produced by means of a simple computerised process from recorded information which meets the requirements of paragraph 1 letters a, b and c above are also deemed to be official documents. 3 Not deemed to be official documents are any documents which: a. are used by an authority in a commercial capacity; b. are not complete; or c. are intended for personal use."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "6",
+      "title": "Principle of freedom of information",
+      "content": "1 Any person has the right to inspect official documents and to obtain information about the content of official documents. 2 The documents may be inspected in situ or a copy thereof may be requested. The legislation governing copyright is reserved. 3 Where an official document has already been published by the Federal Government in paper or electronic format, the rights under paragraphs 1 and 2 above are deemed to have been fulfilled."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "7",
+      "title": "Exceptions",
+      "content": "1 The right of access shall be restricted, deferred or refused if such access to an official document: a. significantly harms the free opinion-forming and decision-making processes of an authority which is subject to this Act, or of another legislative, administrative or judicial body; b. obstructs an authority from achieving the intended objectives when taking specific measures; c. may compromise Switzerland’s domestic and international security; d. may affect Switzerland’s interests in matters of foreign policy and international relations; e. may affect relations between the Federal Government and the cantons, or inter-cantonal relations; f. may affect the economic or monetary interests of Switzerland; g. may reveal professional, business or manufacturing secrets; or h. may result in the release of information provided voluntarily by a third party to an authority which undertook to maintain secrecy with regard thereto. 2 The right of access shall be restricted, deferred or refused where access to an official document may adversely affect the privacy of a third party, unless exceptionally outweighed by public interest."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "8",
+      "title": "Special cases",
+      "content": "1 There is no right of access to official documents relating to joint reporting proceedings. 2 Access to official documents is granted only after the political or administrative decisions based thereon have been taken. 3 By way of exception, the Federal Council may decide to withhold access to official documents resulting from official departmental consultation processes even after decisions have been made. 4 Under no circumstances may access to official documents about the status of pending or future negotiations be granted. 5 Access to reports on the evaluation of the performance of the Federal Administration and the effectiveness of its measures is guaranteed."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "9",
+      "title": "Protection of personal data and the data of legal entities",
+      "content": "1 Official documents containing personal data or data of legal entities shall, wherever possible, be made anonymous prior to inspection. 2 Requests relating to official documents which cannot be made anonymous shall in the case of personal data in accordance with Article 36 FADP and data of legal entities be assessed in accordance with Article 57 s of the Government and Administration Organisation Act of 21 March 1997. The relevant procedure shall be governed by this Act. Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 ). SR 235.1 SR 172.010"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 3 Procedure for Access to Official Documents",
+      "section": "10",
+      "title": "Access application",
+      "content": "1 An application for access to official documents must be addressed to the authority which created the documents or received the same as primary addressee from third parties not subject to this Act. 2 The Federal Council may provide a special procedure for access to official documents by Swiss representations abroad and by missions to international organisations. 3 The application must be formulated in a sufficiently accurate manner. 4 The Federal Council shall enact regulations governing the particulars of this procedure: a. it shall take the special needs of the media into account; b. if a large number of applications cover the same document, it may stipulate other modalities governing such access; c. it may extend the processing deadlines for applications which require particularly extensive processing."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 3 Procedure for Access to Official Documents",
+      "section": "11",
+      "title": "Consultation",
+      "content": "1 Where the authority is considering granting access to official documents where access may adversely affect the privacy of a third party, it shall consult the third party concerned and give that person the opportunity to respond within ten days. 2 The authority shall inform the third party of its decision concerning the application for access. Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 Procedure for Access to Official Documents",
+      "section": "12",
+      "title": "Decision of the Authority",
+      "content": "1 The authority shall make a decision as soon as possible and in any case no later than 20 days after receipt of the application. 2 The deadline may, under exceptional circumstances, be extended by 20 days if the application for access concerns a large number of documents or documents which are complex or difficult to obtain. If an application concerns official documents where access may adversely affect the privacy of third parties. the deadline shall be extended by the required period. 3 If an application concerns official documents where access may adversely affect the privacy of third parties, the authority shall suspend access until the legal position has been clarified. 4 The authority shall inform the applicant, with a summary of the grounds, of any extension of the deadline, restriction or refusal of access. Information concerning the restriction or refusal of access, as well as the grounds therefor, shall be conveyed in writing. Second sentence amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 ). Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3 Procedure for Access to Official Documents",
+      "section": "13",
+      "title": "Mediation",
+      "content": "1 A request for mediation may be filed by any person: a. whose access to official documents has been restricted, deferred or refused; b. whose application was not decided by the authority within the deadline; c. who was consulted pursuant to Article 11, should the authority intend granting access contrary to his or her wishes. 2 The request for mediation must be filed in writing with the Federal Data Protection and Information Commissioner (FDPIC) within 20 days of receipt of the decision from the authority or the date of the authority’s failure to comply with the deadline. 3 If a settlement is reached through mediation, the proceedings are deemed to be concluded. The correction of 30 Sept. 2022, published on 25 Sept. 2023, relates to the Italian text only (AS 2023 538). Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Recommendation",
+      "content": "If no settlement is reached through mediation, the FDPIC shall provide the participants to the mediation proceedings with a written recommendation within 30 days of receipt of the request for mediation. Name in accordance with Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 ). This change has been made throughout the text."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Ruling",
+      "content": "1 Within ten days of receipt of the recommendation, the applicant or the person consulted may request a ruling pursuant to Article 5 of the Administrative Procedure Act of 20 December 1968. 2 Furthermore, the authority shall issue a ruling, where, contrary to the recommendation, it intends to: a. restrict, defer or refuse the right of access to an official document; b. grant the right of access to an official document where access may adversely affect the privacy of third parties. 3 A ruling shall be issued within 20 days of receipt of the recommendation or the request pursuant to paragraph 1 above. SR 172.021 Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Appeal",
+      "content": "1 The appeals procedure is subject to the general provisions found in the relevant legislation governing the federal administration of justice. 2 The appeal instances shall also have access to official documents which are secret. Amended by Annex No 7 the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "",
+      "content": "1 No fees are charged in the procedure for access to official documents. 2 By way of exception, fees may be charged if an application for access requires particularly extensive processing. The Federal Council shall regulate the details and fee rates on the basis of the effective costs incurred. The applicant shall be notified in advance of any intention of the authority to charge a fee and of the amount of the fee. 3 No fees are charged in any cases of mediation proceedings (Art. 13) or proceedings for the issue of a ruling (Art. 15). 4 Fees may, in all cases, be charged for providing reports, brochures and other printed material and information carriers. Amended by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ( AS 2023 584 ; BBL 2020 8337, 9369). Amended by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ( AS 2023 584 ; BBL 2020 8337, 9369). Amended by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ( AS 2023 584 ; BBL 2020 8337, 9369). Amended by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ( AS 2023 584 ; BBL 2020 8337, 9369)."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 4 The FDPIC",
+      "section": "18",
+      "title": "Duties and Competencies",
+      "content": "The FDPIC shall, in particular, have the following duties and powers under this Act: a. He or she shall conduct mediation proceedings (Art. 13) and make a recommendation (Art. 14), if mediation does not succeed. b. He or she shall provide information, ex officio or at the request of individuals or authorities, on the modalities governing access to official documents. c. He or she shall comment on draft federal legislation and federal measures which have a fundamental impact on the principle of freedom of information. Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 ). Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 ). Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 ). Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 4 The FDPIC",
+      "section": "19",
+      "title": "Evaluation",
+      "content": "1 The FDPIC shall review the execution and effectiveness of this Act and, in particular, the costs incurred in its implementation, and shall report on a regular basis to the Federal Council. 2 The FDPIC shall submit the first report on the costs of implementing this Act to the Federal Council within three years of it coming into force. 3 The FDPIC’s reports shall be published."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 4 The FDPIC",
+      "section": "20",
+      "title": "Right to information and inspection",
+      "content": "1 Within the context of mediation proceedings, the FDPIC shall have access to official documents, even if they are subject to secrecy. 2 The FDPIC shall be subject to official secrecy to the same extent as the authorities whose official documents he or she inspects or from whom he or she obtains information. Amended by Annex 1 No II 10 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ( AS 2022 491 ; BBl 2017 6941 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 5 Final Provisions",
+      "section": "21",
+      "title": "Implementation",
+      "content": "The Federal Council may, in particular, enact provisions governing the: a. processing of official documents; b. information pertaining to official documents; c. publication of official documents."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 5 Final Provisions",
+      "section": "22",
+      "title": "Amendments of existing legislation",
+      "content": "Amendments to existing legislation are regulated in the Annex."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 5 Final Provisions",
+      "section": "23",
+      "title": "Transitional provisions",
+      "content": "This Act applies to official documents produced or received by authorities after its commencement."
+    },
+    {
+      "provision_ref": "art23a",
+      "chapter": "Section 5 Final Provisions",
+      "section": "23a",
+      "title": "a Transitional provision to the Amendment of 30 September 2022",
+      "content": "The previous law applies to applications that are pending on the date that the Amendment of 30 September 2022 comes into force. Inserted by No I of the FA of 30 Sept. 2022, in force since 1 Nov. 2023 ( AS 2023 584 ; BBL 2020 8337, 9369)."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 5 Final Provisions",
+      "section": "24",
+      "title": "Referendum and commencement",
+      "content": "1 This Act shall be subject to optional referendum. 2 The Federal Council shall determine the commencement date. Commencement date: 1 July 2006 FCD of 24 May 2006."
+    }
+  ],
+  "definitions": []
+}
