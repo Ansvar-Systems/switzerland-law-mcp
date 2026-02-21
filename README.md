@@ -123,6 +123,29 @@ Once connected, just ask naturally:
 
 ---
 
+## Key Legislation Covered
+
+| Law | SR Number | Significance |
+|-----|-----------|-------------|
+| **Federal Act on Data Protection (nFADP/DSG)** | SR 235.1 | New data protection law effective Sep 1, 2023; replaces 1992 DPA; aligns with GDPR with Swiss-specific features (fines on individuals, no DPO requirement) |
+| **Federal Act on Information Security (ISA)** | SR 128.1 | Federal information security framework for government and critical infrastructure |
+| **Telecommunications Act (TCA)** | SR 784.10 | Regulates telecommunications services and infrastructure |
+| **Code of Obligations (OR)** | SR 220 | Core contract and company law; contains corporate governance provisions |
+| **Swiss Criminal Code (StGB)** | SR 311.0 | Art. 143bis criminalizes unauthorized computer access; Art. 143 covers data theft; Art. 144bis covers data damage |
+| **Federal Act on Electronic Signatures (ZertES)** | SR 943.03 | Electronic signatures and certification services framework |
+| **Federal Act on Surveillance of Post and Telecommunications (BÜPF)** | SR 780.1 | Lawful interception and telecommunications surveillance framework |
+| **Federal Constitution** | SR 101 | Art. 13 guarantees the right to privacy; foundational for all data protection law |
+
+---
+
+## Deployment Tier
+
+**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+
+**Estimated database size:** ~100-180 MB (full corpus of Swiss federal legislation via Fedlex)
+
+---
+
 ## Available Tools (13)
 
 ### Core Legal Research Tools (8)
