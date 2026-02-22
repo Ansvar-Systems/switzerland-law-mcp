@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-02-22
+### Added
+- `data/census.json` — full corpus census (10 laws, 2,714 provisions) for coverage auditing
+- Golden-standard contract tests with in-memory MCP client/server and `skipIf` guards for nightly-only network tests
+- Streamable HTTP remote endpoint in `server.json` (`https://switzerland-law-mcp.vercel.app/mcp`)
+
+### Changed
+- Upgraded `golden.test.ts` from structural-only fixture validation to full integration tests that call tools via MCP SDK
+- Fixed golden test fixtures to use correct tool parameter names (`document_id`/`section` instead of `law_identifier`/`article`)
+- `server.json` now uses `packages` format with both stdio and streamableHttp transports
+
 ## [1.0.0] - 2026-XX-XX
 ### Added
 - Initial release of Switzerland Law MCP
@@ -25,5 +36,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - npm package with stdio transport
 - MCP Registry publishing
 
-[Unreleased]: https://github.com/Ansvar-Systems/switzerland-law-mcp/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Ansvar-Systems/switzerland-law-mcp/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/Ansvar-Systems/switzerland-law-mcp/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/Ansvar-Systems/switzerland-law-mcp/releases/tag/v1.0.0

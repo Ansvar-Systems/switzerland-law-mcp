@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "jurisdiction": "CH",
+  "portal": "fedlex.admin.ch",
+  "generated": "2026-02-22",
+  "total_laws": 10,
+  "total_provisions": 2714,
+  "laws": [
+    {
+      "id": "sr-101",
+      "title": "Bundesverfassung der Schweizerischen Eidgenossenschaft",
+      "provisions": 232
+    },
+    {
+      "id": "sr-128-1",
+      "title": "Bundesgesetz über die Informationssicherheit beim Bund (Informationssicherheitsgesetz, ISG)",
+      "provisions": 106
+    },
+    {
+      "id": "sr-161-1",
+      "title": "Bundesgesetz über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)",
+      "provisions": 25
+    },
+    {
+      "id": "sr-220",
+      "title": "Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Obligationenrecht)",
+      "provisions": 1575
+    },
+    {
+      "id": "sr-235-1",
+      "title": "Bundesgesetz über den Datenschutz (Datenschutzgesetz, DSG)",
+      "provisions": 77
+    },
+    {
+      "id": "sr-235-11",
+      "title": "Verordnung über den Datenschutz (Datenschutzverordnung, DSV)",
+      "provisions": 48
+    },
+    {
+      "id": "sr-311-0",
+      "title": "Schweizerisches Strafgesetzbuch",
+      "provisions": 470
+    },
+    {
+      "id": "sr-780-1",
+      "title": "Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF)",
+      "provisions": 49
+    },
+    {
+      "id": "sr-784-10",
+      "title": "Fernmeldegesetz (FMG)",
+      "provisions": 109
+    },
+    {
+      "id": "sr-943-03",
+      "title": "Bundesgesetz über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate (Bundesgesetz über die elektronische Signatur, ZertES)",
+      "provisions": 23
+    }
+  ]
+}

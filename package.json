@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/switzerland-law-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "mcpName": "eu.ansvar/switzerland-law-mcp",
   "description": "Switzerland law database covering federal data protection (nFADP/DSG), information security, telecommunications, code of obligations, criminal code cybercrime provisions, and electronic signatures with full-text search",
   "author": "Ansvar Systems AB <hello@ansvar.ai>",
@@ -36,6 +36,7 @@
   "files": [
     "dist",
     "data/database.db",
+    "data/census.json",
     "server.json"
   ],
   "scripts": {
