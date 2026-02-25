@@ -1,0 +1,50 @@
+{
+  "id": "sr-281-311",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 24. November 2015 über die vom Gläubiger zu stellenden Begehren im Schuldbetreibungs- und Konkursverfahren",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/828/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt die formellen Vorgaben an die vom Gläubiger zu stellenden Begehren im Schuldbetreibungs- und Konkursverfahren. Sie regelt ausserdem das Vorgehen der Betreibungs- und Konkursämter in Fällen, in denen eine Gläubigereingabe diesen Vorgaben nicht entspricht. 2 Für die Anforderungen an die elektronische Übermittlung von Begehren gilt die Verordnung des EJPD vom 9. Februar 2011 über die elektronische Übermittlung im Bereich Schuldbetreibung und Konkurs. SR 281.112.1"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Anzahl zulässige Forderungen in einem Begehren",
+      "content": "1 In einem Betreibungsbegehren können höchstens zehn Forderungen geltend gemacht werden. Diese müssen nicht in einem sachlichen Zusammenhang stehen. 2 Eine Zinsforderung auf einem Teilbetrag der Hauptforderung ist als selbstständige Forderung einzugeben. Bestehen mehrere Zinsforderungen, kann deren mittlerer Zins als eine Zinsforderung geltend gemacht werden."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Inhalt und Umfang des Forderungsgrunds",
+      "content": "1 Für die Angabe der Forderungsurkunde oder des Forderungsgrundes (Art. 67 Abs. 1 Ziff. 4 SchKG) der ersten Forderung (Hauptforderung) stehen 640 Zeichen zur Verfügung. 2 Für die Angabe der Forderungsurkunde oder des Forderungsgrundes (Art. 67 Abs. 1 Ziff. 4 SchKG) der zweiten bis und mit der zehnten Forderung stehen jeweils 80 Zeichen zur Verfügung."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Teilzahlungen",
+      "content": "1 Jede Forderung ist als Nettobetrag anzugeben, samt allfälligem Zinssatz und Fälligkeitsdatum in Bezug auf den Nettobetrag. 2 Auf allfällige Teilzahlungen kann in der Angabe des Forderungsgrundes hingewiesen werden."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Nichteinhaltung der Vorgaben",
+      "content": "1 Entspricht ein eingehendes Begehren nicht oder nur teilweise den Vorgaben dieser Verordnung, so gibt das Betreibungsamt dem Gläubiger unter Hinweis auf den Mangel Gelegenheit zur Nachbesserung. Das Betreibungsamt kann Vorschläge zur Behebung des Mangels unterbreiten. 2 Entspricht das erneute Begehren weiterhin nicht den Vorgaben des Gesetzes und dieser Verordnung, so wird es abgewiesen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,159 @@
+{
+  "id": "sr-832-312-17",
+  "type": "statute",
+  "title": "Verordnung vom 5. April 1966 über die Verhütung von Unfällen und Berufskrankheiten bei der Erstellung und dem Betrieb von Lacktrocken- und Lackeinbrennöfen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1966/582_602_598/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Geltungsbereich und Vorbehalte",
+      "content": "1 Diese Verordnung ist auf alle der obligatorischen Unfallversicherung gemäss Bundesgesetz vom 13. Juni 1911 über die Kranken- und Unfallversicherung unterstellten Betriebe anwendbar, die Lacktrocken- und Lackeinbrennöfen (Öfen) verwenden, in denen brennbare Lösungsmittel ausgetrieben werden. 2 Vorbehalten sind die bau- und feuerpolizeilichen Vorschriften der Kantone und Gemeinden, soweit sie dieser Verordnung nicht widersprechen. SR 832.10 . Heute: Krankenversicherungsgesetz. Siehe heute das Unfallversicherungsgesetz ( SR 832.20 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Entlüftung",
+      "content": "Die Öfen sind derart natürlich oder künstlich zu entlüften, dass die Lösungsmittelkonzentration im Innern der Ofenkammer mit Sicherheit unter der unteren Explosionsgrenze bleibt. Ofenkammern, die betreten werden, sind so weit zu entlüften, dass auch die Vergiftungsgefahr beseitigt ist."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Sicherung der Brenner",
+      "content": "Bei Öfen mit Gas- oder Ölheizung müssen die Brenner mit einer Sicherung versehen sein, die beim Erlöschen der Zünd- bzw. Heizflammen die Brennstoffzufuhr selbsttätig unterbricht."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Abtropfen von Farben und Lacken",
+      "content": "Sofern mit dem Abtropfen von Farben oder Lacken zu rechnen ist, muss dafür gesorgt werden, dass sich die Tropfen nicht an heissen Teilen entzünden können."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Öfen mit natürlicher Entlüftung",
+      "section": "5",
+      "title": "Zulässigkeit natürlicher Entlüftung",
+      "content": "Natürliche Entlüftung ist zulässig, wenn: a. die Beschickung der Öfen derart erfolgt, dass der Gehalt der Luft an Lösungsmitteldämpfen in den Ofenkammern 50 Prozent der untern Explosionsgrenze nicht übersteigt. Wenn die Art der Lösungsmittel derart wechselt, dass eine untere Explosionsgrenze nicht festgelegt werden kann, darf der Gehalt an Lösungsmitteldämpfen 15 g/m 3 nicht übersteigen; b. der Sauerstoffgehalt in der Ofenkammer mit Hilfe von Verbrennungsgasen der Ofenheizung oder inerten Gasen so weit herabgesetzt wird, dass sich keine explosionsfähigen Dampfluftgemische bilden können. Der entsprechende Nachweis muss anhand von Berechnungen oder Messungen erbracht werden."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Öfen mit natürlicher Entlüftung",
+      "section": "6",
+      "title": "Absperrorgane",
+      "content": "In die Belüftungs- und Entlüftungsöffnungen dürfen keine Absperrorgane eingebaut werden, es sei denn, sie seien so verriegelt, dass sie während der Benützung des Ofens offen stehen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "1. Öfen mit natürlicher Entlüftung",
+      "section": "7",
+      "title": "Behinderung durch andere Lüftungsanlagen",
+      "content": "Die Ofenentlüftung darf durch andere Lüftungsanlagen nicht behindert werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Öfen mit natürlicher Entlüftung",
+      "section": "8",
+      "title": "Ausmündung der Abluftkanäle",
+      "content": "Die Abluft ist derart ins Freie zu führen, dass die austretenden Gase und Dämpfe nicht in Gebäude zurückkehren können. Die Ausmündung des Abluftkanals ist so anzuordnen, dass ein Brand im Innern des Kanals nicht auf die Umgebung übergreifen kann."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Öfen mit künstlicher Entlüftung",
+      "section": "9",
+      "title": "Notwendigkeit künstlicher Entlüftung",
+      "content": "Künstliche Entlüftung ist notwendig, wenn sich ohne sie in den Ofenkammern explosionsfähige Dampfluftgemische bilden können."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Öfen mit künstlicher Entlüftung",
+      "section": "10",
+      "title": "Stärke der Entlüftung",
+      "content": "Die Entlüftung ist derart zu bemessen, dass der Gehalt der Luft an Lösungsmitteldämpfen in den Ofenkammern 50 Prozent der unteren Explosionsgrenze nicht übersteigt. Wenn die Art der Lösungsmittel derart wechselt, dass eine untere Explosionsgrenze nicht festgelegt werden kann, darf der Gehalt an Lösungsmitteldämpfen 15 g/m 3 nicht übersteigen. Der entsprechende Nachweis muss anhand von Berechnungen oder Messungen erbracht werden, sofern durch die Entlüftung in der Ofenkammer während der Trocknungsperiode nicht mindestens ein fünffacher Luftwechsel pro Minute erreicht wird."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Öfen mit künstlicher Entlüftung",
+      "section": "11",
+      "title": "Steuerung der Entlüftung bei Einkammeröfen",
+      "content": "Bei Öfen mit Luftumwälzung ist die künstliche Lüftung derart selbsttätig zu steuern, dass der in Artikel 10 vorgeschriebene Gehalt an Lösungsmitteldämpfen nicht überschritten wird. Kann diese Bedingung auf andere Weise nicht erfüllt werden, darf das Umstellen auf Luftumwälzung erst erfolgen, nachdem die Ofenkammer bei geschlossener Türe während mindestens 15 Minuten entlüftet worden ist und die Temperatur in der Ofenkammer 90 Prozent der eingestellten Einbrenntemperatur erreicht hat."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "2. Öfen mit künstlicher Entlüftung",
+      "section": "12",
+      "title": "Steuerung der Entlüftung bei Mehrkammeröfen",
+      "content": "Erfolgt das Einbrennen in einer besonderen Einbrennkammer, so ist die Türe zwischen der Trocken- und Einbrennkammer so zu verriegeln, dass sie sich erst öffnen lässt, wenn in der Einbrennkammer der in Artikel 10 vorgeschriebene Gehalt an Lösungsmitteldämpfen nicht mehr überschritten werden kann. Sofern diese Bedingung auf andere Weise nicht erfüllt werden kann, darf sich die Türe erst öffnen lassen, nachdem mindestens 15 Minuten seit dem Schliessen der Trockenkammer verflossen sind und die Temperatur in der letzteren 90 Prozent der Einbrenntemperatur erreicht hat."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "2. Öfen mit künstlicher Entlüftung",
+      "section": "13",
+      "title": "Durchlauföfen",
+      "content": "Bei Durchlauföfen gelten sowohl für die Trockenzone als auch für die Einbrennzone die Vorschriften von Artikel 10."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Öfen mit künstlicher Entlüftung",
+      "section": "14",
+      "title": "Verriegelung der Heizung und der Lüftung",
+      "content": "Die Heizung und die Lüftung sind z. B. mit Hilfe von Zentrifugalschaltern oder Strömungswächtern derart miteinander zu verriegeln, dass die Heizung nicht betrieben werden kann, wenn die Lüftung nicht läuft. Bei Durchlauföfen muss zudem bei Ausfall der Lüftung die Fördereinrichtung stillgelegt oder ein deutlich wahrnehmbares Warnsignal betätigt werden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "2. Öfen mit künstlicher Entlüftung",
+      "section": "15",
+      "title": "Ausmündung der Abluftkanäle",
+      "content": "Die Abluft ist derart ins Freie zu führen, dass die Dämpfe, die sie enthält, vor Entzündung gesichert sind und weder in Gebäude noch in die Frischluftleitungen oder in die Kanalisation gelangen können. Die Ausmündung des Abluftkanals ist so anzuordnen, dass ein Brand im Innern des Kanals nicht auf die Umgebung übergreifen kann."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Zuführung der Frischluft",
+      "content": "Entsteht durch die Absaugung am Ofen oder an andern Anlagen im Aufstellungsraum ein Unterdruck, der die Ofenentlüftung beeinträchtigt, so ist die Frischluft für den Ofen aus dem Freien anzusaugen oder für hinreichende künstliche Frischluftzufuhr in den Raum zu sorgen. Die in den Raum eingeblasene Frischluft muss, falls sie im Freien angesaugt wird, bei kalter Witterung erwärmt werden können."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Löscheinrichtungen",
+      "content": "In der Nähe von Lacktrocken- und Lackeinbrennöfen sind geeignete Feuerlösch-geräte bereitzustellen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "III. Schlussbestimmungen",
+      "section": "18",
+      "title": "Anpassung bestehender Anlagen",
+      "content": "Zur Anpassung bestehender Öfen an die Bestimmungen dieser Verordnung wird eine Übergangsfrist von drei Jahren eingeräumt, die von der Schweizerischen Unfallversicherungsanstalt auf fünf Jahre ausgedehnt werden kann, wenn grössere Anschaffungen oder Umstellungen notwendig sind und die bestehenden Abweichungen keine erhebliche Gefährdung darstellen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "III. Schlussbestimmungen",
+      "section": "19",
+      "title": "Ausnahmebestimmung",
+      "content": "Die Schweizerische Unfallversicherungsanstalt kann in besonderen Fällen Ausnahmen von den Vorschriften dieser Verordnung gestatten oder andere als die in der Verordnung vorgeschriebenen Massnahmen anordnen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "III. Schlussbestimmungen",
+      "section": "20",
+      "title": "Straf- und Zwangsmassnahmen",
+      "content": "Widerhandlungen gegen die in dieser Verordnung enthaltenen Vorschriften unterliegen den Straf- und Zwangsmassnahmen gemäss den Artikeln 66 und 103 des Bundesgesetzes vom 13. Juni 1911 über die Kranken- und Unfallversicherung. SR 832.10 . Heute: Krankenversicherungsgesetz. Die Art. 66 und 103 sind aufgehoben. Siehe heute die Art. 92, 112 und 113 des Unfallversicherungsgesetzes ( SR 832.20 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "III. Schlussbestimmungen",
+      "section": "21",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 1966 in Kraft."
+    }
+  ],
+  "definitions": []
+}

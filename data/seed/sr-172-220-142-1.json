@@ -1,0 +1,820 @@
+{
+  "id": "sr-172-220-142-1",
+  "type": "statute",
+  "title": "Vorsorgereglement vom 3. Dezember 2007 des Vorsorgewerks ETH-Bereich für die Mitarbeiterinnen und Mitarbeiter des ETH-Bereichs (VR-ETH 1)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/191/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Das vorliegende Reglement bildet Bestandteil des Anschlussvertrages vom 19. Oktober 2007 für das Vorsorgewerk ETH-Bereich. 2 Es regelt die Versicherung gegen die wirtschaftlichen Folgen von Alter, Tod und Invalidität im Rahmen des Vorsorgewerks ETH-Bereich. BBl 2008 6004"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "1 Dieses Reglement gilt für das Vorsorgewerk ETH-Bereich (Arbeitgeber ETH-Rat, ETHZ, EPFL, PSI, WSL, EMPA, EAWAG), die Mitarbeiterinnen und Mitarbeiter nach Artikel 1 Absatz 1 der Personalverordnung ETH-Bereich (PVO-ETH), die Rentenbeziehenden dieser Personalkategorie und für Personen, die nach Artikel 18 d weiterversichert sind. 2 Es gilt auch für Personen, denen PUBLICA infolge Scheidung Leistungen ausrichtet. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Vorsorgepläne",
+      "content": "1 Es bestehen drei Vorsorgepläne, welche je nach Funktionsstufe beziehungsweise Anstellungsvertrag jeder angestellten Person eindeutig zugewiesen sind: a. Standardplan: für die Versicherung der angestellten Personen bis und mit Funktionsstufe 9 und für die pauschal entschädigten Personen; b. Kaderplan 1: für die Versicherung der angestellten Personen ab Funktionsstufe 10 bis und mit Funktionsstufe 12; c. Kaderplan 2: für die Versicherung der angestellten Personen ab Funktionsstufe 13. 2 Zu jedem dieser Vorsorgepläne kann die versicherte Person zudem aus zwei Zusatzvorsorgeplänen (Art. 25) wählen, in denen sie höhere Sparbeiträge leistet."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Leistungsziel",
+      "content": "Die dem vorliegenden Reglement zugrunde liegenden Modellrechnungen basieren auf dem Rücktrittsalter 65."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Abkürzungen",
+      "content": "Die in diesem Reglement verwendeten Abkürzungen sind im Anhang 8 aufgeführt."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Eingetragene Partnerschaft",
+      "content": "Die eingetragene Partnerschaft nach dem PartG ist der Ehe gleichgestellt. Die Wirkungen der gerichtlichen Auflösung der eingetragenen Partnerschaft sind denjenigen der Scheidung gleichgestellt."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "7",
+      "title": "Abtretung und Verpfändung der Ansprüche",
+      "content": "Die Ansprüche aus diesem Reglement dürfen vor Fälligkeit weder abgetreten noch verpfändet werden und sind auch nicht pfändbar. Vorbehalten sind die Bestimmungen des 10. Kapitels (Wohneigentumsförderung)."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Zins, Verzugszins",
+      "content": "Soweit dieses Reglement nichts Abweichendes festlegt, werden die für die Verzinsung anwendbaren Sätze jährlich von der Kassenkommission bestimmt. Die Zinssätze sind im Anhang 1 aufgeführt."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Verwaltungskosten, Gebühren der Aufsichtsbehörde und Beiträge an den Sicherheitsfonds BVG",
+      "content": "Die Finanzierung der Verwaltungskosten, der Gebühren der Aufsichtsbehörde und der Beiträge an den Sicherheitsfonds BVG bildet Gegenstand einer separaten anschlussvertraglichen Vereinbarung zwischen dem Arbeitgeber und PUBLICA."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Auskunfts- und Meldepflichten der Versicherten, Rentenbeziehenden und Hinterlassenen",
+      "content": "1 Neu zu versichernde angestellte Personen sowie Versicherte, Rentenbeziehende und ihre Hinterlassenen sind verpflichtet, über alle Tatsachen, welche die Beziehung zu PUBLICA betreffen, wahrheitsgetreu Auskunft zu erteilen und alle erforderlichen Unterlagen einzureichen. 2 Versicherte und Rentenbeziehende, die Anspruch auf Leistungen von PUBLICA haben, oder deren Hinterlassene haben insbesondere unverzüglich schriftlich zu melden: a. die Heirat, die Wiederverheiratung oder das Eingehen einer Lebenspartnerschaft im Falle eines Anspruches auf Ehegatten- oder Lebenspartnerrente; b. den Abschluss der Ausbildung oder die Erlangung der Erwerbsfähigkeit eines Kindes, für das ein Anspruch auf Kinder- bzw. Waisenrente über das 18. Altersjahr hinaus besteht; c. den Tod der versicherten oder der rentenbeziehenden Person. 3 Versicherte und Rentenbeziehende mit Anspruch auf Invalidenleistungen von PUBLICA haben darüber hinaus die anrechenbaren Leistungen und Einkünfte nach Artikel 77 Absatz 1, deren Veränderungen sowie Änderungen des Invaliditätsgrades und der Rentenhöhe unverzüglich und unaufgefordert schriftlich zu melden. 4 Ansprüche gegenüber anderen Versicherungen oder Haftpflichtigen sind PUBLICA unverzüglich und unaufgefordert schriftlich zu melden. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 21. März und 16. Okt. 2019, vom BR genehmigt am 6. Dez. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 4735 ). Berichtigung vom 28. Jan. 2020 ( AS 2020 351 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Juli 2022 ( AS 2022 393 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Mai 2018 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Folgen der Verletzung der Auskunfts- und Meldepflichten",
+      "content": "1 Neu zu versichernde angestellte Personen sowie Versicherte, Rentenbeziehende und ihre Hinterlassenen haben PUBLICA die Kosten für den Mehraufwand, der PUBLICA infolge unterlassener, unrichtiger oder verspäteter Angaben erwächst, zu ersetzen. Die Einzelheiten werden im Kostenreglement festgehalten. 2 Als Verletzung der Auskunfts- oder Meldepflicht gilt die nicht rechtzeitige Erteilung der Auskunft oder der Meldung und die Verweigerung der Auskunftserteilung oder Meldung. 3 Verletzt eine versicherte Person, die das Gesuch um Ausrichtung von Leistungen von PUBLICA gestellt hat, eine ihr obliegende Auskunfts- oder Meldepflicht, sistiert PUBLICA die Abklärungen betreffend den Leistungsanspruch und entscheidet erst nach Eingang der erforderlichen Informationen über den Anspruch. 4 Verletzt eine versicherte oder eine rentenbeziehende Person, die Anspruch auf Leistungen von PUBLICA hat, eine ihr obliegende Auskunfts- oder Meldepflicht, sistiert PUBLICA die Auszahlung der Leistungen bis zum Eingang der erforderlichen Informationen. 5 Leistungen werden in jedem Fall erst ausbezahlt, wenn die anspruchsberechtigte Person alle zur Beurteilung des Leistungsanspruches notwendigen Unterlagen beigebracht hat. Bei verspäteter Einreichung dieser Unterlagen werden die Leistungen ohne Zinsen ausbezahlt."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "",
+      "content": "1 Mit der Aufnahme in PUBLICA erhält die versicherte Person einen Vorsorgeausweis. Dieser enthält die für sie massgebenden Angaben über die berufliche Vorsorge. Die versicherten Personen erhalten mindestens einmal pro Jahr einen Vorsorgeausweis zugestellt. 2 PUBLICA informiert die versicherten Personen mindestens einmal pro Jahr in geeigneter Weise über ihre Organisation und die Finanzierung sowie über die Zusammensetzung des paritätischen Organs. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4751 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4751 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Meldepflicht des Arbeitgebers",
+      "content": "1 Der Arbeitgeber meldet PUBLICA fristgerecht die zu versichernden angestellten Personen sowie die Daten, die für die Führung der beruflichen Vorsorge benötigt werden, insbesondere den massgebenden Jahreslohn, den Beschäftigungsgrad, den Zivilstand, das Heiratsdatum sowie die relevanten Daten der Kinder, für die ein Anspruch auf Leistungen nach den Artikeln 41, 47 und 58 besteht. Der Arbeitgeber ist für die Vollständigkeit und die Richtigkeit der Angaben verantwortlich. 2 Bei verspäteter Meldung einer Änderung wird das Versicherungsverhältnis der versicherten Person auf den Zeitpunkt der tatsächlichen Änderung der Verhältnisse korrigiert."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Kapitel: Versicherte Personen",
+      "section": "14",
+      "title": "Voraussetzungen für die Aufnahme in die Versicherung",
+      "content": "Angestellte Personen werden ab dem 1. Januar nach Vollendung des 17. Altersjahres gegen die Risiken Tod und Invalidität versichert. Ab dem 1. Januar nach Vollendung des 21. Altersjahres werden sie auch für das Alter versichert."
+    },
+    {
+      "provision_ref": "art1516",
+      "chapter": "2. Kapitel: Versicherte Personen",
+      "section": "1516",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 21. März und 16. Okt. 2019, vom BR genehmigt am 6. Dez. 2019, mit Wirkung seit 1. Jan. 2020 ( AS 2019 4735 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "2. Kapitel: Versicherte Personen",
+      "section": "17",
+      "title": "Nicht zu versichernde Personen",
+      "content": "Nicht in die Versicherung bei PUBLICA aufgenommen werden angestellte Personen: a. für die ein befristetes Arbeitsverhältnis von höchstens drei Monaten begründet wurde; wird der Arbeitsvertrag verlängert, so beginnt die Versicherungspflicht in dem Zeitpunkt, in dem die Verlängerung vereinbart wurde; b. die bei einem Arbeitgeber des Vorsorgewerks ETH-Bereich lediglich nebenberuflich tätig sind und bereits für eine hauptberufliche Erwerbstätigkeit obligatorisch versichert sind oder im Hauptberuf eine selbständige Erwerbstätigkeit ausüben; c. die im Sinne des IVG zu mindestens 70 Prozent invalid sind; c bis . die nach Artikel 26 a BVG bei der leistungspflichtigen Vorsorgeeinrichtung provisorisch weiterversichert werden; d. deren Jahreslohn weniger als der Grenzbetrag gemäss Artikel 7 BVG beträgt; e. die das 65. Altersjahr vollendet haben; oder f. die nicht oder voraussichtlich nicht dauernd in der Schweiz tätig sind und im Ausland über einen genügenden Versicherungsschutz verfügen, auf deren Gesuch hin. Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. Kapitel: Versicherte Personen",
+      "section": "18",
+      "title": "Ende der Versicherung",
+      "content": "1 Die Versicherung endet: a. mit der Beendigung des Arbeitsverhältnisses, sofern in diesem Zeitpunkt kein Anspruch auf Alters- oder Invalidenleistungen fällig wird und die Versicherung nicht nach Artikel 18 d weitergeführt wird; b. bei Vollendung des 65. Altersjahres, unter Vorbehalt von Artikel 18 b ; c. … 2 Für die Risiken Tod und Invalidität bleibt die betreffende Person während eines Monats nach Beendigung des Arbeitsverhältnisses bei PUBLICA versichert. Die Leistungen entsprechen jenen, die bei Beendigung des Arbeitsverhältnisses versichert waren. Wird vorher ein neues Vorsorgeverhältnis begründet, so ist die neue Vorsorgeeinrichtung zuständig. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, mit Wirkung seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art18a",
+      "section": "18a",
+      "title": "a Aufrechterhalten des Vorsorgeschutzes bei unbezahltem Urlaub",
+      "content": "Während eines unbezahlten oder teilweise bezahlten Urlaubs kann die versicherte Person unter Berücksichtigung von Artikel 29 und nach Massgabe der arbeitsrechtlichen Bestimmungen den bisherigen Versicherungsschutz ganz oder teilweise aufrechterhalten. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art18b",
+      "section": "18b",
+      "title": "b Weiterführung der Altersvorsorge nach Vollendung des 65. Altersjahres",
+      "content": "Bei Fortsetzung des Arbeitsverhältnisses nach dem vollendeten 65. Altersjahr wird die Altersvorsorge der versicherten Person bis zur Beendigung des Arbeitsverhältnisses, höchstens aber bis zur Vollendung des 70. Altersjahres weitergeführt. Auf Verlangen der versicherten Person kann auf die Weiterführung der Altersvorsorge verzichtet werden. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art18c",
+      "section": "18c",
+      "title": "c Weiterführung der Vorsorge bei Verminderung des massgebenden Jahreslohnes",
+      "content": "1 Wird der massgebende Jahreslohn einer versicherten Person nach Vollendung des 58. Altersjahres um maximal die Hälfte reduziert, so kann auf Verlangen der versicherten Person die Vorsorge für den bisherigen versicherten Verdienst ganz oder teilweise weitergeführt werden. 2 Die Weiterversicherung des bisherigen versicherten Verdienstes dauert höchstens bis zum Ende des Arbeitsverhältnisses. Sie endet in jedem Fall spätestens mit Vollendung des 65. Altersjahres. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art18d",
+      "section": "18d",
+      "title": "d Weiterführung der Versicherung bei Auflösung des Arbeitsverhältnisses durch den Arbeitgeber oder in gegenseitigem Einvernehmen",
+      "content": "1 Wird das Arbeitsverhältnis einer versicherten Person nach Vollendung des 58. Altersjahres und vor Vollendung des 65. Altersjahres vom Arbeitgeber oder in gegenseitigem Einvernehmen, aber auf Veranlassung des Arbeitgebers aufgelöst, so wird auf Verlangen der versicherten Person die Versicherung nach Artikel 47 a Absätze 2–6 BVG weitergeführt. Die Anmeldung zur Weiterführung der Versicherung muss innerhalb von drei Monaten nach Auflösung des Arbeitsverhältnisses in schriftlicher Form bei PUBLICA eingehen. 2 Die versicherte Person schuldet die Verwaltungskosten gemäss Kostenreglement und die Risikoprämie für die Versicherung der Risiken Tod und Invalidität. Führt sie auch die Altersvorsorge weiter, so schuldet sie zudem nebst den eigenen Sparbeiträgen auch die Sparbeiträge des Arbeitgebers; sie kann freiwillige Sparbeiträge leisten. Massgebend für die Berechnung der Sparbeiträge und der Risikoprämie ist der versicherte Verdienst im Zeitpunkt der Auflösung des Arbeitsverhältnisses. Die versicherte Person kann diesen ganz oder halb weiterversichern. Während der Weiterführung der Versicherung werden das Altersguthaben und die freiwilligen Sparbeiträge verzinst. 3 Die Weiterführung der Versicherung endet bei Eintritt der Risiken Tod oder Invalidität oder bei Vollendung des 65. Altersjahres. Bei Teilinvalidität wird der versicherte Verdienst entsprechend dem Anspruch auf Invalidenrente gekürzt. 4 Tritt die versicherte Person vor Vollendung des 65. Altersjahres in eine neue Vorsorgeeinrichtung ein, so wird die Austrittsleistung mindestens in dem Umfang überwiesen, der für den Einkauf in die vollen reglementarischen Leistungen der neuen Vorsorgeeinrichtung verwendet werden kann. 5 Verbleibt nach dieser Überweisung mindestens ein Drittel der Austrittsleistung bei PUBLICA, so wird die Versicherung weitergeführt. Der versicherte Verdienst wird entsprechend der überwiesenen Austrittsleistung gekürzt. 6 Verbleibt nach der Überweisung weniger als ein Drittel der Austrittsleistung bei PUBLICA, so endet die Versicherung. Der verbleibende Teil der Austrittsleistung wird: a. als Altersleistung an die versicherte Person ausgerichtet, wenn diese das 60. Altersjahr vollendet hat; b. an eine Freizügigkeitseinrichtung überwiesen, wenn die versicherte Person das 60. Altersjahr noch nicht vollendet hat. 7 Endet die Versicherung infolge Kündigung durch die versicherte Person oder Kündigung durch PUBLICA wegen Beitragsausständen, so wird die Austrittsleistung: a. als Altersleistung an die versicherte Person ausgerichtet, wenn diese das 60. Altersjahr vollendet hat; b. an eine Freizügigkeitseinrichtung überwiesen, wenn die versicherte Person das 60. Altersjahr noch nicht vollendet hat. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "3. Kapitel: Bemessungsgrundlagen",
+      "section": "19",
+      "title": "Massgebender Jahreslohn",
+      "content": "1 Der Arbeitgeber ermittelt den für die Versicherung massgebenden Jahreslohn der versicherten Personen und teilt ihn PUBLICA mit. 2 Die für die Ermittlung des massgebenden Jahreslohnes ausschlaggebenden Kriterien sind durch den Arbeitgeber für jede Kategorie von versicherten Personen nach einheitlichen Grundsätzen unter Beachtung der Bestimmungen des BVG und seiner Ausführungsbestimmungen festzulegen. 3 Der massgebende Jahreslohn darf das AHV-pflichtige Einkommen der versicherten Person nicht übersteigen. Vorbehalten bleiben die Artikel 18 a und 18 c . 4 Der Arbeitgeber kann den massgebenden Jahreslohn zum Voraus aufgrund des letzten bekannten Jahreslohnes bestimmen. Für das laufende Jahr bereits vereinbarte Änderungen sind dabei zu berücksichtigen. Wo der Beschäftigungsgrad oder die Einkommenshöhe stark schwanken, wird der massgebende Jahreslohn aufgrund des Durchschnittslohnes der jeweiligen Berufsgruppe pauschal festgesetzt. 5 Bei stark schwankenden Löhnen bestimmt sich die Beitragspflicht nach dem massgebenden Jahreslohn gemäss AHV-Lohnbescheinigung. Bis zur definitiven Abrechnung schuldet der Arbeitgeber PUBLICA Akontobeiträge. 6 Ist eine versicherte Person weniger als ein Jahr angestellt, so gilt als massgebender Jahreslohn der Lohn, den sie bei ganzjähriger Beschäftigung erzielen würde. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "3. Kapitel: Bemessungsgrundlagen",
+      "section": "20",
+      "title": "Versicherter Verdienst",
+      "content": "1 Der versicherte Verdienst entspricht dem massgebenden Jahreslohn, vermindert um den Koordinationsbetrag. 2 Der Koordinationsbetrag entspricht 30 Prozent des massgebenden Jahreslohnes, höchstens aber dem unteren Grenzbetrag nach Artikel 8 Absatz 1 BVG. 3 Bei einer teilinvaliden versicherten Person gilt für die Berechnung des versicherten Verdienstes Artikel 21 sinngemäss. 4 Als Bemessungsgrundlage für den höchsten beibehaltenen versicherten Verdienst gilt der versicherte Verdienst, der unmittelbar vor einer Reduktion galt. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "3. Kapitel: Bemessungsgrundlagen",
+      "section": "21",
+      "title": "Teilzeitbeschäftigung",
+      "content": "Bei teilzeitbeschäftigten versicherten Personen entspricht der massgebende Jahreslohn dem Lohn, der bei einem Beschäftigungsgrad von 100 Prozent erzielt würde. Der versicherte Verdienst entspricht dem massgebenden Jahreslohn, vermindert um den Koordinationsbetrag und umgerechnet auf den für die Versicherung massgebenden Beschäftigungsgrad. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 24. März 2012, vom ETH-Rat genehmigt am 26. Sept. 2013 und vom BR am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Nicht versicherbarer Verdienst",
+      "content": "Einkommen, das bei einem nicht zum ETH-Bereich gehörenden Arbeitgeber oder durch selbständige Erwerbstätigkeit erzielt wird, kann nicht bei PUBLICA versichert werden."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "4. Kapitel: Sparbeiträge, Risikoprämie, eingebrachte Austrittsleistungen und Einkauf und Einkauf",
+      "section": "23",
+      "title": "Sparbeiträge und Risikoprämie",
+      "content": "Massgebend für die Berechnung der Sparbeiträge sowie der Risikoprämie ist der versicherte Verdienst."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "4. Kapitel: Sparbeiträge, Risikoprämie, eingebrachte Austrittsleistungen und Einkauf und Einkauf",
+      "section": "24",
+      "title": "Sparbeiträge",
+      "content": "1 Die Sparbeiträge werden ab dem 1. Januar nach vollendetem 21. Altersjahr erhoben. Sie werden nach Alter gestaffelt. Die Summe der Sparbeiträge gemäss Absatz 2 bilden die jeweiligen Altersgutschriften. 2 Für die einzelnen Vorsorgepläne gelten folgende Sparbeiträge: a. Standardplan für angestellte Personen bis und mit Funktionsstufe 9 und für die pauschal entschädigten Personen: Altersstaffelung (Beitragsklasse) Sparbeitrag der angestellten Person (%) Sparbeitrag des Arbeitgebers (%) Altersgutschriften Total (%) 22–34 4,80 8,45 13,25 35–44 6,05 10,70 16,75 45–54 9,45 16,75 26,20 55–65 12,15 21,60 33,75 66–70 4,80 8,45 13,25 b. Kaderplan 1 für angestellte Personen ab Funktionsstufe 10 bis und mit Funktionsstufe 12: Altersstaffelung (Beitragsklasse) Sparbeitrag der angestellten Person (%) Sparbeitrag des Arbeitgebers (%) Altersgutschriften Total (%) 22–34 4,80 8,45 13,25 35–44 6,05 10,70 16,75 45–54 10,50 18,60 29,10 55–65 13,15 23,45 36,60 66–70 4,80 8,45 13,25 c. Kaderplan 2 für angestellte Personen ab Funktionsstufe 13: Altersstaffelung (Beitragsklasse) Sparbeitrag der angestellten Person (%) Sparbeitrag des Arbeitgebers (%) Altersgutschriften Total (%) 22–34 5,80 10,30 16,10 35–44 7,05 12,50 19,55 45–54 11,50 20,50 32,00 55–65 14,25 25,30 39,55 66–70 5,80 10,30 16,10. 3 Das Alter für die Festlegung der Sparbeiträge und damit der Altersgutschriften entspricht der Differenz zwischen dem laufenden Kalenderjahr und dem Geburtsjahr der versicherten Person. 4 Die Änderung der Beitragsklassen gemäss Absatz 1 erfolgt auf den 1. Januar des Jahres, in dem die entsprechende Altersklasse erreicht wird. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Juli 2022 ( AS 2022 393 )."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Zusatzvorsorgepläne",
+      "content": "1 Die versicherte Person kann zusätzlich zu den Sparbeiträgen nach Artikel 24 freiwillige Sparbeiträge leisten, indem sie den Zusatzvorsorgeplan 1 oder 2 wählt. 2 Versicherte im Standardplan können zwischen folgenden Zusatzvorsorgeplänen wählen: Altersstaffelung (Beitragsklasse) Zusatzvorsorgeplan 1 Freiwilliger Sparbeitrag (%) Zusatzvorsorgeplan 2 Freiwilliger Sparbeitrag (%) 22–44 2,00 4,00 45–70 3,00 6,00. 2bis Versicherte im Kaderplan 1 können zwischen folgenden Zusatzvorsorgeplänen wählen: Altersstaffelung (Beitragsklasse) Zusatzvorsorgeplan 1 Freiwilliger Sparbeitrag (%) Zusatzvorsorgeplan 2 Freiwilliger Sparbeitrag (%) 22–44 2,00 4,00 45–70 3,00 5,00. 3 Versicherte im Kaderplan 2 können zwischen folgenden Zusatzvorsorgeplänen wählen: Altersstaffelung (Beitragsklasse) Zusatzvorsorgeplan 1 Freiwilliger Sparbeitrag (%) Zusatzvorsorgeplan 2 Freiwilliger Sparbeitrag (%) 22–44 2,00 1,50 45–70 2,00 3,50. 4 Der Arbeitgeber meldet PUBLICA, ob und welchen Zusatzvorsorgeplan die versicherte Person gewählt hat, die Änderung des Planes oder den vollständigen Verzicht darauf. Die Mutation wird jeweils auf den ersten Tag des Folgemonats nach der Meldung wirksam. 5 … 6 Grundlage für die Festsetzung des freiwilligen Sparbeitrags ist der versicherte Verdienst der versicherten Person. 7 Die freiwilligen Sparbeiträge werden nicht dem Altersguthaben, sondern einem separaten Sparkonto (ZP-Konto) gutgeschrieben. Vorbezüge im Rahmen der Wohneigentumsförderung (Art. 92) oder Übertragungen infolge Scheidung (Art. 99 Abs. 2 erster Satz) vermindern das ZP-Konto entsprechend. Für die Führung des ZP-Kontos gelten die gleichen Regeln wie für die Führung des Altersguthabens (Art. 36). Der Zinssatz für die freiwilligen Sparbeiträge beziehungsweise für das ZP-Konto ist in Anhang 1 festgelegt. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 2465 ). Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 2465 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 2465 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 ). Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, mit Wirkung seit 1. Jan. 2013 ( AS 2013 993 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Risikoprämie",
+      "content": "1 Für die Versicherung der Risiken Tod und Invalidität wird eine Risikoprämie erhoben, welche in Prozenten des versicherten Lohnes bemessen wird. Der Prozentsatz ist für alle Alter gleich. 2 Die Risikoprämie wird von der versicherten Person und vom Arbeitgeber bezahlt. Der Anteil der versicherten Person an der Risikoprämie beträgt, unabhängig davon, in welchem Plan sie versichert ist, 0,55 Prozent des versicherten Verdienstes. Die Höhe der vom Arbeitgeber zu bezahlenden Risikoprämie beträgt mindestens 0,55 Prozent. 3 Vorbehalten bleibt die Bezahlung der Risikoprämie bei einer Weiterführung der Versicherung nach Artikel 18 d. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 2465 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Bezahlung der Sparbeiträge und der Risikoprämie",
+      "content": "1 Die Sparbeiträge und die Risikoprämie sind gesamthaft vom Arbeitgeber geschuldet. Sie sind PUBLICA monatlich zu überweisen. 2 Der Sparbeitrag (Art. 24 und Art. 25) und die Risikoprämie (Art. 26) der versicherten Person wird dieser monatlich vom Lohn abgezogen. Der Sparbeitrag gemäss Artikel 24 und die Risikoprämie gemäss Artikel 26, die von der versicherten Person zu bezahlen sind, sowie der vom Arbeitgeber zu leistende Sparbeitrag sind in der Tabelle im Anhang 2 aufgeführt. 2bis Bei einer Weiterführung der Versicherung nach Artikel 18 d sind die Sparbeiträge und die Risikoprämie gesamthaft von der versicherten Person geschuldet. Sie werden dieser monatlich in Rechnung gestellt. 3 Die Beitrags- und Prämienpflicht besteht ab Aufnahme in die Versicherung. 4 Sie endet: a. beim Tod der versicherten Person; b. bei Invalidität nach Artikel 53; c. mit Beendigung des Arbeitsverhältnisses; c bis . mit Beendigung der Weiterführung der Versicherung nach Artikel 18 d ; d. spätestens aber mit Vollendung des 65. Altersjahres der versicherten Person für die Risikoprämie und spätestens mit Vollendung des 70. Altersjahres der versicherten Person für die Sparbeiträge (Art. 24 und Art. 25); 5 Artikel 28 bleibt vorbehalten. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "",
+      "content": "1 Erfolgt die Aufnahme der versicherten Person in die Versicherung vor dem 15. des Monats, wird der ganze Monatsbeitrag geschuldet. Erfolgt die Aufnahme der versicherten Person am 15. des Monats oder später, sind die Beiträge ab dem 1. Tag des Folgemonats geschuldet. 2 Erfolgt der Austritt (letzter Tag des Arbeitsverhältnisses) der versicherten Person vor dem 15. des Monats, ist für diesen Monat kein Beitrag geschuldet. Erfolgt der Austritt der versicherten Person am 15. des Monats oder später, ist der ganze Monatsbeitrag geschuldet. 3 Die Regelung nach den Absätzen 1 und 2 gilt bei unbezahltem Urlaub (Art. 29) und Weiterführung der Vorsorge bei Verminderung des massgebenden Jahreslohnes (Art. 29 a ) sinngemäss. 4 Beim Tod der versicherten Person ist der Beitrag für den gesamten Monat geschuldet. Fassung gemäss Ziff. II der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Urlaub",
+      "content": "1 Während eines unbezahlten oder teilweise bezahlten Urlaubs bleibt die Versicherung während eines Monats unverändert. 2 Die versicherte Person kann den Versicherungsschutz ab dem zweiten Monat des Urlaubs aufrechterhalten, indem sie nebst den eigenen Sparbeiträgen und der Risikoprämie auch die Sparbeiträge und die Risikoprämie des Arbeitgebers bezahlt. Führt sie die Versicherung nur für die Risiken Tod und Invalidität weiter, wird das vorhandene Altersguthaben und das ZP-Konto bis zur Beendigung des Urlaubs verzinst (vgl. Anhang 1)."
+    },
+    {
+      "provision_ref": "art29a",
+      "section": "29a",
+      "title": "a Sparbeiträge und Risikoprämie im Falle der Weiterführung der Vorsorge bei Verminderung des massgebenden Jahreslohnes",
+      "content": "1 Führt die versicherte Person bei Verminderung des massgebenden Jahreslohnes ihre Vorsorge nach Artikel 18 c weiter, so hat sie für die Weiterversicherung des bisherigen versicherten Verdienstes nebst den eigenen Sparbeiträgen und der Risikoprämie auch die Sparbeiträge und die Risikoprämie des Arbeitgebers zu bezahlen (Art. 24 und 26). 2 Eine allfällige finanzielle Beteiligung des Arbeitgebers an der Weiterführung der Vorsorge erfolgt nach Massgabe der arbeitsrechtlichen Vorschriften. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Eingebrachte Austrittsleistungen",
+      "content": "Austrittsleistungen anderer Vorsorgeeinrichtungen und Guthaben bei Freizügigkeitseinrichtungen müssen bei Aufnahme in PUBLICA überwiesen werden. Sie werden in vollem Umfang dem Altersguthaben der versicherten Person gutgeschrieben."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, mit Wirkung seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "",
+      "content": "1 Der Einkauf in die reglementarischen Leistungen ist unter Vorbehalt von Absatz 4 innerhalb der vom BVG festgelegten Grenzen gemäss Anhang 3 möglich. Massgebend sind, unter Vorbehalt von Artikel 32 b Absatz 2, das Alter und der versicherte Verdienst im Zeitpunkt des Einkaufs. Für versicherte Personen, deren massgebender Jahreslohn aufgrund von Artikel 19 Absatz 4 festgelegt wird, ist der zwölffache Betrag des durchschnittlichen monatlichen versicherten Verdienstes, berechnet auf höchstens die letzten 12 Monate, massgebend. 2 … 3 Bezügerinnen und Bezüger von Altersleistungen können sich nur so weit in reglementarische Leistungen einkaufen, als diese den Vorsorgeschutz, wie er vor dem Eintritt des Vorsorgefalls Alter bestanden hat, übersteigen. 4 Einkäufe, die nach Eintritt der Arbeitsunfähigkeit getätigt wurden, die zur Invalidität geführt hat, werden rückabgewickelt (Art. 57 Abs. 3). 5 Wurden Vorbezüge für die Wohneigentumsförderung getätigt, so dürfen Einkäufe erst vorgenommen werden, wenn die Vorbezüge zurückbezahlt sind. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, mit Wirkung seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Mai 2018 ( AS 2018 2465 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art32a",
+      "section": "32a",
+      "title": "a Einkauf mit Einmaleinlage bis zur Vollendung des 65. Altersjahres",
+      "content": "Die versicherte Person kann im Rahmen von Artikel 32 innerhalb von 90 Tagen ab Aufnahme in die Versicherung die Höhe des ersten Einkaufs frei bestimmen. Nach Ablauf dieser Frist beträgt der Mindestbetrag für einen Einkauf 5000 Franken. Ist die verbleibende mögliche Einkaufssumme geringer als 5000 Franken, so ist die gesamte Summe in einer Zahlung zu entrichten. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art32b",
+      "section": "32b",
+      "title": "b Einkauf mit Einmaleinlage nach Vollendung des 65. Altersjahres",
+      "content": "1 Ein Einkauf nach Vollendung des 65. Altersjahres ist im Rahmen von Artikel 32 möglich, wenn die versicherte Person: a. sich bei Vollendung des 65. Altersjahres nicht vollständig eingekauft hat; und b. seit Vollendung des 65. Altersjahres die Altersvorsorge nach Artikel 18 b weitergeführt hat. 2 Massgebend für die Berechnung der Einkaufssumme sind: a. der versicherte Verdienst bei Vollendung des 65. Altersjahres; b. der Faktor (in Prozent des versicherten Verdienstes) für Alter 65 gemäss Anhang 3; und c. das im Zeitpunkt des Einkaufs vorhandene Altersguthaben. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art32c",
+      "section": "32c",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011 ( AS 2012 2091 ). Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, mit Wirkung seit 1. Mai 2018 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Erhöhung der Altersrente bei Rücktritt vor Vollendung des 65. Altersjahres",
+      "content": "1 Frühestens mit der Anmeldung zum Rentenbezug vor Vollendung des 65. Altersjahres kann die versicherte Person durch einen Einkauf ihre Altersrente maximal bis zur Höhe ihrer versicherten Invalidenrente erhöhen. Für diese Berechnung der Altersrente bleibt ein allfälliges ZP-Konto unberücksichtigt. Erfolgt die Meldung dieses Einkaufs weniger als drei Monate vor dem Rücktritt, werden der versicherten Person die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt. 2 Diese Erhöhung der Altersrente kann nur mittels einer einmaligen Direktzahlung erfolgen. 3 Trifft das Geld für die Finanzierung der Erhöhung der Altersrente nach dem Altersrücktritt der versicherten Person bei PUBLICA ein, wird es zurückerstattet."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "5. Kapitel: Sanierungsmassnahmen",
+      "section": "34",
+      "title": "Massnahmen bei Unterdeckung",
+      "content": "1 Ergibt die versicherungstechnische Überprüfung eine Unterdeckung im Sinne des BVG, sind vom paritätischen Organ unter Beachtung der gesetzlichen Vorschriften Sanierungsmassnahmen umzusetzen. 2 Das paritätische Organ kann vom Arbeitgeber, von den Versicherten und, im Rahmen von Artikel 65 d Absatz 3 Buchstabe b BVG, von den Rentenbeziehenden befristet einen Sanierungsbeitrag erheben, sofern andere Massnahmen nicht zum Ziel führen. Der Beitrag des Arbeitgebers muss mindestens so hoch sein wie die Summe der Beiträge der Versicherten. 3 Ein Sanierungsbeitrag kann nur mit Zustimmung des Arbeitgebers erhoben werden, soweit damit überobligatorische Leistungen finanziert werden. 4 Der Sanierungsbeitrag wird für die Berechnung der Austrittsleistung, der Alters-, Invaliden- sowie der Todesfallleistungen nicht berücksichtigt. 5 Wird ein Sanierungsbeitrag erhoben, informiert das paritätische Organ des Vorsorgewerks ETH-Bereich die versicherten Personen und die Rentenbeziehenden über: a. den Satz oder den Betrag; b. die vorgesehene Dauer; c. die Aufteilung zwischen dem Arbeitgeber und den Versicherten; d. den Zahlungsmodus. 6 Sofern sich die Erhebung von Sanierungsbeiträgen als ungenügend erweist, kann der Mindestzinssatz auf dem BVG-Altersguthaben während der Dauer der Unterdeckung, längstens aber während fünf Jahren um bis zu 0,5 Prozent unterschritten werden. 7 Der Arbeitgeber kann im Falle einer Unterdeckung Einlagen in ein gesondertes Konto Arbeitgeberbeitragsreserve mit Verwendungsverzicht vornehmen oder Mittel der ordentlichen Arbeitgeberbeitragsreserve auf dieses Konto übertragen. 8 Bei Unterdeckung kann die Auszahlung eines Vorbezugs zeitlich und betragsmässig eingeschränkt oder ganz verweigert werden, wenn der Vorbezug der Rückzahlung von Hypothekardarlehen dient. Die Einschränkung oder Verweigerung der Auszahlung ist nur für die Dauer der Unterdeckung möglich. Das paritätische Organ muss die versicherte Person, welcher die Auszahlung eingeschränkt oder verweigert wird, über die Dauer und das Ausmass der Massnahme informieren."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "5. Kapitel: Sanierungsmassnahmen",
+      "section": "35",
+      "title": "Bezahlung der Sanierungsbeiträge",
+      "content": "1 Die vom Arbeitgeber und von den versicherten Personen zu leistenden Sanierungsbeiträge sind gesamthaft vom Arbeitgeber geschuldet. 2 Der Abzug des Beitragsanteils erfolgt: a. bei den versicherten Personen monatlich vom Lohn; b. bei den Rentenbeziehenden monatlich von der Rente. 3 Bei einer Weiterführung der Versicherung nach Artikel 18 d schuldet die versicherte Person ihren Sanierungsbeitrag. Dieser wird ihr in Rechnung gestellt. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "1. Abschnitt: Altersleistungen",
+      "section": "36",
+      "title": "Altersguthaben",
+      "content": "1 Für jede versicherte Person wird ein individuelles Altersguthaben gebildet. 2 Das Altersguthaben setzt sich zusammen aus: a. den Altersgutschriften nach Artikel 24; b. den eingebrachten Austrittsleistungen nach Artikel 30; c. den Beträgen, die nach Artikel 99 Absatz 1 infolge Scheidung gutgeschrieben worden sind; d. den Einkäufen nach den Artikeln 32 a und 32 b ; d bis . … d ter . den Wiedereinkäufen nach Scheidung nach Artikel 99 Absatz. 2 dritter Satz; e. den Rückzahlungen der für Wohneigentum vorbezogenen Beträge oder der Einzahlung des aus der Pfandverwertung des Vorsorgeguthabens erzielten Erlöses; f. allfälligen Zusatzgutschriften; g. dem vom Arbeitgeber allfällig geleisteten Einkauf; h. den Zinsen nach Anhang 1. 3 Vom Altersguthaben werden abgezogen: a. Vorbezüge im Rahmen der Wohneigentumsförderung oder aus der Pfandverwertung des Vorsorgeguthabens erzielte Erlöse (Art. 91); b. der Anteil der Austrittsleistung, der infolge Scheidung zugunsten des berechtigten Ehegatten oder der berechtigten Ehegattin übertragen wurde (Art. 99 Absatz 2 erster Satz); c. … 4 Die Altersgutschriften werden im laufenden Jahr ohne Zins dem Altersguthaben gutgeschrieben. 5 Der Zins nach Anhang 1 wird nach dem Stand des Altersguthabens am Ende des Vorjahres berechnet und am Ende des laufenden Kalenderjahres dem Altersguthaben gutgeschrieben. 6 Eingebrachte Austrittsleistungen und Einkäufe werden für das betreffende Jahr pro rata temporis verzinst (Anhang 1). Auszahlungen gemäss Absatz 3 werden für das betreffende Jahr pro rata temporis verzinst und reduzieren das Altersguthaben entsprechend. 7 Tritt der Vorsorgefall ein oder verlässt die versicherte Person das Vorsorgewerk während des laufenden Jahres, wird der Zins nach Anhang 1 für das laufende Jahr auf dem Stand des Altersguthabens am Ende des Vorjahres pro rata temporis berechnet. 8 Das paritätische Organ legt jeweils Ende Jahr für das laufende Jahr den Zinssatz für die Verzinsung des Altersguthabens aufgrund des provisorischen Jahresergebnisses und der Vermögens- und Ertragssituation des Vorsorgewerks ETH-Bereich sowie den Zinssatz für die Verzinsung bei der Berechnung der Austrittsleistung im folgenden Jahr fest. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011 ( AS 2012 2091 ). Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, mit Wirkung seit 1. Mai 2018 ( AS 2018 2465 ). Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011 ( AS 2012 2091 ). Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, mit Wirkung seit 1. Mai 2018 ( AS 2018 2465 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Juli 2022 ( AS 2022 393 )."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Beginn und Ende des Anspruchs auf eine Altersleistung",
+      "content": "1 Der Anspruch auf eine Altersleistung beginnt frühestens am Monatsersten nach vollendetem 60. Altersjahr der versicherten Person mit der Beendigung des Arbeitsverhältnisses und spätestens am Monatsersten nach vollendetem 70. Altersjahr. 2 Er erlischt am Ende des Monats, in dessen Verlauf die rentenbeziehende Person stirbt. 3 Hat eine versicherte Person bei Beendigung des Arbeitsverhältnisses Anspruch auf eine Altersrente und hat sie das 70. Altersjahr noch nicht vollendet, so kann sie statt der Altersrente verlangen, dass ihr die Austrittsleistung an die Vorsorgeeinrichtung des neuen Arbeitgebers überwiesen wird. Wenn sie das 65. Altersjahr noch nicht vollendet hat und als arbeitslos gemeldet ist oder eine selbstständige Erwerbstätigkeit aufnimmt, kann sie statt der Altersrente die Überweisung der Austrittsleistung an eine Freizügigkeitseinrichtung verlangen (Art. 84). 4 Die versicherte Person muss die Überweisung der Austrittsleistung spätestens 30 Tage vor der Beendigung des Arbeitsverhältnisses schriftlich PUBLICA beantragen. Erfolgt der Antrag weniger als 30 Tage vor Beendigung des Arbeitsverhältnisses oder nach dessen Beendigung, so können der versicherten Person die dafür vorgesehenen Verwaltungskosten in Rechnung gestellt werden, sofern das Kostenreglement dies vorsieht. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Teilpensionierung",
+      "content": "1 Reduziert die versicherte Person nach dem vollendeten 60. Altersjahr ihren Beschäftigungsgrad, so hat sie Anspruch auf eine Teilaltersleistung entsprechend der Reduktion des Beschäftigungsgrads. Der Teilpensionierungsgrad entspricht der Reduktion des Beschäftigungsgrades. 2 Die versicherte Person kann nach dem vollendeten 60. Altersjahr ein oder mehrere Male eine Teilaltersleistung verlangen. 3 Das Altersguthaben sowie ein allfälliges Guthaben auf einem ZP-Konto (Art. 25) werden bei Teilpensionierung anteilmässig in eine Teilaltersleistung nach Artikel 39 umgewandelt. Die verbleibenden Teile des Altersguthabens und des Guthabens auf dem ZP-Konto werden weitergeführt. Der verbleibende versicherte Verdienst wird gemäss den Bestimmungen für die Teilzeitbeschäftigung (Art. 21) berechnet. 4 Hat eine versicherte Person bei Beendigung des Arbeitsverhältnisses Anspruch auf eine Teilaltersrente und hat sie das 70. Altersjahr noch nicht vollendet, so gilt Artikel 37 Absätze 3 und 4 sinngemäss. Vorbehalten bleibt die Weiterführung der Vorsorge nach Artikel 18 c . Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Altersrente",
+      "content": "1 Die Altersleistung wird, vorbehältlich Artikel 40, als Rente ausbezahlt. 2 Der Betrag der jährlichen Altersrente bestimmt sich nach dem im Zeitpunkt der Pensionierung vorhandenen Altersguthaben nach Artikel 36, erhöht um ein allfälliges Guthaben aus dem ZP-Konto (Art. 25), multipliziert mit dem für das Pensionierungsalter massgebenden Umwandlungssatz im Zeitpunkt der Pensionierung gemäss Anhang 4; bei Scheidung vorbehalten ist Artikel 99 Absätze 4 und 5. 3 Der Umwandlungssatz wird auf den Monat genau ermittelt. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Kapitalbezug",
+      "content": "1 Bei Altersrücktritt können bis zu 100 Prozent der Summe aus dem Altersguthaben nach Artikel 36 sowie aus einem allfälligen Guthaben aus dem ZP-Konto (Art. 25), als einmalige Kapitalabfindung bezogen werden. Erfolgt die Meldung des Kapitalbezugs weniger als drei Monate vor dem Rücktritt, so werden der versicherten Person die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt. Die Überweisung der Kapitalabfindung erfolgt nach Bezahlung des Verwaltungskostenbeitrages. 2 … 2bis Wird das Arbeitsverhältnis einer versicherten Person, die eine Kapitalabfindung beziehen kann, ohne deren Verschulden durch den Arbeitgeber aufgelöst, so kann die versicherte Person den Kapitalbezug oder die einmalige Änderung eines bereits gemeldeten Kapitalbezugs bis zum Altersrücktritt melden. Für die Bezahlung der Verwaltungskosten gilt Absatz 1 sinngemäss. 3 Bei verheirateten versicherten Personen setzt der Bezug einer Kapitalabfindung die schriftliche Zustimmung des Ehegatten oder der Ehegattin mittels beglaubigter Unterschrift voraus. Statt die Unterschrift beglaubigen zu lassen, kann der Ehegatte oder die Ehegattin bei PUBLICA die Zustimmungserklärung persönlich unter Vorlage eines amtlichen Personalausweises unterschreiben. 4 Im Umfang des Bezugs einer Kapitalabfindung werden die Altersrente und die damit versicherten übrigen Leistungen mit Ausnahme der Überbrückungsrente gekürzt. 5 Wurden Einkäufe (Art. 32, 32 a, 32 b und 33) getätigt, so dürfen die daraus resultierenden Leistungen innerhalb der nächsten drei Jahre nicht in Kapitalform aus der Vorsorge zurückgezogen werden. Von der Begrenzung ausgenommen sind die Wiedereinkäufe im Fall der Scheidung nach Artikel 22 d FZG. 6 Der Kapitalbezug ist ausgeschlossen, wenn die Weiterführung der Versicherung nach Artikel 18 d mehr als zwei Jahre gedauert hat. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 ). Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022, mit Wirkung seit 1. Jan. 2021 ( AS 2022 74 ). Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Mai 2018 ( AS 2018 2465 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Anspruch auf Alters-Kinderrente",
+      "content": "1 Bezügerinnen und Bezüger einer Altersrente haben Anspruch auf eine Alters-Kinderrente für jedes Kind, das im Falle ihres Todes eine Waisenrente beanspruchen könnte. 2 Für Kinder, die nach Vollendung des 18. Altersjahres in Ausbildung sind, ist jährlich und unaufgefordert ein Ausbildungsnachweis zu erbringen. Ohne diesen Nachweis wird die Auszahlung der Alters-Kinderrente eingestellt."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Höhe der Alters-Kinderrente",
+      "content": "Die Alters-Kinderrente beträgt einen Sechstel der laufenden Altersrente; bei Scheidung vorbehalten ist Artikel 99 Absatz 6 erster Satz. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "2. Abschnitt: Hinterlassenenleistungen",
+      "section": "43",
+      "title": "Grundsatz",
+      "content": "1 Ein Anspruch auf Hinterlassenenleistungen besteht, wenn die verstorbene Person: a. im Zeitpunkt des Todes oder bei Beginn der Arbeitsunfähigkeit, deren Ursache zum Tode geführt hat, bei PUBLICA versichert war (Art. 18 Bst. a BVG); b. infolge eines Geburtsgebrechens bei Aufnahme einer Erwerbstätigkeit mindestens zu 20 Prozent, aber weniger als zu 40 Prozent arbeitsunfähig war und bei Erhöhung der Arbeitsunfähigkeit, deren Ursache zum Tod geführt hat, auf mindestens 40 Prozent versichert war (Art. 18 Bst. b BVG); c. als Minderjährige invalid (Art. 8 Abs. 2 ATSG) wurde und deshalb bei Aufnahme einer Erwerbstätigkeit mindestens zu 20 Prozent, aber weniger als zu 40 Prozent arbeitsunfähig war und bei Erhöhung der Arbeitsunfähigkeit, deren Ursache zum Tod geführt hat, auf mindestens 40 Prozent versichert war (Art. 18 Bst. c BVG); oder d. von PUBLICA im Zeitpunkt des Todes eine Alters- oder Invalidenrente erhielt (Art. 18 Bst. d BVG). 2 Ein allfälliges, noch vorhandenes Guthaben aus dem ZP-Konto (Art. 25) wird in jedem Fall als einmalige Kapitalabfindung in nachstehender Reihenfolge ausbezahlt: a. an den überlebenden Ehegatten oder die überlebende Ehegattin; b. an die Kinder mit Anspruch auf Waisenrente; c. an die natürlichen Personen, die von der verstorbenen Person in erheblichem Masse unterstützt worden sind, oder die Person, die mit dieser in den letzten fünf Jahren vor ihrem Tod ununterbrochen eine Lebensgemeinschaft geführt hat oder die für den Unterhalt eines oder mehrerer gemeinsamer Kinder aufkommen muss; d. an die Kinder ohne Anspruch auf Waisenrente; e. an die Eltern; f. an die Geschwister; g. an die gesetzlichen Erben unter Ausschluss des Gemeinwesens. 3 Die Kapitalabfindung steht mehreren Anspruchsberechtigten derselben Begünstigtengruppe zu gleichen Teilen zu."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "2. Abschnitt: Hinterlassenenleistungen",
+      "section": "44",
+      "title": "Anspruch auf Ehegattenrente",
+      "content": "1 Beim Tod der versicherten oder der eine Alters- oder Invalidenrente beziehenden Person hat der überlebende Ehegatte oder die überlebende Ehegattin Anspruch auf eine Ehegattenrente, wenn er oder sie: a. für den Unterhalt mindestens eines Kindes aufkommen muss; b. das 40. Altersjahr vollendet hat und mindestens zwei Jahre mit der verstorbenen Person verheiratet war; oder c. eine ganze Rente nach IVG bezieht oder innert zweier Jahre seit dem Tod des Ehegatten oder der Ehegattin Anspruch auf eine solche Rente bekommt. 2 Erfüllt der überlebende Ehegatte oder die überlebende Ehegattin keine dieser Voraussetzungen, so hat er oder sie: a. beim Tod der versicherten Person Anspruch auf eine einmalige Abfindung in der Höhe von drei Ehegatten-Jahresrenten, mindestens aber auf das Todesfallkapital nach Artikel 50; b. beim Tod der rentenbeziehenden Person Anspruch auf eine einmalige Abfindung in der Höhe von drei Ehegatten-Jahresrenten. 2bis Entsteht in einem Fall nach Absatz 2 ein Anspruch auf Ehegattenrente, nachdem der überlebende Ehegatte oder die überlebende Ehegattin die Abfindung erhalten hat, so wird diese an die Ehegattenrente angerechnet. 3 Der Anspruch auf die Ehegattenrente beginnt mit dem Tod der versicherten Person, frühestens aber nach dem Tag, an dem der Anspruch der verstorbenen Person auf Lohn, Lohnnachgenuss, Alters- oder Invalidenrente aufhört. 4 Der Anspruch erlischt bei Wiederverheiratung oder beim Tod. 5 Der geschiedene Ehegatte oder die geschiedene Ehegattin ist dem Witwer oder der Witwe betreffend Leistungsanspruch gemäss Absatz 1 gleichgestellt, sofern: a. die Ehe mindestens zehn Jahre gedauert hat; und b. ihm oder ihr infolge Scheidung eine Rente nach Artikel 124 e Absatz 1 oder 126 Absatz 1 ZGB zugesprochen worden ist. 5bis Der Anspruch des geschiedenen Ehegatten oder der geschiedenen Ehegattin nach Absatz 5 besteht, solange die infolge Scheidung zugesprochene Rente geschuldet gewesen wäre. 6 Die Höhe der Ehegattenrente für den geschiedenen Ehegatten oder die geschiedene Ehegattin richtet sich nach Artikel 46 Absatz 3. 7 Ein Anspruch auf die einmalige Abfindung gemäss Absatz 2 besteht für den geschiedenen Ehegatten oder die geschiedene Ehegattin nicht. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Anspruch auf Lebenspartnerrente",
+      "content": "1 Beim Tod der versicherten oder der eine Alters- oder Invalidenrente beziehenden Person hat die überlebende Lebenspartnerin oder der überlebende Lebenspartner Anspruch auf eine Lebenspartnerrente, wenn sie oder er keine Ehegattenrente oder keine aus einem anderen Vorsorgefall bereits laufende Lebenspartnerrente einer Vorsorgeeinrichtung der 2. Säule bezieht und: a. das 40. Altersjahr vollendet hat und mit der versicherten Person mindestens in den letzten fünf Jahren vor dem Tod ununterbrochen eine Lebenspartnerschaft geführt hat; oder b. für den Unterhalt eines oder mehrerer gemeinsamer Kinder, die gemäss vorliegendem Reglement Anspruch auf Waisenrenten haben, aufkommen muss. 2 Der Anspruch auf eine Lebenspartnerrente besteht nur, wenn die Lebenspartnerschaft PUBLICA in Form eines Lebenspartnervertrages schriftlich gemeldet worden ist. Dieser von beiden Lebenspartnern unterzeichnete Lebenspartnervertrag ist im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zuzustellen. 3 Eine Lebenspartnerschaft im Sinne dieser Bestimmung ist eine eheähnliche Lebensgemeinschaft von nicht verheirateten Personen unterschiedlichen oder gleichen Geschlechts, die untereinander nicht verwandt sind und deren Partnerschaft nicht gemäss dem Partnerschaftsgesetz eingetragen ist. Als Lebenspartnerschaft gilt auch eine eheähnliche Lebensgemeinschaft von verwandten Personen, zwischen denen kein Ehehindernis besteht. 4 Der Anspruch auf die Lebenspartnerrente beginnt mit dem Tod der versicherten Person, frühestens aber nach dem Tag, an dem der Anspruch der verstorbenen versicherten Person auf Lohn, Lohnnachgenuss, Alters- oder Invalidenrente aufhört. Der Anspruch ist bis spätestens sechs Monate nach dem Tod der versicherten Person geltend zu machen. 5 Die Dauer einer Lebenspartnerschaft wird an die darauf folgende Ehedauer gemäss den Anspruchsvoraussetzungen von Artikel 44 Absatz 1 Buchstabe b für die Ehegattenrente angerechnet, unter der Voraussetzung, dass ein von beiden Lebenspartnern unterzeichneter Vertrag im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zugestellt wurde. 6 Die Anspruchsberechtigung wird erst im Zeitpunkt der Geltendmachung des Anspruchs geprüft. Auf Verlangen von PUBLICA hat der überlebende Lebenspartner oder die überlebende Lebenspartnerin PUBLICA die notwendigen Angaben zuzustellen. Dazu gehören namentlich: a. der Nachweis der Wohngemeinde, mit welchem der gemeinsame Wohnsitz in den letzten 5 Jahren vor dem Tod der versicherten Person belegt wird, oder der Nachweis, dass in den letzten 5 Jahren vor dem Tod der versicherten Person ein gemeinsamer Haushalt bestanden hat; b. Bestätigungen über den Zivilstand beider Lebenspartner oder Lebenspartnerinnen; c. Informationen betreffend die gemeinsamen Kinder; d. weitere Dokumente wie Scheidungsurteile oder Rentenverfügungen. 7 Der Anspruch erlischt: a. bei Heirat, beim Eingehen einer Lebenspartnerschaft im Sinne dieses Artikels oder beim Tod des überlebenden Lebenspartners oder der überlebenden Lebenspartnerin; b. wenn der überlebende Lebenspartner oder die überlebende Lebenspartnerin Anspruch auf eine Ehegattenrente infolge Tod seiner geschiedenen Ehegattin oder ihres geschiedenen Ehegatten hat. 8 Ergeben sich bei der Abklärung der Anspruchsvoraussetzungen Zweifel, namentlich wenn gleichzeitig Ansprüche gemäss Artikel 49 (Todesfallkapital) geltend gemacht werden, darf PUBLICA Leistungen erst erbringen, wenn die Abklärungen abgeschlossen sind. Zins für aufgeschobene Leistungsausrichtung ist nicht geschuldet."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Höhe der Ehegatten- und Lebenspartnerrente",
+      "content": "1 Die Ehegatten- und die Lebenspartnerrente betragen: a. beim Tod einer versicherten Person, die das 65. Altersjahr noch nicht erreicht hat: zwei Drittel der versicherten Invalidenrente; b. beim Tod einer Person, die eine Alters- oder Invalidenrente bezieht: zwei Drittel der laufenden Altersrente oder der versicherten Invalidenrente; c. beim Tod einer versicherten Person, die das 65. Altersjahr vollendet hat: zwei Drittel der im Zeitpunkt des Todes von der versicherten Person erworbenen Altersrente, berechnet auf der Grundlage des Altersguthabens nach Artikel 36. 2 Ist der überlebende Ehegatte beziehungsweise Lebenspartner oder die überlebende Ehegattin beziehungsweise Lebenspartnerin mehr als 15 Jahre jünger als die verstorbene versicherte Person und hat die Ehe beziehungsweise die Lebenspartnerschaft weniger als 5 Jahre gedauert und muss die überlebende Person nicht für den Unterhalt von wenigstens einem Kind aufkommen, so wird die Rente um zwei Prozent ihres vollen Betrages für jedes ganze oder angebrochene Jahr gekürzt, um das die überlebende anspruchsberechtigte Person mehr als 15 Jahre jünger ist als die versicherte Person. 3 Die Ehegattenrente nach Artikel 44 Absatz 5 entspricht dem Betrag der Ehegattenrente gemäss BVG (BVG-Minimalleistung). 4 Sie wird um jenen Betrag gekürzt, um den sie zusammen mit den Hinterlassenenleistungen der AHV den Anspruch aus dem Scheidungsurteil übersteigt. Hinterlassenenrenten der AHV werden dabei nur so weit angerechnet, als sie höher sind als ein eigener Anspruch auf eine Invalidenrente der IV oder eine Altersrente der AHV. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Anspruch auf Waisenrente",
+      "content": "1 Die Kinder einer verstorbenen versicherten oder einer eine Alters- oder Invalidenrente beziehenden Person haben Anspruch auf eine Waisenrente. 2 Der Anspruch auf eine Waisenrente beginnt nach dem Tage, an dem der Anspruch der verstorbenen versicherten Person auf Lohn, Lohnnachgenuss, Alters- oder Invalidenrente aufhört. 3 Der Anspruch auf eine Waisenrente erlischt mit dem Tod des Waisen oder der Waise oder mit Vollendung des 18. Altersjahres. Er besteht jedoch bis zur Vollendung des 25. Altersjahres für Kinder: a. bis zum Abschluss der Ausbildung; b. bis zur Erlangung der Erwerbsfähigkeit, sofern sie zu mindestens 70 Prozent invalid sind. 4 Für Kinder, die nach Vollendung des 18. Altersjahres in Ausbildung sind, ist jährlich und unaufgefordert ein Ausbildungsnachweis zu erbringen. Ohne diesen Nachweis wird die Auszahlung der Waisenrente eingestellt. 5 Anspruch auf eine Waisenrente haben auch Pflege- und Stiefkinder, für deren Unterhalt die versicherte Person aufzukommen hatte."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Höhe der Waisenrente",
+      "content": "1 Die Waisenrente beträgt: a. beim Tod einer versicherten Person, die das 65. Altersjahr noch nicht erreicht hat: einen Sechstel der versicherten Invalidenrente; b. beim Tod einer Person, die eine Alters- oder Invalidenrente bezieht: einen Sechstel der laufenden Altersrente oder der versicherten Invalidenrente; bei Scheidung vorbehalten ist Artikel 99 Absatz 6 zweiter Satz; c. beim Tod einer versicherten Person, die das 65. Altersjahr vollendet hat: einen Sechstel der im Zeitpunkt des Todes der versicherten Person erworbenen Altersrente, berechnet auf der Grundlage des Altersguthabens nach Artikel 36. 2 Vollwaisen erhalten die doppelte Waisenrente. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Anspruch auf Todesfallkapital",
+      "content": "1 Stirbt eine versicherte Person und entsteht kein Anspruch nach den Artikeln 44 und 45, so zahlt PUBLICA ein Todesfallkapital aus. Anspruchsberechtigt sind, unabhängig vom Erbrecht, in nachstehender Reihenfolge: a. natürliche Personen, die von der versicherten Person in erheblichem Masse unterstützt worden sind; b. die Person, die mit der versicherten Person in den letzten fünf Jahren vor dem Tod ununterbrochen eine Lebenspartnerschaft geführt hat oder die für den Unterhalt eines oder mehrerer gemeinsamer Kinder aufkommen muss, sofern die Anspruchsvoraussetzungen nach Artikel 45 Absätze 2 und 3 erfüllt sind; c. die Kinder der versicherten Person; d. die Eltern. 2 Nicht anspruchsberechtigt sind Personen nach Absatz 1 Buchstaben a und b, die von einer anderen Vorsorgeeinrichtung eine Ehegatten- oder Lebenspartnerrente beziehen. 3 Das Todesfallkapital steht mehreren Anspruchsberechtigten derselben Begünstigtengruppe zu gleichen Teilen zu. 4 Werden innerhalb eines Jahres seit dem Tod der versicherten Person keine Ansprüche geltend gemacht, verfällt das Todesfallkapital an PUBLICA. Fassung gemäss Beschlüssen des paritätischen Organs vom 31. März und 10. Mai 2011, vom BR genehmigt am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Höhe des Todesfallkapitals",
+      "content": "Das Todesfallkapital für die nach Artikel 49 Absatz 1 Anspruchsberechtigten entspricht der Hälfte des Altersguthabens im Zeitpunkt des Todes der versicherten Person, mindestens aber dem Betrag von zwei Ehegattenjahresrenten gemäss Artikel 46 Absatz 1. Das Todesfallkapital wird um den Barwert einer allfälligen Waisenrente (Art. 47 f.) reduziert."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "3. Abschnitt: Invalidenleistungen",
+      "section": "51",
+      "title": "Invalidität",
+      "content": "1 … 2 Anspruch auf Invalidenleistungen hat die versicherte Person, die: a. im Sinne des IVG zu mindestens 40 Prozent invalid ist und bei Beginn der Arbeitsunfähigkeit, deren Ursache zur Invalidität geführt hat, bei PUBLICA versichert war (Art. 23 Bst. a BVG); b. infolge eines Geburtsgebrechens bei Aufnahme einer Erwerbstätigkeit mindestens zu 20 Prozent, aber weniger als zu 40 Prozent arbeitsunfähig war und bei Erhöhung der Arbeitsunfähigkeit, deren Ursache zur Invalidität geführt hat, auf mindestens 40 Prozent versichert war (Art. 23 Bst. b BVG); oder c. als Minderjährige invalid (Art. 8 Abs. 2 ATSG) wurde und deshalb bei Aufnahme einer Erwerbstätigkeit mindestens zu 20 Prozent, aber weniger als zu 40 Prozent arbeitsunfähig war und bei Erhöhung der Arbeitsunfähigkeit, deren Ursache zur Invalidität geführt hat, auf mindestens 40 Prozent versichert war (Art. 23 Bst. c BVG). 3 Arbeitsunfähigkeit ist die durch eine Beeinträchtigung der körperlichen, geistigen oder psychischen Gesundheit bedingte, volle oder teilweise Unfähigkeit, im bisherigen Beruf oder Aufgabenbereich zumutbare Arbeit zu leisten. Bei langer Dauer wird auch die zumutbare Tätigkeit in einem anderen Beruf oder Aufgabenbereich berücksichtigt (Art. 6 ATSG). 4 Bei Rücktritt vor vollendetem 65. Altersjahr kann der Anspruch auf Invalidenrente nur entstehen, wenn die Arbeitsunfähigkeit, die zur Invalidität geführt hat, vor der Pensionierung eingetreten ist. Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, mit Wirkung seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "3. Abschnitt: Invalidenleistungen",
+      "section": "52",
+      "title": "Beginn des Anspruchs und der Auszahlung",
+      "content": "1 Für den Beginn des Anspruchs auf Invalidenleistungen gelten sinngemäss die entsprechenden Bestimmungen des IVG (Art. 26 Abs. 1 BVG). 2 Die Auszahlung von Invalidenleistungen setzt einen rechtskräftigen Entscheid der IV voraus. Sie beginnt nach Ablauf des Anspruchs der invaliden Person auf die Lohnfortzahlung durch den Arbeitgeber. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art52a",
+      "chapter": "3. Abschnitt: Invalidenleistungen",
+      "section": "52a",
+      "title": "a Ende des Anspruchs",
+      "content": "Der Anspruch der rentenbeziehenden Person auf Invalidenleistungen erlischt: a. mit dem Tod; oder b. im Umfang, in dem sie die Erwerbsfähigkeit wieder erlangt, unter Vorbehalt von Artikel 52 b Absätze 1 und 2. Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art52b",
+      "chapter": "3. Abschnitt: Invalidenleistungen",
+      "section": "52b",
+      "title": "b Anspruch bei Herabsetzung oder Aufhebung der IV-Rente",
+      "content": "1 Wird die IV-Rente nach Verminderung des Invaliditätsgrades herabgesetzt oder aufgehoben, so bleibt die rentenbeziehende Person während drei Jahren zu den gleichen Bedingungen versichert, sofern sie vor der Herabsetzung oder der Aufhebung der IV-Rente an Massnahmen zu Wiedereingliederung teilgenommen hat oder die IV-Rente wegen der Wiederaufnahme einer Erwerbstätigkeit oder Erhöhung des Beschäftigungsgrades herabgesetzt oder aufgehoben wurde (Art. 26 a Abs. 1 BVG). 2 Der Versicherungsschutz und der Leistungsanspruch bleiben aufrechterhalten, solange die rentenbeziehende Person eine Übergangsleistung nach Artikel 32 IVG bezieht, auch wenn die dreijährige Frist nach Absatz 1 abgelaufen ist (Art. 26 a Abs. 2 BVG). 3 Während der Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs wird die Invalidenrente entsprechend dem verminderten Invaliditätsgrad gekürzt, jedoch nur so weit, wie die Kürzung durch ein Zusatzeinkommen der rentenbeziehenden Person ausgeglichen wird (Art. 26 a Abs. 3 BVG). 4 Wird eine IV-Rente gestützt auf eine Überprüfung nach Buchstabe a der Schlussbestimmungen der Änderung vom 18. März 2011 des IVG herabgesetzt oder aufgehoben, so vermindert sich oder endet der Anspruch auf Invalidenleistungen auf den Zeitpunkt, ab dem der rentenbeziehenden Person eine herabgesetzte oder keine IV‑Rente ausgerichtet wird. Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Befreiung von der Bezahlung der Sparbeiträge und der Risikoprämie",
+      "content": "Solange der Anspruch auf Invalidenleistungen besteht, sind die invalide Person und der Arbeitgeber entsprechend dem Rentenanspruch von der Bezahlung der Sparbeiträge nach Artikel 24 und der Risikoprämie nach Artikel 26 befreit. Die Befreiung von der Bezahlung der Sparbeiträge erfolgt nur im Hinblick auf Artikel 54. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Altersguthaben einer invaliden Person",
+      "content": "1 Das Altersguthaben der invaliden Person wird dem Rentenanspruch entsprechend in einen aktiven und einen passiven Teil aufgeteilt. 2 Der passive Teil des Altersguthabens wird im Hinblick auf eine Wiedereingliederung durch diejenigen Altersgutschriften gemäss Artikel 24 geäufnet, die sich ergeben hätten, wenn die versicherte Person nicht invalid geworden wäre; massgebend dafür ist der versicherte Verdienst bei Eintritt der Arbeitsunfähigkeit, die zur Invalidität geführt hat. Allfällige Teuerungsausgleiche bis zum Beginn des Anspruchs auf die Invalidenrente werden berücksichtigt. 3 Im Falle einer Wiedereingliederung entspricht die Austrittsleistung demjenigen Teil des gemäss Absatz 2 gebildeten Altersguthabens, der durch das Erlöschen des Anspruchs auf die Invalidenrente wieder aktiv wird; bei Scheidung vorbehalten ist Artikel 99 Absatz 3 erster Satz. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Behandlung des Guthabens aus dem ZP-Konto (Art. 25) bei Invalidität",
+      "content": "1 Bei Teilinvalidität kann die anspruchsberechtigte Person das geäufnete Guthaben aus dem ZP-Konto (Art. 25): a. zugunsten einer späteren Erhöhung der Altersrente (Art. 39 Abs. 2) weiter stehen lassen; oder b. entsprechend dem Teilrentenanspruch als einmalige Kapitalabfindung beziehen. 2 Bei Vollinvalidität wird das geäufnete Guthaben als einmalige Kapitalabfindung ausbezahlt. 3 Im Todesfall wird das geäufnete Guthaben gemäss Artikel 43 Absatz 2 ausbezahlt."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Umfang des Anspruchs auf eine Invalidenrente",
+      "content": "Die invalide Person hat Anspruch auf: a. eine Viertelsrente bei einer Invalidität im Sinne des IVG von mindestens 40 Prozent; b. eine halbe Rente bei einer Invalidität im Sinne des IVG von mindestens 50 Prozent; c. eine Dreiviertelsrente bei einer Invalidität im Sinne des IVG von mindestens 60 Prozent; d. eine ganze Invalidenrente bei einer Invalidität im Sinne des IVG von mindestens 70 Prozent."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Berechnung der Invalidenrente",
+      "content": "1 Die ganze Invalidenrente wird nach dem für das ordentliche AHV-Rentenalter geltenden Umwandlungssatz (Anhang 4) berechnet. Als Altersguthaben werden dabei, bei Scheidung unter Vorbehalt von Artikel 99 Absatz 3, angerechnet: a. das Altersguthaben nach Artikel 36, das die versicherte Person bis zum Beginn des Anspruchs auf die Invalidenleistung erworben hat; b. die Summe der Altersgutschriften nach Artikel 24 vom Beginn des Anspruchs auf die Invalidenleistung bis zur Vollendung des 65. Altersjahres; massgebend für die Höhe der Altersgutschriften ist der versicherte Verdienst bei Eintritt der Arbeitsunfähigkeit, die zur Invalidität geführt hat. Allfällige Teuerungsausgleiche bis zum Beginn des Anspruchs auf die Invalidenrente werden nicht berücksichtigt; und c. der Zins von zwei Prozent pro Jahr ab dem Alter 53 auf den jeweiligen Beiträgen gemäss Buchstaben a und b für die Zeit zwischen Beginn des Anspruchs auf die Invalidenleistung und dem Ende des Kalenderjahres, in dem die versicherte Person das 64. Altersjahr vollendet hat. 2 Das Alter für die Festlegung der Verzinsung entspricht bei der Hochrechnung (Projektion) gemäss Absatz 1 Buchstabe c der Differenz zwischen dem laufenden Kalenderjahr und dem Geburtsjahr der versicherten Person. Artikel 36 Absätze 4 und 5 wird angewendet. 3 Bei der Berechnung des Altersguthabens nach Absatz 1 nicht berücksichtigt werden Einkäufe und Guthaben aus bestehenden Freizügigkeitskonten oder -policen, die nach Eintritt der Arbeitsunfähigkeit getätigt beziehungsweise überwiesen werden, die zur Invalidität geführt hat. Diese Einkäufe und Einlagen werden zurückerstattet. 4 Entsteht der Anspruch auf eine Invalidenrente während eines unbezahlten oder teilweise bezahlten Urlaubs, ist für die Berechnung der Invalidenrente der letzte versicherte Verdienst vor Beginn des Urlaubs massgebend. 5 Für die Berechnung der Hinterlassenenrenten nach Artikel 46 Absatz 1 Buchstabe a und Artikel 48 Absatz 1 Buchstabe a sind der versicherte Verdienst und das Altersguthaben im Zeitpunkt des Todes oder bei Beginn der Arbeitsunfähigkeit, deren Ursache zum Tode geführt hat, massgebend. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4751 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4751 )."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Anspruch auf Invaliden-Kinderrente",
+      "content": "1 Bezügerinnen und Bezüger einer Invalidenrente haben Anspruch auf eine Invaliden-Kinderrente für jedes Kind, das im Falle ihres Todes eine Waisenrente beanspruchen könnte. 2 Für Kinder, die nach Vollendung des 18. Altersjahres in Ausbildung sind, ist jährlich und unaufgefordert ein Ausbildungsnachweis zu erbringen. Ohne diesen Nachweis wird die Auszahlung der Invaliden-Kinderrente eingestellt."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Höhe der Invaliden-Kinderrente",
+      "content": "Die Invaliden-Kinderrente beträgt einen Sechstel der Invalidenrente; bei Scheidung vorbehalten ist Artikel 99 Absatz 6 erster Satz. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "1. Abschnitt: Überbrückungsrente",
+      "section": "60",
+      "title": "Anspruch",
+      "content": "1 Bezügerinnen und Bezüger einer Altersrente haben vom Beginn des Bezugs der Altersrente bis zum ordentlichen AHV-Alter Anspruch auf eine Überbrückungsrente. 2 Die versicherte Person muss PUBLICA spätestens drei Monate vor dem Beginn des Bezugs der Altersrente mitteilen, ob sie eine volle, eine halbe oder gar keine Überbrückungsrente beziehen will. 3 Der Arbeitgeber und die versicherte Person müssen ihre in den arbeitsrechtlichen Vorschriften festgelegten Anteile an der Finanzierung der effektiv verlangten Überbrückungsrente bis spätestens zu deren Beginn an PUBLICA vergüten. 4 Die versicherte Person teilt PUBLICA spätestens drei Monate vor dem Bezug der Überbrückungsrente mit, nach welchem der folgenden Berechnungsgrundsätze sie ihren Anteil finanzieren will: a. mit einer sofort beginnenden lebenslänglichen Kürzung der Altersrente, auf die sie gemäss Artikel 39 Anspruch hat (Anhang 5, Tabelle 1); oder b. mit einer bei Erreichen des AHV-Alters beginnenden, lebenslänglichen Kürzung der Altersrente und der damit verbundenen Leistungen, auf die sie gemäss Artikel 39 Anspruch hat (Anhang 6, Ziffer I. Tabelle); oder c. mit einem Auskauf der Kürzung (Anhang 5, Tabelle 2). 4bis Trifft die Mitteilung der versicherten Person weniger als drei Monate vor dem Bezug der Überbrückungsrente bei PUBLICA ein, so werden ihr die Verwaltungskosten gemäss Kostenreglement in Rechnung gestellt. 5 Stirbt die rentenbeziehende Person, die sich für die Finanzierung nach Absatz 4 Buchstabe b entschieden hat, vor Erreichen des AHV-Alters, so werden die Hinterlassenenleistungen versicherungstechnisch gekürzt (Anhang 6, Ziffer II). 6 Wer die Altersrente als Kapital bezieht, kann die Überbrückungsrente nur beanspruchen, wenn er oder sie die Kürzung nach Absatz 4 Buchstabe c auskauft. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 ). Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "1. Abschnitt: Überbrückungsrente",
+      "section": "61",
+      "title": "Höhe der Überbrückungsrente",
+      "content": "1 Die Überbrückungsrente entspricht entweder der vollen oder der halben maximalen AHV-Rente, gewichtet nach dem durchschnittlichen Beschäftigungsgrad. 2 Der Arbeitgeber meldet PUBLICA den durchschnittlichen Beschäftigungsgrad 3 Monate vor dem altersbedingten Austritt der versicherten Person."
+    },
+    {
+      "provision_ref": "art6263",
+      "chapter": "2. Abschnitt: …",
+      "section": "6263",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 30. März 2022, vom BR genehmigt am 29. Juni 2022 und mit Wirkung seit 1. Juli 2022 ( AS 2022 393 )."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "3. Abschnitt: Sozialplanleistungen",
+      "section": "64",
+      "title": "",
+      "content": "1 Wird das Arbeitsverhältnis einer versicherten Person, die das 60. Altersjahr vollendet hat, gemäss den arbeitsrechtlichen Bestimmungen (Art. 21-23 PVO-ETH) nach Sozialplan beendet, so entsteht ein Anspruch auf eine lebenslängliche Altersrente und eine vom Arbeitgeber vollständig finanzierte Überbrückungsrente gemäss Artikel 61. 2 Hat die versicherte Person bei Beginn des Anspruchs auf Altersleistungen das 63. Altersjahr noch nicht vollendet, so erhält sie die Altersrente, die ihr im Falle der Pensionierung bei Vollendung des 63. Altersjahres zustünde. Massgebend ist der Umwandlungssatz gemäss Anhang 4 im Zeitpunkt der Entstehung des Rentenanspruchs. Als Altersguthaben werden angerechnet: a. das Altersguthaben nach Artikel 36, das die versicherte Person bis zum Beginn des Anspruchs auf Altersleistungen erworben hat; b. die Summe der Altersgutschriften nach Artikel 24 ab Beginn des Anspruchs auf Altersleistungen bis zur Vollendung des 63. Altersjahres; massgebend für die Höhe der Altersgutschriften ist der versicherte Verdienst unmittelbar vor Beginn des Anspruchs auf Altersleistungen; und c. der Zins von zwei Prozent pro Jahr für die Zeit vom Beginn des Anspruchs auf Altersleistungen bis zur Vollendung des 63. Altersjahres; Artikel 36 Absätze 4, 5 und 7 gilt sinngemäss. 3 Hat die versicherte Person bei Beginn des Anspruchs auf Altersleistungen das 63. Altersjahr vollendet, so erhält sie die Altersrente nach Artikel 39. 4 Ein allfälliges Guthaben aus dem ZP-Konto (Art. 25) kann zur Erhöhung der nach den Absätzen 2 und 3 festgelegten Altersrente verwendet werden. 5 Das Altersguthaben nach Artikel 36 und das Guthaben aus dem ZP-Konto können in Anwendung von Artikel 40 als einmalige Kapitalabfindung bezogen werden. Bei einem Anspruch auf die Altersrente nach Absatz 2 wird das Altersguthaben gemäss Absatz 2 Buchstabe c projiziert, danach im Umfang des Bezugs des Altersguthabens als Kapitalabfindung reduziert und die Altersrente auf dieser neuen Basis berechnet. 6 Der Arbeitgeber überweist PUBLICA das für die Finanzierung der Altersrente nach Absatz 2 und der Überbrückungsrente fehlende Deckungskapital. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 19. Aug. 2022, vom BR genehmigt am 23. Nov. 2022 und in Kraft seit 1. Jan. 2023 ( AS 2022 749 )."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "8. Kapitel: Gemeinsame Bestimmungen zu den Leistungen",
+      "section": "65",
+      "title": "Beschränkung der Ansprüche",
+      "content": "1 Ansprüche, die über dieses Reglement hinausgehen, insbesondere Ansprüche auf ungebundene Mittel des Vorsorgewerks ETH-Bereich oder von PUBLICA, können im Rahmen der Versicherung nach diesem Reglement nicht geltend gemacht werden. Die Bestimmungen über die Teilliquidation bleiben vorbehalten. 2 Im Falle eines Austritts eines Teils der Destinatäre aus dem Vorsorgewerk ETH-Bereich (Art. 32 f BPG) richten sich das Vorgehen und die Ansprüche der versicherten Personen und der Rentenbeziehenden nach den gesetzlichen Bestimmungen und dem Teilliquidationsreglement."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "8. Kapitel: Gemeinsame Bestimmungen zu den Leistungen",
+      "section": "66",
+      "title": "Ausrichtung der Leistungen als Kapitalabfindung",
+      "content": "1 PUBLICA richtet anstelle von Renten immer dann eine nach den versicherungstechnischen Grundlagen von PUBLICA ermittelte Kapitalabfindung aus, wenn: a. die Altersrente weniger als 10 Prozent oder die Alters-Kinderrente weniger als zwei Prozent des Mindestbetrages der Altersrente nach Artikel 34 AHVG beträgt; b. die Ehegatten- oder die Lebenspartnerrente weniger als 6 Prozent oder die Waisenrente weniger als zwei Prozent des Mindestbetrages der Altersrente nach Artikel 34 AHVG beträgt; c. die Invalidenrente weniger als 10 Prozent oder die Invaliden-Kinderrente weniger als zwei Prozent des Mindestbetrages der Altersrente nach Artikel 34 AHVG beträgt. 2 Mit der Kapitalauszahlung erlöschen alle weiteren Ansprüche der versicherten Person oder ihrer Hinterlassenen gegenüber PUBLICA, insbesondere auf allfällige künftige gesetzliche oder freiwillige Anpassungen an die Preisentwicklung sowie auf Alters-Kinderrente oder Invaliden-Kinderrente. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Juli 2022 ( AS 2022 393 )."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "8. Kapitel: Gemeinsame Bestimmungen zu den Leistungen",
+      "section": "67",
+      "title": "Verhältnis zu den gesetzlichen Leistungen",
+      "content": "Sind die Leistungen nach diesem Reglement für eine nach BVG obligatorisch versicherte Person kleiner als die Leistungen nach BVG, so werden letztere ausgerichtet."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "8. Kapitel: Gemeinsame Bestimmungen zu den Leistungen",
+      "section": "68",
+      "title": "Leistungen nach dem Austritt aus PUBLICA",
+      "content": "1 Bleibt PUBLICA nach dem Austritt für einen Vorsorgefall zuständig, so richten sich die Leistungen nach den reglementarischen Bestimmungen, die im Zeitpunkt des Anspruchsbeginns Geltung hatten. 2 Ändern sich die Leistungsvoraussetzungen nach der erstmaligen Zusprechung der Leistung, so werden die Leistungsansprüche gestützt auf die im Zeitpunkt der erneuten Beurteilung des Anspruchs geltenden Bestimmungen beurteilt."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "8. Kapitel: Gemeinsame Bestimmungen zu den Leistungen",
+      "section": "69",
+      "title": "Vorleistungspflicht von PUBLICA",
+      "content": "Wird PUBLICA vorleistungspflichtig, weil die für die Leistungserbringung zuständige Vorsorgeeinrichtung noch nicht feststeht und die berechtigte Person zuletzt bei PUBLICA versichert war (Art. 26 Abs. 4 BVG), so beschränkt sich der Anspruch auf die BVG-Mindestleistungen. Stellt sich später heraus, dass PUBLICA nicht leistungspflichtig ist, werden die vorgeleisteten Beträge bei der leistungspflichtigen Vorsorgeeinrichtung samt Zins zurückgefordert."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "8. Kapitel: Gemeinsame Bestimmungen zu den Leistungen",
+      "section": "70",
+      "title": "Auszahlung der Leistungen",
+      "content": "1 Leistungen von PUBLICA werden auf das von dem oder der Anspruchsberechtigten genannte Bank- oder Postkonto überwiesen. Alle Überweisungen erfolgen ausschliesslich auf ein einziges Konto. Die Kosten der Überweisung auf ein ausländisches Konto können der versicherten Person belastet werden. Die Überweisung erfolgt in jedem Fall in Schweizer Franken. 2 Die wiederkehrenden Leistungen von PUBLICA werden jeweils in den ersten zehn Tagen des Monats überwiesen. 3 Leistungen in der Form einer Kapitalabfindung werden innerhalb von 30 Tagen ab Entstehung des Leistungsanspruchs ausbezahlt. 4 Für den Monat, in dem der Anspruch entsteht oder erlischt, wird die Leistung voll ausgerichtet."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Berichtigung von Leistungen",
+      "content": "1 Stellt sich nachträglich heraus, dass eine Leistung unrichtig festgesetzt worden ist, nimmt PUBLICA die Berichtigung vor. 2 Hat PUBLICA zu tiefe Rentenleistungen erbracht, so leistet sie die infolge Berichtigung erforderliche Nachzahlung unverzüglich ohne Zins. Wird PUBLICA in Verzug gesetzt, so bezahlt sie Verzugszinsen nach Anhang 1. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 )."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Rückerstattung von zu Unrecht bezogenen Leistungen",
+      "content": "1 Wer eine Leistung von PUBLICA entgegennimmt, auf die er oder sie keinen Anspruch hat, muss sie samt Zinsen (Anhang 1) zurückerstatten. 2 In Härtefällen oder aus verwaltungsökonomischen Gründen kann PUBLICA auf die Rückforderung von Leistungen ganz oder teilweise verzichten. Die Kassenkommission regelt die Einzelheiten in einem Härtefallreglement."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Verjährung",
+      "content": "1 Die Verjährung von Leistungsansprüchen richtet sich nach Artikel 41 BVG. 2 Die Verjährung von Rückforderungsansprüchen richtet sich nach Artikel 35 a BVG."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Lebensbescheinigung",
+      "content": "1 PUBLICA kann die Auszahlung von Rentenleistungen von einer Lebensbescheinigung abhängig machen. 2 Anspruchsberechtigten mit Wohnsitz im Ausland wird jährlich ein entsprechendes Formular zugestellt. Wird dieses nicht innert der darin gesetzten Frist vollständig ausgefüllt an PUBLICA zurückgeschickt, wird die Rentenzahlung ohne weitere Meldung eingestellt."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Anpassung an die Preisentwicklung",
+      "content": "Die Alters-, Hinterlassenen- und Invalidenrenten werden im Rahmen der finanziellen Möglichkeiten des Vorsorgewerks ETH-Bereich an die Preisentwicklung angepasst. Das paritätische Organ entscheidet jährlich darüber, ob und in welchem Ausmass die Renten angepasst werden. Der entsprechende Beschluss wird im Jahresbericht erläutert."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Kürzung, Entzug, Verweigerung von Risikoleistungen",
+      "content": "1 PUBLICA kann ihre Leistungen im entsprechenden Umfang kürzen, wenn die AHV/IV eine Leistung kürzt, entzieht oder verweigert, weil die anspruchsberechtigte Person den Tod oder die Invalidität durch schweres Verschulden herbeigeführt hat oder sich einer Eingliederungsmassnahme der IV widersetzt. 2 In Härtefällen kann die Kürzung der Leistungen ganz oder teilweise unterbleiben. Die Kassenkommission regelt die Einzelheiten in einem Härtefallreglement."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Überentschädigung",
+      "content": "1 Für die Überentschädigungsberechnung sind die Artikel 34 a BVG sowie 24, 24 a und 25 BVV 2 anwendbar. Abweichend von Artikel 34 a Absatz 1 BVG dürfen die Hinterlassenen-, Invaliden- und Berufsinvalidenleistungen von PUBLICA zusammen mit anderen Leistungen gleicher Art und Zweckbestimmung sowie weiteren anrechenbaren Einkünften 100 Prozent des mutmasslich entgangenen Verdienstes nicht übersteigen. 2 Die Hinterlassenenleistungen von PUBLICA und die zusätzlichen anrechenbaren Einkünfte der Hinterlassenen nach Artikel 24 BVV 2 werden gesamthaft berücksichtigt. Einmalige Kapitalabfindungen werden in versicherungstechnisch gleichwertige Renten umgewandelt. Die Kürzung wird proportional auf die einzelnen Renten angerechnet. 3 Der infolge Überentschädigung nicht ausbezahlte Teil der Leistungen verfällt dem Vorsorgewerk ETH-Bereich. 4 In Härtefällen kann PUBLICA ganz oder teilweise auf die Kürzung von Leistungen verzichten. Die Kassenkommission regelt die Einzelheiten in einem Härtefallreglement. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Mai 2018 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Ansprüche gegenüber haftpflichtigen Dritten",
+      "content": "Gegenüber einer Drittperson, die für den Versicherungsfall haftet, tritt PUBLICA im Zeitpunkt des Ereignisses bis auf die Höhe der reglementarischen Leistungen in die Ansprüche der versicherten Person, ihrer Hinterlassenen und weiterer Begünstigter nach Artikel 49 ein."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Freiwillige Leistungen in Härtefällen",
+      "content": "1 In besonderen Härtefällen kann die Kassenkommission auf begründetes Gesuch hin Versicherten und Rentenbeziehenden die Ausrichtung einer Leistung gewähren, die nach diesem Reglement nicht ausdrücklich vorgesehen ist, aber dem Vorsorgezweck von PUBLICA entspricht. 2 Die Kassenkommission regelt in einem Härtefallreglement die Einzelheiten betreffend die Bestimmung des Härtefalles, die Leistungshöhe und die Leistungsdauer."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "9. Kapitel: Austrittsleistungen",
+      "section": "80",
+      "title": "Anspruch bei Beendigung des Arbeitsverhältnisses vor dem 1. Januar nach Vollendung des 21. Altersjahres",
+      "content": "Endet das Arbeitsverhältnis einer versicherten Person vor dem 1. Januar nach Vollendung des 21. Altersjahres, so entsteht kein Anspruch auf eine Austrittsleistung, es sei denn, die versicherte Person habe eine Austrittsleistung in PUBLICA eingebracht. In diesem Fall hat sie Anspruch auf die eingebrachte Austrittsleistung, einschliesslich Zins (Anhang 1)."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "9. Kapitel: Austrittsleistungen",
+      "section": "81",
+      "title": "Anspruch bei vollständiger Beendigung des Arbeitsverhältnisses vor Vollendung des 60. Altersjahres",
+      "content": "1 Wird das Arbeitsverhältnis vor Vollendung des 60. Altersjahres vollständig beendet, ohne dass ein Vorsorgefall eintritt, so hat die versicherte Person Anspruch auf eine Austrittsleistung. 2 Bei einer teilinvaliden Person beschränkt sich der Anspruch auf Austrittsleistung auf den aktiven Teil der Versicherung."
+    },
+    {
+      "provision_ref": "art81a",
+      "chapter": "9. Kapitel: Austrittsleistungen",
+      "section": "81a",
+      "title": "a Anspruch am Ende der Versicherung nach Artikel 18 d",
+      "content": "Endet die Versicherung, ohne dass ein Vorsorgefall eintritt, so richtet sich der Anspruch auf die Austrittsleistung nach Artikel 18 d Absätze 6 und 7. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "9. Kapitel: Austrittsleistungen",
+      "section": "82",
+      "title": "Form der Erhaltung des Vorsorgeschutzes",
+      "content": "1 Tritt die versicherte Person vor Vollendung des 60. Altersjahres ein neues Arbeitsverhältnis an, so wird ihre Austrittsleistung an die Vorsorgeeinrichtung ihres neuen Arbeitgebers überwiesen. 2 Sobald PUBLICA vom Austritt der versicherten Person Kenntnis hat, fordert sie diese auf, die für die Überweisung der Austrittsleistung notwendigen Angaben zu liefern. 3 PUBLICA informiert Versicherte, die kein neues Arbeitsverhältnis begründen, über die Möglichkeiten der Erhaltung des Vorsorgeschutzes und verlangt von ihnen die entsprechenden Informationen. Die Versicherten müssen PUBLICA mitteilen, in welcher zulässigen Form sie ihren Vorsorgeschutz (Freizügigkeitspolice oder Freizügigkeitskonto) erhalten wollen. Ihre Austrittsleistung kann höchstens an zwei Freizügigkeitseinrichtungen übertragen werden. 4 Bleibt die Mitteilung der versicherten Person aus, überweist PUBLICA die Austrittsleistung frühestens nach Ablauf von 6 Monaten und spätestens nach zwei Jahren an die Stiftung Auffangeinrichtung. 5 Die Verzinsung der Austrittsleistung richtet sich nach Artikel 2 Absätze 3 und 4 FZG (Anhang 1). 6 Reduziert eine versicherte Person ihren Beschäftigungsgrad, ohne dass ein Vorsorgefall eintritt, so verbleibt das ganze bis zu diesem Zeitpunkt angesparte Altersguthaben bei PUBLICA. Tritt die versicherte Person jedoch ein neues Arbeitsverhältnis an, kann sie innert drei Monaten nach der Reduktion des Beschäftigungsgrades schriftlich die Überweisung des dem Umfang der Reduktion entsprechenden Anteils des Altersguthabens an die Vorsorgeeinrichtung des neuen Arbeitgebers verlangen."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "9. Kapitel: Austrittsleistungen",
+      "section": "83",
+      "title": "Barauszahlung",
+      "content": "1 Die versicherte Person kann die Barauszahlung der Austrittsleistung verlangen, wenn: a. sie die Schweiz endgültig verlässt und sich nicht im Fürstentum Liechtenstein niederlässt; Absatz 4 bleibt vorbehalten; b. sie in der Schweiz eine selbständige Erwerbstätigkeit aufnimmt und der obligatorischen beruflichen Vorsorge nicht mehr untersteht; oder c. die Austrittsleistung weniger als dem von ihr entrichteten Jahresbeitrag entspricht. 2 Die austretende Person hat den Nachweis für das Bestehen eines Barauszahlungsgrundes zu erbringen. Insbesondere sind vorzulegen: a. bei endgültigem Verlassen der Schweiz eine Bestätigung der Einwohnerkontrolle; b. bei Aufnahme einer selbständigen Erwerbstätigkeit eine Bestätigung der AHV-Ausgleichskasse. 3 PUBLICA kann im Zweifelsfall weitere Nachweise verlangen. 4 Verlegt die versicherte Person ihren Wohnsitz in einen Mitgliedstaat der Europäischen Union, nach Island oder nach Norwegen und untersteht sie in diesem Staat weiterhin der obligatorischen Versicherung für das Alter und gegen die Risiken Tod und Invalidität, so kann sie die Barauszahlung im Umfang des bis zum Austritt aus PUBLICA erworbenen Altersguthabens nach Artikel 15 BVG nicht verlangen. 5 … 6 Bei verheirateten versicherten Personen setzt die Barauszahlung der Austrittsleistung die schriftliche Zustimmung des Ehegatten oder der Ehegattin mittels beglaubigter Unterschrift voraus. Statt die Unterschrift beglaubigen zu lassen, kann der Ehegatte oder die Ehegattin bei PUBLICA die Zustimmungserklärung persönlich unter Vorlage eines amtlichen Personalausweises unterschreiben. 7 Hat die versicherte Person zur Verbesserung ihres Vorsorgeschutzes innerhalb der letzten drei Jahre vor der Barauszahlung einen Einkauf geleistet, bleiben allfällige gesetzliche Auszahlungsbeschränkungen vorbehalten. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 ). Aufgehoben durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022, mit Wirkung seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "",
+      "content": "1 Wird das Arbeitsverhältnis einer versicherten Person nach Vollendung des 60. und vor Vollendung des 65. Altersjahres aus anderen Gründen als infolge Tod oder Invalidität ganz oder teilweise beendet (Art. 37 Abs. 3 und 38 Abs. 4), so kann sie wählen zwischen: a. der Überweisung der Austrittsleistung an die Vorsorgeeinrichtung des neuen Arbeitgebers; a bis . der Überweisung der Austrittsleitung an eine Freizügigkeitseinrichtung, wenn sie als arbeitslos gemeldet ist oder eine selbstständige Erwerbstätigkeit aufnimmt; oder b. dem Bezug der Altersleistungen. 2 Versicherte Personen, die das 65. Altersjahr vollendet haben, können die Überweisung der Austrittsleistung nach Absatz 1 Buchstabe a nur verlangen, wenn sie nach dem Reglement der Vorsorgeeinrichtung des neuen Arbeitgebers in die Versicherung aufgenommen werden und ihre Vorsorge nach Artikel 33 b BVG weiterführen. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art84a",
+      "section": "84a",
+      "title": "a Anspruch bei Verminderung des massgebenden Jahreslohnes nach Vollendung des 60. Altersjahres",
+      "content": "Vermindert sich der massgebende Jahreslohn einer versicherten Person nach Vollendung des 60. Altersjahres aus anderen Gründen als infolge Invalidität, so kann sie, ausser zwischen den Möglichkeiten nach Artikel 84, zusätzlich wählen zwischen: a. dem Belassen des bis zu diesem Zeitpunkt angesparten Altersguthabens bei PUBLICA; b. der Weiterführung der Vorsorge nach Artikel 18 c . Eingefügt durch die Beilage des Beschlusses des PO ETH vom 25. Nov. 2013, vom ETH-Rat genehmigt am 26. Sept. 2013, vom BR am 8. Okt. 2014, in Kraft seit 1. Jan. 2015 ( AS 2014 3407 )."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Berechnung",
+      "content": "1 Die Austrittsleistung wird aufgrund von Artikel 15 FZG (Ansprüche im Beitragsprimat) berechnet und entspricht dem Betrag des im Zeitpunkt der Beendigung des Arbeitsverhältnisses vorhandenen Altersguthabens nach Artikel 36 zuzüglich eines allfälligen Guthabens aus dem ZP-Konto (Art. 25). In jedem Fall besteht jedoch mindestens Anspruch auf die Austrittsleistung nach Artikel 17 FZG beziehungsweise auf das Altersguthaben nach Artikel 15 BVG, wenn dieses die Austrittsleistung nach Artikel 17 FZG übersteigt. 2 Der Mindestbetrag nach Artikel 17 FZG setzt sich unter Abzug von Vorbezügen für Wohneigentum, von aus der Pfandverwertung des Vorsorgeguthabens erzielten Erlösen und von Auszahlungen infolge Scheidung zusammen aus der Summe der: a. von der versicherten Person eingebrachten Austrittsleistungen und geleisteten Einkäufe, beides samt Zinsen; b. während der Beitragsdauer von der versicherten Person geleisteten Sparbeiträge (Art. 24 und 25) mit Zins, erhöht um einen Zuschlag von 4 Prozent pro Altersjahr ab dem 20. Altersjahr, höchstens aber von 100 Prozent; vorbehalten ist Absatz 5; c. allfälligen vom Arbeitgeber geleisteten Einkäufen nach Artikel 87 samt Zins. 2bis … 3 Der Zinssatz für die Verzinsung nach Absatz 2 richtet sich nach dem FZG. Während der Dauer einer Unterdeckung kann er auf den Zinssatz, mit welchem die Altersguthaben verzinst werden, herabgesetzt werden. 4 Die allenfalls zur Behebung einer Unterdeckung erhobenen Beiträge (Art. 34) werden nicht angerechnet (Art. 17 Abs. 2 Bst. f FZG). 5 Für Sparbeiträge, welche die versicherte Person bei unbezahltem Urlaub nach Artikel 18 a , bei der Weiterführung der Vorsorge nach Artikel 18 c oder bei der Weiterführung der Versicherung nach Artikel 18 d anstelle des Arbeitgebers geleistet hat, wird kein Zuschlag nach Absatz 2 Buchstabe b berechnet. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4751 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4751 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011 ( AS 2012 2091 ). Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, mit Wirkung seit 1. Mai 2018 ( AS 2018 2465 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Berichtigung von Austrittsleistungen",
+      "content": "Hat PUBLICA eine zu tiefe Austrittsleistung erbracht, so richtet sich der Zins auf der Nachzahlung nach Artikel 7 FZV (Anhang 1)."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Beteiligung des Arbeitgebers am Einkauf",
+      "content": "1 Hat sich der Arbeitgeber am Einkauf der versicherten Person beteiligt, so wird der entsprechende Betrag von der Austrittsleistung abgezogen. 2 Der Abzug vermindert sich mit jedem Beitragsjahr ab Bezahlung der Arbeitgeberbeteiligung um einen Zehntel des vom Arbeitgeber übernommenen Betrags. Der nicht verbrauchte Teil fällt an ein Beitragsreservenkonto des Arbeitgebers."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Informationen im Freizügigkeitsfall",
+      "content": "Die versicherte Person und die neue Vorsorgeeinrichtung beziehungsweise die Freizügigkeitseinrichtung oder die Stiftung Auffangeinrichtung erhalten von PUBLICA im Freizügigkeitsfall folgende Informationen: a. die Höhe des Altersguthabens gemäss Artikel 36; b. die Höhe des Mindestbetrags gemäss Artikel 85 Absatz 2 (Art. 17 FZG); c. die Höhe des Altersguthabens gemäss Artikel 15 BVG; d. Informationen betreffend Vorbezüge für die Wohneigentumsförderung gemäss den Artikeln 91–97; e. Informationen betreffend die Verpfändung des Anspruchs auf Vorsorgeleistungen gemäss den Artikeln 91 und 94; f. gegebenenfalls die Höhe des Altersguthabens bei Vollendung des 50. Altersjahres; g. gegebenenfalls die Höhe des Altersguthabens bei Heirat beziehungsweise am 1. Januar 1995; h. Informationen betreffend Beträge, die nach Artikel 99 Absatz 1 infolge Scheidung übertragen worden sind. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Erhaltung des Vorsorgeschutzes in besonderen Fällen",
+      "content": "Wechselt die versicherte Person vom Vorsorgewerk ETH-Bereich zu einem anderen Vorsorgewerk von PUBLICA, so rechnet PUBLICA in jedem Fall wie im Freizügigkeitsfall ab."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Rücküberweisung der Austrittsleistung an PUBLICA",
+      "content": "1 Muss PUBLICA Hinterlassenen- oder Invalidenleistungen erbringen, nachdem sie die Austrittsleistung an die neue Vorsorgeeinrichtung oder eine Freizügigkeitseinrichtung überwiesen hat, so ist ihr diese Austrittsleistung samt Zins so weit zurückzuerstatten, als dies zur Auszahlung der Hinterlassenen- oder Invalidenleistungen nötig ist. 2 Wurde die Austrittsleistung an die invalide Person oder an ihre Hinterlassenen ausbezahlt, so berechnet sich die Höhe der Hinterlassenen- oder Invalidenleistungen auf der Basis der zurückerstatteten Austrittsleistung."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "10. Kapitel: Wohneigentumsförderung",
+      "section": "91",
+      "title": "Vorbezug und Verpfändung",
+      "content": "1 Zur Finanzierung von Wohneigentum zum eigenen Bedarf im Sinne der Artikel 1–4 WEFV kann die versicherte Person Leistungen von PUBLICA vor deren Fälligkeit vorbeziehen oder den Anspruch auf Vorsorgeleistungen oder einen Betrag bis zur Höhe ihrer Austrittsleistung verpfänden. 1bis Hat die Weiterführung der Versicherung nach Artikel 18 d mehr als zwei Jahre gedauert, so besteht kein Anspruch auf Vorbezug oder Verpfändung. 2 Für Vorbezug und Verpfändung zur Finanzierung von Wohneigentum kann PUBLICA Verwaltungsgebühren erheben. Diese werden im Kostenreglement festgehalten und der versicherten Personen auf Verlangen vorgängig mitgeteilt. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "10. Kapitel: Wohneigentumsförderung",
+      "section": "92",
+      "title": "Vorbezug",
+      "content": "1 Die Gesuche um Vorbezüge zur Finanzierung von Wohneigentum zum eigenen Bedarf werden in der Reihenfolge ihres Eingangs behandelt. 2 Der Mindestbetrag für den Vorbezug beträgt 20 000 Franken. Dieser Mindestbetrag gilt nicht für den Erwerb von Anteilscheinen an Wohnbaugenossenschaften und von ähnlichen Beteiligungen. 3 Ein Vorbezug kann bis zur Vollendung des 62. Altersjahres alle fünf Jahre geltend gemacht werden. Hat die versicherte Person vor der Aufnahme bei PUBLICA bei einer anderen Vorsorgeeinrichtung einen Vorbezug getätigt, so sind die seither vergangenen Jahre anzurechnen. 4 Die versicherte Person darf bis zum 50. Altersjahr einen Betrag bis zur Höhe der Austrittsleistung beziehen. 5 Eine versicherte Person, die das 50. Altersjahr überschritten hat, darf höchstens den grösseren der beiden nachfolgenden Beträge beziehen: a. den bei Vollendung des 50. Altersjahres ausgewiesenen Betrag der Austrittsleistung, erhöht um die seither vorgenommenen Rückzahlungen und vermindert um den Betrag, der seither aufgrund von Vorbezügen oder Pfandverwertungen für das Wohneigentum eingesetzt worden ist; b. die Hälfte der Differenz zwischen der Austrittsleistung im Zeitpunkt des Vorbezugs und der für das Wohneigentum in diesem Zeitpunkt bereits eingesetzten Freizügigkeitsleistung. 6 Bei einer verheirateten versicherten Person setzt der Vorbezug die schriftliche Zustimmung des Ehegatten oder der Ehegattin voraus. PUBLICA kann die Beglaubigung der Unterschrift verlangen. Statt die Unterschrift beglaubigen zu lassen, kann der Ehegatte oder die Ehegattin bei PUBLICA die Zustimmungserklärung persönlich unter Vorlage eines amtlichen Personalausweises unterschreiben. 7 Im Übrigen gelten die entsprechenden gesetzlichen Bestimmungen über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "10. Kapitel: Wohneigentumsförderung",
+      "section": "93",
+      "title": "Rückzahlung",
+      "content": "1 Der vorbezogene Betrag muss zurückbezahlt werden, wenn: a. das Wohneigentum veräussert wird; b. Rechte an diesem Wohneigentum eingeräumt werden, die wirtschaftlich einer Veräusserung gleichkommen; oder c. beim Tod der versicherten Person keine Vorsorgeleistung fällig wird. 2 Der vorbezogene Betrag kann zurückbezahlt werden, bis: a. zur Vollendung des 65. Altersjahres; b. zum Eintritt eines anderen Vorsorgefalles; oder c. zur Barauszahlung der Austrittsleistung. 3 Bezahlt die versicherte Person den Vorbezug zurück, so wird der entsprechende Betrag valutagerecht dem Altersguthaben nach Artikel 36 Absatz 2 Buchstabe e gutgeschrieben. Der Mindestbetrag für die Rückzahlung beträgt 10 000 Franken. Ist der ausstehende Vorbezug kleiner als der Mindestbetrag, so ist die Rückzahlung in einem einzigen Betrag zu leisten. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Mai 2018 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Verpfändung",
+      "content": "1 Die Verpfändung ist PUBLICA schriftlich anzuzeigen. 2 Der maximal verpfändbare Betrag entspricht dem Maximalbetrag, der vorbezogen werden kann. 3 Die schriftliche Zustimmung des Pfandgläubigers ist, soweit die Pfandsumme betroffen ist, erforderlich für: a. die Barauszahlung der Austrittsleistung; b. die Auszahlung der Vorsorgeleistung; c. die Übertragung eines Teils der Austrittsleistung infolge Scheidung auf eine Vorsorgeeinrichtung des Ehegatten oder der Ehegattin der versicherten Person. 4 Verweigert der Pfandgläubiger die Zustimmung, so hat PUBLICA den entsprechenden Betrag sicherzustellen. 5 Wechselt die versicherte Person die Vorsorgeeinrichtung, so muss PUBLICA dem Pfandgläubiger mitteilen, an wen und in welchem Umfang die Austrittsleistung übertragen wird. 6 Im Übrigen gelten die entsprechenden gesetzlichen Bestimmungen über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Einzureichende Unterlagen",
+      "content": "Will eine versicherte Person von einem Vorbezug oder einer Verpfändung Gebrauch machen, so hat sie PUBLICA die Vertragsdokumente über Erwerb, Erstellung von Wohneigentum oder Amortisation von Hypothekardarlehen, das Reglement beziehungsweise den Miet- oder Darlehensvertrag beim Erwerb von Anteilscheinen mit dem Wohnbauträger und die entsprechenden Urkunden bei ähnlichen Beteiligungen einzureichen."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Auszahlung",
+      "content": "1 PUBLICA zahlt den Vorbezug spätestens nach sechs Monaten aus, nachdem die versicherte Person ihren Anspruch geltend gemacht hat. 2 PUBLICA zahlt den Vorbezug gegen Vorweisung der entsprechenden Belege und im Einverständnis der versicherten Person direkt an den Verkäufer, Ersteller, Darlehensgeber oder an die nach Artikel 1 Absatz 1 Buchstabe b WEFV Berechtigten aus. 3 Absatz 2 gilt sinngemäss für die Auszahlung aufgrund einer Verwertung des verpfändeten Vorsorgeguthabens. 4 Ist eine Auszahlung innerhalb von sechs Monaten aus Liquiditätsgründen nicht möglich oder zumutbar, so erstellt PUBLICA eine Prioritätenordnung, die der Aufsichtsbehörde zur Kenntnis zu bringen ist."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "",
+      "content": "1 Bei der Auszahlung eines Vorbezuges oder Verwertung eines Pfandes werden ein Guthaben aus dem ZP-Konto und, soweit erforderlich, das Altersguthaben um den betreffenden Betrag reduziert und die versicherten Leistungen entsprechend herabgesetzt. Das Altersguthaben nach BVG wird im selben Verhältnis wie die Summe aus dem Altersguthaben und einem Guthaben aus dem ZP-Konto herabgesetzt. 2 Um eine Einbusse des Vorsorgeschutzes durch eine Leistungskürzung bei Tod oder Invalidität zu vermeiden, informiert PUBLICA die versicherte Person über die Möglichkeiten einer Risikoversicherung bei einer Privatversicherung. 3 Bezahlt die versicherte Person den Vorbezug oder die Auszahlung wegen einer Pfandverwertung zurück, so wird der entsprechende Betrag valutagerecht entsprechend der Herabsetzung nach Absatz 1 gutgeschrieben. Das Altersguthaben nach BVG wird im selben Verhältnis wie bei der Herabsetzung nach Absatz 1 erhöht. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Mai 2018 ( AS 2018 2465 ). Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "11. Kapitel: Scheidung",
+      "section": "98",
+      "title": "Vorsorgeausgleich",
+      "content": "Für den Vorsorgeausgleich bei Scheidung gelten die entsprechenden Bestimmungen des ZGB, der ZPO, des BVG und des FZG samt Ausführungsbestimmungen. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "11. Kapitel: Scheidung",
+      "section": "99",
+      "title": "Vorsorgerechtliche Auswirkungen",
+      "content": "1 Ein zugunsten einer versicherten Person infolge Scheidung übertragener Anteil der Austrittsleistung oder als lebenslange Rente beziehungsweise in Kapitalform übertragener Rentenanteil wird im Verhältnis, in dem er der Vorsorge des verpflichteten Ehegatten oder der verpflichteten Ehegattin belastet wurde, dem Altersguthaben nach BVG und dem Altersguthaben nach diesem Reglement gutgeschrieben. 2 Ein zulasten einer versicherten Person infolge Scheidung übertragener Anteil der Austrittsleistung wird von einem Guthaben aus dem ZP-Konto und, soweit erforderlich, vom Altersguthaben abgezogen. Das Altersguthaben nach BVG wird im selben Verhältnis wie die Summe aus dem Altersguthaben und einem Guthaben aus dem ZP-Konto herabgesetzt. Die versicherte Person kann sich im Rahmen der übertragenen Austrittsleistung wieder einkaufen; bei einem Wiedereinkauf wird das Altersguthaben nach BVG im selben Verhältnis wie bei der Herabsetzung erhöht. Artikel 32 Absatz 4 ist anwendbar. 3 Wird infolge Scheidung ein Anteil der Austrittsleistung einer invaliden versicherten Person zugunsten des berechtigten Ehegatten oder der berechtigten Ehegattin übertragen, so führt dies zu einer Reduktion der Austrittsleistung. Diese berechnet sich nach Artikel 54 Absatz 3. Die Kürzung der Invalidenrente der verpflichteten Person berechnet sich nach Artikel 19 Absätze 2 und 3 BVV 2. Dieser Absatz gilt sinngemäss für berufsinvalide Personen. 4 Wird infolge Scheidung ein Rentenanteil als lebenslange Rente beziehungsweise in Kapitalform zugunsten des berechtigten Ehegatten oder der berechtigten Ehegattin übertragen, so führt dies zu einer Reduktion der Leistungen von PUBLICA an die verpflichtete Person. Ein übertragener Rentenanteil gehört nicht zur laufenden Altersrente beziehungsweise wird von der versicherten Invalidenrente nach Artikel 46 Absatz 1 Buchstabe b oder Artikel 48 Absatz 1 Buchstabe b abgezogen. Er löst keinen Anspruch der berechtigten Person auf weitere Leistungen von PUBLICA aus. Vor der ersten jährlichen Rentenübertragung an die Vorsorge- oder Freizügigkeitseinrichtung der berechtigten Person kann diese mit PUBLICA vereinbaren, dass der Rentenanteil in Kapitalform überwiesen wird. 5 Tritt während des Scheidungsverfahrens der Vorsorgefall Alter ein, so nimmt PUBLICA eine Kürzung der Leistungen nach Artikel 19 g FZV vor. 6 Der Anspruch auf eine Alters- oder Invaliden-Kinderrente oder auf eine Kinderrente zur Berufsinvalidenleistung, der im Zeitpunkt der Einleitung des Scheidungsverfahrens besteht, wird vom Vorsorgeausgleich nicht berührt. Wurde eine Kinderrente nicht berührt, so wird die Waisenrente auf den gleichen Grundlagen berechnet. Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Mai 2018 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "12. Kapitel: Rechtspflege",
+      "section": "10",
+      "title": "0",
+      "content": "1 Für Streitigkeiten zwischen PUBLICA, dem Arbeitgeber und Anspruchsberechtigten sind die von den Kantonen nach Artikel 73 BVG bezeichneten Gerichte zuständig. Diese sind auch zuständig für Streitigkeiten gemäss Artikel 73 Absatz 1 Buchstaben a–d BVG. 2 Gerichtsstand ist der schweizerische Sitz oder Wohnsitz des oder der Beklagten oder der Ort des Betriebes, bei dem die versicherte Person angestellt wurde. 3 Die Entscheide der kantonalen Gerichte können auf dem Weg der Beschwerde beim Bundesgericht angefochten werden (Art. 86 Abs. 1 Bst. d BGG)."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "1. Abschnitt: Übergangsbestimmungen",
+      "section": "101",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, mit Wirkung seit 1. Jan. 2017 ( AS 2017 3291 )."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "1. Abschnitt: Übergangsbestimmungen",
+      "section": "102",
+      "title": "Versicherungsleistungen nach bisherigem Recht",
+      "content": "1 Alle unter bisherigem Recht entstandenen Renten, festen Zuschläge, Überbrückungsrenten und IV-Ersatzrenten werden betragsmässig überführt. 2 Kürzung 3 Die infolge administrativer Entlassung im Sinne von Artikel 32 der EVK-Statuten und Artikel 43 der PKB-Statuten zugesprochenen Renten werden bei Erreichen des ordentlichen AHV-Alters in Altersrenten gleicher Höhe umgewandelt. 4 Für unter bisherigem Recht entstandene Renten, die nach Absatz 1 überführt worden sind, gilt das vorliegende Reglement in Bezug auf: a. die Anpassung der Renten an die Preisentwicklung (Art. 75); b. nach dem Inkrafttreten dieses Reglements entstandene Hinterlassenenrenten, die sich jedoch auf nach bisherigem Recht entstandene Leistungen beziehen (Art. 43–48); c. das Ende des Anspruchs auf Hinterlassenenrenten (Art. 44 Abs. 4, 45 Abs. 7 und 47 Abs. 3 und 4); d. die Erhebung allfälliger Sanierungsbeiträge (Art. 34 und 35); e. die Überentschädigungsberechnung (Art. 77): 1. beim Tod der rentenbeziehenden Person, 2. wenn die rentenbeziehende Person das ordentliche AHV-Alter erreicht, oder 3. bei der Neuberechnung des Leistungsanspruchs durch die MV, UV oder eine andere Sozialversicherung. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "1. Abschnitt: Übergangsbestimmungen",
+      "section": "103",
+      "title": "Fester Zuschlag, Überbrückungsrente und IV-Ersatzrente nach bisherigem Recht",
+      "content": "1 Der Anspruch auf den festen Zuschlag und die Überbrückungsrente nach bisherigem Recht erlischt a. beim Tod, spätestens aber bei Erreichen des ordentlichen AHV-Alters der rentenbeziehenden Person; b. wenn der Ehegatte oder die Ehegattin der rentenbeziehenden Person stirbt, spätestens aber, wenn er oder sie das ordentliche AHV-Alter erreicht, oder bei Scheidung der Ehe, sofern die rentenbeziehende Person einen Zuschlag gemäss Artikel 29 Absatz 1 Buchstabe b Ziffer 3 der EVK-Statuten oder gemäss Artikel 40 Absatz 1 Buchstabe b Ziffer 3 der PKB-Statuten bezieht; oder c. wenn mit Wirkung nach dem Inkrafttreten dieses Reglements erstmals eine IV-Rente zugesprochen oder der Anspruch auf eine IV-Rente geändert oder der Berufsinvaliditätsgrad nach Feststellung des ärztlichen Dienstes erhöht oder herabgesetzt wird. 2 Erlischt gemäss Absatz 1 Buchstabe c der Anspruch auf den festen Zuschlag, so hat die Person, die eine vor dem 1. Juni 2003 entstandene Invalidenrente bezieht, entsprechend dem noch bestehenden Berufsinvaliditätsgrad Anspruch auf eine IV‑Ersatzrente nach diesem Reglement. Dasselbe gilt, wenn die Person keinen Anspruch auf einen festen Zuschlag hatte und der Anspruch auf eine IV-Rente erstmals und mit Wirkung nach dem Inkrafttreten dieses Reglements herabgesetzt wird. 3 Wird der Berufsinvaliditätsgrad infolge eines Entscheides der IV oder des ärztlichen Dienstes mit Wirkung nach dem Inkrafttreten dieses Reglements herabgesetzt, so wird die Höhe der unter bisherigem Recht entstandenen IV-Ersatzrente entsprechend der Herabsetzung des Berufsinvaliditätsgrades gekürzt. 4 Der Anspruch auf die IV-Ersatzrente nach bisherigem Recht erlischt beim Tod, spätestens aber bei Erreichen des ordentlichen AHV-Alters der rentenbeziehenden Person. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Ausdruck gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Diese Änd. wurde im ganzen Erlass berücksichtigt. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Überführte Invalidenrenten",
+      "content": "1 Invalidenrenten mit Anspruchsbeginn vor dem 1. Juni 2003 sowie PUBLICA-Berufsinvalidenrenten mit Anspruchsbeginn vor dem Inkrafttreten dieses Reglements werden betragsmässig in Berufsinvalidenrenten überführt. 2 PUBLICA-Invalidenrenten mit Anspruchsbeginn vor dem Inkrafttreten dieses Reglements werden betragsmässig in Invalidenrenten überführt. 3 Für die Invaliden- oder Berufsinvalidenrenten gemäss den Absätzen 1 und 2 findet dieses Reglement Anwendung in Bezug auf die Voraussetzungen (Art. 62 und 51) und den Umfang (Art. 62 und 56) des Rentenanspruchs. Ebenfalls Anwendung findet es in Bezug auf den Beginn (Art. 62 und 52) und die Berechnung (Art. 63 und 57) des aus einer Erhöhung des Invaliditäts- oder Berufsinvaliditätsgrades resultierenden Leistungsanspruchs, sofern diese Erhöhung nach dem Inkrafttreten dieses Reglements Wirkung entfaltet. 4 Für die Invaliden- oder Berufsinvalidenrenten gemäss den Absätzen 1 und 2 findet dieses Reglement Anwendung in Bezug auf das Ende des Rentenanspruchs (Art. 62 Abs. 6 und 52 a ). 5 Wird der Anspruch auf eine Invaliden- oder Berufsinvalidenrente gemäss den Absätzen 1 und 2 infolge eines Entscheides der IV oder des ärztlichen Dienstes mit Wirkung nach dem Inkrafttreten dieses Reglements herabgesetzt, so wird der Betrag der Rente entsprechend der Herabsetzung des Anspruchs gekürzt. Wenn die IV mit Wirkung nach dem Inkrafttreten dieses Reglements erstmals eine Rente zuspricht oder erstmals den Rentenanspruch ändert, so bleibt der Betrag der Invalidenrente, auf die der Anspruch vor dem 1. Juni 2003 entstanden ist, unverändert. Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 24. März 2012, vom BR genehmigt am 15. März 2013, in Kraft seit 1. Jan. 2013 ( AS 2013 993 ). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Wiedereingliederung von Bezügerinnen und Bezügern einer überführten Invalidenrente",
+      "content": "Wird eine Person, die eine vor dem 1. Juni 2003 entstandene Invalidenrente oder eine vor dem 1. Juli 2008 entstandene PUBLICA-Berufsinvalidenrente oder PUBLICA-Invalidenrente (Art. 104 Abs. 1 oder 2) bezieht, mit Wirkung nach dem Inkrafttreten dieses Reglements wiedereingegliedert, so wird auf den Vortag des Inkrafttretens dieses Reglements eine Austrittsleistung nach Artikel 46 PKBV 1 beziehungsweise Artikel 27 Absatz 3 PKBV 2 berechnet. Dieser Betrag wird in dem ab Inkrafttreten dieses Reglements nach Artikel 54 Absatz 2 weiter geäufneten Altersguthaben für die Berechnung der Austrittsleistung berücksichtigt (Art. 54 Abs. 3). Fassung gemäss Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ( AS 2018 4751 )."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Garantie nach Artikel 25 PUBLICA-Gesetzes",
+      "content": "1 Die Garantie setzt voraus, dass bis zum Beginn des Rentenanspruchs die reglementarischen Sparbeiträge des Arbeitgebers und der angestellten Person lückenlos und entsprechend dem Beschäftigungsgrad am Vortag des Inkrafttretens dieses Reglements bezahlt wurden. 2 … 3 Nach dem Inkrafttreten dieses Reglements geleistete Einkäufe, Rückzahlungen von Vorbezügen für die Wohneigentumsförderung oder Einlagen infolge Scheidung beeinflussen den Garantieanspruch nicht. 4 Nach dem Inkrafttreten dieses Reglements getätigte Vorbezüge für Wohneigentum, Erlöse aus der Verwertung verpfändeter Vorsorgeguthaben und Auszahlungen infolge Scheidung führen zu einer versicherungstechnischen Kürzung des Garantieanspruches. 5 Wird das Altersguthaben der versicherten Person aus Gründen nach Absatz 4 reduziert und erfolgt vor dem Rücktritt eine vollständige Rückerstattung oder ein vollständiger Wiedereinkauf, so lebt der ursprüngliche Garantieanspruch wieder auf. Ansonsten erfolgt eine versicherungstechnische Kürzung des ursprünglichen Garantieanspruchs im Umfang der nicht erfolgten Rückerstattung oder des nicht erfolgten Wiedereinkaufs. Aufgehoben durch Ziff. I des Beschlusses des PO ETH vom 24. Sept. 2018, vom BR genehmigt am 30. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ( AS 2018 4751 )."
+    },
+    {
+      "provision_ref": "art107a",
+      "section": "107a",
+      "title": "a Übergangsbestimmung zu den Änderungen vom 31. März und 10. Mai 2011",
+      "content": "1 Die bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2008 und dem Inkrafttreten der Änderungen vom 31. März und 10. Mai entstandenen Altersrenten infolge Bezugs einer Überbrückungsrente richtet sich sinngemäss nach Artikel 102 Absatz 2. 2 Die Kürzung der nach dem Inkrafttreten der Änderungen vom 31. März und 10. Mai 2011 entstandenen Hinterlassenenrenten richtet sich sinngemäss nach Artikel 102 Absatz 4 Buchstabe b, sofern eine Person, die eine zwischen dem 1. Juli 2008 und dem Inkrafttreten dieser Änderungen entstandene Altersrente bezieht, vor Erreichen des AHV-Alters stirbt. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011, in Kraft seit 1. Juli 2012 ( AS 2012 2091 )."
+    },
+    {
+      "provision_ref": "art107b",
+      "section": "107b",
+      "title": "b Übergangsbestimmung zur Änderung vom 25. November 2013",
+      "content": "1 Die bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2012 und dem Inkrafttreten der Änderung vom 25. November 2013 entstandenen Altersrenten infolge Bezugs einer Überbrückungsrente richtet sich sinngemäss nach Artikel 102 Absatz 2. 2 Die Kürzung der nach dem Inkrafttreten der Änderung vom 25. November 2013 entstandenen Hinterlassenenrenten richtet sich sinngemäss nach Artikel 102 Absatz 4 Buchstabe b, sofern eine Person, die eine zwischen dem 1. Juli 2012 und dem Inkrafttreten dieser Änderung entstandene Altersrente bezieht, vor Erreichen des AHV-Alters stirbt. Eingefügt durch die Beilage des Beschlusses des PO ETH vom 25. Nov. 2013, vom ETH-Rat genehmigt am 26. Sept. 2013, vom BR am 8. Okt. 2014, in Kraft seit 1. Jan. 2015 ( AS 2014 3407 )."
+    },
+    {
+      "provision_ref": "art107c",
+      "section": "107c",
+      "title": "c Übergangsbestimmungen zur Änderung vom 1. Dezember 2016",
+      "content": "1 Geschiedene Ehegatten oder Ehegattinnen, denen vor Inkrafttreten der Änderung vom 1. Dezember 2016 infolge Scheidung eine Rente oder eine Kapitalabfindung für eine lebenslängliche Rente zugesprochen wurde, haben Anspruch auf Hinterlassenenleistungen nach bisherigem Recht. 2 Nach Inkrafttreten dieser Änderung infolge Scheidung zugunsten der versicherten Person übertragene Anteile der Austrittsleistung oder als lebenslange Rente beziehungsweise in Kapitalform übertragene Rentenanteile beeinflussen den Garantieanspruch nach Artikel 107 nicht. 3 Nach Inkrafttreten dieser Änderung infolge Scheidung zugunsten des berechtigten Ehegatten oder der berechtigten Ehegattin übertragene Anteile der Austrittsleistung führen zu einer versicherungstechnischen Kürzung des Garantieanspruchs nach Artikel 107. 4 Für die vor dem 1. Juli 2008 entstandenen Renten, die nach Artikel 102 Absatz 1 betragsmässig überführt worden sind, gilt in Bezug auf die Reduktion der Austrittsleistung und der Leistungen infolge Scheidung Artikel 99 Absätze 3–5. Die Kürzung dieser Renten wird mit den im Zeitpunkt der Rechtskraft des Scheidungsurteils geltenden technischen Grundlagen berechnet. Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ( AS 2017 3291 ). Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Mai 2018 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art107d",
+      "section": "107d",
+      "title": "d Übergangsbestimmung zur Änderung vom 30. November 2017: Anpassung der technischen Parameter per 1. Januar 2019 – nominelle Besitzstandsgarantie für die Altersrente",
+      "content": "1 Versicherte Personen, die am 31. Dezember 2018 mindestens 60 Jahre alt sind, haben bei Altersrücktritt Anspruch auf eine Altersrente, die mindestens der Altersrente entspricht, auf die bei Rücktritt per 31. Dezember 2018 ohne Anpassung der technischen Parameter Anspruch bestanden hätte. 2 Wird das Altersguthaben oder ein Guthaben aus dem ZP-Konto ab dem 1. Januar 2019 vermindert, insbesondere bei Bezug der Altersleistungen als einmalige Kapitalabfindung, bei Teilaltersrücktritt, bei Bezug von Teilinvaliden- oder Teilberufsinvalidenleistungen, bei Vorbezügen, Auszahlungen wegen einer Pfandverwertung oder infolge Scheidung bzw. gerichtlicher Auflösung der eingetragenen Partnerschaft, so entfällt die Garantie gemäss Absatz 1. Die Garantie entfällt auch bei Austritt aus dem Vorsorgewerk ab dem 1. Januar 2019. Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art107e",
+      "section": "107e",
+      "title": "e Übergangsbestimmung zur Änderung vom 30. November 2017: Anpassung der technischen Parameter per 1. Januar 2019 – Aufwertung der Alters-, Invaliden- oder Hinterlassenenrente",
+      "content": "1 Zur Abfederung der Auswirkungen der per 1. Januar 2019 in Kraft tretenden neuen technischen Grundlagen werden die Altersguthaben und Guthaben aus dem ZP-Konto von zwischen dem 1. Januar 2018 und dem 31. Dezember 2018 ununterbrochen im Vorsorgewerk ETH-Bereich versicherten und am 31. Dezember 2018 mindestens 60 Jahre alten Personen nach den Absätzen 2–5 aufgewertet. 2 Die Aufwertung erfolgt erst im Zeitpunkt des Altersrücktritts und nur in dem Umfang, in dem eine Altersrente bezogen wird. 3 Für die Aufwertung massgebend sind: a. das Altersguthaben und ein Guthaben aus dem ZP-Konto, die am 31. Dezember 2018 im Vorsorgewerk ETH-Bereich vorhanden sind, abzüglich ab dem 1. Januar 2016 getätigte Einkäufe, Wiedereinkäufe nach Scheidung bzw. nach gerichtlicher Auflösung der eingetragenen Partnerschaft sowie Rückzahlungen von im Rahmen der Wohneigentumsförderung erfolgten Vorbezügen und Auszahlungen wegen einer Pfandverwertung; und b. das Alter der versicherten Person am 31. Dezember 2018. 4 Die folgende Tabelle bildet die Grundlage für die Aufwertung (monatliche Interpolation): Alter am 31. Dezember 2018 Aufwertung in % Männer Frauen 70 10,07 % 10,07 % 69 10,24 % 10,24 % 68 10,39 % 10,39 % 67 10,74 % 10,74 % 66 11,07 % 11,07 % 65 11,00 % 11,00 % 64 11,00 % 11,00 % 63 10,41 % 11,00 % 62 9,63 % 10,41 % 61 8,64 % 9,63 % 60 7,07 % 8,06 % 5 Wird das Altersguthaben oder ein Guthaben aus dem ZP-Konto nach dem 31. Dezember 2018 infolge Bezugs der Altersleistungen als einmalige Kapitalabfindung, infolge von Vorbezügen und Auszahlungen wegen einer Pfandverwertung im Rahmen der Wohneigentumsförderung oder infolge von Auszahlungen nach Scheidung bzw. gerichtlicher Auflösung der eingetragenen Partnerschaft vermindert oder erfolgt die Auszahlung eines Guthabens aus dem ZP-Konto als einmalige Kapitalabfindung gemäss Artikel 55 Absatz 1 Buchstabe b, so wird die Aufwertung anteilsmässig gekürzt. 6 Entsteht nach dem 31. Dezember 2018 Anspruch auf eine Invaliden- oder Berufsinvalidenrente, so erfolgt die Aufwertung nach den Absätzen 1 und 3–5 auf demjenigen Teil des am 31. Dezember 2018 vorhandenen Altersguthabens, der für die Berechnung der Invaliden- oder Berufsinvalidenrente massgebend ist. Auf einem am 31. Dezember 2018 vorhandenen Guthaben aus dem ZP-Konto erfolgt die Aufwertung nach den Absätzen 1 und 3–5, sofern es zugunsten einer späteren Erhöhung der Altersrente gemäss Artikel 55 Absatz 1 Buchstabe a stehengelassen wurde. 7 Stirbt eine versicherte Person nach dem 31. Dezember 2018, so erfolgt die Aufwertung nach den Absätzen 1 und 3–5 auf dem am 31. Dezember 2018 vorhandenen Altersguthaben für die Berechnung der Hinterlassenenrente. Wird die Ehegatten- oder die Lebenspartnerrente ganz oder teilweise als einmalige Kapitalabfindung bezogen, so wird die Aufwertung anteilsmässig gekürzt. Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art107f",
+      "section": "107f",
+      "title": "f Übergangsbestimmung zur Änderung vom 30. November 2017",
+      "content": "1 Die bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Januar 2015 und dem Inkrafttreten der Änderung vom 30. November 2017 entstandenen Altersrenten infolge Bezugs einer Überbrückungsrente richtet sich sinngemäss nach Artikel 102 Absatz 2. 2 Die Kürzung der nach dem Inkrafttreten der Änderung vom 30. November 2017 entstandenen Hinterlassenenrenten richtet sich sinngemäss nach Artikel 102 Absatz 4 Buchstabe b, sofern eine Person, die eine zwischen dem 1. Januar 2015 und dem Inkrafttreten dieser Änderung entstandene Altersrente bezieht, vor Erreichen des AHV-Alters stirbt. Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 2465 )."
+    },
+    {
+      "provision_ref": "art107g",
+      "section": "107g",
+      "title": "g Übergangsbestimmung zur Änderung vom 16. Oktober 2019",
+      "content": "Bestehende Gesundheitsvorbehalte werden mit dem Inkrafttreten der Änderung vom 16. Oktober 2019 hinfällig. Eingefügt durch Ziff. I des Beschlusses des PO ETH vom 21. März und 16. Okt. 2019, vom BR genehmigt am 6. Dez. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 4735 )."
+    },
+    {
+      "provision_ref": "art107h",
+      "section": "107h",
+      "title": "h Übergangsbestimmung zur Änderung vom 20. November 2020",
+      "content": "Versicherte, die vor dem 1. Dezember 2020 das 62. Altersjahr vollendet und vor dem 1. Januar 2021 Vorbezüge für die Wohneigentumsförderung noch nicht zurückbezahlt haben: a. können die Vorbezüge nicht mehr zurückbezahlen; die Pflichten nach Artikel 93 Absatz 1 entfallen; b. können Einkäufe tätigen, soweit diese zusammen mit den Vorbezügen die maximalen Leistungen nach diesem Reglement nicht überschreiten. Eingefügt durch Ziff. I der Beschlüsse des PO ETH vom 26. März/20. Nov. 2020, vom BR genehmigt am 26. Jan. 2022 und in Kraft seit 1. Jan. 2021 ( AS 2022 74 )."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "2. Abschnitt: Inkrafttreten",
+      "section": "108",
+      "title": "10 8",
+      "content": "1 Dieses Vorsorgereglement tritt zusammen mit dem Anschlussvertrag in Kraft. 2 Änderungen des Vorsorgereglements stellen eine Änderung des Anschlussvertrags dar. Sie bedürfen zu ihrer Gültigkeit der Zustimmung der Vertragspartner des Anschlussvertrags und des paritätischen Organs sowie der Genehmigung durch den Bundesrat."
+    }
+  ],
+  "definitions": []
+}

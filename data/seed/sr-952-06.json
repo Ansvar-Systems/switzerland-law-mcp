@@ -1,0 +1,473 @@
+{
+  "id": "sr-952-06",
+  "type": "statute",
+  "title": "Verordnung vom 30. November 2012 über die Liquidität der Banken und Wertpapierhäuser (Liquiditätsverordnung, LiqV)",
+  "title_en": "Ordinance of 30 November 2012 on the Liquidity of Banks and Securities Firms (Liquidity Ordinance, LiqO)",
+  "short_name": "LiqV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/883/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "1 This Ordinance governs qualitative and quantitative liquidity requirements for banks in accordance with the BankA and account-holding securities firms pursuant to the FinIA (hereinafter banks). 2 FINMA shall issue technical implementing provisions. Amended by Annex 1 No II 11 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ( AS 2019 4633 )."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1a",
+      "title": "a Basel Minimum Standards",
+      "content": "1 In this Ordinance, Basel Minimum Standards means those documents of the Basel Committee on Banking Supervision (BCBS) that this Ordinance declares to be relevant, in particular for calculating liquidity requirements. 2 The relevant authoritative version of the Basel Minimum Standards is set out in Annex 1 hereto, as well as in Annex 1 of the Capital Adequacy Ordinance of 1 June 2012 (CAO). Inserted by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). SR 952.03"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Principles",
+      "content": "1 Every bank shall, at all times, maintain sufficient liquidity to meet its payment obligations even in stress situations. 2 It shall maintain a sufficient and sustainable liquidity reserve against short-term deteriorations in liquidity, and shall ensure appropriate medium- to long-term funding. Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 )."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Chapter 2 …",
+      "section": "34",
+      "title": "",
+      "content": "Repealed by No I of the O of 11 Sept. 2020, with effect from 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 1 Qualitative Requirements",
+      "section": "5",
+      "title": "Proportionality",
+      "content": "Depending on their size and the type, scope, complexity and riskiness of their business activities, banks are required to appropriately manage their liquidity risk at the level of the financial group and the individual entity."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 1 Qualitative Requirements",
+      "section": "6",
+      "title": "Management, control and steering functions",
+      "content": "1 Banks shall define the degree of liquidity risk which they are prepared to take on (liquidity risk tolerance). 2 They shall define liquidity risk management strategies consistent with their liquidity risk tolerance. 3 They shall take into account their liquidity costs and risks for all material on- and off-balance sheet business, in particular when setting prices, introducing new products and measuring revenue. They shall ensure a balanced relationship between risk incentives and liquidity risk exposure in accordance with the defined liquidity risk tolerance."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 1 Qualitative Requirements",
+      "section": "7",
+      "title": "Risk measurement and management systems",
+      "content": "1 Banks shall establish appropriate processes for identifying, assessing, managing and monitoring liquidity risk. In particular, they shall draw up liquidity statements for different periods, together with a comparison of probable cash inflows and outflows from on- and off-balance sheet items. 2 They shall identify, manage and monitor the liquidity risk and the funding needs of the financial group and of the legal entities, business areas and currencies that are of significance as regards liquidity risk. In so doing, they shall take into account any legal, regulatory and operational limitations to the transferability of liquidity. 3 They shall identify, manage and monitor intraday liquidity risk. The liquidity risk exposure must not impact on payment and settlement obligations and systems. 4 They shall monitor the assets used to generate liquidity, and shall distinguish between encumbered and unencumbered assets. They must be able to show at all times where assets are held and how they can be liquidated in a timely manner. Amended by No I of the O of 25 June 2014, in force since 1 Jan. 2015 ( AS 2014 2321 ). Amended by No I of the O of 25 June 2014, in force since 1 Jan. 2015 ( AS 2014 2321 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 1 Qualitative Requirements",
+      "section": "8",
+      "title": "Risk mitigation",
+      "content": "Banks shall take measures to mitigate their liquidity risk. They shall, in particular, have a system of limits and a funding structure which is appropriately diversified as regards funding sources and maturities."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 1 Qualitative Requirements",
+      "section": "9",
+      "title": "Stress tests",
+      "content": "1 Each bank shall draw up different stress scenarios for liquidity risk and shall perform stress tests of their liquidity situation using these scenarios as a basis. In so doing, the bank shall take account of payment flows from off-balance sheet items and other contingent commitments, including those from securitisation special purpose entities and other special purpose entities in which it acts as liquidity provider or is contractually or reputationally obliged to provide material liquidity assistance. 1bis For stress testing purposes, banks in categories 4 and 5 under Annex 3 BankO shall exclusively use the stress scenario stipulated in Article 12 paragraph 1. 2 The following shall be taken into account when selecting the stress scenarios: a. institution-specific, market-wide and combined causes and factors; b. different time horizons; c. different degrees of severity for stress events, including the scenario of a loss of unsecured funding together with restrictions on secured funding. 3 The scenario assumptions, in particular those on cash inflows and outflows and the liquidity value of assets during a stress event, shall be reviewed regularly, as well as after the occurrence of a stress event. 4 The evaluation of the stress tests shall include an analysis of the impact on the income statement. SR 952.02 Inserted by No III of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ( AS 2019 4623 ). Amended by No I of the O of 25 June 2014, in force since 1 Jan. 2015 ( AS 2014 2321 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Contingency funding plan",
+      "content": "1 Each bank shall draw up a contingency funding plan containing effective strategies for addressing liquidity shortfalls. It shall define the responsibilities, communication channels and necessary measures in appropriate form in internal regulations and directives. 2 When drawing up the contingency funding plan, particular attention shall be given to the stress scenarios under Article 9 paragraph 1 and the results of the stress tests."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "Repealed by No I of the O of 11 Sept. 2020, with effect from 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 2",
+      "section": "12",
+      "title": "Liquidity coverage ratio",
+      "content": "1 The liquidity coverage ratio (LCR) is aimed at ensuring that banks hold sufficient high-quality liquid assets (HQLA) to cover, at all times, the net cash outflow which can be expected under a stress scenario based on inflow and outflow assumptions over a time horizon of thirty calendar days (30-day horizon). The assumptions on cash outflows and outflow rates shall be based on Annex 2, and those on cash inflows and inflow rates shall be based on Annex 3. 2 Compliance with the LCR does not release banks from the obligation to maintain sufficient liquidity reserves under Article 2 paragraph 2 while taking account of the results of stress tests under Article 9 paragraph 1."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 2",
+      "section": "13",
+      "title": "",
+      "content": "The LCR is the quotient of: a. the stock of HQLA (numerator); b. the net cash outflow expected over a 30-day horizon under the stress scenario (denominator). Amended by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 2",
+      "section": "14",
+      "title": "Compliance with LCR requirements",
+      "content": "1 The bank meets the LCR requirements if the ratio under Article 13 is at least 1. 2 The LCR shall be complied with separately at the level of the financial group and the individual entity for: a. all positions under Articles 15 a , 15 b and 16 across all currencies, converted into Swiss francs; and b. all positions under Articles 15 a , 15 b and 16 in Swiss francs, subject to Article 17. 3 FINMA shall regulate: a. the extent to which holding companies with a banking subsidiary can be exempted from LCR compliance if such compliance by the holding company is not warranted from a regulatory perspective; b. the extent to which the parent company of a financial group with a holding structure can be exempted as an individual entity from LCR compliance; c. the extent to which provision can be made for less stringent requirements for banks in categories 4 and 5 under Annex 3 of the Banking Ordinance of 30 April 2014 (BankO) with regard to demonstrating LCR compliance. 4 In individual cases, it may: a. issue orders that diverge from the regulatory consolidation requirement under Article 7 of the Capital Adequacy Ordinance of 1 June 2012 (CAO) if this is necessary in order to capture additional significant interests from a liquidity risk perspective; b. impose higher LCR requirements on a bank if this is necessary because of the bank's business activities, the liquidity risk exposure, the business strategy, the quality of liquidity risk management or the sophistication of the technology used. 5 If an individual entity derives a significant part of its funding from foreign branches, FINMA may additionally require that the entity calculate the LCR excluding the expected cash inflows from these branches. Based on its risk assessment, FINMA may set additional requirements as regards LCR compliance in this case. 6 At the request of the bank, foreign branches in Switzerland whose foreign parent company is subject to supervision and legal requirements that are equivalent to those in Switzerland may be exempted by FINMA from LCR compliance if comparable consolidated data on the LCR is published. Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). Inserted by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). SR 952.02 Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). SR 952.03 Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "HQLA: Definition and composition",
+      "content": "1 HQLA comprise assets: a. which the bank can dispose of freely, at any time within the next 30 calendar days and without significant loss of value; and b. which meet the additional requirements under Article 15 d . 2 HQLA may be: a. assets with the highest liquidity under Article 15 a (Level 1); b. assets with high liquidity under Article 15 b (Levels 2A and 2B)."
+    },
+    {
+      "provision_ref": "art15a",
+      "section": "15a",
+      "title": "a HQLA: Level 1 assets",
+      "content": "1 Level 1 assets comprise the following assets: a. banknotes and coins; b. deposits at central banks, including minimum reserves, to the extent that the relevant central bank's policies allow them to be drawn down in times of liquidity stress; c. marketable securities representing claims on: 1. a central government, 2. a central bank, 3. a subordinate regional body with budgetary autonomy and the right to levy taxes, or other public sector entity, 4. the Bank for International Settlements, 5. the International Monetary Fund, 6. the European Central Bank, 7. the European Union, 8. multilateral development banks; c. bis marketable securities guaranteed by the institutions under letter c; d. marketable securities representing claims on a central government or a central bank in domestic currency, which are issued by the relevant central government or the central bank in the country in which the liquidity risk arises or in the bank's home country, if the central government is assigned a risk weight of more than 0 per cent under Annex 2 No 1.1 CAO; and e. marketable securities representing claims on the Confederation or the Swiss National Bank (SNB) in foreign currency, up to the amount of the stress-related net cash outflow in the foreign currency in which the liquidity risk is incurred; this also applies if Switzerland's risk weight is more than 0 per cent under Annex 2 No 1.1 CAO. 2 The marketable securities under paragraph 1 letters c and c bis may be included as Level 1 assets only if they meet the following criteria: a. They are assigned a risk weight of 0 per cent under Annex 2 Nos 1 or 3.2 CAO. b. In the case of guaranteed claims, there exists either an explicit, irrevocable and unconditional guarantee from a central government or a subordinate regional body, or joint liability of several regional bodies. c. It is not a liability of a financial institution under Annex 1 a or of a financial institution's affiliated entity. This excludes bonds of financial institutions set up by a central government or by the government of a subordinate regional body in order to grant promotional loans on the state's behalf on a non-competitive, non-profit basis. 3 Level 1 assets are measured at current market value. Term in accordance with No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). This amendment has been made throughout the text. Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). SR 952.03 Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). Term in accordance with Annex No 3 para. 1 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). This amendment has been made throughout the text."
+    },
+    {
+      "provision_ref": "art15b",
+      "section": "15b",
+      "title": "b HQLA: Level 2 assets",
+      "content": "1 Level 2A assets comprise the following assets: a. marketable securities representing claims on: 1. a central government, 2. a central bank, 3. a subordinate regional body or other public sector entity, 4. and 5. … 6. multilateral development banks; a. bis marketable securities guaranteed by the institutions under letter a; b. marketable corporate bonds, including money market instruments if these are issued by entities that are not financial institutions under Annex 1 a , either individually or in affiliation with others; and c. marketable covered bonds with special provisions that are not issued by the bank itself or by another affiliated financial institution under Annex 1 a ; mortgage bonds issued by the central mortgage bond institutions under the Mortgage Bond Act of 25 June 1930 (MBoA) may be included. 2 The marketable securities under paragraph 1 letters a and a bis may be included as Level 2 assets only if they meet the following criteria: a. They are assigned a risk weight of at most 20 per cent under Annex 2 Nos 1 to 3 CAO. b. It is not a liability of a financial institution under Annex 1 a or of a financial institution's affiliated entity. This excludes bonds of financial institutions set up by a central government or by the government of a subordinate regional body in order to grant promotional loans on the state's behalf on a non-competitive, non-profit basis. 3 The corporate bonds under paragraph 1 letter b and the covered bonds under paragraph 1 letter c may be included as Level 2A assets if: a. they have a long-term rating of 1 or 2 under Annex 2 CAO; b. they have a short-term rating of 1 under Article 64 a paragraph 2 CAO; c. they are used to cover outflows abroad and have a rating from a rating agency recognised by the relevant national supervisory authority which is equivalent to a rating under letter a or b; or d. they have no rating under letters a to c, but have been internally assessed with a probability of default equivalent to a rating of 1 or 2 under Annex 2 CAO. 4 Level 2A assets are measured at current market value, subject to a haircut of 15 per cent. 5 FINMA may designate other Level 2 assets (Level 2B assets), provided that: a. they have a proven record as a reliable source of liquidity even during stressed conditions on the repo or spot markets; and b. they were not issued by a financial institution under Annex 1 a or by a financial institution's affiliated entity. 6 Level 2B assets are measured at current market value, subject to a haircut of at least 50 per cent. Repealed by No I of the O of 22 Nov. 2017, with effect from 1 Jan. 2018 ( AS 2017 7635 ). Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). SR 211.423.4 Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). SR 952.03 Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 )."
+    },
+    {
+      "provision_ref": "art15c",
+      "section": "15c",
+      "title": "c HQLA: Eligibility",
+      "content": "1 For LCR calculation purposes, the following assets may be included in the total stock of HQLA: a. Level 1 assets: unlimited; b. Level 2B assets only: no more than 15 per cent; c. Level 2A and 2B assets combined: no more than 40 per cent. 2 Prior to the calculation of the caps under paragraph 1 letters b and c: a. the haircuts of 15 per cent and 50 per cent referred to in Article 15 b paragraphs 4 and 6 are to be applied; b. transactions are to be closed out in accordance with Article 15 e ; and c. secured funding transactions are to be settled if they: 1. involve the exchange of HQLA, 2. are not covered by Article 15 e , and 3. have a maximum maturity of 30 calendar days. 3 The caps shall be complied with at the level of the financial group and the individual entity. 4 FINMA shall define the requirements on calculating the caps. 5 Level 1 and 2 assets that constitute securities, bonds or debt instruments issued abroad may be included in the stock of HQLA only if they: a. qualify as HQLA under the requirements imposed by the relevant foreign regulations; or b. are recognised by the SNB as collateral eligible for SNB repo transactions. 6 For LCR compliance purposes, qualifying HQLA are those which, under the stress scenario, are held on the first day of the 30-day horizon, irrespective of their residual maturity. HQLA which are to be closed out under Article 15 e are not included. 7 Starting from the time at which assets cease to qualify as HQLA, they may continue to be counted as HQLA for another 30 calendar days. 8 HQLA that are held by a branch or a consolidated entity for the purpose of complying with local liquidity requirements and which exceed this branch or entity's contribution to the bank's net cash outflow under Article 16 shall not be included in the bank's stock of HQLA. Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). Inserted by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art15d",
+      "section": "15d",
+      "title": "d HQLA: Additional requirements",
+      "content": "FINMA shall regulate: a. the defining characteristics of HQLA, in order that liquidity can be reliably obtained over a 30-day horizon even under the stress scenario; b. the operating requirements to be met by HQLA management, in order that liquidity can be reliably obtained over a 30-day horizon even under the stress scenario; c. the requirements for appropriate diversification of HQLA. Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 )."
+    },
+    {
+      "provision_ref": "art15e",
+      "section": "15e",
+      "title": "e HQLA: Close-out",
+      "content": "1 Secured funding transactions shall be closed out if they involve the exchange of HQLA and mature within 30 calendar days. 2 Secured funding transactions comprise securities swaps and securities financing transactions such as repos and securities lending and borrowing transactions. 3 Liquidity-absorbing operations of the SNB shall be closed out, irrespective of the type of collateral, if they mature within 30 calendar days. Liquidity-providing operations of the SNB shall be closed out only if they are collateralised with HQLA and mature within 30 calendar days. 4 Exchanges of Level 2B assets and secured funding transactions shall not be closed out if the received assets are used to cover short positions with a term longer than 30 calendar days. A short position comprises both the uncovered lending and the uncovered sale of assets. 5 For transactions with the SNB under contracts allowing termination of the transaction, the period of notice shall be determinative when calculating the residual maturity. 6 FINMA shall issue technical implementing provisions on secured funding transactions in foreign currencies for which the bank does not have an account with the corresponding foreign central bank. Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). Inserted by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Net cash outflow",
+      "content": "1 Net cash outflow is calculated from the total expected cash outflows over a 30-day horizon under the stress scenario, less the total expected cash inflows over the same period. 2 When calculating net cash outflow, the expected cash inflows that can offset outflows shall be capped at 75 per cent of total expected cash inflows. Upon request, FINMA may exempt securities firms without a central bank account from this restriction. 3 Cash outflows are calculated by weighting the on- and off-balance sheet items with the applicable outflow rates under Annex 2, according to outflow category. 4 If a position can be assigned to more than one outflow category, the category with the highest outflow rate applies. 5 Cash inflows are calculated by weighting the balance sheet items with the applicable inflow rates in Annex 3, according to inflow category. 6 If a position can be assigned to more than one inflow category, the category with the lowest inflow rate applies. 7 No cash inflows or outflows shall be included for positions that are to be closed out in accordance with Article 15 e . 8 On- and off-balance sheet items must not be double-counted. Specifically, assets within the stock of HQLA must not be simultaneously included in cash inflows. 9 FINMA may deviate from Annex 2: a. by setting lower outflow rates for stable deposits abroad that are subject to particularly secure deposit insurance arrangements; b. by recognising an internal model-based approach for calculating increased liquidity needs related to market valuation changes on derivatives transactions and other financial transactions. Amended by Annex 1 No II 11 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ( AS 2019 4633 )."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "LCR compliance in Swiss francs",
+      "content": "1 FINMA shall determine the criteria and scope for banks to include HQLA in foreign currency for the purpose of compliance with the LCR under Article 14 paragraph 2 letter b. 2 For banks that do not hold HQLA in foreign currency for operational purposes, FINMA shall determine the criteria and scope for them to include Level 2A assets beyond the 40 per cent cap (Art. 15 c para. 1 let. c)."
+    },
+    {
+      "provision_ref": "art17a",
+      "section": "17a",
+      "title": "a LCR in significant foreign currencies",
+      "content": "1 The LCR shall be calculated and monitored for all positions in each significant foreign currency. 2 The 15 per cent and 40 per cent caps under Article 15 c paragraph 1 letters b and c shall be taken into account when calculating the LCR in each significant foreign currency. The 75 per cent cap for cash inflows under Article 16 paragraph 2 shall not be taken into account. 3 FINMA shall regulate: a. the consolidation level at which the calculation and monitoring obligation applies; b. the share of foreign currency liabilities, relative to a bank's total liabilities, at which a foreign currency is deemed to be a significant currency. 4 In individual cases and where there are legitimate grounds for so doing, FINMA may set floors for the LCR in significant foreign currencies, where a bank has excessive exposure to foreign exchange risk. 5 In addition, it may set requirements concerning LCR compliance in significant foreign currencies if this is necessary for the implementation of recognised international standards. 6 HQLA in foreign currency that are included as cover for the net cash outflow in Swiss francs under Article 17 must not be included as cover for the net cash outflow in the relevant foreign currency."
+    },
+    {
+      "provision_ref": "art17b",
+      "section": "17b",
+      "title": "b Shortfall in the LCR",
+      "content": "1 If there is a sharp contraction in liquidity owing to exceptional events, liquidity may be allowed to fall short of the required level of compliance temporarily. 2 Banks shall inform FINMA without delay if they fall short of the required level of compliance, or are likely to do so. 3 They shall immediately present FINMA with a plan detailing what measures are to be employed to restore the required level of compliance, and by what deadline. 4 If the plan does not ensure that the required level of compliance is restored within a reasonable period, FINMA may take appropriate measures. 5 For banks that fall short of the required level of compliance, FINMA may impose intra-month LCR reporting with short reporting deadlines and additional liquidity reporting; these reports shall be appropriate to the duration and magnitude of the shortfall in the LCR."
+    },
+    {
+      "provision_ref": "art17c",
+      "section": "17c",
+      "title": "c Liquidity statement",
+      "content": "1 FINMA shall define the format and content of the statement of compliance with the LCR (liquidity statement). It may provide for less stringent requirements for banks in categories 4 and 5 under Annex 3 BankO. 2 Banks shall base their valuation of the positions in the liquidity statement on the annual accounts prepared according to accounting standards. 3 Non-systemically important banks shall submit monthly liquidity statements to the SNB within 20 calendar days of the last calendar day of the month. FINMA may grant a bank a lower reporting frequency upon request and when justified by the circumstances. 4 Systemically important banks shall submit monthly liquidity statements to the SNB within 15 calendar days of the last calendar day of the month. 5 FINMA shall set special reporting requirements for banks which: a. hold positions in significant foreign currencies under Article 17 a paragraph 1; b. as set out in Article 14 paragraph 5, are funded largely via foreign branches. 6 It may require that the liquidity statement contain additional reporting on assets that have an impact on liquidity and are not HQLA. Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). SR 952.02"
+    },
+    {
+      "provision_ref": "art17d",
+      "section": "17d",
+      "title": "d Intra-group cash inflows and outflows",
+      "content": "For cash inflows and outflows between a parent company and subsidiaries in the same financial group, FINMA may define different inflow and outflow rates to those under Annexes 2 and 3."
+    },
+    {
+      "provision_ref": "art17e",
+      "section": "17e",
+      "title": "e Disclosure",
+      "content": "1 Banks shall publish regular information in appropriate form on their liquidity situation and their LCR. 2 Systemically important banks shall disclose the LCR as a daily average of the previous 90 days. If the bank is subject to only a semi-annual disclosure requirement, daily data for the previous 180 days shall be used. 3 FINMA may require additional banks to disclose the LCR as a daily average if it deems it appropriate from a risk assessment perspective or with respect to the need for public information. 4 FINMA shall regulate the details of the disclosure. In particular, it shall define which LCR-related information is to be disclosed in addition to the LCR. Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 )"
+    },
+    {
+      "provision_ref": "art17f",
+      "chapter": "48",
+      "section": "17f",
+      "title": "f Net stable funding ratio",
+      "content": "1 The net stable funding ratio (NSFR) is designed to ensure that a bank's stable funding is maintained on an ongoing basis over a one-year horizon. 2 Funding is stable if the assets and the off-balance sheet items under Annex 5 Nos 8, 9.1 and 9.2 are funded sustainably over the longer term. Inserted by No I of the O of 25 June 2014 ( AS 2014 2321 ). Amended by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17g",
+      "chapter": "48",
+      "section": "17g",
+      "title": "g Calculation of the NSFR",
+      "content": "The NSFR is the quotient of: a. available stable funding, ASF (numerator); b. required stable funding, RSF (denominator). Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17h",
+      "chapter": "48",
+      "section": "17h",
+      "title": "h Compliance with NSFR requirements",
+      "content": "1 The bank meets the NSFR requirements if the ratio under Article 17 g is at least 1. 2 The NSFR requirement shall be met at the level of the financial group and the individual entity for all positions under Articles 17 k and 17 m across all currencies, converted into Swiss francs. 3 For individual entities of a financial group, FINMA may permit: a. NSFR compliance to be aggregated across several individual entities domiciled in Switzerland; or b. the surplus funding of one individual entity domiciled in Switzerland to be recognised for another individual entity domiciled in Switzerland. 4 However, individual entities under paragraph 3 that are domiciled in Switzerland must demonstrate at least a stand-alone NSFR of 0.8. 5 Individual entities with significant domestic systemically important functions must also meet the NSFR requirement on a stand-alone basis in any case. 6 Article 14 paragraphs 3 to 6 apply by analogy. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17i",
+      "chapter": "48",
+      "section": "17i",
+      "title": "i Calculation of secured funding transactions",
+      "content": "1 Securities which the bank receives from reverse repos and securities swaps shall be recorded as assets only if the bank becomes the owner of the rights associated with the securities and bears the market risk of the securities. 2 Securities which the bank lends as part of repos and securities swaps and which are encumbered as a result shall be recorded as assets only if the bank remains the owner of the rights associated with the securities and bears the market risk of the securities. 3 Assets and liabilities may be netted against each other only if: a. they involve a secured funding transaction with the same counterparty; and b. the criteria under paragraph 30.37 of the Basel Leverage Ratio Framework (LEV), in the version stipulated in Annex 1 No 7 CAO, are met. 4 FINMA shall issue implementing provisions on the calculation: a. in cases where the residual maturity of the encumbered securities is shorter than the maturity of the secured funding transaction; b. of partly secured funding transactions; c. of secured funding transactions with no fixed maturity. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 ). Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan. 2025 ( AS 2024 13 ). SR 952.03"
+    },
+    {
+      "provision_ref": "art17j",
+      "section": "17j",
+      "title": "j Calculation of derivative liabilities and assets",
+      "content": "1 Derivative liabilities shall be calculated using the negative replacement values of the outstanding contracts at market value. 2 Derivative assets shall be calculated using the positive replacement values of the outstanding contracts at market value. 3 If netting agreements exist between the bank and its counterparty which meet the criteria under section 30 LEV, in the version stipulated in Annex 1 No 7 CAO, the net replacement values shall be determinative for the derivatives transactions covered by these agreements. 4 When calculating derivative liabilities, collateral in the form of variation margin payments shall be deducted from the negative replacement value amount, irrespective of the type of collateral. 5 When calculating derivative assets, no collateral received may be deducted from the positive replacement value amount, unless the bank has received collateral from variation margin payments in the form of Level 1 assets under Article 15 a and the additional criteria under section 30 LEV, in the version stipulated in Annex 1 No 7 CAO, are met. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 ). SR 952.03 Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan 2025 ( AS 2024 13 ). Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan 2025 ( AS 2024 13 )."
+    },
+    {
+      "provision_ref": "art17k",
+      "section": "17k",
+      "title": "k Calculation of the ASF",
+      "content": "1 The ASF amount shall be calculated by: a. assigning the carrying values of the liabilities and equity to the ASF categories under Annex 4 and multiplying them by the associated ASF factor; and b. adding together the carrying values weighted according to letter a across all ASF categories. 2 The carrying value of capital instruments and liabilities that constitute eligible capital under Articles 21 to 30 CAO shall be based on the value before the corrections in Articles 31 to 40 CAO are applied. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 ). SR 952.03"
+    },
+    {
+      "provision_ref": "art17l",
+      "section": "17l",
+      "title": "l Determining the residual maturity of capital instruments and liabilities",
+      "content": "1 For calculating the residual maturity in the case of capital instruments and liabilities where the investors or creditors have an option to terminate, repurchase early or cancel, it shall be assumed that the options are exercised at the earliest possible date. 2 If there is a market expectation on the part of investors or creditors that the bank will exercise options to repurchase capital instruments and liabilities before the contractually agreed due date for reputational reasons, the capital instruments and liabilities shall be assigned to the ASF category under Annex 4 corresponding to the expected shorter residual maturity. 3 If extension options exist, it shall be assumed that neither the bank nor the investors or creditors will exercise them. A bank's extension option may be included, provided the extension does not have a negative impact on the bank's reputation. 4 For long-term liabilities with tranched payments, only the tranche maturing within one year shall be assigned to the ASF category with a residual maturity of less than one year. 5 If a capital instrument or a liability can be assigned to more than one ASF category, the category with the lowest ASF factor shall be determinative. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17m",
+      "section": "17m",
+      "title": "m Calculation of the RSF",
+      "content": "1 The RSF amount shall be calculated by: a. assigning the carrying values of the assets and off-balance sheet items to the RSF categories under Annex 5 and multiplying them by the associated RSF factor; and b. adding together the weighted carrying values under letter a across all RSF categories. 2 The carrying value of the assets and off-balance sheet items shall be calculated on the basis of the value recorded in the annual accounts. Value adjustments shall be recognised in accordance with paragraph 20.1 of the Basel Minimum Standards on the calculation of RWA for credit risk (CRE), in the version stipulated in Annex 1 No 4 CAO and section 30 LEV, in the version stipulated in Annex 1 No 7 CAO. 3 When calculating the carrying value of unencumbered residential mortgage claims under Annex 5 Nos 5.1 and 5.1a, the assets posted as collateral for mortgage bond loans in accordance with the MBoA shall be fully deducted. 4 The calculation of the carrying value of encumbered mortgage claims and the duration of the encumbrance shall be based on the carrying value and the residual maturity of the mortgage bond loans to be secured. 5 FINMA shall issue implementing provisions on the calculations in paragraphs 3 and 4. 6 At the request of the SNB, FINMA may temporarily reduce the RSF factors of certain transactions in cases where this allows a significant impairment of monetary policy implementation to be avoided. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 ). SR 952.03 Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan 2025 ( AS 2024 13 ). SR 211.423.4 Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan 2025 ( AS 2024 13 )."
+    },
+    {
+      "provision_ref": "art17n",
+      "section": "17n",
+      "title": "n Determining the residual maturity of assets and off-balance sheet items",
+      "content": "1 For determining the residual maturity of assets and off-balance sheet items, the contractually agreed maturity date shall be determinative. 2 If the counterparties or obligors have the option to extend maturities, it shall be assumed that the options are exercised. If the maturity extension begins from the time at which an option is exercised, it shall be assumed that the counterparties or obligors exercise the option at the latest possible date. 3 If there is a market expectation on the part of counterparties or obligors that the bank will exercise options to extend maturities for reputational reasons, the assets and off-balance sheet items shall be assigned to the RSF category corresponding to the expected extended residual maturity. 4 If early termination or repayment options exist, it shall be assumed that the bank, the counterparties or the obligors do not exercise them. 5 For redemption loans, instalment loans and annuity loans, only the portion falling due within one year may be assigned to the RSF category with a residual maturity of less than one year. 6 If an asset or an off-balance sheet item can be assigned to more than one RSF category, the category with the highest RSF factor shall be determinative. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17o",
+      "section": "17o",
+      "title": "o Calculation of the reference date",
+      "content": "1 For calculating the NSFR, the reference date shall be based on the accounting standards applicable to the bank. 2 If the bank's accounting standards allow both settlement date reporting and trade date reporting, the bank may use settlement date reporting even if the accounts are drawn up using trade date reporting. 3 The ASF factor for trade date payables shall be based on Annex 4 No 6.4, and the RSF factor for trade date receivables on Annex 5 No 1.4. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17p",
+      "section": "17p",
+      "title": "p Determining interdependent liabilities and assets",
+      "content": "1 FINMA shall determine the interdependent liabilities and assets to which ASF and RSF factors of 0 per cent may be applied. In so doing, it shall take account of international developments. 2 The application of 0 per cent ASF and RSF factors is permitted only where: a. the individual interdependent asset and liability items are clearly identifiable; b. the maturity and principal amount of the interdependent liabilities and assets are the same; c. the liability arising from the received funding matches its interdependent asset; and d. the asset counterparty and the liability counterparty are not the same. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17q",
+      "section": "17q",
+      "title": "q Funding statement",
+      "content": "1 FINMA shall define the format and content of the statement of compliance with the NSFR (funding statement). It may provide for less stringent requirements for banks in categories 4 and 5 under Annex 3 BankO. 2 Banks shall base their calculation of the positions in the funding statement on the annual accounts prepared according to the accounting standards. 3 Non-systemically important banks shall submit quarterly funding statements to the SNB within 60 calendar days of the last calendar day of the quarter. Banks in categories 4 and 5 shall submit them semi-annually. FINMA may permit a bank to report at longer intervals upon request and when justified by the circumstances. 4 Systemically important banks shall submit monthly funding statements to the SNB within 30 calendar days of the last calendar day of the month. 5 FINMA may set special reporting requirements for banks which, as described in Article 14 paragraph 5, are funded largely via foreign branches. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 ). SR 952.02"
+    },
+    {
+      "provision_ref": "art17r",
+      "section": "17r",
+      "title": "r Intra-group funding transactions",
+      "content": "For funding transactions within the same financial group, FINMA may set ASF and RSF factors that deviate from those in Annexes 4 and 5, specifically where: a. the intra-group counterparty does not itself have sufficient stable funding; b. this offsets the negative impact of funding transactions within the same financial group as a result of the asymmetric treatment of transactions with maturities of up to six months; or c. they constitute intra-group contingent obligations from guarantees as set out in Annex 5 No 9.2. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17s",
+      "section": "17s",
+      "title": "s Disclosure",
+      "content": "1 Banks shall publish regular information in appropriate form on their funding situation and their NSFR. 2 FINMA shall regulate the details of disclosure. In particular, it shall define which NSFR-related information is to be disclosed in addition to the NSFR. Inserted by No I of the O of 11 Sept. 2020, in force since 1 July 2021 ( AS 2020 3921 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "74",
+      "section": "17",
+      "title": "t",
+      "content": "Banks in categories 4 and 5 under Annex 3 BankO that are exempt from compliance with the provisions on required capital under Article 47 a CAO shall also be exempt from compliance with the provisions on the NSFR under Articles 17 f to 17 s . SR 952.02 SR 952.03"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 3 Quantitative Requirement for Privileged Deposits",
+      "section": "18",
+      "title": "",
+      "content": "1 As part of their general reporting, banks shall report to FINMA the sum of: a. the deposits reported as at the end of the financial year in the balance sheet items under Annex 1 Nos 2.3 and 2.7 BankO; b. deposits under letter a that are privileged in accordance with Article 37 a BankA; c. deposits under letter b that are secured in accordance with Article 37 h BankA. 2 Based on the data reported under paragraph 1 letter c, FINMA shall calculate the individual banks' contribution obligations for the deposit insurance under Article 37 h paragraph 3 letter b BankA, and shall communicate this to them. 3 When calculating the LCR, banks shall include their contribution obligations as «transactions with the agency of the deposit insurance scheme in the form of an irrevocable payment obligation for funding purposes» under Annex 2 No 8.1.5. 4 In exceptional circumstances, FINMA may require individual banks to disclose the reportable amount under paragraph 1 letter c in appropriate form if this is deemed necessary for the protection of non-privileged creditors. Amended by No I of the O of 25 June 2014, in force since 1 Jan. 2015 ( AS 2014 2321 ). Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ( AS 2017 7635 ). SR 952.02 Amended by Annex No 3 of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 804 ). Amended by Annex No 3 of the O of 23 Nov. 2022, in force since 1 Jan 2023 ( AS 2022 804 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 4",
+      "section": "18",
+      "title": "a",
+      "content": "In addition to LCR and NSFR data, and depending on a bank's size and the type, scope, complexity and riskiness of its business activities, FINMA may collect data on other observation ratios at the level of the financial group and the individual entity, where this is necessary for the implementation of this Ordinance."
+    },
+    {
+      "provision_ref": "art18b",
+      "chapter": "Section 5",
+      "section": "18b",
+      "title": "b",
+      "content": "1 In accordance with the auditing requirements, the audit firm shall verify: a. compliance with the qualitative and quantitative requirements specified in this Ordinance and in FINMA's implementing provisions; and b. the correctness of the data in the liquidity statement, the funding statement and, if required by FINMA, the data on observation ratios. 2 It shall confirm the audit findings."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 1 General",
+      "section": "19",
+      "title": "Special liquidity requirements",
+      "content": "1 In addition to the requirements set out in Chapter 3, systemically important banks shall meet special liquidity requirements in order to cover the liquidity risks that are not, or not sufficiently, covered by the LCR. 2 The special liquidity requirements comprise: a. the basic requirements; b. FINMA's institution-specific additional requirements. Amended by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 1 General",
+      "section": "20",
+      "title": "Scope of consolidation",
+      "content": "1 The special liquidity requirements shall be met by the entities listed below at the level of the financial group, the level of each individual entity licensed under the BankA and the level of each securities firm licensed under the FinIA: a. entities performing systemically important functions; b. the top-level entity in a financial group, where the scope of consolidation includes an entity under letter a; c. entities at the head of significant subordinate financial groups, where the scope of consolidation includes an entity under letter a; and d. entities which, owing to their core function or their relative size, are significant for the financial group. 2 In individual cases, FINMA may exempt entities whose direct share in the financial group's domestic systemically important functions does not exceed 5 per cent in total, or whose significance for the continuation of the financial group's systemically important functions is otherwise minor. Amended by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art20a",
+      "chapter": "Section 1 General",
+      "section": "20a",
+      "title": "a Eligible assets",
+      "content": "1 The following HQLA are eligible for the purpose of meeting the special liquidity requirements if: a. they are not in the stock of HQLA needed for LCR compliance purposes; and b. the bank can freely dispose of them over a horizon of 90 calendar days. 2 The caps under Article 15 c paragraph 1 letters b and c shall apply for the inclusion of Level 2A and 2B assets. In individual cases, FINMA may stipulate that these assets can also be included beyond these caps. When making its decision, it shall take into account the risk arising out of the fact that these assets cannot be readily sold. 3 An explicit cantonal state guarantee or similar mechanism is eligible if the guarantee or mechanism: a. counts towards compliance with the requirements on additional loss-absorbing capital under Article 132 b CAO; and b. if drawn down, quickly results in an eligible liquidity inflow; FINMA shall decide if this condition is met on a case-by-case basis. 4 Of the total according to the following calculation, 30 per cent may be counted as eligible assets, provided the sum is positive: a. mortgage claims which are held by the bank as collateral for obtaining emergency liquidity from the SNB and which meet the SNB's conditions for such collateral; b. minus the haircuts set by the SNB for the mortgage claims under letter a; c. minus 5 per cent of the bank's total exposure under Article 42 a CAO. 5 HQLA that are not included in accordance with Article 15 c paragraph 8, and other HQLA under paragraphs 1 and 2 above, which are held by a branch or a consolidated entity for the purpose of meeting local liquidity requirements may be included in the bank's stock of eligible assets to the extent that this branch or entity contributes to the bank's liquidity needs arising out of the special liquidity requirements. 6 Eligible assets must not be simultaneously counted as cash inflows. Inserted by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 ). Amended by Annex No 3 of the O of 23 Nov. 2022, in force since 1 Jan 2023 ( AS 2022 804 ). SR 952.03 Amended by Annex No 3 of the O of 29 Nov. 2023, in force since 1 Jan 2025 ( AS 2024 13 )."
+    },
+    {
+      "provision_ref": "art20b",
+      "section": "20b",
+      "title": "b Compliance with special liquidity requirements",
+      "content": "1 The bank meets the requirements set out in this chapter if: a. the daily average of eligible assets from the rolling three-month period ending with the reference date corresponds at all times to at least the daily average liquidity needs in that period resulting from the special liquidity requirements; and b. the eligible assets correspond at all times to at least 80 per cent of the liquidity needs resulting from the special liquidity requirements. 2 The bank shall meet the requirements across all currencies, converted to Swiss francs. Inserted by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 2",
+      "section": "21",
+      "title": "Requirements",
+      "content": "The basic requirements encompass requirements in terms of liquidity needs as a result of: a. risks from loan renewals; b. risks from an accumulation of cash outflows immediately after calendar day 31 (cliff effects) and a 90-day stress scenario."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 2",
+      "section": "22",
+      "title": "Liquidity needs as a result of risks from loan renewals",
+      "content": "Systemically important banks shall hold sufficient eligible assets for the first 30 calendar days of the 90-day horizon, in order to cover the liquidity needs as a result of risks from loan renewals. For calculating liquidity needs, the inflow rate under Nos 5.1 and 5.2 in Annex 3 is reduced to 25 per cent."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 2",
+      "section": "23",
+      "title": "Liquidity needs as a result of cliff effects and a 90-day stress scenario",
+      "content": "1 Systemically important banks shall hold sufficient eligible assets to cover expected net cash outflows for the following positions: a. demand and term deposits with a residual maturity or notice period of up to 30 calendar days which are not withdrawn during the first 30 calendar days; b. positions with a residual maturity or notice period of 31 to 90 calendar days. 2 For positions under paragraph 1 letter a, the cash outflows for the 31st to 90th calendar days shall be calculated as follows: a. for outflow categories 1.1, 1.2 and 2.1 under Annex 2, an additional outflow shall be calculated, amounting to 5 per cent of the volume calculated for the LCR; b. for outflow categories 2.2 and 2.4 under Annex 2, an additional outflow shall be calculated, amounting to 17 per cent of the volume calculated for the LCR. 3 For positions under paragraph 1 letter b, the net cash outflow for the 31st to 90th calendar days shall be calculated. The positions shall be weighted with the outflow and inflow rates stipulated in Annexes 6 and 7, according to their outflow or inflow category."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 2",
+      "section": "24",
+      "title": "Recognition of liquidity-generating measures",
+      "content": "For the purpose of meeting the requirements in Article 23, the securities listed in Annex 8 may be recognised at the current market rate, less the associated haircut, provided they are marketable and freely available. Securities may be recognised up to a ceiling of 30 per cent of total net cash outflows under Article 23 paragraphs 2 and 3."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "92",
+      "section": "25",
+      "title": "Surcharges and haircuts",
+      "content": "1 For liquidity risks that are not, or not sufficiently, covered by Chapter 3 or Articles 21 to 23, FINMA may impose institution-specific surcharges on quantified liquidity requirements, depending on the relevant risks. This applies particularly to liquidity risks arising from: a. intraday liquidity needs; b. initial margin payments; c. margin requirements for securities financing transactions traded over the counter and cleared through a central counterparty; d. debt buybacks; e. significant funding of a group entity by subsidiaries; f. non-risk-appropriate liquidity distribution within the financial group; g. liquidity needs for a potential restructuring or resolution; h. inadequate risk management with regard to liquidity. 2 Systemically important banks may request from FINMA that other liquidity-generating measures in addition to those under Article 24 be included, and that the resulting liquidity be recognised in the form of haircuts. 3 The haircuts cannot be higher than the surcharges. They cannot be applied to liquidity risks under paragraph 1 letter a. Amended by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art25a",
+      "chapter": "92",
+      "section": "25a",
+      "title": "a Procedure to determine surcharges and haircuts",
+      "content": "1 When determining the level of the surcharges, FINMA shall take account of the systemically important banks' estimates of liquidity risks under Article 25 paragraph 1. 2 Banks that request haircuts from FINMA shall demonstrate the feasibility of the liquidity-generating measures, particularly in the event of a crisis that may place the bank at threat of insolvency under Article 25 BankA. 3 Banks shall regularly submit to FINMA the necessary documentation for the assessment of liquidity risks under Article 25 paragraph 1. FINMA shall specify the frequency of document submission. Updates shall be submitted outside the set frequency if changes make a reworking necessary or if FINMA demands such a submission. Inserted by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 3 Further Provisions",
+      "section": "26",
+      "title": "Shortfall relative to the special liquidity requirements",
+      "content": "1 A shortfall relative to the special liquidity requirements is permitted in exceptional circumstances. Banks shall inform FINMA without delay if they fall short of the requirements, or are likely to do so. 2 If there is a shortfall, the bank shall specify what measures will be taken to restore compliance with the special liquidity requirements and by what deadline. FINMA shall approve the deadline. If the special liquidity requirements are not met after the deadline has expired, FINMA may order the necessary measures. Amended by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 3 Further Provisions",
+      "section": "27",
+      "title": "",
+      "content": "Repealed by No I of the O of 3 June 2022, with effect from 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 3 Further Provisions",
+      "section": "28",
+      "title": "Reporting obligations",
+      "content": "1 Systemically important banks shall report their liquidity situation under this Chapter on a monthly basis. They shall submit data on their entities' liquidity situation under Article 20 to the SNB within 15 calendar days from the last calendar day of the month. 2 FINMA shall define the reporting format. Amended by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art28a",
+      "chapter": "Section 3 Further Provisions",
+      "section": "28a",
+      "title": "",
+      "content": "Inserted by No I of the O of 22 Nov. 2017 ( AS 2017 7635 ). Repealed by No I of the O of 3 June 2022, with effect from 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 3 Further Provisions",
+      "section": "29",
+      "title": "Tasks of the audit firm",
+      "content": "The audit firm shall confirm the reporting on the quantitative liquidity requirements for systemically important banks and their compliance, in accordance with the auditing requirements."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Chapter 5 Involvement of the SNB",
+      "section": "30",
+      "title": "",
+      "content": "When enforcing this Ordinance, FINMA shall consult the SNB."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Chapter 6 Transitional and Final Provisions",
+      "section": "31",
+      "title": "",
+      "content": "Repealed by No I of the O of 3 June 2022, with effect from 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art31a",
+      "chapter": "Chapter 6 Transitional and Final Provisions",
+      "section": "31a",
+      "title": "",
+      "content": "Inserted by No I of the O of 25 June 2014 ( AS 2014 2321 ). Repealed by No I of the O of 3 June 2022, with effect from 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art31b",
+      "chapter": "Chapter 6 Transitional and Final Provisions",
+      "section": "31b",
+      "title": "",
+      "content": "Inserted by No I of the O of 11 Sept. 2020 ( AS 2020 3921 ). Repealed by Annex No 3 of the O of 23 Nov. 2022, with effect from 1 Jan. 2023 ( AS 2022 804 )."
+    },
+    {
+      "provision_ref": "art31c",
+      "chapter": "Chapter 6 Transitional and Final Provisions",
+      "section": "31c",
+      "title": "c Transitional provisions to the amendment of 3 June 2022",
+      "content": "1 The requirements under Chapter 4 in the version amended on 3 June 2022 shall be met, at the latest, 18 months after the Amendment of 3 June 2022 comes into force. Up to the time at which these requirements are met, the liquidity requirements imposed by FINMA as part of its supervision are definitive. 2 The reporting obligation under Article 28 shall begin three months after the Amendment of 3 June 2022 comes into force. 3 At the latest three years after the end of the transitional period under paragraph 1, the Federal Department of Finance shall check whether the provisions of the Amendment of 3 June 2022 achieve the objectives set out in Article 7 paragraph 2 BankA and the special requirements under Article 9 BankA. It shall report to the Federal Council and indicate any need for regulatory adjustments. Inserted by No I of the O of 3 June 2022, in force since 1 July 2022 ( AS 2022 359 )."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Chapter 6 Transitional and Final Provisions",
+      "section": "32",
+      "title": "Amendment of existing legislation",
+      "content": "… The amendment may be consulted under AS 2012 7251 ."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Chapter 6 Transitional and Final Provisions",
+      "section": "33",
+      "title": "Commencement",
+      "content": "1 This Ordinance enters into force on 1 January 2013, subject to paragraphs 2 and 3. 2 The provisions of Articles 5 to 10 enter into force for non-systemically important banks on 1 January 2014. 3 The provisions of Chapter 4 enter into force on the 15th day of the month following approval by the Federal Assembly."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "d",
+      "definition": "which meet the additional requirements under Article 15 d .",
+      "source_provision": "art15"
+    },
+    {
+      "term": "a",
+      "definition": "assets with the highest liquidity under Article 15 a (Level 1);",
+      "source_provision": "art15"
+    },
+    {
+      "term": "b",
+      "definition": "assets with high liquidity under Article 15 b (Levels 2A and 2B).",
+      "source_provision": "art15"
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "id": "sr-745-11",
+  "type": "statute",
+  "title": "Verordnung vom 4. November 2009 über die Personenbeförderung (VPB)",
+  "title_en": "",
+  "short_name": "VPB",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2009/739/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Erteilung von Konzessionen und Bewilligungen für die regelmässige gewerbsmässige Personenbeförderung auf Eisenbahnen, auf der Strasse und auf dem Wasser sowie mit Seilbahnen, Aufzügen und anderen spurgeführten Transportmitteln; b. die Ausnahmen vom Personenbeförderungsregal; c. die Einzelheiten der Transportverträge für die regelmässige gewerbsmässige Personen- und Reisegepäckbeförderung auf Eisenbahnen, auf der Strasse und auf dem Wasser sowie mit Seilbahnen, Aufzügen und anderen spurgeführten Transportmitteln."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Regelmässigkeit",
+      "content": "(Art. 2 Abs. 1 Bst. a PBG) 1 Hin- und Rückfahrt gelten als zwei Fahrten. 2 Im grenzüberschreitenden Verkehr gelten Fahrten als regelmässig, wenn sie innerhalb eines Monats mindestens viermal durchgeführt werden."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Gewerbsmässigkeit",
+      "content": "(Art. 2 Abs. 1 Bst. b PBG) 1 Als Entgelt gilt jede Art der Gegenleistung, insbesondere eine Geld- oder eine Naturalleistung. 2 Die Gewerbsmässigkeit einer Fahrt hängt nicht davon ab, ob diese öffentlich ist."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Grundsatz",
+      "content": "(Art. 6 und 8 PBG) 1 Konzessionen und Bewilligungen für die regelmässige und gewerbsmässige Personenbeförderung können verliehen werden an: a. natürliche Personen; b. juristische Personen. 2 Die Konzession oder Bewilligung legt fest, mit welchen Verkehrsmitteln die Personenbeförderung erfolgt. 3 Die Konzessionen und Bewilligungen können an Bedingungen geknüpft oder mit Auflagen verbunden werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Erschliessungsfunktion",
+      "content": "(Art. 3 PBG) 1 Die Erschliessungsfunktion ist gegeben, wenn sich an mindestens einem Linienende ein Verknüpfungspunkt mit dem übergeordneten Netz des öffentlichen Verkehrs und am anderen Ende oder zwischen den Linienenden eine Ortschaft befindet. 2 Als Ortschaften gelten Siedlungsgebiete, in denen das ganze Jahr über mindestens 100 Personen wohnen in: a. zusammenhängenden Bauzonen nach dem Raumplanungsgesetz vom 22. Juni 1979, einschliesslich Schutzzonen für Gewässer, bedeutender Ortsbilder, geschichtlicher Stätten und Kulturdenkmäler; b. traditionellen Streusiedlungen; c. Talschaften im Berggebiet, die von einem gemeinsamen Punkt aus erschlossen werden. SR 700"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Personenbeförderungen mit Konzessionspflicht",
+      "content": "(Art. 6 PBG) Eine Konzession ist erforderlich für: a. die fahrplanmässigen Verkehrsverbindungen zwischen bestimmten Ausgangs- und Endpunkten, wobei die Fahrgäste an im Fahrplan festgelegten Haltestellen aufgenommen und abgesetzt werden (Linienverkehr), mit Erschliessungsfunktion; b. den Linienverkehr ohne Erschliessungsfunktion: 1. für spurgeführte Fahrzeuge ausser Kleinseilbahnen, Skiliften und Flussfähren, 2. für nicht spurgeführte Fahrzeuge, wenn die Zielorte mit mehr als zehn Kurspaaren pro Tag bedient werden; c. Fahrten, die nur bei genügender Nachfrage durchgeführt werden (Bedarfsverkehr), mit Erschliessungsfunktion; d. Fahrten, bei denen Reisende gesammelt oder bestimmte Reiseziele angekündigt werden (linienverkehrsähnliche Fahrten), insbesondere Fahrten auf Verlangen und Sammelfahrten, mit Erschliessungsfunktion; e. Transfers von Fluggästen zwischen einem Flughafen und einem touristischen Ort oder Gebiet (Flughafentransfers). Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 ). Die Berichtigung vom 5. April 2016 betrifft nur den französischen Text ( AS 2016 1077 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "7",
+      "title": "Personenbeförderungen mit Bewilligungspflicht",
+      "content": "(Art. 7 Abs. 2 PBG) Eine kantonale Bewilligung ist erforderlich für: a. sofern nicht nach Artikel 6 konzessionspflichtig: den Linienverkehr, den Bedarfsverkehr und linienverkehrsähnliche Fahrten; b. Fahrten, mit denen ausschliesslich Schülerinnen und Schüler oder Studierende befördert werden (Schülertransporte); c. Fahrten, mit denen ausschliesslich Arbeitnehmerinnen und Arbeitnehmer befördert werden (Arbeitnehmertransporte); d. Fahrten, die von einem Nichttransportunternehmen oder auf dessen Rechnung oder Veranlassung ausschliesslich für seine Kundschaft, Mitglieder oder Besucherinnen und Besucher durchgeführt werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "8",
+      "title": "Ausnahmen vom Personenbeförderungsregal",
+      "content": "(Art. 5 PBG) 1 Vom Personenbeförderungsregal sind ausgenommen: a. Fahrten mit nicht spurgeführten Fahrzeugen, die nach ihrer Bauart und Ausstattung nicht dazu bestimmt und geeignet sind, mehr als neun Personen, einschliesslich der Fahrerin oder des Fahrers, zu befördern; b. Fahrten, die innerhalb eines Jahres während höchstens 14 aufeinanderfolgender Tage regelmässig und fahrplanmässig angeboten werden; c. die ausschliessliche Beförderung von Menschen mit Behinderungen; d. die ausschliessliche Beförderung von Angehörigen der Armee; e. Fahrten, mit denen vorab gebildete Fahrgastgruppen von einem gemeinsamen Ausgangspunkt zu einem gemeinsamen Reiseziel befördert werden, sofern die Beförderung im Rahmen eines Pauschalreiseangebots erfolgt; f. Fahrten, mit denen vorab gebildete Gruppen befördert werden und jede Gruppe mit dem gleichen Fahrzeug an ihren Ausgangspunkt zurückgebracht wird (Rundfahrten); g. alle übrigen Fahrten, die nicht unter Artikel 6 oder 7 fallen. 2 Sind die Fahrten in Bezug auf ihre Funktionalität und Kapazität mit bestehenden Fahrten oder Fahrtenketten des Linienverkehrs vergleichbar und auf deren Benutzerinnen und Benutzer ausgerichtet, so unterstehen sie dem Personenbeförderungsregal. 3 In Zweifelsfällen entscheidet das Bundesamt für Verkehr (BAV), ob für einen Transportdienst eine Konzession oder Bewilligung erforderlich ist."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Konzessionen und Bewilligungen für Linien",
+      "content": "1 Konzessionen und Bewilligungen werden für die Personenbeförderung auf bestimmten Linien erteilt. 2 Als Linie gelten alle durchgehenden Fahrten von Kursen mit gleichen Anfangs- und Endpunkten, einschliesslich Verstärkungs-, Früh- und Spätkursen auf Teilstrecken. Als Anfangs- und Endpunkte können auch Knotenpunkte gelten und Punkte, an denen die Erschliessungsfunktion ändert. 3 Angebote mit unterschiedlicher Erschliessungsfunktion auf derselben Strecke gelten als eigene Linie."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Konzessionen und Bewilligungen für Gebiete",
+      "content": "1 Konzessionen und Bewilligungen können für die Personenbeförderung innerhalb eines bestimmten Gebietes erteilt werden, wenn sie mit nicht spurgeführten Fahrzeugen durchgeführt werden, für: a. Fahrten auf Verlangen oder Sammelfahrten; b. Ortsverkehrsnetze. 2 Pro Gebiet darf für dieselben Transportdienste nur eine einzige Gebietskonzession oder -bewilligung erteilt werden."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Abschnitt: Konzessionen",
+      "section": "11",
+      "title": "Flughafentransfers",
+      "content": "(Art. 9 Abs. 2 PBG) Bei der Prüfung des Gesuchs für ein Angebot von Flughafentransfers wird vermutet, dass für das bestehende Angebot anderer öffentlicher Transportunternehmen keine volkswirtschaftlich nachteiligen Wettbewerbsverhältnisse entstehen. Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "2. Abschnitt: Konzessionen",
+      "section": "12",
+      "title": "Konzessionsgesuch",
+      "content": "1 Das Unternehmen muss das Konzessionsgesuch frühestens zehn und spätestens drei Monate vor dem Zeitpunkt, auf den die Fahrten aufgenommen oder erweitert werden sollen, beim BAV einreichen. Wird das Gesuch im Rahmen einer Ausschreibung nach Artikel 32 PBG eingereicht, so richten sich die Fristen nach Artikel 27 e Absatz 2 der Verordnung vom 11. November 2009 über die Abgeltung des regionalen Personenverkehrs. 2 Das Gesuch muss begründet sein und die im Anhang genannten Angaben enthalten. Das BAV kann insbesondere bei Erneuerungen und Änderungen auf einzelne Angaben verzichten. 3 Das Gesuch ist mit rechtsgültiger Unterschrift einzureichen. Das Gesuch und die Gesuchsunterlagen können in elektronischer Form eingereicht werden. Das BAV kann weitere Exemplare des Gesuchs und der Gesuchsunterlagen auf Papier verlangen. 4 Bei einer Ausschreibung müssen die Unternehmen das Gesuch zusammen mit der Ausschreibungsofferte einreichen. Das Gesuch muss die Angaben nach Anhang Ziffer I Buchstaben a, d, f, i, k, l und n sowie Anhang Ziffer II Buchstabe a enthalten. Die Besteller können vom Unternehmen mit dem wirtschaftlich günstigsten Angebot nach Artikel 32 g Absatz 1 PBG vor Beginn der Anhörung zusätzliche Angaben verlangen. Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 ). SR 745.16 Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "2. Abschnitt: Konzessionen",
+      "section": "13",
+      "title": "Anhörung",
+      "content": "(Art. 6 Abs. 1 PBG) 1 Das BAV hört vor der Erteilung einer Konzession die betroffenen Kantone, Verkehrsverbünde, Transportunternehmen und Infrastrukturbetreiberinnen an. 2 Die Anhörung von Gemeinden, anderen Behörden sowie weiteren interessierten Kreisen ist Sache der Kantone. Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Abschnitt: Konzessionen",
+      "section": "14",
+      "title": "Koordination innerhalb des öffentlichen Verkehrs",
+      "content": "Das BAV berücksichtigt bei der Erteilung der Konzession die Koordination innerhalb des öffentlichen Verkehrs. Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Dauer der Konzession",
+      "content": "(Art. 6 Abs. 3 PBG) 1 Die Konzession wird für zehn Jahre erteilt oder erneuert. 2 Sie kann insbesondere dann für eine kürzere Dauer erteilt oder erneuert werden, wenn: a. das Transportunternehmen dies beantragt; b. zum Zeitpunkt des Gesuchs die Ausschreibung der betreffenden Linie in den Ausschreibungsplanungen der bestellenden Kantone vorgesehen ist; oder c. eine Ausschreibung eine kürzere Geltungsdauer vorgesehen hat. 3 Bei längerer Amortisationsdauer der Betriebsmittel kann die Konzession für eine längere Dauer, jedoch höchstens für 25 Jahre erteilt oder erneuert werden. 4 ... Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 ). Aufgehoben durch Ziff. III der V vom 2. Sept. 2015, mit Wirkung seit 1. Okt. 2015 ( AS 2015 3167 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Erneuerung der Konzession",
+      "content": "(Art. 9 Abs. 1 und 2 PBG) Die Konzession kann erneuert werden, wenn die Voraussetzungen für die Erteilung immer noch erfüllt sind. Die Artikel 11–15 gelten sinngemäss."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Änderung der Konzession",
+      "content": "1 Das BAV kann die Konzession während ihrer Dauer ändern. 2 Geringfügige Abweichungen von der Konzession, insbesondere betreffend die Linienbezeichnung, bedürfen keiner Änderung der Konzession. 3 Will das Unternehmen von der Konzession abweichen, so muss es dies dem BAV mindestens drei Monate vorher melden. Ist eine Änderung der Konzession erforderlich, so teilt das BAV dies dem Unternehmen innerhalb von vier Wochen seit der Meldung mit. 4 Die Verkehrsleistung darf während höchstens eines Jahres ganz oder teilweise mit einem anderen als in der Konzession vorgesehenen Verkehrsmittel ausgeführt werden, ohne dass die Konzession geändert werden muss. Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Übertragung der Konzession",
+      "content": "Die Konzession kann auf Gesuch der beteiligten Unternehmen auf eine Drittperson übertragen werden."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Betriebsvertrag",
+      "content": "1 Einzelne Rechte und Pflichten, insbesondere der Fahrbetrieb, können mit einem Betriebsvertrag auf eine Drittperson übertragen werden. 2 Das konzessionierte Unternehmen ist gegenüber dem Bund weiterhin für die Erfüllung der Pflichten verantwortlich. 3 Werden Rechte und Pflichten eines von der öffentlichen Hand durch Betriebs- oder Investitionsbeiträge mitfinanzierten Verkehrsangebotes übertragen, so stellt das konzessionierte Unternehmen sicher, dass für das übertragene Angebot die Vorschriften über die Rechnungslegung nach Artikel 35 PBG eingehalten werden. 4 Die Betriebsverträge sind dem BAV zur Kenntnisnahme zuzustellen. Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 )."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Verfahren bei der Änderung oder der Übertragung der Konzession",
+      "content": "(Art. 9 Abs. 1 und 2 PBG) Die Artikel 11–14 gelten bei der Änderung und der Übertragung von Konzessionen sinngemäss. Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Aufhebung der Konzession",
+      "content": "Will die Inhaberin der Konzession ihre Tätigkeit aufgeben, so muss sie beim BAV ein Gesuch um Aufhebung der Konzession stellen. Sie darf vor der Aufhebung der Konzession den Betrieb nicht einstellen."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, mit Wirkung seit 1. Juli 2020 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Amtliche Bezeichnung",
+      "content": "Das BAV legt nach Rücksprache mit dem Unternehmen dessen amtliche Bezeichnung und Initialen fest. Diese sind für Fahrplan- und Tarifpublikationen verbindlich."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "3. Abschnitt: Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote",
+      "section": "24",
+      "title": "Fahrzeugprüfung vor der Zulassung",
+      "content": "1 Das BAV prüft die Strassenfahrzeuge und Schiffe, die zum konzessionierten Betrieb zugelassen werden sollen, nach den Vorschriften über die Zulassung zum Strassen- und Schiffsverkehr. 2 Für Strassenfahrzeuge kann das BAV die Prüfung im Einzelfall den kantonalen Zulassungsbehörden oder den von diesen autorisierten Betrieben und Organisationen übertragen, wenn sie für die vorschriftsgemässe Durchführung Gewähr bieten. Sie erstatten dem BAV Bericht über die vorgenommenen Prüfungen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "3. Abschnitt: Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote",
+      "section": "25",
+      "title": "Zulassung der Fahrzeuge",
+      "content": "1 Das BAV erteilt die Zulassung zum konzessionierten Betrieb, wenn die Zulassungsprüfung ergeben hat, dass das Strassenfahrzeug oder das Schiff den massgebenden Vorschriften entspricht. 2 Die Kantone erteilen die zusätzlich erforderliche Zulassung zum Strassenverkehr. Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "3. Abschnitt: Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote",
+      "section": "26",
+      "title": "Einsatzbereitschaft der Fahrzeuge",
+      "content": "1 Das konzessionierte Unternehmen muss die zur Erfüllung seiner Pflichten aus der Konzession erforderlichen Strassenfahrzeuge und Schiffe in ständiger Einsatzbereitschaft halten und über die nötige Zahl von Ersatzfahrzeugen verfügen. 2 Mehrere konzessionierte Unternehmen können Ersatzfahrzeuge gemeinsam benützen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "3. Abschnitt: Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote",
+      "section": "27",
+      "title": "Prüfung nach der Zulassung",
+      "content": "1 Die kantonalen Zulassungsbehörden sind für die periodischen Nachprüfungen und die ausserordentlichen Prüfungen der Strassenfahrzeuge nach deren Zulassung zuständig. 2 Das BAV ist für die periodischen Nachprüfungen und die ausserordentlichen Prüfungen der Schiffe nach deren Zulassung zuständig."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "3. Abschnitt: Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote",
+      "section": "28",
+      "title": "Fahrzeugwechsel, Änderungen und Beanstandung",
+      "content": "Fahrzeugwechsel, Änderungen und polizeiliche Beanstandungen an Strassenfahrzeugen und Schiffen sind dem BAV unverzüglich zu melden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "3. Abschnitt: Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote",
+      "section": "29",
+      "title": "Nachträgliche Änderungen an Fahrzeugen",
+      "content": "Die zuständige Behörde kann Änderungen oder Ergänzungen an zugelassenen Strassenfahrzeugen und Schiffen anordnen, wenn die Verkehrssicherheit oder andere wichtige Gründe es erfordern."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "4. Abschnitt: Kantonale Bewilligungen",
+      "section": "30",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, mit Wirkung seit 1. Juli 2020 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art30a",
+      "chapter": "4. Abschnitt: Kantonale Bewilligungen",
+      "section": "30a",
+      "title": "a Befreiung von den Grundpflichten",
+      "content": "(Art. 7 Abs. 3 PBG) Für die Personenbeförderung von geringer Bedeutung nach Artikel 7 PBG ist das Unternehmen von den Grundpflichten nach den Artikeln 12–16 PBG befreit. Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 )."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "4. Abschnitt: Kantonale Bewilligungen",
+      "section": "31",
+      "title": "Erneuerung der Bewilligung",
+      "content": "(Art. 9 Abs. 1 und 2 PBG) Die Bewilligung kann erneuert werden, wenn die Voraussetzungen für die Erteilung immer noch erfüllt sind."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "4. Abschnitt: Kantonale Bewilligungen",
+      "section": "32",
+      "title": "Änderung und Übertragung der Bewilligung",
+      "content": "Die Bewilligung kann auf Gesuch der Inhaberin geändert oder übertragen werden."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "4. Abschnitt: Kantonale Bewilligungen",
+      "section": "33",
+      "title": "Verzicht auf die Bewilligung",
+      "content": "1 Die Inhaberin einer Bewilligung kann jederzeit auf die bewilligte Tätigkeit verzichten. 2 Sie muss den Verzicht der Bewilligungsbehörde melden."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "4. Abschnitt: Kantonale Bewilligungen",
+      "section": "34",
+      "title": "Zuständigkeit für die Bewilligung",
+      "content": "(Art. 7 Abs. 2 PBG) 1 Für Bewilligungen nach diesem Abschnitt sind die Kantone zuständig. 2 Für Schüler- und Arbeitnehmertransporte, die Kantonsgrenzen überschreiten, ist der Kanton zuständig, in dessen Hoheitsgebiet sich der Ort der Lehranstalt oder der Arbeitsort befindet. Für die übrigen Transporte, die die Kantonsgrenzen überschreiten, ist der Kanton zuständig, in dessen Hoheitsgebiet sich der Ausgangspunkt der Fahrten befindet. Die betroffenen Kantone sind anzuhören. In Streitfällen entscheidet das BAV."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "4. Abschnitt: Kantonale Bewilligungen",
+      "section": "35",
+      "title": "Mitteilung an das BAV",
+      "content": "Die Kantone stellen dem BAV ihre Bewilligungen zur Kenntnisnahme zu."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "4. Abschnitt: Kantonale Bewilligungen",
+      "section": "36",
+      "title": "Kantonale Vorschriften",
+      "content": "Die Kantone erlassen ergänzende Vorschriften über das Bewilligungsverfahren und bestimmen insbesondere die zuständigen Bewilligungs- und Aufsichtsbehörden. Sie legen die Gebühren fest."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "3. Kapitel: Bewilligungen für die grenzüberschreitende Personenbeförderung",
+      "section": "37",
+      "title": "Geltungsbereich",
+      "content": "1 Dieses Kapitel gilt für die Personenbeförderung, bei der Reisende ausschliesslich im grenzüberschreitenden Verkehr befördert werden. 2 Mit einer Bewilligung nach diesem Kapitel dürfen Reisende nicht ausschliesslich innerhalb der Schweiz befördert werden (Kabotageverbot)."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "3. Kapitel: Bewilligungen für die grenzüberschreitende Personenbeförderung",
+      "section": "38",
+      "title": "Personenbeförderungen mit eidgenössischer Bewilligung",
+      "content": "Eine eidgenössische Bewilligung ist erforderlich für: a. den grenzüberschreitenden Linienverkehr; b. den Bedarfsverkehr; c. linienverkehrsähnliche Fahrten, insbesondere Fahrten auf Verlangen und Sammelfahrten."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "3. Kapitel: Bewilligungen für die grenzüberschreitende Personenbeförderung",
+      "section": "39",
+      "title": "Ausnahmen vom Personenbeförderungsregal",
+      "content": "(Art. 5 PBG) 1 Vom Personenbeförderungsregal sind ausgenommen: a. Fahrten mit Fahrzeugen, die nach ihrer Bauart und Ausstattung nicht dazu bestimmt und geeignet sind, mehr als neun Personen, einschliesslich der Fahrerin oder des Fahrers, zu befördern; b. Schülertransporte; c. Arbeitnehmertransporte; d. die ausschliessliche Beförderung von Menschen mit Behinderungen; e. die ausschliessliche Beförderung von Angehörigen der Armee; f. Fahrten des touristischen Verkehrs, mit denen vorab gebildete Reisegruppen an einem gemeinsamen Reiseziel abgesetzt und von dort mit einer späteren Fahrt des gleichen Unternehmens an den gemeinsamen Ausgangspunkt zurückgeführt werden, sofern für die Fahrgäste neben der Beförderungsleistung im Rahmen eines Angebotspaketes die Unterbringung am Zielort vorgesehen ist (Pendelfahrten mit Unterbringung); g. Rundfahrten; h. alle übrigen regelmässigen und gewerbsmässigen Fahrten, die nicht unter Artikel 38 fallen. 2 Sind die geplanten Fahrten in Bezug auf ihre Funktionalität und Kapazität mit den bestehenden Fahrten oder Fahrtenketten des bewilligungspflichtigen Verkehrs vergleichbar und auf deren Benutzerinnen und Benutzer ausgerichtet, so unterstehen sie der Bewilligungspflicht. 3 In Zweifelsfällen entscheidet das BAV, ob für einen Transportdienst eine Bewilligung erforderlich ist."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "3. Kapitel: Bewilligungen für die grenzüberschreitende Personenbeförderung",
+      "section": "40",
+      "title": "Bewilligungen für Linien",
+      "content": "Bewilligungen werden ausschliesslich für Linien und nicht für Gebiete erteilt."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "3. Kapitel: Bewilligungen für die grenzüberschreitende Personenbeförderung",
+      "section": "41",
+      "title": "Fahrtenblatt im Strassenverkehr",
+      "content": "1 Im Strassenverkehr ist bei grenzüberschreitenden Rundfahrten und Pendelfahrten mit Unterbringung nach Artikel 39 Buchstaben f und g ein Fahrtenblatt mit der zugehörigen Übersetzungssammlung mitzuführen. Es muss jeweils vor Antritt der Fahrt ausgefüllt werden. 2 Das Fahrtenblatt muss mindestens folgende Angaben enthalten: a. Art des Verkehrsdienstes; b. Hauptstrecke; c. bei Pendelfahrten mit Unterbringung: die Dauer des Aufenthalts, den Tag der Abfahrt und der Rückkehr sowie den Ausgangs- und den Zielort; d. die beteiligten Verkehrsunternehmen. 3 Es wird vom BAV oder durch eine von ihm benannte Stelle herausgegeben."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "3. Kapitel: Bewilligungen für die grenzüberschreitende Personenbeförderung",
+      "section": "42",
+      "title": "Streckenführung und Haltestellen",
+      "content": "1 Als Strecke ist ein direkter Weg zwischen Ausgangs- und Zielort zu wählen. 2 Haltestellen dürfen nur an den wichtigsten Knoten des öffentlichen Verkehrs eingerichtet werden. Das BAV kann ihre Anzahl pro Verkehrsdienst begrenzen. 3 Vorbehalten bleiben abweichende Bestimmungen in internationalen Abkommen. 4 Die Kantone sorgen für geeignete Haltestellen und stellen deren Anbindung an den öffentlichen Verkehr sicher. 5 Das BAV kann in Absprache mit den betroffenen Behörden festlegen, welche Grenzübergänge verwendet werden."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Aufteilung der Verkehrsleistung",
+      "content": "Schweizerische und ausländische Verkehrsunternehmen müssen die Verkehrsleistung untereinander aufteilen. Dabei muss der jährliche Anteil des schweizerischen Verkehrsunternehmens an der Leistung wesentlich sein. Vorbehalten bleiben abweichende Bestimmungen in internationalen Abkommen."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Voraussetzungen der Erteilung",
+      "content": "1 Die Bewilligung darf nur erteilt werden, wenn: a. die Unternehmen für die Einhaltung der gesetzlichen Bestimmungen Gewähr bieten; b. ... c. die Funktionsfähigkeit eines vergleichbaren Verkehrsangebotes im Rahmen eines oder mehrerer öffentlichen Dienstleistungsaufträge mit gemeinwirtschaftlichen Verpflichtungen auf den betreffenden direkten Teilstrecken nicht ernsthaft beeinträchtigt wird; d. ... e. die Fahrten mit Fahrzeugen durchgeführt werden, die dem Transportunternehmen unmittelbar zur Verfügung stehen; f. im Verkehr eine Kooperation zwischen schweizerischen und ausländischen Unternehmen besteht; vorbehalten bleiben abweichende Bestimmungen in internationalen Abkommen; g. sämtliche beteiligten Unternehmen über eine Mindestversicherung nach Artikel 3 der Verkehrsversicherungsverordnung vom 20. November 1959 verfügen, die in sämtlichen betroffenen Staaten gilt; h. sämtliche beteiligten Unternehmen im Register der mehrwertsteuerpflichtigen Personen eingetragen sind; i. der Verkehrsdienst im Einklang mit den Bestimmungen über die Lenk- und Ruhezeiten der Fahrerinnen und Fahrer betrieben werden kann. 2 Die Bewilligung darf erst erteilt werden, wenn die Zustimmung sämtlicher betroffenen Staaten vorliegt. 3 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann von jedem beteiligten Unternehmen eine Bankgarantie von 15 000 Franken für die erste Bewilligung und 5 000 Franken für jede weitere Bewilligung verlangen. Diese dient der Deckung allfälliger Ansprüche der schweizerischen Behörden, insbesondere im Zusammenhang mit Verstössen gegen die Rechtsvorschriften über die Beförderungen sowie die Sicherheit im Strassenverkehr. 4 Für die Prüfung der Einhaltung der Bestimmungen über die Lenk- und Ruhezeit der Fahrerinnen und Fahrer, insbesondere der bei Gesuchstellung eingereichten Dienstpläne, ist der Niederlassungskanton des geschäftsführenden Unternehmens zuständig. Aufgehoben durch Ziff. I der V vom 2. Sept. 2015, mit Wirkung seit 1. Jan. 2016 ( AS 2015 3217 ). Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 3217 ). Aufgehoben durch Ziff. I der V vom 2. Sept. 2015, mit Wirkung seit 1. Jan. 2016 ( AS 2015 3217 ). SR 741.31"
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Erneuerung und Änderung der Bewilligung",
+      "content": "Artikel 44 gilt für die Erneuerung und die Änderung von Bewilligungen sinngemäss. Zudem muss die Bewilligungsinhaberin nachweisen, dass die Verkehrsleistung nach Artikel 43 aufgeteilt wurde."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Verzicht auf die Bewilligung",
+      "content": "1 Die Bewilligungsinhaberin kann jederzeit auf die Bewilligung verzichten. Sie muss den Verzicht begründen. 2 Der Verzicht wird drei Monate, nachdem die Bewilligungsbehörde die Verzichterklärung erhalten hat, wirksam. 3 Wird der Verzicht mit fehlender Nachfrage begründet, so beträgt die Frist einen Monat. 4 Das Unternehmen hat die Einstellung des Verkehrsdienstes den Kundinnen und Kunden sowie der Öffentlichkeit bekannt zu machen."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Entzug der Bewilligung",
+      "content": "(Art. 9 Abs. 3 Bst. b PBG) Das UVEK entzieht die Bewilligung, wenn ihre Voraussetzungen weggefallen sind. Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Bewilligungsgesuche",
+      "content": "1 Gesuche um Erteilung, Erneuerung oder Änderung von Bewilligungen nach diesem Kapitel sind in einfacher Ausfertigung dem BAV frühestens zehn und spätes-tens sechs Monate vor dem Zeitpunkt, auf den die Fahrten aufgenommen oder weitergeführt werden sollen, einzureichen. 2 Die Gesuche müssen die in Ziffer VI des Anhangs genannten Angaben enthalten."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Anhörung",
+      "content": "1 Die zuständige Behörde hört vor der Erteilung einer Bewilligung die betroffenen Kantone und Transportunternehmen an. 2 Die Anhörung von Grundeigentümerinnen und Grundeigentümern, Gemeinden, anderen Behörden und weiteren interessierten Kreisen ist Sache der Kantone."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Bewilligung und Bewilligungsurkunde",
+      "content": "1 Die Bewilligung ist nicht übertragbar. Die Inhaberin der Bewilligung kann den Verkehrsdienst jedoch durch ein anderes Unternehmen durchführen lassen, sofern dies in der Bewilligung vorgesehen ist. 2 Die Bewilligungsurkunde nennt: a. die Art des Verkehrsdienstes; b. die Inhaberinnen der Bewilligung sowie allfällige Unterauftragnehmer; c. die Streckenführung, insbesondere den Ausgangs- und den Zielort; d. die Gültigkeitsdauer der Bewilligung; e. die Dauer und Häufigkeit des Verkehrsdienstes; f. die Haltestellen und die Fahrpläne; g. allfällige Bedingungen und Auflagen sowie wichtige Hinweise. 3 Eine vom BAV oder der ausländischen Behörde beglaubigte Kopie der Bewilligungsurkunde ist im grenzüberschreitenden Linienbusverkehr in jedem Fahrzeug mitzuführen und den Kontrollorganen auf Verlangen vorzuweisen."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Fahrgastlisten im Strassenverkehr",
+      "content": "1 Beim Strassenverkehr sorgt die Inhaberin der Bewilligung im Linienverkehr für das Erstellen einer Fahrgastliste vor jeder Fahrt. Die Fahrgastliste muss auf der Fahrt mitgeführt werden. 2 Die Liste muss mindestens folgende Angaben enthalten: a. die beteiligten Unternehmen; b. die Fahrzeugkennzeichen; c. die Fahrzeugführerinnen und -führer; d. die Bewilligungsnummer; e. das Abfahrts- und das Ankunftsdatum; f. den Ausgangs- und den Zielort; g. die Namen und Vornamen sowie den Ein- und den Aussteigeort der Fahrgäste. 3 Die Bewilligungsinhaberin sorgt für die Löschung der erhobenen Daten innerhalb von 100 Tagen."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Fahrgastinformationen",
+      "content": "1 Die Unternehmen müssen die Fahrpläne öffentlich zugänglich machen. 2 Sie müssen die Streckenführung am Fahrzeug gut sichtbar anschreiben."
+    },
+    {
+      "provision_ref": "art52a",
+      "section": "52a",
+      "title": "a Rechte von Menschen mit Behinderungen oder eingeschränkter Mobilität im bewilligten grenzüberschreitenden Linienbusverkehr",
+      "content": "(Art. 8 Abs. 2 PBG) Die Rechte von Menschen mit Behinderungen oder eingeschränkter Mobilität im bewilligten grenzüberschreitenden Linienbusverkehr richten sich nach den Artikeln 9–17 der Verordnung (EU) Nr. 181/2011. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 ). Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004, Fassung gemäss ABl. L 55 vom 28.2.2011, S. 1."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Fahrzeuge",
+      "content": "1 Die Fahrten dürfen nur mit Fahrzeugen durchgeführt werden, die auf in der Bewilligung genannte Unternehmen zugelassen sind. In einer vorübergehenden, aussergewöhnlichen und unvorhersehbaren Situation, ausgenommen bei Kapazitätsengpässen, dürfen Fahrzeuge von anderen Unternehmen eingesetzt werden. 2 Die eingesetzten Fahrzeuge sind am Sitz der Bewilligungsinhaberin zu immatrikulieren."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Schiffe",
+      "content": "Die Bestimmungen über die Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote nach den Artikeln 24–29 gelten für die Verkehrsangebote mit Schiffen im grenzüberschreitenden Verkehr sinngemäss."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Zuständigkeit",
+      "content": "1 Für die Erteilung, den Widerruf und den Entzug von Bewilligungen ist das UVEK zuständig. 2 Das BAV ist zuständig für die Erneuerung und die Änderung der Bewilligungen. Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art55a",
+      "chapter": "1. Abschnitt: Personentransport im konzessionierten Verkehr und im bewilligten grenzüberschreitenden Verkehr im bewilligten grenzüberschreitenden Verkehr",
+      "section": "55a",
+      "title": "a Tarifpflicht",
+      "content": "(Art. 15 PBG) 1 Für die Bestimmung der Tarifhöhe sind insbesondere die Reisedistanz, der Komfort der Fahrzeuge sowie die Attraktivität des Angebotes und der Anschlussverbindungen massgebend. 2 Die Unternehmen stimmen ihre Tarifgestaltungen zur Dämpfung der Nachfragespitzen sowie zur Glättung der Auslastung der Fahrzeuge und der Infrastruktur untereinander ab. 3 Bei streckenbezogenen Fahrausweisen, die an einen oder mehrere Kurse gebunden sind, muss die Bindung durch einen angemessenen Aufpreis aufgehoben werden können. Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 )."
+    },
+    {
+      "provision_ref": "art55b",
+      "chapter": "1. Abschnitt: Personentransport im konzessionierten Verkehr und im bewilligten grenzüberschreitenden Verkehr im bewilligten grenzüberschreitenden Verkehr",
+      "section": "55b",
+      "title": "b Informationspflicht",
+      "content": "(Art. 15 a PBG) 1 Im konzessionierten Verkehr und im bewilligten grenzüberschreitenden Verkehr müssen die Unternehmen vor der Fahrt folgende Informationen bekanntgeben: a. allgemeine Vertragsbedingungen; b. Fahrpläne und Bedingungen der Fahrt mit der kürzesten Fahrzeit; c. Fahrpläne und Bedingungen der Fahrt zum günstigsten Preis; d. Zugänglichkeit, Zugangsbedingungen und Verfügbarkeit von Einrichtungen für Menschen mit Behinderungen oder eingeschränkter Mobilität; e. Zugänglichkeit und Zugangsbedingungen für Fahrgäste, die Fahrräder mitführen; f. im Fernverkehr die Verfügbarkeit von Sitzen in erster und zweiter Klasse sowie von Liege- und Schlafwagen; g. Aktivitäten, die voraussichtlich zu Störungen oder Verspätungen führen; h. Verfügbarkeit von Dienstleistungen; i. Verfahren zur Anzeige von Gepäckverlust; j. Beschwerdemöglichkeiten. 2 Im konzessionierten Verkehr müssen die Unternehmen während der Fahrt folgende Informationen bekanntgeben: a. verfügbare Dienstleistungen; b. nächste Station; c. Verspätungen; d. wichtigste Anschlussverbindungen; e. Sicherheitshinweise. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art55c",
+      "chapter": "1. Abschnitt: Personentransport im konzessionierten Verkehr und im bewilligten grenzüberschreitenden Verkehr im bewilligten grenzüberschreitenden Verkehr",
+      "section": "55c",
+      "title": "c Beschwerden",
+      "content": "(Art. 18 Abs. 1 Bst. c PBG) 1 Die Unternehmen richten ein Verfahren zur Beschwerdebearbeitung im Zusammenhang mit ihren Pflichten und den Rechten der Reisenden ein. Sie geben den Reisenden bekannt, wie diese eine Beschwerde einreichen können. 2 Reisende können ihre Beschwerden bei jedem an der Reise beteiligten Unternehmen einreichen. Das von der Beschwerde betroffene Unternehmen gibt innerhalb eines Monats ab Einreichung der Beschwerde eine begründete Antwort. In begründeten Ausnahmefällen teilt es den Reisenden mit, wann sie innerhalb von höchstens drei Monaten ab Einreichung der Beschwerde mit einer Antwort rechnen können. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art55d",
+      "section": "55d",
+      "title": "d Bericht über die Servicequalität",
+      "content": "(Art. 18 Abs. 1 Bst. c PBG) Die Unternehmen veröffentlichen jährlich zusammen mit ihrem Geschäftsbericht einen Bericht über die Servicequalität im grenzüberschreitenden Personenverkehr auf der Schiene. Darin berichten sie insbesondere über: a. die Verfügbarkeit von Fahrausweisen; b. die Pünktlichkeit der Verkehrsdienste; c. Ausfälle; d. die Sauberkeit der Fahrzeuge und der Stationen; e. die Kundenzufriedenheit; f. die Beschwerdebearbeitung, Fahrpreiserstattungen und Fahrpreisentschädigungen. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Direkter Verkehr im konzessionierten Verkehr",
+      "content": "(Art. 16 PBG) 1 Ein direkter Verkehr kann sich auch nur über Teile der Schweiz oder über einzelne Agglomerationen und Regionen inner- und ausserhalb von Organisationen nach Artikel 17 PBG erstrecken. 2 Im gestützt auf Artikel 28 Absatz 1 PBG bestellten regionalen Personenverkehr sowie im Fernverkehr müssen die Unternehmen direkten Verkehr anbieten. 3 Im übrigen konzessionierten Verkehr müssen die Unternehmen direkten Verkehr anbieten, wenn: a. die technischen Bedingungen es erlauben; b. der Nutzen für die Reisenden gegenüber dem wirtschaftlichen Aufwand der Unternehmen überwiegt. 4 In der Konzession wird festgelegt, für welche Linien des Fernverkehrs, des Regionalverkehrs und des Ortsverkehrs kein direkter Verkehr angeboten werden muss. Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1695 )."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Fahrausweis",
+      "content": "(Art. 19 und 20 PBG) 1 Die Reisenden müssen gültige Fahrausweise besitzen. Sie müssen sie für die Dauer der Fahrt aufbewahren und auf Verlangen den Kontrollberechtigten vorweisen. 2 Die Tarife können die Reisenden verpflichten, ihre Fahrausweise zu entwerten. Diese Pflicht ist an den Stationen bekannt zu machen und, soweit möglich, an den Fahrzeugen anzuzeigen. 3 Ein auf den Namen lautender Fahrausweis ist nicht übertragbar."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Inhalt des Fahrausweises im grenzüberschreitenden Linienbusverkehr",
+      "content": "(Art. 19 Abs. 3 PBG) 1 Im grenzüberschreitenden Linienbusverkehr mit eidgenössischer Bewilligung muss das Unternehmen den Fahrgästen einen Einzel- oder Sammelfahrausweis ausstellen, der folgende Angaben enthält: a. den Namen sowie die Adresse des Transportunternehmens; b. den Abfahrts- und den Zielort; c. die Angabe, ob es eine einfache Fahrt oder eine Hin- und Rückfahrt ist; d. die Gültigkeitsdauer des Fahrausweises; e. den Beförderungspreis; f. den Namen und Vornamen des Fahrgastes oder der Fahrgäste; g. die Vertragsbedingungen, die, soweit zulässig, von den gesetzlichen Bestimmungen abweichen. 2 Vorbehalten bleiben abweichende Bestimmungen in internationalen Abkommen."
+    },
+    {
+      "provision_ref": "art58a",
+      "section": "58a",
+      "title": "a Informationssysteme über Reisende ohne gültigen Fahrausweis: Datenbearbeitung, Zugang und Datensicherheit",
+      "content": "(Art. 20 a PBG) 1 In Informationssystemen über Reisende ohne gültigen Fahrausweis können zur Identifizierung dieser Reisenden deren Name, Vorname, Geburtsdatum, Heimat- oder Geburtsort, Adresse sowie die zur Identifizierung notwendigen Daten aus den vorgelegten Dokumenten bearbeitet werden. 2 Die Daten dürfen nur von den Personen eingesehen und bearbeitet werden, die sie für die Erhebung eines Zuschlags oder zur Identifizierung von Reisenden benötigen. 3 Wer über Mutationen informiert wird, muss seine Daten unverzüglich berichtigen. 4 Werden Daten im Abrufverfahren zugänglich gemacht, so müssen der Betreiber des Informationssystems und das abrufende Unternehmen sicherstellen, dass nur Personen Daten abrufen können, die diese für die Erhebung des Zuschlags oder zur Identifizierung von Reisenden benötigen. Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 3217 )."
+    },
+    {
+      "provision_ref": "art58b",
+      "section": "58b",
+      "title": "b Informationssysteme über Reisende ohne gültigen Fahrausweis: Auskunft und Berichtigung",
+      "content": "(Art. 20 a PBG) 1 Verlangt eine Person Auskunft über ihre Daten in einem Informationssystem über Reisende ohne gültigen Fahrausweis, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022 ein Gesuch beim Betreiber des Informationssystems einreichen. Die Geltendmachung des Berichtigungsrechts durch die betroffene Person richtet sich nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020. 2 Der Betreiber des Informationssystems muss mindestens monatlich prüfen, welche Daten nach Artikel 20 a Absatz 4 Buchstabe b PBG zu löschen sind. Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 3217 ). SR 235.11 SR 235.1 Fassung gemäss 2 Ziff. II 83 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Ausschluss vom Transport im Allgemeinen",
+      "content": "(Art. 12 Abs. 2 PBG) 1 Das Unternehmen kann Personen vom Transport ausschliessen, die: a. betrunken sind oder unter dem Einfluss von Betäubungsmitteln stehen; b. sich ungebührlich benehmen; c. die Benützungs- und Verhaltensvorschriften oder die darauf gestützten Anordnungen des Personals nicht befolgen. 2 Kinder können aus Sicherheitsgründen vom Transport mit gewissen Verkehrsmitteln ausgeschlossen werden, unabhängig davon, ob sie von Erwachsenen begleitet sind oder nicht. Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ( SR 170.512 ) angepasst."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Ausschluss vom Transport im konzessionierten Verkehr zur Ausübung eines Sports",
+      "content": "(Art. 12 Abs. 2 PBG) 1 Im konzessionierten Verkehr kann das Unternehmen Personen vom Transport zur Ausübung eines Sports ausschliessen, wenn die Witterungsbedingungen zur Ausübung dieses Sports ungünstig sind, insbesondere bei Lawinengefahr. 2 Der Transportvertrag kann vorsehen, dass das Unternehmen eine Person vom Transport zur Ausübung eines Sports ausschliessen und ihr im Wiederholungsfall oder in schwerwiegenden Fällen den Fahrausweis entziehen kann, wenn die betreffende Person im Gebiet, das vom Unternehmen bedient wird, unmittelbar vor dem beabsichtigten Transport Dritte gefährdet hat und Grund zur Annahme besteht, dass sie weiterhin Dritte gefährden wird. 3 Eine Gefährdung Dritter kann namentlich darin bestehen, dass die betreffende Person: a. sich rücksichtslos verhalten hat; b. einen lawinengefährdeten Hang befahren hat; c. Weisungs- und Verbotstafeln, die der Sicherheit dienen, missachtet hat; d. sich den Sicherheitsanordnungen des Aufsichts- und des Rettungsdienstes widersetzt hat."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Fahrpreisentschädigung",
+      "content": "(Art. 8 Abs. 2 und Art. 21 b PBG) 1 Die Entschädigung im konzessionierten Verkehr und im bewilligten grenzüberschreitenden Eisenbahnverkehr beträgt mindestens 25 Prozent des bezahlten Fahrpreises, wenn die Verspätung mehr als 60 Minuten beträgt, und mindestens 50 Prozent des bezahlten Fahrpreises, wenn die Verspätung mehr als 120 Minuten beträgt. 2 Reisende, die ein Abonnement besitzen und denen während dessen Gültigkeitsdauer wiederholt Verspätungen widerfahren, können eine angemessene Entschädigung gemäss den Entschädigungsbedingungen des Unternehmens verlangen. Die Unternehmen müssen die Kriterien zur Bestimmung der Verspätung und für die Berechnung der Entschädigung in ihren Entschädigungsbedingungen festlegen. 3 Die Entschädigung ist in der Regel innerhalb von 30 Tagen nach Einreichung des Antrags auf Entschädigung auszurichten. Sie kann in Form von Gutscheinen oder anderen Leistungen ausgerichtet werden, sofern deren Bedingungen, insbesondere bezüglich der Gültigkeitsdauer und des Zielorts, flexibel sind. Die Reisenden können die Entschädigung in Form eines Geldbetrags verlangen. 4 Die Unternehmen können einen Betrag festsetzen, unter dem keine Entschädigung geschuldet ist. Dieser darf höchstens 5 Franken betragen. 5 Keinen Anspruch auf Entschädigung haben Reisende, die: a. bereits vor dem Kauf des Fahrausweises über eine Verspätung informiert wurden; oder b. mit einer Verspätung von 60 Minuten oder weniger am Zielort ankommen. 6 Für Verspätungen im konzessionierten Seilbahn- oder Schifffahrtsverkehr kann keine Entschädigung verlangt werden. Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art61a",
+      "section": "61a",
+      "title": "a Unterstützung der Reisenden",
+      "content": "(Art. 8 Abs. 2 und Art. 21 c PBG) 1 Bei verspäteter Abfahrt oder Ankunft im konzessionierten Verkehr und im bewilligten grenzüberschreitenden Eisenbahnverkehr muss das Unternehmen die Reisenden umgehend über die Situation und die geschätzte Abfahrts- oder Ankunftszeit informieren. 2 Bei einer Verspätung von mehr als 60 Minuten ist den Reisenden Folgendes kostenlos anzubieten: a. Verpflegung in angemessenem Verhältnis zur Wartezeit, sofern sie im Fahrzeug oder in der Station verfügbar oder vernünftigerweise lieferbar ist; b. die angemessene Unterbringung in einem Hotel oder einer anderweitigen Unterkunft und die Beförderung zwischen der Station und der Unterkunft, sofern ein Aufenthalt von einer oder mehreren Nächten notwendig wird und die Unterbringung praktisch durchführbar ist. 3 Ist der Zug auf der Strecke blockiert oder besteht aus anderen Gründen keine Möglichkeit zur Fortsetzung der Reise, so organisiert das Unternehmen so rasch wie möglich eine Beförderung der Reisenden zu einem alternativen Abfahrtsort oder zum Zielort des Kurses. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art61b",
+      "section": "61b",
+      "title": "b Anspruch auf Weiterfahrt und Fahrpreiserstattung im grenzüberschreitenden Linienbusverkehr",
+      "content": "(Art. 8 Abs. 2 PBG) 1 Muss ein Unternehmen im grenzüberschreitenden Linienbusverkehr vernünftigerweise davon ausgehen, dass die Abfahrt eines Linienbusses annulliert wird oder sich um mindestens 120 Minuten verzögert oder dass der Kurs überbucht ist, so bietet es den Reisenden unverzüglich Folgendes zur Auswahl an: a. zum frühestmöglichen Zeitpunkt Fahrt zum im Transportvertrag festgelegten Zielort ohne Aufpreis und unter vergleichbaren Bedingungen wie im Transportvertrag angegeben; oder b. Erstattung des Fahrpreises und gegebenenfalls zum frühestmöglichen Zeitpunkt kostenlose Rückfahrt mit dem Bus zum im Transportvertrag festgelegten Abfahrtsort. 2 Bietet das Unternehmen diese Auswahl nicht an, so haben die Reisenden Anspruch auf eine Entschädigung in Höhe von 150 Prozent des Fahrpreises. Das Unternehmen muss die Entschädigung innerhalb eines Monats nach Geltendmachung des Anspruchs überweisen. 3 Wird ein Linienbus während der Fahrt betriebsunfähig, so muss das Unternehmen die Beförderung von dem Ort, an dem sich das betriebsunfähige Fahrzeug befindet, zum im Transportvertrag festgelegten Zielort oder zu einem Ort anbieten, von dem aus die Reise zu diesem Zielort möglich ist. 4 Wird ein Kurs annulliert oder verzögert sich die Abfahrt um mindestens 120 Minuten, so haben die Reisenden Anspruch auf Fortsetzung der Fahrt mit einem anderen Kurs oder mit geänderter Streckenführung oder auf Erstattung des Fahrpreises durch das Unternehmen. 5 Das Unternehmen muss den Fahrpreis binnen 14 Tagen erstatten, nachdem der Anspruch auf Erstattung geltend gemacht worden ist. Es muss den vollen Fahrpreis für die gesamte Fahrt erstatten, falls diese nach den ursprünglichen Reiseplänen der Reisenden zwecklos geworden ist. Die Kosten für Abonnemente werden anteilsmässig erstattet. Die Erstattung erfolgt in Geld, es sei denn, die Reisenden sind mit einer anderen Erstattungsform einverstanden. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art61c",
+      "section": "61c",
+      "title": "c Hilfeleistung bei Unfällen im grenzüberschreitenden Linienbusverkehr",
+      "content": "(Art. 8 Abs. 2 PBG) Im grenzüberschreitenden Linienbusverkehr muss das Unternehmen bei Unfällen im Hinblick auf die unmittelbaren praktischen Bedürfnisse der Reisenden nach dem Unfall angemessene und verhältnismässige Hilfe leisten. Diese Hilfe umfasst bei Bedarf die Unterbringung, Verpflegung, Kleidung, Beförderung und Bereitstellung erster Hilfe. Das Unternehmen kann die Gesamtkosten der Unterbringung pro reisende Person auf 100 Franken pro Nacht und die Dauer auf höchstens zwei Nächte beschränken. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art61d",
+      "section": "61d",
+      "title": "d Hilfeleistung bei Annullierung der Fahrt oder Verzögerung der Abfahrt im grenzüberschreitenden Linienbusverkehr",
+      "content": "(Art. 8 Abs. 2 PBG) Im grenzüberschreitenden Linienbusverkehr muss das Unternehmen bei Fahrten mit einer planmässigen Dauer von über drei Stunden den Reisenden bei einer Annullierung der Fahrt sowie bei einer Verzögerung der Abfahrt um mehr als 90 Minuten kostenlos Folgendes anbieten: a. Verpflegung in angemessenem Verhältnis zur Wartezeit, sofern sie im Bus oder in der Station verfügbar oder in zumutbarer Weise zu beschaffen ist; b. ein Hotelzimmer oder eine andere Unterbringungsmöglichkeit sowie Hilfe bei der Organisation der Beförderung zwischen der Station und dem Ort der Unterbringung, sofern ein Aufenthalt von einer oder mehreren Nächten notwendig ist. Das Unternehmen kann die Gesamtkosten der Unterbringung pro reisende Person auf 100 Franken pro Nacht und die Dauer auf höchstens zwei Nächte beschränken. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art61e",
+      "section": "61e",
+      "title": "e Vorschuss im Todesfall",
+      "content": "(Art. 44 a PBG) Der Vorschuss im Todesfall beträgt mindestens 40 000 Franken je reisende Person. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Handgepäck",
+      "content": "(Art. 23 Abs. 1 PBG) Die Tarife regeln, welche Gegenstände als Handgepäck mitgenommen werden dürfen."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Von der Mitnahme ausgeschlossenes Handgepäck",
+      "content": "(Art. 23 Abs. 1 PBG) 1 Als Handgepäck dürfen nicht mitgenommen werden: a. Stoffe und Gegenstände, deren Transport verboten ist, insbesondere nach der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR); b. Sachen, die den Tarifbestimmungen über Masse, Umfang und Verpackung nicht entsprechen; c. lebende Tiere; vorbehalten bleibt Absatz 3; d. Sachen, die den Mitreisenden lästig fallen oder einen Schaden verursachen können. 2 Besteht der Verdacht, dass Sachen mitgeführt werden, die von der Mitnahme ausgeschlossen sind, so kann das Unternehmen den Inhalt des Handgepäcks in Gegenwart der reisenden Person überprüfen. 3 Die Tarife regeln die Zulassung von Hunden und kleinen zahmen Tieren. Sie bestimmen, ob und für welche Tiere ein Entgelt zu bezahlen ist. Fassung gemäss Anhang Ziff. II 7 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1859 ). SR 741.621"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "2. Abschnitt: Transport von Reisegepäck",
+      "section": "64",
+      "title": "Vom Transport ausgeschlossenes Reisegepäck im konzessionierten Verkehr",
+      "content": "1 Als Reisegepäck dürfen nicht gesendet werden: a. Stoffe und Gegenstände, deren Transport verboten ist, insbesondere nach der SDR; b. Sachen, die den Tarifbestimmungen über Masse, Umfang und Verpackung nicht entsprechen; c. lebende Tiere. 2 Besteht der Verdacht, dass Sachen transportiert werden, die vom Transport ausgeschlossen sind, so kann das Unternehmen das Reisegepäck überprüfen. Fassung gemäss Anhang Ziff. II 7 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1859 ). SR 741.621"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "2. Abschnitt: Transport von Reisegepäck",
+      "section": "65",
+      "title": "Transport von Reisegepäck im konzessionierten Verkehr",
+      "content": "1 Im konzessionierten Verkehr wird das Reisegepäck nach der Annahme zum Transport oder nach einer Umladung mit dem nächsten geeigneten Kurs transportiert. 2 Das Unternehmen kann den Transport von Reisegepäck mit bestimmten Kursen ausschliessen."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "2. Abschnitt: Transport von Reisegepäck",
+      "section": "66",
+      "title": "Transport von Gepäck im grenzüberschreitenden Linienbusverkehr",
+      "content": "(Art. 8 Abs. 2) 1 Im grenzüberschreitenden Linienbusverkehr mit eidgenössischer Bewilligung darf nur Hand- und Reisegepäck von Reisenden transportiert werden, die an der gleichen Fahrt teilnehmen. 2 Dem Fahrgast ist eine Transporturkunde abzugeben. Diese muss eine eindeutige Identifizierung jedes Gepäckstücks ermöglichen und den Namen sowie die Adresse des Unternehmens enthalten. 3 Der Transport von Reisegepäck im Fahrgastraum ist verboten. Im Gepäckraum darf ausschliesslich Reisegepäck transportiert werden. 4 Jeder Fahrgast hat Anspruch auf die Beförderung mindestens eines Reisegepäckstücks von angemessenem Umfang und Gewicht. 5 Von der Beförderung sind Reisegepäckstücke nach Artikel 64 Absatz 1 Buchstaben a und c ausgenommen. Die Überprüfung des Reisegepäckes richtet sich nach Artikel 64 Absatz 2. 6 Im grenzüberschreitenden Linienbusverkehr haben Reisende Anspruch auf Entschädigung, wenn ihr Gepäck bei Unfällen verloren geht oder beschädigt wird. Das Unternehmen schuldet ausschliesslich Ersatz für: a. den nachgewiesenen Sachschaden, jedoch höchstens 2000 Franken je Gepäckstück; und b. den Transportpreis, Zölle und sonstige Beträge, die die reisende Person für das verlorene Reisegepäck bezahlt hat. Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 ). Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "2. Abschnitt: Transport von Reisegepäck",
+      "section": "67",
+      "title": "Lieferfrist im konzessionierten Verkehr",
+      "content": "(Art. 26 Abs. 3 PBG) 1 Im konzessionierten Verkehr muss Reisegepäck, das bis 19 Uhr aufgegeben wird, ab dem übernächsten Tag, 9 Uhr, zur Abholung bereitgestellt werden. 2 Nach 19 Uhr aufgegebenes Reisegepäck gilt als am nächsten Tag aufgegeben."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Ablieferung im konzessionierten Verkehr",
+      "content": "1 Im konzessionierten Verkehr wird das Reisegepäck gegen Rückgabe des Berechtigungsnachweises und gegen Bezahlung der gegebenenfalls die Sendung belastenden Kosten ausgehändigt. 2 Das Unternehmen überprüft die Empfangsberechtigung, wenn der Berechtigungsnachweis nicht vorgelegt wird. Es kann eine Sicherheit verlangen."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Abholfrist im konzessionierten Verkehr",
+      "content": "(Art. 26 Abs. 3 PBG) Im konzessionierten Verkehr regeln die Tarife die Abholfrist."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Verkauf von nicht abgeholtem Reisegepäck im konzessionierten Verkehr",
+      "content": "(Art. 26 Abs. 3 und 9. Abschnitt PBG) 1 Im konzessionierten Verkehr kann nicht abgeholtes Reisegepäck drei Monate nach dem Ablauf der Abholfrist verkauft werden. 2 Reisegepäck mit äusserlich erkennbar leichtverderblichem Inhalt oder solches, dessen Wert die Lagerkosten nicht deckt, kann sofort nach Ablauf der Abholfrist verkauft werden. 3 Die berechtigte Person muss mindestens fünf Tage vor dem Verkauf benachrichtigt werden, sofern es die Natur des Reisegepäcks gestattet. 4 Das Unternehmen hat die Rechte und Pflichten eines Beauftragten der berechtigten Person. Es haftet für Schäden jedoch nur bis zum Wert des Reisegepäcks."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Verlust im konzessionierten Verkehr",
+      "content": "(Art. 27 und 9. Abschnitt PBG) 1 Im konzessionierten Verkehr gilt das Reisegepäck als verloren, wenn es nicht binnen 14 Tagen nach Ablauf der Lieferfrist ausgehändigt oder zur Verfügung gestellt worden ist. 2 Wird das Reisegepäck nicht ausgehändigt, so kann die berechtigte Person verlangen, dass ihr bescheinigt wird, wann sie die Ablieferung verlangt hat. 3 Geht das Reisegepäck ganz oder teilweise verloren, so schuldet das Unternehmen ausschliesslich Ersatz für: a. den nachgewiesenen Sachschaden, jedoch höchstens 2000 Franken je Gepäckstück und höchstens 10 000 Franken je Sendung; und b. den Transportpreis, Zölle und sonstige Beträge, die die reisende Person für das verlorene Reisegepäck bezahlt hat."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Aufgefundenes Reisegepäck im konzessionierten Verkehr",
+      "content": "(Art. 27 und 9. Abschnitt PBG) 1 Wird im konzessionierten Verkehr das für verloren gehaltene Reisegepäck binnen eines Jahres nach der verlangten Ablieferung aufgefunden, so muss das Unternehmen die berechtigte Person benachrichtigen. 2 Diese kann binnen 30 Tagen nach der Benachrichtigung verlangen, dass ihr das Reisegepäck auf einer geeigneten schweizerischen Station unentgeltlich abgeliefert wird. In diesem Fall hat sie Anspruch auf die Entschädigung für verspätete Ablieferung. Sie muss jedoch die Entschädigung für Verlust, abzüglich der darin enthaltenen Kosten nach Artikel 71 Absatz 3 Buchstabe b, zurückzahlen. 3 Das Unternehmen verfügt über Reisegepäck, das nicht zurückverlangt oder erst nach Ablauf der Frist aufgefunden wird."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Beschädigung und teilweiser Verlust im konzessionierten Verkehr",
+      "content": "(Art. 27 und 9. Abschnitt PBG) 1 Im konzessionierten Verkehr erstellt das Unternehmen eine Tatbestandsaufnahme, wenn eine Beschädigung oder ein teilweiser Verlust: a. von ihm entdeckt oder vermutet wird; b. von der berechtigten Person entweder bei der Ablieferung oder, falls der Schaden äusserlich nicht erkennbar war, binnen drei Tagen nach der Ablieferung gemeldet wird. 2 Die Tatbestandsaufnahme enthält die Masse und den Zustand des Reisegepäcks und, soweit möglich, das Ausmass und die Ursache des Schadens sowie den Zeitpunkt seines Entstehens. Sie wird wenn möglich in Gegenwart der berechtigten Person erstellt. 3 Der berechtigten Person ist eine Abschrift der Tatbestandsaufnahme unentgeltlich auszuhändigen. Es bleibt ihr vorbehalten, eine gerichtliche Feststellung zu verlangen. 4 Wird das Reisegepäck beschädigt, so muss das Unternehmen eine dem nachgewiesenen Sachschaden entsprechende Entschädigung zahlen. 5 Die Entschädigung darf jedoch nicht übersteigen: a. bei vollständiger Beschädigung: den Betrag, der bei ganzem Verlust zu bezahlen wäre; b. bei teilweiser Beschädigung: den Betrag, der bei Verlust des beschädigten Teils zu bezahlen wäre."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Verspätete Ablieferung im konzessionierten Verkehr",
+      "content": "(Art. 27 PBG) 1 Wird im konzessionierten Verkehr das Gepäck zu spät abgeliefert, so muss das Unternehmen den nachgewiesenen Schaden ersetzen, jedoch höchstens 200 Franken je Gepäckstück und je angefangene 24 Stunden seit dem Verlangen der Ablieferung und für höchstens 14 Tage. 2 Diese Entschädigung ist zusätzlich zur Entschädigung für teilweisen Verlust oder teilweise Beschädigung zu bezahlen, sofern der Schaden nicht wegen der verspäteten Ablieferung entstanden ist. In diesem Fall darf sie insgesamt jedoch nicht höher sein als die Entschädigung für den ganzen Verlust. 3 Die Entschädigung für verspätete Ablieferung wird nicht bezahlt, wenn eine Entschädigung für den ganzen Verlust bezahlt wird."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Besondere Schadenursachen im konzessionierten Verkehr",
+      "content": "(Art. 27 Abs. 3 zweiter Satz PBG) Im konzessionierten Verkehr wird eine andere Schadenursache als der Transport vermutet, wenn: a. das Reisegepäck seiner Natur nach Bruch, Rost, innerem Verderb, Frost, Hitze, Austrocknen oder Verstreuen ausgesetzt ist; b. die Verpackung fehlt oder mangelhaft ist; c. die Absenderin oder der Absender das Reisegepäck verladen, umgeladen oder ausgeladen hat; d. der Schaden beim Erfüllen der von den Zoll-, Polizei- oder andern Behörden verlangten Vorschriften eingetreten sein kann; e. die Absenderin oder der Absender eine Bestimmung über die Zulassung zum Reisegepäcktransport missachtet hat."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Begleitete Motorfahrzeuge (Autoverlad)",
+      "content": "(Art. 27 PBG) 1 Das Unternehmen haftet für begleitete Motorfahrzeuge, die es zum Transport zugelassen hat, für höchstens 8000 Franken je Fahrzeug. 2 Die Entschädigung für verspätete Ablieferung darf den Transportpreis nicht übersteigen. 3 Das Unternehmen haftet nicht für die Beschädigung oder den Verlust von Gegenständen, die auf dem Motorfahrzeug gelassen werden. Für die Beschädigung oder den Verlust von Gegenständen, die im Fahrzeug transportiert werden, haftet es nur, wenn die Schäden auf sein Verschulden zurückzuführen sind."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "3. Abschnitt: Fundsachen",
+      "section": "77",
+      "title": "",
+      "content": "1 Wer eine verlorene Sache auf dem Gebiet eines Unternehmens oder in einem Fahrzeug findet, muss sie unverzüglich dem Personal abgeben. 2 Das Unternehmen wird als Finderin betrachtet, kann aber keinen Finderlohn beanspruchen. 3 Das Unternehmen muss die Person, die die Sache verloren hat, benachrichtigen, wenn es sie kennt, und die Fundsache angemessen aufbewahren. 4 Nachdem das Unternehmen die Fundsache drei Monate aufbewahrt hat, kann es sie versteigern. Die Versteigerung muss bekannt gemacht werden. Fundsachen mit einem Zeitwert von höchstens 50 Franken dürfen bereits nach Ablauf eines Monats versteigert oder freihändig verkauft werden. Der Erlös tritt an die Stelle der Sache. 5 Fundsachen, die einen kostspieligen Unterhalt erfordern oder raschem Verderb ausgesetzt sind, können sofort verkauft werden. Der Erlös tritt an die Stelle der Sache."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "5. Kapitel: Kontrollen, Mitwirkungspflichten, Datenbearbeitung",
+      "section": "78",
+      "title": "Kontrollen und Mitwirkungspflichten",
+      "content": "(Art. 52 PBG) 1 Die Unternehmen müssen dem BAV für die Erfüllung seiner Aufgaben Auskunft über ihren Betrieb erteilen. Sie müssen die finanziellen und statistischen Unterlagen nach den Weisungen des BAV erstellen und sie diesem vorlegen. 2 Die Unternehmen müssen die Mitarbeiterinnen und Mitarbeiter des BAV für dienstliche Zwecke jederzeit unentgeltlich mitfahren lassen und ihnen Zutritt zu den Anlagen, Einrichtungen und Fahrzeugen gewähren. 3 Die Unternehmen lassen Kontrollen zur Feststellung der ordnungsgemässen Durchführung der Beförderungen, insbesondere der Lenk- und Ruhezeiten der Fahrerinnen und Fahrer, zu. Im Rahmen dieser Kontrollen können die Kontrollberechtigten insbesondere: a. die Bücher und sonstigen Geschäftsunterlagen des Unternehmens prüfen; b. an Ort und Stelle Kopien oder Auszüge der Bücher und Unterlagen anfertigen. 4 Muss der Betrieb wegen unvorhergesehener Ereignisse, insbesondere wegen Naturereignissen oder Unfällen, unterbrochen werden, so muss das Unternehmen dies unverzüglich dem BAV sowie den betroffenen Kundinnen und Kunden mitteilen. 5 Im Übrigen gilt die Unfalluntersuchungsverordnung vom 28. Juni 2000. [ AS 2000 2103 , 2006 4705 Ziff. II 68, 2011 4573 Art. 2 Bst. b 4575 . AS 2015 215 Art. 59 Ziff. 2]. Siehe heute: V vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen ( SR 742.161 )."
+    },
+    {
+      "provision_ref": "art78a",
+      "chapter": "5. Kapitel: Kontrollen, Mitwirkungspflichten, Datenbearbeitung",
+      "section": "78a",
+      "title": "a Berichterstattung über die Durchsetzung der Fahrgastrechte im grenzüberschreitenden Linienbusverkehr",
+      "content": "(Art. 52 PBG) Das BAV veröffentlicht alle zwei Jahre einen Bericht über die Durchsetzung der Artikel 52 a , 55 b , 61 b– 61 d und 66 in den vorangegangenen zwei Kalenderjahren. Der Bericht enthält insbesondere Statistiken über Beschwerden und verhängte Sanktionen. Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "5. Kapitel: Kontrollen, Mitwirkungspflichten, Datenbearbeitung",
+      "section": "79",
+      "title": "Datenbearbeitung durch das BAV",
+      "content": "(Art. 53 PBG ) 1 Zum Zweck der Verkehrsplanung kann das BAV von den Unternehmen folgende Daten zu den Linien, Linienabschnitten und Gebieten verlangen: a. Passagierzahlen für den durchschnittlichen Tagesverkehr, für den durchschnittlichen Werktagsverkehr, für die richtungsgetrennte Morgenspitzenstunde und für die richtungsgetrennte Abendspitzenstunde; b. Tagesganglinien; c. Abfahrts- und Zielorte der Reisenden; d. Anzahl Fahrten; e. Art der Fahrzeuge; f. räumliche Verteilung der Abonnemente. 2 Die Daten dürfen auch von anderen Ämtern des Bundes und von den Kantonen für eigene Studien und Statistiken verwendet werden."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Verzeichnisse",
+      "content": "1 Das Verzeichnis der Konzessionen und Bewilligungen des Bundes und die Verzeichnisse der kantonalen Bewilligungen sind öffentlich. 2 Die Verzeichnisse enthalten Namen und Adressen der Konzessionärinnen und Bewilligungsinhaberinnen sowie Inhalt und Dauer der jeweiligen Konzession oder Bewilligung."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "6. Kapitel: Verwaltungsmassnahmen",
+      "section": "81",
+      "title": "",
+      "content": "1 Stellt das BAV fest, dass ein Unternehmen wiederholt das Personenbeförderungsregal oder die Bestimmungen der Konzession oder Bewilligung verletzt, so räumt es ihm eine Frist zur Einhaltung seiner Pflichten ein mit der Androhung, dass im Unterlassungsfall Verwaltungssanktionen angeordnet werden. 2 Das BAV kann Verwaltungssanktionen anordnen, wenn: a. ohne diese damit zu rechnen ist, dass die anwendbaren Bestimmungen nicht eingehalten werden; oder b. die anwendbaren Bestimmungen schwer oder wiederholt verletzt worden sind. 3 Es kann insbesondere: a. Fahrzeuge an der Einfahrt in die Schweiz hindern; b. Fahrzeuge an der Weiterfahrt hindern; c. die Passagieraufnahme verbieten. 4 Wird zudem die Verkehrssicherheit gefährdet, so kann es Fahrzeuge beschlagnahmen."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "7. Kapitel: Schlussbestimmungen",
+      "section": "82",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Folgende Verordnungen werden aufgehoben: 1. Verordnung vom 25. November 1998 über die Personenbeförderungskonzession; 2. Verordnung vom 5. November 1986 über den Transport im öffentlichen Verkehr. [ AS 1999 721 , 2000 2103 Anhang Ziff. II 5, 2005 1167 Anhang Ziff. II 5, 2008 3547 ] [ AS 1986 1991 , 1994 1848 2714 , 1996 3035 , 1999 719 , 2004 2697 ]"
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "7. Kapitel: Schlussbestimmungen",
+      "section": "83",
+      "title": "Änderung bisherigen Rechts",
+      "content": "... Die Änderung kann unter AS 2009 6027 konsultiert werden."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "7. Kapitel: Schlussbestimmungen",
+      "section": "84",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Bestehende Konzessionen und Bewilligungen bleiben in Kraft. Für die Erneuerung, die Übertragung, die Änderung, den Entzug und den Widerruf gilt diese Verordnung. 2 Das Verfahren für Konzessions- und Bewilligungsgesuche, die beim Inkrafttreten dieser Verordnung bereits hängig sind, richtet sich nach bisherigem Recht, ausser für Flughafentransfers nach Artikel 6 Buchstabe e. Deren Verfahren richtet sich nach dieser Verordnung."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "7. Kapitel: Schlussbestimmungen",
+      "section": "85",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2010 in Kraft."
+    }
+  ],
+  "definitions": []
+}

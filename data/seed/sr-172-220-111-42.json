@@ -1,0 +1,119 @@
+{
+  "id": "sr-172-220-111-42",
+  "type": "statute",
+  "title": "Verordnung vom 5. November 2014 über die Bearbeitung von Personendaten im Intranet und im Extranet des EDA (Web-EDA-Verordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/655/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt die Bearbeitung von Personendaten im Intranet und im Extranet des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) (Web EDA). 2 Das Intranet des EDA (Intranet EDA) ist eine geschützte Informationsplattform, die für einen begrenzten zugangsberechtigten Personenkreis zugänglich ist. 3 Das Extranet des EDA (Extranet EDA) ist eine Erweiterung des Intranets, auf die nebst Zugangsberechtigte des Intranets ausgewählte externe Personen einen passwortgeschützten Zugang haben."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Zweck der Datenbearbeitung im Web EDA",
+      "content": "Die Bearbeitung von Personendaten im Web EDA dient der Bildung von Netzwerken und der Zusammenarbeit mit internen und externen Partnern in Netzwerken im Rahmen der Aufgaben des EDA."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Betrieb",
+      "content": "Das Web EDA wird vom Generalsekretariat des EDA (GS EDA) betrieben."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "4",
+      "title": "Personen",
+      "content": "Im Web EDA werden Daten von folgenden Personen bearbeitet: a. Angestellten des EDA; b. Angestellten der übrigen Bundesverwaltung; c. Dritten, die mit dem EDA oder der übrigen Bundesverwaltung in einem Vertragsverhältnis stehen und Zugriff auf das Bundesverwaltungsnetz haben (Dritte mit Zugriff auf das Bundesverwaltungsnetz); d. Dritten, denen von der oder vom Anwendungsverantwortlichen die Zugriffsberechtigung zum Extranet EDA erteilt wurde (Dritte mit Zugriff auf das Extranet EDA)."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "5",
+      "title": "Art der Personendaten, Herkunft und Veränderbarkeit",
+      "content": "1 Im Web EDA werden von den Personen nach Artikel 4 die Daten gemäss Anhang bearbeitet. 2 Im Anhang ist aufgeführt, welche Daten in einem automatisierten Verfahren aus den Verzeichnisdiensten nach Artikel 8 der Verordnung vom 6. Dezember 2013 über die vom BIT betriebenen Verzeichnisdienste des Bundes in das Web EDA übernommen werden, welche Daten von den Betroffenen selber erfasst werden können und welche Daten vom Web EDA automatisch vergeben werden. 3 Die Daten aus den vom BIT betriebenen Verzeichnisdiensten werden täglich aktualisiert und können im Web EDA nicht verändert werden. SR 172.010.59"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "6",
+      "title": "Zugriffsrechte",
+      "content": "1 Folgende Personen haben Zugriff auf das Intranet EDA: a. Angestellte des EDA; b. Angestellte der übrigen Bundesverwaltung; c. Dritte mit Zugriff auf das Bundesverwaltungsnetz. 2 Folgende Personen haben Zugriff auf das Extranet EDA: a. Personen nach Absatz 1; b. Dritte mit Zugriff auf das Extranet EDA."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "7",
+      "title": "Erteilung der Zugriffsberechtigung",
+      "content": "1 Die oder der Anwendungsverantwortliche erteilt den Benutzerinnen und Benutzern des Web EDA die individuellen Zugriffsrechte. 2 Sie oder er überprüft mindestens einmal jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen. 3 Die Zugriffsrechte können eingeschränkt werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "8",
+      "title": "Datenbearbeitung",
+      "content": "1 Personen nach Artikel 6 können im Rahmen ihrer Zugriffsrechte alle Daten des Web EDA einsehen (Leserecht). 2 Die Personalnummer ist nicht sichtbar. 3 Jede Person kann ihre eigenen Daten, die sie selber ins Web EDA eingegeben hat, jederzeit bearbeiten. 4 Die Einheit für Informatik des EDA kann alle Daten im Web EDA bearbeiten, soweit dies für die Erfüllung ihrer Aufgaben notwendig ist. 5 Alle Bearbeitungsrechte werden im Abrufverfahren ausgeübt."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "9",
+      "title": "Systemverwaltung",
+      "content": "1 Die Systemadministratorin oder der Systemadministrator verwaltet die Computersysteme, Datenbanken und Anwendungen des Web EDA. 2 Die oder der Anwendungsverantwortliche bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern. Sie oder er ist beim EDA angestellt."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "10",
+      "title": "Auskunfts- und Berichtigungsrecht",
+      "content": "1 Jede Person kann beim GS EDA schriftlich und unter Ausweisung ihrer Identität Auskunft über ihre Daten im Web EDA sowie die Berichtigung unrichtiger Daten, die automatisch vom Web EDA vergeben wurden, verlangen. 2 Die Auskunft erfolgt schriftlich und ist kostenlos."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "11",
+      "title": "Sorgfaltspflichten",
+      "content": "1 Das GS EDA sorgt dafür, dass die Personendaten im Web EDA vorschriftsgemäss bearbeitet werden. 2 Es vergewissert sich, dass die Personendaten im Web EDA richtig, vollständig und nachgeführt sind."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "12",
+      "title": "Datensicherheit",
+      "content": "1 Die Daten- und die Informatiksicherheit richten sich nach: a. der Datenschutzverordnung vom 31. August 2022; b. der Cyberrisikenverordnung vom 27. Mai 2020. 2 Das GS EDA erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung. Fassung gemäss Anhang 2 Ziff. II 26 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 ). SR 235.11 SR 120.73 Fassung gemäss Anhang Ziff. 8 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ( AS 2021 132 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "13",
+      "title": "Protokollierung",
+      "content": "1 Die Zugriffe auf das Web EDA und die Änderungen im Web EDA werden laufend protokolliert. 2 Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt. Fassung gemäss Anhang 2 Ziff. II 26 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Aufbewahrung, Archivierung und Vernichtung der Daten",
+      "section": "14",
+      "title": "",
+      "content": "1 Daten von Angestellten, deren Arbeitsverhältnis beim EDA beendet wurde, werden 30 Tage nach Beendigung des Arbeitsverhältnisses vernichtet. 2 Daten von Dritten mit Zugriff auf das Bundesverwaltungsnetz, die mit dem EDA in einem Vertragsverhältnis stehen, werden 30 Tage nach Beendigung des Vertragsverhältnisses vernichtet. 3 Daten von Angestellten der übrigen Bundesverwaltung, von Dritten mit Zugriff auf das Bundesverwaltungsnetz, die mit der übrigen Bundesverwaltung in einem Vertragsverhältnis stehen, sowie von Dritten mit Zugriff auf das Extranet EDA werden spätestens 180 Tage nach dem letzten Zugriff vernichtet. 4 Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Inkrafttreten",
+      "section": "15",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. Dezember 2014 in Kraft."
+    }
+  ],
+  "definitions": []
+}

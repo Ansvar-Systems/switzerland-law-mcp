@@ -1,0 +1,117 @@
+{
+  "id": "sr-956-124",
+  "type": "statute",
+  "title": "Verordnung der FINMA vom 4. Mai 2023 über die Bearbeitung von Personendaten im Rahmen der Aufsicht (Datenverordnung FINMA)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2023/264/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Gegenstand und Zuständigkeiten",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die Einzelheiten der Bearbeitung von Personendaten durch die FINMA im Rahmen der Aufsicht nach dem FINMAG und den Finanzmarktgesetzen nach Artikel 1 Absatz 1 FINMAG."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Gegenstand und Zuständigkeiten",
+      "section": "2",
+      "title": "Zuständigkeiten",
+      "content": "1 Die Abteilung Information and Communication Technologies stellt den technischen Betrieb der Informationssysteme sicher, in denen Personendaten bearbeitet werden. 2 Die Geschäftsleitung der FINMA regelt in einem Bearbeitungsreglement: a. die technischen und organisatorischen Massnahmen zur Gewährleistung der Datensicherheit; b. die Kontrolle der Datenbearbeitung; c. die Zugriffsrechte der einzelnen Kategorien von Mitarbeiterinnen und Mitarbeitern der FINMA. 3 Die betroffenen Personen können ihre Rechte nach dem Datenschutzgesetz vom 25. September 2020 bei der Abteilung Recht und Compliance geltend machen. SR 235.1"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "3",
+      "title": "Zuständigkeit",
+      "content": "Jede Organisationseinheit der FINMA ist für ihre Daten zuständig."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "4",
+      "title": "Zugriffsrechte",
+      "content": "1 Die Mitarbeiterinnen und Mitarbeiter der FINMA haben Zugriff auf die Daten ihrer jeweiligen Aufsichtsfunktion. 2 Die Mitarbeiterinnen und Mitarbeiter der FINMA mit Querschnittsaufgaben haben überdies Zugriff auf weitere Daten, soweit dies für die Erfüllung ihrer Aufgaben notwendig ist. 3 Die Zugriffsrechte können auf einzelne Mitarbeiterinnen und Mitarbeiter der FINMA eingeschränkt oder einzelnen weiteren Mitarbeiterinnen und Mitarbeitern der FINMA erteilt werden, soweit dies im Einzelfall erforderlich ist."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "5",
+      "title": "Kategorien bearbeiteter Personendaten",
+      "content": "1 Die FINMA bearbeitet folgende Personendaten: a. Daten zur Identität: Name, Vorname, Geburtsdatum, Geschlecht, Heimatort, Nationalität, Muttersprache, Adresse, E-Mail-Adresse, Telefonnummer, AHV-Nummer; b. Daten zur Ausbildung, zum Beruf und zu Arbeitsverhältnissen: Aus- und Weiterbildung, berufliche Qualifikationen und Tätigkeiten, berufliche Situation und Entwicklung, Geschäftsverhalten, Arbeitsort, Arbeitgeber mit seiner Unternehmens-Identifikationsnummer (UID), Begründung, Durchführung und Beendigung eines Arbeitsverhältnisses; c. Daten zur finanziellen Situation, zu Vermögensverhältnissen und Versicherungen; d. Auszüge aus dem Handelsregister, dem Betreibungsregister, dem Konkursregister und dem Strafregister; e. Daten von Handelsüberwachungsstellen; f. Berichte, Beurteilungen und andere Dokumente von Prüfgesellschaften und von Beauftragten der FINMA; g. Berichte und Entscheide von Aufsichts-, Selbstregulierungs- und Standesorganisationen; h. Akten von Strafbehörden und anderen Behörden; i. Urteile, Verfügungen und andere amtliche Dokumente; j. Daten zu arbeitsrechtlichen, administrativen und strafrechtlichen Massnahmen; k. Berichte über interne Prüfungen und Untersuchungen von Beaufsichtigten; l. Daten, die für die Auswahl der Beauftragten der FINMA und für die Aufgabenerfüllung durch die Beauftragten erforderlich sind; m. Daten, die der FINMA gestützt auf die gesetzlichen Auskunfts- und Meldepflichten zugehen; n. Daten, die Dritte der FINMA zur Kenntnis bringen; und o. weitere Daten, die im Rahmen der Erfüllung des gesetzlichen Auftrags der FINMA anfallen. 2 Die Bearbeitung nach Absatz 1 kann auch besonders schützenswerte Personendaten der folgenden Art beinhalten: a. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten oder Tätigkeiten; b. Daten über die Gesundheit, die Intimsphäre oder die Zugehörigkeit zu einer Rasse oder Ethnie; c. Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen; d. Daten über Massnahmen der sozialen Hilfe."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "6",
+      "title": "Beschaffung von Personendaten",
+      "content": "1 Die FINMA kann Personendaten beschaffen bei: a. Beaufsichtigten; b. Arbeitgebern; c. der betroffenen Person; d. Gesuchstellern; e. in- und ausländischen Behörden; f. Verfahrensparteien; g. Prüfgesellschaften und Beauftragten der FINMA; h. weiteren auskunfts- und meldepflichtigen Personen. 2 Sie kann Personendaten zudem aus weiteren nicht öffentlich zugänglichen und aus öffentlich zugänglichen Quellen beschaffen. 3 Soweit es zur Erreichung des Bearbeitungszwecks unerlässlich ist, kann die FINMA Personendaten beschaffen, ohne ihre Identität offenzulegen."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Form der Bekanntgabe von Personendaten",
+      "content": "Die Bekanntgabe von Personendaten, einschliesslich besonders schützenswerter Personendaten, erfolgt in Papierform oder in elektronischer Form."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Aufbewahrung und Vernichtung der Personendaten",
+      "content": "Personendaten werden bei der FINMA aufbewahrt, solange sie für die Aufsicht geeignet und erforderlich sind. Danach werden die Daten dem Bundesarchiv zur Archivierung angeboten und bei der FINMA vernichtet."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Datenbank zur Sicherstellung der Gewährsbeurteilung",
+      "section": "9",
+      "title": "Zweck",
+      "content": "Die FINMA führt eine Datenbank, um die Beurteilung der Gewähr für eine einwandfreie Geschäftstätigkeit nach den Finanzmarktgesetzen sicherzustellen. Zu diesem Zweck nimmt sie diejenigen Daten in die Datenbank auf, die für den Fall einer künftigen Beurteilung der Gewähr für eine einwandfreie Geschäftstätigkeit erforderlich sind."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Datenbank zur Sicherstellung der Gewährsbeurteilung",
+      "section": "10",
+      "title": "Zugriffsrechte",
+      "content": "1 Zugriff auf die Datenbank haben: a. die Mitarbeiterinnen und Mitarbeiter der Abteilung Recht und Compliance; b. die Mitarbeiterinnen und Mitarbeiter der FINMA, die für die Beurteilung der Gewähr für eine einwandfreie Geschäftstätigkeit zuständig sind. 2 Die Mitarbeiterinnen und Mitarbeiter nach Absatz 1 können anderen Mitarbeiterinnen und Mitarbeitern der FINMA auf Anfrage Auskunft über Daten der Datenbank erteilen, soweit dies für die Erfüllung von deren Aufgaben erforderlich ist."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Datenbank zur Sicherstellung der Gewährsbeurteilung",
+      "section": "11",
+      "title": "Inhalt",
+      "content": "Die Datenbank enthält folgende Daten: a. Daten zur Identität: Name, Vorname, Geburtsdatum, Geschlecht, Heimatort, Nationalität, Muttersprache, Adresse, E-Mail-Adresse, Telefonnummer, AHV-Nummer; b. Daten zur Ausbildung und zum Beruf: Aus- und Weiterbildung, berufliche Qualifikationen und Tätigkeiten, Arbeitsort, Arbeitgeber mit seiner UID; c. Daten zur finanziellen Situation, zu Vermögensverhältnissen und Versicherungen; d. Auszüge aus dem Handelsregister, dem Betreibungsregister, dem Konkursregister und dem Strafregister; e. Berichte, Beurteilungen und andere Dokumente von Prüfgesellschaften und von Beauftragten der FINMA; f. Berichte und Entscheide von Aufsichts-, Selbstregulierungs- und Standesorganisationen; g. Strafanklagen und Strafanzeigen von Behörden; h. Urteile, Verfügungen und andere amtliche Dokumente; i. Daten zu arbeitsrechtlichen, administrativen und strafrechtlichen Massnahmen; j. Berichte über interne Prüfungen und Untersuchungen von Beaufsichtigten; k. schriftliches Eingeständnis eines Fehlverhaltens gegenüber einer Behörde sowie Selbstanzeige; l. Belege, aus denen hervorgeht, dass trotz Hinweisen auf eine Aufsichtsverletzung gegen eine Person kein Verfahren der FINMA geführt werden kann, weil sich die betroffene Person einem Verfahren entzieht; m. schriftlicher befristeter oder unbefristeter Verzicht, in einem von der FINMA beaufsichtigten Bereich tätig zu sein."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Datenbank zur Sicherstellung der Gewährsbeurteilung",
+      "section": "12",
+      "title": "Information der betroffenen Person",
+      "content": "Die betroffene Person wird nach dem ersten Eintrag in die Datenbank informiert. Artikel 20 des Datenschutzgesetzes vom 25. September 2020 bleibt vorbehalten. SR 235.1"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Datenbank zur Sicherstellung der Gewährsbeurteilung",
+      "section": "13",
+      "title": "Aufbewahrung und Löschung der Daten",
+      "content": "1 Die Daten einer Person werden in der Datenbank aufbewahrt: a. während 10 Jahren nach dem letzten für die Gewährsbeurteilung relevanten Eintrag; b. während 20 Jahren nach dem letzten für die Gewährsbeurteilung relevanten Eintrag, wenn dieser gestützt auf ein Strafurteil oder eine rechtskräftige Feststellung über die Ausübung einer Tätigkeit ohne die erforderliche Bewilligung der FINMA erfolgte. 2 Die Daten einer Person werden vor Ablauf der Aufbewahrungsfrist in der Datenbank gelöscht, wenn die FINMA bei einer Beurteilung der Gewähr für eine einwandfreie Geschäftstätigkeit die Gewähr bejaht."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "14",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung der Eidgenössischen Finanzmarktaufsicht vom 8. September 2011 über die Datenbearbeitung wird aufgehoben. [ AS 2011 4363 ; 2017 4809 ; 2019 451 , 3511 ]"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "15",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. September 2023 in Kraft."
+    }
+  ],
+  "definitions": []
+}

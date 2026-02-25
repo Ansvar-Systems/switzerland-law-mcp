@@ -1,0 +1,32 @@
+{
+  "id": "sr-842-11",
+  "type": "statute",
+  "title": "Verordnung des WBF vom 27. Januar 2004 über den Mindestumfang an Investitionen und anrechenbare Liegenschaftskosten",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2004/59/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Mindestumfang an Investitionen bei Erneuerungen",
+      "content": "Die Investitionen müssen in der Regel bei durchschnittlich 50 000 Franken pro Wohnung liegen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Anrechenbare Liegenschaftskosten",
+      "content": "Für Neubauten und umfassende Erneuerungen mit wesentlichen Grundrissveränderungen werden folgende Pauschalen festgelegt: a. 0,9 Prozent der Anlagekosten für Unterhaltskosten sowie Einlagen in den Erneuerungsfonds, für den Risikozuschlag sowie für die mit der Sache verbundenen Lasten und öffentlichen Abgaben; b. 4 Prozent des nicht verbilligten Nettomietzinses für die Verwaltungskosten."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Februar 2004 in Kraft."
+    }
+  ],
+  "definitions": []
+}

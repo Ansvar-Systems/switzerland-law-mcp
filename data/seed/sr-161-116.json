@@ -1,0 +1,86 @@
+{
+  "id": "sr-161-116",
+  "type": "statute",
+  "title": "Verordnung der BK vom 13. Dezember 2013 über die elektronische Stimmabgabe (VEleS)",
+  "title_en": "Federal Chancellery Ordinance of 13 December 2013 on Electronic Voting (VEleS)",
+  "short_name": "VEleS",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2013/859/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Subject matter and definitions",
+      "content": "1 This Ordinance specifies the requirements for authorising electronic voting. 2 The definitions in Annex number 1.3 apply."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "General requirements for the authorisation of electronic voting per ballot",
+      "content": "The authorisation for electronic voting in any individual ballot shall be granted provided the following requirements are met: a. The system for electronic voting (the system) is implemented and operated so as to guarantee secure and trustworthy vote casting (Annex No 2 and 3). b. The system must be easy to use for the voters. Account must be taken of the special needs of all voters wherever possible. c. The system and the operational procedures shall be documented so as to enable the details of all security-relevant technical and organisational procedures to be understood."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Risk assessment",
+      "content": "1 By the means of a risk assessment, the canton must document in detailed and understandable terms that any security risks are within adequate limits. The assessment covers the following security objectives: a. the accuracy of the result; b. the protection of voting secrecy and non-disclosure of early provisional results; c. the availability of functionalities; d. the protection of personal information about voters; e. the protection of voter information against manipulation; f. the non-disclosure of evidence of vote casting behaviour. 2 Each risk must be identified and clearly described in the context of the security objectives, any related data records, threats, weaknesses and the documentation on the system and its operation. The canton must on this basis justify why it considers the risks to be sufficiently low. 3 Minimising risks must not be dependent on keeping security-relevant information on the system and its operation secret."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Requirements for authorisation for more than 30 per cent of the cantonal electorate",
+      "content": "1 If a system is to be authorised to cover more than 30 per cent of the cantonal electorate, the voters must be able to ascertain whether their vote has been manipulated or intercepted on the user platform or during transmission (individual verifiability, Annex No 4.1 and 4.2). 2 For the purpose of individual verification, voters must receive proof that the server system has registered the vote as it was entered by the voter on the user platform as being in conformity with the system. Proof of correct registration must be provided for each partial vote. 3 If the client-sided authentication measure is sent electronically, voters who have not cast their vote electronically must be able to request proof after the electronic voting system is closed and within the statutory appeal deadlines that the system has not registered any vote cast using their client-sided authentication measure. 4 The substantiveness of the proof must not depend on the trustworthiness of the user platform or transmission channel. 5 It may be based on the following elements: the trustworthiness of the server system; the trustworthiness of the special technical aids for voters; these must meet particularly high security standards; the confidentiality of data provided in paper form; the confidentiality of these data outside the infrastructure must be guaranteed through special measures."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Requirements for authorisation for more than 50 per cent of the cantonal electorate",
+      "content": "1 If a system is to be authorised to cover more than 50 per cent of the cantonal electorate, it must be ensured that voters or the auditors are able, subject to compliance with voting secrecy, to identify any manipulation that leads to falsification of the result (complete verifiability, Annex No 4.3 and 4.4). 2 Complete verifiability is achieved if additional requirements for individual verifiability (para. 3) and requirements for universal verifiability (para. 4‒6) are met. 3 For individual verification the following requirements must be met in addition to those in Article 4: The proof must also confirm to the voters that the data relevant to universal verification has reached the trustworthy part of the system (para. 6). Voters must be able to request proof after the electronic voting system is closed that the trustworthy part of the system has not already registered a vote cast using their client-sided authentication measure. The substantiveness of the proof must not depend on the trustworthiness of the entire server system. It may however be based on the trustworthiness of the trustworthy part of the system. 4 For universal verification, the auditors receive proof that the result has been ascertained correctly. They must evaluate the proof in an observable procedure. To do this, they must use technical aids that are independent of and isolated from the rest of the system. The proof must confirm that the result ascertained: takes account of all votes cast in conformity with the system that were registered by the trustworthy part of the system; takes account only of votes cast in conformity with the system; takes account of all partial votes in accordance with the proof generated in the course of the individual verification. 5 The substantiveness of the proof must depend solely on the trustworthiness of the trustworthy part of the system and the technical aids used for verification. Equally, the guarantee of voting secrecy and the non-disclosure of early provisional results within the infrastructure must depend solely on the trustworthiness of the trustworthy part of the system. 6 The trustworthy part of the system includes either one or a small number of groups of independent components secured by special measures (control components). Their use must also make any abuse recognisable if per group only one of the control components works correctly and in particular is not manipulated unnoticed. For the trustworthiness of the trustworthy part of the system, the diverse organisation of the control components and the independence of their operation and supervision are decisive."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Additional measures for minimising risks",
+      "content": "If the risks are not sufficiently small despite the measures taken, additional measures must be taken to minimise risks. This applies in particular even if all requirements under Annex Nos 2 to 4 have already been implemented."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Requirements for examinations",
+      "content": "1 The cantons shall ensure that meeting the requirements is examined by independent agencies. The examination is made in particular if the system or its operation has been changed in such a way that meeting the requirements for authorisation could be called into question. 2 If more than 30 per cent of the cantonal electorate are to be authorised to participate in a trial (Art. 4 and 5), the system and its operation must be examined in particular detail with regard to the following criteria: a. cryptographic records (Annex No 5.1); b. functionality (Annex No 5.2); c. security of infrastructure and operation (Annex No 5.3); d. protection against attempts to infiltrate the infrastructure (Annex No 5.5); e. requirements for printing offices (Annex No 5.6); f. when using a system has the property of complete verifiability in terms of Article 5: control components (Annex No 5.4). 3 If no more than 30 per cent of the cantonal electorate are to be authorised to participate in a trial and the system has the property of complete verifiability in terms of Article 5, the system and its operation must be examined in particular detail with regard to the following criteria: a. cryptographic protocol (Annex No 5.1); b. functionality (Annex No 5.2), whereby the examination may exclude the software in portals of authorities that are linked to a system; c. security of infrastructure and operation (Annex No 5.3), whereby the examination may be limited to the infrastructure that registers the vote and creates the proof for the voter in accordance with Article 4 paragraph 2; d. protection against attempts to infiltrate the infrastructure (Annex No 5.5); e. control components (Annex No 5.4). Amended by No I of the FCh O of 30 May 2018, in force since 1 July 2018 ( AS 2018 2279 ). Inserted by No I of the FCh O of 30 May 2018, in force since 1 July 2018 ( AS 2018 2279 )."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "a Publication of the source code",
+      "content": "1 The source code for the system software must be made public. 2 Publication shall take place when the system has the property of complete verifiability in terms of Article 5, and: a. following the examination in accordance with Article 7 paragraph 2 if more than 30 per cent of the cantonal electorate are to be authorised to participate in a trial; b. following the examination in terms of Article 7 paragraph 3 if no more than 30 per cent of the cantonal electorate are to be authorised to participate in a trial. 3 There is no requirement to publish the source code of the following: a. third-party components such as operating systems, databases, web and application servers, rights management systems, firewalls or routers, provided these are freely available and regularly updated; b. portals of authorities that are linked to a system. Inserted by No I of the FCh O of 30 May 2018, in force since 1 July 2018 ( AS 2018 2279 )."
+    },
+    {
+      "provision_ref": "art7b",
+      "section": "7b",
+      "title": "b Modalities for publishing the source code",
+      "content": "1 The source code must be prepared and documented according to the best practices. 2 It must be easily obtainable, free of charge, on the internet. 3 The documentation on the system and its operation must explain the relevance of the individual components of the source code for the security of electronic voting. The documentation must be published along with the source code. [tab] 4 Anyone is entitled to examine, modify, compile and execute the source code for ideational purposes, and to write and publish studies thereon. The owner of the source code may permit its use for other purposes. Inserted by No I of the FCh O of 30 May 2018, in force since 1 July 2018 ( AS 2018 2279 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Supporting documents for applications",
+      "content": "1 Applications submitted under Articles 27 c and 27 e para. 1 PoRO must be accompanied by: a. documentary evidence or certificates confirming that the system and its operation have been tested for compliance with requirements and meet all requirements effectively (Annex No 6.1 to 6.3); b. documentary evidence confirming that the risk assessment was conducted in advance of a ballot. It must be shown why the assessed risks fall within sufficiently narrow limits (Annex No 6.4). 2 Reference may be made to documentary evidence that the Federal Chancellery has already received and which is still valid."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Further provisions",
+      "content": "1 The detailed technical and administrative requirements for electronic voting are regulated in the Annex. 2 Until 30 June 2015, a canton may in exceptional cases be exempted from implementing individual requirements in Annex Nos 2 and 3 provided: a. no more than 30 per cent of the cantonal electorate are to be authorised to participate; b. the requirements not implemented are indicated in the application; and c. the canton describes the alternative measures and justifies in reference to the risk assessment why it regards the risks as sufficiently low."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 15 January 2014."
+    }
+  ],
+  "definitions": []
+}

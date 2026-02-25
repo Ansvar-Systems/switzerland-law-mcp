@@ -1,0 +1,32 @@
+{
+  "id": "sr-910-184",
+  "type": "statute",
+  "title": "Verordnung des BLW vom 11. November 2020 über die biologische Landwirtschaft ",
+  "title_en": "FOAG Ordinance of 11 November 2020 on Organic Farming",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2020/954/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "List of countries",
+      "content": "Organic products from countries listed in Annex 1 with relevant specifications may be marketed with the labelling relating to organic farming."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "List of recognised certification bodies and inspection authorities outside the list of countries",
+      "content": "The certification bodies and inspection authorities recognised under Article 23a paragraph 2 of the Organic Farming Ordinance of 22 September 1997 are listed in Annex 2."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 January 2021."
+    }
+  ],
+  "definitions": []
+}

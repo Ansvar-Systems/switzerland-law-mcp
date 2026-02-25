@@ -1,0 +1,38 @@
+{
+  "id": "sr-172-220-111-332",
+  "type": "statute",
+  "title": "Verordnung des EFD vom 24. November 2014 über die Kürzung der Lohnfortzahlung im Vorruhestandsurlaub",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/712/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Geltungsbereich",
+      "content": "Diese Verordnung gilt für Angestellte in Funktionen nach Artikel 33 Absatz 1 Buchstabe b BPV in den Fassungen AS 2007 2871, 2008 2181, 2009 6417, die ab dem 1. August 2015 den Vorruhestandsurlaub antreten."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Kürzung der Lohnfortzahlung",
+      "content": "Hat die angestellte Person solche Funktionen nach Abschluss der funktionsspezifischen Grundausbildung während weniger als 33 Dienstjahren ausgeübt, so wird die Lohnfortzahlung im Vorruhestandsurlaub für jedes fehlende volle Dienstjahr um 2,75 Prozent gekürzt."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Wiedereintritt",
+      "content": "Tritt eine Person wieder in eine solche Funktion ein, so werden ihr die früher in einer dieser Funktionen geleisteten Dienstjahre angerechnet, soweit sie nicht bereits finanziell abgegolten worden sind."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2015 in Kraft."
+    }
+  ],
+  "definitions": []
+}

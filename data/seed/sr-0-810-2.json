@@ -1,0 +1,278 @@
+{
+  "id": "sr-0-810-2",
+  "type": "statute",
+  "title": "Übereinkommen vom 4. April 1997 zum Schutz der Menschenrechte und der Menschenwürde im Hinblick auf die Anwendung von Biologie und Medizin (Übereinkommen über Menschenrechte und Biomedizin)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/718/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Kapitel I: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Ziel",
+      "content": "Die Vertragsparteien dieses Übereinkommens schützen die Würde und die Identität menschlichen Lebens und gewährleisten jedem Menschen ohne Diskriminierung die Wahrung seiner Integrität sowie seiner sonstigen Grundrechte und Grundfreiheiten im Hinblick auf die Anwendung von Biologie und Medizin. Jede Vertragspartei ergreift in ihrem internen Recht die notwendigen Massnahmen, um diesem Übereinkommen Wirksamkeit zu verleihen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Kapitel I: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Vorrang des menschlichen Lebens",
+      "content": "Das Interesse und das Wohl des menschlichen Lebens haben Vorrang gegenüber dem blossen Interesse der Gesellschaft oder der Wissenschaft."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Kapitel I: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Gleicher Zugang zur Gesundheitsversorgung",
+      "content": "Die Vertragsparteien ergreifen unter Berücksichtigung der Gesundheitsbedürfnisse und der verfügbaren Mittel geeignete Massnahmen, um in ihrem Zuständigkeitsbereich gleichen Zugang zu einer Gesundheitsversorgung von angemessener Qualität zu schaffen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Kapitel I: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Berufspflichten und Verhaltensregeln",
+      "content": "Jede Intervention im Gesundheitsbereich, einschliesslich Forschung, muss nach den einschlägigen Rechtsvorschriften, Berufspflichten und Verhaltensregeln erfolgen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Kapitel II: Einwilligung",
+      "section": "5",
+      "title": "Allgemeine Regel",
+      "content": "Eine Intervention im Gesundheitsbereich darf erst erfolgen, nachdem die betroffene Person über sie aufgeklärt worden ist und frei eingewilligt hat. Die betroffene Person ist zuvor angemessen über Zweck und Art der Intervention sowie über deren Folgen und Risiken aufzuklären. Die betroffene Person kann ihre Einwilligung jederzeit frei widerrufen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Kapitel II: Einwilligung",
+      "section": "6",
+      "title": "Schutz einwilligungsunfähiger Personen",
+      "content": "(1) Bei einer einwilligungsunfähigen Person darf eine Intervention nur zu ihrem unmittelbaren Nutzen erfolgen; die Artikel 17 und 20 bleiben vorbehalten. (2) Ist eine minderjährige Person von Rechts wegen nicht fähig, in eine Intervention einzuwilligen, so darf diese nur mit Einwilligung ihres gesetzlichen Vertreters oder einer von der Rechtsordnung dafür vorgesehenen Behörde, Person oder Stelle erfolgen. Der Meinung der minderjährigen Person kommt mit zunehmendem Alter und zunehmender Reife immer mehr entscheidendes Gewicht zu. (3) Ist eine volljährige Person auf Grund einer geistigen Behinderung, einer Krankheit oder aus ähnlichen Gründen von Rechts wegen nicht fähig, in eine Intervention einzuwilligen, so darf diese nur mit Einwilligung ihres gesetzlichen Vertreters oder einer von der Rechtsordnung dafür vorgesehenen Behörde, Person oder Stelle erfolgen. Die betroffene Person ist so weit wie möglich in das Einwilligungsverfahren einzubeziehen. (4) Der Vertreter, die Behörde, die Person oder die Stelle nach den Absätzen 2 und 3 ist in der in Artikel 5 vorgesehenen Weise aufzuklären. (5) Die Einwilligung nach den Absätzen 2 und 3 kann im Interesse der betroffenen Person jederzeit widerrufen werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Kapitel II: Einwilligung",
+      "section": "7",
+      "title": "Schutz von Personen mit psychischer Störung",
+      "content": "Bei einer Person, die an einer schweren psychischen Störung leidet, darf eine Intervention zur Behandlung der psychischen Störung nur dann ohne ihre Einwilligung erfolgen, wenn ihr ohne die Behandlung ein ernster gesundheitlicher Schaden droht und die Rechtsordnung Schutz gewährleistet, der auch Aufsichts-, Kontroll- und Rechtsmittelverfahren umfasst."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Kapitel II: Einwilligung",
+      "section": "8",
+      "title": "Notfallsituation",
+      "content": "Kann die Einwilligung wegen einer Notfallsituation nicht eingeholt werden, so darf jede Intervention, die im Interesse der Gesundheit der betroffenen Person medizinisch unerlässlich ist, umgehend erfolgen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Kapitel II: Einwilligung",
+      "section": "9",
+      "title": "Zu einem früheren Zeitpunkt geäusserte Wünsche",
+      "content": "Kann ein Patient im Zeitpunkt der medizinischen Intervention seinen Willen nicht äussern, so sind die Wünsche zu berücksichtigen, die er früher im Hinblick auf eine solche Intervention geäussert hat."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Kapitel III: Privatsphäre und Recht auf Auskunft",
+      "section": "10",
+      "title": "Privatsphäre und Recht auf Auskunft",
+      "content": "(1) Jede Person hat das Recht auf Wahrung der Privatsphäre in Bezug auf Angaben über ihre Gesundheit. (2) Jede Person hat das Recht auf Auskunft in Bezug auf alle über ihre Gesundheit gesammelten Angaben. Will eine Person jedoch keine Kenntnis erhalten, so ist dieser Wunsch zu respektieren. (3) Die Rechtsordnung kann vorsehen, dass in Ausnahmefällen die Rechte nach Absatz 2 im Interesse des Patienten eingeschränkt werden können."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Kapitel IV: Menschliches Genom",
+      "section": "11",
+      "title": "Nichtdiskriminierung",
+      "content": "Jede Form von Diskriminierung einer Person wegen ihres genetischen Erbes ist verboten."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Kapitel IV: Menschliches Genom",
+      "section": "12",
+      "title": "Prädiktive genetische Untersuchungen",
+      "content": "Untersuchungen, die es ermöglichen, genetisch bedingte Krankheiten vorherzusagen oder bei einer Person entweder das Vorhandensein eines für eine Krankheit verantwortlichen Gens festzustellen oder eine genetische Prädisposition oder Anfälligkeit für eine Krankheit zu erkennen, dürfen nur für medizinische Zwecke oder für medizinische wissenschaftliche Forschung und nur unter der Voraussetzung einer angemessenen genetischen Beratung vorgenommen werden."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Kapitel IV: Menschliches Genom",
+      "section": "13",
+      "title": "Interventionen in das menschliche Genom",
+      "content": "Eine Intervention, die auf die Veränderung des menschlichen Genoms gerichtet ist, darf nur zu präventiven, diagnostischen oder therapeutischen Zwecken und nur dann vorgenommen werden, wenn sie nicht darauf abzielt, eine Veränderung des Genoms von Nachkommen herbeizuführen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Kapitel IV: Menschliches Genom",
+      "section": "14",
+      "title": "Verbot der Geschlechtswahl",
+      "content": "Die Verfahren der medizinisch unterstützten Fortpflanzung dürfen nicht dazu verwendet werden, das Geschlecht des künftigen Kindes zu wählen, es sei denn, um eine schwere, geschlechtsgebundene erbliche Krankheit zu vermeiden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Kapitel V: Wissenschaftliche Forschung",
+      "section": "15",
+      "title": "Allgemeine Regel",
+      "content": "Vorbehaltlich dieses Übereinkommens und der sonstigen Rechtsvorschriften zum Schutz menschlichen Lebens ist wissenschaftliche Forschung im Bereich von Biologie und Medizin frei."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Kapitel V: Wissenschaftliche Forschung",
+      "section": "16",
+      "title": "Schutz von Personen bei Forschungsvorhaben",
+      "content": "Forschung an einer Person ist nur zulässig, wenn die folgenden Voraussetzungen erfüllt sind: i) Es gibt keine Alternative von vergleichbarer Wirksamkeit zur Forschung am Menschen; ii) die möglichen Risiken für die Person stehen nicht im Missverhältnis zum möglichen Nutzen der Forschung; iii) die zuständige Stelle hat das Forschungsvorhaben gebilligt, nachdem eine unabhängige Prüfung seinen wissenschaftlichen Wert einschliesslich der Wichtigkeit des Forschungsziels bestätigt hat und eine interdisziplinäre Prüfung ergeben hat, dass es ethisch vertretbar ist; iv) die Personen, die sich für ein Forschungsvorhaben zur Verfügung stellen, sind über ihre Rechte und die von der Rechtsordnung zu ihrem Schutz vorgesehenen Sicherheitsmassnahmen unterrichtet worden; und v) die nach Artikel 5 notwendige Einwilligung ist ausdrücklich und eigens für diesen Fall erteilt und urkundlich festgehalten worden. Diese Einwilligung kann jederzeit frei widerrufen werden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Kapitel V: Wissenschaftliche Forschung",
+      "section": "17",
+      "title": "Schutz einwilligungsunfähiger Personen bei Forschungsvorhaben",
+      "content": "(1) Forschung an einer Person, die nicht fähig ist, die Einwilligung nach Artikel 5 zu erteilen, ist nur zulässig, wenn die folgenden Voraussetzungen erfüllt sind: i) Die Voraussetzungen nach Artikel 16 Ziffern i−iv sind erfüllt; ii) die erwarteten Forschungsergebnisse sind für die Gesundheit der betroffenen Person von tatsächlichem und unmittelbarem Nutzen; iii) Forschung von vergleichbarer Wirksamkeit ist an einwilligungsfähigen Personen nicht möglich; iv) die nach Artikel 6 notwendige Einwilligung ist eigens für diesen Fall und schriftlich erteilt worden; und v) die betroffene Person lehnt nicht ab. (2) In Ausnahmefällen und nach Massgabe der durch die Rechtsordnung vorgesehenen Schutzbestimmungen darf Forschung, deren erwartete Ergebnisse für die Gesundheit der betroffenen Person nicht von unmittelbarem Nutzen sind, zugelassen werden, wenn ausser den Voraussetzungen nach Absatz 1 Ziffern i, iii, iv und v zusätzlich die folgenden Voraussetzungen erfüllt sind: i) Die Forschung hat zum Ziel, durch eine wesentliche Erweiterung des wissenschaftlichen Verständnisses des Zustands, der Krankheit oder der Störung der Person letztlich zu Ergebnissen beizutragen, die der betroffenen Person selbst oder anderen Personen nützen können, welche derselben Altersgruppe angehören oder an derselben Krankheit oder Störung leiden oder sich in demselben Zustand befinden; und ii) die Forschung bringt für die betroffene Person nur ein minimales Risiko und eine minimale Belastung mit sich."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Kapitel V: Wissenschaftliche Forschung",
+      "section": "18",
+      "title": "Forschung an Embryonen in vitro",
+      "content": "(1) Die Rechtsordnung hat einen angemessenen Schutz des Embryos zu gewährleisten, sofern sie Forschung an Embryonen in vitro zulässt. (2) Die Erzeugung menschlicher Embryonen zu Forschungszwecken ist verboten."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Kapitel VI: Entnahme von Organen und Gewebe von lebenden Spendern zu Transplantationszwecken zu Transplantationszwecken",
+      "section": "19",
+      "title": "Allgemeine Regel",
+      "content": "(1) Einer lebenden Person darf ein Organ oder Gewebe zu Transplantationszwecken nur zum therapeutischen Nutzen des Empfängers und nur dann entnommen werden, wenn weder ein geeignetes Organ oder Gewebe einer verstorbenen Person verfügbar ist noch eine alternative therapeutische Methode von vergleichbarer Wirksamkeit besteht. (2) Die nach Artikel 5 notwendige Einwilligung muss ausdrücklich und eigens für diesen Fall entweder in schriftlicher Form oder vor einer amtlichen Stelle erteilt worden sein."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Kapitel VI: Entnahme von Organen und Gewebe von lebenden Spendern zu Transplantationszwecken zu Transplantationszwecken",
+      "section": "20",
+      "title": "Schutz einwilligungsunfähiger Personen",
+      "content": "(1) Einer Person, die nicht fähig ist, die Einwilligung nach Artikel 5 zu erteilen, dürfen weder Organe noch Gewebe entnommen werden. (2) In Ausnahmefällen und nach Massgabe der durch die Rechtsordnung vorgesehenen Schutzbestimmungen darf die Entnahme regenerierbaren Gewebes bei einer einwilligungsunfähigen Person zugelassen werden, wenn die folgenden Voraussetzungen erfüllt sind: i) Ein geeigneter einwilligungsfähiger Spender steht nicht zur Verfügung; ii) der Empfänger ist ein Bruder oder eine Schwester des Spenders; iii) die Spende muss geeignet sein, das Leben des Empfängers zu retten; iv) die Einwilligung nach Artikel 6 Absätze 2 und 3 ist eigens für diesen Fall und schriftlich in Übereinstimmung mit der Rechtsordnung und mit Billigung der zuständigen Stelle erteilt worden; und v) der in Frage kommende Spender lehnt nicht ab."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Kapitel VII: Verbot finanziellen Gewinns; Verwendung eines Teils des menschlichen Körpers des menschlichen Körpers",
+      "section": "21",
+      "title": "Verbot finanziellen Gewinns",
+      "content": "Der menschliche Körper und Teile davon dürfen als solche nicht zur Erzielung eines finanziellen Gewinns verwendet werden."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Kapitel VII: Verbot finanziellen Gewinns; Verwendung eines Teils des menschlichen Körpers des menschlichen Körpers",
+      "section": "22",
+      "title": "Verwendung eines dem menschlichen Körper entnommenen Teils",
+      "content": "Wird bei einer Intervention ein Teil des menschlichen Körpers entnommen, so darf er nur zu dem Zweck aufbewahrt und verwendet werden, zu dem er entnommen worden ist; jede andere Verwendung setzt angemessene Informations- und Einwilligungsverfahren voraus."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Kapitel VIII: Verletzung von Bestimmungen des Übereinkommens",
+      "section": "23",
+      "title": "Verletzung von Rechten oder Grundsätzen",
+      "content": "Die Vertragsparteien gewährleisten einen geeigneten gerichtlichen Rechtsschutz, der darauf abzielt, eine widerrechtliche Verletzung der in diesem Übereinkommen verankerten Rechte und Grundsätze innerhalb kurzer Frist zu verhindern oder zu beenden."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Kapitel VIII: Verletzung von Bestimmungen des Übereinkommens",
+      "section": "24",
+      "title": "Schadenersatz",
+      "content": "Hat eine Person durch eine Intervention in ungerechtfertigter Weise Schaden erlitten, so hat sie Anspruch auf angemessenen Schadenersatz nach Massgabe der durch die Rechtsordnung vorgesehenen Voraussetzungen und Modalitäten."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Kapitel VIII: Verletzung von Bestimmungen des Übereinkommens",
+      "section": "25",
+      "title": "Sanktionen",
+      "content": "Die Vertragsparteien sehen angemessene Sanktionen für Verletzungen von Bestimmungen dieses Übereinkommens vor."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Kapitel IX: Verhältnis dieses Übereinkommens zu anderen Bestimmungen Bestimmungen",
+      "section": "26",
+      "title": "Einschränkungen der Ausübung der Rechte",
+      "content": "(1) Die Ausübung der in diesem Übereinkommen vorgesehenen Rechte und Schutzbestimmungen darf nur insoweit eingeschränkt werden, als diese Einschränkung durch die Rechtsordnung vorgesehen ist und eine Massnahme darstellt, die in einer demokratischen Gesellschaft für die öffentliche Sicherheit, zur Verhinderung von strafbaren Handlungen, zum Schutz der öffentlichen Gesundheit oder zum Schutz der Rechte und Freiheiten anderer notwendig ist. (2) Die nach Absatz 1 möglichen Einschränkungen dürfen sich nicht auf die Artikel 11, 13, 14, 16, 17, 19, 20 und 21 beziehen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Kapitel IX: Verhältnis dieses Übereinkommens zu anderen Bestimmungen Bestimmungen",
+      "section": "27",
+      "title": "Weiterreichender Schutz",
+      "content": "Dieses Übereinkommen darf nicht so ausgelegt werden, als beschränke oder beeinträchtige es die Möglichkeit einer Vertragspartei, im Hinblick auf die Anwendung von Biologie und Medizin einen über dieses Übereinkommen hinausgehenden Schutz zu gewähren."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Kapitel X: Öffentliche Diskussion",
+      "section": "28",
+      "title": "Öffentliche Diskussion",
+      "content": "Die Vertragsparteien dieses Übereinkommens sorgen dafür, dass die durch die Entwicklungen in Biologie und Medizin aufgeworfenen Grundsatzfragen, insbesondere in Bezug auf ihre medizinischen, sozialen, wirtschaftlichen, ethischen und rechtlichen Auswirkungen, öffentlich diskutiert werden und zu ihren möglichen Anwendungen angemessene Konsultationen stattfinden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Kapitel XI: Auslegung des Übereinkommens und Folgemassnahmen",
+      "section": "29",
+      "title": "Auslegung des Übereinkommens",
+      "content": "Der Europäische Gerichtshof für Menschenrechte kann, ohne unmittelbare Bezugnahme auf ein bestimmtes, bei einem Gericht anhängiges Verfahren, Gutachten über Rechtsfragen betreffend die Auslegung dieses Übereinkommens erstatten, und zwar auf Antrag: – der Regierung einer Vertragspartei nach Unterrichtung der anderen Vertragsparteien; – des nach Artikel 32 vorgesehenen und auf die Vertreter der Vertragsparteien beschränkten Ausschusses, wenn der Antrag mit Zweidrittelmehrheit der abgegebenen Stimmen beschlossen worden ist."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Kapitel XI: Auslegung des Übereinkommens und Folgemassnahmen",
+      "section": "30",
+      "title": "Berichte über die Anwendung des Übereinkommens",
+      "content": "Nach Aufforderung durch den Generalsekretär des Europarats legt jede Vertragspartei dar, in welcher Weise ihr internes Recht die wirksame Anwendung der Bestimmungen dieses Übereinkommens gewährleistet."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Kapitel XII: Protokolle",
+      "section": "31",
+      "title": "Protokolle",
+      "content": "Zur Weiterentwicklung der Grundsätze dieses Übereinkommens in einzelnen Bereichen können Protokolle nach Artikel 32 ausgearbeitet werden. Die Protokolle liegen für die Unterzeichner dieses Übereinkommens zur Unterzeichnung auf. Sie bedürfen der Ratifikation, Annahme oder Genehmigung. Ein Unterzeichner kann die Protokolle ohne vorherige oder gleichzeitige Ratifikation, Annahme oder Genehmigung des Übereinkommens nicht ratifizieren, annehmen oder genehmigen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Kapitel XIII: Änderungen des Übereinkommens",
+      "section": "32",
+      "title": "Änderungen des Übereinkommens",
+      "content": "(1) Die Aufgaben, die dieser Artikel und Artikel 29 dem «Ausschuss» übertragen, werden vom Lenkungsausschuss für Bioethik (CDBI) oder von einem anderen vom Ministerkomitee hierzu bestimmten Ausschuss wahrgenommen. (2) Nimmt der Ausschuss Aufgaben nach diesem Übereinkommen wahr, so kann, vorbehaltlich des Artikels 29, jeder Mitgliedstaat des Europarats sowie jede Vertragspartei dieses Übereinkommens, die nicht Mitglied des Europarats ist, im Ausschuss vertreten sein und über eine Stimme verfügen. (3) Jeder in Artikel 33 bezeichnete oder nach Artikel 34 zum Beitritt zu diesem Übereinkommen eingeladene Staat, der nicht Vertragspartei des Übereinkommens ist, kann einen Beobachter in den Ausschuss entsenden. Ist die Europäische Gemeinschaft nicht Vertragspartei, so kann sie einen Beobachter in den Ausschuss entsenden. (4) Damit wissenschaftlichen Entwicklungen Rechnung getragen werden kann, überprüft der Ausschuss dieses Übereinkommen spätestens fünf Jahre nach seinem Inkrafttreten und danach in den von ihm bestimmten Abständen. (5) Jeder Vorschlag zur Änderung dieses Übereinkommens und jeder Vorschlag für ein Protokoll oder zur Änderung eines Protokolls, der von einer Vertragspartei, dem Ausschuss oder dem Ministerkomitee vorgelegt wird, ist dem Generalsekretär des Europarats zu übermitteln; dieser leitet ihn an die Mitgliedstaaten des Europarats, die Europäische Gemeinschaft, jeden Unterzeichner, jede Vertragspartei, jeden nach Artikel 33 zur Unterzeichnung eingeladenen Staat und jeden nach Artikel 34 zum Beitritt eingeladenen Staat weiter. (6) Der Ausschuss prüft den Vorschlag frühestens zwei Monate nach dem Zeitpunkt, zu dem der Generalsekretär ihn nach Absatz 5 weitergeleitet hat. Der Ausschuss unterbreitet den mit Zweidrittelmehrheit der abgegebenen Stimmen angenommenen Text dem Ministerkomitee zur Genehmigung. Nach seiner Genehmigung wird dieser Text den Vertragsparteien dieses Übereinkommens zur Ratifikation, Annahme oder Genehmigung zugeleitet. (7) Jede Änderung tritt für die Vertragsparteien, die sie angenommen haben, am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von einem Monat nach dem Tag folgt, an dem fünf Vertragsparteien, darunter mindestens vier Mitgliedstaaten des Europarats, dem Generalsekretär ihre Annahme der Änderung mitgeteilt haben. Für jede Vertragspartei, welche die Änderung später annimmt, tritt sie am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von einem Monat nach dem Tag folgt, an dem die betreffende Vertragspartei dem Generalsekretär ihre Annahme der Änderung mitgeteilt hat."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Kapitel XIV: Schlussbestimmungen",
+      "section": "33",
+      "title": "Unterzeichnung, Ratifikation und Inkrafttreten",
+      "content": "(1) Dieses Übereinkommen liegt für die Mitgliedstaaten des Europarats, für die Nichtmitgliedstaaten, die an seiner Ausarbeitung beteiligt waren, und für die Europäische Gemeinschaft zur Unterzeichnung auf. (2) Dieses Übereinkommen bedarf der Ratifikation, Annahme oder Genehmigung. Die Ratifikations-, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär des Europarats hinterlegt. (3) Dieses Übereinkommen tritt am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach dem Tag folgt, an dem fünf Staaten, darunter mindestens vier Mitgliedstaaten des Europarats, nach Absatz 2 ihre Zustimmung ausgedrückt haben, durch das Übereinkommen gebunden zu sein. (4) Für jeden Unterzeichner, der später seine Zustimmung ausdrückt, durch dieses Übereinkommen gebunden zu sein, tritt es am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung seiner Ratifikations-, Annahme- oder Genehmigungsurkunde folgt."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Kapitel XIV: Schlussbestimmungen",
+      "section": "34",
+      "title": "Nichtmitgliedstaaten",
+      "content": "(1) Nach Inkrafttreten dieses Übereinkommens kann das Ministerkomitee des Europarats nach Konsultation mit den Vertragsparteien durch einen Beschluss, der mit der in Artikel 20 Buchstabe d der Satzung des Europarats vorgesehenen Mehrheit und mit einhelliger Zustimmung der Vertreter der Vertragsparteien, die Anspruch auf einen Sitz im Ministerkomitee haben, gefasst worden ist, jeden Nichtmitgliedstaat des Europarats einladen, dem Übereinkommen beizutreten. (2) Für jeden beitretenden Staat tritt dieses Übereinkommen am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung der Beitrittsurkunde beim Generalsekretär des Europarats folgt. SR 0.192.030"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Kapitel XIV: Schlussbestimmungen",
+      "section": "35",
+      "title": "Hoheitsgebiete",
+      "content": "(1) Jeder Unterzeichner kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme- oder Genehmigungsurkunde ein Hoheitsgebiet oder mehrere Hoheitsgebiete bezeichnen, auf die dieses Übereinkommen Anwendung findet. Jeder andere Staat kann bei der Hinterlegung seiner Beitrittsurkunde dieselbe Erklärung abgeben. (2) Jede Vertragspartei kann jederzeit danach durch eine an den Generalsekretär des Europarats gerichtete Erklärung die Anwendung dieses Übereinkommens auf jedes weitere in der Erklärung bezeichnete Hoheitsgebiet erstrecken, für dessen internationale Beziehungen sie verantwortlich ist oder für das sie befugt ist, Verpflichtungen einzugehen. Das Übereinkommen tritt für dieses Hoheitsgebiet am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Eingang der Erklärung beim Generalsekretär folgt. (3) Jede nach den Absätzen 1 und 2 abgegebene Erklärung kann in Bezug auf jedes darin bezeichnete Hoheitsgebiet durch eine an den Generalsekretär gerichtete Notifikation zurückgenommen werden. Die Rücknahme wird am ersten Tag des Monats wirksam, der auf einen Zeitabschnitt von drei Monaten nach Eingang der Notifikation beim Generalsekretär folgt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Kapitel XIV: Schlussbestimmungen",
+      "section": "36",
+      "title": "Vorbehalte",
+      "content": "(1) Jeder Staat und die Europäische Gemeinschaft können bei der Unterzeichnung dieses Übereinkommens oder bei der Hinterlegung der Ratifikationsurkunde bezüglich bestimmter Vorschriften des Übereinkommens einen Vorbehalt machen, soweit das zu dieser Zeit in ihrem Gebiet geltende Recht nicht mit der betreffenden Vorschrift übereinstimmt. Vorbehalte allgemeiner Art sind nach diesem Artikel nicht zulässig. (2) Jeder nach diesem Artikel gemachte Vorbehalt muss mit einer kurzen Darstellung des betreffenden Rechts verbunden sein. (3) Jede Vertragspartei, welche die Anwendung dieses Übereinkommens auf ein in der in Artikel 35 Absatz 2 aufgeführten Erklärung erwähntes Hoheitsgebiet erstreckt, kann in Bezug auf das betreffende Hoheitsgebiet einen Vorbehalt nach den Absätzen 1 und 2 machen. (4) Jede Vertragspartei, die einen Vorbehalt nach diesem Artikel gemacht hat, kann ihn durch eine an den Generalsekretär des Europarats gerichtete Erklärung zurücknehmen. Die Rücknahme wird am ersten Tag des Monats wirksam, der auf einen Zeitabschnitt von einem Monat nach dem Eingang beim Generalsekretär folgt."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Kündigung",
+      "content": "(1) Jede Vertragspartei kann dieses Übereinkommen jederzeit durch eine an den Generalsekretär des Europarats gerichtete Notifikation kündigen. (2) Die Kündigung wird am ersten Tag des Monats wirksam, der auf einen Zeitabschnitt von drei Monaten nach Eingang der Notifikation beim Generalsekretär folgt."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Notifikationen",
+      "content": "Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates, der Europäischen Gemeinschaft, jedem Unterzeichner, jeder Vertragspartei und jedem anderen Staat, der zum Beitritt zu diesem Übereinkommen eingeladen worden ist, a) jede Unterzeichnung; b) jede Hinterlegung einer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde; c) jeden Zeitpunkt des Inkrafttretens dieses Übereinkommens nach Artikel 33 oder 34; d) jede Änderung und jedes Protokoll, die nach Artikel 32 angenommen worden sind, sowie das Datum des Inkrafttretens der Änderung oder des Protokolls; e) jede nach Artikel 35 abgegebene Erklärung; f) jeden Vorbehalt und jede Rücknahme des Vorbehalts nach Artikel 36; g) jede andere Handlung, Notifikation oder Mitteilung im Zusammenhang mit diesem Übereinkommen."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,487 @@
+{
+  "id": "sr-832-311-12",
+  "type": "statute",
+  "title": "Verordnung vom 15. April 2015 über die Sicherheit der Arbeitnehmerinnen und Arbeitnehmer bei Arbeiten im Überdruck",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/239/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung legt die Massnahmen fest, die für die Sicherheit der Arbeitnehmerinnen und Arbeitnehmer bei Arbeiten im Überdruck getroffen werden müssen. 2 Als Arbeiten im Überdruck gelten: a. Bauarbeiten in Druckluft, die in einer geschlossenen Umgebung stattfinden und bei denen nicht getaucht werden muss; b. Taucherarbeiten, wenn sich die Taucherin oder der Taucher, ausgerüstet mit einer Taucherausrüstung, unter der Wasseroberfläche befindet. 3 Neben dieser Verordnung gelten insbesondere die Verordnung vom 19. Dezember 1983 über die Unfallverhütung (VUV) und die Bauarbeitenverordnung vom 18. Juni 2021. SR 832.30 SR 832.311.141 Fassung gemäss Art. 122 Abs. 2 der Bauarbeitenverordnung vom 18. Juni 2021, in Kraft seit 1. Jan. 2022 ( AS 2021 384 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "Im Sinne dieser Verordnung gelten als: a. Druckluft: Atemluft oder Atemgas mit einem Arbeitsdruck von mehr als 0,1 bar; b. Atemluft: Luft aus der Atmosphäre oder technisch hergestelltes Gasgemisch, das in seiner Zusammensetzung atmosphärischer Luft entspricht; c. Atemgas: Gasgemisch, das aus medizinischen Gründen geeigneter ist als atmosphärische Luft; d. Arbeitsdruck: über den atmosphärischen Druck hinausgehender Überdruck am Arbeitsplatz, in der Behandlungskammer oder in der Personenschleuse, ausgedrückt in bar; e. Arbeitskammer: Raum, in dem Bauarbeiten in Druckluft ausgeführt werden; f. Schleuse: Raum, in dem sich Personen oder Material während der Zeit der Druckerhöhung bis zum Arbeitsdruck oder während der Zeit der Druckabsenkung bis zum atmosphärischen Druck befinden; g. Behandlungskammer: Raum, in dem Personen mittels Veränderung des Arbeitsdrucks medizinisch behandelt werden können; h. Dekompression: Verfahren für eine geordnete Entsättigung des Körpers von Stickstoff, ausgehend von der vorhandenen Sättigung bei Arbeitsdruck bis auf eine gesundheitlich unbedenkliche Restsättigung bei atmosphärischem Druck; i. Haltestufe: Unterbruch der Dekompression bei einem arbeitsmedizinisch begründeten Druck."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Anerkannte Regeln für ein sicheres Arbeiten im Überdruck",
+      "content": "1 Während der gesamten Dauer der Arbeiten im Überdruck sind die nach dem Stand der Technik anerkannten Regeln einzuhalten. 2 Als nach dem Stand der Technik anerkannte Regeln für ein sicheres Arbeiten im Überdruck gelten insbesondere die von der Schweizerischen Unfallversicherungsanstalt (Suva) gestützt auf Artikel 50 Absatz 3 VUV veröffentlichten Richtlinien über Grenzwerte für physikalische Einwirkungen, namentlich Dekompressionstabellen. Sollen andere Dekompressionstabellen als diejenigen der Suva zur Anwendung kommen, so ist dies vor Aufnahme der Arbeiten mit der Suva abzusprechen. SR 832.30"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Meldepflichten",
+      "section": "4",
+      "title": "Meldung der Arbeiten im Überdruck",
+      "content": "1 Die Arbeitgeber sind verpflichtet, die folgenden Arbeiten der Suva zu melden: a. alle Bauarbeiten in Druckluft mindestens vier Wochen vor deren Ausführung; b. alle Taucherarbeiten, bei denen aufgrund der vorgesehenen Expositionszeiten Dekompressionen von mehr als 15 Minuten erforderlich sind, mindestens eine Woche vor deren Ausführung. 2 Nicht planbare Einsätze bei Bauarbeiten in Druckluft und Taucherarbeiten müssen so rasch als möglich, spätestens aber zwei Wochen nach dem erfolgten Einsatz der Suva gemeldet werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Meldepflichten",
+      "section": "5",
+      "title": "Meldung von Erkrankungen, Unfällen und schwerwiegenden Ereignissen",
+      "content": "Zusätzlich zur ordentlichen Unfallmeldung nach Artikel 45 Absatz 1 UVG sind der Suva innert 24 Stunden zu melden: a. Erkrankungen, die auf Arbeiten im Überdruck zurückzuführen sind; b. Unfälle bei Arbeiten im Überdruck, bei denen mindestens eine Person schwer verletzt wurde; c. schwerwiegende Ereignisse bei Arbeiten im Überdruck, sofern bei diesen Ereignissen Personen schwer verletzt oder getötet hätten werden können."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Planung und Arbeitsvorbereitung",
+      "section": "6",
+      "title": "Planung und Vorbereitung von Arbeiten im Überdruck",
+      "content": "1 Arbeiten im Überdruck müssen so geplant und vorbereitet werden, dass das Risiko von Unfällen oder Gesundheitsschäden möglichst klein ist und die notwendigen Sicherheitsmassnahmen, namentlich auch bei der Verwendung von Stoffen, Produkten und Arbeitsmitteln sowie der Anwendung von Arbeitsverfahren , eingehalten werden können. 2 Zu diesem Zweck sorgt der Arbeitgeber dafür, dass vor Beginn von Arbeiten im Überdruck ein schriftliches Sicherheits- und Gesundheitsschutzkonzept vorliegt, das die nach dieser Verordnung erforderlichen Massnahmen enthält. 3 Er sorgt dafür, dass bei Arbeiten im Überdruck geeignete Materialien, Installationen und Geräte in genügender Menge und rechtzeitig zur Verfügung stehen, namentlich: a. allfällig notwendige Schleusen und Behandlungskammern; b. Erste-Hilfe- und Rettungsmaterial. 4 Die Materialien, Installationen und Geräte müssen sich in betriebssicherem Zustand befinden und den Anforderungen der Arbeitssicherheit entsprechen. 5 Alle Arbeitnehmerinnen und Arbeitnehmer sind vor Beginn der Arbeiten über das Verhalten im Notfall anzuleiten."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Planung und Arbeitsvorbereitung",
+      "section": "7",
+      "title": "Notfall- und Rettungsplan",
+      "content": "1 Der Arbeitgeber sorgt dafür, dass ein auf die Arbeiten im Überdruck zugeschnittener Notfall- und Rettungsplan erstellt wird. Dieser ist in geeigneter Form und an geeigneter Stelle verfügbar zu halten. 2 Der Zugang der Rettungsdienste muss gewährleistet sein. 3 Die Wirksamkeit des Notfall- und Rettungsplans ist durch regelmässig wiederholte Übungen nachzuweisen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Planung und Arbeitsvorbereitung",
+      "section": "8",
+      "title": "Einsatz von Stoffen, Produkten und Arbeitsmitteln",
+      "content": "1 Der Arbeitgeber sorgt dafür, dass bei Arbeiten im Überdruck nur Stoffe, Produkte und Arbeitsmittel verwendet werden, die für einen solchen Einsatz geeignet sind. 2 Die Arbeitsmittel sind so zu installieren und zu betreiben, dass beim Ausfall eines sicherheitsrelevanten Elementes die Sicherheit der im Überdruck tätigen Arbeitnehmerinnen und Arbeitnehmer nicht unmittelbar gefährdet ist."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Planung und Arbeitsvorbereitung",
+      "section": "9",
+      "title": "Explosions- und Brandschutz",
+      "content": "Es müssen geeignete Massnahmen getroffen werden, um Explosions- und Brandfälle bei Arbeiten im Überdruck zu verhindern und in Explosions- und Brandfällen allfällige Folgen für die Sicherheit der Arbeitnehmerinnen und Arbeitnehmer zu vermeiden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Planung und Arbeitsvorbereitung",
+      "section": "10",
+      "title": "Berücksichtigung der klimatischen Bedingungen",
+      "content": "Ist eine Gefährdung der Gesundheit der Arbeitnehmerinnen oder Arbeitnehmer durch klimatische Bedingungen wie besondere Wärme, Kälte und Luftfeuchtigkeit zu erwarten, so sind geeignete Massnahmen zu treffen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Leitung und Ausführung der Arbeiten",
+      "section": "11",
+      "title": "Leitende Person",
+      "content": "1 Der Arbeitgeber bestimmt eine Person, die die Arbeiten im Überdruck leitet (leitende Person). Er bestimmt deren Stellvertreterin oder Stellvertreter. 2 Er überträgt der leitenden Person die gemäss dem Sicherheits- und Gesundheitsschutzkonzept erforderlichen Führungs- und Entscheidungskompetenzen. 3 Die leitende Person und deren Stellvertreterin oder Stellvertreter müssen eine auf ihre Aufgabe zugeschnittene Ausbildung erfolgreich abgeschlossen haben. Die Ausbildung ist schriftlich zu dokumentieren."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Leitung und Ausführung der Arbeiten",
+      "section": "12",
+      "title": "Aufgaben der fachkundigen Personen",
+      "content": "1 Die leitende Person bestimmt je nach Art der Arbeiten und gemäss den Vorgaben des Sicherheits- und Gesundheitsschutzkonzeptes die fachkundigen Personen, die für folgende Aufgaben zuständig sind: a. Überwachung von Arbeitnehmerinnen und Arbeitnehmern, die im Überdruck arbeiten; b. Betriebssicherheit der elektrischen Anlagen; c. Betriebssicherheit der drucklufttechnischen Anlagen; d. erste Hilfe; e. Brandbekämpfung; f. Betrieb der Behandlungskammer. 2 Für die Aufgabe nach Absatz 1 Buchstabe a werden folgende Personen eingesetzt: a. für Bauarbeiten in Druckluft: die Schleusenwärterinnen und Schleusenwärter; b. für Taucherarbeiten: die Signalfrauen und Signalmänner. 3 Die leitende Person legt fest: a. welche Rechte und Pflichten die fachkundigen Personen haben; b. wo sich die fachkundigen Personen aufhalten müssen, damit sie im Ereignisfall ihre Aufgabe rechtzeitig erfüllen können; c. wie die Aufgaben auf die fachkundigen Personen verteilt werden, damit sie im Ereignisfall ihre Aufgabe rechtzeitig erfüllen können. 4 Die fachkundigen Personen müssen eine auf ihre Aufgabe zugeschnittene externe oder betriebsinterne Ausbildung erfolgreich abgeschlossen haben. Die Ausbildung ist schriftlich zu dokumentieren. 5 Die Aufgaben von fachkundigen Personen können auch von der leitenden Person übernommen werden. Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Leitung und Ausführung der Arbeiten",
+      "section": "13",
+      "title": "Stellung der leitenden Person und der fachkundigen Personen gegenüber dem Betrieb",
+      "content": "1 Der Arbeitgeber hat die Voraussetzungen dafür zu schaffen, dass die leitende Person und die fachkundigen Personen ihre Aufgabe erfüllen können. 2 Der leitenden Person und den fachkundigen Personen muss die zur Erfüllung ihrer Aufgabe nötige Unabhängigkeit eingeräumt werden. Aus der Erfüllung ihrer Aufgabe dürfen ihnen keine Nachteile erwachsen. 3 Die leitende Person und die fachkundigen Personen haben den Arbeitgeber über ihre Tätigkeit zu orientieren."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Abschnitt: Leitung und Ausführung der Arbeiten",
+      "section": "14",
+      "title": "Stellung der leitenden Person gegenüber der Suva",
+      "content": "1 Die leitende Person muss der Suva auf Verlangen über ihre Tätigkeit Auskunft erteilen und ihre Unterlagen zur Einsicht vorlegen. Die Suva informiert den Arbeitgeber. 2 Die Suva berät und unterstützt die leitende Person. 3 Die leitende Person muss die Suva unverzüglich benachrichtigen, wenn eine unmittelbare und schwere Gefahr für das Leben und die Gesundheit der Arbeitnehmerinnen und Arbeitnehmer besteht und wenn der Arbeitgeber sich weigert, die notwendigen Massnahmen zu ergreifen."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Voraussetzungen für die Ausführung der Arbeiten",
+      "content": "Solange Arbeitnehmerinnen und Arbeitnehmer im Überdruck arbeiten, müssen folgende Voraussetzungen erfüllt sein: a. Die leitende Person und die fachkundigen Personen müssen auf der Baustelle beziehungsweise an der Tauchstelle anwesend sein und dürfen nicht für andere Aufgaben eingesetzt werden, die sie an der Erfüllung ihrer Aufgabe hindern könnten. b. Die Arbeitsärztinnen und Arbeitsärzte müssen jederzeit über das Sprechverbindungsnetz erreichbar sein."
+    },
+    {
+      "provision_ref": "art15a",
+      "section": "15a",
+      "title": "a Besondere Bestimmungen für Taucheinsätze von Polizei- und Rettungstaucherinnen und -tauchern",
+      "content": "Bei forensischen, Rettungs-, Such- und Bergungstaucheinsätzen, namentlich dynamischen Taucheinsätzen, der Polizei- und Rettungstaucherinnen und -taucher, bei der dazugehörigen Tauchgrundausbildung, bei der Weiterbildung und bei Trainingstauchgängen der Polizei- und Rettungstaucherinnen und -taucher übernimmt eine Einsatzleiterin oder ein Einsatzleiter die Verantwortung vor Ort. Wo nichts anderes bestimmt ist, gilt bei der Vorbereitung und Durchführung von solchen Taucheinsätzen die Einsatzleiterin oder der Einsatzleiter als leitende und als fachkundige Person. Diese kann auch Teil des Tauchteams sein. Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Persönliche Anforderungen und Ausbildung",
+      "section": "16",
+      "title": "Persönliche Anforderungen",
+      "content": "1 Arbeiten im Überdruck dürfen nur von Personen ausgeführt werden, die: a. das 18. Altersjahr zurückgelegt haben; b. aufgrund ihrer körperlichen und geistigen Verfassung in der Lage sind, die ihnen übertragenen Aufgaben zuverlässig und sicher auszuführen; c. sich am Arbeitsplatz verständigen und mit den vorhandenen Kommunikationsmitteln umgehen können; d. für die Arbeiten im Überdruck ausgebildet sind. 2 Zum Nachweis der Erfüllung der Anforderung nach Absatz 1 Buchstabe b werden eine Eintrittsuntersuchung nach Artikel 72 VUV sowie die Kontrolluntersuchungen nach Artikel 73 VUV verlangt. 3 Bestehen bei einer Person gesundheitliche Bedenken, so legt die untersuchende Arbeitsärztin oder der untersuchende Arbeitsarzt fest, unter welchen Bedingungen diese Person bestimmte Arbeiten im Überdruck ausführen darf. Die abschliessende Beurteilung der Eignung oder der bedingten Eignung obliegt nach Artikel 78 VUV der Suva. 4 Die Arbeitnehmerinnen und Arbeitnehmer haben die leitende Person über Veränderungen ihres Gesundheitszustandes zu informieren, die für sie selber eine Gefahr während der Arbeiten im Überdruck bedeuten. Bei medizinischen Ereignissen wie Unfällen, Operationen und schweren Erkrankungen ist die Arbeitsärztin oder der Arbeitsarzt zu informieren und bei Bedarf beizuziehen. 5 Personen über 50 Jahren dürfen nur während 50 Prozent der in der Regel zulässigen Aufenthaltszeit im Überdruck arbeiten. Dabei dürfen sie nur Aufsichtsarbeiten oder körperlich leichte Arbeiten verrichten. Die Suva kann in begründeten Einzelfällen Ausnahmen bewilligen. 6 Schwangere Frauen dürfen nicht im Überdruck arbeiten. SR 832.30"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Persönliche Anforderungen und Ausbildung",
+      "section": "17",
+      "title": "Ausbildung",
+      "content": "1 Der Arbeitgeber sorgt dafür, dass die Arbeitnehmerinnen und Arbeitnehmer für die Arbeiten im Überdruck ausgebildet sind. Er muss ihre Ausbildung schriftlich dokumentieren. 2 Die Ausbildung muss auf Arbeiten im Überdruck ausgerichtet sein und umfasst mindestens folgende Themen: a. Einflüsse der Arbeiten im Überdruck auf den menschlichen Körper und deren Folgen für die Gesundheit; b. besondere Gefahren der vorgesehenen Arbeiten und adäquater Umgang mit diesen Gefahren; c. rechtliche Grundlagen im Bereich Arbeitssicherheit und Gesundheitsschutz."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Persönliche Anforderungen und Ausbildung",
+      "section": "18",
+      "title": "Lernphase",
+      "content": "1 Der Arbeitgeber sorgt dafür, dass die Arbeitsbedingungen für Arbeitnehmerinnen und Arbeitnehmer in der Lernphase in geeigneter Form angepasst werden. 2 Insbesondere sorgt er dafür, dass: a. vor Beginn der Arbeiten im Überdruck eine Probeschleusung oder ein Probetauchgang unter der Aufsicht der leitenden Person oder der zuständigen Arbeitsärztin oder des zuständigen Arbeitsarztes durchgeführt wird; b. die ersten fünf Arbeitseinsätze im Überdruck durch eine erfahrene Person begleitet werden; und c. der Aufenthalt im Überdruck während der ersten drei Arbeitseinsätze nur 50 Prozent der in der Regel zulässigen Aufenthaltszeit beträgt und dabei nur leichte Arbeiten verrichtet werden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Persönliche Anforderungen und Ausbildung",
+      "section": "19",
+      "title": "Weiterbildung",
+      "content": "1 Der Arbeitgeber sorgt dafür, dass eine in regelmässigen Abständen wiederkehrende Weiterbildung aller Arbeitnehmerinnen und Arbeitnehmer gewährleistet ist. Er muss ihre Weiterbildung schriftlich dokumentieren. 2 Bei der Weiterbildung sind allfällige Veränderungen von Arbeitsmethoden, Umfeld oder Installationen am Arbeitsplatz zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "5. Abschnitt: Medizinische Betreuung und Behandlungskammer",
+      "section": "20",
+      "title": "Medizinische Betreuung",
+      "content": "1 Ab Beginn der Arbeiten im Überdruck muss der Arbeitgeber nachweisen können, dass er mit einer Arbeitsärztin oder einem Arbeitsarzt die medizinische Betreuung der Arbeitnehmerinnen und Arbeitnehmer schriftlich vereinbart hat. 2 Die Arbeitsärztin oder der Arbeitsarzt kann für die Erfüllung ihrer oder seiner Aufgaben weitere Ärztinnen und Ärzte beiziehen. 3 Der Arbeitgeber muss in Absprache mit der Arbeitsärztin oder dem Arbeitsarzt am Arbeitsort einen geschützten Bereich für die medizinische Betreuung zur Verfügung stellen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "5. Abschnitt: Medizinische Betreuung und Behandlungskammer",
+      "section": "21",
+      "title": "Behandlungskammer",
+      "content": "1 Eine Behandlungskammer muss in folgenden Situationen vor Ort verfügbar und betriebsbereit sein: a. bei Bauarbeiten in Druckluft: wenn der Arbeitsdruck grösser oder gleich 0,7 bar ist; b. bei Taucherarbeiten: wenn aufgrund der vorgesehenen Expositionszeiten Dekompressionen von mehr als 15 Minuten erforderlich sind. 2 Die Behandlungskammer muss für die medizinische Betreuung von bei Arbeiten im Überdruck Erkrankten oder Verunfallten geeignet sein. 3 Die Anzahl und die Kapazität der Behandlungskammern sind der Zahl am Arbeitsplatz zu erwartenden Personen anzupassen. 4 Der Standort der Behandlungskammer ist so zu wählen, dass diese von den Arbeitsplätzen im Überdruck aus in kurzer Zeit erreicht werden kann."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Abschnitt: Medizinische Betreuung und Behandlungskammer",
+      "section": "22",
+      "title": "Betrieb der Behandlungskammer",
+      "content": "1 Die Behandlungskammer muss nach den Vorgaben des Herstellers vor jeder Inbetriebnahme am Einsatzort und nach jedem Einsatz auf ihre Funktionstüchtigkeit hin überprüft werden. 2 Die Behandlungskammer ist vor jeder Behandlung so mit Energie, Atemluft und Sauerstoff zu versorgen, dass sie für 150 Prozent der zu erwartenden Behandlungsdauer unabhängig von der Umgebung betrieben werden kann. 3 Die fachkundige Person, die für den Betrieb der Behandlungskammer zuständig ist, muss in der Lage sein, die Behandlungskammer gemäss den Weisungen der Arbeitsärztin oder des Arbeitsarztes vorzubereiten und zu bedienen. Sie muss während der Behandlung anwesend sein. 4 Die Arbeitsärztin oder der Arbeitsarzt muss in angemessener Zeit erreichbar sein."
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "5. Abschnitt: Medizinische Betreuung und Behandlungskammer",
+      "section": "22a",
+      "title": "a Sicherstellung der medizinischen Erstversorgung bei Taucheinsätzen der Polizei- und Rettungstaucherinnen und -taucher",
+      "content": "Die medizinische Erstversorgung bei Taucheinsätzen der Polizei- und Rettungstaucherinnen und -taucher ist entweder durch eine Behandlungskammer vor Ort nach Artikel 21 oder durch ein gleichwertiges Rettungskonzept zu gewährleisten, namentlich über eine normobare Sauerstofftherapie vor Ort und den Transport in ein auf Überdruckkrankheiten spezialisiertes medizinisches Zentrum. Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Dokumentationen",
+      "section": "23",
+      "title": "Dokumentation der Arbeitseinsätze",
+      "content": "1 Der Arbeitgeber sorgt dafür, dass für jede Arbeitnehmerin und jeden Arbeitnehmer eine Dokumentation der Arbeitseinsätze geführt wird. Die Dokumentation muss für jeden Arbeitseinsatz im Überdruck die folgenden Angaben enthalten: a. Name und Funktion der Arbeitnehmerin oder des Arbeitnehmers; b. Name der leitenden Person; c. Name der fachkundigen Person, die für die Überwachung der Arbeitnehmerinnen und Arbeitnehmer, die im Überdruck arbeiten, zuständig ist; d. Datum und Ort der Arbeit; e. Höhe des Arbeitsortes in Metern über Meer; f. maximaler Arbeitsdruck oder maximale Tauchtiefe; g. Dauer der Arbeiten im Überdruck; h. Dekompressionszeiten und zugehörige Haltestufen; i. verwendete Dekompressionsregeln; j. besondere Ereignisse in gesundheitlicher Hinsicht. 2 Zugang zur Dokumentation haben: a. die Arbeitnehmerin und der Arbeitnehmer hinsichtlich aller Angaben, die sie oder ihn persönlich betreffen; b. die Arbeitsärztin oder der Arbeitsarzt; c. die Durchführungsorgane des Arbeitsgesetzes vom 13. März 1964; d. die Suva. 3 Der Arbeitgeber muss die Dokumentation während mindestens 10 Jahren aufbewahren. SR 822.11"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "6. Abschnitt: Dokumentationen",
+      "section": "24",
+      "title": "Gesundheitsakte",
+      "content": "1 Der Arbeitgeber veranlasst, dass die Arbeitsärztin oder der Arbeitsarzt für jede Arbeitnehmerin und jeden Arbeitnehmer eine Gesundheitsakte führt. 2 In der Gesundheitsakte müssen mindestens folgende Daten festgehalten werden: a. die Ergebnisse der medizinischen Untersuchungen nach den Artikeln 72–74 VUV; b. die Ergebnisse von medizinischen Untersuchungen bei Unfällen und Zwischenfällen sowie bei begründetem Verdacht auf eine bei der beruflichen Tätigkeit erworbene Berufskrankheit; c. die nach Artikel 16 Absatz 4 gemeldeten medizinischen Ereignisse. 3 Die Arbeitsärztin oder der Arbeitsarzt hat das Recht, die für die Erfüllung ihrer oder seiner Aufgaben relevanten und bei der Suva vorhandenen Daten der arbeitsmedizinischen Vorsorge einzusehen. 4 Die Arbeitnehmerin oder der Arbeitnehmer muss medizinische Ereignisse wie Unfälle, Operationen und schwere Erkrankungen spätestens vor dem nächsten Einsatz im Überdruck der Arbeitsärztin oder dem Arbeitsarzt melden. 5 Die Arbeitsärztin oder der Arbeitsarzt hat die Arbeitnehmerin oder den Arbeitnehmer über die Ergebnisse der medizinischen Untersuchungen im Zusammenhang mit ihrer oder seiner Tätigkeit angemessen zu informieren. 6 Die Arbeitnehmerin oder der Arbeitnehmer hat Zugang zu der Gesundheitsakte und allen Unterlagen über die sie oder ihn betreffenden arbeitsmedizinischen Massnahmen. 7 Der Arbeitgeber sorgt dafür, dass die Arbeitsärztin oder der Arbeitsarzt die Gesundheitsakte spätestens ein Jahr nach Abschluss der Arbeiten der Suva übergibt. Die Suva muss die Gesundheitsakte während 40 Jahren aufbewahren. SR 832.30"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "6. Abschnitt: Dokumentationen",
+      "section": "25",
+      "title": "Persönliches Dokument",
+      "content": "1 Bei Bauarbeiten in Druckluft sowie bei Taucherarbeiten, bei denen aufgrund der vorgesehenen Expositionszeiten Dekompressionen von mehr als 15 Minuten erforderlich sind, hat die Arbeitnehmerin oder der Arbeitnehmer ausserhalb des Arbeitsortes bis sieben Tage nach der letzten Exposition im Überdruck ein persönliches Dokument auf sich zu tragen. 2 Aus dem Dokument muss hervorgehen, dass die Arbeitnehmerin oder der Arbeitnehmer Arbeiten im Überdruck ausgeführt hat und wie in einem Notfall die Rettungsdienste und die Arbeitsärztin oder der Arbeitsarzt kontaktiert werden können."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "26",
+      "title": "Belüftung",
+      "content": "1 Vor Beginn der Arbeiten ist für die Arbeitskammer ein Lüftungskonzept zu erstellen. 2 Die Belüftung muss die Versorgung der Arbeitnehmerinnen und Arbeitnehmer an allen Arbeitsplätzen mit Atemluft oder Atemgas in ausreichender Qualität und angemessener Temperatur sicherstellen. 3 Insbesondere ist dafür zu sorgen, dass: a. für jede Person pro Stunde mindestens 30 m 3 verdichtete Atemluft in die Arbeitskammer eingeführt wird; b. die Sauerstoffkonzentration in der Arbeitskammer und in der Personenschleuse 25 Prozent nicht überschreitet; c. die verbrauchte oder verschmutzte Luft in geeigneter Art abgeführt wird."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "27",
+      "title": "Arbeitskammern",
+      "content": "1 Die Arbeitskammern sind so zu gestalten, dass: a. Arbeitsmittel darin gefahrlos bedient werden können; b. die arbeitsphysiologischen Voraussetzungen so sind, dass die darin arbeitenden Personen nicht überlastet werden. 2 Können die Arbeitskammern nicht so gestaltet werden, dass arbeitsphysiologische Voraussetzungen nach Absatz 1 Buchstabe b erfüllt sind, so müssen zum Schutz vor Überlastungen Belastungszeit und -intensität entsprechend reduziert werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "28",
+      "title": "Sprechverbindung",
+      "content": "1 Es ist ein Kommunikationsnetz einzurichten, das folgenden Personen in geeigneter Form eine Sprechverbindung ermöglicht: a. der leitenden Person; b. der Schleusenwärterin oder dem Schleusenwärter; c. den Personen in der Arbeitskammer, den Personenschleusen und der Anlage zur Erzeugung von Druckluft; d. der Arbeitsärztin oder dem Arbeitsarzt; e. den Rettungsdiensten. 2 Bestehen mehrere Arbeitskammern oder Personenschleusen, so sind sie in das Kommunikationsnetz zu integrieren. 3 Es muss eine zusätzliche, vom Kommunikationsnetz unabhängige Sprechverbindung zwischen den Kammern der Schleuse und der Schleusenwärterin oder dem Schleusenwärter installiert sein."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "29",
+      "title": "Persönliche Verhaltensregeln",
+      "content": "Das Einnehmen von alkoholischen und kohlensäurehaltigen Getränken sowie das Rauchen sind für Personen, die sich im Überdruck aufhalten, verboten."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "30",
+      "title": "Verbot von Verbrennungsmotoren",
+      "content": "In den Arbeitskammern dürfen keine Verbrennungsmotoren eingesetzt werden."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "2. Abschnitt: Notfälle",
+      "section": "31",
+      "title": "Vorbereitung auf Notfälle",
+      "content": "1 Alle Personen in der Arbeitskammer müssen sich jederzeit bei Notfällen wie Druckabfall, Wassereinbruch, Gebirgsniederbruch und Rauchentwicklung möglichst ungehindert in der Personenschleuse in Sicherheit bringen können. 2 Für das Betreiben der Personenschleuse während einer Rauchentwicklung und das Verlassen der Personenschleuse nach einer Rauchentwicklung sind geeignete Massnahmen zu treffen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "2. Abschnitt: Notfälle",
+      "section": "32",
+      "title": "Energieversorgung",
+      "content": "1 Eine zweite, unabhängige und ausreichend dimensionierte Energieversorgung muss insbesondere sichergestellt werden für: a. die Kommunikationsmittel; b. die Anlage zur Erzeugung von Druckluft; c. die Notbeleuchtungen in den Arbeitskammern, in der Personenschleuse und in der Behandlungskammer sowie an den Arbeitsplätzen, von denen aus die Personenschleuse und die Behandlungskammer bedient werden. 2 Bei der Installation der Energieversorgung sind die anerkannten Regeln für elektrische Installationen auf Baustellen und in engen Räumen zu beachten."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "2. Abschnitt: Notfälle",
+      "section": "33",
+      "title": "Eintritt eines Notfalls",
+      "content": "1 Bei Eintritt eines Notfalls sind alle Personen in der Arbeitskammer, die Schleusenwärterin oder der Schleusenwärter und die leitende Person zu alarmieren. 2 Die Personen in der Arbeitskammer müssen sich in die Personenschleuse zurückziehen. Die im Notfall- und Rettungsplan nach Artikel 7 festgehaltenen Massnahmen sind umzusetzen."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "2. Abschnitt: Notfälle",
+      "section": "34",
+      "title": "Versorgung mit Atemluft",
+      "content": "Die Versorgung der Arbeitskammern, der Personenschleusen und der Behandlungskammer mit Atemluft muss so lange sichergestellt sein, bis sich keine Personen mehr im Überdruck aufhalten."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "3. Abschnitt: Schleusen",
+      "section": "35",
+      "title": "Personenschleusen",
+      "content": "1 Der Arbeitgeber sorgt dafür, dass die Anzahl und die räumliche Anordnung der Personenschleusen und die Anzahl der Schleusenkammern: a. den Eigenheiten der vorgesehenen Bauarbeiten in Druckluft entsprechen; b. die Umsetzung des Sicherheits- und Rettungskonzepts ermöglichen. 2 Die Personenschleusen müssen nach dem aktuellen Stand der Technik ausgestattet sein und so gestaltet sein, dass bei der vorgesehenen Dekompression eine genügende Stickstoff-Entsättigung des Körpers ermöglicht wird. Insbesondere ist für so viel Bewegungsraum zu sorgen, dass sich die Extremitäten und allfällige Druckstellen am Körper genügend entsättigen lassen. 3 Ist eine Dekompression mit Sauerstoff erforderlich, so muss die Personenschleuse für die Sauerstoff-Atmung ausgerüstet sein. 4 Die Arbeitsplätze der Schleusenwärterinnen und Schleusenwärter sind so zu gestalten, dass diese jederzeit die Personen in der Schleuse überwachen, die wichtigsten Anzeigeinstrumente beobachten, die Bedienungselemente betätigen und die Kommunikationsmittel gebrauchen können. 5 Die Instruktionen zum Ein- und Ausschleusen müssen aussen beim Eingang und im Innern jeder Kammer der Personenschleusen zur Verfügung stehen. 6 Solange sich Personen in der Arbeitskammer aufhalten, muss der Eingang in die Personenschleuse auf der Seite der Arbeitskammer ständig offen stehen."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "3. Abschnitt: Schleusen",
+      "section": "36",
+      "title": "Materialschleusen",
+      "content": "Die Materialschleusen dürfen nicht zum Ein- und Ausschleusen von Personen verwendet werden."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "3. Abschnitt: Schleusen",
+      "section": "37",
+      "title": "Schleusenwärterin oder Schleusenwärter",
+      "content": "1 Sobald sich Personen in der Schleuse oder Arbeitskammer aufhalten, muss bei jeder Personenschleuse mindestens eine Schleusenwärterin oder ein Schleusenwärter diese beim Ein- und Ausschleusen anleiten und dabei permanent überwachen. 2 Die Schleusenwärterin oder der Schleusenwärter sorgt dafür, dass sich nicht mehr Personen in der Arbeitskammer aufhalten als freie Schleusenplätze zur Verfügung stehen. 3 Die Weisungen der Schleusenwärterin oder des Schleusenwärters sind zu befolgen."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "3. Abschnitt: Schleusen",
+      "section": "38",
+      "title": "Dekompression mit Sauerstoff",
+      "content": "1 Erfordern die Dekompressionsregeln eine Haltestufe, so ist für die Dekompression Sauerstoff zu verwenden. 2 Bei der Personenschleuse muss ein angemessener Sauerstoffvorrat verfügbar sein. 3 Bei der Dekompression mit Sauerstoff sind die Grenzwerte bezüglich Arbeitsdruck und Dekompressionszeit so zu wählen, dass vom Sauerstoff keine toxische Wirkung ausgeht. Insbesondere dürfen folgende Werte nicht überschritten werden: a. Der Partialdruck des Sauerstoffes darf 2 bar nicht überschreiten, und bei der Anwendung von reinem Sauerstoff darf der Arbeitsdruck in der Personenschleuse 1 bar nicht überschreiten. b. Die Dekompression mit Sauerstoff darf nicht länger als 2 Stunden dauern. 4 Es muss mit geeigneten Mitteln sichergestellt werden, dass bei der Sauerstoffatmung das eingeatmete Gas keine Luftbeimischung enthält."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "4. Abschnitt: Grenzwerte",
+      "section": "39",
+      "title": "Maximaler Arbeitsdruck",
+      "content": "Der Arbeitsdruck darf 3,6 bar nicht überschreiten."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "4. Abschnitt: Grenzwerte",
+      "section": "40",
+      "title": "Aufenthaltszeit und expositionsfreie Zeit",
+      "content": "1 Innerhalb eines Zeitraumes von 24 Stunden darf die Aufenthaltszeit in Druckluft höchstens 8 Stunden dauern. Daraufhin ist eine expositionsfreie Zeit von mindestens 12 Stunden einzuhalten. Wenn die Arbeitsorganisation es erfordert, darf die Aufenthaltszeit in Druckluft ausnahmsweise 9 Stunden dauern. Daraufhin ist eine expositionsfreie Zeit von mindestens 15 Stunden einzuhalten. 2 Innerhalb eines Zeitraumes von 7 aufeinanderfolgenden Tagen darf eine Exposition in Druckluft an höchstens 5 aufeinanderfolgenden Tagen erfolgen. Nach der letzten Exposition muss eine expositionsfreie Zeit von 48 Stunden folgen. 3 Die tägliche Aufenthaltszeit in Druckluft und die expositionsfreie Zeit sind mit der Arbeitsärztin oder dem Arbeitsarzt abzusprechen und richten sich nach dem aktuellen Befinden der Arbeitnehmerin oder des Arbeitnehmers. 4 Die Aufenthaltszeit in Druckluft beginnt mit dem Druckanstieg und endet mit dem Erreichen des atmosphärischen Umgebungsdruckes in der Personenschleuse. 5 Pro Arbeitsschicht sind höchstens drei Ein- und Ausschleusungen erlaubt."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "5. Abschnitt: Einsatz und Mindestanzahl fachkundiger Personen",
+      "section": "41",
+      "title": "",
+      "content": "1 Werden Bauarbeiten in Druckluft ausgeführt, so müssen neben der leitenden Person auf der Baustelle auf Abruf genügend fachkundige Personen bereitstehen, welche die Aufgaben nach Artikel 12 übernehmen können. 2 Es müssen sich mindestens zwei Personen in der Arbeitskammer oder in der Schleuse befinden. 3 Je zwei Personen müssen in erster Hilfe und in Brandbekämpfung fachkundig sein, wobei die beiden Bereiche auch von derselben Person abgedeckt werden können."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "6. Abschnitt: Bauarbeiten in Druckluft mit besonderen Gefahren",
+      "section": "42",
+      "title": "Sprengung",
+      "content": "1 Der Arbeitgeber klärt ab, ob die vom Sprengdruck betroffenen Anlageteile wie Arbeitskammer und Schleuse so beschaffen sind, dass sie dem bei der Sprengung auftretenden Druck ohne Schaden standhalten. 2 Pyrotechnische Sprengungen dürfen nicht ausgeführt werden. 3 Sprengladungen dürfen nur von Personen oder unter der Aufsicht von Personen vorbereitet und gezündet werden, die über einen Ausweis nach Artikel 14 Absatz 1 des Sprengstoffgesetzes vom 25. März 1977 verfügen. 4 Vor jeder Sprengung haben sich die Personen, die sich in der Arbeitskammer aufhalten, zumindest in die Personenschleuse zu begeben und die Türe auf der Seite der Arbeitskammer zu schliessen. 5 Nach der Sprengung darf die Arbeitskammer erst wieder betreten werden, wenn: a. die Lüftungsanlage auf ihr korrektes Funktionieren hin überprüft worden ist; b. die Sprengschwaden entfernt oder auf ein ungefährliches Mass verdünnt worden sind. SR 941.41"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "6. Abschnitt: Bauarbeiten in Druckluft mit besonderen Gefahren",
+      "section": "43",
+      "title": "Übrige Arbeiten mit besonderen Gefahren",
+      "content": "1 Für die übrigen Arbeiten mit besonderen Gefahren wie Schneid-, Schweiss-, Brenn- und Schleifarbeiten sind Stoffe, Produkte und Arbeitsmittel zu verwenden und Arbeitsverfahren anzuwenden, die für den Einsatz in Druckluft geeignet sind. 2 Die Arbeiten dürfen nur von Personen ausgeführt werden, die dafür ausgebildet sind. 3 Vor Beginn der Arbeiten ist die schriftliche Erlaubnis der leitenden Person einzuholen, und es sind die für die sichere Ausführung der Arbeiten notwendigen Sicherheitsmassnahmen zu treffen. 4 Gesundheitsgefährdende gas-, staub- oder rauchförmige Emissionen sind an der Quelle zu erfassen und kontrolliert abzuführen. 5 Die Arbeitnehmerinnen und Arbeitnehmer müssen die notwendigen persönlichen Schutzausrüstungen wie von der Umgebungsatmosphäre unabhängige Atemschutzgeräte tragen. 6 Bei Arbeiten mit elektrischen Geräten ist den besonderen Gefahren wie eine feuchte oder elektrisch leitende Umgebung und das Arbeiten in engen Räumen Rechnung zu tragen."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "44",
+      "title": "Lokale Arbeitsverhältnisse mit erhöhten Risiken",
+      "content": "1 Vor Beginn der Taucherarbeiten oder des Taucheinsatzes hat sich der Arbeitgeber beziehungsweise die Einsatzleiterin oder der Einsatzleiter der Polizei- und Rettungstaucherinnen und -taucher zu den lokalen Arbeitsverhältnissen, die erhöhte Risiken beinhalten können, über folgende Punkte zu informieren: a. Wasserqualität, namentlich die Verschmutzung und die radioaktive Verstrahlung des Wassers; b. Wassertemperatur; c. Strömungen, insbesondere solche, die sich während des Tauchgangs plötzlich verändern können; d. die Taucherarbeiten behindernde Einrichtungen wie schwimmende Geräte, Fachwerke von Brückenpfeilern, Kabel, Kanalisationen, Gräben, Trichter und Nischen; e. enge räumliche Verhältnisse wie Rohrleitungen, Kanalisationen, Wracks und Tanks; f. geologisch instabile Verhältnisse wie Unterspülungen und steile Böschungen mit abrutschgefährdeten Ablagerungen; g. Vorhandensein von Schifffahrt und Wasserwegen. 2 Der Arbeitgeber oder die Einsatzleiterin oder der Einsatzleiter der Polizei- und Rettungstaucherinnen und -taucher legt fest, welche fachkundigen Personen bei der Ausführung der Arbeiten einzusetzen sind. Er oder sie hat die entsprechenden Sicherheitsmassnahmen zu treffen. 3 Die Taucherinnen und Taucher sind in geeigneter Form über die lokalen Arbeitsverhältnisse mit erhöhten Risiken und die getroffenen Sicherheitsmassnahmen zu informieren. Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 ). Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "45",
+      "title": "Arbeiten an und auf Gewässern",
+      "content": "1 Besteht bei Arbeiten an und auf Gewässern die Gefahr des Ertrinkens, so müssen geeignete Schutz- und Rettungsausrüstungen wie Rettungswesten oder -kragen, Rettungsringe, Tauwerk, Wurfleinen und Haken zur Verfügung stehen. Diese müssen jederzeit bestimmungsgemäss verwendet werden können. 2 Überdies müssen ein oder mehrere motorisierte Rettungsboote zur Verfügung stehen. Diese müssen unabhängig von den laufenden Taucherarbeiten verwendet werden können. Keine motorisierten Rettungsboote müssen zur Verfügung stehen, wenn die Rettung von einem Ort an der Oberfläche aus, namentlich vom Ufer, von Pontons, Flossen, Plattformen, Stegen, aus der Luft von Helikoptern aus, oder von einem Tauchteam oder einer Taucherin oder einem Taucher im Wasser gewährleistet ist. 3 Es sind geeignete Massnahmen zu treffen, um die Taucherinnen und Taucher vor Verletzungen durch die Antriebe der Rettungsboote wie Propeller zu schützen. 4 Es müssen Massnahmen getroffen werden, um einen Sturz ins Wasser zu verhindern. 5 Jede Tauchstelle ist nach Artikel 32 der Binnenschifffahrtsverordnung vom 8. November 1978 zu signalisieren. Auf Gewässern mit Schiffsverkehr setzt sich der Arbeitgeber dabei ins Einvernehmen mit den zuständigen Behörden und den betroffenen Schifffahrtsunternehmen. Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 ). Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 ). SR 747.201.1"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Zugang zum Wasser",
+      "content": "Der Zugang zum Wasser ist so zu gestalten, dass: a. ein sicherer und ergonomischer Ein- und Ausstieg gewährleistet ist; b. die Taucherin oder der Taucher im Notfall aus dem Wasser geborgen werden kann."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Versorgung mit Atemluft, Atemgas oder Sauerstoff",
+      "content": "1 Die Taucherinnen und Taucher müssen zuverlässig mit Atemluft oder Atemgas versorgt sein, solange sie sich im Wasser aufhalten. 2 Das primäre Versorgungssystem muss auch bei Bewusstlosigkeit die Atmung der Taucherinnen und Taucher gewährleisten können. 3 Bei einem Versagen des primären Versorgungssystems muss sofort ein sekundäres Versorgungssystem zur Verfügung stehen, das einen sicheren Aufstieg an die Oberfläche ermöglicht. 4 Atemgase dürfen nur verwendet werden, wenn ihre Zusammensetzung und der vorgesehene Einsatzbereich den anerkannten Regeln für ein sicheres Arbeiten im Überdruck nach Artikel 3 entspricht. 5 Ist eine Dekompression mit Sauerstoff erforderlich, so müssen die Tauchgeräte für die Dekompression mit Sauerstoff geeignet sein, und es muss ein angemessener Sauerstoffvorrat an der Tauchstelle verfügbar sein. 6 Bei forensischen, Rettungs-, Such- und Bergungstaucheinsätzen, namentlich dynamischen Taucheinsätzen, der Polizei- und Rettungstaucherinnen und -taucher, bei der dazugehörigen Tauchgrundausbildung, bei der Weiterbildung und bei Trainingstauchgängen der Polizei- und Rettungstaucherinnen und -taucher kann auf die Vollgesichtsmaske verzichtet werden, wenn dies insbesondere aufgrund der Strömungsverhältnisse, der Unterwassertopografie, aufgrund von Hindernissen im Wasser sowie für das Eindringen in Bergungsobjekte notwendig ist. In diesen Fällen sind die internationalen Standards der anerkannten Tauchausbildungsorganisationen zu beachten. 7 Im Rahmen der beruflichen Ausbildungstätigkeit können Tauchinstruktorinnen und Tauchinstruktoren ohne Vollgesichtsmaske tauchen. Es sind die internationalen Standards der anerkannten Tauchausbildungsorganisationen zu beachten. Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 ). Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 ). Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Vorbereitung der Taucherinnen und Taucher",
+      "content": "1 Die leitende Person hat im Einvernehmen mit den Taucherinnen und Tauchern die Tauchtiefen, die Dauer der Tauchgänge, die Zusammensetzung der Atemluft, die Dekompressionsstufen und ihre Haltestufen sowie eine allfällige Sauerstoffdekompression vor dem Tauchgang schriftlich festzulegen. Sie überwacht die Einhaltung dieser Vorgaben. 2 Vor dem unmittelbaren Einstieg ins Wasser haben die Taucherinnen und Taucher sowie die leitende Person die Funktionstüchtigkeit der Ausrüstungen zu überprüfen. 3 Die Taucherin oder der Taucher muss so ins Wasser einsteigen, dass sie oder er weder sich selbst noch Drittpersonen gefährdet."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Orientierung unter Wasser",
+      "content": "Besteht die Gefahr, dass die Taucherinnen und Taucher den sicheren Weg an die Oberfläche nicht mehr finden, so sind zur Orientierung unter Wasser geeignete Orientierungshilfen einzurichten."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Sprechverbindung und Überwachung",
+      "content": "1 Es ist ein Kommunikationsnetz einzurichten, das folgenden Personen in geeigneter Form eine Sprechverbindung ermöglicht: a. der Signalfrau oder dem Signalmann; b. der leitenden Person; c. der Arbeitsärztin oder dem Arbeitsarzt; d. den Rettungsdiensten. 2 Zwischen der Taucherin oder dem Taucher und der Signalfrau oder dem Signalmann muss eine dem Stand der Technik entsprechende Sprechverbindung bestehen. 3 Ab einer Tauchtiefe von 10 m müssen die Tauchparameter wie Tauchtiefe, Tauchzeit und Dekompressionszeiten überwacht werden können. 4 Bei forensischen, Rettungs-, Such- und Bergungstaucheinsätzen, namentlich dynamischen Taucheinsätzen, der Polizei- und Rettungstaucherinnen und -taucher, bei der dazugehörigen Tauchgrundausbildung, bei der Weiterbildung und bei Trainingstauchgängen der Polizei- und Rettungstaucherinnen und -taucher kann auf eine Sprechverbindung nach Absatz 2 verzichtet werden, wenn dies insbesondere aufgrund der Strömungsverhältnisse, der Unterwassertopografie, aufgrund von Hindernissen im Wasser sowie für das Eindringen in Bergungsobjekte notwendig ist. 5 Im Rahmen der beruflichen Ausbildungstätigkeit können Tauchinstruktorinnen und Tauchinstruktoren ohne Sprechverbindung nach Absatz 2 tauchen. Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ( AS 2016 3239 ). Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Führungsleine und Versorgungsschlauch",
+      "content": "1 Die Taucherin oder der Taucher muss von der Oberfläche aus mit einer Führungsleine oder einem Versorgungsschlauch verbunden sein. 2 Die Führungsleine und der Versorgungsschlauch müssen so beschaffen sein, dass sie einen sicheren Einsatz der Taucherin oder des Tauchers im Wasser sowie das Auffinden und eine sichere Bergung einer vermissten oder aktionsunfähigen Taucherin oder eines vermissten oder aktionsunfähigen Tauchers aus dem Wasser gewährleisten. 3 Auf die Führungsleine kann verzichtet werden, wenn: a. mindestens zwei Taucherinnen oder Taucher mit autonomer Taucherausrüstung gleichzeitig tauchen, als Gruppe zusammenarbeiten und sich dabei sehen oder auf andere Weise zuverlässig finden können; b. eine Taucherin oder ein Taucher alleine taucht, die Tauchtiefe weniger als 10 m beträgt, ihre oder seine Position von der Oberfläche aus jederzeit festgestellt werden kann und eine unverzügliche Bergung von der Oberfläche aus sichergestellt ist; c. diese die Sicherheit einer Taucherin oder eines Tauchers gefährden würde, insbesondere in Fliessgewässern, bei technischen Anlagen, beim Eindringen in ein Bergungsobjekt oder aufgrund der Unterwassertopografie. Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "2. Abschnitt: Grenzwerte",
+      "section": "52",
+      "title": "Maximale Tauchtiefe",
+      "content": "1 Bei der Verwendung von Atemluft aus der Atmosphäre beträgt die maximal zulässige Tauchtiefe 40 m. 2 Bei der Verwendung von Atemgas richtet sich die maximal zulässige Tauchtiefe nach den anerkannten Regeln für ein sicheres Arbeiten im Überdruck nach Artikel 3. In jedem Fall dürfen folgende Partialdrücke nicht überschritten werden: a. für Sauerstoff: 1,4 bar bei Arbeiten im Überdruck und 1,6 bar bei der Dekompression; b. für Stickstoff: 4,0 bar. 3 Die maximale Tauchtiefe der einzelnen Taucherin oder des einzelnen Tauchers richtet sich zudem: a. nach der in ihren oder seinen Ausbildungsunterlagen festgelegten Tauchtiefe; oder b. nach der durch die Arbeitsärztin oder den Arbeitsarzt aufgrund einer Beurteilung der medizinischen Eignung festgelegten Tauchtiefe. 4 Für Tauchinstruktorinnen und Tauchinstruktoren sowie Polizei- und Rettungstaucherinnen und -taucher, die entsprechend ausgebildet sind und regelmässig Taucheinsätze absolvieren, beträgt bei der Verwendung von Atemluft aus der Atmosphäre die maximal zulässige Tauchtiefe 50 m und bei der Verwendung von Atemgas der maximal zulässige Partialdruck von Stickstoff 5,0 bar. Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "2. Abschnitt: Grenzwerte",
+      "section": "53",
+      "title": "Tauchzeit und expositionsfreie Zeit",
+      "content": "1 Bei Tauchtiefen von mehr als 10 m darf die Tauchzeit 3 Stunden pro Tauchgang nicht überschreiten. Die kumulierte Tauchzeit darf nicht mehr als 6 Stunden pro 24 Stunden betragen. Nach einer Arbeitsschicht von 8 Stunden mit einem oder mehreren Tauchgängen muss eine expositionsfreie Zeit von mindestens 12 Stunden folgen. 2 Bei Tauchtiefen von mehr als 10 m dürfen innerhalb von 7 Tagen Tauchgänge an nicht mehr als 5 Tagen erfolgen. Erfolgen die Tauchgänge an 5 aufeinanderfolgenden Tagen, so muss eine expositionsfreie Zeit von 48 Stunden eingehalten werden. 3 Die tägliche Tauchzeit und die expositionsfreie Zeit sind mit der Arbeitsärztin oder dem Arbeitsarzt abzusprechen. Im Einzelfall kann die Arbeitsärztin oder der Arbeitsarzt diese Zeiten entsprechend dem aktuellen Befinden der Taucherin oder des Tauchers reduzieren."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "3. Abschnitt: Einsatz und Mindestanzahl fachkundiger Personen",
+      "section": "54",
+      "title": "Einsatz fachkundiger Personen",
+      "content": "1 Werden Taucherarbeiten ausgeführt, so müssen neben der leitenden Person an der Tauchstelle auf Abruf genügend fachkundige Personen bereitstehen, welche die Aufgaben nach Artikel 12 übernehmen und die Rettung der Taucherinnen und Taucher sicherstellen. 2 Die Signalfrau oder der Signalmann muss dauernd in unmittelbarem Kontakt mit der Taucherin oder dem Taucher sein."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "3. Abschnitt: Einsatz und Mindestanzahl fachkundiger Personen",
+      "section": "55",
+      "title": "Mindestanzahl fachkundiger Personen",
+      "content": "1 Bei Taucherarbeiten mit autonomer Taucherausrüstung müssen sich mindestens folgende Personen an der Tauchstelle befinden: a. zwei Taucherinnen oder Taucher im Wasser, die zusammenarbeiten; b. zwei Personen an der Oberfläche, welche die Taucherinnen und Taucher dauernd überwachen und die Rettung sicherstellen. 2 Bei Taucherarbeiten mit autonomer Taucherausrüstung ohne erhöhte Risiken nach Artikel 44 Absatz 1 Buchstaben a–f, ohne besondere Gefahren nach Artikel 58 und mit Tauchtiefen von weniger als 10 m müssen sich mindestens folgende Personen an der Tauchstelle befinden: a. eine Taucherin oder ein Taucher im Wasser, die oder der über eine Sicherungsleine mit der Oberfläche verbunden ist; b. eine Person an der Oberfläche, welche die Taucherin oder den Taucher dauernd überwacht und die Rettung sicherstellt. 3 Bei Taucherarbeiten mit von der Wasseroberfläche ausgehender schlauchgestützter Luftversorgung müssen sich mindestens folgende Personen an der Tauchstelle befinden: a. eine Taucherin oder ein Taucher im Wasser; b. zwei Personen an der Oberfläche, welche die Taucherin oder den Taucher dauernd überwachen und die Rettung sicherstellen, wobei eine dieser Personen in Tauch-Einsatzbereitschaft stehen muss. 4 Bei Taucherarbeiten mit von der Wasseroberfläche ausgehender schlauchgestützter Luftversorgung ohne erhöhte Risiken nach Artikel 44 Absatz 1 Buchstaben a–f, ohne besondere Gefahren nach Artikel 58 und mit Tauchtiefen von weniger als 10 m müssen sich mindestens folgende Personen an der Tauchstelle befinden: a. eine Taucherin oder ein Taucher im Wasser; b. eine Person an der Oberfläche, welche die Taucherin oder den Taucher dauernd überwacht und die Rettung sicherstellt. 5 Bei forensischen, Rettungs-, Such- und Bergungstaucheinsätzen, namentlich dynamischen Taucheinsätzen, der Polizei- und Rettungstaucherinnen und -taucher, bei der dazugehörigen Tauchgrundausbildung, bei der Weiterbildung und bei Trainingstauchgängen der Polizei- und Rettungstaucherinnen und -taucher sowie bei der beruflichen Ausbildungstätigkeit von Tauchinstruktorinnen und Tauchinstruktoren setzt sich das Tauchteam aus mindestens zwei Taucherinnen oder Tauchern zusammen. Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "4. Abschnitt: Unterwasserarbeiten mit besonderen Gefahren",
+      "section": "56",
+      "title": "Maschinelle Arbeiten",
+      "content": "Maschinelle Arbeiten wie Hebe-, Bohr-, Greif- und Saugarbeiten dürfen nur ausgeführt werden, wenn sich keine Taucherin und kein Taucher mehr im Gefahrenbereich befindet."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "4. Abschnitt: Unterwasserarbeiten mit besonderen Gefahren",
+      "section": "57",
+      "title": "Sprengung",
+      "content": "1 Sprengladungen dürfen nur von Personen oder unter der Aufsicht von Personen vorbereitet und gezündet werden, die über einen Ausweis nach Artikel 14 Absatz 1 des Sprengstoffgesetzes vom 25. März 1977 verfügen. 2 Vor jeder Sprengung hat die Taucherin oder der Taucher vollständig aus dem Wasser zu steigen. Dabei muss die sprengberechtigte Person kontrollieren, ob die Taucherin oder der Taucher nicht unbeabsichtigt Zünder oder Sprengladungen mitgerissen hat. SR 941.41"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "4. Abschnitt: Unterwasserarbeiten mit besonderen Gefahren",
+      "section": "58",
+      "title": "Übrige Arbeiten mit besonderen Gefahren",
+      "content": "1 Für die übrigen Arbeiten mit besonderen Gefahren wie der Einsatz von Hebesäcken, das Arbeiten mit elektrischen Geräten sowie Schneid- und Schweissarbeiten sind Stoffe, Produkte und Arbeitsmittel zu verwenden und Arbeitsverfahren anzuwenden, die für den Einsatz im Wasser geeignet sind. 2 Arbeiten nach Absatz 1 dürfen nur von einer Taucherin oder einem Taucher ausgeführt werden, die oder der dafür ausgebildet ist. 3 Bei Schneid- und Schweissarbeiten unter Wasser ist die Ansammlung von Knallgasen zu vermeiden. 4 Die Verwendung von flüssigen Brennstoffen ist verboten. 5 Bei Arbeiten mit elektrischen Geräten ist den besonderen Gefahren wie eine feuchte oder elektrisch leitende Umgebung und das Arbeiten in engen Räumen Rechnung zu tragen. 6 Für elektrische Schweissarbeiten sind die anerkannten Regeln der Technik für Schweissarbeiten unter Wasser zu beachten."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "59",
+      "title": "Vollzug",
+      "content": "Der Vollzug dieser Verordnung richtet sich nach den Vollzugsbestimmungen des UVG und insbesondere der VUV. SR 832.30"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "60",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung vom 20. Januar 1961 über die technischen Massnahmen zur Verhütung von Unfällen und Berufskrankheiten bei Arbeiten unter Druckluft wird aufgehoben. [ AS 1961 69 , 2002 3925 ]"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "61",
+      "title": "Änderung eines anderen Erlasses",
+      "content": "… Die Änderung kann unter AS 2015 1187 konsultiert werden."
+    },
+    {
+      "provision_ref": "art61a",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "61a",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 13. April 2016 ( AS 2016 1151 ). Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 15. Okt. 2016 ( AS 2016 3239 )."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "62",
+      "title": "Inkrafttreten",
+      "content": "1 Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Januar 2016 in Kraft. 2 Artikel 50 Absatz 2 tritt am 1. Januar 2018 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Druckluft:",
+      "definition": "Druckluft: Atemluft oder Atemgas mit einem Arbeitsdruck von mehr als 0,1 bar;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Arbeitsdruck:",
+      "definition": "Arbeitsdruck: über den atmosphärischen Druck hinausgehender Überdruck am Arbeitsplatz, in der Behandlungskammer oder in der Personenschleuse, ausgedrückt in bar;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Arbeitskammer:",
+      "definition": "Arbeitskammer: Raum, in dem Bauarbeiten in Druckluft ausgeführt werden;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Dekompression:",
+      "definition": "Dekompression: Verfahren für eine geordnete Entsättigung des Körpers von Stickstoff, ausgehend von der vorhandenen Sättigung bei Arbeitsdruck bis auf eine gesundheitlich unbedenkliche Restsättigung bei atmosphärischem Druck;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Haltestufe:",
+      "definition": "Haltestufe: Unterbruch der Dekompression bei einem arbeitsmedizinisch begründeten Druck.",
+      "source_provision": "art2"
+    }
+  ]
+}

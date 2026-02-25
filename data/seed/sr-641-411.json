@@ -1,0 +1,325 @@
+{
+  "id": "sr-641-411",
+  "type": "statute",
+  "title": "Bundesgesetz vom 6. Oktober 2006 über die Biersteuer (Biersteuergesetz, BStG)",
+  "title_en": "",
+  "short_name": "BStG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/385/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Grundsatz",
+      "content": "1 Der Bund erhebt eine Steuer auf Bier, das im schweizerischen Zollgebiet (Zollgebiet) hergestellt oder in dieses eingeführt wird. 2 Er beachtet dabei die Bedürfnisse des Jugend- und Gesundheitsschutzes."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Gegenstand",
+      "content": "Dieses Gesetz regelt die Besteuerung von Bier mit einem Alkoholgehalt von höchstens 15 Volumenprozent."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriff",
+      "content": "Als Bier gelten: a. das Bier aus Malz (Zolltarifnummer 2203); b. Mischungen von Bier aus Malz mit nichtalkoholischen Getränken oder mit ausschliesslich durch Vergärung gewonnenen alkoholischen Produkten (Zolltarifnummer 2206); c. das alkoholfreie Bier (Zolltarifnummer 2202). SR 632.10 Anhang. Der Generaltarif und seine Änd. werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ( SR 170.512 ) in der AS nicht veröffentlicht. Der Text kann im Internet unter http://www.ezv.admin.ch eingesehen werden. Die Änd. werden ebenfalls in den Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Entstehung der Steuerforderung",
+      "content": "Die Steuerforderung entsteht mit der Überführung des Biers in den steuerrechtlich freien Verkehr. Als solche gilt: a. für im Zollgebiet hergestelltes Bier: der Zeitpunkt, in dem das Bier den Herstellungsbetrieb verlässt oder zum Konsum im Herstellungsbetrieb verwendet wird; b. für eingeführtes Bier: der Zeitpunkt der Überführung in den zollrechtlich freien Verkehr (Art. 48 des Zollgesetzes vom 18. März 2005). SR 631.0"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Steuerbehörde",
+      "content": "Steuerbehörde ist die Eidgenössische Zollverwaltung (Zollverwaltung)."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Anwendbarkeit der Zollgesetzgebung",
+      "content": "Soweit dieses Gesetz und seine Ausführungsvorschriften nicht eigene Bestimmungen enthalten, ist die Zollgesetzgebung anwendbar."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Steuerpflicht",
+      "section": "7",
+      "title": "Steuerpflichtige Personen",
+      "content": "Steuerpflichtig sind: a. für im Zollgebiet hergestelltes Bier: die Herstellerin oder der Hersteller; b. für eingeführtes Bier: die Zollschuldnerin oder der Zollschuldner."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Steuerpflicht",
+      "section": "8",
+      "title": "Steuernachfolge",
+      "content": "1 Die Steuernachfolgerin oder der Steuernachfolger tritt in die Rechte und Pflichten der steuerpflichtigen Person ein. 2 Die Steuernachfolge treten an: a. die Erbinnen und Erben beim Tod der steuerpflichtigen Person beziehungsweise der Steuernachfolgerin oder des Steuernachfolgers; b. die persönlich haftenden Gesellschafterinnen und Gesellschafter beziehungsweise deren Erbinnen und Erben nach Auflösung einer Gesellschaft ohne Rechtspersönlichkeit; c. die juristische Person, die von einer anderen juristischen Person das Vermögen oder ein Geschäft mit Aktiven und Passiven übernimmt. 3 Die Erbinnen und Erben haften solidarisch bis zur Höhe ihrer Erbteile, die persönlich haftenden Gesellschafterinnen und Gesellschafter haften im Rahmen ihrer Haftbarkeit für die Schulden der Gesellschaft. 4 Treten mehrere Personen die Steuernachfolge an, so erfüllt jede ihre Pflichten selbständig und übt ihre Rechte selbständig aus. 5 Von den die Steuernachfolge antretenden Personen befreit jede die anderen nach Massgabe ihrer Zahlung; ihre Rückgriffsrechte richten sich nach dem unter diesen Personen bestehenden Rechtsverhältnis."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Steuerpflicht",
+      "section": "9",
+      "title": "Mithaftung",
+      "content": "Mit der steuerpflichtigen Person beziehungsweise mit der Steuernachfolgerin oder dem Steuernachfolger haften solidarisch: a. für die Steuer einer aufgelösten juristischen Person oder Gesellschaft ohne Rechtspersönlichkeit: die mit der Liquidation betrauten Personen, auch im Konkurs- oder im Nachlassverfahren, bis zum Betrag des Liquidationsergebnisses beziehungsweise des Nachlassvermögens; b. für die Steuer einer juristischen Person, die ihren Sitz ohne Liquidation ins Ausland verlegt: die Organe persönlich bis zum Betrag des reinen Vermögens der juristischen Person."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Steuertarif",
+      "section": "10",
+      "title": "Bemessungsgrundlage",
+      "content": "1 Die Steuer wird je Hektoliter und auf der Grundlage des Stammwürzegehaltes, ausgedrückt in Grad Plato, bemessen. 2 Grad Plato ist der Stammwürzegehalt des Bieres in Gramm je 100 Gramm Bier, wie er sich nach der grossen Ballingschen Formel aus dem Alkohol- und Extraktgehalt des Bieres berechnet. 3 Bei der Bemessung nach Grad Plato wird nur die erste Dezimalstelle berücksichtigt."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Steuertarif",
+      "section": "11",
+      "title": "Steuersatz",
+      "content": "1 Der Steuersatz beträgt: a. bis 10,0 Grad Plato (Leichtbier) Fr. 16.88 je Hektoliter; b. von 10,1 bis 14,0 Grad Plato (Normal- und Spezialbier) Fr. 25.32 je Hektoliter; c. ab 14,1 Grad Plato (Starkbier) Fr. 33.76 je Hektoliter. 2 Auf Bier mit einem Alkoholgehalt von höchstens 0,5 Volumenprozent (alkoholfreies Bier) wird keine Steuer erhoben."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Steuertarif",
+      "section": "12",
+      "title": "Anpassung des Steuersatzes",
+      "content": "1 Der Bundesrat kann den Steuersatz der Teuerung anpassen, wenn diese nach dem Landesindex der Konsumentenpreise seit Inkrafttreten dieses Gesetzes oder seit der letzten Anpassung um 5 Prozent gestiegen ist. 2 Der Steuerbetrag berechnet sich nach dem Tarif, der bei Entstehung der Steuerforderung in Kraft ist."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Steuertarif",
+      "section": "13",
+      "title": "Steuerbefreiung",
+      "content": "1 Bier ist von der Steuer befreit, wenn es nicht zu Genusszwecken, sondern zur Herstellung von anderen Lebensmitteln oder von kosmetischen und pharmazeutischen Produkten gewerblich verwendet wird. Es ist insbesondere von der Steuer befreit, wenn es verwendet wird: a. zur Herstellung von Essig; b. unmittelbar oder als Bestandteil zur Herstellung von Lebensmitteln aus Halbfertigprodukten, sofern deren Alkoholgehalt fünf Liter reinen Alkohols je 100 Kilogramm des Produkts nicht überschreitet; c. als Färbemittel (Farbebier) für Bier; d. zur Herstellung von Shampoo; e. denaturiert zur Herstellung von anderen Produkten als Lebensmitteln; f. zur Herstellung von Arzneimitteln. 2 Ebenfalls von der Steuer befreit ist Bier, das: a. von Privatpersonen mit eigenen Einrichtungen im eigenen Haushalt hergestellt und ausschliesslich für den Eigenkonsum verwendet wird; b. zur Herstellung von gebrannten Wassern verwendet wird; c. nach Artikel 14 des Zollgesetzes vom 1. Oktober 1925 zollfrei ist. [BS 6 465; AS 1956 587 , 1959 1343 Art. 11 Ziff. III, 1973 644 , 1974 1857 Anhang Ziff. 7, 1980 1793 Ziff. I 1, 1992 1670 Ziff. III, 1994 1634 Ziff. I 3, 1995 1816 , 1996 3371 Anhang 2 Ziff. 2, 1997 2465 Anhang Ziff. 13, 2000 1300 Art. 92 1891 Ziff. VI 6, 2002 248 Ziff. I 1 Art. 41, 2004 4763 Anhang Ziff. II 1, 2006 2197 Anhang Ziff. 50. AS 2007 1411 Art. 131 Abs. 1]. Siehe heute: Art. 8 des Zollgesetzes vom 18. März 2005 ( SR 631.0 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Steuerermässigung",
+      "content": "1 Der Steuersatz nach Artikel 11 Absatz 1 wird für im Brauverfahren hergestelltes Bier aus unabhängigen Herstellungsbetrieben mit einer Jahresproduktion von weniger als 55 000 Hektolitern wie folgt ermässigt: a. auf 90 Prozent bei einer Jahresproduktion von 45 000 Hektolitern; b. auf 80 Prozent bei einer Jahresproduktion von 35 000 Hektolitern; c. auf 70 Prozent bei einer Jahresproduktion von 25 000 Hektolitern; d. auf 60 Prozent bei einer Jahresproduktion von 15 000 Hektolitern oder weniger. 2 Die Ermässigung beträgt 1 Prozent je ganze 1000 Hektoliter weniger hergestelltes Bier. Mengen unter 1000 Hektolitern werden nicht berücksichtigt. 3 Die Steuersätze werden kaufmännisch auf ganze Rappen gerundet. 4 Als Jahresproduktion eines Herstellungsbetriebes gilt die gesamte von ihm im Brauverfahren hergestellte Biermenge, einschliesslich Lizenzbier, für die innerhalb eines Kalenderjahres die Steuerforderung entstanden ist, zuzüglich der steuerfrei abgegebenen oder verwendeten Mengen, abzüglich alkoholfreien Biers. 5 Die Steuerermässigung wird Herstellungsbetrieben gewährt, die rechtlich und wirtschaftlich von anderen Herstellungsbetrieben unabhängig sind, Betriebsräume benutzen, die von denjenigen anderer Herstellungsbetriebe getrennt sind, und Bier nicht in Lizenz herstellen. Die Steuerermässigung wird jedoch auch gewährt, wenn: a. das in Lizenz hergestellte Bier weniger als die Hälfte der Jahresproduktion ausmacht; b. das in Lizenz hergestellte Bier zum Steuersatz nach Artikel 11 Absatz 1 versteuert wird; und c. die Jahresproduktion weniger als 55 000 Hektoliter beträgt. 6 Die Steuerermässigung wird nur für volle Kalenderjahre gewährt. 7 Für Bier, das einem ermässigten Steuersatz unterliegt, wird die Steuer im laufenden Kalenderjahr nach der Jahresproduktion des Vorjahres vorläufig festgesetzt. 8 Für eingeführtes Bier eines ausländischen unabhängigen Herstellungsbetriebes mit einer Jahresproduktion von weniger als 55 000 Hektolitern wird die Steuerermässigung bei Vorlage einer amtlichen Bestätigung gewährt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Erhebung und Rückerstattung der Steuer für im Zollgebiet hergestelltes Bier",
+      "section": "15",
+      "title": "Meldepflicht und Registrierung",
+      "content": "1 Wer im Zollgebiet gewerbsmässig Bier herstellen will, muss sich 30 Tage vor der Produktionsaufnahme bei der Zollverwaltung zur Eintragung in das Register der Bierhersteller anmelden. 2 Die Eintragung setzt voraus, dass die Herstellerin oder der Hersteller Wohnsitz im Zollgebiet hat oder im Handelsregister eingetragen ist. 3 Jede Änderung des Namens, des Wohnsitzes oder der Eintragung im Handelsregister ist der Zollverwaltung unverzüglich zu melden. 4 Wer die gewerbsmässige Herstellung von Bier aufgibt, wird im Register gelöscht. 5 Das Register ist öffentlich."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Erhebung und Rückerstattung der Steuer für im Zollgebiet hergestelltes Bier",
+      "section": "16",
+      "title": "Abrechnungsperiode",
+      "content": "Die Steuer für im Zollgebiet hergestelltes Bier ist für jedes Quartal (Abrechnungsperiode) geschuldet."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Erhebung und Rückerstattung der Steuer für im Zollgebiet hergestelltes Bier",
+      "section": "17",
+      "title": "Selbstveranlagung",
+      "content": "1 Die Herstellerin oder der Hersteller muss der Zollverwaltung die Steueranmeldung innerhalb von 20 Tagen nach Ablauf der Abrechnungsperiode unaufgefordert in der vorgeschriebenen Form einreichen. Endet die Steuerpflicht vor Ablauf der Abrechnungsperiode, so läuft die Frist ab dem Ende der Steuerpflicht. 2 Die Steueranmeldung ist für die Herstellerin oder den Hersteller verbindlich und dient als Grundlage für die Festsetzung des Steuerbetrags. Das Ergebnis einer amtlichen Überprüfung bleibt vorbehalten. 3 Falls die Zollverwaltung die Steueranmeldung beanstandet, setzt sie den Steuerbetrag durch Verfügung fest."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Erhebung und Rückerstattung der Steuer für im Zollgebiet hergestelltes Bier",
+      "section": "18",
+      "title": "Entrichtung der Steuer",
+      "content": "Die Herstellerin oder der Hersteller muss die Steuer für im Zollgebiet hergestelltes Bier innerhalb von 30 Tagen nach Ablauf der Abrechnungsperiode der Zollverwaltung entrichten. Endet die Steuerpflicht vor Ablauf der Abrechnungsperiode, so läuft die Zahlungsfrist ab dem Ende der Steuerpflicht."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Erhebung und Rückerstattung der Steuer für im Zollgebiet hergestelltes Bier",
+      "section": "19",
+      "title": "Rückvergütung der Steuer",
+      "content": "Die Herstellerin oder der Hersteller hat Anspruch auf Rückvergütung der Steuer, die für im Zollgebiet hergestelltes Bier zu Unrecht erhoben wurde."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Abschnitt: Erhebung und Rückerstattung der Steuer für im Zollgebiet hergestelltes Bier",
+      "section": "20",
+      "title": "Rückerstattung der Steuer",
+      "content": "1 Die Herstellerin oder der Hersteller hat Anspruch auf Rückerstattung der Steuer, wenn von ihr oder ihm im Zollgebiet hergestelltes Bier: a. unter Zollüberwachung ausgeführt wird; b. zurückgenommen wird (Retourbier). 2 Die Rückerstattung ist innerhalb eines Jahres ab Entstehung des Rückerstattungsanspruchs zu beantragen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "4. Abschnitt: Erhebung und Rückerstattung der Steuer für im Zollgebiet hergestelltes Bier",
+      "section": "21",
+      "title": "Verjährung von Rückvergütungs- und Rückerstattungsansprüchen",
+      "content": "1 Der Anspruch auf Rückvergütung oder auf Rückerstattung verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem er entstanden ist. 2 Die Verjährung wird unterbrochen durch die Geltendmachung des Anspruchs gegenüber der Zollverwaltung. 3 Sie steht still, solange über den geltend gemachten Anspruch ein Entscheid-, Einsprache- oder Rechtsmittelverfahren hängig ist. 4 Der Anspruch auf Rückvergütung oder auf Rückerstattung verjährt in jedem Fall 15 Jahre nach Ablauf des Kalenderjahres, in dem er entstanden ist."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Steuernachforderung",
+      "content": "1 Hat die Zollverwaltung eine für im Zollgebiet hergestelltes Bier geschuldete Steuer nicht oder zu niedrig festgesetzt, so fordert sie den Betrag innerhalb der Verjährungsfrist nach. 2 Nötigenfalls nimmt sie die Veranlagung auf der Grundlage der ihr bekannten Tatsachen durch Schätzung vor."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Verjährung der Steuerforderung",
+      "content": "1 Die Steuerforderung verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem sie entstanden ist. 2 Die Verjährung wird unterbrochen: a. wenn die steuerpflichtige Person die Steuerforderung anerkennt; b. durch jede Amtshandlung, mit der die Steuerforderung bei der steuerpflichtigen Person geltend gemacht wird. 3 Sie steht still, solange die steuerpflichtige Person in der Schweiz nicht betrieben werden kann. 4 Unterbrechung und Stillstand wirken gegenüber allen zahlungspflichtigen Personen. 5 Die Steuerforderung verfällt in jedem Fall 15 Jahre nach Ablauf des Kalenderjahres, in dem sie entstanden ist."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Nachforderung von zu Unrecht rückvergüteten Beträgen",
+      "content": "1 Ist ein geschuldeter Betrag zu Unrecht rückvergütet worden, so fordert ihn die Zollverwaltung nach. 2 Der Nachforderungsanspruch verjährt fünf Jahre nach dem Zeitpunkt, in dem die Zollverwaltung Kenntnis vom Anspruch erhielt, spätestens jedoch zehn Jahre nach dem Zeitpunkt, in dem der Anspruch entstanden ist. 3 Die Verjährung wird durch jede Amtshandlung unterbrochen, mit der die Nachforderung geltend gemacht wird; sie steht still, solange die zahlungspflichtige Person in der Schweiz nicht betrieben werden kann."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Zinsen",
+      "content": "1 Bei verspäteter Zahlung der Steuer ist ab ihrer Fälligkeit ohne Mahnung ein Verzugszins geschuldet. 2 Ab dem Zeitpunkt, in dem eine Rückvergütung oder Rückerstattung zu Unrecht erfolgte, ist ein Verzugszins geschuldet. 3 Ab dem Zeitpunkt, in dem die Zollverwaltung einen Betrag zu Unrecht erhoben oder nicht zurückerstattet hat, schuldet sie einen Vergütungszins. 4 Der Bundesrat kann für die Erhebung des Verzugszinses Ausnahmen vorsehen. 5 Das Eidgenössische Finanzdepartement legt die Zinssätze fest."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Steuerpfandrecht",
+      "content": "1 Der Bund hat ein gesetzliches Pfandrecht an Bier, das im Zollgebiet hergestellt wird und der Steuer unterliegt, wenn: a. die Zahlung der Steuer als gefährdet erscheint; oder b. die steuerpflichtige Person mit der Zahlung in Verzug ist. 2 Das Steuerpfandrecht gilt auch für Bier, für das die Steuerforderung noch nicht entstanden ist. 3 Das Verfahren richtet sich nach den für Zölle geltenden Vorschriften."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Sicherstellung von Steuerforderungen",
+      "content": "1 Die Zollverwaltung kann eine Steuerforderung, auch wenn diese noch nicht fällig ist, sicherstellen lassen, wenn diese nicht durch ein ausreichendes und verwertbares Steuerpfand gesichert ist und wenn: a. die Zahlung als gefährdet erscheint; oder b. die steuerpflichtige Person mit der Zahlung in Verzug ist. 2 Die Sicherstellung kann durch Hinterlage von Bargeld oder Wertpapieren oder durch eine Bürgschaft geleistet werden. 3 Das Verfahren richtet sich nach den für Zölle geltenden Vorschriften."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Kontrollmassnahmen",
+      "content": "1 Wer Bier im Zollgebiet herstellt, muss eine vollständige Kontrolle über seine Tätigkeiten führen. Der Bundesrat regelt die Einzelheiten. Die Zollverwaltung kann die Verwendung bestimmter Formulare vorschreiben. 2 Die Herstellerin oder der Hersteller muss der Zollverwaltung auf Verlangen alle Auskünfte erteilen und alle Bücher, Geschäftspapiere und Urkunden vorlegen, die für den Vollzug dieses Gesetzes von Bedeutung sein könnten. 3 Die Unterlagen sind während zehn Jahren aufzubewahren. 4 Die Zollverwaltung ist befugt, Produktionsanlagen, Warenlager und andere Betriebsräume sowie, soweit erforderlich, Geschäftsbücher jederzeit und ohne Vorankündigung zu kontrollieren."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "5. Abschnitt: Erhebung und Rückerstattung der Steuer für ins Zollgebiet eingeführtes Bier",
+      "section": "29",
+      "title": "Vorschriften für eingeführtes Bier",
+      "content": "Für ins Zollgebiet eingeführtes Bier gelten die Vorschriften und Verfahren der Zollgesetzgebung, soweit dieses Gesetz und seine Ausführungsvorschriften nicht eigene Bestimmungen enthalten."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "5. Abschnitt: Erhebung und Rückerstattung der Steuer für ins Zollgebiet eingeführtes Bier",
+      "section": "30",
+      "title": "Rückerstattung der Steuer wegen Wiederausfuhr",
+      "content": "1 Die bei der Einfuhr erhobene Steuer wird auf Antrag zurückerstattet, wenn: a. das Bier innerhalb eines Jahres ab der Einfuhrabfertigung unverändert wieder ausgeführt wird; b. die Identität des ausgeführten Bieres mit dem damals eingeführten nachgewiesen wird; c. die Rückerstattung bei der Ausfuhrabfertigung geltend gemacht wird. 2 Nachträgliche Rückerstattungsanträge werden berücksichtigt, wenn sie innerhalb von 60 Tagen ab der Ausfuhrabfertigung schriftlich an die Zollkreisdirektion gerichtet werden, in deren Kreis die Wiederausfuhr erfolgt ist. 3 Die Rückerstattung wird auch für Bier gewährt, das nicht wieder ausgeführt, sondern auf Antrag im Zollgebiet vernichtet wird."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "5. Abschnitt: Erhebung und Rückerstattung der Steuer für ins Zollgebiet eingeführtes Bier",
+      "section": "31",
+      "title": "Zinsen",
+      "content": "Artikel 25 ist sinngemäss anwendbar."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "6. Abschnitt: Rechtsschutz",
+      "section": "32",
+      "title": "Einsprache",
+      "content": "1 Gegen erstinstanzliche Verfügungen der Oberzolldirektion kann innerhalb von 30 Tagen nach der Eröffnung bei der Oberzolldirektion Einsprache erhoben werden. Ausgenommen sind Verfügungen über die Sicherstellung. 2 Für das Einspracheverfahren gilt das Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren. SR 172.021"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "6. Abschnitt: Rechtsschutz",
+      "section": "33",
+      "title": "Beschwerden",
+      "content": "1 Gegen Verfügungen der Zollstellen kann bei den Zollkreisdirektionen Beschwerde geführt werden. 2 Gegen erstinstanzliche Verfügungen der Zollkreisdirektionen kann bei der Oberzolldirektion Beschwerde geführt werden. 3 Die Zollverwaltung wird im Verfahren vor dem Bundesverwaltungsgericht und dem Bundesgericht durch die Oberzolldirektion vertreten. 4 Die Frist für die erste Beschwerde gegen die Veranlagung der Zollstelle beträgt 60 Tage ab dem Ausstellen der Veranlagungsverfügung. 5 Beschwerden gegen Sicherstellungsverfügungen der Oberzolldirektion haben keine aufschiebende Wirkung. 6 Im Übrigen richtet sich das Beschwerdeverfahren nach den allgemeinen Bestimmungen über die Bundesrechtspflege."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "7. Abschnitt: Strafbestimmungen",
+      "section": "34",
+      "title": "Steuerwiderhandlungen",
+      "content": "Als Steuerwiderhandlungen gelten: a. die Steuergefährdung; b. die Steuerhinterziehung; c. die Steuerhehlerei; d. die Steuerpfandunterschlagung."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "7. Abschnitt: Strafbestimmungen",
+      "section": "35",
+      "title": "Gefährdung oder Hinterziehung der Steuer",
+      "content": "1 Wer die Steuer vorsätzlich oder fahrlässig bei der Herstellung im Inland oder bei der Einfuhr durch Nichtanmeldung, Verheimlichung, unrichtige Deklaration von Bier oder in irgendeiner anderen Weise ganz oder teilweise gefährdet oder hinterzieht oder sich oder einer anderen Person sonst wie einen unrechtmässigen Steuervorteil verschafft, wird mit Busse bis zum Fünffachen des gefährdeten oder hinterzogenen Steuerbetrags oder des unrechtmässigen Vorteils bestraft. 2 Bei erschwerenden Umständen wird das Höchstmass der angedrohten Busse um die Hälfte erhöht. Zudem kann auf eine Freiheitsstrafe von bis zu einem Jahr erkannt werden. Als erschwerende Umstände gelten: a. die Anwerbung einer oder mehrerer Personen für eine Widerhandlung; b. die gewerbs- oder gewohnheitsmässige Verübung von Widerhandlungen. 3 Kann der gefährdete oder hinterzogene Steuerbetrag nicht genau ermittelt werden, so wird er von der Zollverwaltung geschätzt. 4 Vorbehalten bleiben die Artikel 14–16 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht (VStrR). Ausdruck gemäss Änderung vom 13. Dez. 2002 des Schweizerischen Strafgesetzbuches ( SR 311.0 ; AS 2006 3459 ). SR 313.0"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "7. Abschnitt: Strafbestimmungen",
+      "section": "36",
+      "title": "Steuerhehlerei",
+      "content": "Wer Bier, von dem er weiss oder annehmen muss, dass die darauf geschuldete Steuer hinterzogen worden ist, erwirbt, sich schenken lässt, zu Pfand oder sonst wie in Gewahrsam nimmt, verheimlicht, absetzt, absetzen hilft oder in Verkehr bringt, wird nach der Strafdrohung für die Vortat bestraft."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "7. Abschnitt: Strafbestimmungen",
+      "section": "37",
+      "title": "Steuerpfandunterschlagung",
+      "content": "Mit Busse bis zum Fünffachen des Inlandwertes des Bieres wird bestraft, wer vorsätzlich von der Zollverwaltung als Steuerpfand beschlagnahmtes Bier, das in seinem Besitz belassen worden ist, vernichtet oder ohne Zustimmung der Zollverwaltung darüber verfügt."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "7. Abschnitt: Strafbestimmungen",
+      "section": "38",
+      "title": "Versuch",
+      "content": "1 Der Versuch einer Steuerwiderhandlung ist strafbar. 2 Er wird mit einer Busse bis zum Zweifachen des gefährdeten Steuerbetrags bestraft."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "7. Abschnitt: Strafbestimmungen",
+      "section": "39",
+      "title": "Widerhandlungen in Geschäftsbetrieben",
+      "content": "Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 VStrR strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilen. SR 313.0"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Konkurrenz",
+      "content": "Erfüllt eine Handlung gleichzeitig den Tatbestand einer Gefährdung oder Hinterziehung der Steuer oder der Steuerhehlerei und einer von der Zollverwaltung zu verfolgenden Widerhandlung gegen andere Erlasse des Bundes, so wird die für die schwerere Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Ordnungswidrigkeiten",
+      "content": "Wer vorsätzlich oder grobfahrlässig gegen eine Vorschrift dieses Gesetzes, eine Ausführungsbestimmung, deren Übertretung für strafbar erklärt wird, oder eine unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichtete Verfügung verstösst, wird mit Busse bis zu 5000 Franken bestraft."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Strafverfolgung und Verfolgungsverjährung",
+      "content": "1 Widerhandlungen werden nach dem VStrR verfolgt und beurteilt. 2 Verfolgende und urteilende Behörde ist die Zollverwaltung. 3 Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR gilt für sämtliche Steuerwiderhandlungen. SR 313.0"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "43",
+      "title": "Vollzug",
+      "content": "1 Der Bundesrat erlässt die Ausführungsbestimmungen. 2 Die Zollverwaltung vollzieht dieses Gesetz."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "44",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Das Zollgesetz vom 18. März 2005 wird wie folgt geändert: Art. 126 Sachüberschrift ... SR 631.0 . Die hiernach aufgeführte Änd. ist eingefügt in der genannten V."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "45",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Wer nach bisherigem Recht im Verzeichnis der Bierhersteller eingetragen ist, gilt als im Register nach Artikel 15 eingetragen. 2 Nach bisherigem Recht rechtskräftig erlassene Verfügungen werden durch das neue Recht nicht berührt. 3 Verfahren, welche die Biersteuer zum Gegenstand haben und bei Inkrafttreten dieses Gesetzes hängig sind, werden nach bisherigem Recht zu Ende geführt. 4 Auf Einsprache- und Beschwerdeverfahren ist das neue Recht anwendbar. Die Steuerpflicht und der Steuertarif richten sich nach bisherigem Recht."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "46",
+      "title": "Referendum und Inkrafttreten",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 1. Juli 2007 BRB vom 15. Juni 2007 ( AS 2007 2907 )"
+    }
+  ],
+  "definitions": []
+}

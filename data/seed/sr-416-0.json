@@ -1,0 +1,93 @@
+{
+  "id": "sr-416-0",
+  "type": "statute",
+  "title": "Bundesgesetz vom 12. Dezember 2014 über Beiträge an die Aufwendungen der Kantone für Stipendien und Studiendarlehen im tertiären Bildungsbereich (Ausbildungsbeitragsgesetz)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/3/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand, Geltungsbereich und Zweck",
+      "content": "1 Dieses Gesetz regelt: a. die Ausrichtung der Beiträge des Bundes an die Aufwendungen der Kantone für Stipendien und Studiendarlehen an Studierende von Hochschulen und anderen Institutionen des Hochschulbereichs, an Studierende von höheren Fachschulen und an Teilnehmende der Vorbereitungskurse für eidgenössische Berufs- und höhere Fachprüfungen (tertiärer Bildungsbereich); b. die Unterstützung von Massnahmen der interkantonalen Harmonisierung der Stipendien und Studiendarlehen durch den Bund. 2 Mit diesem Gesetz will der Bund die Ausbildung im tertiären Bildungsbereich und die interkantonale Harmonisierung der Stipendien und Studiendarlehen in diesem Bereich fördern."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In diesem Gesetz bedeuten: a. Ausbildungsbeiträge: Stipendien und Studiendarlehen; b. Stipendien: einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und die nicht zurückbezahlt werden müssen; c. Studiendarlehen: einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und die zurückbezahlt werden müssen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Bundesbeiträge",
+      "section": "3",
+      "title": "Grundsatz",
+      "content": "Der Bund gewährt den Kantonen im Rahmen der bewilligten Kredite Beiträge an ihre jährlichen Aufwendungen für Ausbildungsbeiträge im tertiären Bildungsbereich."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Bundesbeiträge",
+      "section": "4",
+      "title": "Voraussetzungen",
+      "content": "Der Bund gewährt den Kantonen Beiträge, soweit sie mit ihren Ausbildungsbeiträgen für den tertiären Bildungsbereich die Bestimmungen der Artikel 3, 5‒14 und 16 der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen in der Fassung vom 18. Juni 2009 einhalten. www.edk.ch > Dokumentation > Offizielle Texte > Rechtssammlung der EDK"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Bundesbeiträge",
+      "section": "5",
+      "title": "Verteilung",
+      "content": "Der Kredit des Bundes für Ausbildungsbeiträge wird den einzelnen Kantonen in pauschalisierter Form nach Massgabe ihrer Wohnbevölkerung ausgerichtet."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Unterstützung der interkantonalen Harmonisierung und Statistik",
+      "section": "6",
+      "title": "Unterstützung der interkantonalen Harmonisierung",
+      "content": "1 Der Bund kann sich im Rahmen der bewilligten Kredite an Massnahmen zur interkantonalen Harmonisierung der Ausbildungsbeiträge beteiligen. 2 Die Leistungen des Bundes dürfen nicht höher sein als die gesamthaften Leistungen der Kantone."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Unterstützung der interkantonalen Harmonisierung und Statistik",
+      "section": "7",
+      "title": "Statistik",
+      "content": "Die Kantone stellen dem Bund für die Erstellung einer jährlichen gesamtschweizerischen Statistik ihre Daten über die Ausrichtung ihrer Ausbildungsbeiträge zur Verfügung."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "8",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Das Ausbildungsbeitragsgesetz vom 6. Oktober 2006 wird aufgehoben. [ AS 2007 5871 ]"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "9",
+      "title": "Referendum und Inkrafttreten",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Es ist im Bundesblatt zu publizieren, sobald die Volksinitiative «Stipendieninitiative» zurückgezogen oder abgelehnt worden ist. 3 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 1. Januar 2016 Die Volksinitiative ist in der Volksabstimmung vom 14. Juni 2015 abgelehnt worden ( BBl 2015 6313 ). BRB vom 11. Dez. 2015"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ausbildungsbeiträge:",
+      "definition": "Ausbildungsbeiträge: Stipendien und Studiendarlehen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Stipendien:",
+      "definition": "Stipendien: einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und die nicht zurückbezahlt werden müssen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Studiendarlehen:",
+      "definition": "Studiendarlehen: einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und die zurückbezahlt werden müssen.",
+      "source_provision": "art2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sr-812-213-6",
+  "type": "statute",
+  "title": "Verordnung vom 22. Juni 2006 betreffend die Liste der verschreibungspflichtigen Medizinprodukte (VLvM)",
+  "title_en": "",
+  "short_name": "VLvM",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2006/560/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Verschreibungspflicht",
+      "content": "Folgende Medizinprodukte dürfen ausschliesslich auf ärztliche Verschreibung an andere Personen als an Ärztinnen oder Ärzte abgegeben werden: a. Intrauterinpessare (IUP; zur Empfängnisverhütung); b. Sättigungskomprimate (oral applizierbare Sättigungspräparate auf Cellulosebasis mit definiert vorgegebener Geometrie zur Behandlung von Übergewicht und zur Gewichtskontrolle)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Oktober 2006 in Kraft."
+    }
+  ],
+  "definitions": []
+}

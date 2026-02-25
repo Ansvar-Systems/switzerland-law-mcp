@@ -1,0 +1,26 @@
+{
+  "id": "sr-672-45",
+  "type": "statute",
+  "title": "Verordnung des EFD vom 10. Dezember 2012 über die Verzinsung ausstehender Quellensteuerbeträge",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2013/7/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Verzugszins",
+      "content": "Der Verzugszins, der nach Artikel 24 Absatz 1 IQG bei verspäteter Überweisung der Einmalzahlungen, abgeltenden Steuern und Abgeltungszahlungen geschuldet ist, bestimmt sich nach der Verordnung vom 29. November 1996 über die Verzinsung ausstehender Verrechnungssteuern. SR 642.212"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt zusammen mit dem IQG in Kraft. Das IQG tritt am 20. Dez. 2012 in Kraft."
+    }
+  ],
+  "definitions": []
+}

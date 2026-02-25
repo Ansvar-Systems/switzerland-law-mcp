@@ -1,0 +1,32 @@
+{
+  "id": "sr-232-112-11",
+  "type": "statute",
+  "title": "Verordnung des WBF vom 15. November 2016 über die Verwendung von schweizerischen Herkunftsangaben für Lebensmittel (HasLV-WBF)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/709/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Temporär nicht verfügbare Naturprodukte",
+      "content": "Die Naturprodukte nach Artikel 8 HasLV und die Dauer, während der sie von der Berechnung des für die Herkunftsangabe massgeblichen Mindestanteils ausgeschlossen sind, sind in Anhang 1 festgelegt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Für bestimmte Verwendungszwecke in der Schweiz nicht verfügbare Naturprodukte",
+      "content": "Die Naturprodukte, die auf Begehren nach Artikel 9 HasLV von der Berechnung des für die Herkunftsangabe massgeblichen Mindestanteils ausgeschlossen sind, und die Dauer, während der sie davon ausgeschlossen sind, sind in Anhang 2 festgelegt."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2017 in Kraft."
+    }
+  ],
+  "definitions": []
+}

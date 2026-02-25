@@ -1,0 +1,91 @@
+{
+  "id": "sr-512-26",
+  "type": "statute",
+  "title": "Verordnung vom 14. April 1999 über die Ausbildung der Truppe bei polizeilichen Einsätzen (VATPE)",
+  "title_en": "",
+  "short_name": "VATPE",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1999/225/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt die Ausbildung für subsidiäre Sicherungseinsätze von Angehörigen der Armee, Truppendetachementen und Formationen im Rahmen von Einsätzen ziviler Polizeiorgane. 2 Nicht unter diese Verordnung fallen: a. Übungen auf Ausbildungsplätzen der Armee; b. Planungs‑, Stabs- und Entschlussfassungsübungen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Subsidiäre Sicherungseinsätze der Armee : Unterstützung der zivilen Polizeiorgane 1. zum Schutz von Personen und besonders schutzwürdigen Sachen (Art. 67 Abs. 1 Bst. b MG), 2. zum Schutz der Landesgrenze (Art. 67 Abs.1 Bst. e MG), sowie 3. für den Ordnungsdienst (Art. 83 MG); b. Zivile Polizeiorgane: Angehörige der zivilen Polizeikorps oder von zivilen Diensten des Bundes oder der Kantone mit Polizeibefugnissen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Auszubildende Truppen",
+      "content": "1 Der Chef Heer bestimmt nach den Vorgaben des Generalstabschefs die Formationen, die im Rahmen von Einsätzen ziviler Polizeiorgane für subsidiäre Sicherungseinsätze ausgebildet werden. 2 Für Aufgaben im Ordnungsdienst sind nur die Militärpolizei und das Festungswachtkorps auszubilden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Zuständigkeiten",
+      "content": "Der Generalstabschef, der Chef Heer und die Kommandanten der Grossen Verbände können in ihrem Zuständigkeitsbereich die Ausbildung der Truppe im Rahmen ziviler polizeilicher Einsätze anordnen und ihr zusätzliches Polizeimaterial zuteilen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Voraussetzungen",
+      "content": "Die Ausbildung im Rahmen von Einsätzen ziviler Polizeiorgane darf nur angeordnet werden, wenn: a. sie ausschliesslich der Schulung der Truppe dient, b. die Truppe die zivilen Polizeiorgane dabei weder unterstützt noch entlastet, und c. die zuständigen zivilen Behörden der Ausbildung zustimmen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Polizeibefugnisse",
+      "content": "1 Die Truppe darf die Schusswaffe nur zur Notwehr und im Notstand einsetzen. 2 Weitere polizeiliche Zwangsmassnahmen darf die Truppe nur anwenden, soweit dies zur Erfüllung des jeweiligen zivilen polizeilichen Auftrages notwendig ist. 3 Es gelten im übrigen die Bestimmungen der Verordnung vom 26. Oktober 1994 über die Polizeibefugnisse der Armee. SR 510.32"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Verantwortlichkeiten und Organisation der Ausbildung",
+      "content": "1 Die beigezogenen zivilen Polizeiorgane tragen die Verantwortung für die fach-technische Ausbildung. 2 Der Generalstabschef, der Chef Heer und die Kommandanten der Grossen Verbände vereinbaren vor Beginn der Ausbildung mit den zivilen Polizeiorganen die Einzelheiten."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Kosten",
+      "content": "1 Der Bund trägt in der Regel die Kosten, die den zivilen Polizeiorganen durch die Ausbildung entstehen (Ausbildungskosten). 2 Dem Bund können keine Ausbildungskosten belastet werden, wenn die Ausbildung im Hinblick auf einen konkreten Assistenz- oder Ordnungsdiensteinsatz angeordnet wird."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Vollzug",
+      "content": "Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport vollzieht diese Verordnung."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Verordnung vom 26. Oktober 1994 über die Polizeibefugnisse der Armee wird wie folgt geändert: … SR 510.32 Die Änderung kann unter AS 1999 1511 konsultiert werden."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 1999 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Subsidiäre Sicherungseinsätze der Armee",
+      "definition": "Subsidiäre Sicherungseinsätze der Armee :",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Zivile Polizeiorgane:",
+      "definition": "Zivile Polizeiorgane:",
+      "source_provision": "art2"
+    }
+  ]
+}

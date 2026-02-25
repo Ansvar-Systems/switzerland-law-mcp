@@ -1,0 +1,845 @@
+{
+  "id": "sr-818-101-1",
+  "type": "statute",
+  "title": "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemienverordnung, EpV)",
+  "title_en": "",
+  "short_name": "EpV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/298/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Begriffe und Notfallpläne",
+      "section": "1",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung gelten als: a. Primärdiagnostik : erste Untersuchung einer Probe, um Krankheitserreger nachzuweisen; b. Referenzdiagnostik : Untersuchung einer Probe im Vergleich zu Referenzproben oder Referenzmethoden, um Resultate zu verifizieren, Typen, Varianten oder Resistenzen eines Krankheitserregers zu charakterisieren oder Methoden und Standards zu validieren; c. Bestätigungsdiagnostik : die einer Primärdiagnostik folgende Untersuchung einer Probe, um ein primärdiagnostisches Resultat zu bestätigen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Begriffe und Notfallpläne",
+      "section": "2",
+      "title": "Notfallpläne",
+      "content": "1 Das Bundesamt für Gesundheit (BAG) und die Kantone erarbeiten Notfallpläne zum Schutz vor besonderen Gefährdungen der öffentlichen Gesundheit. 2 Die Kantone stützen sich bei der Erarbeitung ihrer Pläne auf die Pläne des BAG ab. Sie koordinieren ihre Planung mit ihren Nachbarkantonen und soweit möglich mit dem grenznahen Ausland. 3 Das BAG und die Kantone veröffentlichen ihre Pläne in geeigneter Form. 4 Sie überprüfen ihre Planung regelmässig."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Früherkennungs- und Überwachungssysteme",
+      "section": "3",
+      "title": "",
+      "content": "Das BAG betreibt insbesondere folgende Früherkennungs- und Überwachungssysteme: a. ein Meldesystem zur Erfassung von klinischen und laboranalytischen Befunden; b. ein System zur Überwachung von häufigen übertragbaren Krankheiten (Sentinella-Meldesystem); c. ein System zur Erfassung von seltenen übertragbaren Krankheiten bei hospitalisierten Kindern (Swiss Pediatric Surveillance Unit); d. Systeme zur Überwachung von therapieassoziierten Infektionen und Resistenzen bei Krankheitserregern."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Meldepflicht",
+      "section": "4",
+      "title": "Gegenstand der Meldepflicht",
+      "content": "1 Unter die Meldepflicht fallen Beobachtungen nach Artikel 12 Absatz 6 EpG, die in Ausübung der beruflichen Tätigkeit gemacht werden. 2 Spitäler und andere öffentliche oder private Institutionen des Gesundheitswesens sowie Laboratorien sind verpflichtet, innerhalb ihrer Institution die Meldetätigkeit sicherzustellen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Meldepflicht",
+      "section": "5",
+      "title": "Meldefrist bei Gefahren für die öffentliche Gesundheit",
+      "content": "Machen meldepflichtige kantonale Behörden nach Artikel 12 Absatz 4 EpG oder Führerinnen und Führer von Schiffen oder von Luftfahrzeugen im internationalen Linien- und Charterverkehr Beobachtungen, die auf eine Gefahr für die öffentliche Gesundheit hinweisen, so melden sie die Beobachtungen unverzüglich."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Inhalt der Meldungen",
+      "section": "6",
+      "title": "Meldungen von klinischen Befunden",
+      "content": "Die Meldung von klinischen Befunden von Ärztinnen und Ärzten, Spitälern und anderen öffentlichen oder privaten Institutionen des Gesundheitswesens beinhaltet je nach Krankheitserreger die folgenden Angaben: a. Diagnose und Manifestation; b. zur Labordiagnostik: Grund der Untersuchung; Datum der Probenentnahme, Untersuchungsmaterial und Methode; c. zum Verlauf: Angaben zu Komplikationen, Hospitalisierung und Todesfällen; d. zur Exposition: Angaben zu Ort, Zeit, Übertragungsweg und Umfeld; e. Impfstatus und Immunstatus; f. Zugehörigkeit zu einer Personengruppe mit erhöhtem Infektionsrisiko; g. Informationen zu Risikoverhalten oder Risikofaktoren; h. getroffene Massnahmen; i. laboranalytischer Befund; j. Informationen zu Häufungen von Beobachtungen oder aussergewöhnliche Beobachtungen; k. zur betroffenen Person: 1. Vorname, Name, Adresse und Telefonnummer, wenn dies für Massnahmen nach den Artikeln 15 sowie 33–38 EpG notwendig ist, sonst nur die Initialen des Vor- und Nachnamens und den Wohnort; falls die Person nicht in der Schweiz wohnhaft ist, den Aufenthaltsort, 2. Geburtsdatum, 3. Geschlecht, 4. Staatsangehörigkeit, 5. berufliche Tätigkeit, 6. Herkunftsland; l. Kontaktdaten der Ärztin oder des Arztes, des Spitals, der Stelle des Spitals nach Artikel 12 Absatz 2 oder der öffentlichen oder privaten Institution des Gesundheitswesens."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Inhalt der Meldungen",
+      "section": "7",
+      "title": "Ergänzungsmeldungen von klinischen Befunden",
+      "content": "1 Die Ergänzungsmeldung von klinischen Befunden von Ärztinnen und Ärzten, Spitälern und anderen öffentlichen oder privaten Institutionen des Gesundheitswesens erfolgt im Hinblick auf Informationen zum Verlauf einer übertragbaren Krankheit und zu den getroffenen Massnahmen. 2 Sie beinhaltet je nach Krankheitserreger die folgenden Angaben: a. Diagnose und Manifestation; b. zum Verlauf: Angaben zu Komplikationen, Hospitalisierung und Todesfällen; c. Behandlungsresultate; d. getroffene Massnahmen; e. zur betroffenen Person: 1. Vorname, Name sowie Adresse und Telefonnummer, wenn dies für Massnahmen nach den Artikeln 15 sowie 33–38 EpG notwendig ist, sonst nur die Initialen des Vor- und Nachnamens und den Wohnort; falls die Person nicht in der Schweiz wohnhaft ist, den Aufenthaltsort, 2. das Geburtsdatum, 3. das Geschlecht; f. Kontaktdaten der Ärztin oder des Arztes, des Spitals, der Stelle des Spitals nach Artikel 12 Absatz 2 oder der öffentlichen oder privaten Institution des Gesundheitswesens."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Inhalt der Meldungen",
+      "section": "8",
+      "title": "Meldungen von laboranalytischen Befunden",
+      "content": "1 Die Meldung von laboranalytischen Befunden von öffentlichen oder privaten Laboratorien beinhaltet je nach Krankheitserreger die folgenden Angaben: a. zum Resultat: Labornachweis mit einer Interpretation und einer Charakterisierung des Krankheitserregers einschliesslich seines Typs oder Subtyps sowie seines Resistenzprofils; b. zur Untersuchung: Untersuchungsmaterial, Datum des Nachweises, Entnahmedatum und Testmethode; c. Todes- und Autopsiedatum; d. Ort der Entnahme bei einer Umweltprobe; e. zur betroffenen Person: 1. Vorname, Name, Adresse und Telefonnummer, wenn dies für Massnahmen nach den Artikeln 15 sowie 33–38 EpG notwendig ist, sonst nur die Initialen des Vor- und Nachnamens und den Wohnort, 2. Geburtsdatum, 3. Geschlecht; f. Kontaktdaten der auftraggebenden Ärztin oder des auftraggebenden Arztes; g. Kontaktdaten des Laboratoriums. 2 Die Laboratorien melden dem BAG periodisch eine Statistik aller Resultate zu meldepflichtigen Beobachtungen. Das Eidgenössische Departement des Innern (EDI) legt den Inhalt der Statistik in Bezug auf die einzelnen Krankheitserreger fest."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Meldungen von epidemiologischen Befunden",
+      "content": "Die Meldung von epidemiologischen Befunden von Ärztinnen und Ärzten, Spitälern und anderen öffentlichen oder privaten Institutionen des Gesundheitswesens beinhaltet je nach Krankheitserreger die folgenden Angaben: a. zu den therapieassoziierten Infektionen: 1. Identifizierung des Krankheitserregers und allfällige Resistenzprofile, 2. Anzahl der Infektionen pro Spitaltag beziehungsweise pro medizinischem Eingriff für jedes Spital über einen bestimmten Zeitraum, 3. Prävalenz der Infektionen an bestimmten Tagen; b. zu den Ausbrüchen therapieassoziierter Infektionen: 1. epidemiologische Merkmale (z. B. Krankheitserreger, Typisierungen), 2. Anzahl der betroffenen Patientinnen und Patienten, 3. wahrscheinlicher Übertragungsweg sowie Angaben zum Übertragungsrisiko, 4. Datum der einzelnen Diagnosen, 5. getroffene Massnahmen, 6. Name und Adresse der betroffenen Einrichtung; c. Kontaktdaten der Ärztin oder des Arztes, des Spitals, der Stelle des Spitals nach Artikel 12 Absatz 2 oder der öffentlichen oder privaten Institution des Gesundheitswesens."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Bearbeitung der Meldungen",
+      "section": "10",
+      "title": "Entgegennahme und Kontrolle der Meldungen",
+      "content": "1 Die Kantonsärztinnen und Kantonsärzte nehmen die Meldungen nach den Artikeln 6–8 entgegen. Sie kontrollieren, ob die Meldungen vollständig sind, und fordern bei Bedarf die nötigen Angaben ein. Für die Armee nimmt die Oberfeldärztin oder der Oberfeldarzt die Meldungen entgegen und kontrolliert sie. 2 Geht nach Eingang der Meldung zu einem laboranalytischen Befund (Art. 8) keine Meldung zu einem klinischen Befund (Art. 6) ein, so fordert die Kantonsärztin oder der Kantonsarzt beziehungsweise die Oberfeldärztin oder der Oberfeldarzt diese ein. Er oder sie fordert zusätzlich die Ergänzungsmeldung zu einem klinischen Befund (Art. 7) ein."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Bearbeitung der Meldungen",
+      "section": "11",
+      "title": "Weiterleitung der Meldungen",
+      "content": "1 Die Kantonsärztinnen und Kantonsärzte leiten die Meldungen innerhalb der Meldefrist an das BAG weiter und informieren bei Bedarf die Kantonsärztinnen und Kantonsärzte anderer Kantone. 2 Sie sorgen in ihrem Kanton für den gegenseitigen Austausch von Beobachtungen mit der Kantonschemikerin oder dem Kantonschemiker, der Kantonstierärztin oder dem Kantonstierarzt, der Kantonsapothekerin oder dem Kantonsapotheker sowie weiteren kantonalen Behörden im Bereich des Bevölkerungsschutzes oder der Rettungsdienste."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Bearbeitung der Meldungen",
+      "section": "12",
+      "title": "Auskünfte zu meldepflichtigen Beobachtungen",
+      "content": "1 Die meldepflichtigen Personen und Institutionen müssen der Kantonsärztin oder dem Kantonsarzt sowie dem BAG auf Anfrage Auskünfte zu meldepflichtigen Beobachtungen geben. 2 Spitäler, andere öffentliche oder private Institutionen des Gesundheitswesens, Flughafenhalter und Betreiber von Hafenanlagen bezeichnen eine für die Erteilung der Auskünfte zuständige Stelle. 3 Das BAG und die Kantonsärztinnen und Kantonsärzte beziehungsweise die Oberfeldärztin oder der Oberfeldarzt stellen den gegenseitigen Informationsaustausch sicher. 4 Das BAG kann die Laboratorien beauftragen, den meldepflichtigen Personen und Institutionen zusammen mit dem Untersuchungsergebnis ein Meldeformular zum klinischen Befund zuzustellen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Bearbeitung der Meldungen",
+      "section": "13",
+      "title": "Information über Massnahmen nach den Artikeln 33–38 und 40 EpG",
+      "content": "1 Die Kantonsärztinnen und Kantonsärzte informieren das BAG bei wichtigen Ereignissen über die Massnahmen nach den Artikeln 33–38 und 40 EpG. Sie überprüfen die Umsetzung der Massnahmen und informieren das BAG. 2 Die betroffenen Ärztinnen und Ärzte, Spitäler, anderen öffentlichen oder privaten Institutionen des Gesundheitswesens, Laboratorien, Flughafenhalter und Betreiber von Hafenanlagen sind verpflichtet den Kantonsärztinnen und Kantonsärzten Auskunft über die Umsetzung der Massnahmen nach den Artikeln 33–38 und 40 EpG zu erteilen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Bearbeitung der Meldungen",
+      "section": "14",
+      "title": "Aufbereitung der Meldedaten",
+      "content": "Das BAG bearbeitet die Daten, die nach den Artikeln 6–9 erhoben werden, stellt der Öffentlichkeit anonymisierte Statistiken elektronisch zur Verfügung und veröffentlicht regelmässig Zusammenstellungen, Analysen und Kommentare."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Epidemiologische Abklärungen und Bearbeitung der Meldedaten",
+      "section": "15",
+      "title": "Aufgaben der Kantonsärztinnen und Kantonsärzte",
+      "content": "1 Die Kantonsärztinnen und Kantonsärzte führen in ihrem Zuständigkeitsbereich epidemiologische Abklärungen durch, insbesondere über die Art, die Ursache, die Ansteckungsquelle und die Ausbreitung einer festgestellten oder vermuteten Krankheit. Sie können dazu das BAG beiziehen. 2 Sie koordinieren ihre Abklärungen bei Bedarf mit der Kantonstierärztin oder dem Kantonstierarzt, der Kantonschemikerin oder dem Kantonschemiker, der Kantonsapothekerin oder dem Kantonsapotheker, mit anderen betroffenen kantonalen Behörden oder Institutionen sowie mit anderen Kantonen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Epidemiologische Abklärungen und Bearbeitung der Meldedaten",
+      "section": "16",
+      "title": "Aufgaben des BAG",
+      "content": "1 Das BAG gewährt den Kantonen auf Anfrage Unterstützung bei epidemiologischen Abklärungen, indem es Folgendes anbietet: a. fachliche Grundlagen wie Stichprobenziehung, Checklisten und weitere Erhebungsinstrumente zur Durchführung von Ausbruchsabklärungen; b. personelle Unterstützung. 2 Es stellt die Koordination mit anderen Bundesstellen, Fachexpertinnen und Fachexperten, ausländischen Behörden sowie mit internationalen Organisationen sicher. 3 Es koordiniert bei Bedarf die kantonsübergreifenden Abklärungen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Epidemiologische Abklärungen und Bearbeitung der Meldedaten",
+      "section": "17",
+      "title": "Epidemiologische Abklärungen durch das BAG",
+      "content": "1 Das BAG kann selber epidemiologische Abklärungen durchführen, insbesondere: a. in einer besonderen Lage im Hinblick auf die Anordnung von Massnahmen nach den Artikeln 33–38 und 40 EpG; b. wenn eine kantonsübergreifende Koordination der Verhütungs- und Bekämpfungsmassnahmen notwendig ist; oder c. wenn Massnahmen im internationalen Personenverkehr notwendig sind. 2 Es informiert die Kantonsärztinnen und Kantonsärzte über seine epidemiologischen Untersuchungen, insbesondere über Resultate und getroffene Massnahmen. 3 Es kann eine Kantonsärztin oder einen Kantonsarzt mit einer epidemiologischen Abklärung beauftragen, soweit eine erhebliche Gefährdung der öffentlichen Gesundheit besteht."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Epidemiologische Abklärungen und Bearbeitung der Meldedaten",
+      "section": "18",
+      "title": "Bearbeitung der Meldedaten",
+      "content": "Das BAG und die zuständigen kantonalen Behörden können die Meldedaten zu den Zwecken nach Artikel 58 Absatz 1 EpG bearbeiten, insbesondere auswerten, aufbereiten oder sie zur Abklärung von Krankheitsausbrüchen verwenden. Sie können die Bearbeitung Dritten übertragen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "6. Abschnitt: Delegationsbestimmungen",
+      "section": "19",
+      "title": "Weiterführende Regelungen durch das EDI",
+      "content": "1 Das EDI legt die einzelnen meldepflichtigen Beobachtungen und für jede Beobachtung den Inhalt der Meldung, die Meldekriterien, die Meldefristen, die Meldewege und die Art der Übermittlung fest. 2 Es regelt, bei welchen Beobachtungen: a. Angaben zur Identifizierung von Personen notwendig sind, damit Massnahmen nach den Artikeln 15 sowie 33–38 EpG angeordnet werden können; b. Proben und Untersuchungsergebnisse an die vom BAG bezeichneten Laboratorien (Art. 23 und 24) gesendet werden müssen; c. sowohl positive als auch negative Untersuchungsergebnisse zu melden sind."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "6. Abschnitt: Delegationsbestimmungen",
+      "section": "20",
+      "title": "Verfügungen des BAG",
+      "content": "Wenn eine besondere Gefährdung der öffentlichen Gesundheit unmittelbar droht oder besteht, kann das BAG verfügen, dass: a. Meldungen Angaben zur Identifizierung von Personen enthalten müssen, damit Massnahmen nach den Artikeln 15 sowie 33–38 EpG angeordnet werden können; b. ausgewählte meldepflichtige Ärztinnen und Ärzte, Spitäler und andere öffentliche oder private Institutionen des Gesundheitswesens und Laboratorien bestimmte Angaben melden müssen; c. Proben und Untersuchungsergebnisse an die vom BAG bezeichneten Laboratorien (Art. 23 und 24) gesendet werden müssen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "7. Abschnitt: Meldungen zur epidemiologischen Überwachung und zu Forschungszwecken",
+      "section": "21",
+      "title": "Auswertung",
+      "content": "1 Das BAG erfasst Meldungen zur epidemiologischen Überwachung und zu Forschungszwecken, die ihm aufgrund einer Vereinbarung mit Ärztinnen oder Ärzten, Laboratorien, Spitälern oder anderen öffentlichen oder privaten Institutionen des Gesundheitswesens zugestellt wurden, und wertet sie aus. 2 Es legt in der Vereinbarung fest, wie die den Meldungen zugrunde liegenden Beobachtungen zu erfassen sind. Zu diesem Zweck kann es eine Programmkommission einsetzen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "7. Abschnitt: Meldungen zur epidemiologischen Überwachung und zu Forschungszwecken",
+      "section": "22",
+      "title": "Veröffentlichung der Resultate",
+      "content": "Das BAG stellt die Resultate der Auswertung den teilnehmenden Personen und Institutionen sowie den Kantonsärztinnen und Kantonsärzten zur Verfügung und veröffentlicht sie nach Bedarf."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "8. Abschnitt: Laboratorien",
+      "section": "23",
+      "title": "Aufgaben der nationalen Referenzzentren",
+      "content": "1 Die vom BAG bezeichneten nationalen Referenzzentren haben insbesondere die folgenden Aufgaben: a. Referenzdiagnostik inklusive der Charakterisierung der Krankheitserreger oder ihrer Wirkung; b. Verwaltung einer Referenzsammlung oder Sicherstellung des Zugangs zu einer solchen Sammlung; c. Methodenentwicklung und Forschung; d. Beratung und Schulung von Behörden und Fachpersonen; e. internationale Zusammenarbeit und Vernetzung; f. Unterstützung des BAG bei der Erkennung und der Überwachung übertragbarer Krankheiten. 2 Bei Bedarf können die nationalen Referenzzentren zusätzlich insbesondere mit den folgenden Aufgaben betraut werden: a. Unterstützung des BAG und der Kantone bei epidemiologischen Abklärungen; b. Umsetzung spezifischer Diagnostikkonzepte des Bundes; c. Unterstützung des Massnahmenvollzugs; d. Bereitstellung von Material, das der Entnahme und dem Versand von Proben dient; e. Methodentransfer an andere Laboratorien; f. Sicherstellung der Primärdiagnostik bei ungenügendem Marktangebot."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "8. Abschnitt: Laboratorien",
+      "section": "24",
+      "title": "Übertragung von Aufgaben an die nationalen Bestätigungslaboratorien",
+      "content": "Das BAG kann die nationalen Bestätigungslaboratorien mit einzelnen Aufgaben nach Artikel 23 betrauen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "1. Abschnitt: Verhütungsmassnahmen",
+      "section": "25",
+      "title": "Verhütung der Creutzfeldt-Jakob-Krankheit bei chirurgischen und medizinischen Eingriffen",
+      "content": "1 Zur Verringerung des Übertragungsrisikos aller Formen der Creutzfeldt-Jakob-Krankheit müssen Spitäler und Kliniken wiederverwendbare invasive Medizinprodukte, die in sterilem Zustand zu verwenden sind, insbesondere chirurgische Instrumente, vor jeder Anwendung: a. nach dem Stand der Wissenschaft und unter Berücksichtigung der Angaben des Herstellers dekontaminieren und desinfizieren; und b. bei 134°C im gesättigten gespannten Wasserdampf 18 Minuten lang sterilisieren. 2 Medizinprodukte, die gemäss den Angaben des Herstellers durch das Sterilisationsverfahren Schaden nehmen, dürfen nicht wiederverwendet werden, wenn sie durch vergleichbare Medizinprodukte ersetzt werden können, die dem Verfahren standhalten. 3 Andere Gesundheitseinrichtungen als Spitäler und Kliniken, insbesondere Arztpraxen, müssen Medizinprodukte, die für neurochirurgische, ophthalmologische, otorhinolaryngologische oder kieferchirurgische Eingriffe verwendet wurden, nach den Absätzen 1 und 2 behandeln."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "1. Abschnitt: Verhütungsmassnahmen",
+      "section": "26",
+      "title": "Verbot der Transplantation von Dura mater",
+      "content": "Die heterologe Transplantation von menschlicher Dura mater ist verboten."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "1. Abschnitt: Verhütungsmassnahmen",
+      "section": "27",
+      "title": "Bereitstellung von Informations- und Präventionsmaterial durch Betriebe und Veranstalter",
+      "content": "Wer einen Betrieb führt, in dem sexuelle Dienstleistungen gegen Entgelt angeboten werden, oder wer Veranstaltungen durchführt, bei denen sexuelle Kontakte angeboten oder ermöglicht werden, muss zur Verhütung von HIV/Aids und anderen sexuell übertragbaren Krankheiten Folgendes kostenlos bereitstellen: a. geeignetes Informationsmaterial; und b. Präservative und wasserlösliche Gleitmittel."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "1. Abschnitt: Verhütungsmassnahmen",
+      "section": "28",
+      "title": "Verhütungsmassnahmen in Schulen und Kindertagesstätten",
+      "content": "1 Die Schulbehörden sorgen dafür, dass die gesetzliche Vertretung beim Eintritt des Kindes in den Kindergarten oder in die Schule über Masern, die Masernimpfung und die Massnahmen, die die kantonalen Behörden bei Masernausbrüchen ergreifen können, informiert ist. 2 Absatz 1 gilt sinngemäss für Kindertagesstätten. 3 Die Schulbehörden und Kindertagesstätten sorgen dafür, dass die gesetzliche Vertretung bei Krankheitsausbrüchen mit ähnlich gravierenden Auswirkungen wie bei Masern Informationen nach Absatz 1 erhält."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "1. Abschnitt: Verhütungsmassnahmen",
+      "section": "29",
+      "title": "Verhütungsmassnahmen in Institutionen des Gesundheitswesens",
+      "content": "Institutionen des Gesundheitswesens, insbesondere Spitäler, Heime und Arztpraxen, müssen folgende Verhütungsmassnahmen treffen: a. Sie informieren die Angestellten und die Personen, die in diesen Betrieben tätig sind, über die Verhütung von therapieassoziierten Infektionen und Antibiotikaresistenzen sowie die innerhalb der Institution getroffenen Massnahmen. b. Sie informieren Personen, die mit Patientinnen und Patienten innerhalb der Institution in Kontakt kommen, über die Verhütung von therapieassoziierten Infektionen und Antibiotikaresistenzen. c. Sie stellen geeignetes Präventions- und Informationsmaterial zur Verhütung von therapieassoziierten Infektionen und Antibiotikaresistenzen bereit. d. Sie treffen die notwendigen organisatorischen Massnahmen, um das Risiko von Krankheitsübertragungen zu verringern."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "1. Abschnitt: Verhütungsmassnahmen",
+      "section": "30",
+      "title": "Verhütungsmassnahmen in Institutionen des Freiheitsentzugs",
+      "content": "1 Institutionen des Freiheitsentzugs müssen allen Personen in ihrer Obhut den Zugang zu geeigneten Verhütungsmassnahmen gewährleisten. Die Durchführung der Massnahmen richtet sich nach den bestehenden Infektions- und Übertragungsrisiken. Die epidemiologische Lage, der Gesundheitszustand und das Risikoverhalten der betroffenen Personen sowie die Aufenthaltsdauer und die Haftbedingungen sind angemessen zu berücksichtigen. 2 Die Institutionen des Freiheitsentzugs sorgen insbesondere dafür, dass die Personen in ihrer Obhut: a. nach dem Eintritt in die Institution innert nützlicher Frist, wenn möglich durch medizinisches Fachpersonal, zu Expositionsrisiken und möglichen Symptomen von Infektionskrankheiten, insbesondere von HIV/Aids, von anderen sexuell oder durch Blut übertragbaren Krankheiten sowie von Tuberkulose, befragt werden und dass ihnen bei Bedarf eine medizinische Untersuchung angeboten wird; b. nach dem Eintritt in die Institution innert nützlicher Frist in einer ihnen verständlichen Sprache über Infektionskrankheiten und ihre möglichen Symptome, insbesondere über HIV/Aids, über andere sexuell oder durch Blut übertragbare Krankheiten und über Tuberkulose, informiert werden; c. bedarfs- und situationsgerecht Zugang zu geeigneten Mitteln und Therapien zur Verhütung von sexuell oder durch Blut übertragbaren Krankheiten erhalten, insbesondere zu Präservativen, sterilem Injektionsmaterial und zu einer betäubungsmittelgestützten Behandlung; d. Zugang zu einer geeigneten medizinischen Versorgung und zu Impfungen nach dem nationalen Impfplan erhalten."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "",
+      "content": "1 Die Betreiber von Zentren des Bundes und von kantonalen Kollektivunterkünften für Asylsuchende müssen allen Personen in ihrer Obhut den Zugang zu geeigneten Verhütungsmassnahmen gewährleisten. Die Durchführung der Massnahmen richtet sich nach den bestehenden Infektions- und Übertragungsrisiken. 2 Die Betreiber von Zentren des Bundes und kantonalen Kollektivunterkünften für Asylsuchende sorgen insbesondere dafür, dass die Personen in ihrer Obhut: a. nach dem Eintritt in die Unterkunft innert nützlicher Frist in einer ihnen verständlichen Sprache über Infektionskrankheiten und ihre möglichen Symptome, insbesondere über HIV/Aids, über andere sexuell oder durch Blut übertragbaren Krankheiten und über Tuberkulose, sowie über den Zugang zur medizinischen Versorgung informiert werden; b. die geeigneten Mittel zur Verhütung von sexuell oder durch Blut übertragbaren Krankheiten, insbesondere Präservative, erhalten; c. Zugang zu einer geeigneten medizinischen Versorgung und zu Impfungen nach dem nationalen Impfplan unter Berücksichtigung der spezifischen Empfehlungen des BAG für Asylsuchende erhalten. 3 Bund und Kantone koordinieren die Umsetzung der Massnahmen nach Absatz 2. Das BAG legt unter Einbezug des Staatssekretariats für Migration (SEM) und der zuständigen kantonalen Behörden die fachlichen und administrativen Abläufe fest und überprüft periodisch die Wirksamkeit der Verhütungsmassnahmen. 4 Das BAG erlässt nach Absprache mit dem SEM Empfehlungen zu den Verhütungsmassnahmen in den Zentren des Bundes sowie in den kantonalen Kollektivunterkünften für Asylsuchende. Es stellt das nötige Informationsmaterial bereit. Fassung gemäss Ziff. III 2 der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ( AS 2018 2857 ). Fassung gemäss Ziff. III 2 der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ( AS 2018 2857 ). Fassung gemäss Ziff. III 2 der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ( AS 2018 2857 ). Fassung gemäss Ziff. III 2 der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ( AS 2018 2857 )."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "2. Abschnitt: Impfungen",
+      "section": "32",
+      "title": "Nationaler Impfplan",
+      "content": "1 Der nationale Impfplan enthält Impfempfehlungen zum Schutz der Gesamtbevölkerung, bestimmter Personengruppen mit einem erhöhten Infektions-, Übertragungs- oder Komplikationsrisiko sowie zum Schutz einzelner Personen. 2 Die Impfempfehlungen des nationalen Impfplans: a. beschreiben die Impfungen und Impfschemas und enthalten Informationen zum für die Durchführung der Impfung geeigneten Alter, zur Anzahl Impfdosen, zu den Zeitintervallen der Impfungen sowie zu Nachholimpfungen; b. sind in verschiedene Kategorien von Impfungen unterteilt, namentlich: 1. empfohlene Basisimpfungen, die dem Schutz der individuellen und öffentlichen Gesundheit dienen, 2. empfohlene ergänzende Impfungen, die einen individuellen Schutz gegen definierte Gesundheitsrisiken bieten, 3. empfohlene Impfungen für Risikogruppen, für welche die Impfung als nutzbringend eingestuft wird. 3 Der nationale Impfplan wird regelmässig an neue wissenschaftliche Erkenntnisse und Anforderungen der öffentlichen Gesundheit angepasst. 4 Er wird einmal jährlich vom BAG publiziert."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "2. Abschnitt: Impfungen",
+      "section": "33",
+      "title": "Aufgaben von Ärztinnen und Ärzten",
+      "content": "1 Ärztinnen und Ärzte wirken im Rahmen ihrer Tätigkeit an der Umsetzung des nationalen Impfplans mit. 2 Sie nehmen folgende Aufgaben wahr: a. Sie informieren basierend auf dem Impfstatus die von den Impfempfehlungen betroffenen Personen beziehungsweise die gesetzliche Vertretung über den nationalen Impfplan sowie über die Übertragungs- und Krankheitsrisiken für Personen, die nicht geimpft sind. b. Sie stellen die offiziellen Informationsmittel des Bundes oder der Kantone den von den Impfempfehlungen betroffenen Personen beziehungsweise der gesetzlichen Vertretung zur Verfügung."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "2. Abschnitt: Impfungen",
+      "section": "34",
+      "title": "Aufgaben von Apothekerinnen und Apothekern und weiteren Gesundheitsfachpersonen",
+      "content": "1 Apothekerinnen und Apotheker, Pflegefachpersonen, Hebammen, Entbindungspfleger sowie medizinisches Hilfspersonal tragen im Rahmen ihrer Tätigkeit zur Umsetzung des nationalen Impfplans bei. 2 Sie informieren die von den Impfempfehlungen betroffenen Personen beziehungsweise die gesetzliche Vertretung über den nationalen Impfplan oder verweisen sie an eine Ärztin oder einen Arzt."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "2. Abschnitt: Impfungen",
+      "section": "35",
+      "title": "Informationspflicht der Kantone",
+      "content": "Die zuständigen kantonalen Behörden informieren insbesondere folgende Personen und Institutionen, die in ihrem Kantonsgebiet tätig oder ansässig sind, über den nationalen Impfplan: a. Ärztinnen und Ärzte; b. Apothekerinnen und Apotheker, Pflegefachpersonen, Hebammen und Entbindungspfleger sowie das medizinische Hilfspersonal; c. die Ausbildungsinstitutionen im Bereich der Gesundheit; d. Institutionen, die Personen mit einem erhöhten Risiko für eine Komplikation, eine invasive Infektion, eine Exposition oder eine Übertragung betreuen."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "2. Abschnitt: Impfungen",
+      "section": "36",
+      "title": "Überprüfung des Impfstatus von Kindern und Jugendlichen",
+      "content": "1 Die zuständigen kantonalen Behörden überprüfen den Impfstatus von Kindern und Jugendlichen mindestens zweimal, zu Beginn und gegen Ende der obligatorischen Schulzeit. 2 Sie empfehlen der gesetzlichen Vertretung von unvollständig geimpften Kindern die Impfung nach dem nationalen Impfplan. Im Falle von unvollständig geimpften Jugendlichen richten sie die Empfehlung an die betroffene Person oder an die gesetzliche Vertretung. 3 Sie verweisen diejenigen Personen, die sich für eine Impfung entscheiden beziehungsweise deren gesetzliche Vertretung eine solche verlangt, an eine geeignete Impfstelle oder bieten bei Bedarf die Impfung selber an. Sie stellen sicher, dass die Impfung mit allen vorgesehenen Dosen nach dem nationalen Impfplan erfolgen kann."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Massenimpfungen",
+      "content": "Die Kantone stellen sicher, dass bei Bedarf Massenimpfungen durchgeführt werden können. Sie stellen die dazu notwendige Infrastruktur bereit."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Obligatorische Impfungen",
+      "content": "1 Zur Feststellung, ob eine erhebliche Gefahr besteht (Art. 22 EpG), beurteilen die zuständigen kantonalen Behörden folgende Faktoren: a. Schweregrad einer möglichen Erkrankung sowie das Risiko einer Weiterverbreitung der Krankheit; b. Gefährdung besonders verletzbarer Personen; c. epidemiologische Situation auf kantonaler, nationaler und internationaler Ebene unter Einbezug des BAG; d. zu erwartende Wirksamkeit eines allfälligen Impfobligatoriums; e. Eignung und Wirksamkeit anderer Massnahmen zur Eindämmung der Gesundheitsgefahr. 2 Ein Impfobligatorium für Personen, die bestimmte Tätigkeiten ausüben, insbesondere in Gesundheitseinrichtungen, ist auf diejenigen Bereiche zu beschränken, in welchen das Risiko einer Weiterverbreitung der Krankheit erhöht ist oder in welchen besonders verletzbare Personen gefährdet sind. 3 Ein Impfobligatorium muss zeitlich befristet sein. Die Impfung darf nicht mittels physischem Zwang erfolgen."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Überwachung und Evaluation der Impfmassnahmen",
+      "content": "Das BAG nimmt bei der Überprüfung der Zweckmässigkeit und Wirksamkeit der Impfmassnahmen folgende Aufgaben wahr: a. Es legt die Indikatoren zur Überprüfung der Massnahmen zur Förderung von Impfungen fest. b. Es erhebt unter Berücksichtigung der Indikatoren regelmässig Daten zu den kantonalen Massnahmen in Bezug auf die Erreichung der festgelegten Ziele. c. Es koordiniert kantonale Erhebungen zur Feststellung des Anteils geimpfter Personen."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Kantonale Erhebungen zur Feststellung des Anteils geimpfter Personen",
+      "content": "Das BAG legt zur Feststellung des Anteils geimpfter Personen nach Absprache mit den Kantonen Folgendes fest: a. zu erhebende Impfungen; b. Altersgruppen, in denen die Anteile der geimpften Personen erhoben werden; c. zu verwendende Methodik; d. zu erhebende repräsentative Stichproben; e. Häufigkeit der Erhebungen."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "3. Abschnitt: Bewilligungspflicht für die Gelbfieberimpfung",
+      "section": "41",
+      "title": "Bewilligungspflicht",
+      "content": "Ärztinnen und Ärzte, die Impfungen gegen Gelbfieber durchführen, brauchen dazu eine Bewilligung des BAG."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "3. Abschnitt: Bewilligungspflicht für die Gelbfieberimpfung",
+      "section": "42",
+      "title": "Bewilligungsvoraussetzungen",
+      "content": "Die Bewilligung erhält, wer: a. über ein eidgenössisches oder ein anerkanntes ausländisches Diplom als Ärztin oder Arzt nach dem Medizinalberufegesetz vom 23. Juni 2006 (MedBG) verfügt; und b. über einen eidgenössischen oder einen anerkannten ausländischen Weiterbildungstitel in Tropen- und Reisemedizin nach dem MedBG verfügt. SR 811.11"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "3. Abschnitt: Bewilligungspflicht für die Gelbfieberimpfung",
+      "section": "43",
+      "title": "Ausnahme",
+      "content": "Das BAG kann zur Sicherstellung einer ausreichenden regionalen Verfügbarkeit der Impfung gegen Gelbfieber eine Bewilligung auch an Ärztinnen und Ärzte erteilen, die: a. über eine mindestens dreimonatige Ausbildung in Tropenmedizin und ein entsprechendes Diplom verfügen; b. über mindestens ein Jahr Berufserfahrung in einem von der Schweizerischen Fachgesellschaft für Tropen- und Reisemedizin FMH anerkannten Dienst, davon mindestens sechs Monate in einer Impfstelle für Reisende, verfügen; und c. die regelmässige Teilnahme an Fortbildungen in Tropen- und Reisemedizin, die von der Schweizerischen Fachgesellschaft für Tropen- und Reisemedizin FMH anerkannt sind, nachweisen können."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "3. Abschnitt: Bewilligungspflicht für die Gelbfieberimpfung",
+      "section": "44",
+      "title": "Gesuch um Erteilung oder Erneuerung der Bewilligung",
+      "content": "1 Das Gesuch um Erteilung oder Erneuerung der Bewilligung ist dem BAG einzureichen. 2 Das Gesuch muss die Angaben über die Qualifikation nach Artikel 42 oder 43 enthalten. 3 Das BAG leitet das Gesuch zur Stellungnahme an die zuständige Kantonsärztin oder den zuständigen Kantonsarzt weiter. 4 Es informiert den Kanton über den Bewilligungsentscheid."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "3. Abschnitt: Bewilligungspflicht für die Gelbfieberimpfung",
+      "section": "45",
+      "title": "Geltungsdauer der Bewilligung",
+      "content": "1 Die Bewilligung ist vier Jahre gültig. 2 Sie kann auf Antrag erneuert werden. Das Gesuch um Erneuerung der Bewilligung ist spätestens sechs Monate vor deren Ablauf dem BAG einzureichen. Es muss die Angaben nach Artikel 42 oder 43 enthalten oder bestätigen."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "3. Abschnitt: Bewilligungspflicht für die Gelbfieberimpfung",
+      "section": "46",
+      "title": "Sachlicher Umfang der Bewilligung",
+      "content": "Die Inhaberin oder der Inhaber der Bewilligung ist berechtigt, Impfungen gegen Gelbfieber nach Anlage 7 der Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005 (IGV) durchzuführen. SR 0.818.103"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "3. Abschnitt: Bewilligungspflicht für die Gelbfieberimpfung",
+      "section": "47",
+      "title": "Pflichten der Inhaberin oder des Inhabers der Bewilligung",
+      "content": "1 Die Inhaberin oder der Inhaber der Bewilligung zur Durchführung einer Gelbfieberimpfung ist verpflichtet: a. die internationale Impfbescheinigung nach dem Muster der Anlage 6 IGV auszustellen, zu unterschreiben und mit dem amtlichen Stempel zu versehen; b. jede Adressänderung und jede Änderung der Tätigkeit dem BAG zu melden. 2 Das BAG informiert die zuständige Kantonsärztin oder den zuständigen Kantonsarzt über die Adressänderungen und die Änderungen der Tätigkeit. SR 0.818.103"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Information der Öffentlichkeit",
+      "content": "Das BAG veröffentlicht die Liste der Ärztinnen und Ärzte, die über eine Bewilligung zur Durchführung einer Gelbfieberimpfung verfügen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "1. Abschnitt: Massnahmen im internationalen Personenverkehr",
+      "section": "49",
+      "title": "Kontaktkarten",
+      "content": "Die Kontaktdaten und die Reiseroute, die bei der Einreise anzugeben sind, sind auf einer Kontaktkarte anzugeben. Diese umfasst folgende Angaben: a. Vorname, Name und Geburtsdatum; b. Adresse, Telefonnummer und E-Mail-Adresse; c. Adressen und Telefonnummern während des Aufenthalts in der Schweiz beziehungsweise während der weiteren Reise; d. Informationen zur bisherigen und zur weiteren Reise, insbesondere die Reisedaten, die Reiseroute, die Aufenthaltsorte und die Transitflughäfen; e. bei Flugreisen Flug- und Sitznummer."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "1. Abschnitt: Massnahmen im internationalen Personenverkehr",
+      "section": "50",
+      "title": "Impf- oder Prophylaxebescheinigung",
+      "content": "Für die Impf- oder Prophylaxebescheinigung ist das Muster nach Anlage 6 IGV zu verwenden. SR 0.818.103"
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "1. Abschnitt: Massnahmen im internationalen Personenverkehr",
+      "section": "51",
+      "title": "Fragebogen zum Gesundheitszustand",
+      "content": "Der Gesundheitszustand wird mit einem Fragebogen erhoben. Dieser umfasst folgende Angaben: a. Vorname, Name und Geburtsdatum; b. Adresse, Telefonnummer und E-Mail-Adresse; c. Adresse und Telefonnummer während des Aufenthalts in der Schweiz beziehungsweise während der weiteren Reise; d. Informationen zur bisherigen und zur weiteren Reise, insbesondere die Reisedaten, die Reiseroute, die Aufenthaltsorte und die Transitflughäfen; e. bei Flugreisen die Flug- und die Sitznummer; f. mögliche für eine Infektionskrankheit typische Symptome; g. eine mögliche Exposition, die zu einer Ansteckung geführt haben könnte."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "1. Abschnitt: Massnahmen im internationalen Personenverkehr",
+      "section": "52",
+      "title": "Nachweis einer ärztlichen Untersuchung",
+      "content": "1 Mit dem Nachweis der ärztlichen Untersuchung werden folgende Angaben erhoben: a. Vorname, Name und Geburtsdatum; b. Adresse, Telefonnummer und E-Mail-Adresse; c. Datum der ärztlichen Untersuchung; d. Kontaktdaten und Unterschrift der ausstellenden Ärztin oder des ausstellenden Arztes; e. Ergebnis der ärztlichen Untersuchung. 2 Der Nachweis ist in einer Amtssprache des Bundes oder in Englisch vorzulegen."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "1. Abschnitt: Massnahmen im internationalen Personenverkehr",
+      "section": "53",
+      "title": "Ärztliche Untersuchung",
+      "content": "Die ärztliche Untersuchung ist nicht-invasiv. Sie umfasst insbesondere: a. eine Temperaturmessung; b. eine Sichtdiagnose; c. eine oberflächliche Hautuntersuchung; d. einen Rachenabstrich."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "1. Abschnitt: Massnahmen im internationalen Personenverkehr",
+      "section": "54",
+      "title": "Amtsverordnung",
+      "content": "Das BAG kann die Massnahmen nach Artikel 41 Absatz 2 EpG verfügen oder in einer Amtsverordnung festlegen."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "1. Abschnitt: Massnahmen im internationalen Personenverkehr",
+      "section": "55",
+      "title": "Betriebliche Vorbereitung der Schweizerischen Rheinhäfen",
+      "content": "Die Schweizerischen Rheinhäfen sind verpflichtet, die notwendigen betrieblichen und personellen Kapazitäten zur Durchführung der Massnahmen nach Artikel 41 EpG bereitzustellen. Die Vorbereitungsmassnahmen erfolgen im Rahmen der betrieblichen Möglichkeiten."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Betriebliche Vorbereitung der Flughafenhalter",
+      "content": "1 Die Halter von Flughäfen mit internationalem Linien- und Charterverkehr sind verpflichtet, die notwendigen betrieblichen und personellen Kapazitäten zur Durchführung der Massnahmen nach Artikel 41 EpG bereitzustellen. Die Vorbereitungsmassnahmen erfolgen im Rahmen der betrieblichen Möglichkeiten. 2 Die in Anlage 1 B IGV aufgeführten Kapazitäten sind von den Landesflughäfen Zürich und Genf bereitzustellen. SR 0.818.103"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Flughafennetzwerk",
+      "content": "1 Das BAG betreibt zur Verhinderung der Verbreitung übertragbarer Krankheiten an den Flughäfen mit internationalem Linien- und Charterverkehr in Zusammenarbeit mit den betroffenen Kreisen ein Flughafennetzwerk. Es koordiniert die Massnahmen. 2 Zum Flughafennetzwerk gehören insbesondere Vertreterinnen und Vertreter: a. von Flughäfen mit internationalem Linien- und Charterverkehr; b. von Organisationen oder Unternehmen, die für den internationalen Flugverkehr wichtig sind; c. des BAG und des Bundesamtes für Zivilluftfahrt. 3 Das Flughafennetzwerk erarbeitet für Flughäfen mit internationalem Linien- und Charterverkehr Leitlinien für die Erstellung von Notfallplänen."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Flughafengrenzärztin oder Flughafengrenzarzt",
+      "content": "1 Das BAG setzt an Flughäfen mit internationalem Linien- und Charterverkehr eine Flughafengrenzärztin oder einen Flughafengrenzarzt ein. 2 Die Flughafengrenzärztin oder der Flughafengrenzarzt ist zuständig für die Entgegennahme der Meldungen zu Beobachtungen, die auf eine Gefahr für die öffentliche Gesundheit hinweisen (Art. 12 Abs. 5 EpG), die Weiterleitung dieser Meldungen an das BAG sowie die Umsetzung der vom BAG angeordneten Massnahmen. 3 Sie oder er ordnet im Einzelfall bei ein- oder ausreisenden Personen, die krank, krankheitsverdächtig, angesteckt oder ansteckungsverdächtig sind oder Krankheitserreger ausscheiden, die notwendigen Massnahmen nach Artikel 41 Absätze 2–4 EpG an oder stellt den Transport in ein Spital oder eine andere geeignete Institution sicher. 4 Sie oder er koordiniert die Massnahmen mit den zuständigen Diensten des Flughafens und mit der zuständigen Kantonsärztin oder dem zuständigen Kantonsarzt."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Mitwirkungspflichten",
+      "content": "1 Das BAG kann die Unternehmen, die im Eisenbahn-, Bus-, Schiffs- oder Flugverkehr grenzüberschreitend Personen befördern, die Flughafenhalter, die Betreiber von Hafenanlagen, Bahnhöfen und Busstationen und die Reiseveranstalter verpflichten, ein- oder ausreisende Personen über die Massnahmen zur Verhütung und Bekämpfung von übertragbaren Krankheiten zu informieren. 2 Es kann die Unternehmen, die im Eisenbahn-, Bus-, Schiffs- oder Flugverkehr grenzüberschreitend Personen befördern, und die Flughafenhalter verpflichten, Kontaktkarten oder Fragebogen zum Gesundheitszustand zu verteilen, die ausgefüllten Dokumente wieder einzusammeln und sie an die vom BAG bezeichnete Stelle weiterzuleiten. 3 Es kann von den Unternehmen, die im Eisenbahn-, Bus-, Schiffs- oder Flugverkehr grenzüberschreitend Personen befördern, und von den Reiseveranstaltern die Herausgabe von Passagierlisten verlangen. 4 Es kann die Flughafenhalter und die Betreiber von Hafenanlagen verpflichten: a. für die Durchführung von ärztlichen Untersuchungen ein- oder ausreisender Personen die geeignete Infrastruktur zur Verfügung zu stellen sowie die notwendigen organisatorischen Vorkehrungen zu treffen; b. den Transport von Personen in ein Spital oder in eine andere geeignete Institution zu organisieren."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "2. Abschnitt: Heilmittel",
+      "section": "60",
+      "title": "Versorgung mit Heilmitteln",
+      "content": "Der Bundesrat stellt die Verfügbarkeit insbesondere folgender Heilmittel sicher: a. Impfstoff gegen pandemische Influenza; b. Pockenimpfstoff; c. Diphtherie-Antitoxin; d. Botulismus-Antitoxin; e. Tollwut-Immunoglobulin."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "2. Abschnitt: Heilmittel",
+      "section": "61",
+      "title": "Zuteilung der Heilmittel",
+      "content": "1 Bei einer besonderen Gefährdung der öffentlichen Gesundheit und einer beschränkten Verfügbarkeit der Heilmittel nach Artikel 60 kann das EDI deren Zuteilung mit einer Prioritätenliste regeln. 2 Die Prioritätenliste wird aufgrund von anerkannten medizinischen und ethischen Kriterien in Zusammenarbeit mit den Kantonen erstellt. Gesamtwirtschaftliche und gesellschaftliche Anliegen sind angemessen zu berücksichtigen. 3 Insbesondere folgende Personen können prioritär berücksichtigt werden: a. Medizinalpersonen oder Pflegefachpersonen; b. Personen, für die eine Erkrankung mit der Gefahr eines schweren Krankheitsverlaufs oder einem erhöhten Komplikationsrisiko verbunden ist; c. Personen, die im Bereich der Bereitstellung von öffentlichen Gütern, der Gesundheit, der inneren oder äusseren Sicherheit, des Transports, der Kommunikation oder der Versorgung mit Energie, Trinkwasser oder Nahrungsmitteln tätig sind."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "2. Abschnitt: Heilmittel",
+      "section": "62",
+      "title": "Festlegung der Anteile",
+      "content": "1 Das BAG legt in Zusammenarbeit mit den Kantonen den Anteil der Heilmittel nach Artikel 60 fest, der jedem Kanton zugeteilt wird. 2 Es berücksichtigt dabei die Bedrohungslage und den tatsächlichen Bedarf der Kantone."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "2. Abschnitt: Heilmittel",
+      "section": "63",
+      "title": "Transport und Verteilung der Heilmittel",
+      "content": "1 Die Armeeapotheke sorgt für die Lieferung der Heilmittel nach Artikel 60 an die Kantone. 2 Die Kantone bezeichnen kantonale Anlieferstellen und melden diese dem Bund. 3 Sie sorgen für die rechtzeitige Weiterverteilung der angelieferten Heilmittel."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "2. Abschnitt: Heilmittel",
+      "section": "64",
+      "title": "Kosten für den Transport und die Verteilung der Heilmittel",
+      "content": "1 Der Bund trägt die Kosten für die Lieferung der Heilmittel nach Artikel 60 an die Kantone. 2 Die Kantone tragen die Kosten für die Weiterverteilung innerhalb des Kantons."
+    },
+    {
+      "provision_ref": "art64a",
+      "chapter": "2. Abschnitt: Heilmittel",
+      "section": "64a",
+      "title": "a Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker",
+      "content": "1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei folgenden Personen durchgeführt werden: a. Personen, die nach Artikel 3 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) versichert sind; b. Personen, die nach dem Militärversicherungsgesetz vom 19. Juni 1992 (MVG) gegen Krankheit versichert sind; c. Personen, die weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind, die aber einer der folgenden Personenkategorien angehören: 1. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben, 2. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind. 2 Die Apothekerinnen und Apotheker müssen: a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm FPH Impfen und Blutentnahme vom 1. Dezember 2011 verfügen; b. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sein; und c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen. 3 Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von 29 Franken. 4 Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst: a. die Verabreichung der Impfung; b. die Überprüfung des Impfstatus und die Impfanamnese; c. die Überprüfung von Kontraindikationen; d. die Dokumentation; e. die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats. 5 Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen. Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ( AS 2021 53 ). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ( AS 2022 835 ). SR 832.10 SR 833.1 Abrufbar unter: www.fphch.org/impfen-und-blutentnahme"
+    },
+    {
+      "provision_ref": "art64b",
+      "section": "64b",
+      "title": "b Verfahren zur Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker",
+      "content": "1 Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Sammelrechnung für die von ihnen in den vergangenen zwei beziehungsweise drei Monaten durchgeführten Impfungen nach Artikel 64 a Absatz 1. Die Rechnung muss enthalten: a. die Anzahl der im Rechnungszeitraum durchgeführten Impfungen; b. die Impfpauschale pro durchgeführte Impfung; c. den Gesamtbetrag für alle durchgeführten Impfungen. 2 Die Rechnung darf nur Leistungen im Zusammenhang mit den Impfungen beinhalten. Die Übermittlung erfolgt elektronisch. 3 Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton verteilten Impfdosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung nach Artikel 18 KVG (gemeinsame Einrichtung). 4 Die gemeinsame Einrichtung stellt dem BAG für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung zu allen von den Kantonen eingegangenen Rechnungen für Impfungen nach Artikel 64 a Absatz 1 zu. Das BAG bezahlt der gemeinsamen Einrichtung den Rechnungsbetrag innerhalb von 10 Arbeitstagen nach der Zustellung der Rechnung. 5 Die gemeinsame Einrichtung bezahlt den Apothekerinnen und Apothekern innerhalb von 5 Arbeitstagen nach Eingang der Zahlung des BAG pro durchgeführte Impfung die Pauschale nach Artikel 64 a Absatz 3. 6 Sie stellt dem BAG quartalsweise ihre Verwaltungskosten nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet. Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ( AS 2021 53 ). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ( AS 2022 835 ). SR 832.10"
+    },
+    {
+      "provision_ref": "art64c",
+      "section": "64c",
+      "title": "c Übernahme der Kosten von Covid-19-Impfungen bei Personen ohne Krankenversicherung nach dem KVG oder nach dem MVG",
+      "content": "1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die bei den folgenden Personen durchgeführt werden: a. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben; b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind. 2 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1 weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind. 3 Er übernimmt die Kosten nur, wenn die Leistungserbringer: a. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sind; und b. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen. 4 Er übernimmt für jede Impfung nach Absatz 1 eine der folgenden Pauschalen: a. 20 Franken für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen; b. 29 Franken für Impfungen in Arztpraxen; c. Fr. 40.45 für Impfungen in Arztpraxen bei Kindern bis zum vollendeten 11. Altersjahr. 5 Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst: a. die Verabreichung der Impfung; b. die Überprüfung des Impfstatus und die Impfanamnese; c. die Überprüfung von Kontraindikationen; d. die Dokumentation; e. die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats. 6 Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen. 7 Für das Verfahren zur Übernahme der Kosten gilt Artikel 64 b sinngemäss. Eingefügt durch Ziff. I der V vom 3. Febr. 2021 ( AS 2021 66 ). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ( AS 2022 835 ). SR 832.10 SR 833.1"
+    },
+    {
+      "provision_ref": "art64d",
+      "section": "64d",
+      "title": "d Übernahme der Kosten von Covid-19-Impfungen zum indirekten Schutz besonders gefährdeter Personen",
+      "content": "1 Der Bund übernimmt die Kosten von Covid-19-Impfungen, einschliesslich Auffrischimpfungen, von Personen, die selber nicht besonders gefährdet sind, deren Impfung aber dem indirekten Schutz besonders gefährdeter Personen dient. 2 Artikel 64 c Absätze 3–7 ist anwendbar. Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ( AS 2021 648 ). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ( AS 2022 835 )."
+    },
+    {
+      "provision_ref": "art64dbis",
+      "section": "64dbis",
+      "title": "d bis Selbstzahlersystem bei Covid-19-Impfungen",
+      "content": "1 Der Bund kann die nach Artikel 44 Absatz 1 EpG beschafften Impfstoffe für Covid-19-Impfungen, einschliesslich Auffrischimpfungen, für die Impfung von Personen nach Artikel 64 a Absatz 1 gegen Bezahlung zur Verfügung stellen, wenn die Abgabe ohne behördliche Empfehlung erfolgt und nicht der Bekämpfung übertragbarer Krankheiten dient. Ist eine ausreichende Verfügbarkeit für die Impfung der Personen nach Artikel 64 a Absatz 1 sichergestellt, so kann der Bund die Impfstoffe gegen Bezahlung für die Impfung weiterer Personen zur Verfügung stellen. 2 Die Impfstellen entrichten dem Bund eine Pauschale für Impfstoff, Logistik, Impfmaterial und zusätzliche administrative Kosten. Die Pauschale beträgt 30 Franken pro Impfung. 3 Die Impfstellen senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Aufstellung über die nach Absatz 1 durchgeführten Impfungen. 4 Die zuständige kantonale Behörde plausibilisiert die Aufstellung aufgrund der an die Impfstelle gelieferten Dosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung. 5 Die gemeinsame Einrichtung stellt den Impfstellen für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung für die Pauschale nach Absatz 2 zu. 6 Sie überweist dem Bund nach Eingang der Zahlungen der Impfstellen quartalsweise den Gesamtbetrag. 7 Das BAG vergütet der gemeinsamen Einrichtung deren Verwaltungskosten gemäss Artikel 64 b Absatz 6. Eingefügt durch Ziff. I der V vom 10. Juni 2022 ( AS 2022 345 ). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ( AS 2022 835 )."
+    },
+    {
+      "provision_ref": "art64e",
+      "section": "64e",
+      "title": "e Übernahme der Kosten von Arzneimitteln zur ambulanten Behandlung von Covid-19",
+      "content": "1 Der Bund übernimmt die Kosten der im Anhang aufgeführten Arzneimittel unter den dort festgelegten Voraussetzungen. 2 Das EDI kann weitere Arzneimittel in den Anhang aufnehmen, sofern sie folgende Voraussetzungen erfüllen: a. Sie werden zur ambulanten Behandlung von Covid-19 eingesetzt. b. Sie sind nicht auf der Spezialitätenliste nach dem KVG aufgeführt. c. Der Bund hat zur Sicherstellung der Versorgung der Bevölkerung mit diesen Arzneimitteln mit der Zulassungsinhaberin einen Vertrag abgeschlossen. 3 Jedes Arzneimittel hat einen einheitlichen Buchwert von 150 Franken. 4 Bei der Abgabe eines Arzneimittels durch eine Apothekerin oder einen Apotheker, die oder der als Leistungserbringer nach dem KVG zugelassen ist, übernimmt der Bund zusätzlich 24 Franken für die mit der Abgabe verbundenen Aufwände. 5 Die Vergütung des einheitlichen Buchwerts der Arzneimittel nach Absatz 3 und der mit der Abgabe verbundenen Aufwände nach Absatz 4 erfolgt nach dem System des Tiers payant im Sinne von Artikel 42 Absatz 2 KVG. Sie wird von folgenden Versicherern geschuldet: a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014 , bei der die behandelte Person versichert ist; b. bei Personen, die bei der Militärversicherung gegen Krankheit versichert sind, von der Militärversicherung; c. bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der gemeinsamen Einrichtung nach Artikel 18 KVG. Eingefügt durch Ziff. I der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln), in Kraft seit 17. Febr. 2022 ( AS 2022 95 ). SR 832.10 Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 20. Mai 2022 ( AS 2022 345 ). Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 20. Mai 2022 ( AS 2022 345 ). SR 832.12"
+    },
+    {
+      "provision_ref": "art64f",
+      "section": "64f",
+      "title": "f Verfahren zur Übernahme der Kosten von Arzneimitteln zur ambulanten Behandlung von Covid-19",
+      "content": "1 Die Leistungserbringer senden die Rechnung für die Kosten nach Artikel 64 e Absätze 3 und 4 pro behandelte Person einzelfallweise oder quartalsweise gesammelt spätestens neun Monate nach Erbringung der Leistungen dem zuständigen Versicherer. Die Rechnung darf nur die Kosten nach Artikel 64 e Absätze 3 und 4 enthalten. Die Übermittlung erfolgt vorzugsweise elektronisch. 2 Die Versicherer und die gemeinsame Einrichtung kontrollieren die Rechnungen und prüfen, ob der Leistungserbringer die Leistungen korrekt abgerechnet hat. Sie beachten bei der Bearbeitung der Daten die Artikel 84–84 b KVG. 3 Sie melden dem BAG die Anzahl Arzneimittelpackungen, die sie den Leistungserbringern vergütet haben, sowie den vergüteten Betrag jeweils auf Anfang Januar, April, Juli und Oktober. Die externen Revisionsstellen der Versicherer prüfen jährlich die Meldungen und die Existenz geeigneter Kontrollen im Sinne von Absatz 2 und erstatten dem BAG Bericht. Das BAG kann von den Versicherern zusätzliche Informationen zu den vergüteten Beträgen je Leistungserbringer verlangen. 4 Der Bund zahlt den Versicherern die von ihnen vergüteten Leistungen quartalsweise. 5 Wurde die Leistung vom Leistungserbringer zu Unrecht in Rechnung gestellt, so kann der Versicherer bereits geleistete Vergütungen zurückfordern. Mit der Bezahlung der Leistung durch den Bund nach Absatz 4 geht ein allfälliger Rückforderungsanspruch auf den Bund über. Die Versicherer geben dem Bund die Daten bekannt, die für die Wahrnehmung des Rückforderungsanspruchs erforderlich sind. Die Daten dürfen keine besonders schützenswerten Personendaten enthalten. 6 Die gemeinsame Einrichtung stellt dem BAG quartalsweise ihre Verwaltungskosten für ihre Tätigkeit als Versicherer nach Artikel 64 e Absatz 5 Buchstabe c nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet. Eingefügt durch Ziff. I der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln), in Kraft seit 17. Febr. 2022 ( AS 2022 95 ). SR 832.10"
+    },
+    {
+      "provision_ref": "art64g",
+      "section": "64g",
+      "title": "g Übernahme der Kosten von Affenpockenimpfungen",
+      "content": "1 Der Bund übernimmt die Kosten von Affenpockenimpfungen, die gemäss den Empfehlungen des BAG und der Eidgenössischen Kommission für Impffragen vom 1. September 2022 bei folgenden Personen durchgeführt werden: a. Personen, die nach Artikel 3 KVG versichert sind; b. Personen, die nach dem MVG gegen Krankheit versichert sind; c. Personen, die weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind, die aber einer der folgenden Personenkategorien angehören: 1. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben, 2. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind. 2 Er übernimmt die Kosten nur, wenn die Leistungserbringer: a. vom Kanton mit der Durchführung von Affenpockenimpfungen beauftragt worden sind; und b. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen. 3 Er übernimmt für jede Impfung nach Absatz 1 eine Pauschale von 40 Franken. 4 Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten. 5 Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen. Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ( AS 2022 467 ). Die Empfehlungen sind abrufbar unter: www.bag.admin.ch > Krankheiten > Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien > Aktuelle Ausbrüche und Epidemien > Affenpocken. SR 832.10 SR 833.1"
+    },
+    {
+      "provision_ref": "art64h",
+      "section": "64h",
+      "title": "h Verfahren zur Übernahme der Kosten von Affenpockenimpfungen",
+      "content": "1 Die Leistungserbringer senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Sammelrechnung für die von ihnen in den vergangenen drei Monaten durchgeführten Impfungen nach Artikel 64 g Absatz 1. Die Rechnung muss enthalten: a. die Anzahl der im Rechnungszeitraum durchgeführten Impfungen; b. die Impfpauschale pro durchgeführte Impfung; c. den Gesamtbetrag für alle durchgeführten Impfungen. 2 Die Rechnung darf nur Leistungen im Zusammenhang mit den Impfungen beinhalten. Die Übermittlung erfolgt elektronisch. 3 Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton verteilten Impfdosen, prüft sie auf ihre Vollständigkeit und sendet sie nach erfolgter Vergütung der Leistungserbringer innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an das BAG. 4 Der Bund bezahlt den Kantonen innerhalb von 20 Arbeitstagen nach Eingang der Rechnung pro durchgeführte Impfung die Pauschale nach Artikel 64 g Absatz 3. Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ( AS 2022 467 )."
+    },
+    {
+      "provision_ref": "art64i",
+      "section": "64i",
+      "title": "i Übernahme der Kosten von Arzneimitteln zur ambulanten oder stationären Behandlung von Affenpocken",
+      "content": "1 Der Bund übernimmt die Kosten der in Anhang 2 Ziffer 1 aufgeführten Arzneimittel, wenn: a. die Voraussetzungen nach Anhang 2 Ziffer 2 erfüllt sind; und b. die Leistungserbringer vom Kanton mit der Durchführung der Behandlung und der Abgabe eines solchen Arzneimittels beauftragt worden sind. 2 Das EDI kann weitere Arzneimittel in Anhang 2 Ziffer 1 aufnehmen, sofern sie folgende Voraussetzungen erfüllen: a. Sie werden zur ambulanten oder stationären Behandlung von Affenpocken eingesetzt. b. Sie sind nicht auf der Spezialitätenliste nach dem KVG aufgeführt. c. Der Bund hat zur Sicherstellung der Versorgung der Bevölkerung mit diesen Arzneimitteln mit der Zulassungsinhaberin einen Vertrag abgeschlossen. 3 Bei der Abgabe eines Arzneimittels durch eine Apothekerin oder einen Apotheker, die oder der als Leistungserbringer nach dem KVG zugelassen ist, übernimmt der Bund 24 Franken für die mit der Abgabe verbundenen Aufwände. Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ( AS 2022 467 ). SR 832.10"
+    },
+    {
+      "provision_ref": "art64j",
+      "section": "64j",
+      "title": "j Verfahren zur Übernahme der Kosten für die Abgabe von Arzneimitteln gegen Affenpocken durch Apothekerinnen und Apotheker",
+      "content": "1 Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Sammelrechnung für die von ihnen in den vergangenen drei Monaten erfolgten Abgaben nach Artikel 64 i Absatz 3. Die Rechnung muss enthalten: a. die Anzahl der im Rechnungszeitraum erfolgte Abgaben; b. die Pauschale pro erfolgte Abgabe; c. den Gesamtbetrag für alle erfolgten Abgaben. 2 Die Rechnung darf nur Leistungen im Zusammenhang mit den Abgaben beinhalten. Die Übermittlung erfolgt elektronisch. 3 Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton erfolgten Abgaben, prüft sie auf ihre Vollständigkeit und sendet sie nach erfolgter Vergütung der Apothekerinnen und Apotheker innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an das BAG. 4 Der Bund bezahlt den Kantonen den geschuldeten Betrag innerhalb von 20 Arbeitstagen nach Eingang der Rechnungen nach Absatz 3. Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ( AS 2022 467 )."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "3. Abschnitt: Warenverkehr",
+      "section": "65",
+      "title": "",
+      "content": "1 Um die grenzüberschreitende Verbreitung einer Krankheit zu verhindern, kann das EDI: a. Schutzmassnahmen für den Transport bestimmter Waren vorschreiben; b. die Untersuchung von Waren auf bestimmte Krankheitserreger sowie die Untersuchungsmethoden vorschreiben; c. die Ein-, Durch- oder Ausfuhr von Waren, die Träger des Krankheitserregers sein können, einschränken oder verbieten. 2 Die Vorschriften sind zeitlich zu befristen. 3 Das EDI kann die Kantone oder das mit dem Vollzug der Massnahmen beauftragen. 4 Das erteilt dem BAG auf Verlangen Auskunft über alle Tatsachen, die für den Vollzug der Massnahmen nach Absatz 1 wesentlich sind. Sie gewährt dem BAG Einsicht in die Akten und informiert es umgehend über die bei der Ein-, Durch- oder Ausfuhr beobachteten Vorkommnisse. SR 170.512.1 Diese Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "4. Abschnitt: Umgang mit Leichen und Leichentransporte",
+      "section": "66",
+      "title": "Hygienemassnahmen",
+      "content": "1 Steht der Eintritt des Todes einer Person nachweislich oder vermutlich im Zusammenhang mit einer übertragbaren Krankheit, so muss die Person, die mit dem Umgang, der Beisetzung oder der Exhumierung der Leichen beauftragt ist, geeignete Vorsichtsmassnahmen im Bereich der Hygiene beachten. 2 Die mit dem Umgang, der Beisetzung oder der Exhumierung der Leichen beauftragte Person muss insbesondere die notwendigen hygienischen Massnahmen zur Verhinderung der Übertragung einer Krankheit durchführen."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "4. Abschnitt: Umgang mit Leichen und Leichentransporte",
+      "section": "67",
+      "title": "Einsargung und Einbalsamierung",
+      "content": "1 Steht der Eintritt des Todes einer Person nachweislich oder vermutlich im Zusammenhang mit einer gefährlichen übertragbaren Krankheit, so ist die Leiche in ein mit einer Desinfektionslösung durchtränktes Leintuch einzuhüllen und in den Sarg zu legen. Der Sarg ist unverzüglich zu verschliessen. 2 Die Leiche ist einzubalsamieren, wenn dies vom Bestimmungsland vorgeschrieben ist."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "4. Abschnitt: Umgang mit Leichen und Leichentransporte",
+      "section": "68",
+      "title": "Informationspflicht der Ärztinnen und Ärzte",
+      "content": "Steht der Eintritt des Todes einer Person nachweislich oder vermutlich im Zusammenhang mit einer gefährlichen übertragbaren Krankheit, so informiert die behandelnde Ärztin oder der behandelnde Arzt beziehungsweise die den Tod feststellende Ärztin oder der den Tod feststellende Arzt die zuständige Kantonsärztin oder den zuständigen Kantonsarzt."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "4. Abschnitt: Umgang mit Leichen und Leichentransporte",
+      "section": "69",
+      "title": "Anordnungen bei besonderer Gefährdung",
+      "content": "1 Die zuständige kantonale Behörde kann bei einer besonderen Gefährdung der öffentlichen Gesundheit insbesondere: a. spezifische Hygienemassnahmen anordnen; b. die Autopsie einer Leiche anordnen oder verbieten; c. Bestattungsrituale und Trauerfeiern einschränken oder verbieten; d. den Leichentransport einschränken oder verbieten; e. die Kremation einer Leiche anordnen. 2 Falls einheitliche Massnahmen in der ganzen Schweiz notwendig sind, kann das BAG technische Weisungen erlassen."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "4. Abschnitt: Umgang mit Leichen und Leichentransporte",
+      "section": "70",
+      "title": "Zuständige Behörde für die Transportbewilligung",
+      "content": "1 Jeder Kanton bezeichnet eine Behörde, die für die Ausstellung der erforderlichen internationalen Transportbewilligung (Leichenpass) zuständig ist, und meldet diese dem BAG. 2 Das BAG führt eine öffentlich zugängliche Liste dieser Behörden."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "4. Abschnitt: Umgang mit Leichen und Leichentransporte",
+      "section": "71",
+      "title": "Leichentransport vom Ausland in oder durch die Schweiz",
+      "content": "1 Der Leichentransport vom Ausland in die Schweiz oder durch die Schweiz richtet sich nach den internationalen Abkommen über die Leichenbeförderung, denen die Schweiz beigetreten ist. 2 Leichentransporte aus Ländern, mit denen die Schweiz kein Abkommen nach Absatz 1 abgeschlossen hat, richten sich nach den Artikeln 1–11 des Internationalen Abkommens vom 10. Februar 1937 über Leichenbeförderung. Dabei muss der in Artikel 1 dieses Abkommens vorgeschriebene und von der zuständigen Behörde des Abgangsstaates ausgestellte Leichenpass von der dortigen schweizerischen diplomatischen oder konsularischen Vertretung visiert werden. Er kann auch von dieser Vertretung ausgestellt werden. SR 0.818.61"
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Leichentransport ins Ausland",
+      "content": "1 Der Leichentransport ins Ausland richtet sich nach den internationalen Abkommen über die Leichenbeförderung, denen die Schweiz beigetreten ist. 2 Bei Leichentransporten nach Ländern oder durch solche, mit denen kein besonderer Vertrag besteht, ist zusätzlich zum Leichenpass die Bewilligung der diplomatischen oder konsularischen Vertretung des betreffenden Landes oder ein von der dortigen zuständigen Behörde ausgestellter Leichenpass einzuholen."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Zuständige Behörden für die Kontrolle der Leichenpässe",
+      "content": "1 Bei der Ein- und Durchfuhr von Leichen obliegt die Kontrolle der Leichenpässe den Zollämtern, bei der Einfuhr ausserdem den zuständigen Bestattungsbehörden. 2 Bei Unklarheiten wenden sich die Zollämter an die zuständige Bestattungsbehörde."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "5. Kapitel: Finanzhilfen an öffentliche und private Organisationen",
+      "section": "74",
+      "title": "Förderungsbereiche",
+      "content": "Finanzhilfen nach Artikel 50 EpG können insbesondere gewährt werden, um Vorhaben zu unterstützen, die einen Beitrag zur Umsetzung der nationalen Ziele, Strategien und Programme in den Bereichen Wissenschaft, Forschung und internationale Zusammenarbeit leisten."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "5. Kapitel: Finanzhilfen an öffentliche und private Organisationen",
+      "section": "75",
+      "title": "Gesuche um Finanzhilfen",
+      "content": "1 Gesuche um Finanzhilfen sind dem BAG einzureichen. 2 Dem Gesuch müssen beigelegt werden: a. Unterlagen über die Organisation, die Tätigkeit und die finanziellen Verhältnisse der zu unterstützenden öffentlichen oder privaten Organisation; b. eine Beschreibung des zu unterstützenden Projekts, insbesondere Informationen über Ziel und Nutzen sowie ein Finanzierungsplan mit Angaben zu den zu erbringenden Eigenleistungen der Organisation. 3 Das BAG kann bei Bedarf weitere Unterlagen anfordern."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "5. Kapitel: Finanzhilfen an öffentliche und private Organisationen",
+      "section": "76",
+      "title": "Gewährung der Finanzhilfen",
+      "content": "1 Das BAG gewährt Finanzhilfen als Pauschalbeitrag. 2 Es spricht die Finanzhilfen in Form einer Verfügung oder eines öffentlich-rechtlichen Vertrags zu."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "6. Kapitel: Organisation und Verfahren",
+      "section": "77",
+      "title": "Voraussetzungen für das Amt",
+      "content": "Wer als Kantonsärztin oder als Kantonsarzt Aufgaben nach dem Epidemiengesetz ausübt, muss verfügen über: a. ein eidgenössisches oder ein anerkanntes ausländisches Diplom als Ärztin oder Arzt nach dem MedBG; und b. einen eidgenössischen oder einen anerkannten ausländischen Weiterbildungstitel nach dem MedBG oder eine vergleichbare Weiterbildung. SR 811.11"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "39",
+      "section": "78",
+      "title": "Pflichten",
+      "content": "Die Kantonsärztin oder der Kantonsarzt nimmt an den vom BAG und der Vereinigung der Kantonsärztinnen und Kantonsärzte der Schweiz (VKS) organisierten Fortbildungen im Bereich der übertragbaren Krankheiten teil."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "39",
+      "section": "79",
+      "title": "Gemeinsame Kantonsarztämter",
+      "content": "Führen Kantone ein gemeinsames Kantonsarztamt, so melden sie dies dem BAG."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "2. Abschnitt: Koordinationsorgan",
+      "section": "80",
+      "title": "Vorsitz und Reglement",
+      "content": "1 Der Vorsitz des Koordinationsorgans zur Förderung der fachlichen Zusammenarbeit im Bereich der Bekämpfung übertragbarer Krankheiten des Menschen (Koordinationsorgan Epidemiengesetz) wird vom BAG ausgeübt. Das Sekretariat wird vom BAG geführt. 2 Das Koordinationsorgan Epidemiengesetz gibt sich ein Organisationsreglement."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "2. Abschnitt: Koordinationsorgan",
+      "section": "81",
+      "title": "Unterstützung der zuständigen Organe von Bund und Kantonen",
+      "content": "Das Koordinationsorgan Epidemiengesetz unterstützt die zuständigen Organe von Bund und Kantonen bei der Umsetzung von Massnahmen, insbesondere bei der Bewältigung von besonderen oder ausserordentlichen Lagen."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "2. Abschnitt: Koordinationsorgan",
+      "section": "82",
+      "title": "Zusammensetzung des Koordinationsorgans Epidemiengesetz",
+      "content": "Das Koordinationsorgan Epidemiengesetz setzt sich zusammen aus: a. zwei Vertreterinnen oder Vertretern des BAG; b. sechs Kantonsärztinnen oder Kantonsärzten; c. zwei Vertreterinnen oder Vertretern des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (BLV); d. einer Oberfeldärztin oder einem Oberfeldarzt; e. einer Vertreterin oder einem Vertreter des Bundesamtes für Bevölkerungsschutz; f. je einer Kantonschemikerin oder einem Kantonschemiker, einer Kantonsapothekerin oder einem Kantonsapotheker und einer Kantonstierärztin oder einem Kantonstierarzt; g. einer Vertreterin oder einem Vertreter der schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK); h. bei Bedarf und fallweise aus Fachleuten und je einer Vertreterin oder einem Vertreter weiterer betroffener Institutionen, insbesondere: 1. des Bundesamtes für Umwelt (BAFU), des Bundesamtes für wirtschaftliche Landesversorgung und des Schweizerischen Heilmittelinstituts, 2. der Koordinationsplattform ABC der Kantone, 3. von Institutionen im Gesundheitswesen sowie der Ärzteschaft, 4. des VKS; i. bei Bedarf und fallweise aus regionalen Koordinatorinnen und Koordinatoren der Kantone."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "2. Abschnitt: Koordinationsorgan",
+      "section": "83",
+      "title": "Unterorgan «One Health»",
+      "content": "1 Um die zuständigen Bundesämter bei der Erkennung, Überwachung, Verhütung und Bekämpfung von Zoonosen und Vektoren sowie bei der Bearbeitung und Koordination von weiteren bereichsübergreifenden Themen zu unterstützen, setzt das Koordinationsorgan Epidemiengesetz ein ständiges Unterorgan (Unterorgan «One Health») ein. 2 Der Vorsitz wird von einem ständigen Mitglied des Koordinationsorgans Epidemiengesetz ausgeübt. Das Sekretariat wird vom BLV geführt."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "2. Abschnitt: Koordinationsorgan",
+      "section": "84",
+      "title": "Zusammensetzung des Unterorgans «One Health»",
+      "content": "Das Unterorgan «One Health» setzt sich zusammen aus: a. je einer Vertreterin oder einem Vertreter des BAG, des BLV, des BAFU und des Bundesamtes für Landwirtschaft; b. je einer Kantonsärztin oder einem Kantonsarzt, einer Kantonschemikerin oder einem Kantonschemiker, einer Kantonsapothekerin oder einem Kantonsapotheker und einer Kantonstierärztin oder einem Kantonstierarzt; c. der Chefin oder dem Chef Veterinärdienst der Armee; d. bei Bedarf und fallweise aus Fachleuten und Vertreterinnen oder Vertretern weiterer betroffener Institutionen."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "3. Abschnitt: Eidgenössische Kommission für Impffragen",
+      "section": "85",
+      "title": "Zusammensetzung",
+      "content": "1 Die Mitglieder der Eidgenössischen Kommission für Impffragen (EKIF) müssen insbesondere in einem der folgenden Bereiche über wissenschaftliche oder praktische Kenntnisse verfügen: a. Vakzinologie, Immunologie; b. Epidemiologie, öffentliche Gesundheit; c. Allgemeinmedizin, Pädiatrie, Reisemedizin, Infektiologie, Präventivmedizin, schulärztlicher Dienst; d. Mikrobiologie. 2 Die Mitglieder der EKIF üben ihr Amt persönlich und unabhängig aus."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "3. Abschnitt: Eidgenössische Kommission für Impffragen",
+      "section": "86",
+      "title": "Kriterien zur Feststellung eines Zusammenhangs zwischen einer Impfung und einem Impfschaden",
+      "content": "1 Die EKIF entwickelt medizinische Kriterien, mit denen der Zusammenhang zwischen einer Impfung und einem Schaden näher bestimmt werden kann. Sie berücksichtigt dabei international anerkannte wissenschaftliche Kriterien sowie die vom Schweizerischen Heilmittelinstitut zur Beurteilung unerwünschter Arzneimittelwirkungen verwendeten Kriterien. 2 Sie führt eine öffentlich zugängliche Liste insbesondere mit: a. bereits anerkannten unerwünschten Impferscheinungen; b. Kriterien zur Beurteilung des Zusammenhangs zwischen einer Impfung und einem Schaden; c. Kriterien zur Festsetzung des Schweregrads unerwünschter Impferscheinungen, insbesondere wenn der Schaden zu einer Hospitalisierung, zu Invalidität, zum Tod oder zu einem anderen Ereignis oder einer Einschränkung geführt hat. 3 Die EKIF passt die Liste periodisch an und berücksichtigt dabei bestehende wissenschaftliche Erkenntnisse."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "3. Abschnitt: Eidgenössische Kommission für Impffragen",
+      "section": "87",
+      "title": "Organisation und Sekretariat",
+      "content": "1 Die EKIF bestimmt ihre Organisation und Arbeitsweise in einem Reglement. 2 Sie ist administrativ dem BAG angegliedert. Das BAG führt das Sekretariat."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "4. Abschnitt: Aufbewahrung von Dokumenten und Daten",
+      "section": "88",
+      "title": "",
+      "content": "1 Das BAG und die zuständigen kantonalen Behörden müssen die zur Identifizierung von Personen notwendigen Dokumente und Daten anonymisieren oder vernichten, sobald sie nicht mehr für Massnahmen nach den Artikeln 15 sowie 33–38 EpG benötigt werden, spätestens jedoch nach zehn Jahren. 2 Sie vernichten die Meldeformulare der Meldungen nach den Artikeln 6–9 nach der elektronischen Erfassung und der Datenbereinigung, spätestens jedoch nach zehn Jahren. 3 Sie vernichten folgende Dokumente und Daten nach der Auswertung, spätestens jedoch nach zwei Jahren: a. die zur Identifizierung von Personen erhobenen Daten im Rahmen von epidemiologischen Abklärungen (Art. 15–17); b. die Kontaktkarten (Art. 49); c. die Fragebogen zum Gesundheitszustand (Art. 51); d. die Passagierlisten (Art. 59 Abs. 3)."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "5. Abschnitt: Informationssystem",
+      "section": "89",
+      "title": "Systemverantwortung",
+      "content": "1 Das BAG sorgt für den Betrieb des Informationssystems nach Artikel 60 EpG und stellt die Verfügbarkeit des Systems sicher. 2 Es trägt die Verantwortung für das Informationssystem. Es legt in einem Bearbeitungsreglement insbesondere die Massnahmen fest, die zur Gewährleistung des Datenschutzes und der Datensicherheit notwendig sind. 3 Die Vollzugsbehörden, die das Informationssystem benutzen, sind in ihrem Bereich dafür verantwortlich, dass die Massnahmen nach Absatz 2 vollzogen werden. Die Kantone treffen organisatorische und technische Massnahmen gegen unbefugtes Bearbeiten und Entwenden der Daten."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "5. Abschnitt: Informationssystem",
+      "section": "90",
+      "title": "Struktur des Informationssystems und Inhalt der Datensammlungen",
+      "content": "1 Das Informationssystem besteht aus: a. dem System «Meldungen»; b. dem Modul «Kontaktmanagement». 2 3 Das System «Meldungen» enthält die Daten zu den meldepflichtigen Beobachtungen. 4 Das Modul «Kontaktmanagement» enthält die Daten von Personen, die krank, krankheitsverdächtig, angesteckt oder ansteckungsverdächtig sind oder die Krankheitserreger ausscheiden; es enthält zudem die Daten von Personen, mit denen die betroffene Person Kontakt hatte. SR 510.911 Fassung gemäss Anhang Ziff. 9 der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "5. Abschnitt: Informationssystem",
+      "section": "91",
+      "title": "Datenerfassung im System «Meldungen»",
+      "content": "1 Das BAG erfasst im System «Meldungen» alle Daten, die nach den Artikeln 6–8 erhoben und dem BAG gemeldet werden. 2 Es kann zusätzlich die Ergebnisse von epidemiologischen Abklärungen (Art. 17) sowie die Daten zur Referenzdiagnostik (Art. 23 und 24) erfassen. 3 Die Kantonsärztinnen und Kantonsärzte erfassen im System «Meldungen» folgende Daten zu Personen, die krank, krankheitsverdächtig, angesteckt oder ansteckungsverdächtig sind oder die Krankheitserreger ausscheiden: a. die getroffenen Massnahmen zur Verhütung und Bekämpfung übertragbarer Krankheiten (Art. 13); b. die Ergebnisse von epidemiologischen Abklärungen (Art. 15); c. die Ergänzungen und Änderungen von Daten nach Artikel 12."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "5. Abschnitt: Informationssystem",
+      "section": "92",
+      "title": "Datenerfassung im Modul «Kontaktmanagement»",
+      "content": "1 Das BAG und die Kantonsärztinnen und Kantonsärzte erfassen im Modul «Kontaktmanagement» die folgenden epidemiologischen Informationen und Daten zu Personen, die krank, krankheitsverdächtig, angesteckt oder ansteckungsverdächtig sind oder die Krankheitserreger ausscheiden, sowie zu Personen, mit denen die betroffene Person Kontakt hatte: a. Vorname und Name; b. Geburtsdatum; c. Geschlecht; d. Adresse; e. berufliche Tätigkeit und, sofern relevant, Arbeitsort; f. Impf- oder Immunstatus; g. Angaben über Reisewege, Aufenthaltsorte, eingenommene Nahrungsmittel und Kontakte mit Personen, Tieren und Gegenständen; h. Ergebnisse von medizinischen Untersuchungen; i. erfolgte Kontaktaufnahme durch die zuständige Behörde und weitere getroffene Massnahmen; j. bei Personen, die krank oder krankheitsverdächtig sind: den Manifestationsbeginn. 2 Die Datenerfassung nach Absatz 1 erfolgt nur, wenn die folgenden Voraussetzungen erfüllt sind: a. Die Meldung des klinischen Befunds enthält die Angabe des Vornamens und Namens sowie der Adresse und der Telefonnummer der betroffenen Person. b. Es sind Massnahmen gegenüber Personen erforderlich, mit denen die betroffene Person Kontakt hatte. c. Die öffentliche Gesundheit ist gefährdet."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Zugriff auf das System «Meldungen»",
+      "content": "1 Folgende Personen haben, soweit es zur Erfüllung ihrer Aufgaben nach dem EpG notwendig ist, Zugriff auf das System «Meldungen»: a. die Mitarbeiterinnen und Mitarbeiter der Abteilung Übertragbare Krankheiten des BAG; a bis . … b. im Abrufverfahren: die Kantonsärztinnen und Kantonsärzte sowie die Mitarbeiterinnen und Mitarbeiter der kantonsärztlichen Dienste. 2 Die zugriffsberechtigten Personen können Daten im System «Meldungen» lesen, erfassen, mutieren und löschen. 3 Das BAG erteilt die individuellen Zugriffsrechte und regelt die entsprechende Authentifizierung. Eingefügt durch Ziff. III der V vom 18. Nov. 2020, in Kraft bis zum 30. Juni 2022 ( AS 2020 4733 ). Aufgehoben durch Art. 6 der V vom 30. März 2022 über die Einstellung des Proximity-Tracing-Systems für das Coronavirus Sars-CoV-2 und des Systems zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen, mit Wirkung seit 1. April 2022 ( AS 2022 207 )."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Zugriff auf das Modul «Kontaktmanagement»",
+      "content": "1 Folgende Personen haben, soweit es zur Erfüllung ihrer Aufgaben nach dem EpG notwendig ist, Zugriff auf das Modul «Kontaktmanagement»: a. Mitarbeiterinnen und Mitarbeiter der Abteilung Übertragbare Krankheiten des BAG; b. im Abrufverfahren: Kantonsärztinnen und Kantonsärzte sowie Mitarbeiterinnen und Mitarbeiter der kantonsärztlichen Dienste; c. im Abrufverfahren: die Mitarbeiterinnen und Mitarbeiter der Geschäftsstelle Koordinierter Sanitätsdienst und des Militärärztlichen Dienstes. 2 Die zugriffsberechtigten Personen können Daten im Modul «Kontaktmanagement» lesen, erfassen, mutieren und löschen. 3 Das BAG erteilt die individuellen Zugriffsrechte und regelt die entsprechende Authentifizierung. Fassung gemäss Ziff. II 3 der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 570 )."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Zugriff auf das Informationssystem durch beauftragte Dritte",
+      "content": "1 Erteilt die zuständige Behörde für die Erfüllung ihrer Aufgaben nach dem EpG Dritten den Auftrag, bestimmte Daten zu bearbeiten, so kann das BAG ihnen den Zugriff im Abrufverfahren auf diejenigen Personendaten, einschliesslich der Daten über die Gesundheit, gewähren, welche die Dritten für die ihnen übertragene Aufgabe benötigen. 2 Die Zugriffsrechte sowie die zur Gewährleistung des Datenschutzes erforderlichen Massnahmen sind im Rahmen des Auftrags festzulegen."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Datensicherheit",
+      "content": "Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz. SR 235.11"
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Protokollierung",
+      "content": "Die Zugriffe auf das Informationssystem werden laufend protokolliert. Die Protokollierungen werden ein Jahr lang aufbewahrt."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Aufbewahrung von Daten zur Identifizierung von Personen",
+      "content": "1 Personendaten im System «Meldungen» und im Modul «Kontaktmanagement» werden anonymisiert oder gelöscht, sobald sie nicht mehr für Massnahmen gegenüber einzelnen Personen nach den Artikeln 33–38 EpG benötigt werden, spätestens aber zehn Jahre nach ihrer Erhebung. 2 Erfordern die Besonderheiten einer Krankheit eine längere Aufbewahrungsdauer, so werden die Daten nach Absatz 1 spätestens nach 30 Jahren gelöscht. Eine längere Aufbewahrungsdauer ist insbesondere bei chronischen Krankheiten und bei Krankheiten mit einer langen Inkubationszeit gerechtfertigt."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Bearbeitung zu statistischen Zwecken",
+      "content": "1 Das BAG kann die folgenden Daten von Personen im System «Meldungen» zu Zwecken der Statistik bearbeiten: a. Gemeindenummer des Bundesamtes für Statistik; b. Wohnkanton und Wohnsitzland; c. Geburtsjahr; d. Geburtsmonat, wenn die Person jünger ist als 2 Jahre; e. Geschlecht; f. Staatsangehörigkeit; g. berufliche Tätigkeit; h. Herkunftsland. 2 Lassen die Daten in ihrer Kombination Rückschlüsse auf die Identität der betreffenden Person zu, so sind die Daten zu anonymisieren, sobald der Zweck der Statistik erreicht ist."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "6. Abschnitt: Gesuch für eine Entschädigung oder eine Genugtuung bei Schäden aus Impffolgen bei Schäden aus Impffolgen",
+      "section": "100",
+      "title": "Gesuchstellerin oder Gesuchsteller",
+      "content": "Ein Gesuch für eine Entschädigung nach Artikel 64 EpG oder eine Genugtuung nach Artikel 65 EpG kann von der geschädigten Person oder ihrer gesetzlichen Vertretung gestellt werden."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "6. Abschnitt: Gesuch für eine Entschädigung oder eine Genugtuung bei Schäden aus Impffolgen bei Schäden aus Impffolgen",
+      "section": "101",
+      "title": "Erforderliche Angaben und Belege",
+      "content": "1 Das Gesuch muss die zur Beurteilung notwendigen Angaben und Belege enthalten, insbesondere: a. ein vollständig und wahrheitsgetreu ausgefülltes Gesuchsformular; b. eine ärztliche Bescheinigung, die den Impfschaden dokumentiert und Angaben zum Impfstoff enthält; c. eine Ermächtigung zum Einholen von Auskünften bei der behandelnden Ärztin oder dem behandelnden Arzt; d. Angaben, die für die Höhe der Entschädigung oder Genugtuung massgeblich sind, wie Angaben über bereits erhaltene Entschädigungen oder Genugtuungen sowie eine detaillierte Auflistung des noch nicht gedeckten Schadens. 2 Das EDI stellt das Gesuchsformular in geeigneter Form zur Verfügung."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "1. Abschnitt: Kantone",
+      "section": "102",
+      "title": "Aufgaben der kantonalen Vollzugsbehörden",
+      "content": "1 Die Kantone überwachen die Einhaltung: a. der Meldepflicht nach Artikel 12 EpG; b. des Sterilisationsverfahrens nach Artikel 25 Absatz 1; c. der Präventionsmassnahmen nach den Artikeln 27–30 sowie der Massnahmen nach Artikel 31 in den kantonalen Kollektivunterkünften für Asylsuchende; d. der Prioritätenliste nach Artikel 61 bei der Zuteilung von Heilmitteln; e. der Hygienemassnahmen nach Artikel 66. 2 Sie vollziehen die Massnahmen, die der Bundesrat in einer besonderen Lage nach Artikel 6 EpG oder einer ausserordentlichen Lage nach Artikel 7 EpG anordnet, soweit er keine anderweitige Regelung trifft. 3 Sie bezeichnen die Behörden und Institutionen, die im kantonalen Aufgabenbereich für den Vollzug des Epidemiengesetzes und dieser Verordnung zuständig sind."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "1. Abschnitt: Kantone",
+      "section": "103",
+      "title": "Zusammenarbeit zwischen den kantonalen und den eidgenössischen Vollzugsbehörden",
+      "content": "1 Die kantonalen und die eidgenössischen Vollzugsbehörden arbeiten im Rahmen ihrer Zuständigkeiten zusammen, insbesondere in den Bereichen der Vorbereitung, der Information, der Erkennung und Überwachung von Krankheiten, der Massnahmen im internationalen Personenverkehr und der internationalen Zusammenarbeit. 2 Bund und Kantone sorgen für die notwendigen organisatorischen Vorkehrungen, damit die internationalen Verpflichtungen der Schweiz nach den IGV erfüllt werden. SR 0.818.103"
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "1. Abschnitt: Kantone",
+      "section": "104",
+      "title": "Berichterstattung",
+      "content": "1 Das BAG kann von den Kantonen bei Bedarf verlangen, dass sie über den Vollzug des EpG, über besondere Ereignisse sowie über die Umsetzung der nationalen Ziele, Strategien und Programme Bericht erstatten. 2 Es legt Zeitpunkt und Art der Berichterstattung fest und stellt den Kantonen entsprechende Hilfsmittel in Form von Fragebogen oder Tabellen zur Verfügung."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "2. Abschnitt: Bund",
+      "section": "105",
+      "title": "Aufgaben des BAG",
+      "content": "1 Das BAG überwacht die Einhaltung: a. des Verbots der heterologen Transplantation von menschlicher Dura mater nach Artikel 26; b. der Bewilligungspflicht für die Gelbfieberimpfung nach Artikel 41; c. der Pflicht zur betrieblichen Vorbereitung nach den Artikeln 55 und 56. 2 Es kann die Aufgaben nach Absatz 1 im Einzelfall an die Kantone übertragen."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "2. Abschnitt: Bund",
+      "section": "106",
+      "title": "Zusammenarbeit des BAG mit anderen Behörden",
+      "content": "1 Das BAG arbeitet mit den zuständigen Behörden des Bundes und der Kantone zusammen bei: a. der Überwachung von übertragbaren Krankheiten, die von Tieren oder Lebensmitteln stammen oder die durch Vektoren übertragen werden; b. der Anordnung von Massnahmen. 2 Es informiert bei der Anordnung eines vorübergehenden Ausreiseverbots (Art. 41 Abs. 4 EpG) das SEM über Art und Dauer der getroffenen Massnahmen. Es tauscht mit dem SEM und den zuständigen kantonalen Behörden Informationen zum Vollzug des Ausreiseverbots aus."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "8. Kapitel: Schlussbestimmungen",
+      "section": "107",
+      "title": "Aufhebung anderer Erlasse",
+      "content": "Folgende Verordnungen werden aufgehoben: 1. Verordnung vom 20. November 2002 über die Prävention der Creutzfeldt-Jakob-Krankheit bei chirurgischen und medizinischen Eingriffen (CJKV); 2. Influenza-Pandemieverordnung vom 27. April 2005; 3. Verordnung vom 17. Juni 1974 über den Grenzsanitätsdienst; 4. Verordnung des EDI vom 9. Dezember 2005 über grenzsanitätsdienstliche Massnahmen; 5. Verordnung des EDI vom 15. Dezember 2003 zur Verhinderung der Einschleppung von neu auftretenden Infektionskrankheiten; 6. Verordnung vom 22. Dezember 1976 über die kostenlosen Impfungen; 7. Melde-Verordnung vom 13. Januar 1999; 8. Verordnung vom 2. Dezember 1985 über Beiträge an die Bekämpfung von Krankheiten; 9. Verordnung vom 17. Juni 1974 über Transport und Beisetzung ansteckungsgefährlicher Leichen sowie Transport von Leichen vom und ins Ausland. [ AS 2002 3902 ] [ AS 2005 2137 ; 2007 2941 ; 2011 5227 Ziff. I 2. 9 ] [ AS 1974 1102 ; 2003 4837 ] [ AS 2005 6643 ] [ AS 2003 4839 ; 2009 2805 ] [ AS 1976 2820 ] [ AS 1999 1092 ; 2001 3294 Ziff. II 12; 2003 4841 ; 2013 3041 Ziff. I 10] [ AS 1985 1997 ; 2006 4705 Ziff. II 83] [ AS 1974 1105 ; 1991 370 Anhang Ziff. 12; 2007 1469 Anhang 4 Ziff. 48]"
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "8. Kapitel: Schlussbestimmungen",
+      "section": "108",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Kantonsärztinnen und Kantonsärzte, die ihr Amt nach dem bisherigen Recht ausüben, sind dazu weiterhin berechtigt. 2 Bisherige Bewilligungen zur Durchführung von Gelbfieberimpfungen bleiben bis zum Ablauf der Bewilligungsdauer, höchstens aber zwei Jahre nach Inkrafttreten dieser Verordnung gültig."
+    },
+    {
+      "provision_ref": "art108a",
+      "section": "108a",
+      "title": "a Übergangsbestimmung zur Änderung vom 24. August 2022",
+      "content": "Die Sammelrechnungen nach den Artikeln 64 h Absatz 1 und 64 j Absatz 1 sind der zuständigen kantonalen Behörde erstmals per Ende Dezember 2022 zu senden. Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ( AS 2022 467 )."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2016 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Primärdiagnostik",
+      "definition": "Primärdiagnostik : erste Untersuchung einer Probe, um Krankheitserreger nachzuweisen;",
+      "source_provision": "art1"
+    },
+    {
+      "term": "Referenzdiagnostik",
+      "definition": "Referenzdiagnostik : Untersuchung einer Probe im Vergleich zu Referenzproben oder Referenzmethoden, um Resultate zu verifizieren, Typen, Varianten oder Resistenzen eines Krankheitserregers zu charakterisieren oder Methoden und Standards zu validieren;",
+      "source_provision": "art1"
+    },
+    {
+      "term": "Bestätigungsdiagnostik",
+      "definition": "Bestätigungsdiagnostik : die einer Primärdiagnostik folgende Untersuchung einer Probe, um ein primärdiagnostisches Resultat zu bestätigen.",
+      "source_provision": "art1"
+    }
+  ]
+}

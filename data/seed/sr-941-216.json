@@ -1,0 +1,84 @@
+{
+  "id": "sr-941-216",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 9. März 2010 über audiometrische Messmittel (Audiometrieverordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2010/163/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Anforderungen an audiometrische Messmittel; b. das Verfahren für das Inverkehrbringen audiometrischer Messmittel; c. die Verfahren zur Erhaltung der Messbeständigkeit audiometrischer Messmittel."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "Dieser Verordnung unterstehen Messmittel, die für audiometrische Prüfungen zu gesundheitsrelevanten Zwecken verwendet werden, namentlich: a. Audiometer; b. Hörprüfkabinen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. audiometrische Prüfung: Prüfung, die der Feststellung der Hörfähigkeit dient; b. Audiometer: Messmittel, das der Ermittlung der Hörschwelle für Töne verschiedener Frequenzen oder der Sprachverständlichkeit dient, einschliesslich Geräuschquellen, wie Abspielvorrichtungen mit zugehörigen Tonträgern und Dateien, und Schallwandlern, wie Kopf- und Knochenleitungshörer sowie Lautsprecher für das freie Schallfeld; c. Hörprüfkabine: schallabsorbierend ausgekleidete Messkabine, in der audiometrische Prüfungen vorgenommen werden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Anforderungen",
+      "content": "Audiometer und Hörprüfkabinen müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und die entsprechenden Anforderungen nach dem Anhang dieser Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "1 Audiometer und Hörprüfkabinen bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 der Messmittelverordnung. 2 Bei der Installation einer neuen Hörprüfkabine hat eine Abnahmemessung durch das Eidgenössische Institut für Metrologie (METAS) oder eine Eichstelle zu erfolgen. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2013 angepasst."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Nacheichung von Audiometern",
+      "content": "1 Audiometer müssen jährlich einer Nacheichung nach Anhang 7 Ziffer 1 der Messmittelverordnung unterzogen werden. 2 Das METAS oder eine Eichstelle führt die Nacheichung durch. 3 Das METAS kann die Fristen für einzelne Messmittel oder Bauarten verlängern oder verkürzen, wenn die messtechnischen Eigenschaften dies erlauben oder verlangen. Die Berichtigung vom 12. Juni 2018 betrifft nur den italienischen Text ( AS 2018 2323 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Nacheichung von Hörprüfkabinen",
+      "content": "1 Die Nacheichung von Hörprüfkabinen erfolgt alle sechs Jahre. 2 Wird die Hörprüfkabine baulich verändert, muss eine neue Abnahmemessung nach Artikel 5 Absatz 2 durchgeführt werden."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Übergangsbestimmung",
+      "content": "Messmittel, die vor dem Inkrafttreten dieser Verordnung in Verkehr gebracht wurden, können weiterhin verwendet werden, sofern sie den Anforderungen nach Artikel 4 genügen."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. April 2010 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "audiometrische Prüfung:",
+      "definition": "audiometrische Prüfung: Prüfung, die der Feststellung der Hörfähigkeit dient;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Audiometer:",
+      "definition": "Audiometer: Messmittel, das der Ermittlung der Hörschwelle für Töne verschiedener Frequenzen oder der Sprachverständlichkeit dient, einschliesslich Geräuschquellen, wie Abspielvorrichtungen mit zugehörigen Tonträgern und Dateien, und Schallwandlern, wie Kopf- und Knochenleitungshörer sowie Lautsprecher für das freie Schallfeld;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Hörprüfkabine:",
+      "definition": "Hörprüfkabine: schallabsorbierend ausgekleidete Messkabine, in der audiometrische Prüfungen vorgenommen werden.",
+      "source_provision": "art3"
+    }
+  ]
+}

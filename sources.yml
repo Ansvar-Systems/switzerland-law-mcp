@@ -11,7 +11,7 @@ sources:
     retrieval_method: "API"
     api_documentation: "https://www.fedlex.admin.ch/en/help/data-conventions"
     update_frequency: "daily"
-    last_ingested: "PENDING_FIRST_INGEST"
+    last_ingested: "2026-02-25"
     license_or_terms:
       type: "Government Open Data (Open Government Data)"
       url: "https://www.fedlex.admin.ch/en/help/legal-information"
@@ -28,7 +28,7 @@ sources:
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "PENDING_FIRST_INGEST"
+  last_verified: "2026-02-25"
 
 # Notes:
 # - Fedlex (fedlex.admin.ch) is the authoritative, free, multilingual source for all

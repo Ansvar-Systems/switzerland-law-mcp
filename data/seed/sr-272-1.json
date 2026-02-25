@@ -1,0 +1,154 @@
+{
+  "id": "sr-272-1",
+  "type": "statute",
+  "title": "Verordnung vom 18. Juni 2010 über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren (VeÜ-ZSSV)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2010/413/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt die Modalitäten des elektronischen Verkehrs zwischen den Verfahrensbeteiligten und den Behörden im Rahmen von Verfahren, auf welche die ZPO, das SchKG oder die StPO Anwendung findet. 2 Sie gilt nicht für Verfahren vor dem Bundesgericht."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Anerkannte Plattform für die sichere Zustellung",
+      "content": "Eine Plattform für die sichere Zustellung (Zustellplattform) wird anerkannt, wenn sie: a. für Signatur und Verschlüsselung kryptografische Schlüssel einsetzt, die auf Zertifikaten einer nach dem Bundesgesetz vom 18. März 2016 über die elektronische Signatur (ZertES) anerkannten Anbieterin von Zertifizierungsdiensten (anerkannte Anbieterin) basieren; b. unverzüglich eine Quittung ausstellt mit dem Zeitpunkt des Eingangs einer Eingabe auf der Zustellplattform oder der Übergabe durch die Plattform an die Adressatin oder den Adressaten; diese Quittung und der von einem synchronisierten Zeitstempeldienst bestätigte Zeitpunkt ist mit einem geregelten elektronischen Siegel (Art. 2 Bst. d ZertES) zu versehen; c. nachweist, welche Dokumente übermittelt wurden; d. die Eingaben sowie die Vorladungen, Verfügungen, Entscheide und anderen Mitteilungen (Mitteilungen) in geeigneter Weise vor unberechtigtem Zugriff durch Dritte schützt; liegt die Zustellplattform ausserhalb des geschützten Bereichs der Behörde, so dürfen die Eingaben und Mitteilungen nur in verschlüsselter Form auf der Zustellplattform abgelegt werden und nur für die Behörde und die Adressatin oder den Adressaten lesbar sein; e. die Verschlüsselung nach den technischen Standards der Bundesverwaltung gewährleistet; f. imstande ist, mit den Bundesbehörden nach den technischen Standards der Bundesverwaltung bezüglich sicherer Übermittlung zu kommunizieren; g. den Verkehr mit den andern anerkannten Zustellplattformen sicherstellt und die Nutzung von Vermittlungsfunktionen und Teilnehmerverzeichnissen unentgeltlich zur Verfügung stellt. Fassung gemäss Anhang Ziff. II 6 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ( AS 2016 4667 ). SR 943.03 Fassung gemäss Anhang Ziff. II 6 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ( AS 2016 4667 ). Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ( AS 2019 3451 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Anerkennungsverfahren",
+      "content": "1 Das Eidgenössische Justiz- und Polizeidepartement (EJPD) entscheidet über Anerkennungsgesuche. Es kann die Einzelheiten des Anerkennungsverfahrens regeln und insbesondere bestimmen: a. welche funktionalen und betrieblichen Anforderungen zu erfüllen sind; b. wie Vermittlungsfunktionen und Teilnehmerverzeichnisse bereitzuhalten sind; und c. welche Angaben mit dem Gesuch einzureichen sind. 2 Es kann die Anerkennung entziehen, wenn es von Amtes wegen oder auf Anzeige hin feststellt, dass die Voraussetzungen nach Artikel 2 nicht mehr erfüllt sind. 3 Die Entscheidgebühr wird nach Zeitaufwand berechnet; der Stundenansatz beträgt 250 Franken. Im Übrigen sind die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004 anwendbar. Fassung gemäss Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1535 ). SR 172.041.1"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Eingaben an eine Behörde",
+      "section": "4",
+      "title": "Eingaben",
+      "content": "Eingaben an eine Behörde sind an die Adresse auf der von ihr verwendeten anerkannten Zustellplattform zu senden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Eingaben an eine Behörde",
+      "section": "5",
+      "title": "Verzeichnis",
+      "content": "1 Die Bundeskanzlei veröffentlicht im Internet ein Verzeichnis der Behördenadressen. 2 Das Verzeichnis führt für jede Behörde auf: a. die Internetadresse; b. die Adresse für die elektronische Eingabe; c. die Adresse der Zertifikate, die für die Überprüfung der elektronischen Signatur der Behörde zu verwenden sind. 3 Die Bundeskanzlei kann die Aufnahme und die Nachführung der Einträge regeln."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Eingaben an eine Behörde",
+      "section": "6",
+      "title": "Format",
+      "content": "1 Die Verfahrensbeteiligten haben ihre Eingaben einschliesslich Beilagen im Format PDF zu übermitteln. 2 Das EJPD kann durch Verordnung festlegen, dass die Verfahrensdaten zusammen mit der Eingabe in strukturierter Form eingereicht werden können. Es regelt die technischen Vorgaben und das Datenformat. Fassung gemäss Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1535 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Eingaben an eine Behörde",
+      "section": "7",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. II 6 der V vom 23. Nov. 2016 über die elektronische Signatur, mit Wirkung seit 1. Jan. 2017 ( AS 2016 4667 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Eingaben an eine Behörde",
+      "section": "8",
+      "title": "Zertifikat",
+      "content": "Ist das qualifizierte Zertifikat mit dem Signaturprüfschlüssel weder auf der von der Behörde verwendeten Zustellplattform zugänglich noch im Verzeichnis der anerkannten Anbieterin aufgeführt, so muss es der Sendung beigefügt werden."
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "2. Abschnitt: Eingaben an eine Behörde",
+      "section": "8a",
+      "title": "a Nachreichung auf Papier",
+      "content": "1 Eine Behörde kann die Nachreichung von Eingaben und Beilagen auf Papier verlangen, wenn diese aufgrund von technischen Problemen: a. von der Behörde nicht geöffnet werden können; oder b. für die Behörde beim Anzeigen am Bildschirm oder in gedruckter Form nicht lesbar sind. 2 Sie gewährt den betroffenen Verfahrensbeteiligten unter Angabe des Grundes eine angemessene Frist für die Nachreichung. Eingefügt durch Anhang Ziff. II 6 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ( AS 2016 4667 )."
+    },
+    {
+      "provision_ref": "art8b",
+      "chapter": "2. Abschnitt: Eingaben an eine Behörde",
+      "section": "8b",
+      "title": "b Wahrung einer Frist",
+      "content": "1 Für die Wahrung einer Frist ist der Zeitpunkt massgebend, in dem die von den Verfahrensbeteiligten verwendete Zustellplattform die Quittung ausstellt, dass sie die Eingabe zuhanden der Behörde erhalten hat (Abgabequittung). 2 Das EJPD bestimmt, wie dieser Zeitpunkt auf der Abgabequittung festgehalten wird. Eingefügt durch Anhang Ziff. II 6 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ( AS 2016 4667 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Zustellung durch eine Behörde",
+      "section": "9",
+      "title": "Voraussetzungen",
+      "content": "1 Wer Mitteilungen auf elektronischem Weg zugestellt erhalten will, hat sich auf einer anerkannten Zustellplattform einzutragen. 2 Verfahrensbeteiligten, die sich auf der Zustellplattform eingetragen haben, können die Mitteilungen auf elektronischem Weg zugestellt werden, sofern sie dieser Art der Zustellung entweder für das konkrete Verfahren oder generell für sämtliche Verfahren vor einer bestimmten Behörde zugestimmt haben. 3 Eine Person, die regelmässig Partei in einem Verfahren vor einer bestimmten Behörde ist oder regelmässig Parteien vor einer bestimmten Behörde vertritt, kann dieser Behörde mitteilen, dass ihr in einem oder in allen Verfahren die Mitteilungen auf elektronischem Weg zu eröffnen sind. 4 Die Zustimmung kann jederzeit widerrufen werden. 5 Zustimmung und Widerruf müssen schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, erfolgen; sie können auch mündlich zu Protokoll gegeben werden. Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ( AS 2019 3451 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Zustellung durch eine Behörde",
+      "section": "10",
+      "title": "Modalitäten",
+      "content": "1 Die Zustellung erfolgt über eine anerkannte Zustellplattform. 2 Die Mitteilungen werden im Format PDF/A, die Beilagen im Format PDF übermittelt. 3 Die Mitteilungen werden mit einer qualifizierten elektronischen Signatur versehen (Art. 2 Bst. e ZertES). 4 Elektronische Kopien von Mitteilungen können mit einem geregelten elektronischen Siegel (Art. 2 Bst. d ZertES) der Behörde versehen werden. SR 943.03 Fassung gemäss Anhang Ziff. II 6 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ( AS 2016 4667 ). Eingefügt durch Anhang Ziff. II 6 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ( AS 2016 4667 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Zustellung durch eine Behörde",
+      "section": "11",
+      "title": "Zeitpunkt der Zustellung",
+      "content": "1 Die Zustellung gilt im Zeitpunkt des Herunterladens von der Zustellplattform als erfolgt. 2 Erfolgt die Zustellung in ein elektronisches Postfach der Adressatin oder des Adressaten, das auf einer anerkannten Zustellplattform nach persönlicher Identifikation der Inhaberin oder des Inhabers des Postfaches eingerichtet wurde, so sind die Bestimmungen der ZPO und der StPO über die Zustellung eingeschriebener Sendungen sinngemäss anwendbar (Art. 138 Abs. 3 Bst. a ZPO bzw. Art. 85 Abs. 4 Bst. a StPO)."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Trägerwandel",
+      "section": "12",
+      "title": "Zusätzliche elektronische Zustellung von Verfügungen und Entscheiden",
+      "content": "1 Verfahrensbeteiligte können verlangen, dass ihnen die Behörde Verfügungen und Entscheide, die ihnen nicht elektronisch zugestellt worden sind, zusätzlich auch elektronisch zustellt. 2 Die Behörde fügt dem elektronischen Dokument die Bestätigung bei, dass es mit der Verfügung oder dem Entscheid übereinstimmt."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Trägerwandel",
+      "section": "13",
+      "title": "Papierausdruck einer elektronischen Eingabe",
+      "content": "1 Die Behörde überprüft die elektronische Signatur bezüglich: a. Integrität des Dokuments; b. Identität der unterzeichnenden Person; c. Gültigkeit und Qualität der elektronischen Signatur einschliesslich allfälliger rechtlich bedeutender Attribute; d. Datum und Uhrzeit der elektronischen Signatur einschliesslich Qualität dieser Angaben. 2 Sie fügt dem Papierausdruck das Ergebnis der Signaturprüfung und eine Bestätigung bei, dass der Papierausdruck den Inhalt der elektronischen Eingabe korrekt wiedergibt. 3 Die Bestätigung ist zu datieren, zu unterzeichnen und mit Angaben zur unterzeichnenden Person zu versehen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "20",
+      "section": "13",
+      "title": "a",
+      "content": "1 Die Kantone können mit Bewilligung des EJPD zusätzlich zu den anerkannten Zustellplattformen alternative Übermittlungssysteme einsetzen. 2 Für diese Übermittlungssysteme und die Bewilligung des EJPD gelten unter Vorbehalt der nachstehenden Absätze die Bestimmungen der Abschnitte 1–4 über die Zustellplattformen und deren Anerkennung. 3 Die Bewilligung wird erteilt, wenn: a. das System im Pilotbetrieb der Erprobung technischer Lösungen dient; b. die Voraussetzungen nach Artikel 2 Buchstaben a–e erfüllt sind; c. die Übermittlung über Internetseiten des Kantons abgewickelt wird; und d. der Anwendungsbereich des Systems definiert ist. 4 Der Anwendungsbereich des Systems wird im Verzeichnis der Behördenadressen zusätzlich zu den Angaben nach Artikel 5 veröffentlicht. 5 Die Verfahrensbeteiligten haben die Wahl, elektronische Eingaben über eine anerkannte Zustellplattform oder über das alternative Übermittlungssystem einzureichen. 6 Mitteilungen können Verfahrensbeteiligten über ein alternatives Übermittlungssystem zugestellt werden, sofern die Zustimmung der Partei (Art. 9) sich auf dieses Übermittlungssystem bezieht. Ist die Empfängerin oder der Empfänger sowohl auf einer anerkannten Zustellplattform als auch bei einem alternativen Übermittlungssystem eingetragen, so kann sie oder er den Zustellweg wählen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Massenverfahren im Bereich Schuldbetreibung und Konkurs",
+      "section": "14",
+      "title": "",
+      "content": "1 Das EJPD regelt die technischen und organisatorischen Vorgaben und das Datenformat, nach denen natürliche Personen sowie juristische Personen des privaten und des öffentlichen Rechts mit Betreibungs- und Konkursämtern in einer geschlossenen Benutzergruppe Betreibungs- und Konkursdaten austauschen. 2 Es bestimmt die zu verwendende Zustellplattform und die zu verwendende elektronische Signatur, die auf einem Zertifikat einer anerkannten Anbieterin basiert. 3 Für jede Verbundteilnehmerin und jeden Verbundteilnehmer wird auf der Zustellplattform ein Postfach eingerichtet. Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ( AS 2019 3451 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "15",
+      "title": "Übergangsbestimmung",
+      "content": "1 Das EJPD kann auf Verlangen eine Zustellplattform vorläufig anerkennen, wenn aus dem Anerkennungsgesuch nach summarischer Prüfung ersichtlich ist, dass die Voraussetzungen nach Artikel 2 wahrscheinlich erfüllt sind. 2 Vorläufige Anerkennungen nach Absatz 1 sowie solche nach bisherigem Recht gelten bis zum definitiven Entscheid, längstens aber bis zum 31. Dezember 2016. Fassung gemäss Ziff. I der V vom 15. Mai 2013, in Kraft seit 1. Juli 2013 ( AS 2013 1535 ). Fassung gemäss Ziff. I der V vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 5565 )."
+    },
+    {
+      "provision_ref": "art15a",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "15a",
+      "title": "a Übergangsbestimmung zur Änderung vom 23. November 2016",
+      "content": "Für Quittungen nach Artikel 2 Buchstabe b genügt bis 31. Dezember 2018 das Anbringen einer fortgeschrittenen elektronischen Signatur (Art. 2 Bst. b ZertES), die auf einem Zertifikat einer anerkannten Anbieterin basiert. Eingefügt durch Anhang Ziff. II 6 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ( AS 2016 4667 ). SR 943.03"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2011 in Kraft."
+    }
+  ],
+  "definitions": []
+}

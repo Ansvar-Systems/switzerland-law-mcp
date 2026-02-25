@@ -1,0 +1,68 @@
+{
+  "id": "sr-672-203",
+  "type": "statute",
+  "title": "Verordnung vom 22. Dezember 2004 über die Steuerentlastung schweizerischer Dividenden aus wesentlichen Beteiligungen ausländischer Gesellschaften",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2005/6/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt das Meldeverfahren, mit dem die in einem Doppelbesteuerungsabkommen oder in einem anderen Staatsvertrag für wesentliche Beteiligungen vorgesehene Steuerentlastung von Dividenden an der Quelle erfolgt. 2 Sie gilt für schweizerische Gesellschaften, die nach dem Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer Steuern auf Dividenden zu erheben haben und an denen eine Kapitalgesellschaft wesentlich beteiligt ist, die in einem Staat ansässig ist, mit dem die Schweiz ein Doppelbesteuerungsabkommen oder einen anderen Staatsvertrag abgeschlossen hat (ausländische Gesellschaft). SR 642.21"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Wesentliche Beteiligung",
+      "content": "1 Eine ausländische Gesellschaft ist dann wesentlich an der schweizerischen Gesellschaft beteiligt, wenn sie mindestens über die Beteiligung verfügt, die sie nach dem massgebenden Doppelbesteuerungsabkommen oder einem anderen Staatsvertrag zur Beanspruchung einer zusätzlichen oder vollständigen Entlastung von der Verrechnungssteuer berechtigt. 2 Enthält das massgebende Doppelbesteuerungsabkommen oder der andere Staatsvertrag keine Bestimmung über die zusätzliche oder vollständige Entlastung bei wesentlichen Beteiligungen, so muss die ausländische Gesellschaft unmittelbar über mindestens 20 Prozent des Kapitals der schweizerischen Gesellschaft verfügen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Bewilligung des Meldeverfahrens",
+      "content": "1 Die Eidgenössische Steuerverwaltung (ESTV) kann der schweizerischen Gesellschaft auf Gesuch hin die Bewilligung erteilen, auf die an eine ausländische Gesellschaft ausgerichteten Dividenden direkt die im massgebenden Doppelbesteuerungsabkommen oder in einem anderen Staatsvertrag für wesentliche Beteiligungen vorgesehene Entlastung von der Verrechnungssteuer vorzunehmen. 2 Das Gesuch ist vor Fälligkeit der Dividenden mit amtlichem Formular einzureichen. 3 Die ESTV prüft, ob die ausländische Gesellschaft nach dem massgebenden Doppelbesteuerungsabkommen oder dem anderen Staatsvertrag Anspruch auf die Entlastung hat. 4 Die Bewilligung wird schriftlich mitgeteilt und gilt drei Jahre. 5 Wird das Gesuch ganz oder teilweise abgelehnt, so kann die schweizerische Gesellschaft von der ESTV einen Entscheid verlangen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Wegfall der Bewilligungsvoraussetzungen",
+      "content": "Die die Dividenden zahlende schweizerische Gesellschaft muss der ESTV unverzüglich Meldung erstatten, sobald die Voraussetzungen für die Beanspruchung des Meldeverfahrens nicht mehr erfüllt sind."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Meldung an die ESTV",
+      "content": "1 Verfügt die die Dividenden zahlende schweizerische Gesellschaft über eine Bewilligung, so meldet sie die Ausrichtung der Dividende unaufgefordert und innert 30 Tagen mit Formular 108. Dieses ist zusammen mit dem amtlichen Erhebungsformular bei der ESTV einzureichen. 2 Absatz 1 gilt auch, wenn die Bewilligung noch nicht erteilt oder das Gesuch aus wichtigen Gründen nicht rechtzeitig eingereicht wurde. Im letzteren Fall ist das Formular 108 zusammen mit dem Gesuch nachzureichen. Ergibt die Prüfung nach Artikel 3 Absatz 3, dass vom Meldeverfahren zu Unrecht Gebrauch gemacht wurde, so werden die Verrechnungssteuer und ein allfälliger Verzugszins nacherhoben. Wird die Nacherhebung bestritten, so trifft die ESTV einen Entscheid."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Rechtsmittel",
+      "content": "1 Entscheide der ESTV unterliegen der Beschwerde nach den allgemeinen Bestimmungen über die Bundesrechtspflege. 2 Zur Beschwerde an das Bundesgericht ist auch die ESTV berechtigt. Fassung gemäss Ziff. II 50 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ( AS 2006 4705 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Informationsaustausch",
+      "content": "Die ESTV kann den zuständigen ausländischen Steuerbehörden Doppel der Formulare 108 übermitteln."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Reziprozität",
+      "content": "1 Die ESTV entscheidet darüber, inwieweit das Meldeverfahren nur auf Staaten angewendet wird, die Gegenseitigkeit gewähren. 2 Staaten, auf die das Meldeverfahren nicht angewendet wird, werden in einem Anhang dieser Verordnung aufgeführt. Die ESTV passt diese Liste nach Bedarf dem neuesten Stand der Entwicklung an."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2005 in Kraft."
+    }
+  ],
+  "definitions": []
+}

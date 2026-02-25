@@ -1,0 +1,38 @@
+{
+  "id": "sr-641-814-2",
+  "type": "statute",
+  "title": "Verordnung des EFD vom 7. August 2024 über die Höhe des Entgelts für Dienstleistungen von EETS- und NETS-Anbietern im Zusammenhang mit der Erhebung der leistungsabhängigen Schwerverkehrsabgabe",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2024/455/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Höhe des Entgelts für zugelassene EETS-Anbieter",
+      "content": "Das Entgelt für zugelassene Anbieter eines europäischen Dienstes zur elektronischen Erhebung von Strassenbenützungsgebühren (EETS-Anbieter) beträgt: a. für Dienstleistungen im Zusammenhang mit ausländischen Fahrzeugen: 2,7 Prozent der dem EETS-Anbieter vom Bundesamt für Zoll und Grenzsicherheit (BAZG) für ausländische Fahrzeuge in Rechnung gestellten Abgabe; b. für Dienstleistungen im Zusammenhang mit inländischen Fahrzeugen: 4 Franken pro Monat für jedes vom EETS-Anbieter mit einem fahrzeugseitigen Erfassungssystem ausgerüstete Motorfahrzeug, das gemäss dem Informationssystem des BAZG am 15. des Monats in Verkehr steht."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Höhe des Entgelts für zugelassene NETS-Anbieter",
+      "content": "Das Entgelt für zugelassene Anbieter eines nationalen Dienstes zur elektronischen Erhebung von Strassenbenützungsgebühren (NETS-Anbieter) beträgt 5 Franken pro Monat für jedes vom Anbieter mit einem fahrzeugseitigen Erfassungssystem ausgerüstete Motorfahrzeug, das gemäss dem Informationssystem des BAZG am 15. des Monats in Verkehr steht."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Auszahlung des Entgelts",
+      "content": "1 Das Entgelt wird monatlich ausbezahlt. 2 Bei EETS-Anbietern kann es mit der für ausländische Fahrzeuge in Rechnung gestellten Abgabe verrechnet werden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Oktober 2024 in Kraft."
+    }
+  ],
+  "definitions": []
+}

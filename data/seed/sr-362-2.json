@@ -1,0 +1,149 @@
+{
+  "id": "sr-362-2",
+  "type": "statute",
+  "title": "Bundesgesetz vom 21. März 2025 über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Schweiz und denjenigen der anderen Schengen-Staaten (Schengen-Informationsaustauschgesetz, SIAG)",
+  "title_en": "Federal Act of 21 March 2025 on the Exchange of Information between the Swiss Law Enforcement Authorities and those of the Other Schengen States (Schengen Information Exchange Act, SIEA)",
+  "short_name": "SIAG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2025/460/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Provisions",
+      "section": "1",
+      "title": "Subject matter and scope",
+      "content": "1 This Act regulates the conditions and modalities for the exchange of available information between Swiss law enforcement authorities and the law enforcement authorities of other Schengen States for the purpose of preventing, detecting and prosecuting criminal offences. This Act covers: a. the transmission of information on request; b. the transmission of information on a State’s own initiative. 2 The provisions hereof are subject to: a. the Mutual Assistance Act of 20 March 1981; b. international conventions on administrative assistance and mutual assistance in criminal matters; c. agreements with the European Union that expressly provide for the exchange of information between law enforcement authorities based on other EU legal acts. 3 This Act shall not affect further-reaching obligations in the area of administrative assistance or the more favourable provisions of bilateral or multilateral agreements that provide for the exchange of information between law enforcement authorities for the purpose of preventing, detecting and prosecuting criminal offences. SR 351.1"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Provisions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "In this Act: a. Schengen State means a State bound by one of the Schengen Association Agreements; the Schengen Association Agreements are listed in Annex 1; b. law enforcement authorities means authorities that are authorised under national law to exercise public authority and take coercive measures for the prevention, detection and prosecution of criminal offences; c. designated law enforcement authorities means law enforcement authorities of other Schengen States which are authorised under the law of those States to submit requests for information directly to the National Point of Contact referred to in Article 6; d. available information means all types of data relating to persons, facts or circumstances which are relevant to law enforcement authorities for the purpose of the prevention, detection and prosecution of criminal offences and which: 1. are stored in information systems to which the National Point of Contact has direct access (directly accessible), or 2. can be obtained by the National Point of Contact or a law enforcement authority without using coercive measures from law enforcement authorities, other authorities or private parties (indirectly accessible)."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 General Provisions",
+      "section": "3",
+      "title": "National Point of Contact",
+      "content": "1 The exchange of information under this Act shall take place exclusively via the National Point of Contact. 2 The fedpol Operations and Alarm Centre (OAC fedpol) shall carry out the following tasks as the National Point of Contact: a. receiving and evaluating requests for information; b. obtaining clarification or specifications regarding requests for information; c. forwarding requests for information to the competent law enforcement authorities and coordinating the processing of such requests; d. transmitting information to the Schengen States at their request or on its own initiative; e. refusing to send information to Schengen States; f. compiling statistics pursuant to Article 15. 3 The OAC fedpol shall use the Secure Information Exchange Network Application (SIENA) to exchange information with the contact point, the designated law enforcement authorities of the other Schengen States or with Europol. 4 It may use another secure communication channel if this is necessary due to the urgency of the transmission of information, the need to involve third countries or international organisations or an unexpected technical or operational incident."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Data protection",
+      "content": "1 The transmission of personal data in accordance with this Act requires that it is accurate, complete and up to date. 2 The transfer of personal data is limited to the categories of persons and data listed in Annex 2. 3 In all other respects, the processing of information is governed by Articles 349 a –349 h of the Swiss Criminal Code (SCC). SR 311.0"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Information security",
+      "content": "The OAC fedpol and the competent law enforcement authorities shall ensure that, when processing classified information from other Schengen States for the purpose of preventing, detecting and prosecuting criminal offences, the classifications under Swiss law that correspond or are equivalent to the respective classification level of the request are observed."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Transmission of information on request",
+      "section": "6",
+      "title": "Requests from other Schengen States",
+      "content": "1 Requests from other Schengen States for the transmission of available information for the purpose of preventing, detecting and prosecuting criminal offences must be submitted to the OAC fedpol. 2 Requests for information must be written in an official Swiss language or in English and contain the following information: a. the requesting body; b. the information requested; c. the purpose for which the information is requested; d. a description of the facts of the underlying offence; e. the objective reasons for which it is believed that the requested information is available to the law enforcement authorities; f. an explanation of the connection between the purpose for which the information is requested and any natural or legal persons to which the information relates; g. in the case of urgent requests, the reasons why the request is considered urgent; a request is considered urgent if: 1. the information is essential to prevent an immediate and serious threat to public security, 2. the information is necessary in order to prevent an imminent threat to the life or the physical integrity of a person, 3. the information is necessary in order to issue a decision that involves the maintenance of restrictive measures amounting to a deprivation of liberty, or 4. the request contains important information for the prevention, detection and prosecution of criminal offences which is at imminent risk of losing relevance if not provided urgently; h. any restrictions on the use of the information contained in the request. 3 If the conditions set out in paragraph 2 are not met or if clarification of the content is required, the OAC fedpol shall inform the requesting National Point of Contact or the designated law enforcement authority in writing without delay and give it the opportunity to supplement the request."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Transmission of information on request",
+      "section": "7",
+      "title": "Response",
+      "content": "1 The OAC fedpol shall respond to the request in the language in which it was made; it shall refer to any restrictions on the use of the information and to the confidentiality obligations. 2 If the response to a request is refused, the OAC fedpol shall inform the requesting authority of the reason for refusal within the period specified in Article 9. 3 When responding to a request from a designated law enforcement authority, the OAC fedpol shall also send a copy of the information to the National Point of Contact of the requesting Schengen State, provided that this does not jeopardise highly sensitive investigations or the safety of a person."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Transmission of information on request",
+      "section": "8",
+      "title": "Reasons for refusal",
+      "content": "1 An exchange of information shall be refused if: a. the request does not fulfil the requirements set out in Article 6 paragraph 2; b. the transmission of the requested information could harm essential national security interests; c. the information requested does not appear to be relevant or necessary for the prevention, detection or prosecution of a criminal offence; d. the transmission of the requested information could jeopardise the success of ongoing investigations or the safety of an individual; e. the transmission of the requested information would unduly harm the protected important interests of a legal person; f. the requested personal data do not correspond to the categories of persons and data set out in Annex 2; g. the requested information is to be used as evidence before a judicial authority; h. the request relates to a criminal offence under Swiss law that carries a maximum custodial sentence of one year; i. the request relates to an offence that does not constitute a criminal offence under Swiss law; j. the requested information was originally obtained from another Schengen State or third country and the latter has not consented to the provision of the information; Article 349 d paragraph 2 SCC remains reserved; k. access to the information and its transmission must be authorised by a judicial authority and this authority has refused authorisation; l. the information requested has been found to be inaccurate, incomplete or no longer up to date; m. the requested information has been obtained through the use of coercive measures or must be newly obtained or is protected by national law; or n. the requested information is not available to the law enforcement authorities. 2 If the reason for refusal relates only to part of the information requested, the other information must be transmitted within the deadline. SR 311.0"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Time limits",
+      "content": "1 If the information requested is directly accessible (Art. 2 let. d no 1), the following time limits apply for responding to the request from receipt of the request: a. eight hours for urgent requests; b. seven days for non-urgent requests. 2 If the information requested is only indirectly accessible (Art. 2 let. d no 2), the following time limits apply for responding to the request from receipt of the request: a. three days for urgent requests; b. seven days for non-urgent requests. 3 If supplementary information is requested in accordance with Article 6 paragraph 2, the deadline shall be suspended until it is received. 4 The time limits may be waived if the consent of a judicial authority is required for the exchange of information. The OAC fedpol or the competent law enforcement authority shall request this consent ex officio and inform the requesting Schengen State of the delay."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Gathering of information",
+      "content": "1 On request, the competent law enforcement authorities shall provide the OAC fedpol with the available information that is likely to be required to respond to a request from another Schengen State. 2 To this end, the OAC fedpol shall transmit the full content of the request to the competent law enforcement authorities and set them a reasonable deadline for the transmission of the available information. 3 If the request from the Schengen State concerns available information that does not relate to offences under federal jurisdiction and is not processed in accordance with Article 306 of the Swiss Criminal Procedure Code (CrimPC), the competent cantonal law enforcement authorities shall forward it to the OAC fedpol if this is provided for by cantonal law. SR 312.0"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Swiss requests",
+      "content": "1 The Swiss law enforcement authorities shall submit their request for the transmission of available information for the purpose of preventing, detecting and prosecuting criminal offences via the OAC fedpol to other Schengen States. 2 The request must be written in a language specified by the Schengen State concerned or in English and must contain the information required in accordance with Article 6 paragraph 2. 3 The OAC fedpol shall check whether the request fulfils the requirements of paragraph 2. If this is not the case, it shall inform the requesting law enforcement authority and give it the opportunity to revise its request. If the requirements are met, it shall forward the request to the National Point of Contact of the Schengen State concerned. 4 It shall forward the information received from the Schengen State to the requesting law enforcement authority and make reference to any restrictions on the use of the information and to the confidentiality obligations."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 Own-Initiative Transmission of Information",
+      "section": "12",
+      "title": "Transmission of information to other Schengen States",
+      "content": "1 The Swiss law enforcement authorities may, on their own initiative, transmit the available information to the competent law enforcement authorities of the other Schengen States if they have reason to believe that it could be of significance for the prevention, detection and prosecution of criminal offences. 2 They must transmit the available information if they have reason to believe that it could be of significance for the prevention, detection and prosecution of the offences listed in Annex 3. 3 The transmission of information pursuant to paragraphs 1 and 2 is not permitted if any of the grounds in Article 8 paragraph 1 applies. 4 The law enforcement authorities shall provide the OAC fedpol with the information intended for transmission to the National Point of Contact of the Schengen State concerned if it relates to offences under federal jurisdiction or is processed in accordance with Article 306 of the Swiss Code of Criminal Procedure. In other cases, they shall provide the information to the OAC fedpol if this permitted under cantonal law. 5 The OAC fedpol shall check whether: a. the information is written in the language specified by the Schengen State concerned or in English; b. it meets the requirements of Article 6 paragraph 2; and c. there is no reason why transmission is not permitted pursuant to paragraph 3. 6 If the conditions set out in paragraph 5 are met, it shall transmit the information to the National Point of Contact of the Schengen State concerned; it must make reference to any restrictions on the use of the information and to the confidentiality obligations. SR 312.0"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3 Own-Initiative Transmission of Information",
+      "section": "13",
+      "title": "Information transmitted by other Schengen States",
+      "content": "1 The OAC fedpol shall forward information that other Schengen States have transmitted to it on their own initiative for the purpose of preventing, detecting and prosecuting criminal offences to the relevant Swiss law enforcement authorities. 2 It must refer the law enforcement authorities to any restrictions on the use of the information transmitted and to the confidentiality obligations."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 4 Data Processing and Statistics",
+      "section": "14",
+      "title": "Data processing",
+      "content": "In order to fulfil its duties under this Act, the OAC fedpol may process personal data in accordance with Annex 2, including the sensitive data of natural and legal persons."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 4 Data Processing and Statistics",
+      "section": "15",
+      "title": "Statistics",
+      "content": "1 The OAC fedpol shall compile annual statistics, with details of the number of: a. requests for information; b. answered requests for information, broken down by urgent and non-urgent requests for information and by the requesting Schengen States; c. rejected requests for information, broken down by requesting Schengen States and reasons for rejection; d. cases in which the time limits laid down in Article 9 have been deviated from because judicial authorisation was required, broken down by requesting Schengen State. 2 The statistics must not allow any inferences to be drawn about the persons concerned."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 5 Final Provisions",
+      "section": "16",
+      "title": "Repeal of other legislation",
+      "content": "The Schengen Information Exchange Act of 12 June 2009 is repealed. [ AS 2009 6583 ; 2019 625 No II 9; 2025 348 Annex No 4]"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 5 Final Provisions",
+      "section": "17",
+      "title": "Coordination with the Transplantation Act",
+      "content": "Irrespective of whether this Schengen Information Exchange Act or the amendment of 29 September 2023 to the Transplantation Act of 8 October 2004 comes into force first, the following provision shall read as follows when the act that comes into force later comes into force or if both acts come into force at the same time: Annex 3 No 30 30. Illegal trade in organs and human tissue Misdemeanours (Art. 24 para. 1–3 StRA) Misuse of reproductive material and acting without consent or a licence (Art. 32 and 34 RMA) Felonies and misdemeanours (Art. 69 para. 1, 2 and 4 Transplantation Act) Commencement date: 17 July 2025 AS 2025 421 SR 810.21 Stem Cell Research Act of 19 Dec. 2003 ( SR 810.31 ). Reproductive Medicine Act of 18 Dec. 1998 ( SR 810.11 ). Transplantation Act of 8 Oct. 2004 ( SR 810.21 ). FCD of 25 June 2025 ( AS 2025 459 )."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Schengen State",
+      "definition": "Schengen State means a State bound by one of the Schengen Association Agreements; the Schengen Association Agreements are listed in Annex 1;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "law enforcement authorities",
+      "definition": "law enforcement authorities means authorities that are authorised under national law to exercise public authority and take coercive measures for the prevention, detection and prosecution of criminal offences;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "designated law enforcement authorities",
+      "definition": "designated law enforcement authorities means law enforcement authorities of other Schengen States which are authorised under the law of those States to submit requests for information directly to the National Point of Contact referred to in Article 6;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "available information",
+      "definition": "available information means all types of data relating to persons, facts or circumstances which are relevant to law enforcement authorities for the purpose of the prevention, detection and prosecution of criminal offences and which: 1. are stored in information systems to which the National Point of Contact has direct access (directly accessible), or",
+      "source_provision": "art2"
+    }
+  ]
+}

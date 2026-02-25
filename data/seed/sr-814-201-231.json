@@ -1,0 +1,38 @@
+{
+  "id": "sr-814-201-231",
+  "type": "statute",
+  "title": "Verordnung des UVEK vom 3. November 2016 zur Überprüfung des Reinigungseffekts von Massnahmen zur Elimination von organischen Spurenstoffen bei Abwasserreinigungsanlagen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/671/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. anhand welcher Substanzen der Reinigungseffekt von Massnahmen zur Elimination von organischen Spurenstoffen nach Artikel 61 a Absatz 1 des Gewässerschutzgesetzes vom 24. Januar 1991 gemessen wird; b. wie der Reinigungseffekt berechnet wird. SR 814.20"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Zu messende Substanzen",
+      "content": "Für die Überprüfung des Reinigungseffekts von Massnahmen zur Elimination von organischen Spurenstoffen ist die Konzentration der nachfolgenden Substanzen zu messen. Sie werden in die Kategorie 1 (sehr gut eliminierbare Substanzen) und in die Kategorie 2 (gut eliminierbare Substanzen) eingeteilt: a. Kategorie 1 : – Amisulprid (CAS-Nr. 71675-85-9), – Carbamazepin (CAS-Nr. 298-46-4), – Citalopram (CAS-Nr. 59729-33-8), – Clarithromycin (CAS-Nr. 81103-11-9), – Diclofenac (CAS-Nr. 15307-86-5), – Hydrochlorothiazid (CAS-Nr. 58-93-5), – Metoprolol (CAS-Nr. 37350-58-6), – Venlafaxin (CAS-Nr. 93413-69-5); b. Kategorie 2 : – Benzotriazol (CAS-Nr. 95-14-7), – Candesartan (CAS-Nr. 139481-59-7), – Irbesartan (CAS-Nr. 138402-11-6), – 4-Methylbenzotriazol (CAS-Nr. 29878-31-7) und 5-Methylbenzotriazol (CAS‑Nr. 136‑85‑6) als Gemisch."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Berechnung des Reinigungseffekts",
+      "content": "1 Die Berechnung des Reinigungseffekts hat aufgrund von mindestens sechs Substanzen zu erfolgen. Dabei muss das Verhältnis der Substanzen der Kategorie 1 zu den Substanzen der Kategorie 2 zwei zu eins betragen. 2 Sind bei den zu messenden Substanzen weniger als sechs Substanzen in einer ausreichenden Konzentration vorhanden, so legt die kantonale Behörde in Absprache mit dem Bundesamt für Umwelt soweit sinnvoll weitere Substanzen zur Berechnung des Reinigungseffekts fest. 3 Massgebend für die Erzielung des geforderten Reinigungseffekts ist der Mittelwert der prozentualen Eliminationen aller zur Berechnung herangezogenen Substanzen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Dezember 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

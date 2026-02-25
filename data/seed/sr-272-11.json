@@ -1,0 +1,50 @@
+{
+  "id": "sr-272-11",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 16. September 2014 über die Anerkennung von Plattformen für die sichere Zustellung im Rahmen von rechtlichen Verfahren (Anerkennungsverordnung Zustellplattformen)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/523/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die Voraussetzungen und das Verfahren für die Anerkennung von Plattformen für die sichere Zustellung nach der VeÜ-ZSSV und der VeÜ‑VwV."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Voraussetzungen für die Anerkennung",
+      "content": "Zustellplattformen werden anerkannt, wenn sie die Anforderungen nach dem Anhang erfüllen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Gesuch und einzureichende Unterlagen",
+      "content": "1 Das Gesuch um Anerkennung einer Zustellplattform ist schriftlich beim Bundesamt für Justiz (BJ) einzureichen. 2 Das Gesuch hat die Erfüllung der Anforderungen nach dem Anhang nachzuweisen. 3 Mit dem Gesuch sind folgende Unterlagen einzureichen: a. eine technische Beschreibung der Zustellplattform; b. ein Informatiksicherheitskonzept; c. eine Beschreibung der IT-Service-Management-Prozesse; d. eine detaillierte Beschreibung des Geltungsbereichs des Informationssicherheitsmanagementsystems nach Ziffer 4 des Anhangs; e. von Privatunternehmen: das ISO-Zertifikat nach Ziffer 4.1 des Anhangs; f. von Behörden: der Bericht zum internen Audit nach Ziffer 4.2 des Anhangs; g. Angaben zum Referenzzeitserver, der für die Synchronisierung der Systemzeit der Zustellplattform verwendet wird. 4 Das BJ kann für die Prüfung der eingereichten Unterlagen Dritte beiziehen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Bericht- und Meldepflichten",
+      "content": "1 Die Unterlagen nach Artikel 3 Absatz 3 sind alle drei Jahre zu aktualisieren und dem BJ zuzustellen. 2 Jede Änderung an der Zustellplattform ist dem BJ umgehend zu melden. 3 Das BJ kann jederzeit prüfen, ob die Zustellplattform den Anforderungen entspricht, und dazu Unterlagen und Nachweise einfordern."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Liste der anerkannten Zustellplattformen",
+      "content": "Das BJ führt eine Liste der anerkannten Zustellplattformen und veröffentlicht diese im Internet. Die Liste kann im Internet eingesehen werden unter: www.bj.admin.ch > Staat & Bürger > Rechtsinformatik > Elektronische Übermittlung."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. November 2014 in Kraft."
+    }
+  ],
+  "definitions": []
+}

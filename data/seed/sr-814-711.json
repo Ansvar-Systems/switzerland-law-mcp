@@ -1,0 +1,232 @@
+{
+  "id": "sr-814-711",
+  "type": "statute",
+  "title": "Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG)",
+  "title_en": "Ordinance of 27 February 2019 to the Federal Act on Protection against the Risks associated with Non-Ionising Radiation and with Sound (O-NIRSA)",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2019/183/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 Use of Solariums",
+      "section": "1",
+      "title": "Definition",
+      "content": "For the purposes of this Section, solariums means systems, devices and lamps which expose the skin to ultraviolet (UV) radiation."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 Use of Solariums",
+      "section": "2",
+      "title": "Duties of the operator",
+      "content": "1 Solarium operators must ensure that: a. solariums for users are visibly classified as UV type 1, 2, 3 or 4 in accordance with Annex 1 Number 1; b. the total erythemal effective irradiance of a solarium, taking into account the maximum values of the radiation components given in Annex 1 Number 1, does not exceed 0.3 watt per square metre; c. a device-specific irradiation plan in accordance to Annex 1 Number 2 shall be made available to the users; d. UV protective goggles of the type specified by the solarium manufacturer are available; e. users may only use a solarium of UV type 4 if they present a medical certificate to the staff. 2 The operator must equip and operate the solarium in such a way that: a. persons aged under 18 years cannot use the solarium; b. the users can easily set the parameters of the exposure schedule on the solarium. 3 The operator, prior to the users using the solarium, must: a. inform them that risk groups, as specified in Annex 1 Number 3, must not use a solarium under any circumstances; b. explain the dangers of UV irradiation as listed in Annex 1 Number 4, as well as measures to minimise these dangers."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 Use of Solariums",
+      "section": "3",
+      "title": "Unattended solariums",
+      "content": "In the absence of an attendant, solarium operators may only make solariums of UV type 3 available."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 Use of Solariums",
+      "section": "4",
+      "title": "Attended solariums",
+      "content": "For the operation of solariums of UV types 1, 2 and 4, solarium operators must deploy personnel trained in accordance with the following standards: a. SN EN 16489–1:2014, « Professional indoor UV exposure services – Part 1: Requirements for the provision of training » ; b. SN EN 16489–2:2015, « Professional indoor UV exposure services – Part 2: Required qualification and competence of the indoor UV exposure consultant » . This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, www.snv.ch ."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Use of Products for Cosmetic Purposes",
+      "section": "5",
+      "title": "Carrying out treatments",
+      "content": "1 Treatments as specified in Annex 2 Number 1 with products that for their effect generate non-ionising radiation or sound may be carried out by the following persons: a. physicians who are authorised to practice their profession under their own professional responsibility; b. practice personnel directly instructed by and under the direct supervision and responsibility of a physician as specified under letter a; c. persons with a certificate of competence obtained through an examination. 2 Treatments specified in Annex 2 Number 2 with such products shall be performed exclusively by persons specified in paragraph 1 letters a or b."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Use of Products for Cosmetic Purposes",
+      "section": "6",
+      "title": "Prohibited use",
+      "content": "The following are prohibited: a. removal of tattoos and permanent make-up by means of intense pulsed light (IPL); b. removal of melanocytic naevi by means of a laser or IPL."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Use of Products for Cosmetic Purposes",
+      "section": "7",
+      "title": "Responsibilities of the administrative body for certificates of competence",
+      "content": "1 The administrative body for certificates of competence shall be made up of the professional associations with medical and cosmetic orientation. 2 It draws up the training programme, the examination content and the examination regulations for the certificates of competence. The training programme must provide the know-how and skills as specified in Annex 2 Number 3, and which reflect the state of the art in science and technology. The examinations must certify the acquisition of these skills and know-how."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Use of Products for Cosmetic Purposes",
+      "section": "8",
+      "title": "Responsibilities of the examining bodies",
+      "content": "1 The examining bodies shall conduct examinations and issue the certificates of competence. 2 They shall notify the Federal Office of Public Health (FOPH) of the certificates of competence issued, including the following details of the recipient: a. name and first name; b. date of birth; c. treatments the recipient is permitted to carry out in accordance with Annex 2 Number 1."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 2 Use of Products for Cosmetic Purposes",
+      "section": "9",
+      "title": "Requirements for training and examinations",
+      "content": "1 Training and examinations must reflect the training programme and the examination content. 2 The FDHA, by means of an Ordinance, adopts a list of certificates of competence which fulfil the requirements of Annex 2 Number 3. 3 The FOPH recognises the equivalence of other training qualifications if the acquired skills and knowledge fulfil these requirements."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 3 Events involving Laser Radiation",
+      "section": "10",
+      "title": "Definitions",
+      "content": "For the purposes of this Section: a. event involving laser radiation means: a laser light show, holographic projection or astronomy presentation; b. audience zone means: the floor area reserved for the audience, including the space up to 3 metres above and 2.5 metres to the side of the floor area."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 3 Events involving Laser Radiation",
+      "section": "11",
+      "title": "Classification of laser devices",
+      "content": "Laser devices are assigned to Classes 1, 1M, 2, 2M, 3R, 3B and 4 in accordance with SN EN 60825–1:2014, « Safety of laser products – Part 1: Equipment classification and requirements » . This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, www.snv.ch ."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 Events involving Laser Radiation",
+      "section": "12",
+      "title": "Event with no laser radiation in the audience zone",
+      "content": "1 Any person who conducts an event without laser radiation in the audience zone, but at which a laser device of Class 1M, 2M, 3R, 3B or 4 is operated, must appoint a person meeting the requirements of paragraph 2 letter a to do this. 2 The person who operates the laser device must: a. have a certificate of competence level 1 as specified in Article 16 paragraph 1 letter a or a certificate of competence level 2 as specified in Article 16 paragraph 1 letter b; b. comply with the requirements specified in Annex 3 Number 1.1; c. notify the FOPH, via its notification portal, no later than 14 days before the event, in accordance with Annex 3 Numbers 2.1 and 2.2."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3 Events involving Laser Radiation",
+      "section": "13",
+      "title": "Event with laser radiation in the audience zone",
+      "content": "1 Any person who conducts an event with laser radiation in the audience zone, at which a laser device of Class 1M, 2M, 3R, 3B or 4 is operated, must appoint a person meeting the requirements of paragraph 2 letter a to do this. 2 The person who operates the laser device must: a. have a certificate of competence level 2 as specified in Article 16 letter b; b. comply with the requirements specified in Annex 3 Number 1.2; c. notify the FOPH, via its notification portal, no later than 14 days before the event, in accordance with Annex 3 Numbers 2.1 and 2.3. 3 Persons with a certificate of competence level 2 may instruct a person with a certificate of competence level 1 to supervise an event with laser radiation in the audience zone."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 3 Events involving Laser Radiation",
+      "section": "14",
+      "title": "Laser radiation in or into the open air",
+      "content": "1 Any person who operates a laser device of any class to emit laser radiation in or into the open air may not endanger other people; in particular, pilots, airport staff and locomotive or motor vehicle drivers must not be dazzled. 2 If a laser device emits laser radiation into airspace, then, in order to ensure the safety of flight operations, the following persons shall provide the following information to the FOPH via its notification portal no later than 14 days in advance in accordance with Annex 3 Number 2.1: a. to operate laser devices of Class 1M, 2M, 3R, 3B or 4: the person with a certificate of competence level 1 or 2 pursuant to Articles 12 or 13; b. to operate laser devices of Class 1 or 2: the organiser."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Notification portal for events involving laser radiation",
+      "content": "1 The FOPH shall maintain an electronic notification portal for events involving laser radiation. 2 Data in accordance with Annex 3 Number 2 is collected via this portal. 3 The FOPH shall use the data exclusively for the tasks under this Ordinance. 4 No later than 10 years after the end of the event or series of events, the FOPH shall offer personal data to the Federal Archive and destroy data designated as not worth archiving by the Federal Archive. 5 It shall ensure that the notification portal operates with state of the art technology with regard to data protection and data security."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Acquisition of competence",
+      "content": "1 Training and examinations for the acquisition of competence must comprise the following modules: a. for the certificate of competence level 1, the modules specified in Annex 3 Numbers 3.1–3.3; b. for the certificate of competence level 2, the modules specified in Annex 3 Numbers 3.1–3.4. 2 The certificate of competences at levels 1 and 2 are obtained by passing an examination. 3 The training and the examination must correspond to the state of the art in science and technology. 4 The FDHA, by means of an Ordinance, shall maintain a list of the certificates of competence at levels 1 and 2 which fulfil the requirements of Annex 3 Number 3. 5 The FOPH shall recognise the equivalence of other training qualifications if the acquired skills and knowledge fulfil these requirements."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Responsibilities of the examining bodies",
+      "content": "The examining bodies shall carry out the examinations, issue the certificates of competence at levels 1 and 2, and keep examination statistics."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 4 Events involving Sound",
+      "section": "18",
+      "title": "Average sound level",
+      "content": "The average sound level L Aeq1h is defined as the A-weighted and equivalent long-term sound level L Aeq measured over 60 minutes in dB(A)."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 4 Events involving Sound",
+      "section": "19",
+      "title": "Sound level limit values for events",
+      "content": "1 At events involving electroacoustically amplified sound: a. the average sound level must not exceed 100 dB(A); b. the maximum sound level must not exceed 125 dB(A) at any time. 2 At events for children or adolescents under 16, the average sound level must not exceed 93 dB(A)."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 4 Events involving Sound",
+      "section": "20",
+      "title": "Obligations of the event organiser",
+      "content": "1 Any person who carries out events involving electroacoustically amplified sound must: a. in the case of an average sound level greater than 93 dB(A), notify this in writing to the cantonal enforcement authority at least 14 days beforehand with the information specified in Annex 4 Number 1; b. in the case of an average sound level greater than 93 dB(A) and less than or equal to 96 dB(A), comply with the requirements specified in Annex 4 Number 2; c. in the case of an average sound level greater than 96 dB(A) and less than or equal to 100 dB(A): 1. with a sound exposure time for no longer than three hours, comply with the requirements specified in Annex 4 Number 3.1, 2. with a sound exposure time for more than three hours, comply with the requirements specified in Annex 4 Number 3.2. 2 At an event involving electroacoustically amplified sound whose average sound level overall is greater than 93 dB(A), and which comprises a number of component events at the same location, the component event with the highest average sound level determines whether the obligations specified in paragraph 1 letter b must be met for the whole period of the event or whether these obligations are governed by paragraph 1 letter c. 3 Any person who carries out events involving sound that is not electroacoustically amplified with an average sound level greater than 93 dB(A) must, both in buildings and at fixed outdoor locations, comply with the requirements specified in Annex 4 Number 4."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 4 Events involving Sound",
+      "section": "21",
+      "title": "Determination of the sound levels and control measurements",
+      "content": "1 Measurements and calculations to determine the sound level shall comply with Annex 4 Number 5. 2 The cantonal enforcement body may terminate a sound measurement as soon as it can demonstrate by calculation that the limit for the notified average sound level is exceeded."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 5 Laser Pointers",
+      "section": "22",
+      "title": "Definition",
+      "content": "For the purposes of this Section, laser pointer means a laser device which, on account of its size and weight, can be held in and guided by hand and which emits laser radiation for pointing out objects and locations, for entertainment and for defence or repellent purposes."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 5 Laser Pointers",
+      "section": "23",
+      "title": "Prohibitions and permissible use",
+      "content": "1 The import, transit, offering and supply and the possession of the following are prohibited: a. laser pointers of Classes 1M, 2, 2M, 3R, 3B and 4; b. laser pointers which are not or are incorrectly labelled with a laser class in accordance with SN EN 60825–1:2014, « Safety of laser products – Part 1: Equipment classification and requirements » ; c. an accessory which is able to focus the laser radiation emitted by laser pointers. 2 The import and possession of laser pointers of classes 1, 1M, 2, 2M, 3R and 3B are permitted for the purpose of bird control on airport perimeters, insofar as the competent authorities have authorised their use for this purpose. 3 Class 1 laser pointers may only be used indoors and only for pointing purposes. This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, www.snv.ch ."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 6 Enforcement and Fees Charged by the Federal Authorities",
+      "section": "24",
+      "title": "Responsibilities of the FOPH",
+      "content": "1 The FOPH shall enforce Section 3 concerning events involving laser radiation as follows: a. It shall review the submitted notifications, and it may verify compliance with the requirements on-site. b. It shall transmit notifications pertaining to laser radiation into the airspace as specified in Article 14 paragraph 2 to the competent body for flight safety. 2 It shall make enforcement aids available to the federal and cantonal enforcement bodies."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 6 Enforcement and Fees Charged by the Federal Authorities",
+      "section": "25",
+      "title": "Responsibilities of the Federal Customs Administration",
+      "content": "The Federal Customs Administration shall enforce the prohibition on import and transit specified in Article 23 paragraph 1."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 6 Enforcement and Fees Charged by the Federal Authorities",
+      "section": "26",
+      "title": "Fees",
+      "content": "1 Fees are charged for controls and measures. They are charged according to the time spent. The hourly rate is 90–200 Swiss francs, depending on the requisite expertise and the seniority of the personnel involved. 2 No fees are charged for controls that do not reveal any non‑compliance. 3 Otherwise, the provisions of the General Fees Ordinance of 8 September 2004 apply. SR 172.041.1"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 6 Enforcement and Fees Charged by the Federal Authorities",
+      "section": "27",
+      "title": "Controls by the enforcement bodies and cooperation duties",
+      "content": "1 The FOPH and the cantonal enforcement bodies may carry out unannounced controls and measurements in event venues and premises with a view to collecting further evidence. 2 The FOPH and cantonal enforcement bodies shall be provided, free of charge, with all the information and documents they require and with access to the premises and event. 3 With regard to on-site controls for events involving laser radiation, the directives from the FOPH shall be implemented without delay."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 7 Final Provisions",
+      "section": "28",
+      "title": "Repeal and amendment of other legislation",
+      "content": "1 The Sound Levels and Laser Ordinance of 28 February 2007 is repealed. 2 ... [ AS 2007 1307 , 2010 4489 No I II, 2012 793 ] The amendment may be consulted under AS 2019 999 ."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 7 Final Provisions",
+      "section": "29",
+      "title": "Transitional provisions",
+      "content": "1 Operators of solariums must: a. have equipped and operate their solariums in accordance with the requirements of this Ordinance one year at the latest after this Ordinance comes into force; b. by 1 January 2022 at the latest have equipped their solariums in such a way, and operate them as of this date, such that they cannot be used by persons aged under 18. 2 Treatments as specified in Annex 2 Number 1 may continue to be carried out up to five years after this Ordinance comes into force without the certificate of competence specified in Article 5. In this regard, the use of Class 4 lasers and of high energetic pulsed non-coherent light sources which are commercialised as medical devices is governed by Annex 6 Number 1 letters b and c and Number 2 letters b and c of the Medical Devices Ordinance of 17 October 2001 as amended on 24 March 2010. 3 Events involving laser radiation may continue to be conducted in accordance with the Sound Levels and Laser Ordinance of 28 February 2007 for up to 18 months after this Ordinance comes into force. 4 Laser pointers of Classes 1M, 2M, 3R, 3B and 4 must be disposed of professionally within one year at the latest after this Ordinance comes into force. Their possession is permitted up to then, but it is prohibited to use them. 5 Laser pointers of Class 2 must be disposed of professionally within two years at the latest after this Ordinance comes into force. Up to then their possession and use are only permitted indoors and only for pointing purposes. SR 812.213 AS 2007 1307 , 2010 4489 , 2012 793 AS 2007 1307"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Section 7 Final Provisions",
+      "section": "30",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 June 2019."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "event involving laser radiation",
+      "definition": "event involving laser radiation means: a laser light show, holographic projection or astronomy presentation;",
+      "source_provision": "art10"
+    },
+    {
+      "term": "audience zone",
+      "definition": "audience zone means: the floor area reserved for the audience, including the space up to 3 metres above and 2.5 metres to the side of the floor area.",
+      "source_provision": "art10"
+    }
+  ]
+}

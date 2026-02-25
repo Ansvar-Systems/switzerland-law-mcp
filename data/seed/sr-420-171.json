@@ -1,0 +1,77 @@
+{
+  "id": "sr-420-171",
+  "type": "statute",
+  "title": "Verordnung vom 29. November 2013 über das Informationssystem ARAMIS über Forschungs- und Innovationsprojekte des Bundes (ARAMIS-Verordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2013/818/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Informationssystem",
+      "section": "1",
+      "title": "Gegenstand und Zweck des Informationssystems",
+      "content": "1 Der Bund betreibt unter der Bezeichnung ARAMIS (Administration Research Actions Management Information System) ein Informationssystem über die Forschungs- und Innovationsprojekte, die ganz oder teilweise vom Bund finanziert oder durchgeführt werden. 2 ARAMIS dient folgenden Zwecken: a. der Schaffung von Transparenz hinsichtlich der Finanzflüsse im Bereich der Forschung und Innovation; b. der inhaltlichen Koordination der vom Bund finanzierten oder durchgeführten Projekte; c. der Datenbeschaffung für die Statistik des Bundesamtes für Statistik (BFS) im Bereich «Forschung und Entwicklung in der Bundesverwaltung»; d. der Planung und Steuerung auf dem Gebiet der Forschungs- und Innovationsförderung; e. der Unterstützung des Projektmanagements."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Informationssystem",
+      "section": "2",
+      "title": "Nutzerinnen und Nutzer",
+      "content": "ARAMIS ist ein Datenbanksystem für die folgenden Nutzerinnen und Nutzer: a. für einen eingeschränkten Kreis von Nutzerinnen und Nutzern mit Passwortanmeldung; b. für einen unbeschränkten Kreis von Nutzerinnen und Nutzern über Internet, ohne Passwortanmeldung, mit beschränktem Zugang auf die Daten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Zuständigkeiten",
+      "section": "3",
+      "title": "",
+      "content": "1 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) führt das Informationssystem ARAMIS. 2 Es hat namentlich folgende Aufgaben und Kompetenzen: a. Es hat die strategische Leitung von ARAMIS inne. b. Es koordiniert die Aufnahme von Daten, die von den verschiedenen Stellen geliefert werden, in ARAMIS. c. Es kontrolliert die Datenqualität. d. Es verwaltet die Nutzungsberechtigungen. Insbesondere stellt es auf Antrag der datenliefernden Stellen Nutzugskonti zur Verfügung. e. Es erstellt Spezialauswertungen von Daten in ARAMIS und führt Datenexporte durch. f. Es führt die laufenden Kontrollen zur Gewährleistung der Betriebssicherheit und Betriebsbereitschaft durch. g. Es trägt die Verantwortung für die Langzeit-Datenpflege. Dazu erfüllt es insbesondere die folgenden Aufgaben: 1. Es übergibt die Daten dem BFS. 2. Es vernichtet die nicht mehr benötigten Personendaten."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "3. Abschnitt: Inhalt, Datenlieferung und Datenpflege",
+      "section": "4",
+      "title": "Inhalt",
+      "content": "1 ARAMIS enthält über sämtliche Forschungs- und Innovationsprojekte, die der Bund ganz oder teilweise finanziert oder durchführt, Daten folgender Kategorien: a. organisatorische und planungsrelevante Daten, insbesondere: Dienststelle, Projekttitel, Projektnummer, Projektbeginn, Projektende, Planungs- oder Realisierungsstatus, Projektbeteiligte, Ansprechperson, Termine; b. finanzielle Daten, insbesondere: Projektkosten, Forschungsanteil, Finanzierungsart, Zahlungen; c. wissenschaftliche Daten, insbesondere: Stichwörter zum Projekt, Projektziele, Klassierung der Projektziele gemäss Vorgaben des BFS, Programmbezug, Forschungsbereiche, Kurzbeschreibung, Ergebnisse, Publikationen, Umsetzung. 2 In ARAMIS werden keine als geheim oder vertraulich klassifizierten Daten geführt."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Inhalt, Datenlieferung und Datenpflege",
+      "section": "5",
+      "title": "Datenliefernde Stellen und Datenlieferung",
+      "content": "1 Datenliefernde Stellen sind alle Bundesstellen, die Forschungs- und Innovationsprojekte finanzieren oder durchführen. 2 Die Datenlieferung an ARAMIS erfolgt auf zwei Wegen: a. direkte Online-Eingabe durch die datenliefernde Stelle; b. automatisierter Datenaustausch zwischen Informationssystemen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Inhalt, Datenlieferung und Datenpflege",
+      "section": "6",
+      "title": "Datenqualität",
+      "content": "1 Die datenliefernden Stellen müssen ihre Daten für den Bearbeitungszweck vollständig, korrekt und in der aktuellsten Fassung liefern. 2 Das SBFI kontrolliert die Qualität der Daten und meldet mangelhafte Daten der datenliefernden Stelle."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "4. Abschnitt: Datennutzung und Zugriffsberechtigung",
+      "section": "7",
+      "title": "",
+      "content": "1 Die datenliefernde Stelle kann alle Einträge sehen und bearbeiten, die von ihr stammen. 2 Sie bezeichnet die Personen, die Daten eingeben oder mutieren, und kann im Rahmen ihrer Kompetenz nach Absatz 1 Berechtigungen festlegen. 3 Sie legt in ARAMIS die Berechtigungen zur Dateneinsicht fest."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "8",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die ARAMIS-Verordnung vom 14. April 1999 wird aufgehoben. [ AS 1999 1621 ]"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "9",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2014 in Kraft."
+    }
+  ],
+  "definitions": []
+}

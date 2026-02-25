@@ -1,0 +1,122 @@
+{
+  "id": "sr-510-93",
+  "type": "statute",
+  "title": "Verordnung vom 27. Februar 2019 über die Durchführung von Betriebssicherheitsverfahren im Rahmen der europäischen Satellitennavigationsprogramme Galileo und EGNOS",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2019/153/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt die Durchführung von Betriebssicherheitsverfahren im Rahmen der Satellitennavigationsprogramme Galileo und European Geostationary Navigation Overlay Service (EGNOS). 2 Sie gilt für Unternehmen des öffentlichen oder privaten Rechts (Betriebe) mit Sitz in der Schweiz, die sich um einen sicherheitsempfindlichen Auftrag im Rahmen der Programme nach Absatz 1 bewerben wollen und dafür eine nationale Betriebssicherheitserklärung benötigen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Zuständige Fachstelle",
+      "content": "Das Betriebssicherheitsverfahren wird von der für die Durchführung des Geheimschutzverfahrens zuständigen Stelle (Fachstelle GSV) im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) durchgeführt."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Einleitung und Einwilligung",
+      "content": "1 Das Betriebssicherheitsverfahren wird auf Antrag der Dienststelle oder Organisation eingeleitet, die für die Erteilung der sicherheitsempfindlichen Aufträge im Rahmen der Programme Galileo und EGNOS zuständig ist (auftraggebende Stelle). 2 Es darf nur mit der Einwilligung des Betriebs durchgeführt werden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Einstellung des Betriebssicherheitsverfahrens",
+      "content": "1 Das Betriebssicherheitsverfahren wird eingestellt, wenn der Betrieb: a. seine Einwilligung zurückzieht oder am Verfahren nicht mitwirkt; b. für den sicherheitsempfindlichen Auftrag nicht mehr in Frage kommt. 2 Wird das Verfahren eingestellt, so werden alle damit zusammenhängenden Daten und Akten vernichtet."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Eignung des Betriebs in Bezug auf die Sicherheit",
+      "content": "1 Die Fachstelle GSV beurteilt, ob der Betrieb zur Ausführung des Auftrags in Bezug auf die Sicherheit geeignet ist oder ein Sicherheitsrisiko besteht. 2 Sie kann Daten, die zur Beurteilung der Eignung relevant sind, erheben: a. beim Betrieb; b. beim Nachrichtendienst des Bundes; c. aus öffentlich zugänglichen Quellen. 3 Sie kann ausländische Behörden um die Zustellung der entsprechenden Daten ersuchen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Sicherheitsrisiko",
+      "content": "1 Ein Sicherheitsrisiko besteht, wenn aufgrund der erhobenen Daten konkrete Anhaltspunkte vorliegen, dass der Betrieb den sicherheitsempfindlichen Auftrag mit hoher Wahrscheinlichkeit vorschriftswidrig oder unsachgemäss ausführen wird. 2 Die Wahrscheinlichkeit einer vorschriftswidrigen oder unsachgemässen Ausführung des sicherheitsempfindlichen Auftrags kann insbesondere dann als hoch eingestuft werden, wenn: a. aufgrund von Widerhandlungen oder anderen Vorkommnissen berechtigte Zweifel bestehen, dass der Betrieb vertrauenswürdig ist; b. der Betrieb von einem anderen Staat oder einer ausländischen Organisation des öffentlichen oder privaten Rechts kontrolliert oder beeinflusst wird und diese Kontrolle oder dieser Einfluss nicht mit den Sicherheitsinteressen des Bundes oder der Programme Galileo und EGNOS vereinbar ist; c. für den Betrieb tätige Personen, die für die Ausführung des sicherheitsempfindlichen Auftrags unentbehrlich sind, eine Verfügung nach Artikel 22 Absatz 1 Buchstaben b–d der Verordnung vom 4. März 2011 über die Personensicherheitsprüfungen (PSPV) erlassen wurde. 3 Das Sicherheitsrisiko muss sich ungeachtet eines Verschuldens aus den tatsächlichen Umständen und Verhältnissen des Betriebs ergeben. SR 120.4"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Sicherheitskonzept",
+      "content": "1 Ergibt die Beurteilung nach Artikel 5, dass der Betrieb geeignet ist, so erstellt die Fachstelle GSV ein Sicherheitskonzept. 2 Sie berücksichtigt dabei die projektspezifischen Sicherheitsanforderungen der auftraggebenden Stelle. 3 Sie kann die zur Erstellung des Konzepts erforderlichen Daten schriftlich oder mittels einer Betriebsbesichtigung erheben."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Personensicherheitsprüfungen",
+      "content": "1 Für den Betrieb tätige Personen, die an der Ausführung des sicherheitsempfindlichen Auftrags teilnehmen sollen, werden einer Personensicherheitsprüfung nach der PSPV unterzogen. 2 Die Fachstelle GSV gilt für Personensicherheitsprüfungen, die in Anwendung der vorliegenden Verordnung durchgeführt werden, als entscheidende Instanz nach Artikel 24 Absatz 1 PSPV. SR 120.4"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Betriebssicherheitserklärung",
+      "content": "1 Die Fachstelle GSV stellt dem Betrieb eine Betriebssicherheitserklärung in Form einer Verfügung aus, sobald dieser das Sicherheitskonzept nachweislich umgesetzt hat. 2 Setzt der Betrieb das Sicherheitskonzept nicht um, so stellt die Fachstelle GSV das Verfahren ein und erlässt eine entsprechende Verfügung. 3 Die Fachstelle GSV teilt der auftraggebenden Stelle den Inhalt der Verfügung mit. 4 Betriebssicherheitserklärungen sind bis am 31. Dezember 2021 gültig."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Pflichten des Betriebs",
+      "content": "1 Betriebe mit einer Betriebssicherheitserklärung müssen die Massnahmen des Sicherheitskonzepts laufend umsetzen. 2 Sie müssen der Fachstelle GSV und der auftraggebenden Stelle unverzüglich alle sicherheitsrelevanten Änderungen und Vorfälle melden."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Kontrollen und Schutzmassnahmen",
+      "content": "1 Die Fachstelle GSV ist befugt, ohne Vorankündigung: a. Bereiche, in denen der sicherheitsempfindliche Auftrag ausgeführt wird, zu überprüfen; b. auftragsrelevante Unterlagen einzusehen. 2 Liegen konkrete Anhaltspunkte vor, dass die Informationssicherheit im Betrieb gefährdet ist, so kann die Fachstelle GSV umgehend die erforderlichen Schutzmassnahmen treffen und insbesondere auftragsrelevante Unterlagen und Materialien sicherstellen."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Wiederholung des Verfahrens",
+      "content": "Das Betriebssicherheitsverfahren wird wiederholt, wenn konkreter Grund zur Annahme besteht, dass in Folge wesentlicher Änderungen im Betrieb neue Sicherheitsrisiken entstanden sind."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Widerruf der Betriebssicherheitserklärung",
+      "content": "1 Die Fachstelle GSV widerruft die Betriebssicherheitserklärung, wenn: a. der Betrieb seine Pflichten nach Artikel 10 nicht erfüllt; b. im Rahmen einer Wiederholung des Verfahrens ein Sicherheitsrisiko festgestellt wird. 2 Sie erlässt eine entsprechende Verfügung und teilt der auftraggebenden Stelle deren Inhalt mit."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "14 Rechtsschutz",
+      "content": "Gegen die Verfügungen der Fachstelle GSV kann beim Bundesverwaltungsgericht Beschwerde geführt werden."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Bearbeitung von Personendaten",
+      "content": "Die Bearbeitung von Personendaten durch die Fachstelle GSV richtet sich nach den Artikeln 150–155 des Bundesgesetzes vom 3. Oktober 2008 über die militärischen Informationssysteme. SR 510.91"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Kosten und Gebühren",
+      "content": "1 Die Kosten des Betriebssicherheitsverfahrens sind vom Betrieb zu übernehmen. 2 Die Erhebung von Gebühren richtet sich nach der Gebührenverordnung VBS vom 8. November 2006. SR 172.045.103"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Vollzug",
+      "content": "1 Das VBS vollzieht diese Verordnung. 2 Es kann bei Bedarf Ausführungsbestimmungen erlassen. 3 Erlässt es keine Ausführungsbestimmungen, so gelten die Bestimmungen nach der Geheimschutzverordnung vom 29. August 1990 sinngemäss. SR 510.413"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Inkrafttreten und Geltungsdauer",
+      "content": "Diese Verordnung tritt am 1. April 2019 in Kraft und gilt bis zum 31. Dezember 2021."
+    }
+  ],
+  "definitions": []
+}

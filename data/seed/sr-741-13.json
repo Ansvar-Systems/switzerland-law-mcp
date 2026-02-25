@@ -1,0 +1,38 @@
+{
+  "id": "sr-741-13",
+  "type": "statute",
+  "title": "Verordnung der Bundesversammlung vom 15. Juni 2012 über Alkoholgrenzwerte im Strassenverkehr",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/493/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Angetrunkenheit",
+      "content": "Fahrunfähigkeit wegen Alkoholeinwirkung (Angetrunkenheit) gilt als erwiesen, wenn der Fahrzeugführer oder die Fahrzeugführerin: a. eine Blutalkoholkonzentration von 0,5 Gewichtspromille oder mehr aufweist; b. eine Atemalkoholkonzentration von 0,25 mg Alkohol oder mehr pro Liter Atemluft aufweist; oder c. eine Alkoholmenge im Körper hat, die zu einer Blutalkoholkonzentration nach Buchstabe a führt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Qualifizierte Alkoholkonzentrationen",
+      "content": "Als qualifiziert gelten: a. eine Blutalkoholkonzentration von 0,8 Gewichtspromille oder mehr; b. eine Atemalkoholkonzentration von 0,4 mg Alkohol oder mehr pro Liter Atemluft."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung der Bundesversammlung vom 21. März 2003 über Blutalkoholgrenzwerte im Strassenverkehr wird aufgehoben. [ AS 2004 3523 ]"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 1. Oktober 2016 BRB vom 1. Juli 2015"
+    }
+  ],
+  "definitions": []
+}

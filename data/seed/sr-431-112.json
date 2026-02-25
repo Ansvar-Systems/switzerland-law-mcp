@@ -1,0 +1,146 @@
+{
+  "id": "sr-431-112",
+  "type": "statute",
+  "title": "Bundesgesetz vom 22. Juni 2007 über die eidgenössische Volkszählung (Volkszählungsgesetz)",
+  "title_en": "Federal Act of 22 June 2007 on the Federal Census (Census Act)",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/869/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Provisions",
+      "section": "1",
+      "title": "Principles",
+      "content": "1 Data shall be collected annually or at shorter intervals on the structure of the population and social developments in Switzerland. 2 Data shall be collected on: a. the status, structure and development of the population; b. families, households and living conditions; c. work and earnings; d. health and social issues; e. continuing education and training; f. migration; g. languages, religions and culture; h. transport and environment; i. buildings, apartments and workplaces and school establishments. 3 As far as possible, the survey is based on official registers. 4 For attributes not contained in the registers, random sample surveys shall be carried out. The amendment in accordance with the Federal Act of 20 June 2014 on Continuing Education and Training, in force since 1 Jan. 2017 concerns the French and Italian texts only ( AS 2016 689 ; BBl 2013 3729 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Provisions",
+      "section": "2",
+      "title": "Subject matter",
+      "content": "The census is a survey of persons, households as well as buildings and dwellings that provides the authorities, the business community, research institutions and other interested parties with statistical data that forms the basis for: a. planning; b. political decisions; c. research; d. information given to the general public; e. the compilation of other statistics."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 General Provisions",
+      "section": "3",
+      "title": "Statistical populations and survey attributes",
+      "content": "1 The Federal Council determines the statistical populations and the survey attributes for the census in an overview. 2 It updates the overview regularly. 3 It consults with the cantons in advance and seeks their cooperation."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Elements of the Census",
+      "section": "4",
+      "title": "Register-related surveys and random sample surveys",
+      "content": "1 The census comprises register-related surveys and additional random sample surveys. 2 The census is constituted by all register-related surveys and random sample surveys in accordance with this Act over ten years. 3 For the census in general, the Federal Council shall issue more detailed regulations in particular on: a. the subject matter of the survey; b. the modalities of the survey; c. the identifiers; d. the quality assurance measures."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Elements of the Census",
+      "section": "5",
+      "title": "Register-related survey",
+      "content": "1 In the case of the register-related surveys, in order to compile statistics on persons and household as well as statistics on buildings and dwellings, data in electronic form or in the form of data carriers is compiled from: a. the harmonised official federal registers of persons of the Confederation, the cantons and the communes; b. the Federal Register of Buildings and Dwellings. 2 The provision of data is governed by: a. the Register Harmonisation Act of 23 June 2006 (RHA) and the related implementing provisions; b. the provisions on the Federal Register of Buildings and Dwellings. 3 If the official registers of persons of the Confederation, the cantons and the communes are not harmonised within the periods laid down in the RHA and the related implementing provisions, the competent agencies responsible for maintaining the registers must provide the data in another suitable form on the same due date as the harmonised register data. The Federal Council may instruct the Federal Statistical Office to issue directives that regulate the details. SR 431.02"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Elements of the Census",
+      "section": "6",
+      "title": "Random sampling",
+      "content": "1 Random sampling is the representative collection of data from a section of the population or from another group under investigation that is selected randomly according to scientific principles. 2 It includes: a. a structure survey: random sample survey on attributes that are not contained in the Federal Register of Buildings and Dwellings or in the harmonised official federal registers of persons of the Confederation, the cantons or the communes; b. thematic random sample surveys: random sample surveys on various social, demographic and cultural subject areas. 3 The Federal Council shall issue more detailed regulations for each random sample survey and in particular on: a. the subject matter of the survey; b. the body responsible for the survey; c. the periodicity; d. the time; e. the conduct of the survey; f. the method."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Elements of the Census",
+      "section": "7",
+      "title": "Standard programme",
+      "content": "1 The standard programme consists of the register-related surveys and those random sample surveys that are regularly conducted by the Confederation independently of the surveys conducted by the cantons. 2 It is carried out throughout the territory of Switzerland. 3 The Federal Council determines the standard programme. It publishes the standard programme at the same time as the overview of the statistical populations and survey attributes."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Additional programmes",
+      "content": "1 The cantons may request the Federal Statistical Office for an expansion of the scope of the structure survey and the thematic random sample surveys. The expanded thematic random sample surveys do not include any new subject areas. 2 The Federal Council regulates competences, territorial limits, the scope, deadlines and costs of the additional programmes as well as rights and obligations of the commissioning party. 3 The Federal Statistical Office and the commissioning canton shall enter into an agreement on the supplementary programme."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 3 Responsibility",
+      "section": "9",
+      "title": "",
+      "content": "1 The body responsible for the survey is the Federal Statistical Office. 2 The Federal Statistical Office may entrust third parties with the conduct of the surveys."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 4 Disclosure Obligation, Use of Data and Data Protection, Dissemination",
+      "section": "10",
+      "title": "Disclosure obligation",
+      "content": "1 Anyone who is interviewed within the terms of the structure survey is obliged to provide information. 2 In the case of the thematic random sample surveys, the Federal Council may impose a disclosure obligation. 3 Natural persons are obliged to provide information on themselves and on those that they legally represent. 4 The interviewees must provide the survey offices with the information truthfully, punctually and free of charge. 5 The procedure in the event of any violation of the disclosure obligation is governed by cantonal law."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 4 Disclosure Obligation, Use of Data and Data Protection, Dissemination",
+      "section": "11",
+      "title": "Inconvenience fees",
+      "content": "1 Anyone who fails to answer the questions in full or who does so incorrectly, or who fails to return the survey forms or other documents in time despite receiving a reminder must the pay a fee to the competent authority for the inconvenience. 2 The Federal Council stipulates the hourly rate. The fee may not exceed 1000 francs. 3 Persons who are not able to answer the questions, or to process the survey forms or have them processed are exempt from the obligation to pay a fee."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 4 Disclosure Obligation, Use of Data and Data Protection, Dissemination",
+      "section": "12",
+      "title": "Data control, data protection and official secrecy",
+      "content": "1 The Federal Statistical Office has control over the data from the standard programme. 2 The Federal Statistical Office and the relevant commissioning canton have joint control over the data from additional programmes. 3 As soon as the data from the census has been reviewed, it shall be rendered anonymous and the names of persons deleted. Article 16 paragraph 3 RHA remains reserved. 4 The data from the census may be used for purposes not related to specific persons, and in particular for research, planning and statistics. The results of the survey may be disseminated only if the persons concerned are not identifiable. 5 The Federal Council shall issue more detailed provisions on data protection, and in particular on the rights of persons required to provide information and on the destruction of the survey forms after the collection of the data. 6 Anyone who is instructed to conduct the census is bound by official secrecy in terms of Article 320 of the Criminal Code. SR 431.02 SR 311.0"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 4 Disclosure Obligation, Use of Data and Data Protection, Dissemination",
+      "section": "13",
+      "title": "Dissemination of the residential population numbers",
+      "content": "Every four years, the Federal Council shall authoritatively establish the residential population numbers and publish them in the Official Federal Gazette. The figures from the register-related surveys that are conducted in the first calendar year following the general elections to the National Council are decisive."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 5 Costs",
+      "section": "14",
+      "title": "",
+      "content": "1 The Confederation shall bear the costs of the census in accordance with the standard programme, and in particular the costs of its conduct, the compilation and analysis of the data and the dissemination of the results. 2 The Federal Assembly may approve a spending ceiling for the census in a simple federal decree. 3 The costs of the additional programmes are borne in their entirety by the commissioning canton."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 6 Final Provisions",
+      "section": "15",
+      "title": "Law also applicable",
+      "content": "The provisions of the Federal Statistics Act of 9 October 1992 and the related implementing provisions also apply. SR 431.01"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 6 Final Provisions",
+      "section": "16",
+      "title": "Repeal of current law",
+      "content": "The Federal Act of 26 June 1998 on the Federal Census is repealed. [ AS 1999 917 ]"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 6 Final Provisions",
+      "section": "17",
+      "title": "Amendment of current legislation",
+      "content": "The legislative instruments listed below are amended as follos: ... The amendments may be consulted under AS 2007 6743 ."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 6 Final Provisions",
+      "section": "18",
+      "title": "Transitional provisions",
+      "content": "1 The census shall be conducted according to the new law from 2010. 2 The Federal Council shall provide the Federal Assembly with an analysis report on the 2010 census at the appropriate time. It shall present the results in the individual survey areas and evaluate the effects of the change of system."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 6 Final Provisions",
+      "section": "19",
+      "title": "Referendum and commencement",
+      "content": "1 This Act is subject to an optional referendum. 2 The Federal Council determines the date on which this Act comes into force. Commencement date: 1 January 2008 FCD of 7 Dec. 2007."
+    }
+  ],
+  "definitions": []
+}

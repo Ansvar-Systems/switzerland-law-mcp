@@ -1,0 +1,356 @@
+{
+  "id": "sr-814-50",
+  "type": "statute",
+  "title": "Strahlenschutzgesetz vom 22. März 1991 (StSG)",
+  "title_en": "Radiological Protection Act of 22 March 1991 (RPA)",
+  "short_name": "StSG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Purpose",
+      "content": "The purpose of this Act is to protect people and the environment against dangers from ionizing radiation."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Scope",
+      "content": "1 The Act applies to all activities, installations, events and situations that may involve an ionizing radiation hazard, and in particular to: a. the handling of radioactive substances and of installations, equipment and articles containing radioactive substances or capable of emitting ionizing radiation; b. events that may lead to an increase in environmental radioactivity. 2 The term «handling» covers extraction, manufacturing, processing, distribution, installation, use, storage, transport, disposal, import, export and transit, and any other form of transfer to a third party. 3 Articles 28–38 are not applicable to activities requiring a licence under the Nuclear Energy Act of 21 March 2003. 4 The Federal Council may provide for exemptions from this Act in the case of substances with low levels of radioactivity. Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). SR 732.1 Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "3",
+      "title": "Additional provisions",
+      "content": "In addition to the provisions of this Act, the following provisions are applicable: a. for nuclear facilities, nuclear goods and radioactive waste, the Nuclear Energy Act of 21 March 2003; b. for nuclear damage caused by nuclear facilities or the transport of nuclear materials, the Nuclear Energy Liability Act of 18 March 1983; c. for off-site transport of radioactive substances, the federal regulations on the transport of hazardous goods. Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). SR 732.1 SR 732.44"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "4",
+      "title": "Costs-by-cause principle",
+      "content": "Anyone who causes measures to be taken under this Act shall bear the costs thereof."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Research, development, training",
+      "content": "1 The Confederation shall promote scientific research on the effects of radiation and radiological protection, as well as training in the area of radiological protection. 2 It may: a. promote development activities in these areas; b. train specialists; c. participate in enterprises devoted to research or training."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Qualifications",
+      "content": "1 Only duly qualified persons shall be permitted to carry out activities that may involve an ionizing radiation hazard. 2 The Federal Council shall specify the requirements for the qualifications of such persons."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Commissions",
+      "content": "1 The Federal Council shall establish the following advisory commissions: a. Commission for Radiological Protection; b. Commission for ABC-Protection. 2 It shall define their responsibilities. The name of this administrative unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ( AS 2004 4937 ), in force since 1 Jan. 2015. The name of this administrative unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ( AS 2004 4937 ), in force since 1 Jan. 2015. Amended by Annex No II 9 of the Federal Act of 22 March 2002 on the Revision of Organisational Provisions of Federal Legislation, in force since 1 Feb. 2003 ( AS 2003 187 ; BBl 2001 3845 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 1 Principles of Radiological Protection",
+      "section": "8",
+      "title": "Justification of radiation exposure",
+      "content": "An activity that involves the exposure of people or the environment to ionizing radiation (radiation exposure) may only be carried out if it can be justified in terms of the associated benefits and risks."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 1 Principles of Radiological Protection",
+      "section": "9",
+      "title": "Limitation of radiation exposure",
+      "content": "All measures dictated by experience and the current state of science and technology must be adopted in order to limit the radiation exposure of each individual person and of all parties concerned."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 1 Principles of Radiological Protection",
+      "section": "10",
+      "title": "Dose limits",
+      "content": "The Federal Council shall, in accordance with the current state of scientific knowledge, specify limits for radiation exposure (dose limits) for persons who may be exposed to an increased level of controllable radiation compared with the general population as a result of their work or other circumstances (exposed persons)."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 2 Protection of Exposed Persons",
+      "section": "11",
+      "title": "Compliance with dose limits",
+      "content": "Anyone who handles or is responsible for a source must take all measures necessary to ensure compliance with the dose limits."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 2 Protection of Exposed Persons",
+      "section": "12",
+      "title": "Determination of the radiation dose",
+      "content": "1 In exposed persons the radiation dose must be determined by appropriate methods. 2 The Federal Council shall regulate determination of the radiation dose. It shall define, in particular: a. those cases where radiation exposure is to be measured individually (personal dosimetry); b. the intervals at which the radiation dose is to be determined; c. the requirements for approval of personal dosimetry laboratories; d. the required retention period for the results of personal dosimetry. 3 Exposed persons are required to undergo any dosimetry prescribed. They shall be informed of the results."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 2 Protection of Exposed Persons",
+      "section": "13",
+      "title": "Medical measures for occupationally exposed persons",
+      "content": "1 Occupationally exposed workers covered by compulsory insurance are subject to the medical measures for the prevention of occupational diseases specified in Articles 81–87 of the Accident Insurance Act of 20 March 1981. 2 The Federal Council may also specify medical measures for other occupationally exposed persons. 3 Occupationally exposed persons are required to undergo any medical examinations prescribed. SR 832.20"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 2 Protection of Exposed Persons",
+      "section": "14",
+      "title": "Disclosure of medical data",
+      "content": "1 The physician charged with the medical examination shall disclose to the supervisory authority any data necessary for medical surveillance and the compilation of statistics. The supervisory authority is not permitted either to use such data for other purposes or to pass it on to third parties. 2 The Federal Council shall specify the data to be disclosed to the supervisory authority. It shall define the retention period."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 2 Protection of Exposed Persons",
+      "section": "15",
+      "title": "Medical applications",
+      "content": "1 No dose limits are specified for patients exposed to radiation for diagnostic or therapeutic purposes. 2 The radiation exposure of patients shall be at the discretion of the person responsible. However, such persons must comply with the principles of radiological protection specified in Articles 8 and 9. 3 The Federal Council shall issue provisions for the protection of patients."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 2 Protection of Exposed Persons",
+      "section": "16",
+      "title": "Responsibility within enterprises",
+      "content": "1 The licence holder or the persons in charge of an enterprise are responsible for ensuring compliance with the radiological protection regulations. For this purpose, they are required to appoint an appropriate number of experts and to provide them with the necessary powers and resources. 2 All persons working in an enterprise are required to support the management and the experts with regard to radiological protection measures."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 3 Monitoring of the Environment and Protection of the Public in the event of Increased Radioactivity",
+      "section": "17",
+      "title": "Environmental monitoring",
+      "content": "1 In the environment, there shall be regular monitoring of ionizing radiation and of levels of radioactivity, particularly in air, water, soil, foodstuffs and feedingstuffs. 2 The Federal Council shall take the necessary measures; in particular, it shall designate the bodies and institutions responsible for monitoring. 3 It shall ensure that the results of monitoring are published."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 3 Monitoring of the Environment and Protection of the Public in the event of Increased Radioactivity",
+      "section": "18",
+      "title": "Off-site limits",
+      "content": "1 For the purpose of environmental monitoring, the Federal Council shall specify off-site limits for radionuclides and for direct radiation. 2 It shall specify the off-site limits so that, according to the standards of science and technology or based on experience, exposure to radiation below these limits does not endanger human beings, animals or plants, their communities or habitats. 3 For radionuclides in foodstuffs, the maximum concentrations in terms of the foodstuffs legislation apply. Amended by Annex No II 5 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ( AS 2017 249 ; BBl 2011 5571 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 3 Monitoring of the Environment and Protection of the Public in the event of Increased Radioactivity",
+      "section": "19",
+      "title": "Emergency response organization",
+      "content": "1 The Federal Council shall establish an emergency response organization for incidents that could endanger the public as a result of increased radioactivity. 2 The emergency response organization shall have, in particular, the following responsibilities: a. in the event of an incident, it shall forecast the dangers arising for the public; b. it shall monitor the extent and course of increased radioactivity and assess possible impacts on people and the environment; c. where there is an imminent danger, it shall order the necessary emergency measures and supervise their implementation. 3 The details shall be elaborated by the Federal Council. It shall ensure that the emergency response organization: a. informs the competent federal and cantonal agencies of the extent of the danger and requests the necessary protective measures; b. informs the public."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 3 Monitoring of the Environment and Protection of the Public in the event of Increased Radioactivity",
+      "section": "20",
+      "title": "Measures in response to danger arising from increased radioactivity",
+      "content": "1 In the event of danger arising from increased radioactivity, the Federal Council shall order the measures necessary: a. to protect the public; b. to secure supplies throughout the country; c. to maintain essential public services. 2 It shall issue the regulations required in the event of danger arising from increased radioactivity. In particular, it shall specify: a. the radiation doses acceptable in exceptional situations; b. the duty of persons and undertakings to assume responsibility, within the scope of their usual occupational and entrepreneurial activities, for certain tasks that are indispensable for the protection of the public; the life and health of the persons deployed shall be protected; c. the equipment, training and insurance cover required for persons charged with special tasks. 3 If the Federal Council and the emergency response organization are not in a position to order the necessary measures, the cantonal governments or, in urgent cases, the competent cantonal agencies or, if need be, the communal authorities shall take the necessary measures."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Implementation of measures",
+      "content": "1 Unless the Federal Council assigns responsibility for implementation to the federal authorities, the cantons and communes shall be responsible for the preparation and execution of measures in accordance with Article 20. The cantons shall collaborate with the emergency response organization. 2 If the cantonal or communal bodies responsible for implementation are not in a position to fulfil their functions, the Federal Council may place them under the authority of the emergency response organization or instruct other cantons to put available resources at their disposal. 3 The Confederation, cantons and communes may also engage private organizations for the implementation of certain measures."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Emergency protection",
+      "content": "1 In cases where the release of dangerous amounts of radioactive substances into the environment cannot be ruled out, the enterprises concerned shall be required, as part of the licensing procedure: a. to establish, at their own expense, an alarm system for the population at risk or to contribute proportionally to the costs of a general alarm system; b. to participate in the preparation and implementation of emergency protection measures. 2 The Federal Council shall define the responsibilities of the competent federal, cantonal and communal agencies."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "International cooperation",
+      "content": "The Federal Council may conclude international agreements concerning: a. the mutual exchange of information on environmental radioactivity; b. immediate notification in the event of danger arising from radioactivity that could cross international borders; c. the harmonization of plans for measures to be taken in the event of cross‑border radioactive contamination."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Persistently increased environmental radioactivity",
+      "content": "If increased levels of radioactivity from natural or other sources are detected in the environment over a prolonged period, the Federal Council may order special measures to limit radiation exposure. It may involve the cantons for purposes of implementation."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 4 Radioactive Waste",
+      "section": "25",
+      "title": "Definition and principles",
+      "content": "1 «Radioactive waste» means radioactive substances or radioactively contaminated materials which are not reused. 2 Radioactive substances are to be handled in such a way that as little radioactive waste as possible is generated. 3 Radioactive waste arising in Switzerland must, as a general rule, be disposed of in this country. By way of exception, an export licence may be granted for the disposal of radioactive waste if: a. the recipient country has consented to the import of the radioactive waste for disposal in an international agreement; b. an appropriate nuclear facility meeting international standards of science and technology is available in the recipient country; c. transit has been approved by the transit countries; d. the sender has entered into a binding agreement with the recipient of the radioactive waste, with the approval of the authority designated by the Federal Council, to the effect that the sender will take back the waste if necessary. 4 By way of exception, an import licence may be granted for radioactive waste that does not originate in Switzerland but is to be disposed of in this country if: a. Switzerland has consented to the import of the radioactive waste for disposal in an international agreement; b. an appropriate nuclear facility meeting international standards of science and technology is available in Switzerland; c. transit has been approved by the transit countries; d. the recipient has entered into a binding agreement with the sender of the radioactive waste, with the approval of the country of origin, to the effect that the sender will take back the waste if necessary. Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 4 Radioactive Waste",
+      "section": "26",
+      "title": "Handling of radioactive waste on-site and discharge to the environment",
+      "content": "1 On-site, radioactive waste must be handled and stored in such a way as to minimize releases of radioactive substances to the environment. 2 The Federal Council shall specify the conditions under which low-level radioactive waste may be discharged to the environment. 3 Radioactive waste that is not to be discharged to the environment must be suitably retained or securely contained, possibly in solidified form, collected and stored at a site approved by the supervisory authority while awaiting surrender or export. Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 )."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 4 Radioactive Waste",
+      "section": "27",
+      "title": "",
+      "content": "1 Anyone who produces radioactive waste not arising as a result of the use of nuclear energy is required to surrender it to a centre designated by the competent authority. 2 The waste producer must bear the costs of disposal. 3 The Federal Council shall regulate the treatment of waste on-site and its surrender. 4 If immediate surrender or disposal is not possible, or not appropriate for reasons of radiological protection, the waste must be placed in supervised interim storage. Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Chapter 3 Licences and Supervision",
+      "section": "28",
+      "title": "Mandatory licensing",
+      "content": "A licence is required by anyone who: a. handles radioactive substances or equipment and articles containing radioactive substances; b. manufactures, distributes, installs or uses installations and equipment capable of emitting ionizing radiation; c. administers ionizing radiation and radioactive substances to humans."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Chapter 3 Licences and Supervision",
+      "section": "29",
+      "title": "Powers of the Federal Council",
+      "content": "The Federal Council may: a. subject other activities that may involve an ionizing radiation hazard to mandatory licensing; b. exempt activities specified in Article 28 letters a or b from mandatory licensing if an ionizing radiation hazard can be ruled out; c. specify the conditions under which certain types of articles, installations and equipment containing radioactive substances or capable of emitting ionizing radiation may, after testing of the standard model, be granted general approval or approval restricted to certain applications."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Chapter 3 Licences and Supervision",
+      "section": "30",
+      "title": "Licensing authorities",
+      "content": "The Federal Council shall designate the licensing authorities. Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 )."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Chapter 3 Licences and Supervision",
+      "section": "31",
+      "title": "Conditions",
+      "content": "A licence shall be granted if: a. the applicant or an expert appointed by the applicant (Art. 16) has the necessary qualifications; b. the enterprise has an appropriate number of experts at its disposal; c. the applicant and the experts ensure safe operation; d. the enterprise has adequate liability insurance; e. the installations and equipment are in accordance with the current state of science and technology with regard to radiological protection; f. radiological protection is assured in accordance with this Act and the implementing provisions."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Chapter 3 Licences and Supervision",
+      "section": "32",
+      "title": "Licence holder and content",
+      "content": "1 The licence shall only be valid for the designated enterprise or the designated person. 2 It shall contain a description of the licensed activity, including any requirements and stipulations, and give the names of the experts responsible for radiological protection. It shall be granted for a limited period. 3 The licensing authority may transfer the licence to a new holder, provided the latter meets the conditions specified in Article 31."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Chapter 3 Licences and Supervision",
+      "section": "33",
+      "title": "Modification",
+      "content": "The licence shall be modified: a. at the holder’s request, if the proposed modification meets the conditions for the granting of a licence; b. automatically, where this is necessitated by changes in the actual or legal conditions specified in Article 31."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Chapter 3 Licences and Supervision",
+      "section": "34",
+      "title": "Revocation and expiry",
+      "content": "1 The licence shall be revoked: a. if the conditions for granting it are not met or are no longer met; b. if a stipulation associated with the licence or a measure ordered has not been complied with despite notice being given. 2 The licence shall expire: a. if it is duly relinquished by the holder; b. at the end of the specified term; c. if the holder dies or, in the case of legal persons and registered companies, the entry in the Commercial Register is deleted; d. if the enterprise is discontinued or ownership is transferred. 3 The licensing authority shall issue a decree declaring the licence to have expired, subject to the possibility of renewal or a transfer in accordance with Article 32 paragraph 3."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Duties of notification and provision of information",
+      "content": "1 The licence holder must notify the supervisory authority: a. of any proposed modifications to the structure or operation of installations or equipment which could adversely affect operational safety; b. of any plans to use additional radioactive substances or to increase the activity of licensed radioactive substances. 2 The licence holder and persons working for the enterprise must provide information to the supervisory authority and its agents, allow them to consult documents and grant access to the premises insofar as this is necessary for the fulfilment of supervisory responsibilities. 3 If an inadmissible radiation exposure is suspected or known to have occurred, the licence holder or expert must notify the competent authorities immediately."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Record-keeping requirements",
+      "content": "1 Anyone who handles radioactive substances or equipment and articles containing radioactive substances is required to keep records thereof. 2 Reports are to be submitted regularly to the supervisory authority. 3 The Federal Council may waive the record-keeping requirements for low-level radioactive substances."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Supervision",
+      "content": "1 The Federal Council shall designate the supervisory authorities. 2 The supervisory authority shall issue the necessary decrees. If necessary, it may take protective measures at the expense of the party responsible. In particular, it may order the discontinuation of operations or the seizure of dangerous substances, equipment or articles. 3 It may engage third parties for the implementation of inspections. Their responsibilities under criminal and property law are defined by the Government Liability Act of 14 March 1958; with regard to duties of confidentiality and testimony, they are bound by the regulations applicable for federal officials. SR 170.32"
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Removal of sources of risk",
+      "content": "1 Once a licence is revoked or has expired, the sources of risk must be removed by the former licence holder or the party responsible for them. In particular: a. radioactive substances are to be transferred to another licence holder or disposed of as radioactive waste; b. installations and equipment capable of emitting ionizing radiation are to be transferred to another licence holder or placed in a condition rendering unauthorised operation impossible. 2 If necessary, the federal authorities shall take over or seize substances, installations, equipment and articles and shall remove the sources of risk at the licence holder’s expense. 3 The licensing authority shall determine whether premises with contaminated or activated areas and their surroundings may be used for other purposes. 4 The licensing authority shall issue a decree declaring that the sources of risk have been duly removed."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Chapter 4 Liability",
+      "section": "39",
+      "title": "Liability",
+      "content": "1 Anyone who operates equipment or carries out activities involving an ionizing radiation hazard shall be liable for any resultant damage unless it can be demonstrated that all due care was exercised to avoid the damage. 2 Where two or more persons are liable under paragraph 1, they shall be jointly and severally liable. 3 The above is without prejudice to the Convention of 29 July 1960 on Third Party Liability in the Field of Nuclear Energy as amended by the Additional Protocol of 28 January 1964, the Protocol of 16 November 1982 and the Protocol of 12 February 2004 (the Paris Convention) and the Nuclear Energy Liability Act of 13 June 2008 with regard to nuclear damage caused by nuclear facilities or the transport of nuclear materials. SR 0.732.44 SR 732.44 Amended by Annex No II 4 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022 ( AS 2022 43 ; BBl 2007 5397 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Chapter 4 Liability",
+      "section": "40",
+      "title": "Limitation of liability claims",
+      "content": "Claims for compensation or redress arising from damage caused by ionizing radiation and not covered by the Paris Convention and the Nuclear Energy Liability Act of 13 June 2008 shall be time-barred three years after the injured party has become aware of the damage and of the identity of the liable party, and in any event 30 years after the cessation of the detrimental effects. Amended by Annex No II 4 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022 ( AS 2022 43 ; BBl 2007 5397 ). SR 0.732.44 SR 732.44"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Chapter 5 Proceedings, Legal Recourse and Fees",
+      "section": "41",
+      "title": "Proceedings and legal recourse",
+      "content": "Proceedings and legal recourse shall be governed by the Federal Act of 20 December 1968 on Administrative Procedure and the Federal Act of 16 December 1943 on the Organisation of Federal Justice. SR 172.021 [BS 3 531; AS 1948 485 Art. 86; 1955 871 Art. 118; 1959 902 ; 1969 737 Art. 80 let. b 767 ; 1977 237 No II 3, 862 Art. 52 No 2, 1323 No III; 1978 688 Art. 88 No 3, 1450 ; 1979 42 ; 1980 31 No IV, 1718 Art. 52 No 2, 1819 Art. 12 para. 1; 1982 1676 Annex No 13; 1983 1886 Art. 36 No 1; 1986 926 Art. 59 No 1; 1987 226 No II 1, 1665 No II; 1988 1776 Annex No II 1; 1989 504 Art. 33 let. a; 1990 938 No III para. 5; 1992 288 ; 1993 274 Art. 75 No 1, 1945 Annex No 1; 1995 1227 Annex No 3, 4093 Annex No 4; 1996 508 Art. 36, 750 Art. 17, 1445 Annex No 2, 1498 Annex No 2; 1997 1155 Annex No 6, 2465 Annex No 5; 1998 2847 Annex No 3, 3033 Annex No 2; 1999 1118 Annex No 1, 3071 No I 2; 2000 273 Annex No 6, 416 No I 2, 505 No I 1, 2355 Annex No 1, 2719 ; 2001 114 No I 4, 894 Art. 40 No 3, 1029 Art. 11 para. 2; 2002 863 Art. 35, 1904 Art. 36 No 1, 2767 No II, 3988 Annex No 1; 2003 2133 Annex No 7, 3543 Annex No II 4 let. a, 4557 Annex No II 1; 2004 1985 Annex No II 1, 4719 Annex No II 1; 2005 5685 Annex No 7. AS 2006 1205 Art. 131 para. 1]. See now: the Federal Supreme Court Act of 17 June 2005 ( SR 173.110 )."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Fees",
+      "content": "The Federal Council shall set the fees for: a. the granting, transfer, modification and revocation of licences; b. the exercise of supervision and the performance of inspections; c. the collection, conditioning, storage and disposal of radioactive waste."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Chapter 6 Criminal Provisions",
+      "section": "43",
+      "title": "Unjustified radiation exposure of persons",
+      "content": "1 Any person who wilfully subjects someone to manifestly unjustified radiation exposure shall be liable to a custodial sentence not exceeding five years or to a monetary penalty. 2 Any person who wilfully subjects another to manifestly unjustified radiation exposure with the intention of damaging that person’s health shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty. 3 Any person who negligently subjects another to manifestly unjustified radiation exposure shall be liable to a custodial sentence not exceeding three years or to a monetary penalty. Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). Amended by No I 32 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ( AS 2023 259 ; BBl 2018 2827 ). Amended by No I 32 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ( AS 2023 259 ; BBl 2018 2827 ). Amended by Art. 333 of the Criminal Code ( SR 311.0 ) in the amended version of 13 Dec. 2002, in force since 1 Jan. 2007 ( AS 2006 3459 ; BBl 1999 1979 )."
+    },
+    {
+      "provision_ref": "art43a",
+      "chapter": "Chapter 6 Criminal Provisions",
+      "section": "43a",
+      "title": "a Illegal handling of radioactive substances, unjustified radiation exposure of property",
+      "content": "1 Any person who wilfully: a. stores, disposes of or discharges radioactive substances to the environment in contravention of the regulations; b. subjects property of considerable value to manifestly unjustified radiation exposure with the intention of impairing its utility, shall be liable to a custodial sentence not exceeding three years or to a monetary penalty. 2 If the offender acted negligently, the penalty shall be a monetary penalty not exceeding 180 daily penalty units. Inserted by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). Amended by Art. 333 of the Criminal Code ( SR 311.0 ) in the amended version of 13 Dec. 2002, in force since 1 Jan. 2007 ( AS 2006 3459 ; BBl 1999 1979 ). Amended by Art. 333 of the Criminal Code ( SR 311.0 ) in the amended version of 13 Dec. 2002, in force since 1 Jan. 2007 ( AS 2006 3459 ; BBl 1999 1979 )."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Contraventions",
+      "content": "1 Any person who wilfully or negligently: a. carries out acts requiring a licence without having a licence, obtains a licence illegally, or fails to comply with conditions or stipulations included in the licence; b. fails to take the measures required to comply with dose limits; c. fails to undergo prescribed dosimetry; d. fails to fulfil the duties of a licence holder or expert; e. fails to fulfil the duty to surrender radioactive waste or remove sources of risk; f. infringes an implementing regulation, infringement of which is declared to be punishable, or an order addressed to him or her with reference being made to the penalty provided for in this Article, shall be liable to a fine. 2 The Federal Council may provide for fines not exceeding 20,000 Swiss francs for infringements of regulations issued to deal with danger arising from radioactivity. Amended by Art. 333 of the Criminal Code ( SR 311.0 ) in the amended version of 13 Dec. 2002, in force since 1 Jan. 2007 ( AS 2006 3459 ; BBl 1999 1979 ). Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). Amended by Art. 333 of the Criminal Code ( SR 311.0 ) in the amended version of 13 Dec. 2002, in force since 1 Jan. 2007 ( AS 2006 3459 ; BBl 1999 1979 )."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Applicability of administrative criminal law",
+      "content": "1 The special provisions of the Federal Act of 22 March 1974 (Arts. 14–18) on Administrative Criminal Law are applicable. 2 Articles 6 and 7 of the Federal Act on Administrative Criminal Law apply to the contraventions specified in Article 43. SR 313.0"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Proceedings and jurisdiction",
+      "content": "1 The felonies and misdemeanours specified in Articles 43 and 43 a shall be subject to federal criminal jurisdiction. 2 Infringements under Article 44 and Article 45 paragraph 1 shall be prosecuted and adjudicated by the competent licensing or supervisory authority. Proceedings shall be governed by the Federal Act of 22 March 1974 on Administrative Criminal Law. Amended by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). SR 313.0"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "47",
+      "title": "Enforcement",
+      "content": "1 The Federal Council shall be responsible for enforcement and shall issue the implementing provisions. 2 It may delegate to the competent Department or subordinate bodies the task of issuing radiological protection regulations for activities requiring a licence under the Nuclear Energy Act of 21 March 2003. It shall take account of the scope of such regulations. 3 It may involve the cantons for purposes of enforcement. SR 732.1 Inserted by Annex No II 4 of the Nuclear Energy Act of 21 March 2003, in force since 1 Dec. 2005 ( AS 2004 4719 ; BBl 2001 2665 ). Originally para. 2."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "48",
+      "title": "Amendment of current legislation",
+      "content": "… The amendment may be consulted under AS 1994 1933 ."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "49",
+      "title": "Transitional provision",
+      "content": "For liability claims that arose under current legislation but are not yet time-barred when this Act commences, the limitation periods specified in Article 40 apply."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "50",
+      "title": "Referendum and commencement",
+      "content": "1 This Act is subject to an optional referendum. 2 The Federal Council shall determine the commencement date. Commencement date: 1 October 1994 FCD of 22 June 1994."
+    }
+  ],
+  "definitions": []
+}

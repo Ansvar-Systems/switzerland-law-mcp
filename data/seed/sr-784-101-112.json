@@ -1,0 +1,38 @@
+{
+  "id": "sr-784-101-112",
+  "type": "statute",
+  "title": "Verordnung der ComCom vom 23. Oktober 2020 betreffend das Fernmeldegesetz",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2020/1021/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Vorlage von Rechnungslegungs- und Finanzinformationen",
+      "content": "Die Art und Form der Rechnungslegungs- und Finanzinformationen, die marktbeherrschende Anbieterinnen von Fernmeldediensten im Verfahren nach Artikel 11 a FMG vorlegen müssen, sind im Anhang festgelegt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Erteilung von Funkkonzessionen für die Erbringung von Fernmeldediensten",
+      "content": "1 Das Bundesamt für Kommunikation (BAKOM) erteilt die Konzessionen für die Nutzung derjenigen Frequenzen zur Erbringung von Fernmeldediensten, für die keine Knappheit nach Artikel 22 a Absatz 2 FMG besteht oder droht. 2 Für die übrigen Funkkonzessionen zur Erbringung von Fernmeldediensten ist das BAKOM für die Vorbereitung der Ausschreibungsverfahren und die Instruktion aller Gesuche nach den Weisungen der ComCom zuständig; es unterbreitet dieser Entscheidungsvorschläge."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung der Eidgenössischen Kommunikationskommission vom 17. November 1997 betreffend das Fernmeldegesetz wird aufgehoben. [ AS 1997 3029 , 1999 3588 , 2000 2489 , 2005 5029 , 2007 987 , 2009 5829 , 2014 1115 , 2015 1251 ]"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2021 in Kraft."
+    }
+  ],
+  "definitions": []
+}

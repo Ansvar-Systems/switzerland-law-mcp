@@ -1,0 +1,26 @@
+{
+  "id": "sr-810-122-122",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 14. Februar 2007 über genetische Untersuchungen beim Menschen (GUMV-EDI)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/133/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Bezeichnung der genetischen Untersuchungen",
+      "content": "Personen, die sich über einen Titel nach Artikel 6 Absatz 1 Buchstaben b–f der Verordnung vom 14. Februar 2007 über genetische Untersuchungen beim Menschen ausweisen können, sind zur Durchführung der molekulargenetischen Untersuchungen gemäss Anhang zugelassen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. April 2007 in Kraft."
+    }
+  ],
+  "definitions": []
+}

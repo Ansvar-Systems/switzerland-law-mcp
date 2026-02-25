@@ -1,0 +1,50 @@
+{
+  "id": "sr-221-213-111",
+  "type": "statute",
+  "title": "Verordnung des WBF vom 22. Januar 2008 über die Erhebung des für die Mietzinse massgebenden hypothekarischen Durchschnittszinssatzes (Zinssatzverordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/60/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Zweck",
+      "content": "Diese Verordnung regelt: a. die technische Definition des Durchschnittszinssatzes für inländische Hypothekarforderungen, der zur Festlegung des mietrechtlichen Referenzzinssatzes nach Artikel 12 a VMWG massgebend ist; b. die Erhebung der Basisdaten zur Berechnung des Durchschnittszinssatzes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Durchschnittszinssatz",
+      "content": "1 Der Durchschnittszinssatz ist der volumengewichtete durchschnittliche Zinssatz der auf Schweizer Franken lautenden inländischen Hypothekarforderungen der Banken in der Schweiz. 2 Als Hypothekarforderungen gelten Forderungen, die von den Banken gemäss den Rechnungslegungsvorschriften der Bankenverordnung vom 17. Mai 1972 in der Bilanz als Hypothekarforderungen ausgewiesen werden müssen. 3 Hypothekarforderungen gelten als inländisch, wenn das Grundpfandobjekt in der Schweiz liegt. 4 Als Bank in der Schweiz gilt jede natürliche oder juristische Person, die über eine Bewilligung im Sinne von Artikel 3 des Bankengesetzes vom 8. November 1934 verfügt. SR 952.02 SR 952.0"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Datenerhebung und Meldepflicht",
+      "content": "1 Das Bundesamt für Wohnungswesen (BWO) erhebt vierteljährlich die für die Berechnung des Durchschnittszinssatzes notwendigen Basisdaten. Es kann Dritte mit dem technischen Vollzug der Datenerhebung und der Berechnung des Durchschnittszinssatzes beauftragen. 2 Zur Meldung der Daten sind alle Banken verpflichtet, deren auf Schweizer Franken lautende inländische Hypothekarforderungen den Gesamtbetrag von 300 Millionen Franken übersteigen. 3 Die Banken haben den Gesamtbetrag der am Quartalsende (Stichtag) bilanzierten Hypothekarforderungen ihres Sitzes und ihrer Filialen in der Schweiz und im Ausland nach Zinssatz gegliedert zu melden. 4 Sie haben die Daten wahrheitsgetreu, fristgemäss, unentgeltlich und in der vorgeschriebenen Form bis spätestens einen Monat nach dem Stichtag zu melden. 5 Auf Verlangen der meldepflichtigen Bank oder bei unvollständiger Lieferung der Daten erlässt das BWO eine Verfügung über die Auskunftspflicht und deren Umfang."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Bekanntgabe des Referenzzinssatzes",
+      "content": "Der auf den Durchschnittszinssatz gestützte Referenzzinssatz wird zwei Monate nach dem jeweiligen Stichtag bekannt gegeben."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Vertraulichkeit der erhobenen Daten",
+      "content": "1 Alle an der Datenerhebung beteiligten Personen sind zur Verschwiegenheit verpflichtet. Zur Wahrung der Geheimhaltung werden die Daten zusammengefasst. 2 Die Bestimmungen des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz sind anwendbar. SR 235.1"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Schlussbestimmungen",
+      "content": "1 Das BWO vollzieht diese Verordnung. 2 Die Daten werden erstmals per 30. Juni 2008 erhoben. 3 Diese Verordnung tritt am 1. Februar 2008 in Kraft."
+    }
+  ],
+  "definitions": []
+}

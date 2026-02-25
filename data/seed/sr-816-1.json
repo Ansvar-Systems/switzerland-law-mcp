@@ -1,0 +1,201 @@
+{
+  "id": "sr-816-1",
+  "type": "statute",
+  "title": "Bundesgesetz vom 19. Juni 2015 über das elektronische Patientendossier (EPDG)",
+  "title_en": "",
+  "short_name": "EPDG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/203/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Zweck",
+      "content": "1 Dieses Gesetz regelt die Voraussetzungen für die Bearbeitung der Daten des elektronischen Patientendossiers. 2 Es legt die Massnahmen fest, die die Einführung, Verbreitung und Weiterentwicklung des elektronischen Patientendossiers unterstützen. 3 Mit dem elektronischen Patientendossier sollen die Qualität der medizinischen Behandlung gestärkt, die Behandlungsprozesse verbessert, die Patientensicherheit erhöht und die Effizienz des Gesundheitssystems gesteigert sowie die Gesundheitskompetenz der Patientinnen und Patienten gefördert werden. 4 Die Haftung der Gemeinschaften, der Stammgemeinschaften, der Portale für den Zugang der Patientinnen und Patienten zu ihren Daten (Zugangsportale), der Herausgeber von Identifikationsmitteln, der Gesundheitsfachpersonen sowie der Patientinnen und Patienten richtet sich nach den auf sie anwendbaren Vorschriften."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In diesem Gesetz gelten als: a. elektronisches Patientendossier: virtuelles Dossier, über das dezentral abgelegte behandlungsrelevante Daten aus der Krankengeschichte einer Patientin oder eines Patienten oder ihre oder seine selber erfassten Daten in einem Abrufverfahren in einem konkreten Behandlungsfall zugänglich gemacht werden können; b. Gesundheitsfachperson: nach eidgenössischem oder kantonalem Recht anerkannte Fachperson, die im Gesundheitsbereich Behandlungen durchführt oder anordnet oder im Zusammenhang mit einer Behandlung Heilmittel oder andere Produkte abgibt; c. Behandlung: sämtliche Tätigkeiten einer Gesundheitsfachperson, die der Heilung oder Pflege einer Patientin oder eines Patienten oder der Vorbeugung, Früherkennung, Diagnostik oder Linderung einer Krankheit dienen; d. Gemeinschaft: organisatorische Einheit von Gesundheitsfachpersonen und deren Einrichtungen; e. Stammgemeinschaft: Gemeinschaft, die zusätzliche Aufgaben wahrnimmt."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Erstellung eines elektronischen Patientendossiers",
+      "section": "3",
+      "title": "Einwilligung",
+      "content": "1 Für die Erstellung eines elektronischen Patientendossiers ist die schriftliche Einwilligung der Patientin oder des Patienten erforderlich. Die Einwilligung ist nur gültig, sofern die betroffene Person sie nach angemessener Information über die Art und Weise der Datenbearbeitung und deren Auswirkungen freiwillig erteilt. 2 Liegt die Einwilligung vor, so wird im Behandlungsfall vermutet, dass die betroffene Person damit einverstanden ist, dass die Gesundheitsfachpersonen Daten im elektronischen Patientendossier erfassen. Gesundheitsfachpersonen öffentlich-rechtlicher Einrichtungen sowie von Einrichtungen, denen von einem Kanton oder einer Gemeinde die Erfüllung einer öffentlichen Aufgabe übertragen wurde, sind in diesem Fall berechtigt, Daten im elektronischen Patientendossier zu erfassen und zu bearbeiten. 3 Die Patientin oder der Patient kann die Einwilligung jederzeit ohne Angabe von Gründen widerrufen. 4 Sie oder er kann nicht dazu verpflichtet werden, Daten aus ihrem oder seinem elektronischen Patientendossier zugänglich zu machen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Erstellung eines elektronischen Patientendossiers",
+      "section": "4",
+      "title": "Patientenidentifikationsmerkmal",
+      "content": "1 Liegt die Einwilligung nach Artikel 3 vor, so kann bei der zentralen Ausgleichsstelle nach Artikel 71 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) eine Nummer als Identifikationsmerkmal für das elektronische Patientendossier (Patientenidentifikationsnummer) beantragt werden. Die Patientenidentifikationsnummer wird zufällig generiert. 2 Die Patientenidentifikationsnummer wird in der Identifikationsdatenbank der zentralen Ausgleichsstelle gespeichert. 3 Die zentrale Ausgleichsstelle darf zur Qualitätssicherung die Patientenidentifikationsnummer mit der Versichertennummer nach Artikel 50 c AHVG verknüpfen. 4 Sie kann für den Aufwand, der ihr im Zusammenhang mit der Vergabe und der Verifizierung der Patientenidentifikationsnummer entsteht, Gebühren erheben. 5 Der Bundesrat bestimmt die technischen und organisatorischen Massnahmen zur sicheren Ausgabe und Nutzung der Patientenidentifikationsnummer. SR 831.10"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Erstellung eines elektronischen Patientendossiers",
+      "section": "5",
+      "title": "Identifikation von Patientinnen und Patienten",
+      "content": "1 Gemeinschaften, Stammgemeinschaften und Zugangsportale verwenden die Patientenidentifikationsnummer als ein Merkmal zur Identifikation von Patientinnen und Patienten. 2 Sie können die Versichertennummer nach Artikel 50 c AHVG verwenden für: a. die Abfrage der Patientenidentifikationsnummer bei der zentralen Ausgleichsstelle; b. die korrekte Zuordnung der Patientenidentifikationsnummer. SR 831.10"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Erstellung eines elektronischen Patientendossiers",
+      "section": "6",
+      "title": "Weitere Verwendungszwecke der Patientenidentifikationsnummer",
+      "content": "Die Verwendung der Patientenidentifikationsnummer ausserhalb des Anwendungsbereiches dieses Gesetzes ist auf den Gesundheitsbereich beschränkt. Diese Nummer darf hierzu nur verwendet werden, wenn eine formelle gesetzliche Grundlage dies vorsieht sowie der Verwendungszweck und die Nutzungsberechtigten bestimmt sind."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Zugang zum elektronischen Patientendossier",
+      "section": "7",
+      "title": "Elektronische Identität",
+      "content": "1 Für die Bearbeitung von Daten im elektronischen Patientendossier müssen über eine sichere elektronische Identität verfügen: a. Patientinnen und Patienten; b. Gesundheitsfachpersonen. 2 Der Bundesrat bestimmt die Anforderungen an die elektronische Identität und legt die Identifikationsmittel und das Verfahren für deren Ausgabe fest."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Zugang zum elektronischen Patientendossier",
+      "section": "8",
+      "title": "Zugriffsmöglichkeiten für Patientinnen und Patienten",
+      "content": "1 Die Patientin oder der Patient kann auf ihre oder seine Daten zugreifen. 2 Sie oder er kann selber eigene Daten erfassen, insbesondere die Willensäusserung zur Organspende oder die Patientenverfügung."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Zugang zum elektronischen Patientendossier",
+      "section": "9",
+      "title": "Zugriffsrechte für Gesundheitsfachpersonen",
+      "content": "1 Gesundheitsfachpersonen können auf die Daten von Patientinnen oder Patienten zugreifen, soweit diese ihnen Zugriffsrechte erteilt haben. 2 Der Bundesrat legt die nach der Erstellung eines elektronischen Patientendossiers gültige Grundeinstellung der Zugriffsrechte und der Vertraulichkeitsstufen fest. Die Patientin oder der Patient kann diese anpassen. 3 Die Patientin oder der Patient kann die Zugriffsrechte bestimmten Gesundheitsfachpersonen oder Gruppen von Gesundheitsfachpersonen zuweisen oder einzelne Gesundheitsfachpersonen generell vom Zugriffsrecht ausschliessen. 4 Sie oder er kann die Vertraulichkeitsstufen einzelner Daten anpassen. 5 In medizinischen Notfallsituationen können Gesundheitsfachpersonen auch ohne Zugriffsrechte auf Daten aus dem elektronischen Patientendossier zugreifen, soweit die Patientin oder der Patient dies nicht im Rahmen der Anpassung der Grundeinstellung ausgeschlossen hat. Die Patientin oder der Patient muss über den Zugriff informiert werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Aufgaben der Gemeinschaften und der Stammgemeinschaften",
+      "section": "10",
+      "title": "",
+      "content": "1 Gemeinschaften müssen sicherstellen, dass: a. Daten nach Artikel 3 Absatz 2 über das elektronische Patientendossier zugänglich sind; b. jede Bearbeitung von Daten protokolliert wird. 2 Stammgemeinschaften müssen zusätzlich: a. die Einwilligungen und Widerrufserklärungen nach Artikel 3 verwalten; b. den Patientinnen und Patienten die Möglichkeit geben: 1. die Zugriffsrechte für Gesundheitsfachpersonen nach Artikel 9 zu vergeben und anzupassen, 2. auf ihre Daten zuzugreifen, 3. selber eigene Daten im elektronischen Patientendossier zu erfassen. 3 Die Protokolldaten sind zehn Jahre aufzubewahren."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "5. Abschnitt: Zertifizierung",
+      "section": "11",
+      "title": "Zertifizierungspflicht",
+      "content": "Durch eine anerkannte Stelle zertifiziert sein müssen: a. die Gemeinschaften und Stammgemeinschaften; b. Zugangsportale; c. die Herausgeber von Identifikationsmitteln."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Zertifizierung",
+      "section": "12",
+      "title": "Zertifizierungsvoraussetzungen",
+      "content": "1 Der Bundesrat legt unter Berücksichtigung der entsprechenden internationalen Normen sowie des aktuellen Stands der Technik die Anforderungen für die Zertifizierung fest; insbesondere legt er fest: a. welche Normen, Standards und Integrationsprofile anzuwenden sind; b. wie der Datenschutz und die Datensicherheit zu gewährleisten sind; c. welche organisatorischen Voraussetzungen zu erfüllen sind. 2 Er kann das Bundesamt für Gesundheit (BAG) ermächtigen, die Anforderungen nach Absatz 1 dem jeweiligen Stand der Technik anzupassen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Zertifizierung",
+      "section": "13",
+      "title": "Zertifizierungsverfahren",
+      "content": "1 Der Bundesrat regelt das Zertifizierungsverfahren, namentlich: a. die Voraussetzungen für die Anerkennung der Zertifizierungsstellen; b. die Gültigkeitsdauer der Zertifizierung und die Voraussetzungen für deren Erneuerung; c. die Voraussetzungen für den Entzug der Zertifizierung; d. die Anerkennung von Zertifizierungsverfahren nach anderen Gesetzen. 2 Er kann Zertifizierungsverfahren für einzelne Elemente der Informatikinfrastruktur vorsehen, die für den Aufbau von Gemeinschaften, Stammgemeinschaften oder Zugangsportalen notwendig sind."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "6. Abschnitt: Aufgaben des Bundes",
+      "section": "14",
+      "title": "Technische Komponenten",
+      "content": "1 Das BAG führt die Abfragedienste, welche die für die Kommunikation zwischen Gemeinschaften, Stammgemeinschaften und Zugangsportalen notwendigen Referenzdaten liefern. 2 Es betreibt einen nationalen Kontaktpunkt für den grenzüberschreitenden Abruf von Daten. 3 Der Bundesrat legt die Anforderungen an die Abfragedienste und den nationalen Kontaktpunkt sowie die Voraussetzungen für deren Betrieb fest."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "6. Abschnitt: Aufgaben des Bundes",
+      "section": "15",
+      "title": "Information",
+      "content": "1 Der Bund informiert die Bevölkerung, die Gesundheitsfachpersonen und weitere interessierte Kreise über das elektronische Patientendossier. 2 Er koordiniert seine Informationstätigkeiten mit denjenigen der Kantone."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Aufgaben des Bundes",
+      "section": "16",
+      "title": "Koordination",
+      "content": "Der Bund fördert die Koordination zwischen den Kantonen und weiteren interessierten Kreisen, indem er den Wissenstransfer und den Erfahrungsaustausch unterstützt."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Aufgaben des Bundes",
+      "section": "17",
+      "title": "Internationale Vereinbarungen",
+      "content": "Der Bundesrat kann internationale Vereinbarungen abschliessen über die Teilnahme an internationalen Programmen und Projekten zur Förderung der elektronischen Bearbeitung von Daten und der elektronischen Vernetzung im Gesundheitsbereich."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "6. Abschnitt: Aufgaben des Bundes",
+      "section": "18",
+      "title": "Evaluation",
+      "content": "1 Das Eidgenössische Departement des Innern sorgt dafür, dass Zweckmässigkeit, Wirksamkeit und Wirtschaftlichkeit der Massnahmen nach diesem Gesetz periodisch evaluiert werden. 2 Es erstattet dem Bundesrat nach Abschluss der Evaluation Bericht über die Resultate und unterbreitet ihm Vorschläge für das weitere Vorgehen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "6. Abschnitt: Aufgaben des Bundes",
+      "section": "19",
+      "title": "Übertragung von Aufgaben",
+      "content": "1 Der Bundesrat kann das Führen der Abfragedienste und den Betrieb des nationalen Kontaktpunktes Dritten übertragen. Er beaufsichtigt die beauftragten Dritten. 2 Die beauftragten Dritten können von den Gemeinschaften, Stammgemeinschaften und Zugangsportalen für den Bezug von Referenzdaten oder für den grenzüberschreitenden Abruf von Daten Gebühren erheben. 3 Soweit die Aufwendungen der beauftragten Dritten für die Erfüllung der ihnen übertragenen Aufgaben nicht durch Gebühren nach Absatz 2 gedeckt sind, gewährt der Bund eine Entschädigung. 4 Der Bundesrat setzt die Gebühren fest und regelt den Umfang und die Modalitäten der Entschädigung."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "8. Abschnitt: Strafbestimmungen",
+      "section": "24",
+      "title": "",
+      "content": "1 Sofern das Strafgesetzbuch nicht eine schwerere Strafe vorsieht, wird mit Busse bis zu 100 000 Franken bestraft, wer vorsätzlich ohne Zugriffsrecht auf ein elektronisches Patientendossier zugreift. 2 Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 10 000 Franken. SR 311.0"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "25",
+      "title": "Änderung eines anderen Erlasses",
+      "content": "… Die Änderung kann unter AS 2017 2201 konsultiert werden."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "26",
+      "title": "Übergangsbestimmung",
+      "content": "Die Artikel 20–23 bleiben auf die während ihrer Geltungsdauer nach Artikel 27 Absatz 3 eingereichten Gesuche anwendbar."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "27",
+      "title": "Referendum, Inkrafttreten und Geltungsdauer",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. 3 Die Artikel 20–23 gelten während drei Jahren ab ihrem Inkrafttreten. Datum des Inkrafttretens: 15. April 2017 BRB vom 22. März 2017"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektronisches Patientendossier:",
+      "definition": "elektronisches Patientendossier: virtuelles Dossier, über das dezentral abgelegte behandlungsrelevante Daten aus der Krankengeschichte einer Patientin oder eines Patienten oder ihre oder seine selber erfassten Daten in einem Abrufverfahren in einem konkreten Behandlungsfall zugänglich gemacht werden können;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gesundheitsfachperson:",
+      "definition": "Gesundheitsfachperson: nach eidgenössischem oder kantonalem Recht anerkannte Fachperson, die im Gesundheitsbereich Behandlungen durchführt oder anordnet oder im Zusammenhang mit einer Behandlung Heilmittel oder andere Produkte abgibt;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Behandlung:",
+      "definition": "Behandlung: sämtliche Tätigkeiten einer Gesundheitsfachperson, die der Heilung oder Pflege einer Patientin oder eines Patienten oder der Vorbeugung, Früherkennung, Diagnostik oder Linderung einer Krankheit dienen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gemeinschaft:",
+      "definition": "Gemeinschaft: organisatorische Einheit von Gesundheitsfachpersonen und deren Einrichtungen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Stammgemeinschaft:",
+      "definition": "Stammgemeinschaft: Gemeinschaft, die zusätzliche Aufgaben wahrnimmt.",
+      "source_provision": "art2"
+    }
+  ]
+}

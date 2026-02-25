@@ -1,0 +1,349 @@
+{
+  "id": "sr-810-301",
+  "type": "statute",
+  "title": "Verordnung vom 20. September 2013 über die Humanforschung mit Ausnahme der klinischen Versuche (Humanforschungsverordnung, HFV)",
+  "title_en": "Ordinance of 20 September 2013 on Human Research with the Exception of Clinical Trials (Human Research Ordinance, HRO)",
+  "short_name": "HFV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2013/642/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Purpose",
+      "content": "This Ordinance regulates: a. the requirements for the conduct of human research projects with the exception of clinical trials; and b. the authorisation and notification procedures for research projects as specified in letter a."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Applicable provisions",
+      "content": "The provisions concerning scientific integrity and scientific quality set out in Articles 3 and 4 of the Ordinance of 20 September 2013 on Clinical Trials (ClinO) apply mutatis mutandis . SR 810.305"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "3",
+      "title": "Responsibilities of project leader and sponsor",
+      "content": "1 The project leader is responsible for the conduct of the research project in Switzerland and for protection of the participants at the research site. 2 The project leader is also responsible for organising the research project, and in particular for the initiation, management and financing of the project in Switzerland, provided that no other person or institution headquartered or represented in Switzerland takes responsibility for this (sponsor)."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "4",
+      "title": "Professional qualifications",
+      "content": "1 The project leader responsible for a research project must: a. be entitled to practise independently the profession specifically qualifying him or her to conduct the research project in question; b. have the training and experience required to conduct the research project in question; c. be conversant with the legal requirements for research projects or be able to ensure compliance by calling in appropriate expertise. 2 The other persons conducting the research project must have the professional knowledge and experience appropriate to the activities in question."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "5",
+      "title": "Storage of health-related personal data and biological material",
+      "content": "1 Any person who stores health-related personal data for research must take appropriate operational and organisational measures to protect it, and in particular: a. restrict the handling of the health-related personal data to those persons who require this data to fulfil their duties; b. prevent unauthorised or accidental disclosure, alteration, deletion and copying of the health-related personal data; c. document all processing operations which are essential to ensure traceability. 2 Any person who stores biological material for research must, in particular: a. comply with the principles set out in paragraph 1 mutatis mutandis ; b. ensure that the technical requirements are met for appropriate storage of the biological material; c. make available the resources required for storage."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 1 General Provisions",
+      "section": "6",
+      "title": "Research project",
+      "content": "For the purposes of this Chapter, a research project is any project in which biological material is sampled or health-related personal data is collected from a person in order to: a. answer a scientific question; or b. make further use for research purposes of the biological material or the health-related personal data."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 1 General Provisions",
+      "section": "7",
+      "title": "Categorisation",
+      "content": "1 A research project comes under Category A if the planned measures for sampling biological material or collecting personal data entail only minimal risks and burdens. 2 A research project comes under Category B if the planned measures entail more than only minimal risks and burdens. 3 Sampling biological material or collecting health-related personal data entails minimal risks and burdens if the measures, in terms of intensity and quality, and taking into account the vulnerability of the participants and the specific circumstances, have only a slight and temporary impact on the participants’ health. In particular, minimal risks and burdens may be associated with: a. surveys and observations; b. peripheral venous or capillary blood sampling and skin punch biopsies of limited extent; c. removing or collecting bodily substances without invasive interventions (in particular, saliva, urine and stool samples); d. taking swabs; e. magnetic resonance imaging scans without a contrast medium, ultrasound examinations or electrograms; f. examinations using ionising radiation, provided that the effective dose is below 5 mSv per research project and per person concerned and: 1. the medicinal product used is authorised or exempt from authorisation, or 2. the devices under Article 1 of the Medical Devices Ordinance of 1 July 2020 bear conformity markings and no contrast medium is used. Amended by Annex 2 No 1 of the O of 4 May 2022, in force since 26 May 2022 ( AS 2022 294 ). SR 812.213"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 1 General Provisions",
+      "section": "8",
+      "title": "Information",
+      "content": "1 In addition to the points specified in Article 16 paragraph 2 HRA, the persons concerned must receive information on: a. the effort involved and the obligations arising from participation; b. their right to withhold or to revoke their consent without giving reasons; c. the consequences of revoking consent to further use of the biological material and personal data collected up to this point; d. their right to receive information at any time in response to further questions; e. their right to be informed of results concerning their health, and their right to forgo such information or to designate a person who is to take this decision for them; f. the measures envisaged to cover any damage arising from the research project, including the procedure in the event of a claim; g. the main sources of financing for the research project; h. other points relevant to their decision on participation. 2 If the intention exists to make further use for research of the biological material sampled or the health-related personal data collected, the persons concerned must also receive information on the points specified in Articles 28−32. 3 The information may be provided in stages. It may be additionally presented in a non-textual form. 4 Appropriate measures must be taken to ensure that the persons concerned have understood the essential elements of the information provided."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Exceptions to written form",
+      "content": "1 Information and consent may be provided and documented in a non‑written form if: a. the research project in question comes under Category A, as defined in this Ordinance, and involves adults with capacity; b. provision of written information and consent would be disproportionate, given the project design; and c. reference is made to the departure from written form in the application to the responsible research ethics committee (ethics committee). 2 In individual cases, information may be provided and consent granted in a non‑written form if: a. the person concerned, for physical or cognitive reasons, cannot read or cannot write; and b. the project leader furnishes proof of the provision of information and consent, specifically by means of written confirmation by witnesses, or by a recording of verbal consent. 3 In individual cases, the requirement to provide information in written form may be waived if: a. this could only be implemented with disproportionate effort, given the language skills of the person concerned; and b. an independent qualified translator is called in to provide oral information and gives written confirmation thereof."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Consequences of revocation of consent",
+      "content": "1 If consent is revoked, the biological material and health‑related personal data of the person concerned must be anonymised after data evaluation has been completed. 2 Anonymisation of the biological material and personal data may be dispensed with if: a. the person concerned expressly renounces this right when revoking consent; or b. it is established at the beginning of the research project that anonymisation is not possible and the person concerned, having been adequately informed of this fact, consented to participate. 3 Persons revoking consent must be offered any follow-up care required to protect their health."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Research projects in emergency situations",
+      "content": "For research projects in emergency situations, Articles 15–17 ClinO apply mutatis mutandis . SR 810.305"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Exemptions from liability",
+      "content": "Any person who proves that: a. the damage is only slight and temporary; and b. the extent of the damage is no greater than would be expected in the current state of scientific knowledge shall be exempt from liability under Article 19 paragraph 1 HRA."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Coverage",
+      "content": "1 Category A research projects are exempt from the liability coverage requirements specified in Article 20 HRA. 2 For Category B research projects, the policy value shall be set in accordance with Annex 1. 3 The liability coverage must cover damage occurring up to 10 years after the completion of the research project. 4 In addition, Article 11, Article 13 paragraph 1 and Article 14 ClinO apply mutatis mutandis . SR 810.305"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 2 Authorisation Procedure",
+      "section": "14",
+      "title": "Application",
+      "content": "1 The project leader shall submit the application documents specified in Annex 2 to the responsible ethics committee for review. 2 The ethics committee may request additional information. 3 The sponsor may submit the application instead of the project leader. In this case, the sponsor assumes the obligations of the project leader as specified in Articles 17–23. The application documents must be co-signed by the project leader."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 2 Authorisation Procedure",
+      "section": "15",
+      "title": "Review areas",
+      "content": "The responsible ethics committee shall review: a. the completeness of the application; b. the categorisation requested; c. the research project with regard to: 1. scientific quality, in the case of a research project as specified in Article 6 letter a, 2. the ratio between the likely risks and burdens and the expected benefits (Art. 12 para. 2 HRA), 3. the measures taken to minimise risks and burdens, and for the protection and follow-up of participants (Art. 15 HRA), including precautionary measures in the handling of personal data, 4. the need to involve persons, and in particular persons who are particularly vulnerable (Art. 11 HRA), 5. the criteria for the selection of participants, 6. the proposed procedure for providing information and obtaining consent, including the appropriateness of the period for reflection, 7. the appropriateness of the remuneration for participants and compliance with the prohibition of commercialisation (Art. 9 HRA), 8. compliance with scientific integrity requirements; d. the completeness of the documentation for recruitment, information and consent, and its comprehensibility, especially with regard to the possible involvement of particularly vulnerable persons; e. for Category B research projects: the guaranteeing of the right to compensation in the event of damage (Art. 20 HRA); f. for investigations involving radiation sources: additionally, compliance with radiological protection legislation and the dose estimation, in cases where an opinion does not have to be sought from the Federal Office of Public Health (FOPH) in accordance with Article 19 paragraph 2; g. the professional qualifications of the project leader and the other researchers; h. compliance with the requirements concerning the storage of biological material or health-related personal data specified in Article 5; i. the suitability of the infrastructure at the research site; j. the financing of the research project and the agreements between the sponsor, third parties and the project leader concerning the allocation of tasks, remuneration and publication; k. other areas, where this is necessary to assess the protection of participants. Term in accordance with Annex 11 No 5 of the Radiation Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ( AS 2017 4261 ). This modification has been made throughout the text."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 2 Authorisation Procedure",
+      "section": "16",
+      "title": "Procedure and deadlines",
+      "content": "1 The ethics committee shall acknowledge receipt of the application within 7 days and notify the project leader of any formal deficiencies in the application documents. 2 It shall reach a decision within 30 days after acknowledgement of receipt of the formally correct application documents. 3 If the ethics committee requests additional information in accordance with Article 14 paragraph 2, the clock shall be stopped until this information has been received."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Multicentre research projects",
+      "content": "1 The project leader shall submit the application for a multicentre research project to the lead committee in accordance with Article 47 paragraph 2 HRA. 2 The lead committee shall acknowledge receipt of the application within 7 days and at the same time notify the project leader whether the application documents submitted are formally in order. 3 At the request of the lead committee, the project leader shall submit the required number of copies of the application documents specified in Annex 2 to the ethics committees responsible at the other research sites (ethics committees concerned). These shall review the local conditions and inform the lead committee of their assessment within 15 days. 4 The lead committee shall reach a decision within 45 days of acknowledging receipt of the formally correct application. It shall inform the ethics committees concerned of its decision."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Changes",
+      "content": "1 Significant changes to an authorised research project must be authorised by the ethics committee before being implemented. Exempt from this requirement are measures which have to be taken immediately in order to protect the participants. 2 The project leader shall submit to the ethics committee any application documents specified in Annex 2 which are affected by the change. At the same time, the project leader shall provide information on the reasons for the change. 3 The following are considered to be significant changes: a. changes affecting the participants’ safety and health, or their rights and obligations; b. in the case of a Category B research project, changes to the protocol which concern the goal or the central topic of the research project; c. a change of research site or conducting the research project at an additional site; or d. a change of project leader or sponsor. 4 The ethics committee shall reach a decision on significant changes within 30 days. Article 16 applies mutatis mutandis . 5 For the authorisation procedure in the case of significant changes to authorised multicentre research projects, Article 17 applies mutatis mutandis ."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Procedure for investigations involving radiation sources",
+      "content": "1 In the case of investigations involving radiation sources, the project leader shall additionally submit to the responsible ethics committee the documents specified in Annex 2 number 2. Subject to the provisions of the following paragraphs, the authorisation procedure is governed by Articles 14–18. 2 The project leader shall additionally submit to the FOPH the application documents specified in Annex 2 number 3, informing the ethics committee at the same time if the effective dose per person, taking the uncertainty factor into account, is more than 5 mSv per year and: a. a radiopharmaceutical is used which is not authorised in Switzerland; b. a radiopharmaceutical is used which is authorised in Switzerland, and the intervention in question is not a routine nuclear medicine examination; or c. some other radioactive source is used. 3 The FOPH shall deliver an opinion for the ethics committee on compliance with radiological protection legislation and on the dose estimation. 4 The ethics committee shall grant authorisation if: a. the requirements covered by Article 15 are met; and b. the FOPH has raised no objections to the research project. 5 It shall reach a decision in this case within 45 days after acknowledgement of receipt of the formally correct application documents. It shall inform the FOPH of its decision. Term in accordance with Annex 11 No 5 of the Radiation Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ( AS 2017 4261 ). This modification has been made throughout the text."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 3 Notifications and Reporting",
+      "section": "20",
+      "title": "Notification of safety and protective measures",
+      "content": "If immediate safety and protective measures have to be taken during the conduct of a research project, the project leader shall notify the ethics committee of these measures, and of the circumstances necessitating them, within 7 days."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 3 Notifications and Reporting",
+      "section": "21",
+      "title": "Serious events",
+      "content": "1 If, in the course of a research project, serious events occur in participants, the research project must be interrupted. 2 A serious event is defined as any adverse event where it cannot be excluded that the event is attributable to the sampling of biological material or the collection of health-related personal data, and which: a. requires inpatient treatment not envisaged in the protocol or extends a current hospital stay; b. results in permanent or significant incapacity or disability; or c. is life-threatening or results in death. 3 If necessary in order to guarantee participants’ safety and health, further events are to be designated as serious in the protocol or at the request of the responsible ethics committee. 4 The project leader shall notify the ethics committee of a serious event within 7 days. In addition, the project leader shall report to the committee on the connection between the event and the collection of health-related personal data or the sampling of biological material. At the same time, he or she shall submit proposals concerning the next steps to be taken. 5 If a serious event occurs in connection with an investigation involving a radiation source on which the FOPH has delivered an opinion in accordance with Article 19, this must be additionally reported to the FOPH within 7 days. 6 The ethics committee shall reach a decision on the continuation of the research project within 30 days after receipt of the report."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 3 Notifications and Reporting",
+      "section": "22",
+      "title": "Notification upon completion or discontinuation of a research project",
+      "content": "The project leader shall notify the ethics committee of the discontinuation or completion of a research project within 90 days."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 3 Notifications and Reporting",
+      "section": "23",
+      "title": "Assessment, notification and reporting on the use of radiation sources",
+      "content": "1 In the case of investigations using radiation sources, the project leader shall assess compliance with the dose guidance value under Article 45 of the Radiological Protection Ordinance of 26 April 2017. 2 He or she shall give notify the competent ethics committee if the permitted dose guidance value within seven working days of the information coming to light. 3 The competent ethics committee may obtain technical advice from the FOPH in order to assess the dose calculation or the dose estimate and to decide what further measures are required. 4 Within a year of completing or discontinuing a research project which included investigations involving radioactive sources, the project leader shall submit to the FOPH a final report including all information of relevance for radiological protection, and in particular a retrospective dose estimation by the participants. 5 Routine nuclear medicine examinations involving authorised radiopharmaceuticals are exempt from the reporting requirement under paragraph 4. 6 Within the framework of the opinion delivered in accordance with Article 19, or on request, the FOPH may specify further exemptions from the reporting requirements. Amended by Annex 11 No 5 of the Radiation Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ( AS 2017 4261 ). SR 814.501"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 1 General Provisions",
+      "section": "24",
+      "title": "Further use",
+      "content": "Further use of biological material and health-related personal data is defined as any handling, for research purposes, of biological material already sampled or data already collected, and in particular: a. procuring, bringing together or collecting biological material or health‑related personal data; b. registration or cataloguing of biological material or health-related personal data; c. storage or inclusion in biobanks or databases; d. making accessible or available or transferring biological material or health‑related personal data."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 1 General Provisions",
+      "section": "25",
+      "title": "Anonymisation",
+      "content": "1 For the anonymisation of biological material and health-related personal data, all items which, when combined, would enable the data subject to be identified without disproportionate effort, must be irreversibly masked or deleted. 2 In particular, the name, address, date of birth and unique identification numbers must be masked or deleted."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 1 General Provisions",
+      "section": "26",
+      "title": "Coding",
+      "content": "1 Biological material and health-related personal data are considered to be correctly coded in accordance with Article 32 paragraph 2 and Article 33 paragraph 2 HRA if, from the perspective of a person who lacks access to the key, they are to be characterised as anonymised. 2 The key must be stored separately from the material or data collection and in accordance with the principles of Article 5 paragraph 1, by a person to be designated in the application who is not involved in the research project."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 1 General Provisions",
+      "section": "27",
+      "title": "Conditions for breaking the code",
+      "content": "For coded biological material and coded health-related personal data, the code may only be broken if: a. breaking the code is necessary to avert an immediate risk to the health of the person concerned; b. a legal basis exists for breaking the code; or c. breaking the code is necessary to guarantee the rights of the person concerned, and in particular the right to revoke consent."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 2 Informed Consent and Information",
+      "section": "28",
+      "title": "Informed consent for further use of biological material and genetic personal data in uncoded form for a research project",
+      "content": "1 The persons concerned must receive written and oral information on: a. the nature, purpose and duration of, and procedure for, the research project; b. their right to withhold or to revoke their consent at any time without giving reasons; c. the consequences of revocation of consent for the biological material and personal data used up to this point; d. their right to receive information at any time in response to further questions relating to the research project; e. their right to be informed of results concerning their health, and their right to forgo such information or to designate a person who is to take this decision for them; f. measures to protect the biological material and the personal data; g. the main sources of financing for the research project; h. other points relevant to their decision. 2 The information may be additionally presented in a non-textual form. 3 Consent must be given in writing. 4 The exceptions to written form are governed by Article 9 mutatis mutandis ."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 2 Informed Consent and Information",
+      "section": "29",
+      "title": "Informed consent for further use of biological material and genetic personal data in coded form for research purposes",
+      "content": "1 The persons concerned must receive written or oral information on: a. the proposed further use of the coded biological material and coded genetic personal data for research purposes; b. their right to withhold or to revoke their consent at any time without giving reasons; c. measures to protect the biological material and personal data, and in particular management of the key; d. the possibility of the biological material and the genetic personal data being passed on to third parties for research purposes. 2 Consent must be given in writing; the exceptions are governed by Article 9 mutatis mutandis ."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Section 2 Informed Consent and Information",
+      "section": "30",
+      "title": "Information on the proposed anonymisation of biological material and genetic personal data for research purposes",
+      "content": "The persons concerned must receive written or oral information on: a. the proposed anonymisation of the biological material and genetic personal data for research purposes; b. their right to dissent; c. the consequences of anonymisation with regard to results concerning their health; d. the possibility of the biological material and the data being passed on to third parties for research purposes."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Section 2 Informed Consent and Information",
+      "section": "31",
+      "title": "Informed consent for further use of non-genetic health-related personal data in uncoded form for research purposes",
+      "content": "1 The persons concerned must receive written or oral information on: a. the proposed further use of the non-genetic health-related personal data for research purposes; b. their right to withhold or to revoke their consent at any time without giving reasons; c. their right to be informed of results concerning their health, and their right to forgo such information; d. measures to protect the personal data; e. the possibility of the personal data being passed on to third parties for research purposes. 2 Consent must be given in writing; the exceptions are governed by Article 9 mutatis mutandis ."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Section 2 Informed Consent and Information",
+      "section": "32",
+      "title": "Information on the proposed further use of non-genetic health-related personal data in coded form for research purposes",
+      "content": "The persons concerned must receive written or oral information on: a. the proposed further use of the non-genetic health-related personal data in coded form for research purposes; b. their right to dissent; c. measures to protect the personal data, and in particular management of the key; d. the possibility of the personal data being passed on to third parties for research purposes."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Section 3 Authorisation Procedure and Notification Requirements for Research Projects involving Biological Material and Health-Related Personal Data",
+      "section": "33",
+      "title": "Research project",
+      "content": "For the purposes of this Section, a research project is any project in which further use is made of biological material already sampled or health-related personal data already collected in order to answer a scientific question."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Section 3 Authorisation Procedure and Notification Requirements for Research Projects involving Biological Material and Health-Related Personal Data",
+      "section": "34",
+      "title": "Review areas",
+      "content": "1 The ethics committee shall review: a. the completeness of the application; b. the fulfilment of the conditions specified in Articles 32 and 33 HRA; c. for research projects involving biological material and health-related personal data in coded form: correct and secure coding; d. compliance with the requirements for the storage of biological material or health-related personal data; e. the professional qualifications of the project leader and the other persons involved in the research project; f. other areas, where this is necessary to assess the protection of the persons concerned. 2 In this process, it shall take into account existing authorisations from ethics committees with regard to the biological material or the health-related personal data."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 3 Authorisation Procedure and Notification Requirements for Research Projects involving Biological Material and Health-Related Personal Data",
+      "section": "35",
+      "title": "Applicable provisions",
+      "content": "The following provisions apply mutatis mutandis : a. for the submission of the application: Article 14; b. for the procedure and deadlines: Article 16; c. for multicentre research projects: Article 17."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Section 3 Authorisation Procedure and Notification Requirements for Research Projects involving Biological Material and Health-Related Personal Data",
+      "section": "36",
+      "title": "Notification requirements",
+      "content": "1 The project leader shall notify the ethics committee of a change of project leader in advance. 2 The project leader shall notify the ethics committee of the completion or discontinuation of the research project within 90 days."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Section 4 Authorisation Procedure and Notification Requirements for further Use of Biological Material and Health-Related Personal Data for Research in the Absence of Informed Consent in accordance with Article 34 HRA",
+      "section": "37",
+      "title": "Review areas",
+      "content": "The ethics committee shall review: a. the completeness of the application; b. the reasons, as specified in Article 34 letters a and b HRA; c. the interests of the proposed research which outweigh the interests of the person concerned in deciding on the further use of his or her biological material and health-related personal data; d. the group of persons entitled to pass on the biological material and the personal data; e. compliance with the requirements concerning the storage of biological material or health-related personal data and the group of persons with access rights; f. the professional qualifications of the persons entitled to receive the biological material and the personal data; g. other areas, where this is necessary to assess the protection of the persons concerned."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Section 4 Authorisation Procedure and Notification Requirements for further Use of Biological Material and Health-Related Personal Data for Research in the Absence of Informed Consent in accordance with Article 34 HRA",
+      "section": "38",
+      "title": "Applicable provisions",
+      "content": "The following provisions apply mutatis mutandis : a. for the submission of the application: Article 14; b. for the procedure and deadlines: Article 16; c. for further use or collection according to a standard protocol, but in different cantons: the procedure specified in Article 17."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Section 4 Authorisation Procedure and Notification Requirements for further Use of Biological Material and Health-Related Personal Data for Research in the Absence of Informed Consent in accordance with Article 34 HRA",
+      "section": "39",
+      "title": "Authorisation",
+      "content": "The authorisation shall include at least the following information: a. the purpose for which further use may be made of the biological material and the health-related personal data; b. the designation of the biological material and health-related personal data covered by the authorisation; c. the group of persons entitled to pass on the biological material and the health-related personal data; d. the group of persons entitled to receive the biological material and the personal data."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Section 4 Authorisation Procedure and Notification Requirements for further Use of Biological Material and Health-Related Personal Data for Research in the Absence of Informed Consent in accordance with Article 34 HRA",
+      "section": "40",
+      "title": "Notifications",
+      "content": "1 The project leader must notify the ethics committee in advance of any changes to the information given in the authorisation. 2 The project leader must notify the ethics committee of the completion or discontinuation of the collection process within 90 days."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Chapter 4 Research Involving Deceased Persons",
+      "section": "41",
+      "title": "Review areas",
+      "content": "The ethics committee shall review: a. the completeness of the application; b. the scientific quality; c. compliance with the requirements for consent (Art. 36 HRA); d. for research projects involving deceased persons undergoing artificial respiration: the need to involve them in the research project (Art. 37 para. 2 HRA) and compliance with the requirement for independence of the persons involved in the determination of their death (Art. 37 para. 3 HRA); e. compliance with the requirements for the storage of biological material or health-related personal data; f. compliance with the prohibition of commercialisation (Art. 9 HRA); g. the professional qualifications of the project leader and the other researchers."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Chapter 4 Research Involving Deceased Persons",
+      "section": "42",
+      "title": "Applicable provisions",
+      "content": "The following provisions apply mutatis mutandis : a. for the submission of the application: Article 14; b. for the procedure and deadlines: Article 16; c. for multicentre research projects: the procedure specified in Article 17."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Chapter 4 Research Involving Deceased Persons",
+      "section": "43",
+      "title": "Notifications",
+      "content": "1 The project leader must notify the ethics committee in advance of the following changes to the research project: a. change of project leader; b. for research projects involving deceased persons undergoing artificial respiration: significant changes to the protocol. 2 The project leader shall notify the ethics committee of the completion or discontinuation of the research project within 90 days."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Chapter 5 Research involving Embryos and Foetuses from Induced Abortions and from Spontaneous Abortions including Stillbirths",
+      "section": "44",
+      "title": "Informed consent",
+      "content": "1 For research projects involving embryos and foetuses from induced abortions and from spontaneous abortions including stillbirths, the pregnant woman or the couple concerned must receive written and oral information on: a. the use of the embryo or foetus for research purposes; b. their right to withhold or to revoke their consent at any time without giving reasons; c. measures to protect the biological material and the personal data; d. the handling of the embryo or foetus after completion of the research. 2 The information may be additionally presented in a non-textual form. 3 Consent must be given in writing. The consequences of revocation of consent are governed by Article 10. 4 The exceptions to written form are governed by Article 9 mutatis mutandis ."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Chapter 5 Research involving Embryos and Foetuses from Induced Abortions and from Spontaneous Abortions including Stillbirths",
+      "section": "45",
+      "title": "Review areas",
+      "content": "The ethics committee shall review: a. the completeness of the application; b. the scientific quality; c. compliance with the requirements for informed consent; d. for research projects involving embryos and foetuses from induced abortions: compliance with the requirements specified in Article 39 paragraphs 1, 2 and 4 HRA; e. compliance with the prohibition of commercialisation (Art. 9 HRA); f. compliance with the requirements concerning the storage of biological material or health-related personal data; g. the professional qualifications of the project leader and the other researchers; h. other areas, where this is necessary to assess the protection of the pregnant woman or the couple concerned."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Chapter 5 Research involving Embryos and Foetuses from Induced Abortions and from Spontaneous Abortions including Stillbirths",
+      "section": "46",
+      "title": "Applicable provisions",
+      "content": "The following provisions apply mutatis mutandis : a. for the submission of the application: Article 14; b. for the procedure and deadlines: Article 16; c. for multicentre research projects: the procedure specified in Article 17; d. for notification requirements: Article 36."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Chapter 6 Final Provisions",
+      "section": "47",
+      "title": "Updating of Annexes",
+      "content": "The Federal Department of Home Affairs may update the Annexes in accordance with international or technical developments. It shall undertake updates which may give rise to technical barriers to trade in consultation with the Federal Department of Economic Affairs, Education and Research."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Chapter 6 Final Provisions",
+      "section": "48",
+      "title": "Transitional provisions",
+      "content": "1 Research projects as defined in Chapter 2 which were granted authorisation before 1 January 2014 are considered to be Category B research projects. 2 On request, the authority which authorised the research project before 1 January 2014 may assign the research project to Category A. In this case, the liability, coverage and notification requirements are governed by the new law. 3 The ethics committee shall make the decision specified in paragraph 2 according to the simplified procedure specified in Article 6 of the HRA Organisation Ordinance of 20 September 2013. 4 The provisions of this Ordinance are applicable: a. to the assessment of significant changes to research projects as specified in Chapter 2; b. to notifications concerning research projects as specified in Chapters 3–5. 5 The responsible ethics committee shall make a decision on applications concerning research projects not subject to authorisation under existing law, submitted in accordance with Article 67 paragraph 2 HRA, within six months after acknowledgement of receipt of the formally correct application documents. SR 810.308"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Chapter 6 Final Provisions",
+      "section": "49",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 January 2014."
+    }
+  ],
+  "definitions": []
+}

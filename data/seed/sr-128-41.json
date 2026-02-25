@@ -1,0 +1,201 @@
+{
+  "id": "sr-128-41",
+  "type": "statute",
+  "title": "Verordnung vom 8. November 2023 über das Betriebssicherheitsverfahren (VBSV)",
+  "title_en": "",
+  "short_name": "VBSV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2023/737/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "(Art. 2, 49 und 73 ISG) 1 Diese Verordnung regelt: a. das Betriebssicherheitsverfahren nach den Artikeln 49–73 ISG; b die Anwendung des Betriebssicherheitsverfahrens auf Subunternehmen; c. die Aufgaben und Zuständigkeiten der Fachstelle Betriebssicherheit (Fachstelle BS); d. die Datensicherheit im Informationssystem nach Artikel 70 ISG; e. die periodische Kontrolle der Bearbeitung von Personendaten durch eine externe Stelle. 2 Sie gilt für: a. die verpflichteten Behörden nach Artikel 2 Absatz 1 ISG; b. die Verwaltungseinheiten der zentralen Bundesverwaltung nach Artikel 7 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998; c. die Armee. 3 Die Geltung dieser Verordnung für die Verwaltungseinheiten der dezentralen Bundesverwaltung nach Artikel 2 Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 (RVOG) und Organisationen nach Artikel 2 Absatz 4 RVOG richtet sich nach Artikel 2 Absätze 2 und 3 der Informationssicherheitsverordnung vom 8. November 2023 (ISV). SR 172.010.1 SR 172.010 SR 128.1"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Betroffene Betriebe",
+      "content": "(Art. 50 ISG) 1 Das Betriebssicherheitsverfahren nach dieser Verordnung wird bei Betrieben mit Sitz in der Schweiz durchgeführt. 2 Die völkerrechtlichen Verträge nach Artikel 87 ISG regeln die Durchführung des Betriebssicherheitsverfahrens für Betriebe mit Sitz im Ausland."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Zuständige Behörde",
+      "content": "(Art. 51 Abs. 2 ISG) 1 Das Staatssekretariat für Sicherheitspolitik im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) betreibt die Fachstelle BS. 2 Die Fachstelle koordiniert ihre internationalen Tätigkeiten mit der Fachstelle des Bundes für Informationssicherheit nach Artikel 83 ISG."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Einleitung des Betriebssicherheitsverfahrens",
+      "section": "4",
+      "title": "Antrag auf Einleitung des Verfahrens",
+      "content": "(Art. 52 ISG) 1 Im Zuständigkeitsbereich des Bundesrats sind die Informationssicherheitsbeauftragten der Verwaltungseinheiten nach Artikel 37 ISV für den Antrag auf Einleitung des Verfahrens zuständig. Vorbehalten bleibt Artikel 13 Absatz 2 Buchstabe c. 2 Die verpflichteten Behörden nach Artikel 2 Absatz 1 ISG melden der Fachstelle BS, wer in ihrem Zuständigkeitsbereich für den Antrag auf Einleitung des Verfahrens zuständig ist. 3 Der Antrag umfasst insbesondere: a. eine Umschreibung der Bauleistung, Lieferung oder Dienstleistung; b. Erläuterungen zur Sicherheitsempfindlichkeit des Auftrags; c. Angaben zum geplanten Vergabeverfahren. SR 128.1"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Einleitung des Betriebssicherheitsverfahrens",
+      "section": "5",
+      "title": "Prüfung des Antrags",
+      "content": "(Art. 53 ISG) 1 Die Fachstelle BS nimmt vor der Einleitung des Verfahrens Rücksprache mit der Auftraggeberin oder der zuständigen ausländischen Behörde oder internationalen Organisation. 2 Auf die Einleitung des Verfahrens darf nicht verzichtet werden, wenn eine der folgenden Voraussetzungen erfüllt ist: a. Der sicherheitsempfindliche Auftrag umfasst die Bearbeitung als «geheim» klassifizierter Informationen oder die Verwaltung, den Betrieb, die Wartung oder die Überprüfung von Informatikmitteln der Sicherheitsstufe «sehr hoher Schutz». b. Der sicherheitsempfindliche Auftrag umfasst die Bearbeitung als «vertraulich» klassifizierter Informationen, die mehrere Behörden oder Departemente betreffen. c. Der sicherheitsempfindliche Auftrag umfasst die Verwaltung, den Betrieb, die Wartung oder die Überprüfung von Informatikmitteln der Sicherheitsstufe «hoher Schutz», die für die Erfüllung behörden- oder departementsübergreifender Aufgaben eingesetzt werden. d. Der Betrieb bewirbt sich um einen Auftrag, für den er eine internationale Betriebssicherheitsbescheinigung nach Artikel 66 ISG benötigt. 3 Die Fachstelle BS informiert die Auftraggeberin, wenn absehbar wird, dass die Prüfung des Antrags länger als 30 Tage dauern wird."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Einleitung des Betriebssicherheitsverfahrens",
+      "section": "6",
+      "title": "Prüfung des Antrags mit ausländischen Sicherheitsbehörden",
+      "content": "(Art. 52 Abs. 3 ISG) 1 Wenn ausländische Betriebe für die Erfüllung des sicherheitsempfindlichen Auftrags in Frage kommen, so leitet die Fachstelle BS den Antrag an die Fachstelle des Bundes für Informationssicherheit weiter. 2 Die Fachstelle des Bundes für Informationssicherheit prüft mit der zuständigen ausländischen Sicherheitsbehörde, ob die betroffenen Betriebe über eine gültige Betriebssicherheitserklärung verfügen. Ist dies nicht der Fall, so beantragt sie der ausländischen Sicherheitsbehörde die Einleitung des Betriebssicherheitsverfahrens."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Einleitung des Betriebssicherheitsverfahrens",
+      "section": "7",
+      "title": "Festlegung der Sicherheitsanforderungen",
+      "content": "(Art. 54 ISG) 1 Die Anforderungen an die Informationssicherheit während des Vergabeverfahrens und der Auftragserfüllung richten sich nach den Bestimmungen der ISV und der Verordnung vom 8. November 2023 über die Personensicherheitsprüfungen. 2 Wird das Verfahren auf Antrag einer ausländischen Behörde oder internationalen Organisation eingeleitet, so richten sich die Anforderungen an die Informationssicherheit nach dem entsprechenden völkerrechtlichen Vertrag. 3 Die Fachstelle BS legt in Absprache mit der Auftraggeberin fest, welche sicherheitsempfindlichen Aufgaben während des Vergabeverfahrens und der Auftragserfüllung durch die Auftraggeberin umzusetzen sind. 4 Die Auftraggeberin bleibt für die Koordination der Verfahrensabläufe im Vergabeverfahren verantwortlich. SR 128.1 SR 128.31"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Beurteilung der Betriebe",
+      "section": "8",
+      "title": "Meldung geeigneter Betriebe",
+      "content": "(Art. 55 ISG) 1 Die Auftraggeberin kann der Fachstelle BS bis zu fünf in Frage kommende Betriebe melden. Die Fachstelle BS kann in begründeten Fällen auf Antrag der Auftraggeberin eine höhere Zahl zulassen. 2 Die Fachstelle BS prüft, ob die in Frage kommenden Betriebe in die Durchführung des Verfahrens eingewilligt haben. 3 Sie informiert die Auftraggeberin, wenn absehbar ist, dass die Eignungsprüfung länger als 30 Tage dauern wird."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Beurteilung der Betriebe",
+      "section": "9",
+      "title": "Datenerhebung",
+      "content": "(Art. 56 ISG) 1 Die Fachstelle BS erhebt sämtliche sicherheitsrelevanten Daten, die für die Beurteilung der Eignung des Betriebs notwendig sind, insbesondere: a. Daten über die Eigentumsverhältnisse sowie geplante Änderungen wie Fusionen, Beteiligungen oder Übernahmen; b. Daten über die Zusammensetzung der Unternehmensführung; c. Daten über Interessenbindungen von Mitgliedern der Unternehmensführung; d. Daten über die Solvenz sowie allfällige Pfändungs- und Konkursverfahren; e. Daten über die Bezahlung von Steuern und Sozialabgaben; f. Referenzen aus früheren Beschaffungsverfahren; g. Daten über Beziehungen des Betriebs zu ausländischen Staaten oder Organisationen und sonstige Abhängigkeiten. 2 Daten, die der Nachrichtendienst des Bundes in Erfüllung seiner Aufgabe nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015 erhoben hat, bezieht sie beim Nachrichtendienst des Bundes. SR 121"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Beurteilung der Betriebe",
+      "section": "10",
+      "title": "Ausschluss vom Vergabeverfahren",
+      "content": "(Art. 57 und 58 ISG) 1 Die Auftraggeberin und die Fachstelle BS informieren einander unverzüglich, wenn Anhaltspunkte bestehen, dass einer der in Frage kommenden Betriebe vom Vergabeverfahren ausgeschlossen werden könnte. 2 Die Fachstelle BS führt das Verfahren fort, solange die Auftraggeberin den betreffenden Betrieb nicht vom Vergabeverfahren ausschliesst. 3 Schliesst die Auftraggeberin den Betrieb aus, so wird das Betriebssicherheitsverfahren für diesen Betrieb eingestellt."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Beurteilung der Betriebe",
+      "section": "11",
+      "title": "Informationsaustausch",
+      "content": "(Art. 57 und 58 ISG) Beim Informationsaustausch nach Artikel 10 Absatz 1 stellen sich die Auftraggeberin und die Fachstelle BS unter Vorbehalt der Artikel 70 Absatz 3 und 71 Absatz 1 Buchstabe a ISG gegenseitig alle Informationen und Daten zur Verfügung, die für die Eignungsprüfung oder die Prüfung der Sachverhalte nach Artikel 44 des Bundesgesetzes vom 21. Juni 2019 über das öffentliche Beschaffungswesen (BöB) zweckdienlich sind. SR 172.056.1"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Sicherheitskonzept",
+      "section": "12",
+      "title": "Inhalt und Prüfung des Sicherheitskonzepts",
+      "content": "(Art. 59 Abs. 2 und 3 ISG) 1 Das Sicherheitskonzept definiert die organisatorischen, personellen, technischen und physischen Massnahmen zur Gewährleistung einer risikogerechten Ausführung des sicherheitsrelevanten Auftrags. 2 Die Fachstelle BS legt die Vorgaben an das Sicherheitskonzept nach einem Augenschein im Betrieb fest. Sie berücksichtigt dabei die individuellen Voraussetzungen des Betriebs. 3 Entspricht das Sicherheitskonzept nicht den Vorgaben der Fachstelle BS, so gewährt diese dem Betrieb eine angemessene Frist zur Verbesserung. 4 Die Fachstelle BS informiert die Auftraggeberin, wenn absehbar ist, dass die Prüfung des Sicherheitskonzepts länger als 30 Tage dauert."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Sicherheitskonzept",
+      "section": "13",
+      "title": "Betriebssicherheitsbeauftragte",
+      "content": "1 Betriebe, die für die Ausführung des Auftrags in Frage kommen, müssen der Fachstelle BS eine Betriebssicherheitsbeauftragte oder einen Betriebssicherheitsbeauftragten sowie deren oder dessen Stellvertretung melden. Die oder der Sicherheitsbeauftragte sowie deren oder dessen Stellvertretung muss entweder Mitglied der Geschäftsleitung sein oder in deren direktem Auftrag handeln. 2 Die oder der Betriebssicherheitsbeauftragte hat folgende Aufgaben: a. Sie oder er ist Kontaktperson zur Fachstelle BS für sämtliche Belange der Informationssicherheit. b. Sie oder er sorgt für die Umsetzung des Sicherheitskonzepts (Art. 12 Abs. 1). c. Wird der Betrieb von der Auftraggeberin ermächtigt, einem Subunternehmen einen sicherheitsempfindlichen Auftrag zu vergeben, so stellt sie oder er den Antrag auf Einleitung des Betriebssicherheitsverfahrens für das Subunternehmen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Sicherheitskonzept",
+      "section": "14",
+      "title": "Mitteilung des Zuschlags",
+      "content": "(Art. 59 Abs. 1 ISG) 1 Die Mitteilung des Zuschlags erfolgt für jedes einzelne mit einem Rahmenvertrag zusammenhängende Auftragsverhältnis gesondert. 2 Mit der Mitteilung des Zuschlags übermittelt die Auftraggeberin der Fachstelle BS die für die Erstellung des Sicherheitskonzepts notwendigen Informationen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Sicherheitskonzept",
+      "section": "15",
+      "title": "Personensicherheitsprüfungen",
+      "content": "(Art. 60 ISG) 1 Die Fachstelle BS legt fest, welche Personen des Betriebs der Personensicherheitsprüfung unterstehen. 2 Sie kann den Betrieb ermächtigen, die Personensicherheitsprüfung selbstständig einzuleiten."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Betriebssicherheitserklärung und Wiederholung des Verfahrens",
+      "section": "16",
+      "title": "Betriebssicherheitserklärung",
+      "content": "(Art. 61 und 62 ISG) Die Betriebssicherheitserklärung hält fest, für welche sicherheitsempfindliche Tätigkeit der Betrieb zugelassen wird."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Betriebssicherheitserklärung und Wiederholung des Verfahrens",
+      "section": "17",
+      "title": "Meldungen des Betriebs",
+      "content": "(Art. 63 Abs. 2 ISG) 1 Als sicherheitsrelevante Änderung gilt insbesondere: a. eine Änderung der Eigentumsverhältnisse oder der Unternehmensstrukturen; b. eine Änderung des Betriebsstandorts; c. eine Änderung in der Zusammensetzung der Unternehmensführung; d. eine Änderung der Interessenbindungen von Mitgliedern der Unternehmensführung; e. eine Änderung der Solvenz sowie ein allfälliges Pfändungs- oder Konkursverfahren; f. das Vorhandensein von Rechtsstreitigkeiten privatrechtlicher oder öffentlichrechtlicher Natur sowie von Strafverfahren; g. eine Änderung beim Einsatz von Informatikmitteln; h. das Einstellen von Mitarbeitenden, die an sicherheitsempfindlichen Tätigkeiten beteiligt werden sollen; i. eine Änderung der Beziehungen des Betriebs zu ausländischen Staaten oder Organisationen sowie eine Änderung sonstiger Abhängigkeiten; j. die Übernahme von Aufträgen, die einen Interessenkonflikt mit oder eine Abhängigkeit von einer Auftraggeberin verursachen. 2 Als sicherheitsrelevanter Vorfall gilt insbesondere: a. der widerrechtliche Zutritt zum Betrieb; b. die missbräuchliche Verwendung der Informatikmittel des Betriebs; c. ein versuchter oder erfolgreicher Angriff gegen die Informatikmittel des Betriebs; d. die Entdeckung von Schwachstellen und Sicherheitslücken; e. die Eröffnung von Schuldbetreibungs- und Strafverfahren gegen Personen des Betriebs, die an der Ausführung des sicherheitsempfindlichen Auftrags beteiligt sind; f. das Durchführen von Hausdurchsuchungen und Beschlagnahmen im Betrieb. 3 Der Betrieb muss auch sicherheitsrelevante Änderungen und Vorfälle melden, die Lieferanten betreffen, sofern diese Änderungen und Vorfälle für die Erfüllung des sicherheitsempfindlichen Auftrags relevant sein könnten. 4 Er muss die Fachstelle BS unverzüglich informieren, wenn absehbar ist, dass im Zeitpunkt des Ablaufs der Gültigkeit der Betriebssicherheitserklärung ein sicherheitsempfindlicher Auftrag hängig ist."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Betriebssicherheitserklärung und Wiederholung des Verfahrens",
+      "section": "18",
+      "title": "Pflichten der Auftraggeberin",
+      "content": "1 Stellt die Auftraggeberin in der Zusammenarbeit mit dem Betrieb eine sicherheitsrelevante Änderung oder einen sicherheitsrelevanten Vorfall fest, so trifft sie die notwendigen Sofortmassnahmen und informiert unverzüglich die Fachstelle BS. 2 Die Auftraggeberin informiert die Fachstelle BS zudem, wenn sie: a. im Rahmen der Erfüllung des sicherheitsempfindlichen Auftrags Anhaltspunkte für einen Widerruf des Zuschlags im Sinne von Artikel 44 BöB hat; b. eine sicherheitsrelevante Änderung des Auftrags vornehmen will; c. beabsichtigt, dem Betrieb einen weiteren Auftrag zu erteilen. SR 172.056.1"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Betriebssicherheitserklärung und Wiederholung des Verfahrens",
+      "section": "19",
+      "title": "Internationale Betriebssicherheitsbescheinigung",
+      "content": "(Art. 66 ISG) 1 Für die Ausstellung einer internationalen Betriebssicherheitsbescheinigung erhebt die Fachstelle BS eine Gebühr von 100 Franken. 2 Eine Gebühr nach Zeitaufwand wird zusätzlich erhoben, wenn für die Ausstellung der internationalen Betriebssicherheitsbescheinigung zuerst ein Betriebssicherheitsverfahren durchgeführt werden muss. Es gilt ein Stundenansatz von 100–400 Franken. Dieser richtet sich namentlich nach der Dringlichkeit des Geschäfts und der Funktionsstufe des ausführenden Personals. Im Übrigen gilt die Allgemeine Gebührenverordnung vom 8. September 2004. 3 Die Fachstelle des Bundes für Informationssicherheit und die Fachstelle BS können der ausländischen Behörde oder internationalen Organisation auf Anfrage eine Kopie der internationalen Betriebssicherheitsbescheinigung übermitteln. SR 172.041.1"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Widerruf der Betriebssicherheitserklärung und Rückzug des Auftrags",
+      "content": "(Art. 67 ISG) 1 Hat die Fachstelle BS Anhaltspunkte, dass ein Grund für den Widerruf der Betriebssicherheitserklärung vorliegt, so setzt sie dem Betrieb nach Rücksprache mit der Auftraggeberin eine Frist zur Behebung der Mängel. 2 Wird der Auftrag infolge des Widerrufs der Betriebssicherheitserklärung zurückgezogen, so sorgt die Auftraggeberin unverzüglich dafür, dass: a. alle sicherheitsempfindlichen Tätigkeiten sofort eingestellt und die entsprechenden Zugriffsrechte entzogen werden; b. sämtliche klassifizierten Informationen, Informatikmittel und Materialien sichergestellt werden. 3 Die Auftraggeberin bestätigt der Fachstelle BS innerhalb von zehn Tagen, nachdem sie über den Widerruf informiert wurde, den Vollzug der Massnahmen nach Absatz 2."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Wiederholung des Verfahrens",
+      "content": "(Art. 68 ISG) 1 Die Fachstelle BS ist für die Einleitung der Wiederholung des Betriebssicherheitsverfahrens zuständig. 2 Ist im Zeitpunkt des Ablaufs der Gültigkeit der Betriebssicherheitserklärung das Wiederholungsverfahren hängig, so verlängert sich die Gültigkeit, bis eine neue Betriebssicherheitserklärung verfügt oder das Betriebssicherheitsverfahren eingestellt wird. 3 Wird eine Betriebssicherheitserklärung nicht erneuert oder wird das Betriebssicherheitsverfahren eingestellt, so ist Artikel 20 sinngemäss anwendbar. Artikel 58 Absatz 3 ISG bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "6. Abschnitt: Bearbeitung von Personendaten",
+      "section": "22",
+      "title": "Informationssystem zum Betriebssicherheitsverfahren",
+      "content": "(Art. 70 ISG) Die im Informationssystem zum Betriebssicherheitsverfahren enthaltenen Personen- und Firmendaten sind im Anhang 1 aufgeführt."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Bearbeitung von Personendaten",
+      "section": "23",
+      "title": "Periodische Kontrolle der Bearbeitung von Personendaten",
+      "content": "(Art. 73 Bst. e ISG) Das VBS sorgt dafür, dass eine von der Fachstelle BS unabhängige Stelle mindestens alle fünf Jahre die rechtmässige Bearbeitung der Personendaten durch die beteiligten Stellen prüft."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "7. Abschnitt: Leistungen der Fachstelle BS zugunsten der Kantone",
+      "section": "24",
+      "title": "",
+      "content": "1 Die Kantone können für sicherheitsempfindliche Aufträge nach kantonalem Recht bei der Fachstelle BS die Durchführung einer Beurteilung der Eignung nach den Artikeln 55–57 ISG beantragen, wenn sie: a. über eine ausreichende gesetzliche Grundlage verfügen; b. zur Gewährleistung der Informationssicherheit ähnliche Beurteilungen wie der Bund vornehmen wollen; und c. mit dem VBS eine Leistungsvereinbarung abgeschlossen haben. 2 Die Leistungsvereinbarung nach Absatz 1 Buchstabe c regelt insbesondere: a. die Anzahl durchzuführender Beurteilungen; b. welche Stellen bei den Kantonen den Antrag zur Durchführung solcher Beurteilungen stellen können; c. die Finanzierung der Leistungen, einschliesslich die Modalitäten. 3 Die Höhe der Gebühren richtet sich nach Artikel 19 Absatz 2."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "25",
+      "title": "Aufhebung und Änderung anderer Erlasse",
+      "content": "Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "26",
+      "title": "Übergangsbestimmungen",
+      "content": "Für Aufträge, die vor Inkrafttreten dieser Verordnung erteilt wurden, sowie für Geheimschutzverfahren, die im Zeitpunkt des Inkrafttretens dieser Verordnung hängig sind, gilt das bisherige Recht."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "27",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2024 in Kraft."
+    }
+  ],
+  "definitions": []
+}

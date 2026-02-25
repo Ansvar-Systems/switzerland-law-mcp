@@ -1,0 +1,162 @@
+{
+  "id": "sr-811-117-3",
+  "type": "statute",
+  "title": "Verordnung vom 5. April 2017 über das Register der universitären Medizinalberufe (Registerverordnung MedBG)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/279/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt den Betrieb, den Inhalt und die Nutzung des Registers über die universitären Medizinalberufe (Medizinalberuferegister). 2 Das Medizinalberuferegister enthält Daten zu den Personen der folgenden universitären Medizinalberufe (Medizinalpersonen): a. Ärztinnen und Ärzte; b. Zahnärztinnen und Zahnärzte; c. Chiropraktorinnen und Chiropraktoren; d. Apothekerinnen und Apotheker; e. Tierärztinnen und Tierärzte."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Verantwortliche Behörde",
+      "content": "1 Das Bundesamt für Gesundheit (BAG) betreibt das Medizinalberuferegister. 2 Es koordiniert seine Tätigkeiten mit den Datenlieferantinnen und -lieferanten des Medizinalberuferegisters sowie mit den Nutzerinnen und Nutzern der Standardschnittstelle. 3 Es erteilt die individuellen Bearbeitungs- und Zugriffsrechte für das Medizinalberuferegister."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Daten, Datenlieferung und -eintragung",
+      "section": "3",
+      "title": "Medizinalberufekommission",
+      "content": "1 Die Medizinalberufekommission (MEBEKO) trägt folgende Daten zu den Medizinalpersonen in das Medizinalberuferegister ein: a. Name, Vornamen, frühere Namen; b. Geburtsdatum und Geschlecht; c. Korrespondenzsprache; d. vorhandene Sprachkenntnisse; e. Nationalitäten; f. Versichertennummer nach Artikel 50 e Absatz 1 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung; g. eidgenössische Diplome mit Ausstellungsdatum und Ort der Diplomerteilung; h. anerkannte ausländische Diplome nach Artikel 15 Absatz 1 MedBG und anerkannte ausländische Weiterbildungstitel nach Artikel 21 Absatz 1 MedBG mit Ausstellungsdatum, Ort und Land der Erteilung sowie Datum der Anerkennung durch die MEBEKO; i. Gleichwertigkeitsbescheinigungen für Diplome und Weiterbildungstitel nach Artikel 36 Absatz 3 MedBG mit Ausstellungsdatum, Ort und Land der Erteilung sowie Datum der Gleichwertigkeitsbescheinigung durch die MEBEKO; j. nachgeprüfte ausländische Diplome und Weiterbildungstitel nach Artikel 35 Absatz 1 MedBG mit Ausstellungsdatum, Ort und Land der Erteilung sowie Datum der Nachprüfung; k. Diplome nach Artikel 33 a Absatz 2 Buchstabe a MedBG mit Ausstellungsdatum, Ort und Land der Diplomerteilung sowie Datum des Register-eintrags; l. Personen-Identifikationsnummer (GLN). 2 Sie trägt zu den Kandidatinnen und Kandidaten der eidgenössischen Prüfung in Humanmedizin 2020 nach Artikel 4 a der Prüfungsverordnung MedBG vom 26. November 2008, die die schriftliche Prüfung bestanden haben, die Daten nach Absatz 1 Buchstaben a–f sowie den Hinweis, dass diese Personen provisorisch in der Datenbank eingetragen sind, ein. Sie löscht die Eintragung spätestens am 31. Oktober 2021, falls die Kandidatin oder der Kandidat bis zu diesem Zeitpunkt das eidgenössische Diplom nicht erworben hat. Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 ). SR 831.10 GLN steht für Global Location Number SR 811.113.3 Eingefügt durch Ziff. I 3 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ( AS 2020 1811 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Daten, Datenlieferung und -eintragung",
+      "section": "4",
+      "title": "BAG",
+      "content": "1 Das BAG trägt in das Medizinalberuferegister ein: a. die Angabe, ob besonders schützenswerte Personendaten nach Artikel 7 Absatz 6 bestehen; b. den Vermerk «gelöscht» nach Artikel 54 Absatz 3 MedBG sowie das Datum des Vermerks; c. das Todesdatum. 2 Es legt die besonders schützenswerten Personendaten nach Artikel 7 Absatz 6 in einem vom restlichen Medizinalberuferegister getrennten sicheren Bereich ab. 3 Es entfernt und löscht Registereinträge nach den Bestimmungen von Artikel 54 MedBG."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Daten, Datenlieferung und -eintragung",
+      "section": "5",
+      "title": "Weiterbildungsorganisationen",
+      "content": "1 Die für die Weiterbildung der universitären Medizinalberufe verantwortlichen Organisationen (Weiterbildungsorganisationen) tragen die eidgenössischen Weiterbildungstitel nach den Anhängen 1–3 a der Verordnung vom 27. Juni 2007 über Diplome, Ausbildung, Weiterbildung und Berufsausübung in den universitären Medizinalberufen mit Datum und Ort der Erteilung des Weiterbildungstitels in das Medizinalberuferegister ein. 2 Die für die Weiterbildung der Ärztinnen und Ärzte verantwortliche Organisation ist zuständig für die Eintragung: a. der privatrechtlichen Weiterbildungsqualifikationen, die für die Abrechnung von Leistungen nach dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung benötigt werden; und b. des Datums der Erteilung dieser Qualifikationen nach Anhang 2. 3 Die Weiterbildungsorganisationen können freiwillig weitere privatrechtliche Weiterbildungsqualifikationen in das Medizinalberuferegister eintragen. SR 811.112.0 SR 832.10"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+      "content": "Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) trägt in das Medizinalberuferegister ein: a. die Fähigkeitszeugnisse «leitende amtliche Tierärztin» oder «leitender amtlicher Tierarzt» sowie «amtliche Tierärztin» oder «amtlicher Tierarzt» nach Artikel 1 Buchstaben b und c der Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen; b. das Fertigkeitszeugnis «fachtechnisch verantwortliche Tierärztin» oder «fachtechnisch verantwortlicher Tierarzt» nach Artikel 20 der Tierarzneimittelverordnung vom 18. August 2004. SR 916.402 SR 812.212.27"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Kantone",
+      "content": "1 Die zuständigen kantonalen Behörden tragen zu den Medizinalpersonen folgende Daten betreffend die Berufsausübung in eigener fachlicher Verantwortung in das Medizinalberuferegister ein: a. den Kanton, der die Berufsausübungsbewilligung erteilt hat (Bewilligungskanton); b. die Rechtsgrundlage, auf der die Berufsausübungsbewilligung erteilt wurde; c. einen der beiden Bewilligungsstatus mit dem Datum des entsprechenden Entscheids: 1. erteilt, 2. keine Bewilligung; d. die Angabe, ob die Medizinalperson ihren Beruf aktiv ausübt oder nicht, mit Datum der Aktivitätsänderung; e. die Adresse der Praxis oder des Betriebs; f. die Angabe, ob es sich bei der Praxis oder dem Betrieb um ein Einzelunternehmen handelt oder nicht; g. die Angabe, ob eine Medizinalperson zur Selbstdispensation von Arzneimitteln nach kantonalem Recht berechtigt ist oder nicht; h. die Angabe, ob eine Medizinalperson zur Selbstdispensation nach Artikel 66 Absatz 2 der Betäubungsmittelkontrollverordnung vom 25. Mai 2011 (BetmKV) berechtigt ist oder nicht; i. allfällige Bemerkungen zur Selbstdispensation nach Buchstabe h; j. den Umfang der Berechtigung über den Verkehr mit Betäubungsmitteln nach Artikel 75 Absatz 1 BetmKV; k. allfällige Bemerkungen zum Verkehr mit Betäubungsmitteln nach Buchstabe j; l. allfällige fachliche, zeitliche oder räumliche Einschränkungen oder Auflagen und deren Beschreibung mit Datum und allfälliger Befristung der Einschränkungen oder Auflagen; m. die Verweigerung der Bewilligung oder deren Entzug mit Datum des Entscheids. 2 Sie können zudem folgende Angaben eintragen: a. das Datum einer Befristung der Berufsausübungsbewilligung; b. die Namen der Praxis oder des Betriebs, Telefonnummern und E-Mail-Adressen; c. die Rechtsform der juristischen Personen sowie deren Unternehmensidentifikations-Nummer (UID); d. die Angabe, ob eine Medizinalperson der Humanmedizin, der Zahnmedizin, der Pharmazie oder der Chiropraktik zur Abrechnung von Leistungen zulasten der obligatorischen Krankenpflegeversicherung berechtigt ist oder nicht; e. Bemerkungen zur Selbstdispensation nach Absatz 1 Buchstabe g. 3 .. 4 Sie tragen zu den 90-Tage-Dienstleistungserbringerinnen und -erbringern nach Artikel 35 Absätze 1 und 2 MedBG folgende Daten ein: a. Meldungen von Dienstleistungserbringerinnen und -erbringern nach Artikel 35 MedBG; b. das Datum der Meldung; c. die Tatsache, dass die Dienstleistungserbringerin oder der -erbringer 90 Tage im entsprechenden Kalenderjahr ausgeschöpft hat; d. die Angaben nach den Absätzen 1 Buchstaben e und g–k sowie 6 Buchstaben c–g. 5 Sie können zu den 90-Tage-Dienstleistungserbringerinnen und -erbringern das Start- und das Enddatum der Dienstleistungen sowie die Daten nach Absatz 2 Buchstaben b, d und e eintragen. 6 Sie melden dem BAG ohne Verzug folgende besonders schützenswerte Personendaten: a. die aufgehobenen Einschränkungen mit Datum der Aufhebung; b. die Gründe für die Verweigerung der Bewilligung oder deren Entzug; c. Verwarnungen mit Grund und Datum des Entscheids; d. Verweise mit Grund und Datum des Entscheids; e. die Erteilung von Bussen mit Grund und Datum des Entscheids sowie die Höhe der Busse; f. befristete Verbote der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids sowie Beginn und Ende des Verbots; g. definitive Verbote der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids; h. die Disziplinarmassnahmen nach Artikel 52 Absatz 1 Buchstabe b MedBG, die sie gestützt auf kantonales Recht gegen die dem vorliegenden Gesetz unterstehenden Medizinalpersonen anordnen, mit Grund und Datum des Entscheids. 7 Sie melden dem BAG ohne Verzug das Todesdatum einer Medizinalperson. Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 ). SR 812.121.1 Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 ). Aufgehoben durch Ziff. I der V vom 13. Dez. 2019, mit Wirkung seit 1. Febr. 2020 ( AS 2020 51 ). Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 ). Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Bundesamt für Statistik",
+      "content": "Das Bundesamt für Statistik (BFS) trägt die UID der Einzelunternehmen in das Medizinalberuferegister ein."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Qualität, Bekanntgabe, Nutzung und Änderung der Daten",
+      "section": "9",
+      "title": "Datenqualität",
+      "content": "1 Die Datenlieferantinnen und -lieferanten stellen sicher, dass die Daten im eigenen Zuständigkeitsbereich vorschriftsgemäss bearbeitet werden. 2 Sie stellen insbesondere sicher, dass nur richtige und vollständige Daten ins Medizinalberuferegister eingetragen oder der zuständigen Stelle gemeldet werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Qualität, Bekanntgabe, Nutzung und Änderung der Daten",
+      "section": "10",
+      "title": "Bekanntgabe der öffentlich zugänglichen Daten",
+      "content": "1 Die öffentlich zugänglichen Daten sind über das Internet oder auf Anfrage hin zugänglich. 2 Die Daten, die nur auf Anfrage hin öffentlich zugänglich sind, sind in Anhang 1 als solche gekennzeichnet."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Qualität, Bekanntgabe, Nutzung und Änderung der Daten",
+      "section": "11",
+      "title": "Zugang über eine Standardschnittstelle",
+      "content": "1 Das BAG ermöglicht den folgenden Nutzerinnen und Nutzern den Zugang zu den öffentlich zugänglichen Daten über eine Standardschnittstelle: a. den Datenlieferantinnen und -lieferanten nach den Artikeln 3–8; b. den öffentlichen und privaten Stellen, die mit der Erfüllung von gesetzlichen Aufgaben betraut sind oder nachweisen können, dass sie eine Aufgabe im öffentlichen Interesse erfüllen, die dem Zweck des Medizinalberuferegisters entspricht. 2 Datenlieferantinnen und -lieferanten haben über die Standardschnittstelle nur Zugang zu Daten, die Medizinalberufe in ihrem Aufgabengebiet betreffen und für die Erfüllung ihrer Aufgaben im Rahmen des MedBG erforderlich sind. 3 Öffentliche und private Stellen erhalten über die Standardschnittstelle nur Zugang zu Daten, die Medizinalberufe in ihrem Aufgabengebiet betreffen und für die Erfüllung ihrer Aufgaben erforderlich sind. Der Zugang wird nur auf schriftlichen Antrag gewährt. 4 Das BAG veröffentlicht im Internet eine Liste der Stellen nach Absatz 1 Buchstabe b, denen der Zugang über die Standardschnittstelle gewährt wurde. Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Qualität, Bekanntgabe, Nutzung und Änderung der Daten",
+      "section": "12",
+      "title": "Verwendung der Daten zu statistischen Zwecken und zu Forschungszwecken",
+      "content": "1 Das BAG stellt den folgenden Stellen die öffentlich zugänglichen Daten aus dem Medizinalberuferegister zur Verfügung: a. dem BFS: für statistische Zwecke; b. den öffentlichen und privaten Stellen in anonymisierter Form: zu Forschungszwecken, soweit ein öffentliches Interesse am Forschungsvorhaben nachgewiesen ist und die Daten für das Forschungsvorhaben erforderlich sind. 2 Es stellt dem BFS die Daten jährlich zur Verfügung, den Stellen nach Absatz 1 Buchstabe b hingegen nur auf schriftlichen Antrag. Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Qualität, Bekanntgabe, Nutzung und Änderung der Daten",
+      "section": "13",
+      "title": "Bekanntgabe besonders schützenswerter Personendaten an die zuständigen Behörden",
+      "content": "1 Der Antrag auf Auskunft über die besonders schützenswerten Personendaten nach Artikel 53 Absatz 1 MedBG muss elektronisch innerhalb des Medizinalberuferegisters gestellt werden. 2 Der Antrag auf Auskunft über die besonders schützenswerten Personendaten nach Artikel 53 Absatz 2 MedBG kann in Papierform oder per E-Mail gestellt werden. 3 Das BAG gibt den zuständigen Behörden die beantragten besonders schützenswerten Personendaten nach Artikel 7 Absatz 6 über eine sichere Verbindung bekannt. Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ( SR 170.512 ) auf den 1. Febr. 2020 angepasst. Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ( SR 170.512 ) auf den 1. Febr. 2020 angepasst."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Bekanntgabe besonders schützenswerter Personendaten an die betroffene Medizinalperson",
+      "content": "1 Jede im Medizinalberuferegister eingetragene Medizinalperson kann beim BAG schriftlich Auskunft über Einträge von besonders schützenswerten Personendaten nach Artikel 7 Absatz 6 zu ihrer Person beantragen. 2 Will sie den Antrag elektronisch stellen, so muss sie beim BAG einen Benutzernamen und ein Passwort beantragen. 3 Das BAG gibt der betroffenen Medizinalperson die beantragten besonders schützenswerten Personendaten nach Artikel 7 Absatz 6 über eine sichere Verbindung bekannt."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Änderung von Daten",
+      "content": "1 Die Datenlieferantinnen und -lieferanten sind verantwortlich für die Änderung der Daten, die sie nach den Artikeln 3–8 in das Medizinalberuferegister eingetragen haben. 2 Die Änderungsanträge von Dritten müssen von den Datenlieferantinnen und ‑lieferanten auf ihre Richtigkeit hin überprüft werden. 3 Sämtliche Änderungen werden protokolliert."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Berichtigungsantrag durch betroffene Medizinalpersonen",
+      "content": "1 Jede im Medizinalberuferegister eingetragene Medizinalperson kann Antrag auf Berichtigung der sie betreffenden Daten stellen. 2 Will sie den Antrag elektronisch stellen, so muss sie beim BAG einen Benutzernamen und ein Passwort beantragen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Kosten und Gebühren",
+      "section": "17",
+      "title": "Kostenaufteilung und technische Anforderungen",
+      "content": "1 Das BAG stellt die Programmierung, den Betrieb sowie die Weiterentwicklung des Medizinalberuferegisters sicher. 2 Es trägt die nicht durch Gebühren gedeckten Kosten. 3 Die Kosten für die Anbindung und die Anpassungen an die technische Schnittstelle, die für den Eintrag der Daten zur Verfügung steht, gehen zulasten der berechtigten Datenlieferantinnen und -lieferanten. 4 Die Kosten für die Anbindung und die Anpassungen an die Standardschnittstelle nach Artikel 11 gehen zulasten der berechtigten Datenlieferantinnen und -lieferanten sowie der Nutzerinnen und Nutzer."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Kosten und Gebühren",
+      "section": "18",
+      "title": "Gebühren",
+      "content": "1 Von den Nutzerinnen und Nutzern der Standardschnittstelle nach Artikel 11 Absatz 1 Buchstabe b werden je nach Aufwand folgende Gebühren erhoben: a. eine einmalige Gebühr von maximal 2000 Franken für den Beratungsaufwand, für die Programmierung der Standardschnittstelle, das Zertifikat sowie die Schulung der Nutzerinnen und Nutzer; b. eine jährliche Gebühr von maximal 5000 Franken für den Support, die Zertifikatserneuerung, die erweiterte Serverkapazität sowie für die Qualitätssicherung der Daten. 2 Von der Gebührenpflicht befreit sind Nutzerinnen und Nutzer der Standardschnittstelle nach Artikel 11 Absatz 1 Buchstabe a. 2bis Für die Bearbeitung des Antrags und die Erstellung von Verfügungen nach Artikel 11 Absatz 3 wird eine Gebühr nach Aufwand erhoben. 2ter Wo sich die Gebühr nach Aufwand bemisst, beträgt der Stundenansatz je nach Funktionsstufe der ausführenden Person 90–200 Franken. 3 Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004. Fassung gemäss Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 ). Eingefügt durch Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 ). Eingefügt durch Ziff. I der V vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 51 ). SR 172.041.1"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Datensicherheit",
+      "section": "19",
+      "title": "",
+      "content": "Alle am Medizinalberuferegister beteiligten Stellen treffen die organisatorischen und technischen Massnahmen, die nach den datenschutzrechtlichen Bestimmungen erforderlich sind, damit ihre Daten vor Verlust und gegen jegliche unbefugte Bearbeitung, Kenntnisnahme oder Entwendung geschützt sind."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "20",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Registerverordnung MedBG vom 15. Oktober 2008 wird aufgehoben. [ AS 2008 4743 , 2014 4657 ]"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "21",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 13. Dez. 2019, mit Wirkung seit 1. Febr. 2020 ( AS 2020 51 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "22",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2018 in Kraft."
+    }
+  ],
+  "definitions": []
+}

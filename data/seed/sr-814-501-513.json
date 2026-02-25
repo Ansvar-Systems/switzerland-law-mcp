@@ -1,0 +1,219 @@
+{
+  "id": "sr-814-501-513",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 26. April 2017 über den Strahlenschutz bei medizinischen Teilchenbeschleunigeranlagen (Beschleunigerverordnung, BeV)",
+  "title_en": "",
+  "short_name": "BeV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/507/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Zweck, Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung bezweckt den Schutz vor ionisierender Strahlung von Patientinnen und Patienten, Anwenderinnen und Anwendern sowie Dritten und der Umwelt bei der Inbetriebnahme und Anwendung von medizinischen Elektronenbeschleunigeranlagen (Beschleuniger) und übrigen medizinischen Teilchenbeschleunigeranlagen, die therapeutischen Zwecken in der Human- und Veterinärmedizin dienen. 2 Sie regelt: a. das Einrichten und Betreiben der Beschleuniger und der dazu gehörigen Megavolt-Bildgebung (MV-Bildgebung), insbesondere den baulichen Strahlenschutz, die Organisation und die Kontrolle durch den Bewilligungsinhaber oder die Bewilligungsinhaberin, die Sorgfaltspflichten und das Qualitätssicherungsprogramm (Art. 2–27); b. das Verfahren zur Festlegung des massgebenden Stands von Wissenschaft und Technik für das Einrichten und Betreiben der übrigen medizinischen Teilchenbeschleunigeranlagen (Art. 28). 3 Für das Inverkehrbringen von Beschleunigern gelten die Vorschriften der Medizinprodukteverordnung vom 17. Oktober 2001 (MepV). 4 Das Einrichten und Betreiben einschliesslich des Qualitätssicherungsprogramms von bildgebenden Systemen im Kilovolt-Bereich, zur Positionskontrolle, Planung und Simulation unter Anwendung von Röntgenstrahlung richtet sich nach der Verordnung vom 26. April 2017 über den Strahlenschutz bei medizinischen Röntgensystemen. SR 812.213 SR 814.542.1"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "Es gelten die Begriffsbestimmungen nach Artikel 2 und den Anhängen 1 und 4 StSV sowie nach Anhang 1 dieser Verordnung."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Spezialanwendungen und technische Neuerungen",
+      "content": "Wo in Einzelfällen wegen Spezialanwendungen oder technischer Neuerungen besondere Gründe vorliegen, kann das Bundesamt für Gesundheit (BAG) Abweichungen von den technischen Bestimmungen dieser Verordnung bewilligen, sofern die Gesuchstellerin oder der Gesuchsteller beziehungsweise die Bewilligungsinhaberin oder der Bewilligungsinhaber nachweist, dass der Strahlenschutz durch geeignete Massnahmen gewährleistet ist."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Baulicher Strahlenschutz",
+      "section": "4",
+      "title": "Standort von Beschleunigern",
+      "content": "1 Beschleuniger müssen in einem Bestrahlungsraum betrieben werden. 2 Die Bedienungseinrichtung muss sich ausserhalb des Bestrahlungsraumes befinden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Baulicher Strahlenschutz",
+      "section": "5",
+      "title": "Bestrahlungsraum",
+      "content": "1 Der Bestrahlungsraum ist als Überwachungsbereich nach Artikel 85 Absatz 1 StSV einzurichten. 2 Er muss nach Artikel 7 abgeschirmt sein. 3 Er muss jederzeit verlassen werden können. Im Bestrahlungsraum ist durch die Bewilligungsinhaberin oder den Bewilligungsinhaber gut sichtbar ein Hinweis anzubringen, wie und wo der Raum im Notfall verlassen werden kann. 4 Eine genügend abgeschirmte Tür zum Bestrahlungsraum (Zugangstür) muss unter Vorbehalt von Absatz 5 vorhanden und mit Vorrichtungen versehen sein, die das Einschalten der Strahlung und den Strahlenbetrieb nur bei geschlossener Tür zulassen. Bei motorisch angetriebenen Zugangstüren müssen deren Bedienungselemente sowohl ausserhalb wie innerhalb des Bestrahlungsraumes angebracht sein. Bei Ausfall des Antriebes muss die Tür geöffnet werden können. 5 Eine Zugangstür ist nicht erforderlich, wenn durch geeignete Auslegung des Eingangsbereichs zum Bestrahlungsraum sichergestellt ist, dass bei normalem Bestrahlungsbetrieb die Richtwerte für die Ortsdosen in einer Woche in zugänglichen Bereichen nirgends überschritten werden können. 6 Durch geeignete Einrichtungen ist sicherzustellen, dass die Patientin oder der Patient während der Bestrahlung von der Bedienungseinrichtung aus dauernd beobachtet werden kann und mit dem Personal in Sprechverbindung steht. 7 Besteht die Möglichkeit, dass durch Kernphotoprozesse radioaktive Stoffe erzeugt werden, so ist die Ventilations- oder Klimaanlage so auszulegen, dass im Bestrahlungsraum ein geringer Unterdruck gegenüber der Luft im Vorraum herrscht. Diese Funktionalität muss periodisch überprüft werden, insbesondere nach baulichen oder technischen Veränderungen im Betrieb."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Baulicher Strahlenschutz",
+      "section": "6",
+      "title": "Beschleuniger",
+      "content": "1 Das Einschalten der Strahlung darf nur an einer Bedienungseinrichtung möglich sein, die ausserhalb des Bestrahlungsraums liegt. 2 Die Bedienungseinrichtung muss mit einer Vorrichtung zur sofortigen Unterbrechung der Bestrahlung und der Bewegungen des Beschleunigers ausgerüstet sowie gegen eine Betätigung durch Unbefugte gesichert sein. 3 Durch geeignete Vorrichtungen muss dafür gesorgt sein, dass beim Betreten des Bestrahlungsraumes die laufende Bestrahlung sofort unterbrochen wird. 4 Sowohl im Bestrahlungsraum zu beiden Seiten der Gantry und im Labyrinth als auch im Bedienungsraum muss mindestens je eine Notabschaltvorrichtung vorhanden sein, mit der die Bestrahlung jederzeit unterbrochen werden kann. 5 Am Eingang zum Bestrahlungsraum und im Innern des Bestrahlungsraums müssen gut sichtbare Leuchtsignale mit geeigneter Aufschrift angebracht sein, die auf den Betriebszustand des Beschleunigers hinweisen. Die Leuchtsignale müssen den aktiven Strahlbetrieb in roter Signalfarbe anzeigen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Baulicher Strahlenschutz",
+      "section": "7",
+      "title": "Abschirmungen",
+      "content": "1 Die baulichen Abgrenzungen des Bestrahlungsraumes müssen unter Berücksichtigung der vorgesehenen Betriebsdaten so dimensioniert sein, dass die Ortsdosen nach Artikel 8 nicht überschritten werden. Die Einwirkung mehrerer Strahlungsquellen am gleichen Ort ist entsprechend zu berücksichtigen. 2 Die Berechnungsgrundlagen für die erforderlichen Abschirmungen richten sich nach Anhang 2."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Richtwerte für die Ortsdosis",
+      "content": "1 In Bereichen angrenzend an den Bestrahlungsraum dürfen folgende Ortsdosen an keiner Stelle überschritten werden: a. an Orten ausserhalb des Überwachungsbereichs: 0,02 mSv in einer Woche; b. an Orten innerhalb des Überwachungsbereiches: 0,1 mSv in einer Woche. 2 An Orten ausserhalb des Überwachungsbereiches, die nicht für den Daueraufenthalt vorgesehen und an denen keine Arbeitsplätze eingerichtet sind, wie Warte- und Umkleideräume, Archive, Lager und Keller, Toiletten, Gänge, Treppen, Liftschächte, Trottoirs, Strassen, Grünflächen und Gärten, darf die Ortsdosis nach Absatz 1 Buchstabe a bis zum Fünffachen höher liegen. 3 An Orten, an denen sich während des Beschleunigerbetriebes keine Personen aufhalten können, unterliegt die Ortsdosis keiner Beschränkung. Diese Orte müssen in den Berechnungsunterlagen bezeichnet werden."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Bautechnische Strahlenschutzunterlagen",
+      "content": "1 Für Räume, in denen Beschleuniger betrieben werden, müssen dem BAG vor der Bauausführung oder der Einrichtung die bautechnischen Strahlenschutzunterlagen zur Bewilligung eingereicht werden. 2 Die Unterlagen müssen durch die Sachverständige oder den Sachverständigen nach Artikel 16 Absatz 1 des Strahlenschutzgesetzes vom 22. März 1991 (Strahlenschutz-Sachverständige) auf ihre Korrektheit geprüft sein. 3 Sie setzen sich aus den nach den Anhängen 2 und 3 erstellten Strahlenschutzbauzeichnungen und Berechnungsunterlagen zusammen. 4 Für Spezialanwendungen sind die Berechnungsgrundlagen nach Anhang 2 anzuwenden, soweit sich diese dafür eignen, oder diese sind im Hinblick auf den gleichen Sachverhalt anzupassen. SR 814.50"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Kontrolle der Bauausführung",
+      "content": "Die oder der Strahlenschutz-Sachverständige kontrolliert, ob die Bauausführung gemäss den bewilligten Strahlenschutzbauzeichnungen korrekt erfolgt ist."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Inbetriebnahme",
+      "section": "11",
+      "title": "Abnahmeprüfung",
+      "content": "1 Die Lieferantin oder der Lieferant muss vor der Übergabe von Beschleunigern an die Bewilligungsinhaberin oder den Bewilligungsinhaber eine Abnahmeprüfung nach den Herstellerangaben und den nach der MepV anwendbaren international harmonisierten Normen durchführen. 2 Anlässlich der Abnahmeprüfung sind in Zusammenarbeit mit der Medizinphysikerin oder dem Medizinphysiker mindestens die sicherheits- und dosisrelevanten Komponenten zu überprüfen. 3 Der Beschleuniger darf von der Lieferantin oder vom Lieferanten erst nach erfolgreicher Durchführung der Abnahmeprüfung, die von der Medizinphysikerin oder vom Medizinphysiker validiert wurde, an die Bewilligungsinhaberin oder den Bewilligungsinhaber übergeben werden. 4 Die Medizinphysikerin oder der Medizinphysiker sorgt dafür, dass die Referenzwerte für die Prüfungen nach Artikel 21 ermittelt werden, und gibt den Beschleuniger nach Ausmessung des Therapiestrahls und dessen Modellierung im Therapieplanungssystem für medizinische Behandlungen frei. SR 812.213"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Inbetriebnahme",
+      "section": "12",
+      "title": "Abgabe der Anlagedokumentation und Schulung",
+      "content": "1 Zu jedem Beschleuniger hat die Lieferantin oder der Lieferant die Produktinformation nach Artikel 7 MepV abzugeben. 2 Die oder der Strahlenschutz-Sachverständige und die Lieferantin oder der Lieferant erstellen zusammen ein Anlagebuch. 3 Die oder der Strahlenschutz-Sachverständige sorgt dafür, dass über die Produktinformation hinaus erforderliche Angaben im Anlagebuch, in der Betriebsanleitung oder in der technischen Beschreibung erfasst werden. 4 Das Anlagebuch, die Betriebsanleitung und die technische Beschreibung sind in der betriebsüblichen Sprache abzugeben und müssen mindestens die Angaben nach Anhang 4 enthalten. 5 Die Lieferantin oder der Lieferant muss anlässlich der Übergabe des Beschleunigers an die Bewilligungsinhaberin oder den Bewilligungsinhaber eine angemessene Schulung für das Bedienungspersonal durchführen. SR 812.213"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Sorgfaltspflichten",
+      "section": "13",
+      "title": "Schutz von Personen",
+      "content": "1 Während der Bestrahlung darf sich ausser der Patientin oder dem Patienten niemand im Bestrahlungsraum aufhalten. Bevor das Bedienungspersonal den Raum verlässt und das Einschalten der Strahlung freigibt, muss es sich darüber vergewissern, dass sich ausser der Patientin oder dem Patienten niemand im Bestrahlungsraum aufhält. 2 Personen, die sich während der Bestrahlungspausen im Bestrahlungsraum aufhalten, dürfen in diesem bei bestimmungsgemässem Therapiebetrieb höchstens eine effektive Dosis von 0,02 mSv respektive für beruflich strahlenexponiertes Personal 0,1 mSv in einer Woche erhalten. Kann dieser Wert trotz apparativer oder bauseitiger Anpassungen nicht eingehalten werden, so hat die Bewilligungsinhaberin oder der Bewilligungsinhaber für angemessene Zutrittsbeschränkungen zu sorgen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Sorgfaltspflichten",
+      "section": "14",
+      "title": "Instruktion des Personals",
+      "content": "1 Neueintretendes Personal ist vor der erstmaligen Aufnahme der Arbeit durch die Strahlenschutz-Sachverständige oder den Strahlenschutz-Sachverständigen bezüglich der einschlägigen Strahlenschutzregeln zu instruieren. 2 Reinigungspersonal darf im Überwachungsbereich nur arbeiten, wenn es durch eine im Strahlenschutz ausgebildete Person instruiert wurde. 3 Die Instruktionen nach den Absätzen 1 und 2 müssen in angemessenen Zeitabständen aktualisiert werden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Sorgfaltspflichten",
+      "section": "15",
+      "title": "Dokumentation der Bestrahlungen",
+      "content": "1 Die behandelnde Ärztin oder der behandelnde Arzt muss für jede Patientin und jeden Patienten vor der Bestrahlung eine medizinische Behandlungsanweisung erstellen. Nachträgliche Änderungen sind zu protokollieren und zu begründen. 2 Unter der Verantwortung der Medizinphysikerin oder des Medizinphysikers muss für jede Patientin und jeden Patienten vor der Bestrahlung eine individuelle Bestrahlungsplanung erstellt werden. 3 Auf der Grundlage der individuellen Bestrahlungsplanung müssen die verantwortlichen Personen nach den Absätzen 1 und 2 in einer patientenspezifischen Bestrahlungsanweisung die zur Durchführung der Bestrahlungen benötigten Angaben festhalten, insbesondere jene zur Einstellung des Beschleunigers und zur Lagerung der Patientin oder des Patienten. Bei Änderungen in der Bestrahlungsplanung muss die Bestrahlungsanweisung aktualisiert werden. 4 In einem Bestrahlungsnachweis hält das Bedienungspersonal der Beschleunigeranlage die einzelnen Bestrahlungen der Patientin oder des Patienten fest. Der Bestrahlungsnachweis muss bei der Anlage zur Verfügung stehen, an der die aktuelle Bestrahlung der Patientin oder des Patienten durchgeführt wird. 5 Die Dokumente nach den Absätzen 1–4 müssen mindestens die Angaben nach Anhang 5 umfassen. 6 Die Dokumente nach den Absätzen 1–4 können mit Methoden der elektronischen Datenverarbeitung erstellt, gespeichert, verarbeitet und verwaltet werden, sofern sichergestellt ist, dass Personen, welche die Bestrahlungen durchführen, jederzeit auf diese Daten zugreifen und sie ausdrucken können und eine unbeabsichtigte Löschung ausgeschlossen ist. 7 Die Dokumente nach den Absätzen 1–4 müssen gemäss den für die Krankengeschichte geltenden Bestimmungen aufbewahrt werden, mindestens jedoch während 20 Jahren seit der letzten Behandlung. Bei Weiterentwicklungen oder beim Wechsel des Radioonkologie-Klinik-Informationssystems muss die Lesbarkeit dieser Dokumente gewährleistet bleiben."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Interne Organisation und Kontrolle",
+      "section": "16",
+      "title": "Betriebsinterne Strahlenschutzweisungen",
+      "content": "1 Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt für das Erstellen von schriftlichen Strahlenschutzweisungen, insbesondere für die bei Störfällen notwendigen ersten Massnahmen und Verhaltensregeln. 2 Die Weisungen sind laufend den aktuellen Gegebenheiten anzupassen. 3 Sie sind allen Personen, die mit Beschleunigern umgehen, auszuhändigen oder leicht zugänglich zu machen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Interne Organisation und Kontrolle",
+      "section": "17",
+      "title": "Anlagedokumentation",
+      "content": "Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass die Anlagedokumentation nach Artikel 12 Absätze 1–4 jederzeit vollständig verfügbar ist."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Interne Organisation und Kontrolle",
+      "section": "18",
+      "title": "Medizinphysikerinnen und Medizinphysiker",
+      "content": "1 Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss zur Gewährleistung der Qualitätssicherung, zur Überwachung des Beschleunigerbetriebs und für die Bestrahlungsplanung mindestens die Kapazitäten einer vollzeitlich angestellten Medizinphysikerin oder eines vollzeitlich angestellten Medizinphysikers pro Beschleuniger im Betrieb einsetzen. 2 Das BAG ordnet eine Erhöhung der Kapazitäten nach Absatz 1 an, wenn die Erfahrung und der Stand von Wissenschaft und Technik sowie die übrigen Grundsätze des Strahlenschutzes dies gebieten. 3 Es kann eine Reduktion der Kapazitäten nach Absatz 1 bewilligen, wenn geeignete Massnahmen den Strahlenschutz gewährleisten und es sich handelt um: a. einen Beschleuniger für veterinärmedizinische Zwecke; oder b. einen zeitlich begrenzten Einzelfall. 4 Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss die Aufgaben und Kompetenzen der Medizinphysikerin oder des Medizinphysikers schriftlich festhalten. Die Stellvertretung muss sichergestellt und schriftlich festgelegt sein."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Interne Organisation und Kontrolle",
+      "section": "19",
+      "title": "Überwachung durch Strahlenschutz-Sachverständige",
+      "content": "Die oder der Strahlenschutz-Sachverständige überwacht und kontrolliert periodisch die Einhaltung der Strahlenschutzvorschriften im Betrieb, insbesondere die Anwendung einer angemessenen Arbeitstechnik."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "6. Abschnitt: Qualitätssicherung",
+      "section": "20",
+      "title": "Qualitätssicherungsprogramm",
+      "content": "1 Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt für die Anwendung eines Qualitätssicherungsprogramms, das sowohl die medizinischen Aspekte der Strahlenbehandlung als auch die anlagespezifischen und medizinphysikalischen Belange umfasst. 2 Für die Berücksichtigung der Erfahrung und des Standes von Wissenschaft und Technik sind massgebend: a. die Empfehlungen der internationalen und nationalen Fachorganisationen, insbesondere der Schweizerischen Gesellschaft für Strahlenbiologie und medizinische Physik (SGSMP); b. die einschlägigen nationalen und internationalen Normen; c. die Wegleitungen des BAG. 3 Die Empfehlungen, Normen und Wegleitungen nach Absatz 2 sind auch massgeblich für: a. das Therapieplanungssystem; b. die MV-Bildgebung; c. Zusatzeinrichtungen für die Bestrahlungsplanung oder Therapiesimulation; d. Informatiksysteme. 4 Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss die Qualitätssicherung anpassen, wenn die Erfahrung und der Stand von Wissenschaft und Technik, insbesondere bezüglich Spezialanwendungen oder technischer Neuerungen, dies gebieten. www.sgsmp.ch"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "6. Abschnitt: Qualitätssicherung",
+      "section": "21",
+      "title": "Durchführung",
+      "content": "1 Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass Beschleuniger mindestens jährlich einer Prüfung unterzogen werden. Dabei müssen die Anlagen durch entsprechend ausgebildetes technisches Fachpersonal auf ihren Zustand und die Funktionstüchtigkeit nach Herstellerspezifikationen und internationalen oder nationalen Normen geprüft werden. Anlässlich dieser Prüfung sind die Referenzwerte zu kontrollieren und gegebenenfalls neu zu ermitteln . 2 Die Bewilligungsinhaberin oder der Bewilligungsinhaber muss die Periodizität der Prüfungen und die Prüfmethoden anpassen, wenn die Erfahrung und der Stand von Wissenschaft und Technik, insbesondere bezüglich Spezialanwendungen oder technischer Neuerungen, dies gebieten. 3 Eine Abnahme- oder Teilabnahmeprüfung ist immer auch nach Reparaturen und Eingriffen erforderlich; dabei sind die betroffenen Komponenten oder Elemente unter der Verantwortung der Medizinphysikerin oder des Medizinphysikers zu prüfen. 4 Die Medizinphysikerin oder der Medizinphysiker trägt die Verantwortung für die korrekte Durchführung dieser Prüfungen ."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "6. Abschnitt: Qualitätssicherung",
+      "section": "22",
+      "title": "Anlagebuch",
+      "content": "1 Die oder der Strahlenschutz-Sachverständige sorgt dafür, dass die Ergebnisse der Qualitätssicherung wie Abnahmeprüfung, Wartung und weitere Prüfungen, die Überprüfung der dosisbestimmenden Elemente, die periodischen Kontrollen, die Funktionsstörungen und deren Behebung sowie Ereignisse protokolliert und im Anlagebuch dokumentiert werden. Der Mindestumfang des Anlagebuches richtet sich nach Anhang 4. 2 Das Anlagebuch darf auf elektronischem Weg geführt werden, wenn die Vollständigkeit gewährleistet bleibt."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Qualitätssicherung",
+      "section": "23",
+      "title": "Referenzmesssysteme",
+      "content": "Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass als lokale Normale für Dosimeter und Monitorsysteme ortsunabhängige Referenz-Dosimetersysteme verwendet werden, die den Anforderungen der Verordnung des EJPD vom 7. Dezember 2012 über Messmittel für ionisierende Strahlung genügen. SR 941.210.5"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Therapieplanungssystem",
+      "content": "1 Die Lieferantin oder der Lieferant des Bestrahlungsplanungssystems hat in der technischen Beschreibung genaue Angaben über die zur Berechnung der Dosisverteilungen verwendeten Algorithmen zu machen. Insbesondere muss aus ihr ersichtlich sein, auf welche Bestrahlungsbedingungen der Anwendungsbereich beschränkt ist. 2 Die Dosisberechnung des Therapieplanungssystems muss stets mittels einer unabhängigen Methode verifiziert werden."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Informatiksysteme",
+      "content": "1 Werden Informatiksysteme für die Bestrahlungsplanung und die Therapiesimulation zusammen mit Beschleunigern und deren Verifikationssystemen in einem integrierten Netzwerk betrieben, so sind besondere Sicherheitsvorkehrungen für den Datentransfer vorzusehen. 2 Die oder der Strahlenschutz-Sachverständige sorgt dafür, dass die Datenintegrität gewährleistet ist und Datenverfälschungen verhindert werden."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "7. Abschnitt: Besondere Bestimmungen",
+      "section": "26",
+      "title": "Vorgehen bei medizinischen Strahlenereignissen und Störfällen",
+      "content": "1 Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass über sämtliche medizinische Strahlenereignisse und Störfälle im Zusammenhang mit dem Beschleunigerbetrieb und mit Bestrahlungen Buch geführt wird. 2 Sie oder er hat darauf zu achten, dass die Meldung von medizinischen Strahlenereignissen nach Artikel 50 Absatz 3 StSV beziehungsweise von Störfällen nach Artikel 127 StSV erfolgt. 3 Ausserdem hat sie oder er die Pflichten nach Artikel 15 MepV zu beachten. SR 812.213"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "7. Abschnitt: Besondere Bestimmungen",
+      "section": "27",
+      "title": "Vorgehen bei Teilersatz oder Abbau eines Beschleunigers",
+      "content": "1 Besteht die Möglichkeit, dass Anlageteile von Beschleunigeranlagen aktiviert wurden, so müssen diese vor dem Ausbau oder vor einem Abbau der Anlage auf Kontamination überprüft werden. 2 Für die Befreiung aktivierter Anlageteile gelten die Artikel 105 und 106 StSV."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "8. Abschnitt: Übrige medizinische Teilchenbeschleunigeranlagen",
+      "section": "28",
+      "title": "",
+      "content": "1 Für die übrigen medizinischen Teilchenbeschleunigeranlagen muss die Gesuchstellerin oder der Gesuchsteller der Bewilligungsbehörde zusätzlich zum Bewilligungsgesuch einen Sicherheitsbericht nach Artikel 124 StSV einreichen. 2 Die Gesuchstellerin oder der Gesuchsteller legt anhand der Angaben im Sicherheitsbericht dar, in welchen Punkten von den Vorschriften dieser Verordnung abgewichen wird und inwiefern die Erfahrung und der Stand von Wissenschaft und Technik berücksichtigt werden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "29",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Beschleunigerverordnung vom 15. Dezember 2004 wird aufgehoben. [ AS 2005 285 ]"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "30",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2018 in Kraft."
+    }
+  ],
+  "definitions": []
+}

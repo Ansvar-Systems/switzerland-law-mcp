@@ -1,0 +1,1401 @@
+{
+  "id": "sr-510-91",
+  "type": "statute",
+  "title": "Bundesgesetz vom 3. Oktober 2008 über militärische und andere Informationssysteme im VBS (MIG)",
+  "title_en": "",
+  "short_name": "MIG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2009/823/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Dieses Gesetz regelt die Bearbeitung von besonders schützenswerten Personendaten sowie von Persönlichkeitsprofilen (Daten) in Informationssystemen und beim Einsatz von Überwachungsmitteln der Armee und der Militärverwaltung durch: a. Behörden des Bundes und der Kantone; b. Kommandanten und Kommandostellen der Armee (militärische Kommandos); c. die übrigen Angehörigen der Armee; d. Dritte, die Aufgaben im Zusammenhang mit dem Militärwesen erfüllen. 2 Es gilt nicht für den Nachrichtendienst. 3 Soweit dieses Gesetz keine besonderen Bestimmungen enthält, ist das Bundesgesetz vom 19. Juni 1992 über den Datenschutz anwendbar. SR 235.1"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Grundsätze der Datenbearbeitung",
+      "content": "1 Soweit es zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendig ist, dürfen die Stellen und Personen nach Artikel 1 Absatz 1: a. Daten bearbeiten und insbesondere durch ein Abrufverfahren zugänglich machen, soweit es dieses Gesetz oder ein anderes Bundesgesetz ausdrücklich vorsieht; b. die AHV-Nummer nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung verwenden; c. Daten in elektronischer Form bekannt geben, sofern ein angemessener Schutz gegen unbefugtes Bearbeiten gewährleistet ist. 2 Die Stellen und Personen, bei denen Daten beschafft werden dürfen, sind zur unentgeltlichen Bekanntgabe verpflichtet. 3 Die Daten dürfen zu denselben Bearbeitungszwecken auch in nicht elektronischer Form bearbeitet werden. 4 Ist die Meldung von Daten freiwillig, so muss die erhebende Stelle oder Person ausdrücklich darauf hinweisen. 5 Bilder, die eindeutig identifizierbare Personen im Militärdienst zeigen, dürfen nur mit deren schriftlicher Einwilligung veröffentlicht werden. Ausdruck gemäss Anhang Ziff. 14 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ( AS 2021 758 ; BBl 2019 7359 ). Diese Änd. wurde im ganzen Erlass vorgenommen. SR 831.10"
+    },
+    {
+      "provision_ref": "art2a",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2a",
+      "title": "a Bearbeitung biometrischer Daten",
+      "content": "1 Die verantwortlichen Organe nach diesem Gesetz können zur Kontrolle des Zugangs zu den folgenden Anlagen, Informationssystemen und Infrastrukturen die biometrischen Daten der zugangsberechtigten Personen bearbeiten: a. schützenswerte Anlagen; b. Informationssysteme, mit welchen besonders schützenswerte Personendaten oder als GEHEIM oder VERTRAULICH klassifizierte Informationen bearbeitet werden; c. mobile und stationäre elektronische Infrastrukturen, mit welchen besonders schützenswerte Personendaten oder als GEHEIM oder VERTRAULICH klassifizierte Informationen bearbeitet werden. 2 Der Bundesrat regelt, für welche Informationssysteme welche biometrischen Daten bearbeitet werden dürfen. 3 Erfasste biometrische Daten werden ein Jahr nach Wegfall der Zugangsberechtigung vernichtet. 4 Die aufgrund der biometrischen Erkennung erfassten Daten werden ein Jahr nach der Erfassung vernichtet. Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Betrieb der Informationssysteme",
+      "content": "Die Informationssysteme werden als eigenständige Applikationen oder auf der Plattform der Büroautomation von der Führungsunterstützungsbasis der Armee betrieben."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Verbund von Informationssystemen",
+      "content": "1 Die Gruppe Verteidigung und die Gruppe armasuisse betreiben einen Verbund der Informationssysteme nach den Kapiteln 2–6. 2 Die Systeme werden so miteinander verbunden, dass die zuständigen Stellen und Personen: a. mit einer einzigen Abfrage prüfen können, ob Personen, deren Daten sie zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben benötigen, in den ihnen zugänglichen Informationssystemen des Verbunds verzeichnet sind; b. Daten, die in mehreren Informationssystemen des Verbunds geführt werden dürfen, von einem System ins andere übertragen können."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Änderungen der Informationssysteme",
+      "content": "Der Bundesrat kann Informationssysteme zusammenführen, ersetzen oder aufheben, sofern damit Umfang und Zweck der Datenbearbeitung, insbesondere die Zugriffsrechte, nicht erweitert werden."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Datenbearbeitung im Rahmen der internationalen Zusammenarbeit",
+      "content": "1 Die zuständigen Behörden und militärischen Kommandos dürfen im Rahmen der Zusammenarbeit mit Behörden und militärischen Kommandos anderer Länder sowie internationalen Organisationen Daten bearbeiten, soweit ein formelles Gesetz oder ein Staatsvertrag, der dem fakultativen Referendum unterstand, dies vorsieht. 2 Behörden und militärische Kommandos anderer Länder sowie internationale Organisationen dürfen die Daten nur dann mittels Abrufverfahren einsehen, wenn ein formelles Gesetz oder ein Staatsvertrag, der dem fakultativen Referendum unterstand, dies vorsieht."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Datenbearbeitung zur internen Kontrolle und im Zusammenhang mit Arbeiten an den Informationssystemen",
+      "content": "1 Soweit es zur Erfüllung ihrer Kontrollaufgaben erforderlich ist, dürfen die armee- und verwaltungsinternen Kontrollstellen sowie die armee- und verwaltungsinternen Stellen oder Personen, denen die Überprüfung der Einhaltung der Datenschutzvorschriften obliegt, Daten bearbeiten. 2 Die mit Wartungs-, Unterhalts- oder Programmieraufgaben betrauten Personen dürfen Daten nur bearbeiten, soweit dies zur Erfüllung der Aufgaben unbedingt erforderlich ist und die Datensicherheit gewährleistet ist. Die Daten dürfen dabei nicht verändert werden."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Aufbewahrung, Löschung, Archivierung und Vernichtung der Daten",
+      "content": "1 Die Daten werden nur so lange aufbewahrt, wie es der Bearbeitungszweck erfordert. 2 Die nicht mehr benötigten Daten werden gelöscht; in einem Informationssystem zwingend miteinander verknüpfte Daten werden als Block gelöscht, sobald die Aufbewahrungsdauer für alle diese Daten abgelaufen ist. 3 Nicht mehr benötigte Daten werden mit den dazugehörigen Unterlagen dem Bundesarchiv zur Archivierung angeboten. Vom Bundesarchiv als nicht archivwürdig beurteilte Daten und Unterlagen werden vernichtet."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Anonymisierung",
+      "content": "1 Daten, die für Zwecke der Statistik, der Forschung, der Einsatzanalyse oder der Qualitätssicherung benötigt werden, sind zu anonymisieren. 2 Für Tests bei der Systementwicklung oder Systemmigration dürfen nur anonymisierte oder fiktive Daten verwendet werden."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Verbot der Datenbearbeitung",
+      "content": "Nicht bearbeitet werden dürfen Daten über: a. die religiösen Ansichten oder Tätigkeiten, ausgenommen die Religionszugehörigkeit; b. die weltanschaulichen, politischen und gewerkschaftlichen Ansichten oder Tätigkeiten; c. die Rassenzugehörigkeit."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Einschränkungen der Datenbearbeitung",
+      "content": "1 Daten über die Intimsphäre dürfen nur in Form von Zahlenwerten bekannt gegeben oder durch ein Abrufverfahren zugänglich gemacht werden. Sie werden längstens fünf Jahre aufbewahrt. 2 Persönlichkeitsprofile werden längstens aufbewahrt: a. bis zur Entlassung aus der Militärdienstpflicht; oder b. während fünf Jahren ab Beendigung der Anstellung bei der Gruppe Verteidigung."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "1. Abschnitt: Personalinformationssystem der Armee und des Zivilschutzes",
+      "section": "12",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt das Personalinformationssystem der Armee und des Zivilschutzes (PISA). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "1. Abschnitt: Personalinformationssystem der Armee und des Zivilschutzes",
+      "section": "13",
+      "title": "Zweck",
+      "content": "Das PISA dient zur Erfüllung folgender Aufgaben: a. Erfassung der Stellungspflichtigen vor der Rekrutierung; b. Rekrutierung der Stellungspflichtigen sowie des für die Friedensförderung vorgesehenen Personals; c. Zulassung von Schweizerinnen, Auslandschweizerinnen und Auslandschweizern zum Militärdienst; d. Zuteilung und Zuweisung zur Armee oder zum Zivilschutz; e. Kontrolle über die Erfüllung der Militärdienst- oder Schutzdienstpflicht; f. Verhinderung von Missbräuchen der Erwerbsersatzordnung in der Armee oder im Zivilschutz; g. Kontrolle über den freiwilligen Einsatz in der Armee oder im Zivilschutz; h. Planung, Bewirtschaftung und Kontrolle der personellen Bestände der Armee und des Zivilschutzes; i. Aufgebot, Verschiebung von Ausbildungsdiensten und Dispensation oder Beurlaubung vom Assistenz- und Aktivdienst in der Armee; j. Aufgebot sowie Verschiebung, Beurlaubung und Dispensation von Schutzdiensten im Zivilschutz; k. Verstorbenen- und Vermisstendienst der Armee und des Zivilschutzes; l. Verhinderung des Missbrauchs der persönlichen Waffe; m. Kaderselektion und Kontrolle des Verfahrens für das Qualifikations- und Mutationswesen sowie von Beförderungen und Ernennungen in der Armee und im Zivilschutz. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "1. Abschnitt: Personalinformationssystem der Armee und des Zivilschutzes",
+      "section": "14",
+      "title": "Daten",
+      "content": "1 Das PISA enthält folgende Daten der Stellungspflichtigen, der Militärdienstpflichtigen, des für die Friedensförderung vorgesehenen Personals sowie von Zivilpersonen, die von der Truppe betreut oder für einen befristeten Einsatz der Armee beigezogen werden: a. Entscheide über die Tauglichkeit für den Militär- und Schutzdienst, das Leistungsprofil und die Zuteilung; b. Daten über das Kaderpotenzial und die Kaderbeurteilung sowie solche des Dienstetats; c. Daten über die Eignung zur Ausübung von bestimmten Funktionen sowie von speziellen Funktionen mit erhöhten Anforderungen, sofern sich die Eignung nicht aus dem Leistungsprofil ergibt; d. Daten über den militärischen Status sowie über die Zulassung zum Zivildienst; e. Daten über Dienstvormerke und Dienstleistungen; f. Kontrolldaten über Nachforschungen bei unbekanntem Aufenthalt; g. Daten über die Durchführung der Personensicherheitsprüfung, einschliesslich des Entscheids; h. Daten über Straftaten sowie strafrechtliche Entscheide und Massnahmen; i. Daten über Beschwerdeverfahren und -entscheide; j. Daten, die von der betreffenden Person freiwillig gemeldet wurden; k. Daten für den Verstorbenen- und Vermisstendienst; l. Daten über die Abgabe und Rücknahme sowie Entscheide über die Abnahme und den Entzug der persönlichen Waffe sowie der Leihwaffe; m. Daten aus Strafverfahren gegen Angehörige der Armee und Stellungspflichtige sowie Meldungen nach Artikel 113 Absätze 7 und 8 des Militärgesetzes vom 3. Februar 1995 (MG), sofern ernstzunehmende Anzeichen oder Hinweise bestehen, dass die betroffene Person sich selbst oder Dritte mit der persönlichen Waffe gefährden könnte. 2 Das PISA enthält folgende Daten der Zivildienstpflichtigen: a. Entscheide über die Zulassung und die Aufhebung der Zulassung zum Zivildienst; b. Daten, die von der betreffenden Person freiwillig gemeldet wurden. 3 Es enthält folgende Daten der Schutzdienstpflichtigen: a. Entscheide über die Tauglichkeit für den Schutzdienst, das Leistungsprofil und die Zuteilung; b. Daten über das Kaderpotenzial und die Kaderbeurteilung sowie solche des Dienstetats; c. Daten über die Eignung zur Ausübung von bestimmten Funktionen sowie von speziellen Funktionen mit erhöhten Anforderungen, sofern sich die Eignung nicht aus dem Leistungsprofil ergibt; d. Daten über die Zuteilung der Grundfunktion, die Einteilung, die Funktion und den Grad; e. Daten über die persönliche Ausrüstung; f. Daten über Dienstvormerke und Dienstleistungen; g. Daten über die Durchführung der Personensicherheitsprüfung, mit Entscheid; h. Daten über Straftaten sowie strafrechtliche Entscheide und Massnahmen; i. Daten über Beschwerdeverfahren und -entscheide; j. Daten, die von der betreffenden Person freiwillig gemeldet wurden; k. Daten für den Verstorbenen- und Vermisstendienst; l. Kontrolldaten über Nachforschungen bei unbekanntem Aufenthalt. Fassung gemäss Ziff. II des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). SR 510.10"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Datenbeschaffung",
+      "content": "1 Die Gruppe Verteidigung, die Kreiskommandanten und die für den Zivilschutz zuständigen Stellen von Bund und Kantonen beschaffen die Daten für das PISA bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. den für die Einwohnerregister nach dem Registerharmonisierungsgesetz vom 23. Juni 2006 zuständigen Behörden; c. den militärischen Kommandos; d. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; e. den zivilen und militärischen Strafbehörden sowie den Verwaltungsrechtspflegebehörden; f. den militärischen und, mit Einwilligung der betreffenden Person, zivilen Vorgesetzten der betreffenden Person; g. den von der betreffenden Person genannten Referenzpersonen. 2 Das PISA kann mit folgenden Informationssystemen von Bund und Kantonen so verbunden werden, dass die zuständigen Stellen und Personen diejenigen Daten, die in beiden Systemen geführt werden dürfen, von einem System ins andere übertragen können: a. Veranstaltungsadministratorsystem (Art. 72 Abs. 1 bis des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002); b. der Kontroll-, Rechnungsführung und Alarmierung im Zivilschutz dienende Informationssysteme der Kantone; sowie c. Informationssysteme der Gemeinden und kantonalen Militärverwaltungen. 3 Es kann zudem mit dem zentralen Register der laufenden Leistungen der Zentralen Ausgleichsstelle (Art. 71 Abs. 4 Bst. b des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung) so verbunden werden, dass die zuständigen Stellen und Personen die Daten, die im Register geführt werden dürfen, vom PISA ins Register übertragen können. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). SR 431.02 SR 520.1 Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). SR 831.10 Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des PISA folgenden Stellen durch Abrufverfahren zugänglich: a. den Militärbehörden; b. den militärischen Kommandos; b bis . den mit der Rekrutierung beauftragten Stellen; c. den für die Erhebung der Ersatzabgabe zuständigen Stellen des Bundes und der Kantone; d. der Militärjustiz; e. dem Bundesamt für Zivildienst (ZIVI); f. den für den Zivilschutz zuständigen Stellen von Bund und Kantonen; g. den für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfbehörden; h. der Zentralen Ausgleichsstelle zur Verhinderung von Missbräuchen der Erwerbsersatzordnung; i. dem Nachrichtendienst des Bundes zur Feststellung der Identität von Personen, die aufgrund von Erkenntnissen über Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015 auch eine Bedrohung für die Sicherheit der Armee darstellen können; j. der Militärversicherung, soweit dies für die Behandlung von Versicherungsfällen notwendig ist. 1bis Die Zentrale Ausgleichsstelle kann die Daten nach Absatz 1 Buchstabe h den jeweils zuständigen AHV-Ausgleichskassen bekanntgeben. 2 Die Gruppe Verteidigung und die für den Zivilschutz zuständigen Stellen von Bund und Kantonen geben aus ihrem Bereich die Daten des PISA folgenden Stellen und Personen bekannt: a. den Strafuntersuchungs- und Strafverfolgungsbehörden: 1. soweit dies für die Untersuchung notwendig ist und die Schwere oder Eigenart der Straftat die Auskunft rechtfertigt, oder 2. sofern während des Militärdienstes oder während des Schutzdienstes eine Straftat begangen wurde, die der zivilen Gerichtsbarkeit unterliegt; b. ... c. dem Bundesamt für Zoll und Grenzsicherheit, soweit dies für den unterstützenden Einsatz von Angehörigen der Armee notwendig ist; d. Dritten, soweit dies zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendig ist. 3 Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Personen bekannt: a. militärischen Vereinigungen und Schiessvereinen: Adressdaten, Grad und Einteilung von Militärdienstpflichtigen zum Zweck der Mitglieder- und Abonnentenwerbung sowie für die ausserdienstlichen Tätigkeiten; b. den Medien: Name, Grad und Einteilung anlässlich von Beförderungen und Ernennungen; c. der für das eidgenössische Strafregister zuständigen Stelle des Bundes: die für die Erfüllung der Meldepflicht nach Artikel 367 Absatz 2 quater des Strafgesetzbuches notwendigen Personalien; d. der für die Kennzeichnung der Uniformen und von persönlichem Material zuständigen Stelle: Name und Vorname sowie für das persönliche Material zusätzlich die AHV-Nummer; e. der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: den Entscheid über Hinderungsgründe betreffend die Abgabe der persönlichen Waffe sowie den Entscheid über deren Abnahme oder deren Entzug. 3bis Die Bekanntgabe der Daten nach Absatz 3 Buchstabe e an die Datenbank nach Artikel 32 a Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997 (WG) erfolgt über das Informationssystem integrierte Ressourcenbewirtschaftung (PSN). 4 Die Angehörigen der Armee können jederzeit schriftlich bei der Gruppe Verteidigung die Datenbekanntgabe nach Absatz 3 Buchstaben a und b sperren lassen. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ( SR 170.512.1 ) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ( AS 2015 187 ; BBl 2013 2105 ). Fassung gemäss Anhang Ziff. II 9 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). SR 121 Ursprünglich: Bst. i. Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. II 1 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ( AS 2015 187 ; BBl 2013 2105 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I 12 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ( AS 2020 2743 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). SR 311.0 Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ( AS 2016 1831 ; BBl 2014 303 ). SR 514.54 Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ( AS 2016 1831 ; BBl 2014 303 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Datenaufbewahrung",
+      "content": "1 Daten des PISA über Straftaten sowie strafrechtliche Entscheide und Massnahmen dürfen nur aufbewahrt werden, wenn gestützt auf diese Daten: a. ein Entscheid über die Nichtrekrutierung, den Ausschluss oder die Degradation nach dem MG erging; b. ein Entscheid über die Eignung zur Beförderung oder Ernennung nach dem MG erging; c. bei der Personensicherheitsprüfung die Sicherheitserklärung nicht erteilt oder mit Vorbehalten versehen wurde; d. ein Entscheid über das Bestehen von Hinderungsgründen für die Überlassung der persönlichen Waffe erging; oder e. ein Entscheid über den Ausschluss aus dem Zivilschutz nach dem Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002 erging. 2 Daten aus der Schiesspflicht ausser Dienst werden von der Eintragung an während fünf Jahren aufbewahrt. 3 Daten über die Entlassung aus dem Schweizer Bürgerrecht und über den Tod werden bis zu dem Jahr geführt, in dem die betreffende Person nach Jahrgang aus der Militärdienst- oder Schutzdienstpflicht entlassen worden wäre. 4 Auf Verlangen der betreffenden Person werden die freiwillig gemeldeten Daten vernichtet. 4bis Daten über die Abnahme und den Entzug der persönlichen Waffe sowie der Leihwaffe und über die damit zusammenhängenden Umstände werden nach der Entlassung aus der Militärdienstpflicht während 20 Jahren aufbewahrt. 5 Die übrigen Daten des PISA werden nach der Entlassung aus der Militärdienst- oder Schutzdienstpflicht während fünf Jahren aufbewahrt. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). SR 520.1 Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. II des BG vom 23. Dez. 2011 ( AS 2012 4551 6775 ; BBl 2011 4555 ). Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ( AS 2016 1831 ; BBl 2014 303 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. Abschnitt: Informationssystem Rekrutierung",
+      "section": "18",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt das Informationssystem Rekrutierung (ITR). Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "2. Abschnitt: Informationssystem Rekrutierung",
+      "section": "19",
+      "title": "Zweck",
+      "content": "Das ITR dient der Durchführung der Rekrutierung der Stellungspflichtigen sowie des für die Friedensförderung vorgesehenen Personals."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Abschnitt: Informationssystem Rekrutierung",
+      "section": "20",
+      "title": "Daten",
+      "content": "1 Das ITR enthält folgende Daten der Stellungspflichtigen und des für die Friedensförderung vorgesehenen Personals: a. Entscheide über die Tauglichkeit für den Militär- und Schutzdienst, das Leistungsprofil und die Zuteilung; b. Daten, die von der betreffenden Person freiwillig gemeldet wurden. 2 Das ITR enthält zudem die bei der Rekrutierung mittels Untersuchungen, Tests und Befragungen als Grundlage für die Entscheide nach Absatz 1 Buchstabe a erhobenen Daten. Diese betreffen: a. den Gesundheitszustand: Anamnese, Elektrokardiogramm, Lungenfunktion, Hör- und Sehvermögen, Intelligenztest, Textverständnistest, Fragebogen zur Erkennung von psychischen Erkrankungen, freiwillige Labor- und Röntgenuntersuchungen; b. die körperliche Leistungsfähigkeit: Kondition mit ihren Komponenten Ausdauer, Kraft, Schnelligkeit sowie koordinative Fähigkeiten; c. die Intelligenz und Persönlichkeit: allgemeine Intelligenz, Problemlösefähigkeit, Konzentrationsfähigkeit und Aufmerksamkeit, Flexibilität, Gewissenhaftigkeit und Selbstbewusstsein sowie Veranlagung zu Handlungen; d. die Psyche: Angstfreiheit, Selbstbewusstsein, Stressresistenz, emotionale Stabilität und Umgänglichkeit; e. die soziale Kompetenz: Verhalten und Sensitivität in der Gesellschaft, der Gemeinschaft und der Gruppe; f. die Eignung zur Ausübung bestimmter Funktionen: funktionsbezogene Eignungsprüfungen, soweit sich die Eignung nicht aus dem Leistungsprofil nach den Buchstaben a–e ergibt; g. das grundsätzliche Kaderpotenzial: Potenzial zur Verwendung als Unteroffizier, höherer Unteroffizier oder Offizier; h. die persönlichen Interessen betreffend Erfüllung der Militärdienstpflicht; i. das Gefahrenpotenzial betreffend Missbrauchs der persönlichen Waffe."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Abschnitt: Informationssystem Rekrutierung",
+      "section": "21",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das ITR bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. der Einwohnerkontrolle; c. den Kreiskommandos der Kantone; d. den mit der Rekrutierung beauftragten Stellen und Personen; e. den von der betreffenden Person genannten Referenzpersonen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Abschnitt: Informationssystem Rekrutierung",
+      "section": "22",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des ITR den mit der Rekrutierung beauftragten Stellen, Ärztinnen und Ärzten durch Abrufverfahren zugänglich. 2 Er gibt die Entscheide über die Tauglichkeit für den Militär- und Schutzdienst folgenden Stellen bekannt: a. den für die Erhebung der Ersatzabgabe zuständigen Stellen des Bundes und der Kantone; b. von Personen, die militärdiensttauglich erklärt wurden: den für die militärische Kontrollführung und Ausbildung zuständigen Militärbehörden und militärischen Kommandos; c. von Personen, die schutzdiensttauglich erklärt wurden: den für die Kontrollführung und Ausbildung zuständigen Zivilschutzbehörden des Wohnortkantons; d. von Personen, die ein Gesuch um Zulassung zum Zivildienst gestellt haben: dem ZIVI. 3 Er gibt das Leistungsprofil und die Zuteilung bekannt: a. von Personen, die militärdiensttauglich erklärt wurden: den für die militärische Kontrollführung und Ausbildung zuständigen Militärbehörden und militärischen Kommandos; b. von Personen, die schutzdiensttauglich erklärt wurden: den für die Kontrollführung und Ausbildung zuständigen Zivilschutzbehörden des Wohnortkantons. 4 Die Resultate der Tests nach Artikel 20 Absatz 2 Buchstaben d und e dürfen nur in Form von Zahlenwerten bekannt gegeben werden. Die Bekanntgabe der übrigen sanitätsdienstlichen Daten richtet sich nach Artikel 28."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des ITR werden nach Abschluss der Rekrutierung während einer Woche aufbewahrt."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "3. Abschnitt: Medizinisches Informationssystem der Armee",
+      "section": "24",
+      "title": "Verantwortliches Organ",
+      "content": "Die für den Sanitätsdienst der Armee zuständige Stelle betreibt das Medizinische Informationssystem der Armee (MEDISA)."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "3. Abschnitt: Medizinisches Informationssystem der Armee",
+      "section": "25",
+      "title": "Zweck",
+      "content": "Das MEDISA dient zur Erfüllung folgender Aufgaben: a. Bearbeitung der Daten zur Beurteilung der Diensttauglichkeit und Dienstfähigkeit der Stellungs-, Militärdienst- und Schutzdienstpflichtigen sowie von Zivilpersonen, die für einen befristeten Einsatz der Armee beigezogen werden; b. medizinische Betreuung von Angehörigen der Armee während eines Militärdienstes sowie von Zivilpersonen, die für einen befristeten Einsatz der Armee beigezogen werden; c. Durchführung von wissenschaftlichen Studien im sanitätsdienstlichen Bereich; d. Bearbeitung der Daten zur Beurteilung der Arbeitsfähigkeit von zivildienstpflichtigen Personen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "3. Abschnitt: Medizinisches Informationssystem der Armee",
+      "section": "26",
+      "title": "Daten",
+      "content": "1 Das MEDISA enthält die sanitätsdienstlichen Daten, die notwendig sind für: a. die medizinische und psychologische Beurteilung der Diensttauglichkeit und Dienstfähigkeit sowie für die medizinische Behandlung der Stellungs- und Militärdienstpflichtigen; b. die medizinische und psychologische Beurteilung der Diensttauglichkeit der Schutzdienstpflichtigen; c. die medizinische und psychologische Beurteilung der Arbeitsfähigkeit von zivildienstpflichtigen Personen. 2 Sanitätsdienstliche Daten sind: a. die Daten des an der Orientierungsveranstaltung abgegebenen ärztlichen Fragebogens; b. Daten über den Gesundheitszustand und die psychischen Eigenschaften; b bis . Daten aus Ergebnissen der Sicherheitsprüfung und über Hinderungsgründe zur Abgabe der persönlichen Waffe nach Artikel 113 MG, die für die Beurteilung der Diensttauglichkeit und Dienstfähigkeit notwendig sind; c. ärztliche Zeugnisse und Gutachten; d. Zeugnisse und Stellungnahmen von nichtärztlichen Fachpersonen; e. andere personenbezogene Daten, die sich auf den körperlichen oder geistigen Gesundheitszustand der zu beurteilenden oder zu behandelnden Personen beziehen. 3 Das MEDISA enthält zudem folgende Daten der Stellungs-, Militärdienst- und Schutzdienstpflichtigen sowie von Zivilpersonen, die von der Truppe betreut werden oder für einen befristeten Einsatz der Armee beigezogen werden: a. Entscheide über die Tauglichkeit für den Militär- und Schutzdienst, das Leistungsprofil und die Zuteilung; b. Daten über Einteilung, Grad, Funktion und Ausbildung in der Armee und im Zivilschutz; c. Daten, die von der betreffenden Person freiwillig gemeldet wurden; d. Korrespondenz mit den zu beurteilenden Personen sowie den involvierten Stellen, Ärzten und Ärztinnen. Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ( AS 2016 1831 ; BBl 2014 303 ). SR 510.10"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "3. Abschnitt: Medizinisches Informationssystem der Armee",
+      "section": "27",
+      "title": "Datenbeschaffung",
+      "content": "Die für den Sanitätsdienst der Armee zuständige Stelle beschafft die Daten für das MEDISA bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; c. den militärischen Kommandos; d. den behandelnden und begutachtenden Ärztinnen und Ärzten; e. den von der betreffenden Person genannten Referenzpersonen."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die für den Sanitätsdienst der Armee zuständige Stelle macht die Daten des MEDISA folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. dem Oberfeldarzt; b. den für die Beurteilung der Diensttauglichkeit und Dienstfähigkeit sowie für die Behandlung zuständigen Ärztinnen und Ärzten und deren Hilfspersonal; c. den für die psychologische Betreuung der Angehörigen der Armee zuständigen Fachkräften des psychologisch-pädagogischen Dienstes (PPD); d. den für die Abklärungen des Fliegerärztlichen Instituts zuständigen Ärztinnen und Ärzten und deren Hilfspersonal; e. der Militärversicherung, soweit dies für die Behandlung von Versicherungsfällen notwendig ist. 2 Sie gibt die sanitätsdienstlichen Daten folgenden Stellen und Personen bekannt: a. den behandelnden und begutachtenden zivilen Ärztinnen und Ärzten, soweit die betreffende Person hierzu schriftlich ihr Einverständnis erklärt hat; b. zivilen und militärischen Gerichten sowie Rechtspflegebehörden im Rahmen von Gerichts- und Verwaltungsverfahren, soweit nach dem Verfahrensrecht eine Auskunftspflicht für Ärztinnen und Ärzte besteht; c. den für die Erhebung der Ersatzabgabe zuständigen Behörden des Bundes und der Kantone, soweit dies für die Befreiung von der Ersatzpflicht nach Artikel 4 Absatz 1 Buchstabe b des Bundesgesetzes vom 12. Juni 1959 über die Wehrpflichtersatzabgabe notwendig ist; d. ... e. den vom Bundesamt für Zivildienst beauftragten Ärztinnen und Ärzten, soweit dies für Untersuchungen und Massnahmen nach Artikel 33 des Zivildienstgesetzes vom 6. Oktober 1995 notwendig ist; f. der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: medizinische Hinderungsgründe betreffend die Abgabe, Rücknahme, Abnahme oder den Entzug der persönlichen Waffe. 2bis Die Bekanntgabe der Daten nach Absatz 2 Buchstabe f an die Datenbank nach Artikel 32 a Absatz 1 Buchstabe d WG erfolgt über das PSN. 3 Die für den Sanitätsdienst der Armee zuständige Stelle gibt die Entscheide über die Tauglichkeit für den Militär- und Schutzdienst folgenden Stellen bekannt: a. den für die Erhebung der Ersatzabgabe zuständigen Stellen des Bundes und der Kantone; b. den für die Kontrollführung und Ausbildung zuständigen Militärbehörden und militärischen Kommandos; c. von Personen, die schutzdiensttauglich erklärt wurden: den für die Kontrollführung und Ausbildung zuständigen Zivilschutzbehörden des Wohnortkantons. 4 Sie gibt dem ZIVI bekannt: a. Entscheide über die Tauglichkeit für den Militär- und Schutzdienst von Personen, die ein Gesuch um Zulassung zum Zivildienst gestellt haben; b. Entscheide betreffend die Arbeitsfähigkeit von zivildienstpflichtigen Personen. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). SR 661 Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). SR 824.0 Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ( AS 2016 1831 ; BBl 2014 303 ). SR 514.54 Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ( AS 2016 1831 ; BBl 2014 303 ). Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ( AS 2016 1831 ; BBl 2014 303 )."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Datenaufbewahrung",
+      "content": "1 Die Daten des MEDISA werden nach der Entlassung aus der Militärdienstpflicht während vierzig Jahren aufbewahrt, längstens aber bis die betreffende Person das 80. Lebensjahr vollendet hat. 2 Daten von Zivilpersonen, die von der Truppe betreut werden oder für einen befristeten Einsatz der Armee beigezogen werden, werden nach Abschluss der Betreuung oder des Einsatzes während vierzig Jahren aufbewahrt, längstens aber bis die betreffende Person das 80. Lebensjahr vollendet hat. 3 Gelten für eine Person die Absätze 1 und 2, so werden die sanitätsdienstlichen Daten bis zum Ablauf beider Fristen aufbewahrt. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "4. Abschnitt: Informationssysteme Patientenerfassung",
+      "section": "30",
+      "title": "Verantwortliche Organe",
+      "content": "Die für den Sanitätsdienst zuständigen Stellen der Waffenplätze und die Militärspitäler betreiben dezentral je ein Informationssystem Patientenerfassung (ISPE)."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "4. Abschnitt: Informationssysteme Patientenerfassung",
+      "section": "31",
+      "title": "Zweck",
+      "content": "Die ISPE dienen der Auswertung der sanitätsdienstlichen Behandlungen in Schulen der Armee und Militärspitälern bezüglich: a. der Patientinnen und Patienten; b. der Art der Behandlung; c. der Dauer und Häufigkeit der Behandlung."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "4. Abschnitt: Informationssysteme Patientenerfassung",
+      "section": "32",
+      "title": "Daten",
+      "content": "Die ISPE enthalten folgende Daten: a. Art der Visite; b. Diagnose; c. Entscheid über den Ort der Behandlung; d. Ein- und Austrittsdaten der Patientinnen und Patienten; e. verfügte Dispensationen; f. durchgeführte Untersuchungen."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "4. Abschnitt: Informationssysteme Patientenerfassung",
+      "section": "33",
+      "title": "Datenbeschaffung",
+      "content": "Die für die ISPE zuständigen Stellen beschaffen sich die Daten bei: a. der betreffenden Person; b. den behandelnden Ärztinnen und Ärzten und deren Hilfspersonal."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "4. Abschnitt: Informationssysteme Patientenerfassung",
+      "section": "34",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Daten der ISPE sind den behandelnden Ärztinnen und Ärzten und deren Hilfspersonal durch Abrufverfahren zugänglich. 2 Sie dürfen dem Militärärztlichen Dienst der Armee, der Militärversicherung und dem Sekretariat Militärische Unfallverhütung für statistische Zwecke und die Qualitätssicherung in anonymisierter Form bekannt gegeben werden."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "4. Abschnitt: Informationssysteme Patientenerfassung",
+      "section": "35",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten der ISPE werden nach Abschluss der Schule beziehungsweise nach Entlassung aus dem Militärspital während zwei Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "5. Abschnitt: Falldokumentationsdatenbank Psychologisch-pädagogischer Dienst",
+      "section": "36",
+      "title": "Verantwortliches Organ",
+      "content": "Der PPD der Armee betreibt eine Falldokumentationsdatenbank (FallDok PPD)."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "5. Abschnitt: Falldokumentationsdatenbank Psychologisch-pädagogischer Dienst",
+      "section": "37",
+      "title": "Zweck",
+      "content": "Die FallDok PPD dient zur Erfüllung folgender Aufgaben: a. Fallführung im Rahmen der psychologischen Betreuung von Angehörigen der Armee während des Militärdienstes; b. Beurteilung der Dienstfähigkeit von Angehörigen der Armee; c. Forschung im militärspezifischen psychologisch-pädagogischen Bereich."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "5. Abschnitt: Falldokumentationsdatenbank Psychologisch-pädagogischer Dienst",
+      "section": "38",
+      "title": "Daten",
+      "content": "1 Die FallDok PPD enthält die folgenden Daten: a. Daten über Einteilung, Grad, Funktion und Ausbildung in der Armee; b. psychologische Daten; c. die sanitätsdienstlichen Daten psychologischer oder psychiatrischer Herkunft, die für die Erfüllung der Aufgaben nach Artikel 37 notwendig sind; d. Korrespondenz mit den betreuten Personen sowie den involvierten Stellen; e. Daten, die von der betreuten Person freiwillig gemeldet wurden. 2 Die psychologischen Daten nach Absatz 1 Buchstabe c umfassen: a. Daten zum psychischen Zustand des oder der Angehörigen der Armee; b. die anamnestisch-biografisch erhobenen Daten zu den psychischen Eigenschaften; c. Resultate psychologischer Tests; d. Zeugnisse von zivilen psychologischen Fachpersonen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "5. Abschnitt: Falldokumentationsdatenbank Psychologisch-pädagogischer Dienst",
+      "section": "39",
+      "title": "Datenbeschaffung",
+      "content": "Der PPD beschafft die erforderlichen Daten für die FallDok PPD bei: a. den betreffenden Angehörigen der Armee; b. den militärischen Vorgesetzten; c. dem Militärärztlichen Dienst; d. Dritten, soweit der oder die Angehörige der Armee dazu die Einwilligung gibt."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "5. Abschnitt: Falldokumentationsdatenbank Psychologisch-pädagogischer Dienst",
+      "section": "40",
+      "title": "Datenbekanntgabe",
+      "content": "1 Der PPD macht die Daten des FallDok PPD folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den für die psychologische Betreuung der Angehörigen der Armee zuständigen Fachkräften des PPD; b. den mit der Rekrutierung beauftragten Stellen, Ärztinnen und Ärzte; c. den für den Militärärztlichen Dienst der Armee zuständigen Stellen. 2 Der PPD gibt das Resultat der Beurteilung der Dienstfähigkeit den für die Kontrollführung und Ausbildung zuständigen Militärbehörden und militärischen Kommandos bekannt."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "5. Abschnitt: Falldokumentationsdatenbank Psychologisch-pädagogischer Dienst",
+      "section": "41",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten der FallDok PPD werden nach Abschluss der Betreuung während fünf Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "6. Abschnitt: Informationssystem Flugmedizin",
+      "section": "42",
+      "title": "Verantwortliches Organ",
+      "content": "Das Fliegerärztliche Institut betreibt das Informationssystem Flugmedizin (MEDIS LW). Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "6. Abschnitt: Informationssystem Flugmedizin",
+      "section": "43",
+      "title": "Zweck",
+      "content": "Das MEDIS LW dient zur Erfüllung folgender Aufgaben: a. Abklärung der Eignung von Kandidatinnen und Kandidaten für die fliegerische Vorschulung sowie von Anwärterinnen und Anwärtern für das fliegende Personal der Armee; b. periodische Überprüfung der medizinischen Flugtauglichkeit von Anwärterinnen und Anwärtern sowie des fliegenden Personals der Armee; c. flugmedizinische und flugpsychologische Betreuung des fliegenden Personals der Armee; d. Abklärung sowie periodische Überprüfung der medizinischen Flugtauglichkeit von zivilen Pilotinnen und Piloten, die Flüge mit Militärflugzeugen durchführen; e. Abklärung der medizinischen Flugtauglichkeit von Militär- und Zivilpersonen für Passagierflüge mit Militärflugzeugen, die über einen Schleudersitz verfügen; f. Abklärung der Eignung von Personen, die sich als militärisches Personal der Luftwaffe oder für Spezialistengruppen bewerben; g. Überprüfung der Gesundheit höherer Stabsoffiziere der Luftwaffe und Angehöriger von Spezialistengruppen; h. Abklärung der Eignung von Angehörigen der Armee für die Generalstabsausbildung; i. Abklärung der Eignung von Zivilpersonen für einen Einsatz in der Armee oder für Tätigkeiten in der zivilen Luftfahrt."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "6. Abschnitt: Informationssystem Flugmedizin",
+      "section": "44",
+      "title": "Daten",
+      "content": "Das MEDIS LW enthält folgende Daten: a. Daten über Einteilung, Grad, Funktion und Ausbildung in der Armee; b. die sanitätsdienstlichen Daten, die für die Aufgaben nach Artikel 43 notwendig sind, insbesondere: 1. den an der Orientierungsveranstaltung abgegebenen ärztlichen Fragebogen, 2. medizinische und psychologische Daten über den Gesundheitszustand, 3. Resultate von medizinisch-technischen Untersuchungen und medizinisch-psychologischen Tests, 4. andere Daten, die sich auf den körperlichen oder psychischen Gesundheitszustand der zu beurteilenden oder zu behandelnden Personen beziehen; c. Daten, die von der betreffenden Person freiwillig gemeldet wurden."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "6. Abschnitt: Informationssystem Flugmedizin",
+      "section": "45",
+      "title": "Datenbeschaffung",
+      "content": "Das Fliegerärztliche Institut beschafft die Daten für das MEDIS LW bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; c. den behandelnden und begutachtenden Ärztinnen und Ärzten; d. den von der betreffenden Person genannten Referenzpersonen."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "6. Abschnitt: Informationssystem Flugmedizin",
+      "section": "46",
+      "title": "Datenbekanntgabe",
+      "content": "1 Das Fliegerärztliche Institut macht die Daten des MEDIS LW folgenden Personen durch Abrufverfahren zugänglich, soweit diese die Daten zur Wahrnehmung ihrer gesetzlichen Aufgaben benötigen: a. dem Oberfeldarzt; b. den für die Beurteilung der Diensttauglichkeit und Dienstfähigkeit zuständigen Ärztinnen und Ärzten; c. den für die Behandlung der betreffenden Person zuständigen Ärztinnen und Ärzten; d. dem Hilfspersonal der Personen nach den Buchstaben a–c. 2 Es gewährt in Anwesenheit eines Arztes, einer Ärztin, eines Psychologen oder einer Psychologin des Fliegerärztlichen Instituts den behandelnden und begutachtenden Ärztinnen und Ärzten und denjenigen der Militärversicherung Einsicht in die Daten des MEDIS LW. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Datenaufbewahrung",
+      "content": "1 Das Fliegerärztliche Institut bewahrt die medizinischen und psychologischen Daten in einem besonderen Archiv auf. 2 Die Daten von Personen im Flugdienst und militärdienstpflichtigen Personen werden nach der Entlassung aus dem Flugdienst oder der Militärdienstpflicht während 40 Jahren aufbewahrt, längstens aber bis die betreffende Person das 80. Lebensjahr vollendet hat. Die Daten der übrigen Personen werden während fünf Jahren aufbewahrt. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "7. Abschnitt: Informationssystem Evaluation Armee-Aufklärungsdetachement",
+      "section": "48",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt das Informationssystem Evaluation Armee-Aufklärungsdetachement (EAAD). Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "7. Abschnitt: Informationssystem Evaluation Armee-Aufklärungsdetachement",
+      "section": "49",
+      "title": "Zweck",
+      "content": "Das EAAD dient: a. der psychologisch-psychiatrischen und medizinischen Evaluation der Anwärterinnen und Anwärter für das Armee-Aufklärungsdetachement; b. der einsatzbezogenen Evaluation der Angehörigen des Armee-Aufklärungsdetachements; c. der einsatzbezogenen Evaluation einzelner, zur Einsatzunterstützung eingesetzter Personen des Kommandos Spezialkräfte. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "7. Abschnitt: Informationssystem Evaluation Armee-Aufklärungsdetachement",
+      "section": "50",
+      "title": "Daten",
+      "content": "Das EAAD enthält die für die Evaluation und die Beurteilung der Einsatzfähigkeit mittels Untersuchungen, Tests und Befragungen erhobenen Daten zur biostatistischen Einschätzung des Ausfallrisikos im Einsatz beziehungsweise des Durchhaltevermögens. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "7. Abschnitt: Informationssystem Evaluation Armee-Aufklärungsdetachement",
+      "section": "51",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das EAAD bei: a. der betreffenden Person; b. Dritten, soweit die betreffende Person dazu ihre Einwilligung gibt."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "7. Abschnitt: Informationssystem Evaluation Armee-Aufklärungsdetachement",
+      "section": "52",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des EAAD den mit der Evaluation beauftragten Psychologinnen und Psychologen sowie der Ärztin oder dem Arzt Sonderoperationen durch Abrufverfahren zugänglich. 2 Der Evaluationsbericht wird nach Abschluss der Evaluation im MEDIS LW bearbeitet. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "7. Abschnitt: Informationssystem Evaluation Armee-Aufklärungsdetachement",
+      "section": "53",
+      "title": "Datenaufbewahrung",
+      "content": "1 Daten von abgewiesenen Anwärterinnen und Anwärtern werden bis zum Eintritt der Rechtskraft des Entscheids aufbewahrt. 2 Daten von Angehörigen des Armee-Aufklärungsdetachements sowie von Personen des Kommandos Spezialkräfte, die zur Einsatzunterstützung eingesetzt werden, werden bis zum Ausscheiden aus dem Detachement beziehungsweise dem Kommando Spezialkräfte aufbewahrt. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "8. Abschnitt: Informationssystem Sozialer Bereich",
+      "section": "54",
+      "title": "Verantwortliches Organ",
+      "content": "Der Sozialdienst der Armee betreibt ein Informationssystem Sozialer Bereich (ISB)."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "8. Abschnitt: Informationssystem Sozialer Bereich",
+      "section": "55",
+      "title": "Zweck",
+      "content": "Das ISB dient der administrativen Unterstützung der sozialen Beratung und Betreuung von Angehörigen der Armee, Militärpatientinnen und Militärpatienten sowie deren Hinterbliebenen."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "8. Abschnitt: Informationssystem Sozialer Bereich",
+      "section": "56",
+      "title": "Daten",
+      "content": "Das ISB enthält Angaben zur geleisteten finanziellen Unterstützung."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "8. Abschnitt: Informationssystem Sozialer Bereich",
+      "section": "57",
+      "title": "Datenbeschaffung",
+      "content": "Der Sozialdienst der Armee beschafft die Daten für das ISB bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. den militärischen Kommandos; c. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; d. den von der betreffenden Person genannten Referenzpersonen."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "8. Abschnitt: Informationssystem Sozialer Bereich",
+      "section": "58",
+      "title": "Datenbekanntgabe",
+      "content": "Der Sozialdienst der Armee macht die Daten des ISB seinen Mitarbeitenden durch Abrufverfahren zugänglich."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "8. Abschnitt: Informationssystem Sozialer Bereich",
+      "section": "59",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des ISB werden nach der letzten sozialen Beratung oder Betreuung während fünf Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "9. Abschnitt: Informationssystem Personal Verteidigung",
+      "section": "60",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Informationssystem Personal Verteidigung (IPV) über ihr ziviles und militärisches Personal."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "9. Abschnitt: Informationssystem Personal Verteidigung",
+      "section": "61",
+      "title": "Zweck",
+      "content": "Das IPV dient zur Erfüllung folgender Aufgaben: a. Personalgewinnung, -planung und -einsatzplanung; b. Kader- und Personalentwicklung; c. Personalkontrolle."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "9. Abschnitt: Informationssystem Personal Verteidigung",
+      "section": "62",
+      "title": "Daten",
+      "content": "Das IPV enthält: a. Daten über das Arbeitsverhältnis, den Arbeitsort, die Personalkategorie und die Funktionsbewertung; b. Daten über Einteilung, Grad, Funktion, Ausbildung, Qualifikation und Ausrüstung in der Armee und im Zivilschutz; c. Daten über den Einsatz in der Armee und im Zivilschutz; d. Daten über den militärischen Status und über die Zulassung zum Zivildienst; e. Daten über die berufliche Laufbahn; f. Daten über die beruflichen Aus- und Weiterbildungen sowie Assessments; g. Daten über die Sprachkenntnisse; g bis . Daten über Interessen hinsichtlich der künftigen beruflichen Tätigkeit, Ausbildung und Weiterbildung; h. Daten über die Dienstleistungsplanung mit den geplanten Einsätzen, Ausbildungen und ferienbedingten Abwesenheiten; i. Daten für die Lohnberechnung; j. Daten, die von der betreffenden Person freiwillig gemeldet wurden. Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den französischen und den italienischen Text ( AS 2016 689 ; BBl 2013 3729 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "9. Abschnitt: Informationssystem Personal Verteidigung",
+      "section": "63",
+      "title": "Datenbeschaffung",
+      "content": "1 Die Gruppe Verteidigung beschafft die Daten für das IPV bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. den militärischen Kommandos; c. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; d. den militärischen und zivilen Vorgesetzten der betreffenden Person; e. den von der betreffenden Person genannten Referenzpersonen. 2 Die Daten nach Artikel 62, die im Personalinformationssystem BV PLUS enthalten sind, werden dem IPV im Abrufverfahren zugänglich gemacht."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "9. Abschnitt: Informationssystem Personal Verteidigung",
+      "section": "64",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des IPV folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den Personalfachstellen der Gruppe Verteidigung; b. den für die Einsatz- und Laufbahnsteuerung des militärischen Personals zuständigen Personen; c. den mit Aufgaben nach Artikel 61 betrauten zivilen Vorgesetzten der betreffenden Person. 2 Sie gibt die Daten des IPV den Stellen und Personen der Gruppe Verteidigung bekannt, die im Rahmen der Aufgaben nach Artikel 61 entscheidungsberechtigt sind."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Datenaufbewahrung",
+      "content": "1 Die Daten des IPV werden nach Beendigung der Anstellung bei der Gruppe Verteidigung längstens während fünf Jahren aufbewahrt. 2 Die Daten von Kandidaten und Kandidatinnen, die nicht angestellt wurden, werden spätestens nach sechs Monaten gelöscht."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "10. Abschnitt: Informationssystem Personalbewirtschaftung Auslandeinsätze",
+      "section": "66",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Informationssystem Personalmanagement Friedensförderung (PERAUS)."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "10. Abschnitt: Informationssystem Personalbewirtschaftung Auslandeinsätze",
+      "section": "67",
+      "title": "Zweck",
+      "content": "Das PERAUS dient der Rekrutierung, dem Einsatz und der Verwaltung von Personal für den Friedensförderungsdienst."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "10. Abschnitt: Informationssystem Personalbewirtschaftung Auslandeinsätze",
+      "section": "68",
+      "title": "Daten",
+      "content": "Das PERAUS enthält folgende Daten: a. Ergebnisse der Rekrutierung für den Friedensförderungsdienst; b. Daten über Einteilung, Grad, Funktion, Ausbildung und Qualifikation in der Armee und im Zivilschutz; c. Daten über den Einsatz in der Armee und im Zivilschutz; d. sanitätsdienstliche Daten: 1. medizinische und psychologische Daten über den Gesundheitszustand, 2. Resultate von medizinisch-technischen Untersuchungen und medizinisch-psychologischen Tests, 3. andere personenbezogene Daten, die sich auf den körperlichen oder geistigen Gesundheitszustand der zu beurteilenden oder zu behandelnden Personen beziehen; e. Passnummer; f. Daten über den beruflichen und militärischen Lebenslauf; g. Angaben zu den Arbeitsverhältnissen, insbesondere Arbeitsvertrag, Stellenbeschreibung oder auf einer Personalbeurteilung beruhende Entscheide; h. von Partnerorganisationen abgegebene Qualifikationen der betreffenden Person; i. Daten über die Durchführung und das Ergebnis der Personensicherheitsprüfung; j. Daten nach den Artikeln 27 und 28 des Bundespersonalgesetzes vom 24. März 200016 (BPG); k. Daten, die von der betreffenden Person freiwillig gemeldet wurden; l. Daten für den Verstorbenen- und Vermisstendienst; m. Religionszugehörigkeit. SR 172.220.1"
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "10. Abschnitt: Informationssystem Personalbewirtschaftung Auslandeinsätze",
+      "section": "69",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das PERAUS bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. den militärischen Kommandos; c. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; d. den behandelnden und begutachtenden Ärztinnen und Ärzten; e. den militärischen und, mit Einwilligung der betreffenden Person, zivilen Vorgesetzten; f. den von der betreffenden Person genannten Referenzpersonen; g. Partnerorganisationen, bei denen die betreffende Person eingesetzt wurde."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "10. Abschnitt: Informationssystem Personalbewirtschaftung Auslandeinsätze",
+      "section": "70",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des PERAUS den für Rekrutierung, Ausbildung und Einsatz von Personal für den Friedensförderungsdienst zuständigen Stellen und Personen der Gruppe Verteidigung durch Abrufverfahren zugänglich. 2 Er gibt die Daten des PERAUS folgenden Stellen und Personen bekannt: a. den Strafuntersuchungs- und Strafverfolgungsbehörden: 1. soweit dies für die Untersuchung notwendig ist und die Schwere oder Eigenart der Straftat die Auskunft rechtfertigt, oder 2. sofern während des Militärdienstes eine Straftat begangen wurde, die der zivilen Gerichtsbarkeit unterliegt; b. der Militärversicherung, soweit dies für die Behandlung von Versicherungsfällen notwendig ist; c. Dritten, soweit dies zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendig ist."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des PERAUS werden nach dem letzten Einsatz oder, wenn kein Einsatz erfolgte, nach der Rekrutierung für den Friedensförderungsdienst längstens während fünf Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "1. Abschnitt: Informations- und Einsatz-System Koordinierter Sanitätsdienst",
+      "section": "72",
+      "title": "Verantwortliches Organ",
+      "content": "Die für den Koordinierten Sanitätsdienst (KSD) zuständige Stelle der Armee betreibt ein Informations- und Einsatz-System Koordinierter Sanitätsdienst (IES-KSD)."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "1. Abschnitt: Informations- und Einsatz-System Koordinierter Sanitätsdienst",
+      "section": "73",
+      "title": "Zweck",
+      "content": "Das IES-KSD dient dem oder der Beauftragten des Bundesrates für den KSD sowie den zivilen und militärischen Stellen, die mit der Planung, Vorbereitung und Durchführung von sanitätsdienstlichen Massnahmen beauftragt sind (KSD-Partnern), bei der Bewältigung von sanitätsdienstlich relevanten Ereignissen für folgende Aufgaben: a. bestmögliche Versorgung der Patientinnen und Patienten in allen Lagen; b. Unterstützung der zivilen und militärischen Einsatzkräfte und Führungsgremien; c. Übersicht über die verfügbaren Ressourcen im Gesundheitswesen; d. Lagebeurteilung; e. Verbesserung der Kommunikation und rechtzeitige Alarmierung; f. Patientenleitsystem und Personenmanagement; g. Zuweisung von Medizinalpersonen; h. Sicherung des Informationsflusses von und zu den KSD-Partnern."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "1. Abschnitt: Informations- und Einsatz-System Koordinierter Sanitätsdienst",
+      "section": "74",
+      "title": "Daten",
+      "content": "1 Das IES-KSD enthält die Daten, die zur Planung, Vorbereitung oder im Einsatz des KSD notwendig sind. 2 Das IES-KSD enthält folgende Daten der am KSD beteiligten Personen: a. Daten über Fähigkeiten, Aufgaben und Verfügbarkeit für den KSD; b. Daten über den Einsatz. 3 Das IES-KSD enthält folgende Daten der Medizinalpersonen: a. Daten über die zivile oder militärische Funktion und Ausbildung; b. Daten über den Einsatz in der Armee und im Zivilschutz; c. Daten über den militärischen Status sowie über die Zulassung zum Zivildienst; d. Daten nach Artikel 51 des Medizinalberufegesetzes vom 23. Juni 2006, die für die Sicherstellung des medizinischen und technischen Betriebs von sanitäts- und veterinärdienstlichen Einrichtungen sowie der Rettungs- und Blutspendedienste des Gesundheitswesens unentbehrlich sind; e. Daten, die von der betreffenden Person freiwillig gemeldet wurden. 4 Das IES-KSD enthält folgende Daten der Patientinnen und Patienten: a. Personenstatus (vermisst, unverletzt, verletzt, tot); b. sanitätsdienstliche Daten; c. Patientendaten der elektronischen Patientenkarte sowie des Patientenleitsystems (PLS); d. Transportprotokoll; e. Signalement; f. Änderungsjournal. SR 811.11"
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "1. Abschnitt: Informations- und Einsatz-System Koordinierter Sanitätsdienst",
+      "section": "75",
+      "title": "Datenbeschaffung",
+      "content": "Der oder die Beauftragte des Bundesrates für den KSD sowie die KSD-Partner beschaffen die Daten für das IES-KSD bei: a. den betreffenden Patientinnen und Patienten und deren Begleitpersonen; b. den behandelnden Organisationen und deren Personal; c. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; d. der Gruppe Verteidigung und den militärischen Kommandos; e. der betreffenden Person oder ihrer gesetzlichen Vertretung; f. dem Register der universitären Medizinalberufe; g. den Vereinigungen und Verbänden des übrigen Medizinalpersonals."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "1. Abschnitt: Informations- und Einsatz-System Koordinierter Sanitätsdienst",
+      "section": "76",
+      "title": "Datenbekanntgabe",
+      "content": "Die Daten des IES-KSD sind folgenden Stellen und Personen im KSD durch Abrufverfahren zugänglich: a. Führungs- und Einsatzkräften auf allen Stufen; b. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; c. Führungsorganen; d. Sanitätsnotrufzentralen; e. Rettungsdiensten; f. Krankenhäusern; g. Notfallaufnahmestationen; h. Polizei; i. Armee; j. Drittorganisationen."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Datenaufbewahrung",
+      "content": "1 Die Daten, die im Rahmen eines sanitätsdienstlich relevanten Ereignisses anfallen, werden im IES-KSD bis zum Abschluss des Ereignisses aufbewahrt. 2 Die übrigen Daten werden aufbewahrt, bis die betreffenden Personen aus dem KSD ausscheiden."
+    },
+    {
+      "provision_ref": "art7883",
+      "chapter": "2. Abschnitt: ...",
+      "section": "7883",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "3. Abschnitt: Informationssystem Administration für Dienstleistungen",
+      "section": "84",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt eine Administration für Dienstleistungen (MIL Office) und stellt es den militärischen Kommandos zur Verfügung. Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "3. Abschnitt: Informationssystem Administration für Dienstleistungen",
+      "section": "85",
+      "title": "Zweck",
+      "content": "Das MIL Office dient der Verwaltung und dem Betrieb in Schulen und Kursen, insbesondere: a. der Aktualisierung und Ergänzung der aus dem PISA erhaltenen Daten; b. der Verwaltung der Diensttage; c. dem Truppenrechnungswesen; d. dem Qualifikations- und Vorschlagswesen; e. dem automatisierten Ausfüllen von Formularen; f. der Führung und Steuerung der Einheit; g. dem Absenzen- und Kommandierungsmanagement; h. der Strafkontrolle im Disziplinarstrafwesen nach Artikel 205 des Militär-strafgesetzes vom 13. Juni 1927. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). SR 321.0"
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "3. Abschnitt: Informationssystem Administration für Dienstleistungen",
+      "section": "86",
+      "title": "Daten",
+      "content": "Das MIL Office enthält folgende Daten: a. Daten über Einteilung, Grad, Funktion und Ausbildung; b. Daten des Qualifikations- und Vorschlagswesens; c. Daten zu Sold- und Spesenabrechnungen; d. sanitätsdienstliche Befunde über Einschränkungen der Dienstfähigkeit; e. Daten, die von der betreffenden Person freiwillig gemeldet wurden; f. Daten über disziplinarstrafrechtliche Verfahren; g. Daten zu Absenzen und Kommandierungen. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Datenbeschaffung",
+      "content": "Die militärischen Kommandos beschaffen die Daten für MIL Office: a. bei der betreffenden Person; b. bei den militärischen Vorgesetzten der betreffenden Person; c. aus dem PISA."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Datenbekanntgabe",
+      "content": "Die militärischen Kommandos geben die Daten des MIL Office folgenden Stellen und Personen bekannt: a. den für die Karriereplanung zuständigen Stellen und Personen; b. den für den Einsatz zuständigen Stellen und Personen; c. den für die militärische Kontrollführung zuständigen Stellen und Personen."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des MIL Office werden während fünf Jahren aufbewahrt; bei Daten über disziplinarstrafrechtliche Verfahren beginnt die Frist mit dem Abschluss des Verfahrens. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "4. Abschnitt: Informationssystem Kompetenzmanagement",
+      "section": "90",
+      "title": "Verantwortliches Organ",
+      "content": "Das Generalsekretariat des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS) betreibt ein Informationssystem Kompetenzmanagement (ISKM) und stellt es den Personalverantwortlichen zur Verfügung. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "4. Abschnitt: Informationssystem Kompetenzmanagement",
+      "section": "91",
+      "title": "Zweck",
+      "content": "Das ISKM dient zur Erfüllung folgender Aufgaben: a. Unterstützung bei der Personalentwicklung, insbesondere der Kaderplanung und ‑entwicklung, im VBS; b. Bewirtschaftung der Schlüsselstellen; c. Suche und Bewirtschaftung von Kandidatinnen und Kandidaten für die Schlüsselstellen. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "4. Abschnitt: Informationssystem Kompetenzmanagement",
+      "section": "92",
+      "title": "Daten",
+      "content": "Das ISKM enthält folgende Daten: a. Geschlecht, Religionszugehörigkeit und Familienstand; b. Daten über die schulische und akademische Ausbildung; c. Daten über gegenwärtige sowie frühere berufliche Funktionen und ausserberufliche Tätigkeiten; d. Daten über Sprachkenntnisse; e. Daten über Einteilung, Grad, Funktion, Ausbildung und Werdegang in der Armee; f. Mitarbeiterprofile mit Angaben zu Selbst-, Sozial-, Führungs-, Methoden- und Fachkompetenzen; g. Daten zur Nachfolgeeignung und -planung. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "4. Abschnitt: Informationssystem Kompetenzmanagement",
+      "section": "93",
+      "title": "Datenbeschaffung",
+      "content": "Das Generalsekretariat und die Personalverantwortlichen des VBS beschaffen die Daten für das ISKM: a. bei der betreffenden Person; b. bei den zivilen und militärischen Vorgesetzten der betreffenden Person. Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Datenbekanntgabe",
+      "content": "Das Generalsekretariat des VBS macht die Daten des ISKM den für die Kaderplanung und -entwicklung sowie das Kompetenzmanagement zuständigen Personen des VBS sowie den betroffenen Linienvorgesetzten, Mitarbeiterinnen und Mitarbeitern durch Abrufverfahren zugänglich. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des ISKM werden bis zur Beendigung des Arbeitsverhältnisses der betreffenden Person aufbewahrt."
+    },
+    {
+      "provision_ref": "art96101",
+      "chapter": "5. Abschnitt: ...",
+      "section": "96101",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "6. Abschnitt: Führungsinformationssystem Heer",
+      "section": "102",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Führungsinformationssystem Heer (FIS HE). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "6. Abschnitt: Führungsinformationssystem Heer",
+      "section": "103",
+      "title": "Zweck",
+      "content": "Das FIS HE dient der Gruppe Verteidigung und seinen militärischen Kommandos zur Erfüllung folgender Aufgaben: a. Aktionsplanung und Aktionsführung der Stäbe und Verbände des Heeres; b. vernetzte Operationsführung; c. Vernetzung von Aufklärungs-, Führungs- und Einsatzmitteln des Heeres."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "6. Abschnitt: Führungsinformationssystem Heer",
+      "section": "104",
+      "title": "Daten",
+      "content": "Das FIS HE enthält die folgenden Daten der Angehörigen der Armee: a. Geschlecht und Religionszugehörigkeit; b. Daten über Einteilung, Grad, Funktion und Ausbildung; c. sanitätsdienstliche Daten, die für den Einsatz relevant sind; d. Daten des IMESS (Art. 114); e. Daten, die von der betreffenden Person freiwillig gemeldet werden."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "6. Abschnitt: Führungsinformationssystem Heer",
+      "section": "105",
+      "title": "Datenbeschaffung",
+      "content": "Die zuständigen Stellen und Personen beschaffen die erforderlichen Daten für das FIS HE bei: a. den betreffenden Angehörigen der Armee; b. den militärischen Vorgesetzten der Angehörigen der Armee; c. den anderen militärischen Informationssystemen."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "6. Abschnitt: Führungsinformationssystem Heer",
+      "section": "106",
+      "title": "Datenbekanntgabe",
+      "content": "Die Gruppe Verteidigung macht die Daten des FIS HE folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den militärischen Vorgesetzten der Angehörigen der Armee; b. den militärischen Kommandos."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "6. Abschnitt: Führungsinformationssystem Heer",
+      "section": "107",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des FIS HE werden während fünf Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "7. Abschnitt: Führungsinformationssystem Luftwaffe",
+      "section": "108",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Führungsinformationssystem Luftwaffe (FIS LW). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "7. Abschnitt: Führungsinformationssystem Luftwaffe",
+      "section": "109",
+      "title": "Zweck",
+      "content": "Das FIS LW dient der Luftwaffe und ihren militärischen Kommandos zur Erfüllung folgender Aufgaben: a. Aktionsplanung und Aktionsführung der Stäbe und Verbände der Luftwaffe; b. vernetzte Operationsführung; c. Vernetzung von Aufklärungs-, Führungs- und Einsatzmitteln der Luftwaffe."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "7. Abschnitt: Führungsinformationssystem Luftwaffe",
+      "section": "110",
+      "title": "Daten",
+      "content": "Das FIS LW enthält die folgenden Daten der Angehörigen der Armee: a. Geschlecht und Religionszugehörigkeit; b. Daten über Einteilung, Grad, Funktion und Ausbildung; c. sanitätsdienstliche Daten, die für den Einsatz relevant sind; d. Passnummer; e. Daten, die von der betreffenden Person freiwillig gemeldet werden."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "7. Abschnitt: Führungsinformationssystem Luftwaffe",
+      "section": "111",
+      "title": "Datenbeschaffung",
+      "content": "Die zuständigen Stellen und Personen beschaffen die erforderlichen Daten für das FIS LW bei den betreffenden Angehörigen der Armee."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "7. Abschnitt: Führungsinformationssystem Luftwaffe",
+      "section": "112",
+      "title": "Datenbekanntgabe",
+      "content": "Die Gruppe Verteidigung macht die Daten des FIS LW den für die Führung der Luftwaffe zuständigen Stellen und Personen durch Abrufverfahren zugänglich. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "7. Abschnitt: Führungsinformationssystem Luftwaffe",
+      "section": "113",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des FIS LW werden während fünf Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "8. Abschnitt: Führungsinformationssystem Soldat",
+      "section": "114",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Führungsinformationssystem Soldat (IMESS)."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "8. Abschnitt: Führungsinformationssystem Soldat",
+      "section": "115",
+      "title": "Zweck",
+      "content": "Das IMESS dient den militärischen Kommandos zur Steigerung der Leistungsfähigkeit der eingesetzten Angehörigen der Armee in den Bereichen: a. Führungsfähigkeit; b. Durchsetzungsfähigkeit; c. Beweglichkeit; d. Überlebensfähigkeit; e. Durchhaltefähigkeit."
+    },
+    {
+      "provision_ref": "art116",
+      "chapter": "8. Abschnitt: Führungsinformationssystem Soldat",
+      "section": "116",
+      "title": "Daten",
+      "content": "Das IMESS enthält die folgenden Daten der Angehörigen der Armee: a. Daten über den physischen Zustand; b. Leistungsprofile; c. taktische Einsatzdaten."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "8. Abschnitt: Führungsinformationssystem Soldat",
+      "section": "117",
+      "title": "Datenbeschaffung",
+      "content": "Die zuständigen Stellen und Personen beschaffen die erforderlichen Daten für das IMESS: a. bei den betreffenden Angehörigen der Armee: mittels Sensoren; b. aus dem PISA und dem FIS Heer: mittels Datenabfrage."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "8. Abschnitt: Führungsinformationssystem Soldat",
+      "section": "118",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des IMESS folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den militärischen Vorgesetzten der Angehörigen der Armee; b. den militärischen Kommandos. 2 Die Daten werden zudem in das FIS Heer übermittelt."
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "8. Abschnitt: Führungsinformationssystem Soldat",
+      "section": "119",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des IMESS werden nach Beendigung des Einsatzes gelöscht."
+    },
+    {
+      "provision_ref": "art120",
+      "chapter": "1. Abschnitt: Informationssysteme von Simulatoren",
+      "section": "120",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt Informationssysteme von Simulatoren und stellt diese den militärischen Kommandos zur Verfügung."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "1. Abschnitt: Informationssysteme von Simulatoren",
+      "section": "121",
+      "title": "Zweck",
+      "content": "Die Informationssysteme von Simulatoren dienen zur Unterstützung der Ausbildung und Qualifikation von Angehörigen der Armee sowie von Zivilpersonen, die für einen befristeten Einsatz der Armee beigezogen werden."
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "1. Abschnitt: Informationssysteme von Simulatoren",
+      "section": "122",
+      "title": "Daten",
+      "content": "Die Informationssysteme von Simulatoren enthalten Daten über: a. Einteilung, Grad, Funktion, Ausbildung, Qualifikation und Ausrüstung in der Armee; b. die an den Simulatoren absolvierten Ausbildungen."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "1. Abschnitt: Informationssysteme von Simulatoren",
+      "section": "123",
+      "title": "Datenbeschaffung",
+      "content": "Die zuständigen Stellen und Personen beschaffen die Daten für die Informationssysteme der Simulatoren bei: a. der betreffenden Person; b. den militärischen Kommandos; c. den militärischen Vorgesetzten der betreffenden Person."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "1. Abschnitt: Informationssysteme von Simulatoren",
+      "section": "124",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die zuständigen Stellen und Personen machen die Daten der Informationssysteme von Simulatoren folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den für den Betrieb der Simulatoren zuständigen Stellen und Personen; b. den für die Ausbildung und die Qualifikation zuständigen Stellen und Personen. 2 Sie geben die Daten der Informationssysteme von Simulatoren bekannt: a. der Truppe in Form von Ranglisten, soweit die Daten für eine Rangierung wesentlich sind; b. den für die Beschaffung und Abgabe von Auszeichnungen zuständigen Stellen und Personen."
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "1. Abschnitt: Informationssysteme von Simulatoren",
+      "section": "125",
+      "title": "Datenaufbewahrung",
+      "content": "1 Die Daten der Informationssysteme von Simulatoren werden bis zum Abschluss des Ausbildungsdienstes aufbewahrt. 2 Trainieren Angehörige der Armee regelmässig auf denselben Simulatoren, so können die Daten der Trainings nach deren Abschluss jeweils bis fünf Jahre aufbewahrt werden."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "2. Abschnitt: Informationssystem Ausbildungsmanagement",
+      "section": "126",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Informationssystem Ausbildungsmanagement (Learning Management System VBS; LMS VBS) und stellt es der Armee und den Verwaltungseinheiten des VBS zur Verfügung. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "2. Abschnitt: Informationssystem Ausbildungsmanagement",
+      "section": "127",
+      "title": "Zweck",
+      "content": "Das LMS VBS dient zur Erfüllung folgender Aufgaben in der Aus- und Weiterbildung: a. Erfassung der Ausbildungsvorgaben; b. Planung und Durchführung der Ausbildung; c. Steuerung der Ausbildungsprozesse; d. Ausbildungskontrolle; e. Analyse der Ausbildungsresultate; f. Wissenstransfer; g. Kompetenzmanagement. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art128",
+      "chapter": "2. Abschnitt: Informationssystem Ausbildungsmanagement",
+      "section": "128",
+      "title": "Daten",
+      "content": "Das LMS VBS enthält folgende Daten: a. Daten über Einteilung, Grad, Funktion und Dienstleistungen in der Armee; b. Personalien und Funktionen von Angestellten des VBS; c. Ausbildungsresultate; d. ein Leistungsverzeichnis; e. Daten über Fähigkeiten von Angestellten des VBS sowie von Angehörigen der Armee. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "Datenbeschaffung",
+      "content": "Die Armee und die Verwaltungseinheiten des VBS beschaffen die Daten für das LMS VBS bei: a. der betreffenden Person; b. den zuständigen Verwaltungseinheiten des VBS; c. den militärischen Kommandos; d. den militärischen und zivilen Vorgesetzten der betreffenden Person. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Armee und die Verwaltungseinheiten des VBS machen die Daten des LMS VBS folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den mit Ausbildungsaufgaben betrauten Vorgesetzten der betreffenden Person; b. den für die Ausbildungskontrolle zuständigen Stellen; c. der betreffenden Person. 2 Sie geben die Daten bekannt: a. der Truppe in Form von Ranglisten, soweit die Daten für eine Rangierung wesentlich sind; b. den für die Beschaffung und Abgabe von Auszeichnungen zuständigen Stellen und Personen. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des LMS VBS werden aufbewahrt bis zur: a. Entlassung der Angehörigen der Armee aus der Militärdienstpflicht; b. Beendigung des Arbeitsverhältnisses der Angestellten des VBS. Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "3. Abschnitt: Informationssystem Schulungsnachweis Gute Herstellungspraxis",
+      "section": "132",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Informationssystem Schulungsnachweis Gute Herstellungspraxis (ISGMP) und stellt es der Armeeapotheke zur Verfügung. Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4307 ; BBl 2014 6955 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "3. Abschnitt: Informationssystem Schulungsnachweis Gute Herstellungspraxis",
+      "section": "133",
+      "title": "Zweck",
+      "content": "Das ISGMP dient der Planung, Durchführung und Dokumentation der Aus- und Weiterbildung der Mitarbeiterinnen und Mitarbeiter der Armeeapotheke."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "3. Abschnitt: Informationssystem Schulungsnachweis Gute Herstellungspraxis",
+      "section": "134",
+      "title": "Daten",
+      "content": "Das ISGMP enthält folgende Daten: a. AHV-Nummer; b. Daten über Beruf, Funktion und Einsatzbereich; c. Daten über die Absolvierung der Aus- und Weiterbildung."
+    },
+    {
+      "provision_ref": "art135",
+      "chapter": "3. Abschnitt: Informationssystem Schulungsnachweis Gute Herstellungspraxis",
+      "section": "135",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das ISGMP: a. bei der betreffenden Person; b. bei den zuständigen Verwaltungseinheiten der Gruppe Verteidigung; c. aus dem PISA."
+    },
+    {
+      "provision_ref": "art136",
+      "chapter": "3. Abschnitt: Informationssystem Schulungsnachweis Gute Herstellungspraxis",
+      "section": "136",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des ISGMP den für die Aufgaben nach Artikel 133 zuständigen Stellen und Personen durch Abrufverfahren zugänglich. 2 Die im ISGMP erfassten Personen erhalten einen Ausdruck ihrer Daten als persönlichen Ausbildungsnachweis."
+    },
+    {
+      "provision_ref": "art137",
+      "chapter": "3. Abschnitt: Informationssystem Schulungsnachweis Gute Herstellungspraxis",
+      "section": "137",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des ISGMP werden nach der Beendigung des Mitarbeiterverhältnisses während zehn Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art138",
+      "chapter": "4. Abschnitt: Informationssystem Militärische Fahrberechtigungen",
+      "section": "138",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt das Informationssystem Militärische Fahrberechtigungen (MIFA)."
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "4. Abschnitt: Informationssystem Militärische Fahrberechtigungen",
+      "section": "139",
+      "title": "Zweck",
+      "content": "Das MIFA dient: a. der Erstellung und Verwaltung militärischer Fahrberechtigungen; b. der Integration der militärischen Fahrberechtigungen in den zivilen Führerausweis; c. der Durchführung von Administrativmassnahmen im Strassenverkehr; d. dem Aufgebot zu vertrauensärztlichen Kontrolluntersuchungen; e. der Kontrolle der Ausbildung der angehenden Fahrer sowie der Armeefahrlehrerinnen und -lehrer und der militärischen Verkehrsexpertinnen und ‑experten; f. der Bewirtschaftung der Bescheinigungen nach dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse; g. der Erstellung von Auswertungen und Statistiken. SR 0.741.621"
+    },
+    {
+      "provision_ref": "art140",
+      "chapter": "4. Abschnitt: Informationssystem Militärische Fahrberechtigungen",
+      "section": "140",
+      "title": "Daten",
+      "content": "Das MIFA enthält folgende Daten von angehenden Fahrern, von Fahrberechtigten sowie der Armeefahrlehrerinnen und -lehrer und der militärischen Verkehrsexpertinnen und -experten: a. AHV-Nummer; b. Daten über die Ausbildung und die militärischen Fahrberechtigungen; c. Daten über Administrativmassnahmen und die Ergebnisse der Kontrolluntersuchungen."
+    },
+    {
+      "provision_ref": "art141",
+      "chapter": "4. Abschnitt: Informationssystem Militärische Fahrberechtigungen",
+      "section": "141",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das MIFA: a. aus dem PISA; b. aus dem Fahrberechtigungsregister (FABER) und dem Administrativmassnahmenregister (ADMAS) des Bundesamts für Strassen; c. bei den Personen und Stellen, die mit den Aufgaben nach Artikel 139 betraut sind."
+    },
+    {
+      "provision_ref": "art142",
+      "chapter": "4. Abschnitt: Informationssystem Militärische Fahrberechtigungen",
+      "section": "142",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung gibt die Daten des MIFA bekannt: a. den Personen und Stellen, die mit den Aufgaben nach Artikel 139 betraut sind; b. an das PISA, FABER und ADMAS. 2 Die Daten können elektronisch übermittelt oder abgerufen werden."
+    },
+    {
+      "provision_ref": "art143",
+      "chapter": "4. Abschnitt: Informationssystem Militärische Fahrberechtigungen",
+      "section": "143",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des MIFA werden bis zur Entlassung der betreffenden Person aus der Militärdienstpflicht aufbewahrt."
+    },
+    {
+      "provision_ref": "art143a",
+      "chapter": "5. Abschnitt:",
+      "section": "143a",
+      "title": "a Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Informationssystem Fliegerische Aus- und Weiterbildung (SPHAIR-Expert)."
+    },
+    {
+      "provision_ref": "art143b",
+      "chapter": "5. Abschnitt:",
+      "section": "143b",
+      "title": "b Zweck",
+      "content": "Das SPHAIR-Expert dient der Gruppe Verteidigung zur Erfüllung folgender Aufgaben: a. Erfassung von Personen, die sich für eine Ausbildung zur Militärpilotin oder zum Militärpiloten, zur Berufspilotin oder zum Berufspiloten, zur Fluglehrerin oder zum Fluglehrer oder zur Fallschirmaufklärerin oder zum Fallschirmaufklärer interessieren; b. Erfassung von Flug- und Sprungschulen sowie Kaderpersonen zur Durchführung von Kursen zur fliegerischen Aus- und Weiterbildung; c. Planung und Durchführung von Vorkursen und Kursen zur Evaluation von Anwärterinnen und Anwärtern für eine Ausbildung nach Buchstabe a; d. Erfassung und Analyse der Testresultate; e. Qualifikation und Selektion von Kandidatinnen und Kandidaten."
+    },
+    {
+      "provision_ref": "art143c",
+      "chapter": "5. Abschnitt:",
+      "section": "143c",
+      "title": "c Daten",
+      "content": "Das SPHAIR-Expert enthält folgende Daten: a. Personalien und Adresse; b. Zivilstand; c. AHV-Nummer; d. Geburtsdatum und -ort; e. Lebenslauf und Angaben über die Flug- und Sprungerfahrung; f. Sprachkenntnisse; g. Einteilung, Grad, Funktion und Ausbildung in der Armee; h. Testresultate mit kommentierten Auswertungsergebnissen; i. Selektionsstatus und -entscheide; j. Befunde aus der sanitätsdienstlichen Befragung von Pilotinnen und Piloten sowie Fallschirmaufklärerinnen und Fallschirmaufklärern; k. Angaben über die Kleidergrösse."
+    },
+    {
+      "provision_ref": "art143d",
+      "chapter": "5. Abschnitt:",
+      "section": "143d",
+      "title": "d Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung oder durch diese beauftragte Dritte beschaffen die Daten für SPHAIR-Expert bei: a. der betreffenden Person; b. den für die Selektionsentscheide zuständigen militärischen Kommandos; c. den mit der Durchführung der Tests beauftragten Flug- und Sprungschulen; d. dem Fliegerärztlichen Institut."
+    },
+    {
+      "provision_ref": "art143e",
+      "chapter": "5. Abschnitt:",
+      "section": "143e",
+      "title": "e Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten von SPHAIR-Expert folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den für die Durchführung der Tests zuständigen militärischen Stellen der Gruppe Verteidigung; b. den für die Selektionsentscheide zuständigen Stellen sowie dem Fliegerärztlichen Institut; c. den betreffenden Personen für die Erfassung ihrer Daten und das Abrufen der Testresultate und Schlussergebnisse; d. den mit der Administration beauftragten Stellen. 2 Sie gibt den von der Gruppe Verteidigung mit der Durchführung der Tests beauftragten zivilen Flug- und Sprungschulen Personalien, Adresse, Geburtsdatum, Telefonnummer sowie E-Mail-Adresse bekannt. 3 Sie gibt den Luftfahrtgesellschaften und zivilen Flugschulen die im SPHAIR-Expert abgespeicherte Schlussempfehlung und die E-Mail-Adresse bekannt, sofern die betreffende Person dazu ihr Einverständnis gegeben hat."
+    },
+    {
+      "provision_ref": "art143f",
+      "section": "143f",
+      "title": "f Datenaufbewahrung",
+      "content": "Die Daten des SPHAIR-Expert werden nach Abschluss des letzten Kurses zur fliegerischen Aus- und Weiterbildung der betroffenen Person längstens während zehn Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art144",
+      "chapter": "1. Abschnitt: Informationssystem Personensicherheitsprüfung",
+      "section": "144",
+      "title": "Verantwortliches Organ",
+      "content": "Die Fachstelle für Personensicherheitsprüfungen im VBS (Fachstelle PSP VBS) betreibt ein Informationssystem Personensicherheitsprüfung (SIBAD). Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 )."
+    },
+    {
+      "provision_ref": "art145",
+      "chapter": "1. Abschnitt: Informationssystem Personensicherheitsprüfung",
+      "section": "145",
+      "title": "Zweck",
+      "content": "Das SIBAD dient der Durchführung der Personensicherheitsprüfung."
+    },
+    {
+      "provision_ref": "art146",
+      "chapter": "1. Abschnitt: Informationssystem Personensicherheitsprüfung",
+      "section": "146",
+      "title": "Daten",
+      "content": "Das SIBAD enthält folgende Daten: a. die für die Personensicherheitsprüfung erhobenen Daten; b. die Risikoanalyse; c. den Entscheid über die Personensicherheitsprüfung."
+    },
+    {
+      "provision_ref": "art147",
+      "chapter": "1. Abschnitt: Informationssystem Personensicherheitsprüfung",
+      "section": "147",
+      "title": "Datenbeschaffung",
+      "content": "1 Die für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfbehörden beschaffen die Daten für das SIBAD bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. den militärischen Kommandos; c. den zuständigen Verwaltungseinheiten des Bundes, der Kantone und Gemeinden; d. den zivilen und militärischen Strafbehörden sowie den Verwaltungsrechtspflegebehörden; e. den ausländischen Sicherheitsbehörden; f. den militärischen und, mit Einwilligung der betreffenden Person, zivilen Vorgesetzten; g. den von der betreffenden Person genannten Referenzpersonen. 2 Sie haben durch Abrufverfahren Zugang zu folgenden Registern und Datenbanken im Umfang der entsprechenden Rechtsgrundlagen: a. nationaler Polizeiindex; b. Strafregister; c. Staatsschutz-Informations-System, unter Vorbehalt von Artikel 20 Absatz 2 des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit. 3 Sie können Daten von den Sicherheitsorganen des Bundes oder den entsprechenden kantonalen Behörden anfordern. Diese können die Prüfbehörden ermächtigen, über ein Abrufverfahren direkt auf ihre Register und Datenbanken zuzugreifen. Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). SR 120 Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 )."
+    },
+    {
+      "provision_ref": "art148",
+      "section": "148",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die Fachstelle PSP VBS macht die Daten des SIBAD folgenden Stellen durch Abrufverfahren zugänglich: a. den für die Durchführung von Personensicherheitsprüfungen zuständigen Prüfbehörden; b. der für die Industriesicherheit des VBS zuständigen Stelle; c. den mit der Einleitung der Personensicherheitsprüfungen beauftragten Stellen: 1. des Bundes und der Kantone, 2. der Betreiber von Kernkraftwerken, 3. Dritter; d. den mit Sicherheitsaufgaben beauftragten Stellen des Bundes. 2 Die Prüfbehörden geben das Resultat der Personensicherheitsprüfung folgenden Stellen und Personen bekannt: a. der betreffenden Person; b. der Stelle, welche die Personensicherheitsprüfung veranlasst hat; c. dem Arbeitgeber der betreffenden Person; d. in Beschwerdefällen: zur Beschwerde berechtigten Dritten. 3 Die Fachstelle PSP VBS kann Bundesstellen folgende Daten der Personensicherheitsprüfung zur Weiterverwendung in Sicherheitssystemen elektronisch bekannt geben, wenn diese Stellen für ihre Tätigkeit auf den Daten der Personensicherheitsprüfung basieren müssen und die Daten für die betreffende Person nicht nachteilig sind: a. Personalien; b. Prüfstufe; c. Ergebnis der Personensicherheitsprüfung mit Datum. Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 )."
+    },
+    {
+      "provision_ref": "art149",
+      "section": "149",
+      "title": "Datenaufbewahrung",
+      "content": "1 Die Prüfbehörden vernichten umgehend Daten: a. die auf Vermutungen oder blossen Verdächtigungen beruhen; b. die dem Zweck der Bearbeitung nicht entsprechen; c. deren Bearbeitung aus anderen Gründen unzulässig ist; oder d. die unrichtig sind. 2 Sie bewahren die Daten so lange auf, wie die betreffende Person die Stelle innehat, die Funktion ausübt oder den Auftrag bearbeitet, längstens jedoch zehn Jahre. Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Fassung gemäss Anhang Ziff. 5 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 )."
+    },
+    {
+      "provision_ref": "art150",
+      "chapter": "2. Abschnitt: Informationssystem Industriesicherheitskontrolle",
+      "section": "150",
+      "title": "Verantwortliches Organ",
+      "content": "Die für die Durchführung des Geheimschutzverfahrens zuständige Stelle des VBS betreibt ein Informationssystem Industriesicherheitskontrolle (ISKO). Fassung gemäss Ziff. I der V vom 12. Dez. 2008 (Unterstellung der Informations- und Objektsicherheit unter das Generalsektretariat VBS), in Kraft seit 1. Jan. 2010 ( AS 2009 6615 )."
+    },
+    {
+      "provision_ref": "art151",
+      "chapter": "2. Abschnitt: Informationssystem Industriesicherheitskontrolle",
+      "section": "151",
+      "title": "Zweck",
+      "content": "Das ISKO dient der Durchführung des Geheimschutzverfahrens und der damit zusammenhängenden Personensicherheitsprüfungen."
+    },
+    {
+      "provision_ref": "art152",
+      "chapter": "2. Abschnitt: Informationssystem Industriesicherheitskontrolle",
+      "section": "152",
+      "title": "Daten",
+      "content": "Das ISKO enthält folgende Daten: a. Risikoanalyse; b. Entscheid über die Personensicherheitsprüfung."
+    },
+    {
+      "provision_ref": "art153",
+      "chapter": "2. Abschnitt: Informationssystem Industriesicherheitskontrolle",
+      "section": "153",
+      "title": "Datenbeschaffung",
+      "content": "Die Fachstelle GSV beschafft die Daten über eine Schnittstelle aus dem SIBAD."
+    },
+    {
+      "provision_ref": "art154",
+      "chapter": "2. Abschnitt: Informationssystem Industriesicherheitskontrolle",
+      "section": "154",
+      "title": "Datenbekanntgabe",
+      "content": "Der Prüfungsentscheid und die Sicherheitsstufe dürfen dem Geheimschutzbeauftragten des Arbeitgebers der betreffenden Person bekannt gegeben werden."
+    },
+    {
+      "provision_ref": "art155",
+      "chapter": "2. Abschnitt: Informationssystem Industriesicherheitskontrolle",
+      "section": "155",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des ISKO werden während zehn Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art156",
+      "chapter": "3. Abschnitt: Informationssystem Besuchsanträge",
+      "section": "156",
+      "title": "Verantwortliches Organ",
+      "content": "Die für die Bearbeitung von Besuchsanträgen zuständige Stelle des VBS betreibt ein Informationssystem Besuchsanträge (SIBE). Fassung gemäss Ziff. I der V vom 12. Dez. 2008 (Unterstellung der Informations- und Objektsicherheit unter das Generalsektretariat VBS), in Kraft seit 1. Jan. 2010 ( AS 2009 6615 )."
+    },
+    {
+      "provision_ref": "art157",
+      "chapter": "3. Abschnitt: Informationssystem Besuchsanträge",
+      "section": "157",
+      "title": "Zweck",
+      "content": "Das SIBE dient der Bearbeitung von Anträgen für Besuche ins Ausland mit Zugang zu klassifizierten Informationen."
+    },
+    {
+      "provision_ref": "art158",
+      "chapter": "3. Abschnitt: Informationssystem Besuchsanträge",
+      "section": "158",
+      "title": "Daten",
+      "content": "Das SIBE enthält folgende Daten: a. Risikoanalyse; b. Entscheid über die Personensicherheitsprüfung."
+    },
+    {
+      "provision_ref": "art159",
+      "chapter": "3. Abschnitt: Informationssystem Besuchsanträge",
+      "section": "159",
+      "title": "Datenbeschaffung",
+      "content": "Die Fachstelle beschafft die Daten bei: a. der betreffenden Person; b. den involvierten Firmen; c. den zuständigen Verwaltungseinheiten des Bundes."
+    },
+    {
+      "provision_ref": "art160",
+      "chapter": "3. Abschnitt: Informationssystem Besuchsanträge",
+      "section": "160",
+      "title": "Datenbekanntgabe",
+      "content": "Der Prüfungsentscheid und die Sicherheitsstufe dürfen den für die Bearbeitung der Besuchsanträge zuständigen Sicherheitsbehörden des zu besuchenden Landes bekannt gegeben werden."
+    },
+    {
+      "provision_ref": "art161",
+      "chapter": "3. Abschnitt: Informationssystem Besuchsanträge",
+      "section": "161",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des SIBE werden während zehn Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art162",
+      "chapter": "4. Abschnitt: Informationssystem Zutrittskontrolle",
+      "section": "162",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Informationssystem Zutrittskontrolle (ZUKO)."
+    },
+    {
+      "provision_ref": "art163",
+      "chapter": "4. Abschnitt: Informationssystem Zutrittskontrolle",
+      "section": "163",
+      "title": "Zweck",
+      "content": "Das ZUKO dient zur Erfüllung folgender Aufgaben bei und in schützenswerten Anlagen und Gebäuden des Bundes, insbesondere der Armee: a. biometrische Identifikation und Vereinzelung von Personen; b. Gewährung oder Verweigerung des Zutritts; c. Sicherstellung eines kontrollierten Materialflusses; d. nachvollziehbare Protokollierung aller Bewegungen; e. Verwaltung von Personen- und Anlagedaten, die für die Zutrittskontrolle benötigt werden."
+    },
+    {
+      "provision_ref": "art164",
+      "chapter": "4. Abschnitt: Informationssystem Zutrittskontrolle",
+      "section": "164",
+      "title": "Daten",
+      "content": "Das ZUKO enthält folgende Daten: a. Daten über die Zutrittsberechtigung und Zutrittskontrolle; b. biometrische Daten."
+    },
+    {
+      "provision_ref": "art165",
+      "chapter": "4. Abschnitt: Informationssystem Zutrittskontrolle",
+      "section": "165",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das ZUKO bei: a. der betreffenden Person; b. den militärischen Kommandos; c. den zuständigen Verwaltungseinheiten des Bundes."
+    },
+    {
+      "provision_ref": "art166",
+      "chapter": "4. Abschnitt: Informationssystem Zutrittskontrolle",
+      "section": "166",
+      "title": "Datenbekanntgabe",
+      "content": "Die Daten des ZUKO dürfen nur aufgrund einer schriftlichen Verfügung eines Untersuchungsrichters oder einer Untersuchungsrichterin und nur der Militärjustiz bekannt gegeben werden."
+    },
+    {
+      "provision_ref": "art167",
+      "chapter": "4. Abschnitt: Informationssystem Zutrittskontrolle",
+      "section": "167",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des ZUKO werden nach ihrem letzten Gebrauch während zehn Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art167a",
+      "chapter": "5. Abschnitt:",
+      "section": "167a",
+      "title": "a Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt ein Journal- und Rapportsystem der Militärischen Sicherheit (JORASYS)."
+    },
+    {
+      "provision_ref": "art167b",
+      "chapter": "5. Abschnitt:",
+      "section": "167b",
+      "title": "b Zweck",
+      "content": "Das JORASYS dient zur Erfüllung der Aufgaben nach Artikel 100 Absatz 1 MG, insbesondere: a. der Journalführung der Einsatzzentralen des Kommandos Militärpolizei; b. der Rapportierung kriminal- und sicherheitspolizeilicher Aufgaben der Berufsformationen des Kommandos Militärpolizei; c. der Beurteilung der militärischen Sicherheitslage; d. dem Eigenschutz der Armee. SR 510.10"
+    },
+    {
+      "provision_ref": "art167c",
+      "chapter": "5. Abschnitt:",
+      "section": "167c",
+      "title": "c Daten",
+      "content": "1 Das JORASYS enthält von Personen, die dem Militärstrafrecht unterstehen, folgende Daten: a. Personalien; b. Zivilstand, Geburts- und Heimatort sowie Beruf; c. Staatsangehörigkeit, Aufenthaltsstatus und Daten zum Nachweis der Identität; d. Einteilung, Grad, Funktion und Dienstleistungen in der Armee; e. Waffennummer und -typ von Armeewaffen sowie Vermerk der Abnahme oder des Entzugs der Waffe; f. Abnahme oder Sicherstellung des Führerausweises sowie Atemluft- und Blutprobenergebnisse und -analysen; g. Einkommens- und Vermögensverhältnisse; h. Verzeichnis der beschlagnahmten Gegenstände. 2 Bei Vorfällen im Zusammenhang mit der Armee oder Angehörigen der Armee kann das JORASYS auch die folgenden Daten Dritter enthalten: a. Personalien; b. Zivilstand, Geburts- und Heimatort sowie Beruf; c. Staatsangehörigkeit, Aufenthaltsstatus und Daten zum Nachweis der Identität; d. Personalien der gesetzlichen Vertretung oder des Arbeitgebers. 3 Das JORASYS kann auch Daten über Vorfälle im Zusammenhang mit der Armee oder mit Angehörigen der Armee enthalten, wenn die Täterin oder der Täter unbekannt ist."
+    },
+    {
+      "provision_ref": "art167d",
+      "chapter": "5. Abschnitt:",
+      "section": "167d",
+      "title": "d Datenbeschaffung",
+      "content": "1 Das Kommando Militärpolizei beschafft die Daten für das JORASYS bei: a. der betreffenden Person; b. den militärischen Kommandos; c. den zuständigen Verwaltungseinheiten von Bund, Kantonen und Gemeinden; d. den zivilen und militärischen Straf-, Strafvollzugs- und Verwaltungsrechtspflegebehörden. 2 Es hat durch Abrufverfahren Zugang zum: a. nationalen Polizeiindex; b. MIFA; c. Informationssystem integrierte Ressourcenbewirtschaftung (PSN)."
+    },
+    {
+      "provision_ref": "art167e",
+      "chapter": "5. Abschnitt:",
+      "section": "167e",
+      "title": "e Datenbekanntgabe",
+      "content": "1 Das Kommando Militärpolizei macht die Daten des JORASYS folgenden Personen durch Abrufverfahren zugänglich: a. den Mitarbeiterinnen und Mitarbeitern in den Einsatzzentralen des Kommandos Militärpolizei; b. den Mitarbeiterinnen und Mitarbeitern des Kommandos Militärpolizei für die Erfüllung ihrer Aufgabe nach Artikel 100 MG; c. den Personen, die mit der Beurteilung der militärischen Sicherheitslage und dem Eigenschutz der Armee beauftragt sind, für die Erfüllung ihrer Aufgaben nach Artikel 100 MG. 2 Es gibt die Daten des JORASYS in Form schriftlicher Auszüge folgenden Stellen und Personen bekannt: a. der Militärjustiz; b. den zuständigen Truppenkommandanten für ihren Bereich; c. der für die Informations- und Objektsicherheit zuständigen Stelle. SR 510.10"
+    },
+    {
+      "provision_ref": "art167f",
+      "section": "167f",
+      "title": "f Datenaufbewahrung",
+      "content": "1 Die Daten des JORASYS werden nach der Entlassung aus der Militärdienstpflicht während zehn Jahren aufbewahrt. 2 Die Daten Dritter werden zehn Jahre nach Abschluss des Verfahrens zum Vorfall gelöscht."
+    },
+    {
+      "provision_ref": "art168",
+      "chapter": "1. Abschnitt: Informationssystem Schadenzentrum VBS",
+      "section": "168",
+      "title": "Verantwortliches Organ",
+      "content": "Das Generalsekretariat des VBS betreibt ein Informationssystem Schadenzentrum VBS (SCHAWE)."
+    },
+    {
+      "provision_ref": "art169",
+      "chapter": "1. Abschnitt: Informationssystem Schadenzentrum VBS",
+      "section": "169",
+      "title": "Zweck",
+      "content": "Das SCHAWE dient: a. der Erledigung von Schadenersatzansprüchen nach den Artikeln 134–139 MG; b. der Regulierung von Schadenfällen mit Beteiligung von Bundesfahrzeugen; c. dem Entscheid über Rückgriffe und Schadensbeteiligungen gegenüber Angestellten des Bundes aus Schadenfällen im Zusammenhang mit Bundesfahrzeugen. SR 510.10"
+    },
+    {
+      "provision_ref": "art170",
+      "chapter": "1. Abschnitt: Informationssystem Schadenzentrum VBS",
+      "section": "170",
+      "title": "Daten",
+      "content": "Das SCHAWE enthält: a. sanitätsdienstliche Daten über die Geschädigten und die Schädigenden; b. Angaben zum Schadensereignis; c. Angaben zur Schadensbemessung; d. Abklärungen von Sachverständigen."
+    },
+    {
+      "provision_ref": "art171",
+      "chapter": "1. Abschnitt: Informationssystem Schadenzentrum VBS",
+      "section": "171",
+      "title": "Datenbeschaffung",
+      "content": "Das Generalsekretariat des VBS beschafft die Daten für das SCHAWE bei: a. der betreffenden Person oder ihrer gesetzlichen Vertretung; b. den militärischen Kommandos; c. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; d. den behandelnden und begutachtenden Ärztinnen und Ärzten; e. den zivilen und militärischen Strafbehörden sowie den Verwaltungsrechtspflegebehörden; f. den militärischen und, mit Einwilligung der betreffenden Person, zivilen Vorgesetzten; g. Sachverständigen; h. den von der betreffenden Person genannten Referenzpersonen."
+    },
+    {
+      "provision_ref": "art172",
+      "chapter": "1. Abschnitt: Informationssystem Schadenzentrum VBS",
+      "section": "172",
+      "title": "Datenbekanntgabe",
+      "content": "1 Das Generalsekretariat des VBS macht die Daten des SCHAWE den mit den Aufgaben nach Artikel 169 betrauten Mitarbeiterinnen und Mitarbeitern durch Abrufverfahren zugänglich. 2 Es gibt Dritten, die in seinem Auftrag bei der Erledigung von Schadenfällen und Haftpflichtansprüchen mitwirken, die dafür notwendigen Daten bekannt."
+    },
+    {
+      "provision_ref": "art173",
+      "chapter": "1. Abschnitt: Informationssystem Schadenzentrum VBS",
+      "section": "173",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des SCHAWE werden nach dem rechtskräftigen Abschluss des Verfahrens während zehn Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art174",
+      "chapter": "2. Abschnitt: Strategisches Informationssystem Logistik",
+      "section": "174",
+      "title": "Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt das Strategische Informationssystem Logistik (SISLOG)."
+    },
+    {
+      "provision_ref": "art175",
+      "chapter": "2. Abschnitt: Strategisches Informationssystem Logistik",
+      "section": "175",
+      "title": "Zweck",
+      "content": "Das SISLOG dient zur Erfüllung folgender Aufgaben: a. Bereitstellung von logistischen Daten für sämtliche Aufgaben der Armeelogistik; b. Bereitstellung einer Datenbasis für den logistischen Informationsbedarf anderer berechtigter Stellen; c. Austausch von Daten zwischen den militärischen Informationssystemen."
+    },
+    {
+      "provision_ref": "art176",
+      "chapter": "2. Abschnitt: Strategisches Informationssystem Logistik",
+      "section": "176",
+      "title": "Daten",
+      "content": "Das SISLOG enthält folgende Daten: a. Daten über Einteilung, Grad, Funktion, Ausbildung, Qualifikation und Ausrüstung in der Armee und im Zivilschutz; b. Daten über den Einsatz in der Armee und im Zivilschutz; c. weitere Daten, soweit und solange dies für den Datenaustausch nach Artikel 175 Buchstabe c notwendig ist."
+    },
+    {
+      "provision_ref": "art177",
+      "chapter": "2. Abschnitt: Strategisches Informationssystem Logistik",
+      "section": "177",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das SISLOG bei: a. den militärischen Kommandos; b. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; c. den anderen militärischen Informationssystemen."
+    },
+    {
+      "provision_ref": "art178",
+      "chapter": "2. Abschnitt: Strategisches Informationssystem Logistik",
+      "section": "178",
+      "title": "Datenbekanntgabe",
+      "content": "Die Gruppe Verteidigung macht die Daten des SISLOG folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den militärischen Kommandos; b. den zuständigen Verwaltungseinheiten des Bundes und der Kantone; c. den für den Datenaustausch nach Artikel 175 Buchstabe c zuständigen Stellen und Personen."
+    },
+    {
+      "provision_ref": "art179",
+      "chapter": "2. Abschnitt: Strategisches Informationssystem Logistik",
+      "section": "179",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des SISLOG werden längstens während fünf Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art179a",
+      "chapter": "3. Abschnitt:",
+      "section": "179a",
+      "title": "a Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt das Informationssystem integrierte Ressourcenbewirtschaftung (PSN)."
+    },
+    {
+      "provision_ref": "art179b",
+      "chapter": "3. Abschnitt:",
+      "section": "179b",
+      "title": "b Zweck",
+      "content": "Das PSN dient der logistischen, personellen und finanziellen Führung der Armee und der Verwaltungseinheiten der Gruppe Verteidigung; es bezweckt: a. die Sicherstellung der materiellen Bereitschaft bis zum Zeitpunkt der Rückgabe der persönlichen Ausrüstung der Angehörigen der Armee und des Korpsmaterials der Truppe; b. die Kontrolle der Abgabe von Armeematerial an Dritte sowie die Kontrolle der Rücknahme von Armeematerial von Dritten; c. die Kontrolle der Abgabe, der Rücknahme, der Hinterlegung, der Abnahme und des Entzugs der persönlichen Waffe und der Leihwaffe sowie die Kontrolle der Überlassung zu Eigentum; d. den Austausch von Daten mit der Datenbank nach Artikel 32 a Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997 (WG); e. die Verwaltung, Bewirtschaftung und Ablage von Personal- und Abrechnungsdaten des zivilen und des militärischen Personals. SR 514.54"
+    },
+    {
+      "provision_ref": "art179c",
+      "chapter": "3. Abschnitt:",
+      "section": "179c",
+      "title": "c Daten",
+      "content": "1 Das PSN enthält folgende Daten der Angehörigen der Armee: a. Personalien und Kontrolldaten mit Einteilung, Grad, Funktion, militärischer Ausbildung, Einsatz und Ausrüstung sowie Status nach dem MG; b. Korrespondenz und Geschäftskontrolle; c. Daten über die Militärdienstleistung; d. sanitätsdienstliche Daten, die für die Ausrüstung notwendig sind; e. Daten, die von den betreffenden Personen freiwillig gemeldet wurden. 2 Es enthält folgende Daten von Stellungspflichtigen und Angehörigen der Armee sowie von Besitzerinnen und Besitzern einer persönlichen Waffe oder einer Leihwaffe: a. Personalien; b. Daten über die Abgabe, die Rücknahme, die Hinterlegung, die Abnahme und den Entzug einer persönlichen Waffe oder einer Leihwaffe; c. Daten, die von den betreffenden Personen freiwillig gemeldet wurden; d. Daten zur Überlassung der persönlichen Waffe zu Eigentum oder allfällige Hinderungsgründe dazu; e. Meldungen der Zentralstelle Waffen über Stellungspflichtige und Angehörige der Armee, denen das Recht auf Waffenerwerb, Waffenbesitz und Waffentragen, gestützt auf das WG, verweigert oder entzogen wurde. 3 Es enthält Kontrolldaten über die Abgabe und Rücknahme von Armeematerial an Dritte sowie deren Personalien. 4 Es enthält die Daten der Stellenbewerberinnen und Stellenbewerber aus dem Bewerbungsdossier nach Artikel 27 b und der Angestellten aus dem Personaldossier nach Artikel 27 c BPG. SR 510.10 SR 514.54 SR 172.220.1"
+    },
+    {
+      "provision_ref": "art179d",
+      "section": "179d",
+      "title": "d Datenbeschaffung",
+      "content": "Die Verwaltungseinheiten der Gruppe Verteidigung beschaffen die Daten für das PSN bei: a. den betreffenden Angehörigen der Armee oder ihrer gesetzlichen Vertretung; b. Dritten; c. den Stellenbewerberinnen und Stellenbewerbern; d. den Angestellten sowie deren direkten Vorgesetzten; e. den zuständigen Verwaltungseinheiten des Bundes und der Kantone aus den militärischen Informationssystemen, dem Personalinformationssystem der Bundesverwaltung (BV PLUS) und der Datenbank nach Artikel 32 a Absatz 1 Buchstabe c WG. SR 514.54"
+    },
+    {
+      "provision_ref": "art179e",
+      "section": "179e",
+      "title": "e Datenbekanntgabe",
+      "content": "1 Die Verwaltungseinheiten der Gruppe Verteidigung machen die Daten des PSN folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den Personen, die für Bund und Kantone für die Ausrüstung von Angehörigen der Armee und Dritten zuständig sind; b. den zuständigen Verwaltungseinheiten der Gruppe Verteidigung für Angaben zur persönlichen Waffe und zur Leihwaffe; c. den Angestellten der Gruppe Verteidigung für die Einsicht in ihre Daten und für deren Bearbeitung; d. den Personalfachstellen für die Bearbeitung der Daten der Stellenbewerberinnen und Stellenbewerber sowie der Angestellten in ihrem Bereich; e. den Vorgesetzten zur Einsicht in die Daten der ihnen unterstellten Angestellten sowie zur Kontrolle und Genehmigung der Daten, die durch diese bearbeitet werden; f. bei Übertritten des Personals innerhalb der Gruppe Verteidigung den neu zuständigen Personalfachstellen und Vorgesetzten nach den Buchstaben d und e. 2 Sie geben die Daten des PSN zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben bekannt: a. den militärischen Kommandos und den Militärbehörden; b. auf Anfrage der zuständigen Strafbehörde und Strafvollzugsbehörde: Personalien und AHV-Nummer der Besitzerinnen und Besitzer von persönlichen Waffen und Leihwaffen; c. der Zentralstelle Waffen im automatisierten Verfahren: 1. Personalien und AHV-Nummer von Angehörigen der Armee, denen die persönliche Waffe zu Eigentum überlassen wurde, sowie Waffenart und Waffennummer, 2. die Daten des PSN betreffend Entscheide und Hinweise über Hinderungsgründe zur Abgabe der persönlichen Waffe sowie über deren Abnahme oder Entzug zur Bearbeitung in der Datenbank nach Artikel 32 a Absatz 1 Buchstabe d WG; d. berechtigten Personen bei der RUAG für die Ausrüstung; e. den Verwaltungseinheiten der Bundesverwaltung über eine Schnittstelle mit dem BV PLUS; f. Dritten, soweit dies zur Erfüllung derer gesetzlichen oder vertraglichen Aufgaben notwendig ist. SR 514.54"
+    },
+    {
+      "provision_ref": "art179f",
+      "section": "179f",
+      "title": "f Datenaufbewahrung",
+      "content": "1 Die Daten des PSN werden nach der Entlassung aus der Militärdienstpflicht während fünf Jahren aufbewahrt. 2 Die Daten von Dritten werden nach der Rücknahme des Armeematerials längstens während fünf Jahren aufbewahrt. Daten über Leihwaffen werden nach der Rückgabe während 20 Jahren aufbewahrt. 3 Die Daten über die Abgabe, die Hinterlegung, die Rücknahme, die Abnahme und den Entzug der persönlichen Waffe sowie der Leihwaffe werden nach der Entlassung aus der Militärdienstpflicht oder nach der Überlassung der persönlichen Waffe zu Eigentum während 20 Jahren aufbewahrt. 4 Die Daten der Angestellten aus dem Personaldossier werden nach der Beendigung des Arbeitsverhältnisses mit der Gruppe Verteidigung längstens während zehn Jahren aufbewahrt. Ergebnisse von Persönlichkeitstests und Potenzialbeurteilungen werden längstens während fünf Jahren aufbewahrt. Leistungsbeurteilungen sowie Entscheide, die auf einer Beurteilung beruhen, werden während fünf Jahren aufbewahrt, im Falle eines laufenden Rechtsstreits jedoch bis zum Abschluss des Verfahrens."
+    },
+    {
+      "provision_ref": "art179g",
+      "chapter": "4. Abschnitt:",
+      "section": "179g",
+      "title": "g Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt das Informationssystem Vereins- und Verbandsadministration (VVAdmin)."
+    },
+    {
+      "provision_ref": "art179h",
+      "chapter": "4. Abschnitt:",
+      "section": "179h",
+      "title": "h Zweck",
+      "content": "Das VVAdmin dient der Verwaltung und dem Betrieb des Schiesswesens ausser Dienst bei: a. der Planung, Durchführung und Kontrolle von Bundesübungen, Schiessübungen und Schiesskursen; b. der Kontrolle der Schiesspflichterfüllung; c. der Waffenbestellung für Jungschützenkurse; d. der Abrechnung von Bundesleistungen mit den anerkannten Schützenvereinen und von Nachschiesskursen; e. der Munitionsbestellung für anerkannte Schützenvereine und Schützenfeste; f. der Abrechnung von Spesen von Funktionärinnen und Funktionären im Schiesswesen ausser Dienst; g. der Verwaltung der Schiessanlagen."
+    },
+    {
+      "provision_ref": "art179i",
+      "chapter": "4. Abschnitt:",
+      "section": "179i",
+      "title": "i Daten",
+      "content": "Das VVAdmin enthält folgende für die Kontrolle von obligatorischen Schiessen und anderen Schiessen im Interesse der Landesverteidigung benötigten Daten von schiesspflichtigen Angehörigen der Armee, von Funktionärinnen und Funktionären im Schiesswesen ausser Dienst, von anerkannten Schiessvereinen und deren Mitgliedern sowie von Schützinnen und Schützen: a. Personalien; b. AHV-Nummer; c. militärische Kontrolldaten mit Einteilung, Grad und Funktion; d. Waffennummern; e. Bezugseinschränkungen für persönliche Waffen oder Leihwaffen; f. administrative Daten für die Durchführung von Kursen und Ausrichtung von Entschädigungen; g. Daten, die von den betreffenden Personen freiwillig gemeldet wurden."
+    },
+    {
+      "provision_ref": "art179j",
+      "chapter": "4. Abschnitt:",
+      "section": "179j",
+      "title": "j Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das VVAdmin bei: a. den anerkannten Schiessvereinen; b. den Funktionärinnen und Funktionären im Schiesswesen ausser Dienst; c. den Militärbehörden."
+    },
+    {
+      "provision_ref": "art179k",
+      "chapter": "4. Abschnitt:",
+      "section": "179k",
+      "title": "k Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des VVAdmin folgenden Stellen und Personen für die Erfüllung ihrer Aufgaben im Abrufverfahren zugänglich: a. den anerkannten Schiessvereinen und -verbänden; b. den Funktionärinnen und Funktionären im Schiesswesen ausser Dienst; c. den Leihwaffenbesitzerinnen und Leihwaffenbesitzern; d. den Militärbehörden. 2 Sie gibt die für die Abrechnung und die Kontrolle nach Artikel 179 h notwendigen Daten des VVAdmin der Alters- und Hinterlassenenversicherung, den Steuerverwaltungen und der mit dem Zahlungsverkehr betrauten Stelle bekannt."
+    },
+    {
+      "provision_ref": "art179l",
+      "chapter": "4. Abschnitt:",
+      "section": "179l",
+      "title": "l Datenaufbewahrung",
+      "content": "1 Die Daten des VVAdmin werden während fünf Jahren nach dem letzten Eintrag aufbewahrt. 2 Sie werden nach folgenden Ereignissen längstens während zwei Jahren aufbewahrt: a. Entlassung der schiesspflichtigen Angehörigen der Armee aus der Militärdienstpflicht; b. Aufgabe der Tätigkeit als Funktionärin oder Funktionär im Schiesswesen ausser Dienst; c. Rückgabe der Leihwaffe; d. Tod."
+    },
+    {
+      "provision_ref": "art180",
+      "chapter": "7. Kapitel: Überwachungsmittel",
+      "section": "180",
+      "title": "Verantwortliches Organ",
+      "content": "Die Armee und die Militärverwaltung betreiben mobile und fest installierte, boden- und luftgestützte, bemannte und unbemannte Überwachungsgeräte und -anlagen (Überwachungsmittel)."
+    },
+    {
+      "provision_ref": "art181",
+      "chapter": "7. Kapitel: Überwachungsmittel",
+      "section": "181",
+      "title": "Zweck",
+      "content": "1 Die Überwachungsmittel dienen zur Erfüllung folgender Aufgaben: a. Gewährleistung der Sicherheit von Angehörigen, Einrichtungen und Material der Armee im Bereich der Truppe oder militärischer Objekte; b. Erfüllung des Auftrags bei Einsätzen im Friedensförderungs-, Assistenz- und Aktivdienst, im Rahmen der Beschlüsse der zuständigen Behörden; c. Ausbildung im Hinblick auf die Aufgaben nach den Buchstaben a und b. 2 Die Armee kann den zivilen Behörden auf Gesuch hin luftgestützte Überwachungsmittel mit dem nötigen Personal zur Verfügung stellen: a. für polizeiliche Aufgaben und zur Grenzüberwachung bei dringlichen und befristeten Einsätzen: 1. zur Verhinderung und Bekämpfung schwerer Gewalttaten, 2. zur Gefahrenabwehr an der Grenze, insbesondere zur Verhinderung und Bekämpfung von unerlaubten Warenverschiebungen und Grenzübertritten sowie der grenzüberschreitenden Kriminalität; b. bei Naturkatastrophen und für Such- und Rettungseinsätze; c. für befristete Einsätze zur Verkehrsüberwachung und zur Überwachung von Veranstaltungen und Demonstrationen mit Gewaltpotenzial. 3 Einsätze nach Absatz 2, die von besonderer politischer Tragweite sind, bedürfen der vorgängigen Genehmigung des VBS. 4 Das VBS informiert die Sicherheitspolitischen Kommissionen beider Räte jährlich über die Einsätze nach Absatz 2."
+    },
+    {
+      "provision_ref": "art182",
+      "chapter": "7. Kapitel: Überwachungsmittel",
+      "section": "182",
+      "title": "Daten",
+      "content": "Mit Überwachungsmitteln dürfen alle Daten beschafft werden, die für die Erfüllung der Aufgaben nach Artikel 181 notwendig sind."
+    },
+    {
+      "provision_ref": "art183",
+      "chapter": "7. Kapitel: Überwachungsmittel",
+      "section": "183",
+      "title": "Datenbeschaffung",
+      "content": "1 Die Überwachungsmittel müssen offen eingesetzt werden, sofern dadurch nicht die Erfüllung der Aufgaben gefährdet wird. 2 Der Einsatz von Überwachungsmitteln zugunsten ziviler Behörden darf nur im Rahmen der Rechtsgrundlagen erfolgen, die für die unterstützten zivilen Behörden gelten."
+    },
+    {
+      "provision_ref": "art184",
+      "chapter": "7. Kapitel: Überwachungsmittel",
+      "section": "184",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die mit den Überwachungsmitteln beschafften Daten dürfen nur den Personen durch Abrufverfahren zugänglich gemacht werden, die unmittelbar mit der Erfüllung des Auftrags betraut sind, für den die Überwachungsmittel eingesetzt werden. 2 Die bearbeiteten Daten dürfen nur den Stellen und Personen bekannt gegeben werden, die sie gemäss Auftrag empfangen dürfen. Die Empfänger dürfen die Daten nur gemäss Auftrag weitergeben. 3 Daten, die für die Erfüllung des Auftrags nicht notwendig sind, dürfen nicht bekannt gegeben werden. Können diese Daten für die Strafverfolgung von Bedeutung sein, so dürfen sie dem Bundesamt für Polizei bekannt gegeben werden; dieses leitet sie an die zuständigen Strafverfolgungsbehörden weiter."
+    },
+    {
+      "provision_ref": "art185",
+      "chapter": "7. Kapitel: Überwachungsmittel",
+      "section": "185",
+      "title": "Datenvernichtung",
+      "content": "Die bearbeiteten Daten sind zu vernichten: a. sobald die Daten für die Erfüllung der Aufgabe nicht mehr notwendig sind; b. wenn eine bundesgesetzliche Archivierungspflicht besteht: nach der Abgabe an das Bundesarchiv."
+    },
+    {
+      "provision_ref": "art186",
+      "chapter": "8. Kapitel: Schlussbestimmungen",
+      "section": "186",
+      "title": "Ausführungsbestimmungen",
+      "content": "1 Der Bundesrat erlässt für jedes Informationssystem die erforderlichen Bestimmungen über: a. die Verantwortlichkeiten für die Datenbearbeitung im Einzelnen; b. die bearbeiteten, nicht besonders schützenswerten Personendaten; c. die Einzelheiten der Beschaffung, der Aufbewahrung, der Bekanntgabe, namentlich im Abrufverfahren, der Archivierung und der Vernichtung der Daten; d. die Zusammenarbeit mit den Kantonen; e. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen. 2 Er regelt die Einzelheiten: a. des Verbunds der Informationssysteme; b. des Einsatzes von Überwachungsmitteln, insbesondere legt er fest, welche Überwachungsmittel zulässig sind und in welchen Fällen sie verdeckt eingesetzt werden dürfen."
+    },
+    {
+      "provision_ref": "art187",
+      "chapter": "8. Kapitel: Schlussbestimmungen",
+      "section": "187",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art188",
+      "chapter": "8. Kapitel: Schlussbestimmungen",
+      "section": "188",
+      "title": "Inkrafttreten",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 1. Januar 2010 BRB vom 16. Dez. 2009"
+    }
+  ],
+  "definitions": []
+}

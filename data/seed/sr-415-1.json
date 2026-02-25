@@ -1,0 +1,276 @@
+{
+  "id": "sr-415-1",
+  "type": "statute",
+  "title": "Bundesgesetz vom 19. Juni 2015 über die Informationssysteme des Bundes im Bereich Sport (IBSG)",
+  "title_en": "",
+  "short_name": "IBSG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/596/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Gegenstand",
+      "section": "1",
+      "title": "",
+      "content": "1 Dieses Gesetz regelt die Bearbeitung von Personendaten (Daten), einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, in den Informationssystemen des Bundesamtes für Sport (BASPO) durch: a. Behörden des Bundes, der Kantone und der Gemeinden; b. nationale Sport- und Jugendverbände sowie deren Mitglied- und Unterorganisationen, soweit sie nach dem Sportförderungsgesetz vom 17. Juni 2011 (SpoFöG) direkt oder indirekt unterstützt werden; c. Dritte, die Aufgaben im Zusammenhang mit der Sportförderung des Bundes erfüllen. 2 Es regelt zudem die Bearbeitung von Daten im Informationssystem der nationalen Agentur zur Bekämpfung von Doping. SR 415.0"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "2. Abschnitt: Allgemeine Bestimmungen für die Informationssysteme des BASPO",
+      "section": "2",
+      "title": "Grundsätze der Datenbearbeitung",
+      "content": "1 Die in Artikel 1 Absatz 1 genannten Stellen und Personen dürfen zur Erfüllung der Aufgaben, die dem Vollzug des SpoFöG dienen: a. Daten bearbeiten und durch ein Abrufverfahren zugänglich machen, soweit es dieses Gesetz oder ein anderes Bundesgesetz ausdrücklich vorsieht; b. ... c. Daten in elektronischer Form bekannt geben, sofern ein angemessener Schutz gegen unbefugten Zugriff und unbefugtes Bearbeiten gewährleistet ist. 2 Die Stellen und Personen, bei denen Daten beschafft werden dürfen, sind zur unentgeltlichen Bekanntgabe verpflichtet. 3 Die Daten dürfen zu denselben Bearbeitungszwecken auch in nicht elektronischer Form bearbeitet werden. 4 Ist die Meldung von Daten freiwillig, so muss die Stelle oder Person, die die Daten erhebt, ausdrücklich darauf hinweisen. 5 Bilder, die eindeutig identifizierbare Personen zeigen, dürfen nur mit deren Einwilligung veröffentlicht werden. SR 415.0 Aufgehoben durch Anhang Ziff. 10 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ( AS 2021 758 ; BBl 2019 7359 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Allgemeine Bestimmungen für die Informationssysteme des BASPO",
+      "section": "3",
+      "title": "Verantwortlichkeit",
+      "content": "Das BASPO ist für die Sicherheit der Informationssysteme und die Rechtmässigkeit der Bearbeitung der Daten verantwortlich."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Allgemeine Bestimmungen für die Informationssysteme des BASPO",
+      "section": "4",
+      "title": "Datenbearbeitung für Arbeiten an den Informationssystemen",
+      "content": "Die mit Wartungs-, Unterhalts- oder Programmieraufgaben betrauten Personen dürfen Daten in den Informationssystemen nur bearbeiten, wenn dies zur Erfüllung ihrer Aufgaben erforderlich ist und die Datensicherheit gewährleistet ist. Die Daten dürfen dabei inhaltlich nicht verändert werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Allgemeine Bestimmungen für die Informationssysteme des BASPO",
+      "section": "5",
+      "title": "Änderungen der Informationssysteme",
+      "content": "Der Bundesrat kann die Informationssysteme zusammenführen, ersetzen oder aufheben, sofern damit Umfang und Zweck der Datenbearbeitung, insbesondere die Zugriffsrechte, nicht erweitert werden."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Allgemeine Bestimmungen für die Informationssysteme des BASPO",
+      "section": "6",
+      "title": "Aufbewahrung, Löschung, Archivierung und Vernichtung der Daten",
+      "content": "1 Die Daten der Informationssysteme werden so lange aufbewahrt, wie es der Bearbeitungszweck erfordert. 2 Die Daten im Informationssystem für medizinische Daten werden während höchstens zehn Jahren aufbewahrt. Der Bundesrat bestimmt die Höchstdauer der Aufbewahrung der Daten in den übrigen Informationssystemen. 3 Nicht mehr benötigte Daten werden aus dem Informationssystem gelöscht. In einem Informationssystem zwingend miteinander verknüpfte Daten werden als Block gelöscht, sobald die Aufbewahrungsdauer für alle Daten abgelaufen ist. 4 Die nach Absatz 3 gelöschten Daten werden mit den dazugehörigen Unterlagen dem Bundesarchiv angeboten. Vom Bundesarchiv als nicht archivwürdig beurteilte Daten und Unterlagen werden vernichtet."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Statistik und Forschung",
+      "content": "Das BASPO kann für Zwecke der Statistik oder der Forschung die notwendigen Daten bekannt geben. Diese sind zu anonymisieren."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Nationales Informationssystem für Sport",
+      "section": "8",
+      "title": "Zweck",
+      "content": "Das nationale Informationssystem für Sport dient den Behörden, Organisationen und Personen nach Artikel 1 Absatz 1 zur Erfüllung von Aufgaben nach dem SpoFöG, namentlich in folgenden Bereichen: a. allgemeine Sport- und Bewegungsförderung; b. «Jugend und Sport»; c. Sport in der Schule; d. Trainerbildung; e. Sport in der Armee; f. Fairness und Sicherheit im Sport. SR 415.0"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Nationales Informationssystem für Sport",
+      "section": "9",
+      "title": "Daten",
+      "content": "Das nationale Informationssystem für Sport enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben in den Bereichen nach Artikel 8 notwendig sind, insbesondere: a. Personalien; b. AHV-Nummer; c. Hinweise über Aktivitäten, Funktionen und die Zugehörigkeit zu Leistungsgruppen; d. Qualifikationen und Anerkennungen als Sportleiterin oder Sportleiter sowie deren Sistierung, Entzug oder Wegfall; e. Daten nach Artikel 10 SpoFöG, soweit sie zur Begründung eines Entscheids betreffend Erteilung, Sistierung oder Entzug von Anerkennungen als «Jugend und Sport»-Kader oder als Kader im Programm «Erwachsenensport Schweiz» erforderlich sind; f. Angaben über Untersuchungen und die Verhängung von Massnahmen im Zusammenhang mit Verstössen gegen Bestimmungen des fairen und sicheren Sports; g. freiwillig gemachte Angaben. Ausdruck gemäss Anhang Ziff. 10 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ( AS 2021 758 ; BBl 2019 7359 ). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen. SR 415.0"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Nationales Informationssystem für Sport",
+      "section": "10",
+      "title": "Datenbeschaffung",
+      "content": "Das BASPO beschafft die Daten bei: a. der betroffenen Person oder ihrer gesetzlichen Vertretung; b. den Lehrkräften; c. den für die Belange des Sports zuständigen Behörden der Kantone und Gemeinden sowie des Fürstentums Liechtenstein; d. dem Strafregister sowie den zuständigen Strafverfolgungs- und Gerichtsbehörden für Daten nach Artikel 9 Buchstabe e; e. den nationalen Sport- und Jugendverbänden sowie deren Mitglied- oder Unterorganisationen und weiteren Organisationen, soweit sie nach dem SpoFöG direkt oder indirekt unterstützt werden oder am Vollzug von Programmen und Projekten zur Förderung regelmässiger Sport- und Bewegungsaktivitäten mitwirken; f. der nationalen Agentur zur Bekämpfung von Doping nach Artikel 19 SpoFöG; g. der Gruppe Verteidigung für den Bereich Sport in der Armee. SR 415.0"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Nationales Informationssystem für Sport",
+      "section": "11",
+      "title": "Datenbekanntgabe",
+      "content": "1 Das BASPO kann die Daten durch ein Abrufverfahren zugänglich machen: a. den für die Belange des Sports zuständigen Behörden der Kantone und Gemeinden sowie des Fürstentums Liechtenstein: Daten nach Artikel 9 Buchstaben a–d und g; b. den nationalen Sport- und Jugendverbänden sowie deren Mitglied- oder Unterorganisationen und weiteren Organisationen, soweit sie nach dem SpoFöG direkt oder indirekt unterstützt werden, am Vollzug von «Jugend und Sport» oder an Programmen der allgemeinen Sport- und Bewegungsförderung mitwirken: Daten nach Artikel 9 Buchstaben a–d und g; c. Schulen, Hochschulen oder Universitäten, soweit sie am Vollzug von «Jugend und Sport» mitwirken: Daten nach Artikel 9 Buchstaben a–d und g; d. der Gruppe Verteidigung für den Bereich Sport in der Armee: Daten nach Artikel 9 Buchstaben a–d und g; e. der Zentralen Ausgleichstelle zur Verhinderung von Missbräuchen der Erwerbsersatzordnung: Daten nach Artikel 9 Buchstaben a–d. 2 Die Zentrale Ausgleichstelle kann die nach Absatz 1 Buchstabe e erhaltenen Daten an die zuständigen AHV-Ausgleichskassen weitergeben. 3 Das BASPO kann Stellen und Personen nach Absatz 1 sowie im Einzelfall weiteren Dritten auf Gesuch Daten nach Artikel 9 Buchstaben a–d und g in Form von elektronischen Datensätzen oder Listen bekannt gegeben, soweit die Stellen, Personen oder Dritten Aufgaben wahrnehmen, die den Zielen des SpoFöG entsprechen. Die Daten dürfen nicht zu kommerziellen Zwecken verwendet und nicht weitergeben werden. SR 415.0"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Kostenbeteiligung",
+      "content": "Der Bundesrat kann vorsehen, dass sich diejenigen Behörden und Organisationen, denen Daten durch ein Abrufverfahren zugänglich gemacht werden, an den Entwicklungs-, Betriebs- und Unterhaltskosten des Systems beteiligen müssen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Informationssystem für medizinische Daten",
+      "section": "13",
+      "title": "Zweck",
+      "content": "Das Informationssystem für medizinische Daten dient der Gewährleistung des Arztdiensts, des Notfalldiensts und der medizinischen Betreuung von Sportlerinnen und Sportlern sowie Patientinnen und Patienten des ärztlichen Dienstes des BASPO."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Informationssystem für medizinische Daten",
+      "section": "14",
+      "title": "Daten",
+      "content": "Das Informationssystem für medizinische Daten enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben nach Artikel 13 notwendig sind, insbesondere: a. Personalien; b. Daten über den Gesundheitszustand; c. Zeugnisse und Gutachten von Fachpersonen; d. Daten, die der Geschäftskontrolle dienen; e. Daten, die freiwillig gemeldet werden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Informationssystem für medizinische Daten",
+      "section": "15",
+      "title": "Datenbeschaffung",
+      "content": "Das BASPO beschafft die Daten bei: a. der betroffenen Person oder ihrer gesetzlichen Vertretung; b. den behandelnden oder begutachtenden Personen; c. den von den betroffenen Personen bezeichneten Vertrauenspersonen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Informationssystem für medizinische Daten",
+      "section": "16",
+      "title": "Datenbekanntgabe",
+      "content": "1 Das BASPO gibt Daten bekannt: a. den behandelnden Medizinalpersonen; b. weiterbehandelnden Medizinalpersonen mit Einverständnis der betroffenen Person. 2 Es gibt den Versicherungen und Krankenkassen mit Einverständnis der betroffenen Person die für die Abrechnung notwendigen Daten weiter."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Informationssystem für leistungsdiagnostische Daten",
+      "section": "17",
+      "title": "Zweck",
+      "content": "Das Informationssystem für leistungsdiagnostische Daten unterstützt die Durchführung von sportwissenschaftlichen, insbesondere leistungsdiagnostischen und sportpsychologischen Tests und Untersuchungen sowie die Erbringung entsprechender Dienstleistungen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Informationssystem für leistungsdiagnostische Daten",
+      "section": "18",
+      "title": "Daten",
+      "content": "Das Informationssystem für leistungsdiagnostische Daten enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben nach Artikel 17 notwendig sind, insbesondere: a. Personalien; b. Daten der Leistungsdiagnostik; c. psychologische Daten, einschliesslich Daten zur Persönlichkeit, Motivation, Befindlichkeit und Bewältigung von Herausforderungen; d. Daten über den Gesundheitszustand; e. Daten, die freiwillig gemeldet werden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Informationssystem für leistungsdiagnostische Daten",
+      "section": "19",
+      "title": "Datenbeschaffung",
+      "content": "Das BASPO erhebt die Daten selber oder beschafft sie bei: a. der betroffenen Person oder ihrer gesetzlichen Vertretung; b. den begutachtenden Personen; c. den von den betroffenen Personen bezeichneten Vertrauenspersonen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "5. Abschnitt: Informationssystem für leistungsdiagnostische Daten",
+      "section": "20",
+      "title": "Datenbekanntgabe",
+      "content": "1 Das BASPO gibt Daten bekannt: a. den betroffenen Sportlerinnen und Sportlern: die sie betreffenden Daten; b. den Personen, Behörden und Organisationen, die die Tests und Untersuchungen in Auftrag gegeben haben; c. den behandelnden Medizinalpersonen mit Einverständnis der betroffenen Person. 2 Es kann den betroffenen Sportlerinnen und Sportlern auf Gesuch folgenden Daten durch ein Abrufverfahren zugänglich machen: a. die sie betreffenden Daten; b. die Daten weiterer Personen, sofern diese Personen ihr Einverständnis dazu geben."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "6. Abschnitt: Informationssystem der Eidgenössischen Hochschule für Sport Magglingen",
+      "section": "21",
+      "title": "Zweck",
+      "content": "Das Informationssystem der Eidgenössischen Hochschule für Sport Magglingen (EHSM) dient dem BASPO als Informations- und Dokumentationssystem: a. zur Organisation und Abwicklung des Betriebs an der EHSM; b. zur Verwaltung der Ausbildungsabschlüsse."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "6. Abschnitt: Informationssystem der Eidgenössischen Hochschule für Sport Magglingen",
+      "section": "22",
+      "title": "Daten",
+      "content": "Das Informationssystem der EHSM enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben nach Artikel 21 notwendig sind, insbesondere: a. Daten zu Dozentinnen und Dozenten und Lehrbeauftragten: 1. Personalien, 2. AHV-Nummer, 3. Ausbildungsabschlüsse und Titel, 4. Sprachkompetenzen, 5. Funktionen, 6. Einsatzpläne; b. Daten zu Studentinnen und Studenten: 1. Personalien, 2. AHV-Nummer, 3. Fotografien, 4. Ausbildungsabschlüsse und Titel, 5. Sprachkompetenzen, 6. absolvierte Aus- und Weiterbildungsgänge sowie Stundenpläne, 7. Immatrikulations- und Exmatrikulationsdaten, 8. Disziplinarentscheide, 9. Beurteilungen von Kompetenznachweisen, 10. Abschlussqualifikationen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Informationssystem der Eidgenössischen Hochschule für Sport Magglingen",
+      "section": "23",
+      "title": "Datenbeschaffung",
+      "content": "Das BASPO beschafft die Daten bei: a. der betroffenen Person; b. den Mitgliedern des Lehrkörpers."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "6. Abschnitt: Informationssystem der Eidgenössischen Hochschule für Sport Magglingen",
+      "section": "24",
+      "title": "Automatischer Austausch mit andern Informationssystemen",
+      "content": "1 Das Informationssystem der EHSM kann zum Zweck des Einsatzes von Dozentinnen und Dozenten und zur Abrechnung von deren Entschädigungen mit dem Personalinformationssystem der Bundesverwaltung und mit dem vom BASPO benutzten Finanzinformationssystem verbunden werden. 2 Es kann zum Zweck der Rechnungsstellung an Studentinnen und Studenten mit dem vom BASPO benutzten Finanzinformationssystem verbunden werden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "7. Abschnitt: Informationssystem zur Kursevaluation",
+      "section": "25",
+      "title": "Zweck",
+      "content": "Das Informationssystem zur Kursevaluation dient dem BASPO zur Evaluation von Kursen und Lehrveranstaltungen, die: a. vom BASPO oder von vom BASPO beauftragten Dritten durchgeführt werden; b. von Dritten durchgeführt werden und mit Beiträgen des Bundes unterstützt werden."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "7. Abschnitt: Informationssystem zur Kursevaluation",
+      "section": "26",
+      "title": "Daten",
+      "content": "Das Informationssystem zur Kursevaluation enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die für die Evaluation der Kurse und Lehrveranstaltungen notwendig sind, insbesondere: a. Daten der einzelnen Kurse und Lehrveranstaltungen; b. Personalien der Teilnehmerinnen und Teilnehmer, der Kursleiterinnen und Kursleiter sowie der Dozentinnen und Dozenten; c. Angaben und Bewertungen: 1. zum Kurs oder zur Lehrveranstaltung insgesamt, 2. zu den Kursleiterinnen und Kursleitern sowie den Dozentinnen und Dozenten; d. freiwillig gemachte Angaben von Kursleiterinnen und Kursleitern sowie Dozentinnen und Dozenten zu absolvierten Ausbildungen und bisherigen Aktivitäten."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "7. Abschnitt: Informationssystem zur Kursevaluation",
+      "section": "27",
+      "title": "Datenbeschaffung",
+      "content": "Das BASPO beschafft die Daten bei: a. den Teilnehmerinnen und Teilnehmern; b. den Kursleiterinnen und Kursleitern; c. den Dozentinnen und Dozenten; d. den Expertinnen und Experten, die mit der Kursevaluation beauftragt sind; e. den Kursorganisatorinnen und Kursorganisatoren."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "7. Abschnitt: Informationssystem zur Kursevaluation",
+      "section": "28",
+      "title": "Datenbekanntgabe",
+      "content": "Das BASPO kann die Daten den mit der Organisation und der Durchführung des Kurses oder Lehrgangs befassten Personen oder Organisationen bekannt geben."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "7. Abschnitt: Informationssystem zur Kursevaluation",
+      "section": "29",
+      "title": "Automatischer Austausch mit andern Informationssystemen",
+      "content": "Das System kann zum Zweck der Übernahme von Kurs- und Lehrveranstaltungsdaten sowie von Personalien mit dem nationalen Informationssystem für Sport und mit dem Informationssystem der EHSM verbunden werden."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "8. Abschnitt: Informationssystem der nationalen Agentur zur Bekämpfung von Doping",
+      "section": "30",
+      "title": "Zweck",
+      "content": "Das Informationssystem der nationalen Agentur zur Bekämpfung von Doping dient zur Erfüllung der Aufgaben nach dem SpoFöG im Bereich der Dopingbekämpfung, namentlich der: a. Ausbildung, Beratung, Dokumentation, Forschung und Information; b. Kontrolle und Ermittlung; c. Sanktionierung; d. Administration von Massnahmen nach Artikel 20 Absatz 4 SpoFöG; e. nationalen und internationalen Koordination. SR 415.0"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "8. Abschnitt: Informationssystem der nationalen Agentur zur Bekämpfung von Doping",
+      "section": "31",
+      "title": "Verantwortlichkeit und Datenbearbeitung",
+      "content": "1 Die nationale Agentur zur Bekämpfung von Doping ist für die Sicherheit des Systems und die Rechtmässigkeit der Bearbeitung der Daten verantwortlich. 2 Die Daten dürfen zu denselben Bearbeitungszwecken auch in nicht elektronischer Form bearbeitet werden. 3 Die mit Wartungs-, Unterhalts- oder Programmieraufgaben betrauten Personen dürfen Daten im Informationssystem der nationalen Agentur zur Bekämpfung von Doping nur bearbeiten, wenn dies zur Erfüllung ihrer Aufgaben erforderlich ist und die Datensicherheit gewährleistet ist. Die Daten dürfen dabei inhaltlich nicht verändert werden. 4 Daten, die für Zwecke der Statistik oder der Forschung benötigt werden, sind zu anonymisieren."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "8. Abschnitt: Informationssystem der nationalen Agentur zur Bekämpfung von Doping",
+      "section": "32",
+      "title": "Daten",
+      "content": "Das Informationssystem der nationalen Agentur zur Bekämpfung von Doping enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die für die Dopingbekämpfung notwendig sind, insbesondere: a. Personalien der Sportlerin oder des Sportlers und Angaben zur Zugehörigkeit zu Sportverbänden; b. Angaben zum Aufenthaltsort der Sportlerin oder des Sportlers, sofern sie oder er in einem Kontrollpool der nationalen Agentur zur Bekämpfung von Doping nach Artikel 19 Absatz 2 SpoFöG eingeteilt ist; c. Hinweise über Aktivitäten und Funktionen der Sportlerin oder des Sportlers sowie von Personen, die die Sportlerin oder den Sportler betreuen, trainieren oder behandeln; d. medizinische Daten; e. Ermittlungsdaten und Analysedaten von Dopingproben; f. Zeugnisse und Gutachten von Fachpersonen; g. Sanktionen bei Dopingverstössen; h. Daten über Strafverfahren wegen Verstössen gegen das SpoFöG; i. Massnahmen nach Artikel 20 Absatz 4 SpoFöG; j. freiwillig gemachte Angaben. SR 415.0"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "8. Abschnitt: Informationssystem der nationalen Agentur zur Bekämpfung von Doping",
+      "section": "33",
+      "title": "Datenbeschaffung",
+      "content": "1 Die nationale Agentur zur Bekämpfung von Doping beschafft die Daten bei: a. der betroffenen Person oder ihrer gesetzlichen Vertretung; b. den behandelnden oder begutachtenden Personen; c. nationalen und internationalen Sportorganisationen; d. nationale und internationalen Dopingbekämpfungsstellen; e. Analyselabors; f. den Zollbehörden; g. dem Schweizerischen Heilmittelinstitut; h. den zuständigen Polizei-, Strafverfolgungs- und Gerichtsbehörden; i. sonstigen Auskunftspersonen. 2 Die Stellen und Personen nach Absatz 1 Buchstaben a–d und f–i, bei denen Daten beschafft werden dürfen, sind zur unentgeltlichen Bekanntgabe verpflichtet. 3 Ist die Meldung von Daten freiwillig, so muss die Stelle oder Person, die die Daten beschafft, ausdrücklich darauf hinweisen."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Datenbekanntgabe",
+      "content": "1 Die nationale Agentur zur Bekämpfung von Doping gibt Daten bekannt: a. der betroffenen Person: die sie betreffenden Daten; b. den behandelnden oder begutachtenden Personen; c. nationalen und internationalen Sportorganisationen zur Durchführung und Auswertung von Kontrollen und zur Sanktionierung dopender Personen; d. ausländischen oder internationalen Dopingbekämpfungsstellen im Rahmen von Artikel 25 SpoFöG; e. den zuständigen Polizei-, Strafverfolgungs- und Gerichtsbehörden im Zusammenhang mit Tatbeständen nach Artikel 22 SpoFöG. 2 Sie kann Daten, namentlich Daten für biologische Profile, für die Strafverfolgung nach Artikel 22 SpoFöG und für die privatrechtliche Sanktionierung von Dopingverstössen, zurückbehalten oder verzögert bekannt geben, sofern sie dies für die Dopingbekämpfung als notwendig erachtet. 3 Sie veröffentlicht im Internet die Personalien von Sportlerinnen und Sportlern, die gestützt auf einen Sanktionsentscheid von der Teilnahme an Sportwettkämpfen ausgeschlossen sind, während der Dauer des Ausschlusses. SR 415.0"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Aufbewahrungsdauer",
+      "content": "1 Die Daten des Systems dürfen so lange aufbewahrt werden, wie es der Bearbeitungszweck erfordert, längstens aber: a. für Daten von Personen, die über eine Lizenz eines Sportverbands zur Teilnahme an Sportwettkämpfen verfügen: während zehn Jahren nach dem unwiderruflichen Verlust der Wettkampflizenz, längstens aber bis die betroffene Person das 70. Altersjahr vollendet hat; b. für Daten aus Strafverfahren wegen Verstösse gegen das SpoFöG, die aus dem Strafregister entfernt worden sind: bis die betroffene Person die Vernichtung der Daten verlangt; c. für alle übrigen Daten: während zehn Jahren nach der letzten Bearbeitung. 2 Nicht mehr benötigte Daten werden mit den dazugehörigen Unterlagen dem Bundesarchiv angeboten. Vom Bundesarchiv als nicht archivwürdig beurteilte Daten und Unterlagen werden vernichtet. SR 415.0"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "36",
+      "title": "Ausführungsbestimmungen",
+      "content": "Der Bundesrat erlässt die erforderlichen Bestimmungen über: a. die Verantwortlichkeiten für die Datenbearbeitung; b. die bearbeiteten Daten; c. die Einzelheiten der Beschaffung und der Bearbeitungsrechte, namentlich im Abrufverfahren der Daten; d. die Zusammenarbeit mit den Kantonen; e. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "37",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Das Bundesgesetz vom 17. Juni 2011 über die Informationssysteme des Bundes im Bereich Sport wird aufgehoben. [ AS 2012 4639 ]"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "38",
+      "title": "Inkrafttreten",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 1. November 2016 BRB vom 12. Oktober 2016"
+    }
+  ],
+  "definitions": []
+}

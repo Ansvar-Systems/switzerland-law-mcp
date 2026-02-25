@@ -1,0 +1,175 @@
+{
+  "id": "sr-814-710",
+  "type": "statute",
+  "title": "Verordnung vom 23. Dezember 1999 über den Schutz vor nichtionisierender Strahlung (NISV)",
+  "title_en": "",
+  "short_name": "NISV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2000/38/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Zweck",
+      "content": "Diese Verordnung soll Menschen vor schädlicher oder lästiger nichtionisierender Strahlung schützen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "1 Diese Verordnung regelt: a. die Begrenzung der Emissionen von elektrischen und magnetischen Feldern mit Frequenzen von 0 Hz bis 300 GHz (Strahlung), die beim Betrieb ortsfester Anlagen erzeugt werden; b. die Ermittlung und Beurteilung der Immissionen von Strahlung; c. die Anforderungen an die Ausscheidung von Bauzonen. 2 Sie regelt nicht die Begrenzung der Emissionen von Strahlung, die erzeugt werden: a. in Betrieben, soweit die Strahlung auf das Betriebspersonal einwirkt; b. bei der medizinischen Verwendung von Medizinprodukten nach der Medizinprodukteverordnung vom 24. Januar 1996; c. von militärischen Anlagen, soweit die Strahlung auf Angehörige der Armee einwirkt; d. von elektrischen Geräten wie Mikrowellenöfen, Kochherden, Elektrowerkzeugen oder Mobiltelefonen. 3 Sie regelt auch nicht die Begrenzung der Einwirkungen von Strahlung auf elektrische oder elektronische medizinische Lebenshilfen wie Herzschrittmacher. [ AS 1996 987 1868 , 1998 1496 Ziff. I, II. AS 2001 3487 Art. 28 Bst. a]. Siehe heute: die V vom 17. Okt. 2001 ( SR 812.213 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "1 Anlagen gelten als alt, wenn der Entscheid, der die Bauarbeiten oder die Aufnahme des Betriebs ermöglicht, bei Inkrafttreten dieser Verordnung rechtskräftig war. Anlagen nach Anhang 1 Ziffer 1, die mehrere Leitungen umfassen, gelten als alt, wenn mindestens eine Leitung bei Inkrafttreten dieser Verordnung rechtskräftig bewilligt war. 2 Anlagen gelten als neu, wenn sie: a. die Voraussetzungen von Absatz 1 nicht erfüllen; b. an einen anderen Standort verlegt werden; oder c. am bisherigen Standort ersetzt werden; davon ausgenommen sind Eisenbahnen (Anhang 1 Ziff. 5). 3 Als Orte mit empfindlicher Nutzung gelten: a. Räume in Gebäuden, in denen sich Personen regelmässig während längerer Zeit aufhalten; b. öffentliche oder private, raumplanungsrechtlich festgesetzte Kinderspielplätze; c. diejenigen Bereiche von unüberbauten Grundstücken, in denen Nutzungen nach den Buchstaben a und b zugelassen sind. 4 Technisch und betrieblich möglich sind Massnahmen zur Emissionsbegrenzung, die: a. bei vergleichbaren Anlagen im In- oder Ausland erfolgreich erprobt sind; oder b. bei Versuchen erfolgreich eingesetzt wurden und nach den Regeln der Technik auf andere Anlagen übertragen werden können. 5 Wirtschaftlich tragbar sind Massnahmen zur Emissionsbegrenzung, die für einen mittleren und wirtschaftlich gesunden Betrieb der betreffenden Branche zumutbar sind. Gibt es in einer Branche sehr unterschiedliche Klassen von Betriebsgrössen, so ist von einem mittleren Betrieb der entsprechenden Klasse auszugehen. 6 Der Anlagegrenzwert ist eine Emissionsbegrenzung für die von einer Anlage allein erzeugte Strahlung. 7 Berührungsstrom ist der elektrische Strom, der fliesst, wenn ein Mensch ein nicht mit einer Spannungsquelle verbundenes, leitfähiges Objekt berührt, das durch ein elektrisches oder magnetisches Feld aufgeladen wird. 8 Körperableitstrom ist der elektrische Strom, der von einem in einem elektrischen Feld stehenden Menschen gegen die Erde abfliesst, ohne dass ein leitfähiges Objekt berührt wird. 9 Die äquivalente Strahlungsleistung (ERP) ist die einer Antenne zugeführte Sendeleistung, multipliziert mit dem Antennengewinn in Hauptstrahlrichtung, bezogen auf den Halbwellendipol. Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1135 ). Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1135 ). Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Sept. 2009 ( AS 2009 3565 ). Ausdruck gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1135 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Gemeinsame Vorschriften für neue und alte Anlagen",
+      "section": "4",
+      "title": "Vorsorgliche Emissionsbegrenzung",
+      "content": "1 Anlagen müssen so erstellt und betrieben werden, dass sie die in Anhang 1 festgelegten vorsorglichen Emissionsbegrenzungen einhalten. 2 Bei Anlagen, für die Anhang 1 keine Vorschriften enthält, ordnet die Behörde Emissionsbegrenzungen so weit an, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Gemeinsame Vorschriften für neue und alte Anlagen",
+      "section": "5",
+      "title": "Ergänzende und verschärfte Emissionsbegrenzung",
+      "content": "1 Steht fest oder ist zu erwarten, dass ein oder mehrere Immissionsgrenzwerte nach Anhang 2 durch eine einzelne Anlage allein oder durch mehrere Anlagen zusammen überschritten werden, so ordnet die Behörde ergänzende oder verschärfte Emissionsbegrenzungen an. 2 Sie ordnet ergänzende oder verschärfte Emissionsbegrenzungen so weit an, bis die Immissionsgrenzwerte eingehalten werden. 3 Steht fest oder ist zu erwarten, dass der Immissionsgrenzwert nach Anhang 2 Ziffer 13 oder 225 für den Berührungsstrom beim Kontakt mit leitfähigen Objekten überschritten wird, so ordnet die Behörde in erster Linie Massnahmen an diesen Objekten an."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Besondere Vorschriften für neue Anlagen",
+      "section": "6",
+      "title": "",
+      "content": "Wird eine neue Anlage nach ihrer Inbetriebnahme im Sinne von Anhang 1 geändert, so gelten die Vorschriften über die Emissionsbegrenzung bei neuen Anlagen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Besondere Vorschriften für alte Anlagen",
+      "section": "7",
+      "title": "Sanierungspflicht",
+      "content": "1 Die Behörde sorgt dafür, dass alte Anlagen, die den Anforderungen der Artikel 4 und 5 nicht entsprechen, saniert werden. 2 Sie erlässt die erforderlichen Verfügungen und legt darin die Sanierungsfrist nach Artikel 8 fest. Notfalls verfügt sie für die Dauer der Sanierung Betriebseinschränkungen oder die Stilllegung der Anlage. 3 Auf die Sanierung kann verzichtet werden, wenn sich der Inhaber verpflichtet, die Anlage innert der Sanierungsfrist stillzulegen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Besondere Vorschriften für alte Anlagen",
+      "section": "8",
+      "title": "Sanierungsfrist",
+      "content": "1 Die Frist für die Durchführung der vorsorglichen Emissionsbegrenzungen richtet sich nach den Vorschriften von Anhang 1. Enthält Anhang 1 keine Vorschriften, so gilt eine Frist von höchstens fünf Jahren. Die Behörde kann die Frist auf Gesuch hin um höchstens die Hälfte verlängern, wenn die Durchführung der Emissionsbegrenzungen innerhalb der ordentlichen Frist wirtschaftlich nicht tragbar wäre. 2 Für die ergänzenden oder verschärften Emissionsbegrenzungen beträgt die Sanierungsfrist höchstens drei Jahre. Die Behörde legt kürzere Fristen fest, mindestens aber drei Monate, wenn die Massnahmen ohne erhebliche Investitionen durchgeführt werden können."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Besondere Vorschriften für alte Anlagen",
+      "section": "9",
+      "title": "Änderung alter Anlagen",
+      "content": "Wird eine alte Anlage im Sinne von Anhang 1 geändert, so gelten die Vorschriften über die Emissionsbegrenzung bei neuen Anlagen, soweit Anhang 1 keine abweichenden Vorschriften enthält. Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1135 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Mitwirkung und Kontrolle",
+      "section": "10",
+      "title": "Mitwirkungspflicht",
+      "content": "Der Inhaber einer Anlage ist verpflichtet, der Behörde auf Verlangen die für den Vollzug erforderlichen Auskünfte, namentlich Angaben nach Artikel 11 Absatz 2, zu erteilen. Nötigenfalls hat er Messungen oder andere Abklärungen durchzuführen oder zu dulden."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Mitwirkung und Kontrolle",
+      "section": "11",
+      "title": "Meldepflicht",
+      "content": "1 Der Inhaber einer Anlage, für die Anhang 1 Emissionsbegrenzungen festlegt, muss der für die Bewilligung zuständigen Behörde ein Standortdatenblatt einreichen, bevor die Anlage neu erstellt, an einen andern Standort verlegt, am bestehenden Standort ersetzt oder im Sinne von Anhang 1 geändert wird. Ausgenommen sind elektrische Hausinstallationen (Anh. 1 Ziff. 4). 2 Das Standortdatenblatt muss enthalten: a. die aktuellen und geplanten technischen und betrieblichen Daten der Anlage, soweit sie für die Erzeugung von Strahlung massgebend sind; b. den massgebenden Betriebszustand nach Anhang 1; c. Angaben über die von der Anlage erzeugte Strahlung: 1. an dem für Menschen zugänglichen Ort, an dem diese Strahlung am stärksten ist, 2. an den drei Orten mit empfindlicher Nutzung, an denen diese Strahlung am stärksten ist, und 3. an allen Orten mit empfindlicher Nutzung, an denen der Anlagegrenzwert nach Anhang 1 überschritten ist; d. einen Situationsplan, der die Angaben nach Buchstabe c darstellt. Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Sept. 2009 ( AS 2009 3565 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Mitwirkung und Kontrolle",
+      "section": "12",
+      "title": "Kontrolle",
+      "content": "1 Die Behörde überwacht die Einhaltung der Emissionsbegrenzungen. 2 Zur Kontrolle der Einhaltung des Anlagegrenzwertes nach Anhang 1 führt sie Messungen oder Berechnungen durch, lässt solche durchführen oder stützt sich auf die Ermittlungen Dritter. Das Bundesamt für Umwelt (BAFU) empfiehlt geeignete Mess- und Berechnungsmethoden. 3 Wird wegen gewährter Ausnahmen der Anlagegrenzwert nach Anhang 1 bei neuen oder geänderten Anlagen überschritten, so misst die Behörde periodisch die von diesen Anlagen erzeugte Strahlung oder lässt diese messen. Sie kontrolliert innert sechs Monaten nach der Inbetriebnahme, ob: a. die der Verfügung zugrunde liegenden Angaben über den Betrieb zutreffen; und b. die verfügten Anordnungen befolgt werden. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) angepasst. Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Kapitel: Immissionen",
+      "section": "13",
+      "title": "Geltung der Immissionsgrenzwerte",
+      "content": "1 Die Immissionsgrenzwerte nach Anhang 2 müssen überall eingehalten sein, wo sich Menschen aufhalten können. 2 Sie gelten nur für Strahlung, die gleichmässig auf den ganzen menschlichen Körper einwirkt."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Kapitel: Immissionen",
+      "section": "14",
+      "title": "Ermittlung der Immissionen",
+      "content": "1 Die Behörde ermittelt die Immissionen, wenn Grund zur Annahme besteht, dass Immissionsgrenzwerte nach Anhang 2 überschritten sind. 2 Sie führt dazu Messungen oder Berechnungen durch, lässt solche durchführen oder stützt sich auf die Ermittlungen Dritter. Das BAFU empfiehlt geeignete Mess- und Berechnungsmethoden. 3 Bei der Ermittlung der Strahlung in Betriebsräumen werden Immissionen aus betriebseigenen Quellen nicht berücksichtigt. 4 Die Immissionen werden als elektrische Feldstärke, magnetische Feldstärke, magnetische Flussdichte, Körperableitstrom oder Berührungsstrom für denjenigen Betriebszustand der Anlage ermittelt, bei dem sie am höchsten sind. 5 Soweit in Anhang 2 eine Mittelungsdauer festgelegt ist, werden die Immissionen während der Mittelungsdauer quadratisch gemittelt; andernfalls ist der höchste Effektivwert massgebend."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "3. Kapitel: Immissionen",
+      "section": "15",
+      "title": "Beurteilung der Immissionen",
+      "content": "Die Behörde beurteilt, ob die Immissionen einen oder mehrere Immissionsgrenzwerte nach Anhang 2 überschreiten."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Kapitel: Anforderungen an die Ausscheidung von Bauzonen",
+      "section": "16",
+      "title": "",
+      "content": "Bauzonen dürfen nur dort ausgeschieden werden, wo die Anlagegrenzwerte nach Anhang 1 von bestehenden und raumplanungsrechtlich festgesetzten geplanten Anlagen eingehalten sind oder mit planerischen oder baulichen Massnahmen eingehalten werden können."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "1. Abschnitt: Vollzug",
+      "section": "17",
+      "title": "Vollzug durch die Kantone",
+      "content": "Die Kantone vollziehen diese Verordnung unter Vorbehalt von Artikel 18."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "1. Abschnitt: Vollzug",
+      "section": "18",
+      "title": "Vollzug durch den Bund",
+      "content": "Wenden Bundesbehörden andere Bundesgesetze oder völkerrechtliche Vereinbarungen oder Beschlüsse an, die Gegenstände dieser Verordnung betreffen, so vollziehen sie dabei auch diese Verordnung. Für die Mitwirkung des BAFU und der Kantone gilt Artikel 41 Absätze 2 und 4 des Gesetzes; gesetzliche Geheimhaltungspflichten bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "1. Abschnitt: Vollzug",
+      "section": "19",
+      "title": "Koordinationsbehörde",
+      "content": "1 Tragen mehrere Anlagen zur Überschreitung von Immissionsgrenzwerten nach Anhang 2 bei und sind für den Vollzug dieser Verordnung bei diesen Anlagen verschiedene Behörden zuständig, so bezeichnen die beteiligten Behörden die für die Koordination zuständige Behörde. 2 Die koordinierende Behörde geht nach den Koordinationsgrundsätzen des Raumplanungsgesetzes vom 22. Juni 1979 vor"
+    },
+    {
+      "provision_ref": "art19a",
+      "chapter": "1. Abschnitt: Vollzug",
+      "section": "19a",
+      "title": "a Geoinformation",
+      "content": "Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008 als Fachstelle des Bundes bezeichnet ist. Eingefügt durch Anhang 2 Ziff. 12 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ( AS 2008 2809 ). SR 510.620"
+    },
+    {
+      "provision_ref": "art19b",
+      "chapter": "1. Abschnitt: Vollzug",
+      "section": "19b",
+      "title": "b Erhebungen und Information",
+      "content": "1 Das BAFU veröffentlicht periodisch eine nationale Übersicht über die Belastung der Bevölkerung durch Strahlung. Es kann dazu Erhebungen durchführen. Inhaber von Anlagen sowie Behörden des Bundes und der Kantone sind verpflichtet, dem BAFU auf Anfrage die erforderlichen Auskünfte zu erteilen. 2 Das BAFU informiert periodisch über den Stand der Wissenschaft und der Erfahrung über die Auswirkungen der Strahlung von ortsfesten Anlagen auf den Menschen und die Umwelt. Eingefügt durch Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ( AS 2019 1491 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Abschnitt: Übergangsbestimmung und Inkrafttreten",
+      "section": "20",
+      "title": "Übergangsbestimmung zur Änderung vom 1. Juli 2009",
+      "content": "Anlagen, die vor Inkrafttreten der Änderung vom 1. Juli 2009 rechtskräftig bewilligt waren und den Anforderungen nach Artikel 4 und 5 entsprachen, müssen die Bestimmungen nach Anhang 1 einhalten, sobald sie ersetzt, an einen andern Standort verlegt oder im Sinne von Anhang 1 geändert werden. Fassung gemäss Ziff. I der V vom 1. Juli 2009, in Kraft seit 1. Sept. 2009 ( AS 2009 3565 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Abschnitt: Übergangsbestimmung und Inkrafttreten",
+      "section": "21",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Februar 2000 in Kraft."
+    }
+  ],
+  "definitions": []
+}

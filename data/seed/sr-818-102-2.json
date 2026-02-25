@@ -1,0 +1,281 @@
+{
+  "id": "sr-818-102-2",
+  "type": "statute",
+  "title": "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)",
+  "title_en": "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2021/325/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 Subject Matter",
+      "section": "1",
+      "title": "",
+      "content": "This Ordinance regulates: a. the form, content, issuance and revocation of the following COVID-19 certificates to prove: 1. vaccination against COVID-19 (COVID-19 vaccination certificate), 2. recovery from Sars-CoV-2 infection (COVID-19 recovery certificate), 3. a negative result following Sars-CoV-2 test analysis (COVID-19 test certificate), 4. ... b. the specifications for verifying these certificates; c. the recognition of corresponding foreign certificates; d. the information systems operated by the Confederation in connection with these certificates; e. the apps offered by the Confederation for certificate holders and checkers; [tab] f. the tasks of the cantons in connection with issuing and revoking certificates; g. the payment of costs by requesting persons. Inserted by No I of the O of 3 Nov. 2021 ( AS 2021 653 ). Repealed by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ( AS 2022 99 ). Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ( AS 2021 592 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 2 Issuance, Form and Revocation of COVID-19 Certificates",
+      "section": "2",
+      "title": "Request",
+      "content": "Any person wishing to obtain a COVID-19 certificate must submit a request to an issuer specified in Article 6 or 7."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 2 Issuance, Form and Revocation of COVID-19 Certificates",
+      "section": "3",
+      "title": "Information and identification of the requesting person",
+      "content": "1 The issuer shall inform the requesting person about: a. the type and extent of the data processing required to create and sign the COVID-19 certificate; b. the conditions under which the issued certificate is revoked. 2 The issuer shall verify the identity of the requesting person, with presentation of an identity document for this purpose where necessary."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Issuance, Form and Revocation of COVID-19 Certificates",
+      "section": "4",
+      "title": "Retrieval of the COVID-19 certificate from the system for issuing COVID-19 certificates",
+      "content": "1 The issuer shall transmit the information to be included in the certificate to the system operated by the Federal Office of Information Technology, Systems and Telecommunication (FOITT) for issuing COVID-19 certificates in accordance with Article 26. 2 The system generates the certificate. It shall transmit it to the issuer, provided the issuer is responsible for transmitting or delivering the certificate to the requesting person."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Issuance, Form and Revocation of COVID-19 Certificates",
+      "section": "5",
+      "title": "Transmission or delivery of the COVID-19 certificate to the requesting person",
+      "content": "1 The issuer shall ensure the rapid and secure transmission or delivery of the COVID-19 certificate to the requesting person. 2 The issuer is responsible for compliance with data protection requirements during transmission and delivery. In particular, it must be ensured that third parties are unable to obtain knowledge of the information contained on the certificate. 3 The Confederation may propose to the cantons that it take care of printing the certificates in hard copy and transmitting certificates to requesting persons. 4 It shall charge the cantons for the costs of printing and transmitting COVID-19 vaccination certificates of people vaccinated from 15 July 2021 onwards. Inserted by No I of the O of 30 June 2021, in force since 3 July 2021 ( AS 2021 410 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Issuance, Form and Revocation of COVID-19 Certificates",
+      "section": "6",
+      "title": "General provisions concerning the issuers of COVID-19 certificates",
+      "content": "1 The cantons and the Surgeon General shall designate the respective issuers for the various types of COVID-19 certificates. 2 Issuers shall be natural persons who: a. have the necessary expertise to assess the requirements for issuing certificates; b. use IT systems and products that allow issuers to be uniquely identified and securely authenticated; c. guarantee compliance with the applicable law and in particular with this Ordinance. 3 The cantons and the Surgeon General shall notify the FOITT of the designated issuers. Notification shall include the following information: a. first name, surname, address, email address and telephone number of the issuer; b. details of the identification provider used and the identifier this provider uses to identify the person concerned; c. details of which certificates the issuer is authorised to issue; d. the date on which designation becomes valid and expires. 4 The designated issuers may call on the services of other persons to whom they have the right to give instructions in order to issue certificates. They shall be responsible for the acts and omissions of these persons. 5 The cantons and the Surgeon General shall supervise the issuance and revocation of certificates by the issuers in accordance with the applicable federal and cantonal regulations. 6 They shall revoke such designation if there are clear indications that the issuer no longer meets the requirements. They shall notify the FOITT of the revocation of a designation."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "1 The cantons and the Surgeon General shall ensure that in the following cases requests for a COVID-19 vaccination certificate or COVID-19 recovery certificate pursuant to Article 16 paragraph 1 letter a are processed, even if an issuer under Article 6 has no access to the relevant medical history or primary documentation for this purpose: a. where the person concerned received the vaccination or recovered from an infection confirmed by a molecular-biological analysis in Switzerland; b. where a person in the following groups received the vaccination or recovered from an infection confirmed by a molecular-biological analysis abroad: 1. Swiss citizens, 2. foreign nationals holding a short-stay, residence, settlement or cross-border commuter permit under Articles 32–35 of the Foreign Nationals and Integration Act of 16 December 2005 (FNIA), 3. temporarily admitted persons under Article 83 paragraph 1 FNIA, 4. persons in need of protection under Article 66 of the Asylum Act of 26 June 1998, 5. asylum seekers holding a permit or confirmation under Article 30 of the Asylum Ordinance 1 of 11 August 1999, 6. persons holding a legitimation card under Article 17 of the Host State Ordinance of 7 December 2007, 7. persons holding a Ci permit under Article 22 paragraph 3 of the Host State Ordinance. 1bis The cantons shall ensure that requests for a COVID-19 recovery certificate pursuant to Article 16 paragraph 1 letters b or c are processed for the following persons even if an issuer under Article 6 has no access to the relevant medical history or primary documentation for this purpose: a. persons who have received an isolation order; b. persons who have been issued with a COVID-19 recovery certificate pursuant to Article 16 paragraph 1 letter b in its version of 19 January 2022. 2 They shall designate at least one issuer for dealing with such requests. 3 The request for issuance of a COVID-19 vaccination certificate or COVID-19 recovery certificate under paragraph 1 must be submitted in an official language of the canton, in English or an officially certified translation into one of these languages must be provided together with the documents listed in Articles 13 paragraph 2 letter c and 16. 4 If there is any doubt as to whether the documents submitted are genuine, the issuer may: a. demand that the requesting person: 1. appear in person, 2. submit officially certified documents, 3. submit the information or documents required to assess the request; b. obtain further information from the competent foreign authorities in compliance with Article 62 of the Epidemics Act of 28 September 2012. 5 If there is still doubt as to whether the documents submitted are genuine despite taking the foregoing measures, the issuer may decline the request. In such an event, the requesting person is not entitled to a refund of any fee paid. Amended by Annex No 3 of the O of 17 Dec. 2021, in force since 17 Jan. 2022 ( AS 2021 881 ). Amended by No I of the O of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests), in force since 2 May 2022 ( AS 2022 258 ). Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 ). SR 142.20 SR 142.31 SR 142.311 SR 192.121 Amended by No I of the O of 2 Feb. 2022, in force since 3 Feb. 2022 ( AS 2022 60 ). AS 2022 20 Inserted by No I of the O of 2 Feb. 2021 ( AS 2022 60 ). Amended by No I of the O of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests), in force since 2 May 2022 ( AS 2022 258 ). Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ( AS 2021 564 ). SR 818.101 Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ( AS 2021 592 ). Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ( AS 2021 592 )."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "a Issuers of COVID-19 test certificates for targeted and repetitive tests",
+      "content": "The cantons shall ensure that in the following cases requests for a COVID-19 test certificate are processed: a. in the case of pooled molecular-biological analyses for Sars-CoV-2: 1. targeted and repetitive tests in schools, universities and educational institutions for the prevention and early detection of outbreaks, 2. targeted and repetitive tests in hospitals, homes for the elderly and care homes, and in other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment, 3. targeted and repetitive tests in businesses; b. in the case of individual molecular-biological analyses for Sars-CoV-2 carried out to confirm the positive result of a test conducted in accordance with letter a. Inserted by Annex No 3 of the O of 17 Dec. 2021, in force since 17 Jan. 2022 ( AS 2021 881 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Automated procedure for issuing COVID-19 recovery certificates",
+      "content": "1 For the purpose of issuing COVID-19 recovery certificates pursuant to Article 16 paragraph 1, the cantons may use an automated procedure to retrieve information on the requesting person's recovery from the information system in accordance with Article 60 of the Epidemics Act of 28 September 2012 and compare it with the information in the request. 2 For this purpose, they may provide the requesting person with an electronic request form supplied by the Confederation. 3 If the comparison with the data retrieved from the information system shows that the requirements for issuing a certificate are met, the system for issuing COVID-19 certificates (Art. 26) shall generate the certificate. 4 If the result of the comparison is unclear or negative, the competent cantonal body shall contact the requesting person and manually check whether the requirements for issuing a certificate are met. 5 The cantons shall ensure that the requesting person may also submit the request in hard copy or in any other suitable form. SR 818.101 Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art8a",
+      "section": "8a",
+      "title": "a Automated procedure for converting COVID-19 certificates",
+      "content": "1 The Confederation may allow the cantons to issue new certificates using an automated procedure on the basis of existing certificates in order to fulfil their duties pursuant to Article 7 if: a. the existing certificate can no longer be used for technical reasons or if its continued use is placed in doubt; or b. the existing certificate issued on the basis of an earlier version of this Ordinance certifies a vaccination or recovery that also entitles the holder to a certificate in accordance with the applicable law. 2 Only Swiss COVID-19 certificates that have not been revoked may be exchanged. 3 The application for the automated issuing of a new certificate shall be submitted via the storage app (Art. 28). 4 If the existing certificate meets the requirements of paragraphs 1 and 2, the system for issuing COVID-19-certificates (Art. 26) shall generate a new certificate for the same vaccination or recovery and send the same to the storage app. Inserted by No I of the O of 10 June 2022, in force since 27 June 2022 ( AS 2022 374 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Form of the COVID-19 certificates",
+      "content": "1 The requesting person may choose to have the COVID-19 certificate issued in hard copy or electronic format. 2 The COVID-19 certificates bear a regulated electronic seal of the Federal Office of Public Health (FOPH) as the means of verification of the authenticity and integrity of the information. 3 Both forms of certificate display the content as a human-readable text and two-dimensional machine-readable code (barcode). However, the barcode and the data stored in it in sealed electronic format are also considered to be a certificate. 4 Certificates are issued in an official language of the Confederation as chosen by the requesting person and in English. 5 They contain a unique certificate identifier."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Revocation of COVID-19 certificates",
+      "content": "1 The issuers specified in Articles 6 and 7 and the competent cantonal authorities shall revoke a COVID-19 certificate at the request of the holder if the holder credibly demonstrates that: a. the certificate contains incorrect information; or b. errors have repeatedly occurred when verifying the authenticity, validity or integrity of the certificate. 2 A revocation request must contain the following: a. the unique certificate identifier; b. information on the identity of the holder, insofar as is necessary to assess the grounds for revocation in accordance with paragraph 1, as well as the further details required to assess the grounds for revocation. 3 Even in the absence of a request, issuers are obliged without delay to revoke the certificates they have issued which do not meet the requirements of this Ordinance or which attest to facts which turn out to be incorrect. 4 The FOITT and the competent cantonal authorities shall revoke certificates in the issuer's place if the issuer fails to do so within a reasonable period in accordance with paragraphs 1 or 3. 5 Issuers, the FOITT and the competent cantonal authorities shall revoke certificates in the system for issuing COVID-19 certificates (Art. 26), which shall transmit the identifiers of the revoked certificates to the system for retrieving revoked certificates (Art. 27). 6 Issuers, the FOITT and the competent cantonal authorities shall document the revocation of certificates with the following information: a. the unique certificate identifier; b. information that makes it clear why the decision to revoke the certificate was made. Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ( AS 2021 564 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Free of charge",
+      "content": "1 The requesting person shall not be charged for the issuance or revocation of COVID-19 certificates other than in the cases specified in paragraph 2. 2 The cantons may make provision for issuers to charge an appropriate share of the cost in the following cases: a. when a certificate has to be reissued repeatedly due to loss; b. when issuing a certificate to persons under Article 7 paragraph 1 letter b who are not permanently or habitually resident in the canton concerned or to Swiss citizens living abroad whose last place of residence or commune of origin is not in the canton concerned. 3 Paragraph 2 letter b does not apply when the canton has ordered isolation. Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 General Content of All COVID-19 Certificates",
+      "section": "12",
+      "title": "",
+      "content": "1 All COVID-19 certificates shall contain the following information in accordance with Annex 1: a. details of the identity of the holder; b. details of the electronic seal issuer; c. ... 2 COVID-19 certificates in human-readable form shall also contain a general statement on the meaning of the certificate in accordance with Annex 1 number 3. Repealed by No I of the O of 3 Nov. 2021, with effect from 16 Nov. 2021 ( AS 2021 653 ). Inserted by No I of the O of 3 Nov. 2021 ( AS 2021 653 ). Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 4 COVID-19 Vaccination Certificates",
+      "section": "13",
+      "title": "Requirements",
+      "content": "1 A COVID-19 vaccination certificate shall be issued for vaccines that: a. are authorised in Switzerland; b. are authorised by the European Medicines Agency for the EU in accordance with Regulation (EC) No 726/2004; c. are authorised in accordance with the WHO Emergency Use Listing; or d. can be shown to have the same composition as a vaccine authorised in accordance with letters a, b or c, but which is marketed by the licence holder under another name (licensed products). 2 A COVID-19 vaccination certificate shall be issued for each dose: a. at the time of vaccination; b. subsequent to the vaccination if the administration of the vaccine, including the information in accordance with Article 14, is evident from the medical history or primary documentation that the issuer has on the person requesting the certificate; c. subsequent to the vaccination if no medical history or primary documentation is available and the administration of the vaccine, including the information in accordance with Article 14, can be reliably established from one of the following supporting documents: 1. an international certificate of vaccination in accordance with the model in Annex 6 to the International Health Regulations (2005) of 23 May 2005 , indicating the vaccine administered and bearing the signature and stamp of the body responsible, 2. confirmation of vaccination issued by a cantonal vaccination centre, 3. a vaccination record indicating the vaccine administered and bearing the signature or stamp of the body responsible in Switzerland, 4. any other Swiss or foreign document equivalent to one of the documents mentioned in numbers 1 to 3. 2bis ... 2ter In the case of vaccines and their licensed products that are neither authorised for Switzerland nor for the EU but which are permitted under the WHO Emergency Use Listing, a certificate may be issued provided the person concerned attends in person at the issuer's office. 3 COVID-19 certificates in accordance with paragraph 2 letter c may only be issued by the issuers specified in Article 7 if the person concerned has been vaccinated in full in accordance with Annex 2 number 3. Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136, 30.4.2004, p. 1; last amended by Regulation (EU) No 2019/5, OJ L 4, 7.1.2018, p. 24. Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ( AS 2021 564 ). SR 0.818.103 Inserted by No I of the O of 17 Sept. 2021 ( AS 2021 564 ). Repealed by No I of the O of 3 Nov. 2021, with effect from 16 Nov. 2021 ( AS 2021 653 ). Inserted by No I of the O of 17 Sept. 2021 ( AS 2021 564 ). Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 ). Amended by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ( AS 2021 653 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Content",
+      "content": "In addition to the general content of all COVID-19 certificates, COVID-19 vaccination certificates shall contain the details in accordance with Annex 2 on the COVID-19 vaccination carried out, and in particular whether the vaccine has been administered in full. Amended by No I of the O of 30 June 2021, in force since 3 July 2021 ( AS 2021 410 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Validity",
+      "content": "1 The start and duration of the validity of COVID-19 vaccination certificates are governed by Annex 2. 2 The period of validity begins at the earliest on the day on which the final dose is administered, provided the vaccine is administered in full in accordance with the requirements of Annex 2. 3 ... Amended by No I of the O of 30 June 2021, in force since 3 July 2021 ( AS 2021 410 ). Inserted by No I of the O of 3 Nov. 2021 ( AS 2021 653 ). Repealed by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 5 COVID-19 Recovery Certificates",
+      "section": "16",
+      "title": "Requirements",
+      "content": "1 A COVID-19 recovery certificate shall be issued when a person has been infected with Sars-CoV-2 and has recovered. The finding that the person has been infected with the virus must be based on the positive result from the following analyses: a. a molecular-biological analysis for Sars-CoV-2; b. a Sars-CoV-2 rapid test for specialist use pursuant to Article 24 a paragraph 1 of the COVID-19 Ordinance 3 of 19 June 2020, provided: 1. the sample was taken on or after 1 October 2021 in Switzerland by a facility specified in Annex 6 number 1.4.3 letter a of the COVID-19 Ordinance 3, and 2. the test is not based on a sample taken solely from the nasal cavity or on a saliva sample; c. a laboratory immunological analysis for Sars-CoV-2 antigens, provided: 1. the analysis was carried out by a laboratory licensed under Article 16 of the Epidemics Act of 28 September 2012, 2. the analysis is authorised in the EU for issuing an EU digital COVID certificate, 3. the sample was taken on or after 1 October 2021 in Switzerland by a facility specified in Annex 6 number 1.4.3 letter a of the COVID-19 Ordinance 3, and 4. the analysis is not based on a sample taken solely from the nasal cavity or on a saliva sample. 2 A request to be issued with a COVID-19 recovery certificate for an infection from which the person concerned has recovered while abroad must be based on a positive molecular-biological analysis for Sars-CoV-2 and be accompanied by the following documents: a. proof of a positive molecular-biological analysis for Sars-CoV-2 in accordance with paragraph 1 that includes the following information: 1. the requesting person's surname, first name and date of birth, 2. the date and time at which the sample was taken, 3. the name and address of the test centre or the institution where the test was carried out; b. confirmation of termination of isolation or a medical certificate confirming recovery from a competent authority with official duties, including the name and address of this authority. Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 ). SR 818.101.24 SR 818.101 Amended by No I of the O of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests), in force since 2 May 2022 ( AS 2022 258 ). Amended by No I of the O of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests), in force since 2 May 2022 ( AS 2022 258 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 5 COVID-19 Recovery Certificates",
+      "section": "17",
+      "title": "Content",
+      "content": "In addition to the general content of all COVID-19 certificates, COVID-19 recovery certificates shall specify that the holder contracted COVID-19 or tested positive for COVID-19 antibodies, as well as the dates on which the samples were taken and the analyses in accordance with Annex 3 number 2 were carried out. Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Validity",
+      "content": "1 The start and duration of the validity of COVID-19 recovery certificates are governed by Annex 3. 2 A COVID-19 recovery certificate pursuant to Article 16 paragraph 1 shall be valid at the earliest from the eleventh day after infection was confirmed. 3 and 4 … 5 COVID-19 recovery certificates pursuant to Article 16 paragraph 1 shall contain an expiry date that is compatible with the requirements of Regulation (EU) 2021/953. Under Annex 3 number 1.2 letter a, they may remain valid beyond the date specified. Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ( AS 2022 20 ). Inserted by No I of the O of 3 Nov. 2021 ( AS 2021 653 ). Repealed by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ( AS 2022 99 ). Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic. Version in OJ L 211 of 15.6.2021, p. 1; amended by Regulation (EU) 2022/1034, OJ L 173 of 30.6.2022, p. 37. Inserted by No I of the O of 3 Nov. 2021 ( AS 2021 653 ). Amended by No I of the O of 10 June 2022, in force since 1 July. 2022 ( AS 2022 374 , 382 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 6 COVID-19 Test Certificates",
+      "section": "19",
+      "title": "Requirements",
+      "content": "1 A COVID-19 test certificate shall be issued in the event of a negative result of: a. a molecular-biological analysis for Sars-CoV-2; b. a Sars-CoV-2 rapid test for specialist use in accordance with Article 24 a of the COVID-19 Ordinance 3 of 19 June 2020, unless it is based on a sample taken only from the nasal cavity or on a saliva sample. c. a laboratory immunological analysis for Sars-CoV-2 antigens, provided: 1. the analysis was carried out by a laboratory licensed under Article 16 of the Epidemics Act of 28 September 2012, 2. the test is authorised in the EU for issuing an EU digital COVID certificate, 3. the sample was taken by a facility specified in Annex 6 number 1.4.3 letter a of the COVID-19 Ordinance 3, and 4. the test is not based on a sample taken solely from the nasal cavity or on a saliva sample. 1bis The FOPH shall maintain an updated list of Sars-CoV-2 rapid tests in accordance with paragraph 1 letter b of laboratory immunological analyses for Sars-CoV-2 antigens in accordance with paragraph 1 letter c, and publish it on its website. 1ter COVID-19 test certificates may not be issued for analyses for Sars-CoV-2 in the following cases: a. to persons who have symptoms; b. to persons who have in any of the following periods lived in the same household as or in a similar way have had close and regular contact with: 1. a person whose infection with Sars-VoV-2 has been confirmed or is probable and who has symptoms: in the 48 hours prior to the appearance of symptoms and for 5 days thereafter, 2. a person whose infection with Sars-VoV-2 has been confirmed but who is asymptomatic: in the 48 hours prior to the sample being taken and until the person went into isolation; c. in an outbreak investigation and control ordered by a doctor; d. to persons who have been notified by the SwissCOVID app that they have potentially had close contact with a person who has been infected with Sars-CoV-2; e. to persons who have tested positive in a Sars-CoV-2 rapid test for specialist use or in a Sars-CoV-2 self-test. 2 Requests for test certificates may be submitted . Amended by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ( AS 2021 653 ). SR 818.101.24 Inserted by Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ( AS 2021 881 ). SR 818.101 Inserted by No I of the O of 30 June 2021 ( AS 2021 410 ). Amended by Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ( AS 2021 881 ). Inserted by No IV of the O of 25 Aug. 2021 ( AS 2021 507 ). Amended by Annex No 2 of the O of 16 Feb. 2022, in force since 17 Feb. 2022 ( AS 2022 96 )."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Content",
+      "content": "In addition to the general content of all COVID-19 certificates, COVID-19 test certificates shall contain information on the test carried out in accordance with Annex 4."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Validity",
+      "content": "1 COVID-19 test certificates shall be valid from the time they are issued. 2 The duration of validity is governed by Annex 4. 3 It shall be a maximum of 72 hours from the time the sample was taken."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "a –21 c",
+      "content": "Inserted by No I of the O of 3 Nov. 2021 ( AS 2021 653 ). Repealed by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 7 Foreign Certificates",
+      "section": "22",
+      "title": "Recognition of certificates issued by an EU member state or an EFTA state",
+      "content": "1 The recognised vaccination, recovery and test certificates issued by a member state of the European Union (EU) or a state of the European Free Trade Association (EFTA) are listed in Annex 5. 2 The Federal Department of Home Affairs (FDHA) shall update Annex 5 continuously in consultation with the Federal Department of Finance (FDF) and the Federal Department of Foreign Affairs (FDFA). 3 It shall include in the Annex certificates that were issued in accordance with the provisions applicable in the EU and whose states of origin grant reciprocal rights. However, it may decide not to include certificates for vaccines that are not authorised for the EU by the European Medicines Agency in accordance with Regulation (EC) No. 726/2004. Amended by No I of the O of 1 Sept. 2021, in force since 7 Sept. 2021 ( AS 2021 522 ). Regulation (EC) No. 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136 of 30.04.2004, p. 1; last amended by Regulation (EC) No. 2019/5, OJ L 4 of 7.1.2018, p. 24."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 7 Foreign Certificates",
+      "section": "23",
+      "title": "Recognition of other foreign certificates",
+      "content": "1 The recognised foreign certificates attesting vaccination, recovery or testing that have not been issued by an EU or EFTA member state are listed in Annex 5. 2 As soon as the European Commission makes a decision regarding the equivalence of one or more interoperable certificates from a state or region, the FDHA shall update Annex 5 accordingly. However, it shall only accept certificates from the states and regions listed in Annex 5 that grant Switzerland reciprocal rights. 3 It may include certificates from other states or regions provided the following requirements are met: a. The foreign certificate contains the information specified in Article 12 and in Articles 14, 17 or 20 in conjunction with the relevant annexes. b. The information under letter a can be checked electronically for authenticity, integrity and validity. c. Requirements equivalent to those under this Ordinance apply to the issuance of the respective certificates. 4 It shall delete those certificates that no longer meet the requirements from the list. Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ( AS 2022 20 ). Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ( AS 2022 20 )."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 7 Foreign Certificates",
+      "section": "24",
+      "title": "Significance of recognition",
+      "content": "Recognised foreign certificates shall be equivalent to the COVID-19 certificates issued in accordance with this Ordinance. In particular, the apps for storing and verifying certificates (Arts. 28 and 29) shall treat them as certificates issued in accordance with this Ordinance."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 8 Federal Information Systems and Software Provided by the Confederation",
+      "section": "25",
+      "title": "System for managing electronically signed certificates",
+      "content": "1 The FOITT shall operate an information system that is used to do the following with electronically signed certificates in order to check the authenticity, integrity and validity of electronic signatures of COVID-19 certificates: a exchange them with corresponding foreign systems, particularly within the framework of the EU Digital COVID Certificate system of the European Union; b make them available to the apps that are used to store and verify certificates. 2 ... Inserted by No I of the O of 3 Nov. 2021 ( AS 2021 653 ). Repealed by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 8 Federal Information Systems and Software Provided by the Confederation",
+      "section": "26",
+      "title": "System for issuing COVID-19 certificates",
+      "content": "1 The FOITT shall operate an information system for generating, transmitting and revoking COVID-19 certificates. 2 The personal data of requesting persons may not be retained for longer than is necessary for generating, signing and transmitting the certificate, or for revoking it. 3 In order to detect and prevent misuse and for the purpose of any subsequent revocation of certificates, the system shall log which issuer retrieved which certificates and when."
+    },
+    {
+      "provision_ref": "art26a",
+      "chapter": "Section 8 Federal Information Systems and Software Provided by the Confederation",
+      "section": "26a",
+      "title": "a System for requesting COVID-19 certificates for vaccination or recovery abroad",
+      "content": "1 The FOITT shall operate a system that can be used to submit requests under Article 7 paragraph 1 letter b and by issuers to process these requests. 2 The system shall allocate the requests for the issuance of a certificate to a person resident or with place of origin in Switzerland as follows: a. in the case of persons resident in Switzerland: to the canton of residence; b. in the case of Swiss citizens living abroad, to the last canton of residence, or, if the person has never been resident in Switzerland, the canton in which the place of origin is located; c. in all other cases: to the canton in which the person was last habitually resident. 3 ... 4 The requests, the documents submitted and the unique certificate identifier shall be retained for 30 days and then deleted from the system. Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ( AS 2021 592 ). Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 ). Repealed by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 8 Federal Information Systems and Software Provided by the Confederation",
+      "section": "27",
+      "title": "System for retrieving revoked certificates",
+      "content": "1 The FOITT shall operate a system that is used to retrieve revoked certificates and contains the unique certificate identifier for this purpose. 2 The list of revoked certificate identifiers shall be made available to apps used for checking and storing COVID-19 certificates."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "",
+      "content": "1 The FOITT shall provide software that the holders of COVID-19 certificates can install on their mobile telephones or similar devices and use for the secure transmission and electronic storage of the certificates. 2 The following principles apply to the software: a. It may disclose the contents of certificates or make statements about it solely with the holder's consent in the individual case. b. The contents of certificates must be protected against unauthorised access by means of appropriate measures. c. The FOITT shall publish the source code and technical specifications for the software it makes available. 3 The software shall indicate to the holder the access categories in accordance with Annex 6 numbers 1–3 with which their certificate complies. Amended by No I of the O of 30 June 2021, in force since 12 July 2021 ( AS 2021 410 ). Inserted by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 )."
+    },
+    {
+      "provision_ref": "art28a",
+      "section": "28a",
+      "title": "a Storage app: Retrieval of certificates with data minimisation",
+      "content": "1 The app for storing COVID-19 certificates shall enable holders to obtain a certificate with data minimisation for use in Switzerland. 2 To do so, the holder uses the app to send a COVID-19 certificate to the system for issuing COVID-19 certificates. If the certificate sent is valid, the system generates the data-minimised certificate and send it to the storage app. 3 The certificate with data minimisation contains: a. the general content in accordance with Article 12 letter a and Annex 1 section 1; b. the designation of Swiss COVID-19 certificate with data minimisation; c. the expiry date. 4 The period of validity of the certificate with data minimisation shall correspond to the shortest period of validity of COVID-19 test certificates in accordance with Annex 4; however, it shall end in any case when the underlying certificate expires. Inserted by No I of the O of 30 June 2021, in force since 12 July 2021 ( AS 2021 410 )."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Verification app",
+      "content": "1 The FOITT shall provide one or more software programs that can be installed on mobile telephones or similar devices and used for the electronic verification of the authenticity, integrity, validity and compliance with the access categories in accordance with Annex 6 of COVID-19 certificates, including certificates with data minimisation, and corresponding foreign certificates. 2 The following principles apply to the software programs: a. They shall verify the authenticity, integrity and validity of COVID-19 certificates without transmitting or storing personal data. b. They shall verify foreign certificates according to the rules applicable to COVID-19 certificates. c. They shall issue the result of the verification solely in the following form: 1. an indication that verification was successful (green background) or unsuccessful (red background) or not possible (orange background) and, if applicable, information on the reasons for the failure of verification; 2. information in accordance with Annex 1 that allows the certificate to be assigned to the holder; 3. information on the compliance of the certificate with the access categories in accordance with Annex 6. d. They can verify the authenticity, integrity and validity of the certificates without being connected to the internet at the time of verification; however, the verification of validity requires an updated list from the system for retrieving revoked certificates, which requires an internet connection. e. The FOITT shall publish the source code and technical specifications for the software programs it makes available. 3 Any person who is shown a certificate for verification may not retain it or the information read from it or use it for any purpose other than verification. The foregoing does not apply to storing information on the period of validity of certificates at facilities that may only be accessed by persons who have personal authorisation for repeated access. The data subject must be appropriately informed about the nature and extent of the data processing and must expressly consent to that processing. Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 ). Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 ). Inserted by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 ). Amended by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ( AS 2021 653 )."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Access to the systems for issuing COVID-19 certificates and for retrieving revoked COVID-19 certificates",
+      "content": "1 Users shall log on to the system for issuing COVID-19 certificates via the Federal Administration's central access and authorisation system for web applications. The provisions of the Ordinance of 19 October 2016 on Federal Identity Management Systems and Directory Services (IAMO) apply. 2 The FOITT may go beyond Article 21 of the IAMO and connect other external IAM systems to the Confederation's IAM systems, provided these allow for secure identification. 3 It may deny or revoke access especially in the event of concerns about ICT security. SR 172.010.59"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Federal body responsible",
+      "content": "The FOITT is the federal body responsible under the data protection legislation for: a. the implementation of the necessary technical and organisational measures for the systems it operates; b. the apps it makes available."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "",
+      "content": "1 The Confederation shall bear the costs of the procurement and operation of the information systems, and of the provision of the apps. 2 It shall not collect any fees for the use of the systems and apps. Amended by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ( AS 2021 592 )."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Section 9 Final Provisions",
+      "section": "33",
+      "title": "Updating Annexes 1 to 4",
+      "content": "In consultation with the FDF and the FDFA, the FDHA shall update Annexes 1 to 4 in accordance with the internationally harmonised standards in order to achieve interoperability with the certificates of as many states and regions as possible and international recognition of the certificates issued in accordance with this Ordinance. Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ( AS 2022 20 )."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Section 9 Final Provisions",
+      "section": "34",
+      "title": "Conclusion of international treaties in connection with the development and implementation of the EU Digital COVID Certificate",
+      "content": "The FDHA shall be responsible for concluding international treaties for the adoption of delegated and implementing acts issued by the European Commission for the development and technical implementation of the EU Digital COVID Certificate."
+    },
+    {
+      "provision_ref": "art34a",
+      "chapter": "Section 9 Final Provisions",
+      "section": "34a",
+      "title": "34 a Transitional provision to the Amendment of 16 February 2022",
+      "content": "1 The following certificates retain their current validity: a. COVID-19 vaccination certificates under Article 15 paragraph 3 in its version of 3 November 2021; b. COVID-19 recovery certificates under Article 16 paragraph 1 letter b in its version of 19 January 2022; c. COVID-19 recovery certificates under Article 16 paragraph 3 in its version of 3 November 2021; d. COVID-19 exemption certificates under Article 21 a in its version of 3 November 2021. 2 No electronically signed certificates shall be delivered to foreign systems under Article 25 letter a for COVID-19-certificates in accordance with paragraph 1; they shall contain a reference to their related limited validity. 3 Requests under the previous law to be issued with a COVID-19 certificate in accordance with paragraph 1 shall be processed until 0.00 on 21 February 2022. No refund of fees shall be made for requests that are submitted via the system in accordance with Article 26 a . 4 The provisions of Sections 2 and 8, with the exception of Articles 2, 8 and 11, also apply to COVID-19 certificates in accordance with paragraph 1. Inserted by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ( AS 2022 99 ). AS 2021 653 Correction of 14 Apr. 2022 ( AS 2022 239 ). AS 2022 20 AS 2021 653 AS 2021 653 , 813"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 7 June 2021 at 00.00 and applies until 31 December 2022."
+    }
+  ],
+  "definitions": []
+}

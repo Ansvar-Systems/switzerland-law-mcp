@@ -1,0 +1,187 @@
+{
+  "id": "sr-672-933-6",
+  "type": "statute",
+  "title": "Bundesgesetz vom 27. September 2013 über die Umsetzung des FATCA-Abkommens zwischen der Schweiz und den Vereinigten Staaten (FATCA-Gesetz)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/314/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Dieses Gesetz regelt die Umsetzung des FATCA-Abkommens, insbesondere: a. die Pflichten schweizerischer Finanzinstitute gegenüber dem Internal Revenue Service (IRS) der Vereinigten Staaten von Amerika; b. den Informationsaustausch zwischen der Eidgenössischen Steuerverwaltung (ESTV) und dem IRS; c. die Erhebung einer Quellensteuer; d. die Strafen für Widerhandlungen gegen das FATCA-Abkommen und dieses Gesetz."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Anwendbares Recht",
+      "content": "1 Die Pflichten der schweizerischen Finanzinstitute gegenüber dem IRS richten sich nach dem anwendbaren US-Recht, sofern das FATCA-Abkommen keine ausdrücklich abweichenden Bestimmungen vorsieht. 2 Die Sorgfaltspflichten der schweizerischen Finanzinstitute richten sich nach Anhang I des FATCA-Abkommens. Hat ein schweizerisches Finanzinstitut die Anwendung des in den anwendbaren Ausführungsbestimmungen des US-Finanzministeriums beschriebenen Verfahrens gewählt, so richten sich seine Sorgfaltspflichten danach. 3 Schweizerische Finanzinstitute können anstelle der Definitionen des FATCA-Abkommens entsprechende Definitionen der anwendbaren Ausführungsbestimmungen des US-Finanzministeriums anwenden. Der Abkommenszweck darf durch diese Anwendung nicht beeinträchtigt werden. Die Ausführungsbestimmungen des US-Finanzministeriums können unter www.irs.gov eingesehen werden."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "1 Die in diesem Gesetz verwendeten Begriffe sind im Sinne des FATCA-Abkommens zu verstehen; dies betrifft namentlich die folgenden, in Artikel 2 Absatz 1 des FATCA-Abkommens definierten Begriffe: a. Finanzinstitut (Ziff. 7); b. schweizerisches Finanzinstitut (Ziff. 13); c. rapportierendes schweizerisches Finanzinstitut (Ziff. 15); d. nichtteilnehmendes Finanzinstitut (Ziff. 17); e. ausländischer meldepflichtiger Betrag (Ziff. 8); f. neues Konto (Ziff. 19); g. US-Konto (Ziff. 20); h. FFI-Vertrag (Ziff. 23); i. US-Person (Ziff. 26); j. US-TIN (Ziff. 31). 2 Macht ein schweizerisches Finanzinstitut von seiner Wahlmöglichkeit nach Artikel 2 Absatz 2 oder 3 Gebrauch, so sind die von der Wahl betroffenen und in diesem Gesetz verwendeten Begriffe im Sinne der Definitionen in den anwendbaren Ausführungsbestimmungen des US-Finanzministeriums zu verstehen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Pflichten",
+      "section": "4",
+      "title": "Registrierungspflicht",
+      "content": "1 Schweizerische Finanzinstitute müssen sich beim IRS registrieren lassen. 2 Von der Registrierungspflicht ausgenommen sind schweizerische Finanzinstitute: a. nach Anhang II Absätze I und II.B des FATCA-Abkommens; b. die aufgrund des anwendbaren US-Rechts als befreite Nutzungsberechtigte oder als FATCA-konform erachtete Finanzinstitute ohne Registrierungspflicht behandelt werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Pflichten",
+      "section": "5",
+      "title": "Verpflichtungen aus einem FFI-Vertrag",
+      "content": "1 Die beim IRS registrierten schweizerischen Finanzinstitute müssen die Verpflichtungen aus einem in Artikel 3 Absatz 1 Buchstabe a des FATCA-Abkommens vorgesehenen FFI-Vertrag in Bezug auf ihren gesamten Kundenstamm erfüllen. 2 Die schweizerischen Finanzinstitute nach Anhang II Absätze II.A.2 und II.C des FATCA-Abkommens müssen die Verpflichtungen in Bezug auf die von ihnen geführten Konten nur erfüllen, wenn nicht sichergestellt ist, dass ein anderes Finanzinstitut diesen Verpflichtungen nachkommt. 3 Die schweizerischen Finanzinstitute nach Anhang II Absatz II.A.1 des FATCA-Abkommens müssen nach den Buchstaben f–h von Anhang II Absatz II.A.1 die Verpflichtungen in Bezug auf die von ihnen geführten Konten erfüllen, die von nicht in der Schweiz ansässigen natürlichen Personen oder von Unternehmen gehalten werden."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Pflichten",
+      "section": "6",
+      "title": "Befreite Nutzungsberechtigte, befreite Konten und Produkte",
+      "content": "Bei Konten und Produkten von befreiten Nutzungsberechtigten nach Anhang II Absatz I und bei befreiten Konten und Produkten nach Anhang II Absatz III des FATCA-Abkommens beschränken sich die Pflichten auf die Feststellung, dass diese Konten und Produkte vom Anwendungsbereich von FATCA ausgenommen sind."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Pflichten",
+      "section": "7",
+      "title": "Identifikationspflicht",
+      "content": "Die rapportierenden schweizerischen Finanzinstitute müssen die von ihnen geführten US-Konten nach Anhang I des FATCA-Abkommens identifizieren."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Pflichten",
+      "section": "8",
+      "title": "Nachweis der fehlenden Qualifikation als US-Person",
+      "content": "1 Verlangt ein rapportierendes schweizerisches Finanzinstitut von einer Kontoinhaberin oder einem Kontoinhaber eine Zustimmung zur Meldung der Kontodaten nach Artikel 3 Absatz 1 Buchstabe b des FATCA-Abkommens, so kann die Kontoinhaberin oder der Kontoinhaber vom Finanzinstitut eine Kopie der Unterlagen verlangen, die zur Feststellung führten, dass es sich bei ihr oder ihm um eine US-Person handelt. 2 Die Kontoinhaberin oder der Kontoinhaber kann unter Einreichung der nach Anhang I Absatz II.B.4 des FATCA-Abkommens erforderlichen Nachweise geltend machen, sie oder er sei keine US-Person. Bestätigen dies die eingereichten Nachweise, so vermerkt das rapportierende schweizerische Finanzinstitut dies in den Kontounterlagen und informiert die Kontoinhaberin oder den Kontoinhaber darüber."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Pflichten",
+      "section": "9",
+      "title": "Eröffnung eines neuen Kontos oder Eingang einer neuen Verpflichtung",
+      "content": "1 Ein rapportierendes schweizerisches Finanzinstitut darf ein neues US-Konto nur eröffnen, wenn die Kontoinhaberin oder der Kontoinhaber der Meldung der Kontodaten an den IRS nach Artikel 3 Absatz 1 Buchstabe c des FATCA-Abkommens zustimmt. Gibt ihm die Kontoinhaberin oder der Kontoinhaber nicht innert 90 Tagen nach der Kontoeröffnung die US-TIN, so schliesst es das Konto. 2 Erwartet das rapportierende schweizerische Finanzinstitut im Zusammenhang mit einem neuen Konto für ein nichtteilnehmendes Finanzinstitut oder mit einer Verpflichtung gegenüber einem solchen Institut, einen ausländischen meldepflichtigen Betrag zu zahlen, so muss es die Zustimmung dieses Finanzinstituts zur Meldung an den IRS einholen, bevor es das neue Konto eröffnet oder die Verpflichtung eingeht."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Meldepflicht",
+      "content": "1 Das rapportierende schweizerische Finanzinstitut meldet dem IRS betreffend US‑Konten jährlich: a. die Kontodaten der US-Personen, deren Zustimmung vorliegt, nach den anwendbaren Ausführungsbestimmungen des US-Finanzministeriums; b. die Anzahl und das Gesamtvermögen aller US-Konten, für die keine Zustimmung des Inhabers oder der Inhaberin vorliegt, bis zum 31. Januar des Folgejahres. 2 Es meldet dem IRS nach Artikel 3 Absatz 2 des FATCA-Abkommens betreffend nichtteilnehmende Finanzinstitute für die Jahre 2015 und 2016: a. die Kontodaten der nichtteilnehmenden Finanzinstitute, deren Zustimmung vorliegt, nach den anwendbaren Ausführungsbestimmungen des US‑Finanzministeriums; b. die Anzahl der nichtteilnehmenden Finanzinstitute, von denen keine Zustimmungserklärung vorliegt und an die während des Jahres ausländische meldepflichtige Beträge bezahlt wurden, sowie den Gesamtbetrag dieser Zahlungen jeweils bis zum 31. Januar des Folgejahres."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Informationsaustausch",
+      "section": "11",
+      "title": "Gruppenersuchen",
+      "content": "Die ESTV nimmt die Gruppenersuchen entgegen, die der IRS aufgrund der Meldungen nach Artikel 10 Absatz 1 Buchstabe b oder Absatz 2 Buchstabe b stellt."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Informationsaustausch",
+      "section": "12",
+      "title": "Verfahren",
+      "content": "1 Unmittelbar nach Eingang eines Gruppenersuchens macht die ESTV gleichzeitig im Bundesblatt und auf ihrer Internetseite bekannt, dass: a. das Gruppenersuchen eingegangen ist; b. für jedes vom Gruppenersuchen betroffene Konto eine Schlussverfügung erlassen wird; c. jede betroffene Kontoinhaberin oder jeder betroffene Kontoinhaber innert 20 Tagen nach der Bekanntmachung bei der ESTV ihre beziehungsweise seine Stellungnahme zur beabsichtigten Übermittlung der sie betreffenden Daten an den IRS einreichen kann. 2 Gleichzeitig ersucht die ESTV das rapportierende schweizerische Finanzinstitut, ihr innert 10 Tagen separat zu übermitteln: a. die meldepflichtigen Daten in elektronischer Form; b. die Unterlagen, die es ihr gestatten zu überprüfen, ob es sich um ein meldepflichtiges Konto handelt. 3 Für die Schlussverfügung und das Beschwerdeverfahren gilt Artikel 5 Absatz 3 Buchstabe b des FATCA-Abkommens."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Informationsaustausch",
+      "section": "13",
+      "title": "Übermittlung der Daten",
+      "content": "1 Wird die Schlussverfügung rechtskräftig oder wird sie durch einen Beschwerdeentscheid ganz oder in Bezug auf die Übergabe der Daten bestätigt, so übermittelt die ESTV dem IRS die ersuchten Kontodaten. Die Unterlagen, die es der ESTV gestatten, den US-Status der Kontoinhaberin oder des Kontoinhabers und die Nutzungsberechtigung zu überprüfen, werden nicht übermittelt. 2 Die ESTV weist den IRS auf die Einschränkung der Verwendbarkeit der übermittelten Informationen sowie auf die Geheimhaltungspflicht nach Artikel 26 des Abkommens vom 2. Oktober 1996 zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen hin. 3 Sie informiert den IRS über die Anzahl Fälle, in denen keine Amtshilfe gewährt wird. SR 0.672.933.61"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Abschnitt: Informationsaustausch",
+      "section": "14",
+      "title": "Verfahren bei nachrichtenlosen Vermögenswerten",
+      "content": "1 Handelt es sich beim US-Konto um nachrichtenlose Vermögenswerte nach Artikel 37 l Absatz 4 des Bankengesetzes vom 8. November 1934, so hat das rapportierende schweizerische Finanzinstitut in den Unterlagen, die es der ESTV gestatten, den US-Status der Kontoinhaberin oder des Kontoinhabers und die Nutzungsberechtigung zu überprüfen, auf diesen Status hinzuweisen. 2 Die ESTV erlässt in diesem Fall keine Schlussverfügung. 3 Sie übermittelt dem IRS die ersuchten Kontodaten innert acht Monaten nach Eingang des Ersuchens. 4 Sie informiert den IRS über die Anzahl Fälle, in denen keine Amtshilfe gewährt wird. SR 952.0"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Anwendbares Recht",
+      "content": "Soweit das FATCA-Abkommen und dieses Gesetz keine abweichenden Bestimmungen enthalten, gilt für den Informationsaustausch das Steueramtshilfegesetz vom 28. September 2012. SR 672.5"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Quellensteuer",
+      "section": "16",
+      "title": "Erhebung",
+      "content": "1 Kann die ESTV die mittels Gruppenersuchen verlangten Informationen nicht innerhalb von acht Monaten nach Eingang des Ersuchens übermitteln, so orientiert sie das rapportierende schweizerische Finanzinstitut darüber. Sie informiert es so rasch wie möglich über das Datum der Informationsübermittlung. 2 Das rapportierende schweizerische Finanzinstitut erhebt auf den dem Konto gutgeschriebenen Einkünften die Quellensteuern nach Artikel 7 Absatz 2 des FATCA-Abkommens. 3 Es überweist dem IRS die in einem Kalenderjahr erhobenen Quellensteuern jährlich gemäss dem anwendbaren US-Recht."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Quellensteuer",
+      "section": "17",
+      "title": "Überwälzung",
+      "content": "Die nach Artikel 7 Absatz 2 des FATCA-Abkommens erhobenen Quellensteuern sind von der Kontoinhaberin oder vom Kontoinhaber zu tragen. Sie können dem Konto belastet werden."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Strafbestimmungen",
+      "section": "18",
+      "title": "Pflichtverletzungen",
+      "content": "1 Mit Busse bis zu 250 000 Franken wird bestraft, wer vorsätzlich folgende Pflichten verletzt: a. die Registrierungspflicht nach Artikel 4; b. die Verpflichtungen aus einem FFI-Vertrag nach Artikel 5; c. die Identifikationspflicht nach Artikel 7; d. die Meldepflichten nach den Artikeln 8–10; oder e. die Pflicht zur Erhebung der Quellensteuern nach Artikel 16. 2 Wer fahrlässig handelt, wird mit Busse bis zu 100 000 Franken bestraft. 3 Fällt eine Busse von höchstens 50 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht (VStrR) strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die angedrohte Strafe unverhältnismässig wären, so kann von einer Verfolgung dieser Personen abgesehen und an ihrer Stelle der Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilt werden. SR 313.0"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Strafbestimmungen",
+      "section": "19",
+      "title": "Unterlassung von Dokumentationspflichten",
+      "content": "1 Mit Busse bis zu 20 000 Franken wird bestraft, wer es vorsätzlich unterlässt: a. von der Inhaberin oder vom Inhaber eines US-Kontos die Zustimmung zur Meldung von Kontodaten und die Bekanntgabe der US-TIN zu verlangen; oder b. von einem nichtteilnehmenden Finanzinstitut die Zustimmung zur Meldung von Kontodaten zu verlangen. 2 Wer fahrlässig handelt, wird mit Busse bis zu 10 000 Franken bestraft."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "5. Abschnitt: Strafbestimmungen",
+      "section": "20",
+      "title": "Ordnungswidrigkeiten",
+      "content": "Mit Busse bis zu 5000 Franken wird bestraft, wer: a. Ausführungsbestimmungen zuwiderhandelt, soweit ein Erlass die Übertretung dieser Vorschriften für strafbar erklärt; oder b. gegen eine an sie oder ihn gerichtete Verfügung verstösst, die auf die Strafandrohung dieses Artikels hinweist."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "5. Abschnitt: Strafbestimmungen",
+      "section": "21",
+      "title": "Verfahren und zuständige Behörde",
+      "content": "1 Bei Straftaten nach diesem Gesetz ist das VStrR anwendbar. 2 Verfolgende und urteilende Behörde ist die ESTV. SR 313.0"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Abschnitt: Strafbestimmungen",
+      "section": "22",
+      "title": "Verzicht auf Strafverfolgung",
+      "content": "Die ESTV kann von der Strafverfolgung absehen, wenn die Straftat bereits von einer amerikanischen Behörde verfolgt oder die Verfolgung an eine solche abgetreten wird."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "23",
+      "title": "Ausführungsbestimmungen",
+      "content": "Der Bundesrat erlässt die Ausführungsbestimmungen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "24",
+      "title": "Übergangsbestimmungen betreffend die Meldepflichten",
+      "content": "Der Bundesrat legt die Übergangsbestimmungen betreffend die Meldepflichten fest."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "25",
+      "title": "Referendum und Inkrafttreten",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 30. Juni 2014 BRB vom 6. Juni 2014"
+    }
+  ],
+  "definitions": []
+}

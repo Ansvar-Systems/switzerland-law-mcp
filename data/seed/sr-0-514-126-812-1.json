@@ -1,0 +1,80 @@
+{
+  "id": "sr-0-514-126-812-1",
+  "type": "statute",
+  "title": "Umsetzungsvereinbarung vom 23. Juni 2022 zwischen der Europäischen Verteidigungsagentur (EVA) und dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport der Schweizerischen Eidgenossenschaft über den Schutz klassifizierter Informationen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2022/402/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Zuständige Sicherheitsbehörden",
+      "content": "1. Die für die Umsetzung dieser Vereinbarung zuständigen Sicherheitsbehörden sind: (a) für das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS): [tab] Digitalisierung und Cybersicherheit VBS (DCS VBS); (b) für die Europäische Verteidigungsagentur (EVA): [tab] Corporate Services Directorate [tab] Security and Infrastructure Unit. 2. Die Vertragsparteien informieren einander gegenseitig über jegliche Änderung hinsichtlich ihrer zuständigen Sicherheitsbehörde. 3. Die Vertragsparteien ergreifen geeignete Massnahmen zur gemeinsamen Koordination aller Anforderungen und Abläufe bei der Umsetzung der vorliegenden Vereinbarung."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Klassifizierungssystem und Urheberkennzeichnung",
+      "content": "1. Sämtliche von den Vertragsparteien bereitgestellten klassifizierten Informationen werden gemäss den Sicherheitsvorschriften der bereitstellenden Vertragspartei mit einer Klassifizierungsstufe gekennzeichnet. 2. Die Klassifizierungsstufen der Vertragsparteien gelten wie folgt als gleichwertig: EVA SCHWEIZ RESTREINT UE/EU RESTRICTED INTERN/INTERNE/AD USO INTERNO CONFIDENTIEL UE/EU CONFIDENTIAL VERTRAULICH/CONFIDENTIEL/ CONFIDENZIALE SECRET UE/EU SECRET GEHEIM/SECRET/SEGRETO 3. Zur Kennzeichnung des Urhebers der Informationen und namentlich zur Festlegung von dessen Rechten weisen klassifizierte Informationen der EVA zusätzlich neben oder unter jeder Angabe der EU-Klassifizierungsstufe die Urheberkennzeichnung «EVA» auf. 4. Zusätzlich zur Kennzeichnung der Klassifizierungsstufe nach Artikel 2 Absatz 2 weisen klassifizierte Informationen einer Vertragspartei, die der anderen Vertragspartei bereitgestellt werden, eine ausdrückliche Weitergabekennzeichnung auf: SECRET UE/EU SECRET RELEASABLE TO SWITZERLAND GEHEIM/SECRET/SEGRETO RELEASABLE TO EDA Die Weitergabekennzeichnung kann mit weiteren Angaben zur Beschränkung des Zugangs oder der Weiterverteilung ergänzt werden, soweit vom Urheber als notwendig erachtet."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Personensicherheitsbescheinigung und Zugangsgewährung",
+      "content": "1. Der Zugang zu klassifizierten Informationen wird nur Personen gewährt, die das Kriterium «Kenntnis nur, wenn nötig» erfüllen. Zusätzlich müssen Personen, die aufgrund ihrer Funktion Zugang zu als CONFIDENTIEL UE/EU CONFIDENTIAL oder VERTRAULICH / CONFIDENTIEL / CONFIDENZIALE oder SECRET UE/EU SECRET oder GEHEIM / SECRET / SEGRETO klassifizierten Informationen benötigen, zur Erfüllung des Kriteriums «Kenntnis nur, wenn nötig» über eine gültige, nach den Bestimmungen der jeweiligen Sicherheitsvorschriften der Vertragsparteien ausgestellte Personensicherheitsbescheinigung (PSC) verfügen. 2. Sämtliche Personen, die Zugang zu klassifizierten Informationen benötigen, müssen über die Sicherheitsvorschriften in Bezug auf die Klassifizierung der Informationen, zu denen sie Zugang erhalten sollen, informiert worden sein, bevor ihnen Zugang zu solchen Informationen gewährt wird. Sie bestätigen schriftlich, dass sie über die geltenden Sicherheitsvorschriften und darüber, dass jegliche Verletzung der Sicherheitsvorschriften disziplinarische Massnahmen und/oder weitere rechtliche Folgen gemäss den geltenden Gesetzen und Vorschriften nach sich ziehen können, aufgeklärt worden sind."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Schutz von klassifizierten Informationen",
+      "content": "1. Diese Vereinbarung gilt für klassifizierte Informationen, die von den Vertragsparteien bereitgestellt oder zwischen den Vertragsparteien ausgetauscht werden. 2. Jede Vertragspartei schützt und sichert klassifizierte Informationen im Sinne dieser Vereinbarung, die von der jeweils anderen Vertragspartei bereitgestellt oder ausgetauscht werden. 3. Die empfangende Vertragspartei schützt und sichert die klassifizierten Informationen der anderen Vertragspartei gemäss den Bestimmungen ihrer eigenen Sicherheitsvorschriften für Informationen mit einer entsprechenden Klassifizierungsstufe, wie in Artikel 2 Absatz 2 ausgeführt. 4. Klassifizierte Informationen, die im Rahmen dieser Vereinbarung ausgetauscht werden, werden nur für die vom Urheber bestimmten Zwecke und nur zu den Zwecken, zu denen die Informationen bereitgestellt oder ausgetauscht werden, verwendet. 5. Die Vertragsparteien geben klassifizierte Informationen im Sinne dieser Vereinbarung nicht ohne vorherige schriftliche Zustimmung des Urhebers an Dritte weiter."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Registraturen und Kontrolle von klassifizierten Informationen",
+      "content": "1. Für den Empfang, die Verteilung, die Kontrolle und die Aufbewahrung von als CONFIDENTIEL UE/UE CONFIDENTIAL oder VERTRAULICH/CONFIDENTIEL/CONFIDENZIALE oder höher klassifizierten Informationen gemäss den jeweiligen Vorschriften der Vertragsparteien wird ein Registratursystem eingerichtet. 2. Die Vertragsparteien informieren einander gegenseitig über die Registraturen, die zum Empfang und zur Handhabung von im Rahmen dieser Vereinbarung ausgetauschten klassifizierten Informationen befugt sind, und gewährleisten, dass diese Registraturen ein gleichwertiges Schutzniveau bieten. 3. Die Registraturen sind zuständig für: (a) die Verteilung und die Kontrolle klassifizierter Informationen; (b) die Aufbewahrung klassifizierter Informationen; und (c) die endgültige Vernichtung und/oder Herabstufung und/oder Entklassifizierung von klassifizierten Informationen gemäss den Anweisungen des Urhebers, einschliesslich der Aufbewahrung von Vernichtungsbescheinigungen für als CONFIDENTIEL UE/UE CONFIDENTIAL oder VERTRAULICH/CONFIDENTIEL/CONFIDENZIALE oder höher klassifizierte Informationen der Schweiz oder der EVA. 4. Die zuständigen Sicherheitsbehörden sind für die Einsetzung und die Überwachung der Registraturen innerhalb ihrer jeweiligen Verwaltung zuständig und informieren einander gegenseitig über die Einrichtung oder Schliessung von Registraturen, die klassifizierte Informationen der anderen Vertragspartei aufbewahren."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Übermittlung klassifizierter Informationen zwischen den Vertragsparteien",
+      "content": "1. Als RESTREINT UE/EU RESTRICTED oder INTERN/INTERNE/AD USO INTERNO klassifizierte Informationen können als Handgepäck, durch Postdienste, private Kurierdienste oder auf elektronischem Weg unter Verwendung von kryptografischen Produkten, die von den zuständigen Sicherheitsbehörden nach Artikel 1 gemeinsam vereinbart wurden, zwischen den Vertragsparteien übermittelt werden. 2. Die Übermittlung von als CONFIDENTIEL UE/UE CONFIDENTIAL oder VERTRAULICH/CONFIDENTIEL/CONFIDENZIALE klassifizierten Informationen zwischen den Vertragsparteien erfolgt durch diplomatischen Kurier, als Handgepäck durch Kuriere, die einer Sicherheitsüberprüfung unterzogen worden sind und einen Kurierausweis der zuständigen Sicherheitsbehörde der übermittelnden Vertragspartei erhalten haben, oder durch private Kurierdienste, die gemäss den Sicherheitsvorschriften der übermittelnden Vertragspartei zugelassen worden sind. 3. Als CONFIDENTIEL UE/UE CONFIDENTIAL oder VERTRAULICH / CONFIDENTIEL / CONFIDENZIALE oder höher klassifizierte Informationen werden nicht auf elektronischem Weg zwischen den Vertragsparteien übermittelt, ausser wenn dies von ihnen gemeinsam vereinbart und spezifische Übermittlungs- und Informationssicherheitsmassnahmen getroffen wurden, einschliesslich der Verwendung von zwischen den zuständigen Sicherheitsbehörden vereinbarten Verschlüsselungsprodukten. 4. Die Übermittlung von als SECRET UE/EU SECRET oder GEHEIM / SECRET / SEGRETO klassifizierten Informationen zwischen den Vertragsparteien mittels beauftragter Kuriere wird im Einzelfall festgelegt."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Besuche",
+      "content": "1. Für die Zwecke dieser Vereinbarung und unabhängig der Bewertungsbesuche erlauben die Vertragsparteien Besuche von Vertreterinnen und Vertretern der anderen Vertragspartei oder ihrer Auftragnehmer zu ihren Einrichtungen, vorbehältlich der geltenden Sicherheitsvorschriften der gastgebenden Vertragspartei. 2. Für Besuche mit Zugang zu als CONFIDENTIEL UE/UE CONFIDENTIAL oder VERTRAULICH/CONFIDENTIEL/CONFIDENZIALE oder höher klassifizierten Informationen oder für Besuche, bei denen die Besucherinnen und Besucher Zugang zu solchen Informationen haben könnten, wird der gastgebenden Vertragspartei oder anderen von der gastgebenden Vertragspartei bezeichneten Behörden mittels Antragsformular ein Besuchsantrag gestellt."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Klassifizierte Verträge",
+      "content": "1. Von der anderen Vertragspartei erhaltene klassifizierte Informationen können einem Auftragnehmer oder potenziellen Auftragnehmer nur bereitgestellt werden, wenn die vorgängige schriftliche Zustimmung der bereitstellenden Vertragspartei vorliegt und, gemäss deren Sicherheitsvorschriften, ein angemessenes Sicherheitsabkommen oder eine angemessene Sicherheitsvereinbarung zwischen der bereitstellenden Vertragspartei und dem Staat besteht, in dem der Auftragnehmer registriert ist. 2. Vor der Bereitstellung von als CONFIDENTIEL UE/UE CONFIDENTIAL oder VERTRAULICH/CONFIDENTIEL/CONFIDENZIALE oder höher klassifizierten Informationen an einen Auftragnehmer oder potenziellen Auftragnehmer stellt die empfangende Vertragspartei gemäss den geltenden Regeln und Vorschriften sicher, dass dieser über eine angemessene Betriebssicherheitserklärung verfügt. 3. Bei Abschluss eines unter diese Vereinbarung fallenden Vertrags informiert die empfangende Vertragspartei die bereitstellende Vertragspartei über den Vertragsabschluss. Die vertragsspezifischen Sicherheitsanforderungen werden in einer Geheimschutzklausel (Security Aspects Letter, SAL) oder gegebenenfalls einer Sicherheitsanweisung für ein Programm/Projekt (Programme/Project Security Instructions, PSI) beschrieben."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Verletzung von Sicherheitsbestimmungen, Verlust oder Kompromittierung von klassifizierten Informationen",
+      "content": "1. Wird bekannt oder besteht berechtigter Grund zur Annahme, dass von der anderen Vertragspartei erhaltene klassifizierte Informationen kompromittiert worden oder verloren gegangen sind, muss die Vertragspartei, bei der sich der Vorfall ereignet hat: (a) die bereitstellende Vertragspartei so rasch wie möglich in einem ersten Bericht oder einer ersten Mitteilung darüber informieren, dass klassifizierte Informationen kompromittiert worden oder verloren gegangen sind; (b) eine detaillierte Untersuchung durchführen, um den Sachverhalt zu ermitteln; (c) der bereitstellenden Vertragspartei einen umfassenden schriftlichen Untersuchungsbericht mit den Einzelheiten zu den Umständen, den Ergebnissen der Untersuchung und den Massnahmen, die getroffen wurden oder werden, um die Wiederholung eines solchen Vorfalls zu verhindern, zukommen lassen. 2. Diese Berichte werden den zuständigen Sicherheitsbehörden nach Artikel 1 zugestellt. 3. Jede tatsächliche oder vermutete Verletzung der Sicherheitsbestimmungen durch Einzelpersonen kann disziplinarische Massnahmen und/oder weitere rechtliche Folgen gemäss geltendem Recht, den geltenden Regelungen und sonstigen Vorschriften nach sich ziehen."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Kontakt und Bewertungsbesuche",
+      "content": "1. Die zuständigen Sicherheitsbehörden stehen in ständiger Verbindung, um die Weitergabe und den Austausch von klassifizierten Informationen zwischen den Vertragsparteien zu überwachen. Sie kommen nach gemeinsamer Vereinbarung zusammen, um Angelegenheiten von beiderseitigem Interesse zu diskutieren und zu prüfen sowie die Umsetzung dieser Vereinbarung zu bewerten. 2. Das Security Office der EVA und der Bereich Digitalisierung und Cybersicherheit des VBS erleichtern die Durchführung von gegenseitigen Bewertungsbesuchen im Sinne von Anhang VI Ziffer 9 des Beschlusses 2013/488/EU des Rates, die der Überprüfung dienen, dass die bereitgestellten klassifizierten Informationen der anderen Vertragspartei auf angemessene Weise gehandhabt und geschützt werden. Solche Besuche erfordern die gegenseitige vorgängige Zustimmung der Vertragsparteien."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "11 Schlussbestimmungen, Überprüfung und Änderung",
+      "content": "1. Diese Vereinbarung tritt am Tag der letzten Unterschrift in Kraft. 2. Diese Vereinbarung kann auf Ersuchen einer der Vertragsparteien überprüft und in gegenseitigem schriftlichem Einvernehmen der Vertragsparteien geändert werden. 3. Jede Vertragspartei kann diese Vereinbarung unter Einhaltung einer sechsmonatigen Kündigungsfrist durch schriftliche Notifikation an die andere Vertragspartei kündigen. Ungeachtet der Beendigung dieser Vereinbarung werden alle unter der vorliegenden Vereinbarung ausgetauschten oder erstellten klassifizierten Informationen weiterhin so lange wie notwendig im Sinne der Vereinbarung gehandhabt und geschützt. 4. Streitigkeiten über die Auslegung oder die Umsetzung dieser Vereinbarung werden durch Verhandlung zwischen den Vertragsparteien, auf möglichst niedriger Stufe, beigelegt und werden weder an ein nationales oder internationales Gericht noch an eine Drittpartei zur Beilegung weitergezogen. Unterschrieben in Brüssel am 23. Juni 2022, in zwei Urschriften in englischer und deutscher Sprache. Im Falle unterschiedlicher Auslegung ist der englische Wortlaut massgebend. Für das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport der Schweizerischen Eidgenossenschaft: Roger Michlig Für die Europäische Verteidigungsagentur: Olli Ruutu"
+    }
+  ],
+  "definitions": []
+}

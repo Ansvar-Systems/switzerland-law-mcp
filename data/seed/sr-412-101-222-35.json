@@ -1,0 +1,180 @@
+{
+  "id": "sr-412-101-222-35",
+  "type": "statute",
+  "title": "Verordnung des SBFI vom 14. Mai 2021 über die berufliche Grundbildung Betriebsinformatikerin/Betriebsinformatiker mit eidgenössischem Fähigkeitszeugnis (EFZ)",
+  "title_en": "",
+  "short_name": "EFZ",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2021/302/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Gegenstand und Dauer",
+      "section": "1",
+      "title": "Berufsbild",
+      "content": "1 Betriebsinformatikerinnen und -informatiker auf Stufe EFZ beherrschen namentlich die folgenden Tätigkeiten und zeichnen sich durch folgende Kenntnisse, Fähigkeiten und Haltungen aus: a. Sie nehmen neue Geräte der Informations- und Kommunikationstechnologie (ICT) in Betrieb und führen neue Applikationen im Betrieb ein. b. Sie überwachen die Server und das Netz des eigenen Betriebs und stellen deren Funktion sicher. c. Sie instruieren und unterstützen Benutzerinnen und Benutzer im Umgang mit ICT-Mitteln, gehen Problemen nach und lösen diese. d. Sie vermitteln mit hoher Sozialkompetenz zwischen Benutzerinnen und Benutzern und spezialisierten ICT-Fachpersonen. e. Sie entwickeln Applikationen für den Einsatz im Betrieb. f. Sie arbeiten projektorientiert mit Standardprozessen und -methoden."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Gegenstand und Dauer",
+      "section": "2",
+      "title": "Dauer und Beginn",
+      "content": "1 Die berufliche Grundbildung dauert vier Jahre. 2 Der Beginn der beruflichen Grundbildung richtet sich nach dem Schuljahr der zuständigen Berufsfachschule."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Ziele und Anforderungen",
+      "section": "3",
+      "title": "Grundsätze",
+      "content": "1 Die Ziele und die Anforderungen der beruflichen Grundbildung werden in Form von Handlungskompetenzen, gruppiert nach Handlungskompetenzbereichen, festgelegt. 2 Die Handlungskompetenzen umfassen Fach-, Methoden-, Sozial- und Selbstkompetenzen. Sie werden im Bildungsplan (Art. 9) je nach Lernort folgendermassen ausgeführt: a. für die Bildung in beruflicher Praxis: als Leistungsziele; b. für die schulische Bildung: 1. im Unterrichtsbereich «erweiterte Grundkompetenzen»: als Leistungsziele, 2. im Unterrichtsbereich «Informatikkompetenzen»: als Module; c. für die überbetrieblichen Kurse: als Module. 3 Der Inhalt der Module wird im Modulbaukasten von «ICT-Berufsbildung Schweiz» ausgeführt. Im Bildungsplan wird festgelegt, welche Module zu welchem Zeitpunkt in der schulischen Bildung und den überbetrieblichen Kursen vermittelt werden. 4 Beim Aufbau der Handlungskompetenzen arbeiten alle Lernorte zusammen. Sie koordinieren die Inhalte der Ausbildung und der Qualifikationsverfahren. www.ict-berufsbildung.ch > Berufsbildung > ICT Competence Framework"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Ziele und Anforderungen",
+      "section": "4",
+      "title": "Handlungskompetenzen",
+      "content": "Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachstehenden Handlungskompetenzen: a. Inbetriebnahme von ICT-Geräten: 1. Benutzerendgeräte auswählen und in Betrieb nehmen, 2. mobile Benutzerendgeräte einrichten und über das Firmennetz synchronisieren, 3. Peripheriegeräte anschliessen und konfigurieren; b. Inbetriebnahme von Serverdiensten und Netzen: 1. Serversysteme in Betrieb nehmen, 2. Netze und deren Topologie einrichten, 3. Datensicherungs-, Systemsicherungs- und Archivierungskonzepte erstellen und umsetzen; c. Sicherstellen des ICT-Betriebs: 1. Netze unterhalten und weiterentwickeln, 2. Server unterhalten und administrieren, 3. Verzeichnisdienste und Freigaben planen und in Betrieb nehmen, 4. Kommunikationsdienste und Dienste zur Unterstützung der Arbeit in einer Gruppe (Groupware) in Betrieb nehmen und konfigurieren; d. Unterstützen der Benutzerinnen und Benutzer: 1. Benutzerinnen und Benutzer im Umgang mit Informatikmitteln instruieren und unterstützen, 2. Supportaufgaben mit Kundenkontakt übernehmen und Probleme vor Ort lösen; e. Entwickeln von Applikationen unter Berücksichtigung von Qualitätsmerkmalen: 1. Testkonzepte erstellen, unterschiedliche Testvorgehen einsetzen und Applikationen systematisch testen, 2. Applikationen unter Anwendung geeigneter Vorgehensmodelle benutzergerecht entwickeln und dokumentieren, 3. Benutzerschnittstellen für Applikationen gemäss den Kundenbedürfnissen entwerfen und implementieren, 4. Datenmodelle in einer Datenbank umsetzen, 5. aus Applikationen auf Daten mit geeigneten Sprachmitteln zugreifen; f. Arbeiten in Projekten: 1. Arbeiten und Aufträge systematisch und effizient vorbereiten, strukturieren, durchführen und dokumentieren, 2. in Projekten mitarbeiten, 3. in Projekten zielgerichtet und den jeweiligen Personen angepasst kommunizieren."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz",
+      "section": "5",
+      "title": "",
+      "content": "1 Die Anbieter der Bildung geben den Lernenden zu Beginn und während der Bildung Vorschriften und Empfehlungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz, insbesondere zur Gefahrenkommunikation (Gefahrensymbole, Piktogramme, Gebotszeichen) in diesen drei Bereichen, ab und erklären sie ihnen. 2 Diese Vorschriften und Empfehlungen werden an allen Lernorten vermittelt und in den Qualifikationsverfahren berücksichtigt. 3 Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache",
+      "section": "6",
+      "title": "Bildung in beruflicher Praxis im Betrieb und an vergleichbaren Lernorten",
+      "content": "1 Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der beruflichen Grundbildung im Durchschnitt 3,25 Tage pro Woche. 2 In einer schulisch organisierten Grundbildung wird die Bildung in beruflicher Praxis in integrierten Praxisteilen oder in betrieblichen Praktika vermittelt. Sie dauert gesamthaft 220 Tage."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache",
+      "section": "7",
+      "title": "Berufsfachschule",
+      "content": "1 Der obligatorische Unterricht an der Berufsfachschule umfasst 2360 Lektionen. Diese teilen sich gemäss nachfolgender Tabelle auf: Unterricht 1. Lehrjahr 2. Lehrjahr 3. Lehrjahr 4. Lehrjahr Total a. Berufskenntnisse – erweiterte Grundkompetenzen 160 160 200 80 600 – Informatikkompetenzen 320 320 280 80 1000 Total Berufskenntnisse 480 480 480 160 1600 b. Allgemeinbildung 120 120 120 120 480 c. Sport 80 80 80 40 280 Total Lektionen 680 680 680 320 2360 2 Der Unterricht im Unterrichtsbereich «erweiterte Grundkompetenzen» umfasst folgende Themen mit nachstehender Lektionenzahl: a. Mathematik: 120 Lektionen; b. Naturwissenschaften: 120 Lektionen; c. Wirtschaft und Recht: 160 Lektionen; d. Englisch: 200 Lektionen. 3 Der Unterricht im Unterrichtsbereich «Informatikkompetenzen» ist in 25 Module zu je 40 Lektionen unterteilt. 4 Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein. 5 Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006 über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung. 6 Unterrichtssprache ist die Landessprache des Schulortes. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen. 7 Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen. SR 412.101.241"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Überbetriebliche Kurse",
+      "content": "1 Die überbetrieblichen Kurse umfassen 35 Tage zu 8 Stunden. 2 Die Tage sind auf 7 Kurse zu je 5 Tagen unterteilt. Jeder Kurs entspricht einem Modul. 3 Im letzten Semester der beruflichen Grundbildung dürfen keine überbetrieblichen Kurse stattfinden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "5. Abschnitt: Bildungsplan",
+      "section": "9",
+      "title": "",
+      "content": "1 Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan der zuständigen Organisation der Arbeitswelt vor. 2 Der Bildungsplan hat folgenden Inhalt: a. Er enthält das Qualifikationsprofil; dieses besteht aus: 1. dem Berufsbild; 2. der Übersicht über die Handlungskompetenzbereiche und die Handlungskompetenzen; 3. dem Anforderungsniveau des Berufes. b. Er führt die Inhalte der Grundbildung sowie die Bestimmungen zur Arbeitssicherheit, zum Gesundheitsschutz und zum Umweltschutz aus. c. Er bestimmt, an welchen Lernorten welche Handlungskompetenzen vermittelt und gelernt werden. 3 Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle. Der Bildungsplan vom 14. Mai 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch > Berufe A–Z."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb und Höchstzahl der Lernenden im Betrieb",
+      "section": "10",
+      "title": "Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner",
+      "content": "Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt: a. Betriebsinformatikerin oder -informatiker EFZ mit mindestens zwei Jahren beruflicher Praxis im Lehrgebiet; b. Informatikerin oder Informatiker EFZ mit Fachrichtung Betriebsinformatik und mit mindestens zwei Jahren beruflicher Praxis im Lehrgebiet; c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Betriebsinformatikerin und des Betriebsinformatikers EFZ und mit mindestens fünf Jahren beruflicher Praxis im Lehrgebiet; d. einschlägiger Abschluss der höheren Berufsbildung; e. einschlägiger Hochschulabschluss mit mindestens zwei Jahren beruflicher Praxis im Lehrgebiet."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb und Höchstzahl der Lernenden im Betrieb",
+      "section": "11",
+      "title": "Höchstzahl der Lernenden",
+      "content": "1 Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 100 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden. 2 Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden. 3 Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis oder über eine gleichwertige Qualifikation verfügt. 4 In Betrieben, die nur eine lernende Person ausbilden dürfen, kann eine zweite lernende Person ihre Bildung beginnen, wenn die erste in das letzte Jahr der beruflichen Grundbildung eintritt. 5 In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen",
+      "section": "12",
+      "title": "Lerndokumentation",
+      "content": "1 Die lernende Person führt während der Bildung in beruflicher Praxis eine Lerndokumentation, in der sie laufend alle wesentlichen Arbeiten im Zusammenhang mit den zu erwerbenden Handlungskompetenzen festhält. 2 Mindestens einmal pro Semester kontrolliert und unterzeichnet die Berufsbildnerin oder der Berufsbildner die Lerndokumentation und bespricht sie mit der lernenden Person."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen",
+      "section": "13",
+      "title": "Bildungsbericht",
+      "content": "1 Die Berufsbildnerin oder der Berufsbildner hält am Ende jedes Semesters den Bildungsstand der lernenden Person in einem Bildungsbericht fest. Sie oder er stützt sich dabei auf die Leistungen in der beruflichen Praxis und auf Rückmeldungen über die Leistungen in der Berufsfachschule und in den überbetrieblichen Kursen. Sie oder er bespricht den Bildungsbericht mit der lernenden Person. 2 Die Berufsbildnerin oder der Berufsbildner und die lernende Person vereinbaren wenn nötig Massnahmen zum Erreichen der Bildungsziele und setzen dafür Fristen. Sie halten die getroffenen Entscheide und vereinbarten Massnahmen schriftlich fest. 3 Die Berufsbildnerin oder der Berufsbildner überprüft die Wirkung der vereinbarten Massnahmen nach der gesetzten Frist und hält den Befund im nächsten Bildungsbericht fest. 4 Werden trotz der vereinbarten Massnahmen die Ziele nicht erreicht oder ist der Ausbildungserfolg gefährdet, so teilt die Berufsbildnerin oder der Berufsbildner dies den Vertragsparteien und der kantonalen Behörde schriftlich mit."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen",
+      "section": "14",
+      "title": "Leistungsdokumentation in der Berufsfachschule",
+      "content": "1 Die Berufsfachschule dokumentiert die Leistungen der lernenden Person in den beiden Unterrichtsbereichen und in der Allgemeinbildung und stellt ihr am Ende jedes Semesters ein Zeugnis aus. 2 Sie bewertet die Leistungen der lernenden Person in den Modulen der Informatikkompetenzen mit halben und ganzen Noten. Diese Noten fliessen ein in die Berechnung der Erfahrungsnote «Informatikkompetenzen». 3 Die Vergleichbarkeit der Leistungsbeurteilungen in den Modulen der Informatikkompetenzen wird durch die Kommission nach Artikel 22 sichergestellt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentationen",
+      "section": "15",
+      "title": "Leistungsdokumentation in den überbetrieblichen Kursen",
+      "content": "1 Der Anbieter der überbetrieblichen Kurse dokumentiert die Leistungen der lernenden Person in Form eines Kompetenznachweises für jeden überbetrieblichen Kurs. 2 Die Kompetenznachweise werden in Noten ausgedrückt. Diese fliessen ein in die Berechnung der Erfahrungsnote «Informatikkompetenzen». 3 Die Vergleichbarkeit der Leistungsbeurteilungen in den überbetrieblichen Kursen wird durch die Kommission nach Artikel 22 sichergestellt."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "8. Abschnitt: Qualifikationsverfahren",
+      "section": "16",
+      "title": "Zulassung",
+      "content": "1 Zu den Qualifikationsverfahren wird zugelassen, wer die berufliche Grundbildung absolviert hat: a. nach den Bestimmungen dieser Verordnung; oder b. in einer vom Kanton dafür anerkannten Bildungsinstitution. 2 Zu einem vom SBFI gemäss Artikel 33 BBG anerkannten Qualifikationsverfahren, das nicht der Abschlussprüfung entspricht, wird zugelassen, wer die berufliche Grundbildung ausserhalb eines geregelten Bildungsganges absolviert hat und: a. die nach Artikel 32 BBV erforderliche Erfahrung erworben hat; b. von dieser beruflichen Erfahrung mindestens drei Jahre im Bereich der Betriebsinformatikerin und des Betriebsinformatikers EFZ erworben hat; und c. glaubhaft macht, den Anforderungen des jeweiligen Qualifikationsverfahrens gewachsen zu sein."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "8. Abschnitt: Qualifikationsverfahren",
+      "section": "17",
+      "title": "Gegenstand",
+      "content": "In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen nach Artikel 4 erworben worden sind."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "8. Abschnitt: Qualifikationsverfahren",
+      "section": "18",
+      "title": "Umfang und Durchführung des Qualifikationsverfahrens mit Abschlussprüfung",
+      "content": "1 Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen in den nachstehenden Qualifikationsbereichen wie folgt geprüft: a. praktische Arbeit, als individuelle praktische Arbeit (IPA) im Umfang von 70–90 Stunden; dafür gilt Folgendes: 1. dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft, 2. die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen, 3. die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden, 4. der Qualifikationsbereich umfasst möglichst alle Handlungskompetenzbereiche und enthält die folgenden Positionen mit den nachstehenden Gewichtungen: Position Beschreibung Gewichtung 1 Ausführung und Resultat der Arbeit 50 % 2 Dokumentation 25 % 3 Präsentation und Fachgespräch 25 % 5. die Präsentation und das Fachgespräch dauern gesamthaft höchstens eine Stunde; b. Allgemeinbildung; der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006 über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung. 2 In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen. SR 412.101.241"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "8. Abschnitt: Qualifikationsverfahren",
+      "section": "19",
+      "title": "Bestehen, Notenberechnung, Notengewichtung",
+      "content": "1 Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn: a. der Qualifikationsbereich «praktische Arbeit» mindestens mit der Note 4 bewertet wird; b. die Erfahrungsnote «Informatikkompetenzen» mindestens 4 beträgt; und c. die Gesamtnote mindestens 4 beträgt. 2 Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der gewichteten Noten der einzelnen Qualifikationsbereiche der Abschlussprüfung und der gewichteten Erfahrungsnoten; dabei gilt folgende Gewichtung: a. praktische Arbeit: 30 %; b. Allgemeinbildung: 20 %; c. Erfahrungsnote «erweiterte Grundkompetenzen»: 20 %; d. Erfahrungsnote «Informatikkompetenzen»: 30 %. 3 Die Erfahrungsnote «erweiterte Grundkompetenzen» ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der acht Semesterzeugnisnoten für den Unterrichtsbereich «erweiterte Grundkompetenzen». 4 Die Erfahrungsnote «Informatikkompetenzen» ist das auf eine Dezimalstelle gerundete Mittel aus der Summe folgender Notenmittel mit den nachstehenden Gewichtungen: a. das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der Noten für die Module des Unterrichtsbereichs «Informatikkompetenzen» in der Berufsfachschule; diese Note wird mit 80 Prozent gewichtet; b. das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der Noten für die überbetrieblichen Kurse; diese Note wird mit 20 Prozent gewichtet."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Wiederholungen",
+      "content": "1 Die Wiederholung des Qualifikationsverfahrens richtet sich nach Artikel 33 BBV. 2 Muss ein Qualifikationsbereich wiederholt werden, so ist er in seiner Gesamtheit zu wiederholen. 3 Wird die Abschlussprüfung ohne erneuten Besuch der «erweiterten Grundkompetenzen» in der Berufsfachschule wiederholt, so wird die bisherige Erfahrungsnote beibehalten. Wird der Unterricht während mindestens zwei Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote «erweiterte Grundkompetenzen» nur die neuen Noten. 4 Bei einer ungenügenden Erfahrungsnote «Informatikkompetenzen» gelten für die Wiederholung die folgenden Bestimmungen: a. Ist das Mittel aus der Summe der Noten für die Module der Informatikkompetenzen in der Berufsfachschule ungenügend, so müssen alle mit einer ungenügenden Note bewerteten Module wiederholt werden; die genügenden Noten werden beibehalten. b. Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so werden die bisherigen Noten beibehalten; werden die letzten zwei bewerteten überbetrieblichen Kurse wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "9. Abschnitt: Ausweise und Titel",
+      "section": "21",
+      "title": "",
+      "content": "1 Wer ein Qualifikationsverfahren erfolgreich durchlaufen hat, erhält das eidgenössische Fähigkeitszeugnis (EFZ). 2 Das Fähigkeitszeugnis berechtigt, den gesetzlich geschützten Titel «Betriebsinformatikerin EFZ» oder «Betriebsinformatiker EFZ» zu führen. 3 Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung erworben worden, so werden im Notenausweis aufgeführt: a. die Gesamtnote; b. die Noten jedes Qualifikationsbereichs der Abschlussprüfung sowie die Erfahrungsnoten «erweiterte Grundkompetenzen» und «Informatikkompetenzen»."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "10. Abschnitt: Qualitätsentwicklung und Organisation",
+      "section": "22",
+      "title": "Schweizerische Kommission für Berufsentwicklung und Qualität für Betriebsinformatikerinnen und -informatiker EFZ",
+      "content": "1 Die Schweizerische Kommission für Berufsentwicklung und Qualität für Betriebsinformatikerinnen und -informatiker EFZ setzt sich zusammen aus: a. fünf bis sieben Vertreterinnen oder Vertretern von «ICT-Berufsbildung Schweiz»; b. zwei Vertreterinnen oder Vertretern der Fachlehrerschaft; c. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone. 2 Für die Zusammensetzung gilt überdies: a. Eine paritätische Vertretung beider Geschlechter ist anzustreben. b. Die Sprachregionen müssen gebührend vertreten sein. 3 Die Kommission konstituiert sich selbst. 4 Sie hat insbesondere folgende Aufgaben: a. Sie überprüft diese Verordnung und den Bildungsplan mindestens alle fünf Jahre auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen; dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung. b. Beobachtet sie Entwicklungen, die eine Änderung dieser Verordnung erfordern, so ersucht sie die zuständige Organisation der Arbeitswelt, dem SBFI die entsprechende Änderung zu beantragen. c. Beobachtet sie Entwicklungen, die eine Anpassung des Bildungsplans erfordern, so stellt sie der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans. d. Sie nimmt Stellung zu den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung. e. Sie stellt die Vergleichbarkeit der Leistungsbeurteilungen für die Module der Informatikkompetenzen in den Berufsfachschulen und in den überbetrieblichen Kursen sicher; die dadurch entstehenden Kosten gelten als Kosten der Qualifikationsverfahren und werden von den Kantonen getragen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "10. Abschnitt: Qualitätsentwicklung und Organisation",
+      "section": "23",
+      "title": "Trägerschaft und Organisation der überbetrieblichen Kurse",
+      "content": "1 Träger für die überbetrieblichen Kurse ist «ICT-Berufsbildung Schweiz». 2 Die Kantone können die Durchführung der überbetrieblichen Kurse unter Mitwirkung der zuständigen Organisationen der Arbeitswelt einer anderen Trägerschaft übertragen, namentlich wenn die Qualität oder die Durchführung der überbetrieblichen Kurse nicht mehr gewährleistet ist. 3 Sie regeln mit der Trägerschaft die Organisation und die Durchführung der überbetrieblichen Kurse. 4 Die zuständigen Behörden der Kantone haben jederzeit Zutritt zu den Kursen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "11. Abschnitt: Inkrafttreten",
+      "section": "24",
+      "title": "",
+      "content": "1 Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Juli 2021 in Kraft. 2 Die Artikel 16–21 treten am 1. Januar 2025 in Kraft."
+    }
+  ],
+  "definitions": []
+}

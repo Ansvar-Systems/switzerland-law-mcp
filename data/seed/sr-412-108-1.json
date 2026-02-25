@@ -1,0 +1,208 @@
+{
+  "id": "sr-412-108-1",
+  "type": "statute",
+  "title": "Verordnung vom 15. September 2017 über die Informationssysteme im Berufsbildungs- und im Hochschulbereich (IBH-V)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/574/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Gegenstand",
+      "section": "1",
+      "title": "1",
+      "content": "1 Diese Verordnung regelt die Bearbeitung von Daten in den folgenden Informationssystemen des Staatssekretariats für Bildung, Forschung und Innnovation (SBFI): a. Informationssystem gemäss Artikel 56 b BBG für Beiträge nach Artikel 56 a BBG an Absolventinnen und Absolventen von Kursen, die auf eidgenössische Berufsprüfungen oder eidgenössische höhere Fachprüfungen vorbereiten (vorbereitende Kurse); b. Informationssystem für die Liste der vorbereitenden Kurse nach Artikel 66 g der Berufsbildungsverordnung vom 19. November 2003 (BBV) (Liste der vorbereitenden Kurse); c. Informationssystem für die Anerkennung ausländischer Diplome und Ausweise (Fachanwendung Diplomanerkennung); d. Informationssystem für das Verzeichnis der geschützten Titel der beruflichen Grundbildung und der höheren Berufsbildung (Berufsverzeichnis) nach Artikel 38 Absatz 1 BBV; e. Informationssystem für Stipendien an ausländische Forschende und Kunstschaffende in der Schweiz. 2 Die Informationssysteme gemäss Absatz 1 Buchstaben a–d sind Subsysteme des zentralen Systems «BerufsbildungsCompetenz-Center (BeCC)». SR 412.101 Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3225 ). Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3225 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "2. Abschnitt: Informationssystem für Beiträge an Absolventinnen und Absolventen von vorbereitenden Kursen",
+      "section": "2",
+      "title": "Zweck",
+      "content": "Das SBFI führt ein Informationssystem: a. zur Kontrolle der Zahlung von Beiträgen nach Artikel 56 a BBG an Absolventinnen und Absolventen von vorbereitenden Kursen; b. zur Erstellung und Auswertung von Statistiken über die Zahlung von Beiträgen nach Buchstabe a."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Informationssystem für Beiträge an Absolventinnen und Absolventen von vorbereitenden Kursen",
+      "section": "3",
+      "title": "Daten",
+      "content": "Im Informationssystem werden folgende Daten bearbeitet: a. Angaben zur Person: 1. Name, Vorname, 2. Wohnadresse, steuerlicher Wohnsitz, E-Mail-Adresse und Telefonnummer, 3. Geburtsdatum, Geschlecht und Heimatort, 4. AHV-Nummer, 5. Bildungsabschlüsse, 6. Anzahl Jahre einschlägige Berufserfahrung, 7. Bankverbindung; b. Angaben zu den vorbereitenden Kursen: 1. besuchte Kurse mit Kursnummer, 2. Anbieter; c. Dokumente zum Gesuch: 1. Verfügung über das Bestehen oder Nichtbestehen der absolvierten Prüfung gemäss Artikel 66 b Buchstabe d BBV, 2. Bestätigung der von der Absolventin oder dem Absolventen bezahlten anrechenbaren Kursgebühren gemäss Artikel 66 b Buchstabe c BBV, 3. Bestätigung des steuerlichen Wohnsitzes in der Schweiz gemäss Artikel 66 c Buchstabe a BBV, 4. bei Anträgen auf Teilbeiträge gemäss Artikel 66 d BBV: – Steuerveranlagung der direkten Bundessteuer der Antragstellerin oder des Antragstellers gemäss Artikel 66 d Absatz 1 Buchstabe e BBV, – Verpflichtung gemäss Artikel 66 d Absatz 1 Buchstabe b BBV; d. Subventionsentscheid. SR 412.101"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Informationssystem für Beiträge an Absolventinnen und Absolventen von vorbereitenden Kursen",
+      "section": "4",
+      "title": "Datenbearbeitung",
+      "content": "Die Daten im Informationssystem werden bearbeitet durch: a. die Absolventinnen und Absolventen von vorbereitenden Kursen über das Online-Meldesystem auf der Internetplattform des SBFI: zur Erfassung der Daten gemäss Artikel 3 Buchstabe a, b und c; b. die mit entsprechenden Vollzugsaufgaben betrauten Mitarbeiterinnen und Mitarbeiter des SBFI."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Informationssystem für Beiträge an Absolventinnen und Absolventen von vorbereitenden Kursen",
+      "section": "5",
+      "title": "Weitergabe der Daten an andere Behörden",
+      "content": "Den folgenden Behörden dürfen die nachstehenden Daten aus dem Informationssystem weitergegeben werden: a. dem Bundesamt für Statistik: Geburtsdatum, Geschlecht, AHV-Nummer, steuerlicher Wohnsitz, E-Mail-Adresse, Bildungsabschlüsse, Anzahl Jahre einschlägige Berufserfahrung, besuchte Kurse mit Kursnummer, Anbieter, anrechenbare Kursgebühr, absolvierte Prüfung, Beitragsgewährung vor oder nach Prüfungsantritt, Höhe der gewährten Beiträge. b. den kantonalen Steuerbehörden: Name, Vorname, Adresse, Geburtsdatum, AHV-Nummer, steuerlicher Wohnsitz und Heimatort der Absolventinnen und Absolventen sowie Höhe der gewährten Beiträge."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Informationssystem für Beiträge an Absolventinnen und Absolventen von vorbereitenden Kursen",
+      "section": "6",
+      "title": "Aufbewahrung",
+      "content": "1 Die Verfügung über das Bestehen oder Nichtbestehen der Prüfung, der Subventionsentscheid und die AHV-Nummer werden zur Kontrolle der Ausschöpfung der Obergrenze der anrechenbaren Kursgebühren gemäss Artikel 66 f Absatz 2 BBV 25 Jahre aufbewahrt. 2 Die restlichen Daten werden 10 Jahre nach erfolgter Auszahlung anonymisiert oder gelöscht. Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung. SR 412.101"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Informationssystem für die Liste der vorbereitenden Kurse",
+      "section": "7",
+      "title": "Zweck",
+      "content": "Das SBFI führt ein Informationssystem für die Liste der vorbereitenden Kurse gemäss Artikel 66 g BBV. SR 412.101"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Informationssystem für die Liste der vorbereitenden Kurse",
+      "section": "8",
+      "title": "Daten",
+      "content": "Im Informationssystem werden folgende Daten der Anbieter vorbereitender Kurse bearbeitet: a. Name, Adresse, Kontaktperson, E-Mail-Adresse, Homepage; b. Nachweis des Sitzes in der Schweiz; c. Firmennummer (Unternehmensidentifikationsnummer UID) oder Handelsregisternummer; d. angebotene vorbereitende Kurse; e. allgemeine Geschäftsbedingungen; f. Entscheid über die Aufnahme eines Kurses in die Liste, die Streichung eines Kurses aus der Liste oder die Sperre eines Anbieters."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Informationssystem für die Liste der vorbereitenden Kurse",
+      "section": "9",
+      "title": "Datenbearbeitung",
+      "content": "Die Daten im Informationssystem werden bearbeitet durch: a. die Anbieter von vorbereitenden Kursen über das Online-Meldesystem auf der Internetplattform des SBFI: zur Erfassung und Nachführung der Daten gemäss Artikel 8 Buchstabe a–d und zur jährlichen Bestätigung der Kurse, die fortgeführt werden sollen; b. die mit entsprechenden Vollzugsaufgaben betrauten Mitarbeiterinnen und Mitarbeiter des SBFI."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Informationssystem für die Liste der vorbereitenden Kurse",
+      "section": "10",
+      "title": "Weitergabe der Daten an andere Bundesstellen",
+      "content": "Dem Bundesamt für Statistik dürfen Name, Adresse, Firmen-Nummer (Unternehmensidentifikationsnummer UID) oder Handelsregisternummer der Anbieter sowie deren Angaben zu den vorbereitenden Kursen weitergegeben werden."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Informationssystem für die Liste der vorbereitenden Kurse",
+      "section": "11",
+      "title": "Aufbewahrung",
+      "content": "Die Daten werden zur Qualitätssicherung der auf eine eidgenössische Prüfung vorbereitenden Kurse in der Schweiz sowie zur deren historischer Betrachtung 25 Jahre aufbewahrt und danach gelöscht. Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Informationssystem für die Fachanwendung Diplomanerkennung",
+      "section": "12",
+      "title": "Zweck",
+      "content": "Das SBFI führt ein Informationssystem: a. zur Abwicklung von Gesuchen um Anerkennungen oder Niveaubestätigungen ausländischer Diplome und Ausweise nach den folgenden Bestimmungen: 1. Anhang III des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit, 2. Anhang K Anlage 3 des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA), 3. Artikel 68 Absatz 1 BBG im Berufsbildungsbereich, 4. Artikel 70 HFKG im Hochschulbereich; b. zur Erstellung und Auswertung von Statistiken über Tätigkeiten nach Buchstabe a. SR 0.142.112.681 SR 0.632.31 Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3225 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Informationssystem für die Fachanwendung Diplomanerkennung",
+      "section": "13",
+      "title": "Daten",
+      "content": "Im Informationssystem werden folgende Daten bearbeitet: a. Angaben zur Person: 1. Anrede, Name, Vorname, Geburtsname, 2. Adresse, Wohnsitz, E-Mail-Adresse, Telefonnummer, Postfach, 3. Geburtsdatum, Heimatort, Nationalität, 4. Muttersprache, Sprachkenntnisse, 5. schulischer und beruflicher Werdegang; b. Dokumente zum Gesuch: 1. Abschlüsse/Diplome/Qualifikationen sowie Schulen/Ausbildungsstellen, 2. Kopie der Aufenthaltsbewilligung, Kopie des Passes, 3. Tätigkeitsnachweise der vormaligen Arbeitgeber; c. Name und Adresse der vormaligen Arbeitgeber; d. Anerkennungsentscheid, Anerkennungsentscheid mit Ausgleichsmassnahmen, Anerkennungsempfehlung, Niveaubestätigung."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Informationssystem für die Fachanwendung Diplomanerkennung",
+      "section": "14",
+      "title": "Datenbearbeitung",
+      "content": "Die Daten im Informationssystem werden bearbeitet durch: a. die Gesuchstellerinnen und Gesuchsteller über das Online-Meldesystem auf der Internetplattform des SBFI: zur Erfassung und Nachführung der Daten gemäss Artikel 13; b. die mit entsprechenden Vollzugsaufgaben betrauten Mitarbeiterinnen und Mitarbeiter des SBFI; c. die Mitarbeiterinnen und Mitarbeiter der Rektorenkonferenz der schweizerischen Hochschulen, die Gesuche für die Ausübung nicht reglementierter Berufe mit Hochschulabschluss bearbeiten; d. die Mitarbeiterinnen und Mitarbeiter der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK), die Gesuche um Anerkennung ausländischer Lehrdiplome und Diplome in Sonderpädagogik, Logopädie und Psychomotoriktherapie bearbeiten. Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3225 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Informationssystem für die Fachanwendung Diplomanerkennung",
+      "section": "15",
+      "title": "Aufbewahrung",
+      "content": "1 Der positive Entscheid des SBFI wird für die Erstellung eines Duplikats für den Gesuchsteller oder die Gesuchstellerin 50 Jahre aufbewahrt. 2 Die übrigen Gesuchsdaten werden 15 Jahre nach dem Entscheid anonymisiert oder gelöscht. Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Informationssystem für das Berufsverzeichnis",
+      "section": "16",
+      "title": "Zweck",
+      "content": "Das SBFI betreibt ein Informationssystem für das Berufsverzeichnis nach Artikel 38 Absatz 1 BBV. SR 412.101"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Informationssystem für das Berufsverzeichnis",
+      "section": "17",
+      "title": "Daten",
+      "content": "Im Informationssystem werden folgende Daten bearbeitet: a. Titel mit der Berufsnummer; b. Angaben zu den einem Titel zugeordneten Partner der Berufsbildung: 1. Name, 2. Adresse, Telefonnummer, E-Mail-Adresse, Internetadresse."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Informationssystem für das Berufsverzeichnis",
+      "section": "18",
+      "title": "Datenbearbeitung",
+      "content": "Die Daten im Informationssystem werden durch die mit entsprechenden Vollzugsaufgaben betrauten Mitarbeiterinnen und Mitarbeiter des SBFI bearbeitet."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Informationssystem für das Berufsverzeichnis",
+      "section": "19",
+      "title": "Aufbewahrung",
+      "content": "Die Daten dienen der Pflege und historischen Betrachtung der Berufe in der Schweiz und werden nie gelöscht."
+    },
+    {
+      "provision_ref": "art19a",
+      "chapter": "16",
+      "section": "19a",
+      "title": "a Zweck",
+      "content": "Das SBFI führt ein Informationssystem: a. zur Eingabe von Gesuchen um Gewährung und Verlängerung von Stipendien an ausländische Forschende und Kunstschaffende nach dem Bundesgesetz vom 19. Juni 1987 über Stipendien an ausländische Studierende und Kunstschaffende in der Schweiz, zur Prüfung und Begutachtung dieser Gesuche und zum Entscheid über diese Gesuche; b. zur Verwaltung der Stipendien; c. zur Erstellung und Auswertung von Statistiken über die Tätigkeit nach den Buchstaben a und b."
+    },
+    {
+      "provision_ref": "art19b",
+      "chapter": "16",
+      "section": "19b",
+      "title": "b Daten",
+      "content": "1 Im Informationssystem werden Daten bearbeitet: a. zur Gesuchstellerin oder zum Gesuchsteller; b. zur betreuenden Professorin oder zum betreuenden Professor im Herkunftsland (Referenzperson); c. zur betreuenden Professorin oder zum betreuenden Professor in der Schweiz; d. zum Forschungsprojekt oder zu den Werkproben; e. zur Beurteilung des Gesuchs. 2 Über die Gesuchstellerin und den Gesuchsteller werden folgende Daten bearbeitet: a. Angaben zur Person: 1. Name, Vorname, akademischer Titel, Fotografie, Passnummer, Zivilstand, Anzahl Kinder, Arbeitgeber, 2. Adresse, Wohnsitz, E-Mail-Adresse, Telefonnummer, Kontaktperson, Krankenkasse, 3. Geschlecht, Geburtsdatum, Nationalität, 4. Muttersprache, Sprachkenntnisse, 5. schulischer und beruflicher Werdegang, Bildungsabschlüsse, Forschungsaufenthalte, Auslandaufenthalte, andere Ausbildungsbeiträge, 6. Zukunftspläne; b. Dokumente: 1. Kopien der Zeugnisse, Zertifikate und Diplome, 2. Motivationsschreiben, 3. Unterstützungsschreiben der Referenzperson, (fachliche und persönliche Beschreibung der Gesuchstellerin oder des Gesuchstellers, Beschreibung des Forschungsfelds und der Bedeutung für die Hochschule beziehungsweise Beschreibung der Werkprobe und der Bedeutung für die Laufbahn des Kunstschaffenden), 4. Forschungsprojekt bei Gesuchen um Wissenschaftsstipendien beziehungsweise Werkprobe bei Gesuchen um Kunststipendien, 5. Bewertung und Kommentar der Gutachterin und des Gutachters: – bei Forschenden: betreffend die wissenschaftliche Qualität, Originalität, Methodologie und Durchführbarkeit des Projekts sowie die Eignung des gewählten Hochschulinstituts – bei Kunstschaffenden: Bewertung und Kommentar der Gutachterin und des Gutachters betreffend Originalität, Potential und Qualität der Werkproben, 6. Kommentar der entsprechenden schweizerischen diplomatischen Vertretung im EDA-Aussennetz. 3 Über die betreuende Professorin oder den betreuenden Professor in der Schweiz werden folgende Angaben zur Person bearbeitet: a. Name, Vorname, akademischer Titel, E-Mail-Adresse; b. Arbeitgeber, Adresse. 4 Über die Referenzperson werden folgende Angaben zur Person bearbeitet: a. Name, Vorname, akademischer Titel, E-Mail-Adresse; b. Arbeitgeber, Adresse; c. Verhältnis zur Gesuchstellerin oder zum Gesuchsteller."
+    },
+    {
+      "provision_ref": "art19c",
+      "chapter": "16",
+      "section": "19c",
+      "title": "c Datenbearbeitung",
+      "content": "Die Daten im Informationssystem werden bearbeitet durch: a. die Gesuchstellerinnen und Gesuchsteller über das Online-Meldesystem auf der Internetplattform des SBFI zur Erfassung und Nachführung der Gesuchsdaten gemäss Artikel 19 b ; b. die mit den entsprechenden Vollzugsaufgaben betrauten Mitarbeiterinnen und Mitarbeiter der schweizerischen diplomatischen Vertretungen im EDA-Aussennetz; c. die mit den entsprechenden Vollzugsaufgaben betrauten Mitarbeiterinnen und Mitarbeiter des Bundesamts für Kultur zur Prüfung der Gesuche um Gewährung und Verlängerung von Kunststipendien über das Online-Begutachtungssystem; d. die mit der Prüfung, Begutachtung und Auswahl von Stipendiengesuchen betrauten Mitglieder der Eidgenössischen Stipendienkommission für ausländische Studierende über das Online-Begutachtungssystem; e. die mit den entsprechenden Vollzugsaufgaben betrauten Mitarbeiterinnen und Mitarbeiter der schweizerischen Hochschulen; f. die mit den entsprechenden Vollzugsaufgaben betrauten Mitarbeiterinnen und Mitarbeiter des SBFI."
+    },
+    {
+      "provision_ref": "art19d",
+      "section": "19d",
+      "title": "d Weitergabe der Daten an andere Behörden",
+      "content": "Den zuständigen kantonalen Migrationsämtern dürfen für die Gesuche um Aufenthaltsbewilligungen der Stipendiatinnen und Stipendiaten folgende Daten einer Gesuchstellerin oder eines Gesuchstellers weitergegeben werden: a. Name, Vorname, akademischer Titel, Passnummer, Zivilstand, Anzahl Kinder; b. Adresse, Wohnsitz, E-Mail-Adresse; c. Geschlecht, Geburtsdatum, Nationalität; d. Muttersprache."
+    },
+    {
+      "provision_ref": "art19e",
+      "section": "19e",
+      "title": "e Aufbewahrung",
+      "content": "1 Der positive Entscheid des SBFI wird für die Erstellung eines Duplikats für die Gesuchstellerin oder den Gesuchsteller 50 Jahre aufbewahrt. 2 Die übrigen Daten werden 15 Jahre nach dem Entscheid anonymisiert oder gelöscht. Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "6. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "20",
+      "title": "Rechte der betroffenen Personen",
+      "content": "Die Rechte der betroffenen Personen, insbesondere das Auskunftsrecht und das Recht auf Berichtigung oder Vernichtung von Daten, richten sich nach dem Bundesgesetz vom 19. Juni 1992 über den Datenschutz und seinen Ausführungsbestimmungen. SR 235.1"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "6. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "21",
+      "title": "Datensicherheit",
+      "content": "1 Die Daten- und Informatiksicherheit richten sich nach dem Bundesgesetz vom 19. Juni 1992 über den Datenschutz und seinen Ausführungsbestimmungen, der Bundesinformatikverordnung vom 9. Dezember 2011 sowie den Weisungen des Bundesrates vom 1. Juli 2015 über die IKT-Sicherheit in der Bundesverwaltung. 2 Das SBFI legt in einem Rollen- und Zugriffskonzept seine interne Organisation, das Datenbearbeitungs- und Kontrollverfahren sowie die einzelnen Sicherheitsmassnahmen fest. 3 Es sorgt dafür, dass die Bestimmungen über die Systemsicherheit Teil der mit Dritten abgeschlossenen Leistungsvereinbarungen sind. SR 235.1 SR 172.010.58 BBl 2015 5795"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "6. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "22",
+      "title": "Erteilung der individuellen Zugriffsberechtigung",
+      "content": "Die individuellen Zugriffsberechtigungen werden gemäss dem Rollen- und Zugriffskonzept erteilt."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "7. Abschnitt: Inkrafttreten",
+      "section": "23",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. Januar 2018 in Kraft."
+    }
+  ],
+  "definitions": []
+}

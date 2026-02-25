@@ -1,0 +1,776 @@
+{
+  "id": "sr-131-224-1",
+  "type": "statute",
+  "title": "Verfassung des Kantons Appenzell A. Rh., vom 30. April 1995",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1996/1_1021_965_841_fga/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Der Kanton Appenzell Ausserrhoden",
+      "content": "1 Der Kanton Appenzell Ausserrhoden ist ein freiheitlicher, demokratischer und sozialer Rechtsstaat. 2 Er ist ein eigenständiger Teil der Schweizerischen Eidgenossenschaft und arbeitet mit dem Bund, mit den anderen Kantonen und mit dem benachbarten Ausland zusammen. 3 Er beteiligt sich aktiv an der Willensbildung im Bund."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Kantonsgebiet",
+      "content": "Der Kanton Appenzell Ausserrhoden besteht aus den Gemeinden Urnäsch, Herisau, Schwellbrunn, Hundwil, Stein, Schönengrund, Waldstatt, Teufen, Bühler, Gais, Speicher, Trogen, Rehetobel, Wald, Grub, Heiden, Wolfhalden, Lutzenberg, Walzenhausen und Reute."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Bürgerrecht",
+      "content": "1 Das Gemeindebürgerrecht ist Grundlage des Landrechts. 2 Erwerb und Verlust des Landrechts und des Gemeindebürgerrechts werden durch das Gesetz geregelt."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Menschenwürde",
+      "content": "Die Würde des Menschen ist zu achten und zu schützen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Rechtsgleichheit, Diskriminierungsverbot",
+      "content": "1 Alle Menschen sind vor dem Gesetze gleich. 2 Niemand darf insbesondere aufgrund seines Geschlechts, seines Alters, seiner Rasse, seiner Hautfarbe, seiner Sprache, seiner Herkunft, seiner politischen, religiösen oder weltanschaulichen Überzeugung, seiner Lebensform oder seiner körperlichen und geistigen Anlagen diskriminiert werden."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Gleichstellung von Mann und Frau",
+      "content": "1 Frau und Mann sind gleichberechtigt. 2 Sie haben das Recht auf gleiche Ausbildung und auf gleichen Lohn für gleichwertige Arbeit sowie auf gleichen Zugang zu öffentlichen Ämtern. 3 Kanton und Gemeinden fördern die tatsächliche Gleichstellung von Mann und Frau. 4 Sie wirken darauf hin, dass öffentliche Aufgaben gemeinsam von Frauen und Männern wahrgenommen werden."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Glaubens- und Gewissensfreiheit",
+      "content": "1 Die Glaubens- und Gewissensfreiheit und ihre Ausübung sind gewährleistet. 2 Niemand darf zu einer religiösen Handlung oder zu einem Bekenntnis gezwungen werden."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Willkürverbot, Treu und Glauben; Rückwirkungsverbot",
+      "content": "1 Der Schutz vor staatlicher Willkür und der Schutz von Treu und Glauben sind gewährleistet. 2 Rückwirkende Erlasse sind nicht zulässig."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Persönliche Freiheit",
+      "content": "1 Die persönliche Freiheit ist gewährleistet. 2 Folter, unmenschliche und erniedrigende Strafen oder Behandlungen sind unzulässig. 3 Jede Person hat ein Recht auf Schutz ihrer Privatsphäre, ihrer Wohnung sowie ihres Brief- und Fernmeldegeheimnisses."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Ehe und Zusammenleben",
+      "content": "1 Das Recht auf Ehe und Familienleben ist geschützt. 2 Die freie Wahl einer anderen Form des gemeinschaftlichen Zusammenlebens ist gewährleistet."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Niederlassungsfreiheit",
+      "content": "Die Niederlassungsfreiheit ist gewährleistet."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Meinungs- und Informationsfreiheit",
+      "content": "1 Jede Person hat das Recht, ihre Meinung frei zu bilden, sie ungehindert zu äussern und in Wort, Schrift, Bild oder in anderer Weise zu verbreiten. 2 Staatliche Kontrolle von Meinungsäusserungen zwecks Einflussnahme auf den Inhalt ist nicht zulässig. 3 Jede Person, die ein berechtigtes Interesse nachweisen kann, hat im Rahmen des Gesetzes das Recht auf Einsicht in amtliche Akten, soweit keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Unterrichts- und Wissenschaftsfreiheit",
+      "content": "1 Die Freiheit von Forschung und Lehre und die Befugnis zu unterrichten sind gewährleistet. 2 Jede in Forschung und Lehre tätige Person ist verpflichtet, ihre Verantwortung gegenüber dem Leben von Menschen, Tieren und Pflanzen sowie deren Lebensgrundlagen wahrzunehmen."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Kunstfreiheit",
+      "content": "Die Freiheit des künstlerischen Ausdrucks ist gewährleistet."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Datenschutz",
+      "content": "1 Jede Person hat das Recht auf Schutz ihrer persönlichen Daten. 2 Sie erhält Auskunft über Daten, die über sie bearbeitet werden und kann verlangen, dass unrichtige Daten berichtigt werden."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Petitionsrecht",
+      "content": "1 Jede Person hat das Recht, Eingaben an Behörden zu richten und dafür Unterschriften zu sammeln. Es dürfen ihr daraus keine Nachteile erwachsen. 2 Die Behörden haben die Pflicht, Petitionen inhaltlich zu prüfen und möglichst rasch zu beantworten."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Vereins- und Versammlungsfreiheit",
+      "content": "1 Die Vereins- und die Versammlungsfreiheit sind gewährleistet. 2 Kundgebungen auf öffentlichem Grund können durch Gesetz oder Gemeindereglement bewilligungspflichtig erklärt werden. Sie sind zu gestatten, wenn ein geordneter Ablauf gesichert und die Beeinträchtigung Dritter zumutbar erscheint."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Eigentumsgarantie",
+      "content": "1 Das Eigentum ist gewährleistet. 2 Bei Enteignungen und Eigentumsbeschränkungen, die einer Enteignung gleichkommen, ist volle Entschädigung zu leisten."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Wirtschaftsfreiheit; Handels- und Gewerbefreiheit",
+      "content": "Die freie Wahl des Berufes, die freie wirtschaftliche Tätigkeit sowie das Recht zu beruflichem und gewerkschaftlichem Zusammenschluss sind gewährleistet."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Justizgrundsätze a. Rechtsschutz",
+      "content": "1 Jede Person hat ein Recht auf unabhängige und unparteiische, vom Gesetz vorgesehene Richter und Richterinnen. 2 Für Minderbemittelte ist der Rechtsschutz unentgeltlich. 3 Jede Person gilt als unschuldig, bis sie in einem gerichtlichen Verfahren rechtskräftig verurteilt ist. Im Zweifel ist zugunsten der Angeschuldigten zu entscheiden. 4 Die Parteien haben in allen Verfahren ein Recht auf Anhörung, auf einen begründeten Entscheid innert angemessener Frist sowie auf eine Rechtsmittelbelehrung."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "b. Garantien beim Freiheitsentzug",
+      "content": "1 Die Freiheit darf einer Person nur in den vom Gesetz vorgeschriebenen Fällen und Formen entzogen werden. 2 Jede Person, der die Freiheit entzogen wurde, muss in einer ihr verständlichen Sprache über die Gründe des Freiheitsentzuges und die ihr zustehenden Rechte informiert werden. Sie hat das Recht, ihre nächsten Angehörigen benachrichtigen zu lassen. 3 Jede in Haft gesetzte und einer Straftat verdächtigte Person muss so rasch wie möglich durch eine richterliche Instanz angehört werden. 4 Jede Person, der die Freiheit entzogen wird, hat das Recht auf einen Rechtsbeistand sowie auf Überprüfung des Freiheitsentzuges in einem raschen und einfachen gerichtlichen Verfahren. 5 Bei ungerechtfertigtem Freiheitsentzug besteht eine Schadenersatz- und allenfalls Genugtuungspflicht des Staates. 6 Der freie Verkehr mit dem Rechtsbeistand darf nur bei Gefahr des Missbrauchs und nur soweit eingeschränkt werden, als das Gesetz es zulässt."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Geltung der Grundrechte",
+      "content": "1 Die Grundrechte sind in der gesamten Rechtsordnung wirksam. 2 Sie gelten auch für Ausländerinnen und Ausländer, sofern das Bundesrecht nichts anderes vorsieht. 3 Urteilsfähige Unmündige können diejenigen Grundrechte, die ihnen um ihrer Persönlichkeit willen zustehen, selbständig geltend machen."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Schranken der Grundrechte",
+      "content": "1 Wer Grundrechte beansprucht, ist verpflichtet, die Grundrechte anderer zu achten. 2 Einschränkungen von Grundrechten sind nur zulässig, wenn sie a. auf einer gesetzlichen Grundlage beruhen, b. einem überwiegenden öffentlichen Interesse entsprechen und c. verhältnismässig sind. 3 Auf die gesetzliche Grundlage einer Grundrechtseinschränkung kann in Fällen ernster, unmittelbarer und offensichtlicher Gefahr vorübergehend verzichtet werden. 4 Der Kerngehalt eines Grundrechtes darf in keinem Fall beeinträchtigt werden."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "a. Sozialrechte",
+      "content": "1 Jede Person hat bei Notlagen, die sie nicht aus eigener Kraft bewältigen kann, Anspruch auf ein Obdach, auf grundlegende medizinische Versorgung sowie auf die für ein menschenwürdiges Leben notwendigen Mittel. 2 Jedes Kind hat Anspruch auf Schutz und Fürsorge sowie auf eine seinen Fähigkeiten entsprechende, unentgeltliche Grundausbildung während der obligatorischen Schulzeit. 3 Opfer schwerer Straftaten haben Anspruch auf Hilfe zur Überwindung ihrer Schwierigkeiten."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "b. Sozialziele",
+      "content": "Kanton und Gemeinden setzen sich in Ergänzung der privaten Initiative und der persönlichen Verantwortung sowie im Rahmen der verfügbaren Mittel zum Ziel, dass a. alle ihren Unterhalt durch Arbeit bestreiten können; b. alle in angemessener Weise wohnen können; c. alle sich gemäss ihren Fähigkeiten und Neigungen bilden und weiterbilden können; d. Eltern vor und nach einer Geburt materiell gesichert sind; e. alle Menschen, die wegen Alters, Gebrechlichkeit, Krankheit oder Behinderung der Hilfe bedürfen, ausreichende Pflege und Unterstützung erhalten."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "",
+      "content": "1 Jede Person trägt Verantwortung für sich selbst sowie Mitverantwortung für die Gemeinschaft und die Erhaltung unserer Lebensgrundlagen für künftige Generationen. 2 Für die Erfüllung gemeinnütziger Aufgaben kann das Gesetz die Bevölkerung zu persönlicher Dienstleistung verpflichten. Anstelle der Realleistung kann eine Ersatzabgabe erhoben werden."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "",
+      "content": "1 Öffentliche Aufgaben sind so zu erfüllen, dass die natürlichen Lebensgrundlagen geschont und erhalten werden; sie orientieren sich an den Bedürfnissen und an der Wohlfahrt aller. 2 Bestehende wie neue Aufgaben sind dauernd daraufhin zu überprüfen, ob sie notwendig und finanzierbar sind sowie wirtschaftlich und zweckmässig erfüllt werden können. 3 Der Kanton erfüllt nur Aufgaben, die nicht ebensogut von den Gemeinden oder von Privaten wahrgenommen werden können. Er fördert private Initiative und persönliche Verantwortung und strebt regionale Zusammenarbeit an."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Öffentliche Ordnung und Sicherheit",
+      "content": "1 Der Kanton gewährleistet die öffentliche Ordnung und Sicherheit. 2 Er trifft Massnahmen für die Bewältigung ausserordentlicher Lagen."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Umwelt- und Naturschutz",
+      "content": "1 Die natürliche Umwelt ist für die gegenwärtigen und künftigen Generationen gesund zu erhalten und wo möglich wieder herzustellen. Sie soll durch staatliche und private Tätigkeiten so wenig wie möglich belastet werden. 2 Kanton und Gemeinden schützen die Tier- und Pflanzenwelt sowie deren Lebensräume in ihrer Vielfalt. 3 Die natürlichen Lebensgrundlagen sollen nur soweit beansprucht werden, als ihre Erneuerungsfähigkeit und ihre Verfügbarkeit weiterhin gewährleistet bleiben. 4 Kanton und Gemeinden können zur Schonung der natürlichen Lebensgrundlagen und zur Einschränkung von Abfällen und Schadstoffen Lenkungsmassnahmen einführen. 5 Sie fördern die Selbstverantwortung und können Organisationen unterstützen, die sich für die Erhaltung der natürlichen Lebensgrundlagen einsetzen. 6 Kosten für Umweltschutzmassnahmen sind in der Regel nach dem Verursacherprinzip zu tragen. 7 Schädliche und lästige Emissionen sollen an der Quelle erfasst, verhindert oder zumindest verringert werden."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Denkmalpflege und Landschaftsschutz",
+      "content": "1 Kanton und Gemeinden treffen Massnahmen zur Erhaltung und Pflege der schützenswerten Landschafts- und Ortsbilder, Kulturgüter und Naturdenkmäler. 2 Sie arbeiten mit privaten Organisationen zusammen und können sich an der Finanzierung beteiligen."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Raumordnung und Bauwesen",
+      "content": "1 Kanton und Gemeinden stellen die geordnete Besiedlung des Landes, die zweckmässige und haushälterische Nutzung des Bodens und den Schutz der Landschaft sicher. 2 Bei der Errichtung von Bauten und Anlagen aller Art ist auf die Umgebung Rücksicht zu nehmen."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Verkehr",
+      "content": "1 Kanton und Gemeinden sorgen für eine umweltschonende und sichere Verkehrsordnung und Erschliessung für alle Verkehrsteilnehmer. 2 Sie fördern die Umlagerung vom individuellen auf den kollektiven Verkehr, soweit dafür wesentliche öffentliche Gesamtinteressen bestehen."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Wasser, Energie, Abfall a. Wasser",
+      "content": "1 Kanton und Gemeinden sichern die Wasserversorgung und setzen sich für eine sparsame Verwendung des Wassers ein. 2 Sie wirken auf eine möglichst geringe Belastung des Wassers hin und sorgen für eine umweltgerechte Reinigung der Abwässer."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "b. Energie",
+      "content": "1 Kanton und Gemeinden fördern die sichere, umweltschonende Versorgung mit Energie und deren sparsame und rationelle Verwendung. 2 Sie fördern insbesondere die Nutzung erneuerbarer Energien."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "c. Abfall",
+      "content": "1 Kanton und Gemeinden treffen Massnahmen zur Verminderung der Abfälle und zu deren Wiederverwertung. 2 Sie sorgen für eine fachgerechte Entsorgung."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Erziehung und Bildung a. Grundsätze",
+      "content": "1 Erziehung und Bildung haben die Aufgabe, die Entwicklung zur selbstverantwortlichen Persönlichkeit, den Willen zur sozialen Gerechtigkeit und die Verantwortung für die Mitwelt zu fördern. 2 Die Schule unterstützt die Eltern bei der Erziehung; sie vermittelt in Verbindung mit ihnen eine den Anlagen und Möglichkeiten der Kinder entsprechende Bildung."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "b. Schule",
+      "content": "1 Kanton und Gemeinden führen öffentliche Kindergärten und Schulen. 2 Sie können Beiträge an Privatschulen leisten. 3 Jeder Person steht es frei, entweder die öffentlichen Schulen oder auf eigene Kosten anerkannte Privatschulen zu besuchen."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "c. Weitere Aufgaben",
+      "content": "1 Kanton und Gemeinden unterstützen die Aus- und Weiterbildung sowie die Erwachsenenbildung. 2 Der Kanton sorgt für den Zugang zu den Universitäten und zu den Hoch- und Fachschulen. 3 Er setzt sich für Zusammenarbeit im Schul- und Bildungswesen ein."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Soziales a. Sozialhilfe",
+      "content": "1 Kanton und Gemeinden unterstützen in Zusammenarbeit mit anderen Organisationen hilfsbedürftige Menschen. 2 Sie sind bestrebt, sozialen Notlagen vorzubeugen und fördern die Vorkehren zur Selbsthilfe. 3 Sie können die Leistungen des Bundes für die soziale Sicherheit ergänzen. 4 Der Kanton beaufsichtigt die Heime."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "b. Arbeit",
+      "content": "1 Kanton und Gemeinden koordinieren und unterstützen die Stellenvermittlung, die berufliche Umschulung sowie die Wiedereingliederung Arbeitsloser. 2 Bei Streitigkeiten zwischen den Sozialpartnern bietet der Kanton seine Hilfe an."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "c. Familie, Jugend und Betagte",
+      "content": "1 Kanton und Gemeinden unterstützen Familien und andere Lebensgemeinschaften mit Kindern in der Erfüllung ihrer Aufgaben; sie können die Schaffung geeigneter Bedingungen für die Betreuung von Kindern unterstützen. 2 Sie nehmen sich in Zusammenarbeit mit anderen Organisationen der Anliegen und Bedürfnisse der Jugend und der Betagten an."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "d. Behinderte",
+      "content": "Kanton und Gemeinden fördern in Zusammenarbeit mit privaten Organisationen die Schulung sowie die berufliche und soziale Eingliederung Behinderter."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Wirtschaftsordnung a. Grundsatz",
+      "content": "1 Kanton und Gemeinden schaffen günstige Rahmenbedingungen für eine vielseitige und ausgewogene wirtschaftliche Entwicklung und setzen sich für die Schaffung und Erhaltung von Arbeitsplätzen ein. 2 Sie können Organisationen unterstützen, welche die wirtschaftliche Entwicklung fördern. 3 Sie sorgen im Rahmen ihrer Möglichkeiten für die Milderung von Wirtschaftskrisen und deren Folgen."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "b. Land- und Forstwirtschaft",
+      "content": "1 Der Kanton trifft Massnahmen zur Förderung einer leistungsfähigen und den topographischen Verhältnissen angepassten Land- und Forstwirtschaft. 2 Er unterstützt insbesondere eigenständige Familienbetriebe, naturnahe Bewirtschaftung und eine breite bäuerliche Grundausbildung. 3 Er gewährleistet die Erhaltung der Wälder in ihrer Schutz-, Nutz- und Erholungsfunktion."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "c. Kantonalbank",
+      "content": "Der Kanton kann sich an einer Bank zur Deckung der Geld- und Kreditbedürfnisse der Bevölkerung und der Wirtschaft im Kanton beteiligen; er kann eine solche Bank auch selbst betreiben."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "d. Versicherung",
+      "content": "1 Der Kanton kann eine Anstalt, die Gebäude, Land und Kulturen gegen Schäden versichert, betreiben oder sich an einer solchen beteiligen. 2 Der Versicherungsschutz für Gebäude und Land ist obligatorisch."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "e. Regalien",
+      "content": "1 Dem Kanton stehen zur ausschliesslichen wirtschaftlichen Nutzung folgende Regalrechte zu: a. Wasserregal, b. Jagd- und Fischereiregal, c. Bergregal, einschliesslich Lagerung von Stoffen im Erdinnern und Nutzung der Erdwärme, d. Salzregal. 2 Er kann das Nutzungsrecht selber ausüben oder es den Gemeinden oder Privaten übertragen. 3 Bestehende private Rechte bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Gesundheitswesen",
+      "content": "1 Kanton und Gemeinden schaffen die Voraussetzungen für eine ausreichende, kostenbewusste medizinische und pflegerische Versorgung der Bevölkerung. 2 Der Kanton fördert die Zusammenarbeit der privaten und öffentlichen Einrichtungen im Kanton und in der Region. 3 Kanton und Gemeinden fördern die Selbstverantwortung; sie unterstützen die Gesundheitsvorsorge und die Gesundheitserziehung und bekämpfen die Suchtgefahren. 4 Kanton und Gemeinden fördern die spitalexterne Kranken- und Gesundheitspflege. 5 Der Kanton beaufsichtigt die öffentlichen und privaten Einrichtungen des Gesundheitswesens, die Gesundheitsberufe und das Heilmittelwesen. 6 Die freie Heiltätigkeit ist gewährleistet."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Kultur, Wissenschaft und Freizeitgestaltung",
+      "content": "1 Kanton und Gemeinden fördern die Kultur. 2 Sie unterstützen die wissenschaftliche Tätigkeit. 3 Sie fördern die sinnvolle Freizeitgestaltung."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "",
+      "content": "Das Stimmrecht in kantonalen Angelegenheiten steht allen Schweizerbürgern und Schweizerbürgerinnen zu, die im Kanton wohnen und das 18. Altersjahr zurückgelegt haben."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "a. Gegenstand, Unterschriftenzahl",
+      "content": "1 Mit einer Volksinitiative können verlangt werden: a. die Totalrevision oder eine Teilrevision der Verfassung, b. der Erlass, die Aufhebung oder Änderung von Gesetzen und von Beschlüssen, die der Volksabstimmung unterstehen. 2 Eine Volksinitiative muss von wenigstens 300 Stimmberechtigten unterzeichnet sein."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "b. Form",
+      "content": "Volksinitiativen können als allgemeine Anregung oder, sofern sie nicht die Totalrevision der Verfassung verlangen, als ausgearbeitete Vorlage eingereicht werden."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "c. Einheitsinitiative",
+      "content": "Soweit mit einer Initiative nicht die Totalrevision oder ausdrücklich eine Teilrevision der Verfassung verlangt wird, entscheidet der Kantonsrat, ob die Vorlage auf Verfassungs- oder Gesetzesstufe auszuarbeiten ist."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "d. Gegenvorschlag; doppeltes Ja",
+      "content": "1 Der Kantonsrat kann Initiativen einen Gegenvorschlag gegenüberstellen. 2 Die Stimmberechtigten können gültig sowohl der Initiative als auch dem Gegenvorschlag zustimmen und entscheiden, welche der beiden Vorlagen sie vorziehen, wenn beide angenommen werden sollten."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "e. Verfahren",
+      "content": "1 Der Regierungsrat entscheidet über das Zustandekommen, der Kantonsrat über die Gültigkeit der Initiativen. 2 Ganz oder teilweise ungültig ist eine Initiative, wenn sie a. dem Grundsatz der Einheit der Materie widerspricht, b. übergeordnetem Recht widerspricht oder c. undurchführbar ist. 3 Volksinitiativen sind möglichst rasch zu behandeln."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "a. Volksdiskussion",
+      "content": "Wer im Kanton wohnt, kann zu Sachvorlagen, die dem obligatorischen oder fakultativen Referendum unterliegen, dem Kantonsrat schriftliche Anträge einreichen und diese nach Massgabe der Geschäftsordnung vor dem Rat persönlich begründen. Angenommen in der Volksabstimmung vom 21. Mai 2000 , in Kraft seit 1. Juni 2000. Gewährleistungsbeschluss vom 20. März 2001 ( BBl 2001 1374 Art. 1 Ziff. 4, 2000 5255 )."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "2",
+      "section": "57",
+      "title": "b. Vernehmlassungen",
+      "content": "1 Bei Verfassungs- und Gesetzesvorlagen sowie bei anderen wichtigen Gegenständen sind die interessierten Kreise zur Vernehmlassung einzuladen. 2 Die Ergebnisse des Vernehmlassungsverfahrens sind zu veröffentlichen."
+    },
+    {
+      "provision_ref": "art5859",
+      "chapter": "7.",
+      "section": "5859",
+      "title": "und 59",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "7.",
+      "section": "60",
+      "title": "",
+      "content": "1 Die Stimmberechtigten entscheiden über: a. die Total- oder Teilrevision der Verfassung; [tab] b. und c. … d. Grundsatzbeschlüsse; e. Ausgaben, welche die Zuständigkeit des Kantonsrates übersteigen; f. … g. Initiativen, denen der Kantonsrat nicht zustimmt oder denen er einen Gegenvorschlag gegenüberstellt; h. Beschlüsse des Kantonsrates, die gemäss Artikel 60 bis dem fakultativen Referendum unterliegen, wenn ein Drittel der anwesenden Mitglieder dies verlangt. 2 Die Stimmberechtigten wählen a. die Mitglieder des Regierungsrates und aus deren Mitte die Person, die das Landammannamt bekleidet; b. die Mitglieder des Obergerichtes; c. den Vertreter oder die Vertreterin des Kantons im Ständerat auf eine Amtsdauer von vier Jahren. Angenommen in der Volksabstimmung vom 21. Mai 2000 , in Kraft seit 1. Juni 2000. Gewährleistungsbeschluss vom 20. März 2001 ( BBl 2001 1374 Art. 1 Ziff. 4, 2000 5255 ). Aufgehoben in der Volksabstimmung vom 21. Mai 2000 , mit Wirkung seit 1. Juni 2000. Gewährleistungsbeschluss vom 20. März 2001 ( BBl 2001 1374 Art. 1 Ziff. 4, 2000 5255 ). Aufgehoben in der Volksabstimmung vom 21. Mai 2000 , mit Wirkung seit 1. Juni 2000. Gewährleistungsbeschluss vom 20. März 2001 ( BBl 2001 1374 Art. 1 Ziff. 4, 2000 5255 ). Angenommen in der Volksabstimmung vom 21. Mai 2000 , in Kraft seit 1. Juni 2000. Gewährleistungsbeschluss vom 20. März 2001 ( BBl 2001 1374 Art. 1 Ziff. 4, 2000 5255 ). Angenommen in der Volksabstimmung vom 21. Mai 2000 , in Kraft seit 1. Juni 2000. Gewährleistungsbeschluss vom 20. März 2001 ( BBl 2001 1374 Art. 1 Ziff. 4, 2000 5255 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 )."
+    },
+    {
+      "provision_ref": "art60bis",
+      "section": "60bis",
+      "title": "bis Fakultatives Referendum",
+      "content": "Wenn wenigstens 300 Stimmberechtigte dies innert 60 Tagen nach der amtlichen Publikation verlangen, so entscheiden die Stimmberechtigten über: a. den Erlass, die Aufhebung oder Änderung von Gesetzen; b. interkantonale oder internationale Verträge mit gesetzgebendem Charakter. Angenommen in der Volksabstimmung vom 21. Mai 2000 , in Kraft seit 1. Juni 2000. Gewährleistungsbeschluss vom 20. März 2001 ( BBl 2001 1374 Art. 1 Ziff. 4, 2000 5255 )."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Gewaltenteilung",
+      "content": "1 Kantonsrat, Regierungsrat und Gerichte sind nach dem Grundsatz der Gewaltenteilung organisiert. 2 Die Behörden wirken zusammen und stimmen ihre Tätigkeit aufeinander ab. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art61bis",
+      "chapter": "11",
+      "section": "61bis",
+      "title": "bis Rechtsstaatliche Grundsätze",
+      "content": "1 Wer öffentliche Aufgaben wahrnimmt, ist an Verfassung und Gesetz gebunden. Er handelt im öffentlichen Interesse nach Treu und Glauben, willkürfrei und nach dem Grundsatz der Verhältnismässigkeit. 2 Kantonale Erlasse, die übergeordnetem Recht widersprechen, dürfen vom Regierungsrat und von den Gerichten nicht angewendet werden. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "11",
+      "section": "62",
+      "title": "Wählbarkeit",
+      "content": "Wählbar in kantonale Behörden sind die im Kanton Stimmberechtigten. Ausnahmen regelt das Gesetz."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "11",
+      "section": "63",
+      "title": "Unvereinbarkeit",
+      "content": "1 Niemand kann gleichzeitig angehören a. dem Kantonsrat, dem Regierungsrat und einem kantonalen Gericht; b. einem kantonalen Gericht und einem Gemeinderat oder dem Personal des Kantons und seiner Anstalten; b bis . dem Kantonsrat und dem Personal des Kantons und seiner Anstalten in einer durch das Gesetz bezeichneten leitenden oder den Regierungsrat unmittelbar unterstützenden Stellung; c. dem Regierungsrat und einem Gemeindeparlament oder einem Gemeinderat; d. dem Kantonsgericht und dem Obergericht; e. als Mitglied einer Schlichtungsbehörde einem kantonalen Gericht. 2 Ausser dem Kantonsrat dürfen der gleichen Behörde nicht gleichzeitig angehören: Eltern und Kinder, Geschwister, Ehegatten sowie Partner und Partnerinnen einer eingetragenen Partnerschaft oder einer faktischen Lebensgemeinschaft. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 )."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Ausstand",
+      "content": "1 Mitglieder von Behörden und Angehörige der kantonalen Verwaltung haben bei Geschäften, die sie betreffen, in den Ausstand zu treten. 2 Das Nähere bestimmt das Gesetz."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Amtsdauer",
+      "content": "1 Die Amtsdauer der kantonalen Behörden beträgt vier Jahre. 2 Alle Wahlen erfolgen für eine Amtsdauer oder für den Rest einer solchen. Angenommen in der Volksabstimmung vom 27. Sept. 1998 , in Kraft seit 27. Sept. 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 6 2514 )."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 18. Mai 2014 , mit Wirkung seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Informationspflicht, Öffentlichkeit",
+      "content": "1 Die Behörden des Kantons und der Gemeinden müssen das Volk frühzeitig und ausreichend informieren. 2 Die offizielle Information über Abstimmungsvorlagen soll eine freie Meinungsbildung ermöglichen. 3 Die Verhandlungen des Kantonsrates und der Gerichte sind öffentlich. Ausnahmen regelt das Gesetz. 4 Die Mitglieder des Kantonsrates und des Regierungsrates legen ihre Interessensbindungen offen. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Delegationen",
+      "content": "1 Das Gesetz kann Befugnisse an den Kantonsrat oder an den Regierungsrat übertragen, falls die Delegation auf ein bestimmtes Gebiet beschränkt ist und das Gesetz ihren Rahmen festlegt. Die direkte Delegation an andere Behörden ist ausgeschlossen. 2 Unter den gleichen Voraussetzungen können Befugnisse des Kantonsrates an den Regierungsrat übertragen werden. 3 Der Regierungsrat darf seine Befugnisse auf Departemente und andere Organe übertragen, wenn ihn der Kantonsrat dazu ermächtigt. Befugnisse der Departemente darf er ohne Ermächtigung übertragen. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Rechtssetzungsformen",
+      "content": "Alle grundlegenden und wichtigen Rechtssätze des kantonalen Rechtes sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung ausdrücklich das Gesetz vorsieht, sowie Bestimmungen über: a. die Grundzüge der Rechtsstellung der Einzelnen, b. den Gegenstand von Abgaben, die Grundsätze ihrer Bemessung und den Kreis der Abgabepflichtigen mit Ausnahme von Gebühren in geringer Höhe, c. Zweck, Art und Rahmen von bedeutenden kantonalen Leistungen, d. die Grundzüge der Organisation und der Aufgaben der Behörden, e. die Anhandnahme einer neuen, dauernden Aufgabe."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Verantwortlichkeit",
+      "content": "1 Der Kanton und die anderen Körperschaften, die öffentliche Aufgaben wahrnehmen, haften für den Schaden, den ihre Organe bei der Ausübung ihrer hoheitlichen Tätigkeit widerrechtlich verursachen. 2 Sie haften auch für Schäden, die ihre Organe rechtmässig verursacht haben, wenn Einzelne davon schwer betroffen sind und ihnen nicht zugemutet werden kann, den Schaden selber zu tragen. 3 Das Gesetz regelt die Haftung der Behördenmitglieder und Angestellten gegenüber dem Kanton und den anderen Körperschaften, die öffentliche Aufgaben wahrnehmen."
+    },
+    {
+      "provision_ref": "art70bis",
+      "section": "70bis",
+      "title": "bis Stellung",
+      "content": "Der Kantonsrat ist die gesetzgebende Behörde des Kantons und führt die Oberaufsicht. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "23",
+      "section": "71",
+      "title": "Zusammensetzung, Wahl",
+      "content": "1 Der Kantonsrat besteht aus 65 Mitgliedern. 2 Jede Gemeinde hat mindestens einen Sitz. 3 Die restlichen Sitze werden nach Massgabe ihrer Einwohnerzahlen auf die Gemeinden verteilt. 4 Für die Kantonsratswahl gilt das Mehrheitswahlverfahren; Wahlkreise sind die Gemeinden. Die Gemeinden können das Verhältniswahlverfahren einführen. 5 Das Nähere regelt das Gesetz."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "23",
+      "section": "72",
+      "title": "Zuständigkeiten a. Aufsicht",
+      "content": "1 Der Kantonsrat beaufsichtigt die Regierung und die Geschäftsführung der Gerichte. 2 Er führt die Oberaufsicht über die kantonale Verwaltung und die öffentlich-rechtlichen Anstalten."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "23",
+      "section": "73",
+      "title": "b. Wahlen",
+      "content": "1 Der Kantonsrat wählt a. den Kantonsratspräsidenten oder die Kantonsratspräsidentin sowie die übrigen Mitglieder des kantonsrätlichen Büros jeweils für ein Jahr; [tab] a bis . den Präsidenten oder die Präsidentin und die Vizepräsidenten oder die Vizepräsidentinnen des Obergerichtes; b. den Präsidenten oder die Präsidentin und die Vizepräsidenten oder die Vizepräsidentinnen und die weiteren Mitglieder des Kantonsgerichtes; b bis . die Präsidenten oder die Präsidentinnen und die weiteren Mitglieder der Schlichtungsbehörden; c. auf Vorschlag des Regierungsrates: den Ratschreiber oder die Ratschreiberin; d. den Leiter oder die Leiterin des Parlamentsdienstes; e. die Finanzkontrolle; f. das Datenschutz-Kontrollorgan. 2 Durch Gesetz können dem Kantonsrat weitere Wahlbefugnisse übertragen werden. Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 )."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "c. Rechtssetzung",
+      "content": "1 Der Kantonsrat beschliesst über Vorlagen zur Revision der Kantonsverfassung zuhanden der Stimmberechtigten. Er kann Eventualanträge stellen. 2 Er erlässt Gesetze unter Vorbehalt des fakultativen Referendums sowie Verordnungen im Rahmen von Verfassung und Gesetz. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art74bis",
+      "section": "74bis",
+      "title": "bis Aussenbeziehungen",
+      "content": "1 Der Kantonsrat wirkt an der Gestaltung der Aussenbeziehungen mit. 2 Er genehmigt oder kündigt interkantonale und internationale Verträge. Vorbehalten bleibt das fakultative Referendum. 3 Er begleitet Vorhaben zur interkantonalen oder internationalen Zusammenarbeit. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "d. Planung",
+      "content": "Der Kantonsrat berät die Sach-, Finanz- und Investitionsplanung sowie weitere grundlegende Planungen des Regierungsrates."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "e. Finanzkompetenzen",
+      "content": "1 Der Kantonsrat beschliesst unter Beachtung des Finanzplanes über den Voranschlag und den Steuerfuss. 2 Unter Vorbehalt abweichender gesetzlicher Bestimmungen beschliesst er über: a. neue einmalige Ausgaben für den gleichen Gegenstand im Betrag von 1– 5 Prozent einer Steuereinheit; b. neue wiederkehrende Ausgaben im Betrag von 0,5–1 Prozent einer Steuereinheit."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "f. Weitere Befugnisse",
+      "content": "1 Der Kantonsrat: a. übt die den Kantonen von der Bundesverfassung eingeräumten Mitwirkungsrechte aus; b. fasst Grundsatzbeschlüsse im Rahmen seiner Zuständigkeiten; c. beschliesst über Begnadigungen; d. entscheidet Zuständigkeitskonflikte zwischen den obersten kantonalen Behörden; e. genehmigt die Staatsrechnung. 1bis Ist ein Mitglied des Regierungsrates offensichtlich und dauerhaft nicht mehr in der Lage, sein Amt auszuüben, kann der Kantonsrat mit einer Mehrheit von drei Vierteln der anwesenden Ratsmitglieder die Amtsunfähigkeit feststellen. 2 Der Kantonsrat kann den Regierungsrat mit der Vorbereitung seiner Geschäfte beauftragen. 3 Durch Gesetz können ihm weitere Aufgaben übertragen werden. SR 101 Angenommen in der Volksabstimmung vom 21. Mai 2000 , in Kraft seit 1. Juni 2000. Gewährleistungsbeschluss vom 20. März 2001 ( BBl 2001 1374 Art. 1 Ziff. 4, 2000 5255 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Organisation a) Grundsätze",
+      "content": "1 Das Gesetz regelt die Grundzüge der Organisation und des Geschäftsverkehrs des Kantonsrates. 2 Der Kantonsrat verfügt über einen Parlamentsdienst. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "",
+      "content": "1 Der Kantonsrat kann ständige Kommissionen einsetzen und mit der Vorbereitung einzelner Geschäfte besondere Kommissionen betrauen. 2 Regierungsrat und Verwaltung erteilen den Kommissionen alle Auskünfte, die sie für ihre Tätigkeit benötigen. 3 Das Gesetz kann den Kommissionen einzelne untergeordnet Befugnisse übertragen. Die Delegation von rechtsetzenden Befugnissen ist ausgeschlossen. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "",
+      "content": "1 Die Mitglieder des Regierungsrates nehmen an den Sitzungen des Kantonsrates teil. 2 Sie haben beratende Stimme und das Antragsrecht. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "",
+      "content": "1 Die Mitglieder des Kantonsrates und des Regierungsrates sind in ihren Äusserungen im Rat und in den Kommissionen frei und können dafür nur strafrechtlich verfolgt oder zivilrechtlich belangt werden, wenn zwei Drittel der anwesenden Ratsmitglieder dazu ihre Ermächtigung erteilen. 2 Die Mitglieder des Kantonsrates stimmen und beraten ohne Instruktion. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Stellung",
+      "content": "1 Der Regierungsrat ist die oberste leitende, planende und vollziehende Behörde des Kantons. 2 Er führt die kantonale Verwaltung und beaufsichtigt gemäss Gesetz die Staatsanwaltschaft und die Gemeinden. Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 )."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "39",
+      "section": "83",
+      "title": "",
+      "content": "1 Der Regierungsrat besteht aus fünf vollamtlichen Mitgliedern. 1bis Eine Wiederwahl ist dreimal möglich. 2 … 3 Der Kantonsrat regelt die Besoldung und die berufliche Vorsorge. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Aufgehoben in der Volksabstimmung vom 18. Mai 2014 , mit Wirkung seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "39",
+      "section": "84",
+      "title": "Das Landammannamt",
+      "content": "1 Wer das Landammannamt innehat, präsidiert den Regierungsrat. 2 Er oder sie leitet, plant und koordiniert die Arbeit des Regierungsrates. 3 Die Wahl ins Landammannamt findet alle zwei Jahre statt. Nach Ablauf einer vollen Amtsdauer ist für eine Amtsdauer auszusetzen. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 27. Sept. 1998 , mit Wirkung seit 27. Sept. 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 6 2514 )."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Zuständigkeiten a. Planung und Koordination",
+      "content": "1 Der Regierungsrat bestimmt unter Vorbehalt der Zuständigkeiten der Stimmberechtigten und des Kantonsrates die Ziele und Mittel des staatlichen Handelns. 2 Er plant und koordiniert die staatlichen Tätigkeiten. Er führt die mittelfristige Sach- und Terminplanung und erstellt zuhanden des Kantonsrates einen Finanzplan, einen Investitionsplan und weitere grundlegende Pläne. Angenommen in der Volksabstimmung vom 28. Sept. 1997 , in Kraft seit 28. Sept. 1997. Gewährleistungsbeschluss vom 3. Dez. 1998 ( BBl 1999 219 Art. 1 Ziff. 2, 1998 3945 )."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "b. Rechtssetzung",
+      "content": "1 Der Regierungsrat entwirft zuhanden des Kantonsrates Erlasse und Beschlüsse. 2 … 3 Er erlässt im Rahmen der Verfassung und der Gesetzgebung Verordnungen. 4 Bei zeitlicher Dringlichkeit kann er, soweit dies zur Einführung übergeordneten Rechts nötig ist, Verordnungen erlassen; diese sind ohne Verzug ins ordentliche Recht überzuführen. 5 Zum Vollzug übergeordneten Rechts kann er die notwendigen Bestimmungen erlassen, soweit sich diese auf die Organisation und die Aufgaben der kantonalen Behörden beschränken. Aufgehoben in der Volksabstimmung vom 18. Mai 2014 , mit Wirkung seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art87bis",
+      "section": "87bis",
+      "title": "bis Aussenbeziehungen",
+      "content": "1 Der Regierungsrat gestaltet die Zusammenarbeit mit dem Bund, mit anderen Kantonen und mit dem Ausland und vertritt den Kanton nach aussen. 2 Er schliesst und kündigt interkantonale und internationale Verträge über Gegenstände, die im Rahmen seiner ordentlichen Zuständigkeit liegen. 3 Er setzt sich für die kantonalen Interessen gegenüber dem Bund ein. 4 Er wahrt die Mitwirkungsrechte des Kantonsrates. Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "c. Finanzkompetenzen",
+      "content": "1 Der Regierungsrat erstellt zuhanden des Kantonsrates den Voranschlag und die Staatsrechnung. 2 Er beschliesst über a. gebundene Ausgaben und Änderungen im Finanzvermögen ohne Beschränkung; b. neue einmalige Ausgaben bis zum Betrag von 1 Prozent einer Steuereinheit; c. neue wiederkehrende Ausgaben bis zum Betrag von 0,5 Prozent einer Steuereinheit."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "d. Weitere Befugnisse",
+      "content": "1 Der Regierungsrat nimmt alle Befugnisse wahr, die nicht ausdrücklich einer anderen Stelle zugewiesen sind. 2 Insbesondere obliegen ihm a. die Verantwortung für die öffentliche Ordnung und Sicherheit; b. … c. die Abfassung von Vernehmlassungen zuhanden der Bundesbehörden; d. der Entscheid über die Ergreifung oder die Unterstützung des Standesreferendums in dringlichen Fällen; e. der Vollzug der Gesetzgebung sowie der rechtskräftigen Urteile; f. die Erteilung des Landrechts; g. die Wahl der Angehörigen der kantonalen Verwaltung, soweit dafür keine andere Stelle zuständig ist; h. die Erstellung eines jährlichen Rechenschaftsberichtes an den Kantonsrat. 3 Durch die Gesetzgebung können dem Regierungsrat weitere Befugnisse übertragen werden. Aufgehoben in der Volksabstimmung vom 18. Mai 2014 , mit Wirkung seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 ). Angenommen in der Volksabstimmung vom 18. Mai 2014 , in Kraft seit 1. Juni 2015. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 6, 2014 9091 )."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "e. Ausserordentliche Lagen",
+      "content": "1 Der Regierungsrat ergreift auch ohne ausdrückliche gesetzliche Grundlage Massnahmen, um eingetretenen oder unmittelbar drohenden Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen zu begegnen. 2 Notverordnungen hat er sofort dem Kantonsrat zur Genehmigung vorzulegen; sie fallen spätestens ein Jahr nach ihrem Inkrafttreten dahin."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Kollegialprinzip",
+      "content": "Der Regierungsrat fasst seine Beschlüsse als Kollegialbehörde."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Kommissionen",
+      "content": "Durch Gesetz, Verordnung oder Beschluss des Regierungsrates können ständige beratende Kommissionen eingesetzt oder besondere Kommissionen mit der Vorbereitung einzelner Geschäfte betraut werden."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Kantonale Verwaltung",
+      "content": "1 Die Verwaltung erfüllt ihre Aufgaben nach den Grundsätzen der Rechtmässigkeit, Wirksamkeit und Wirtschaftlichkeit. 2 Das Gesetz regelt die Grundzüge der Verwaltungsorganisation und das Verwaltungsverfahren. 3 Stabs‑, Koordinations- und Verbindungsstelle des Regierungsrates und des Kantonsrates ist die Kantonskanzlei, die vom Ratschreiber oder von der Ratschreiberin geleitet wird."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Gerichtliche Organe",
+      "content": "1 Die Gerichtsbarkeit wird ausgeübt durch: a. die Schlichtungsbehörden in Zivilsachen; b. … c. das Kantonsgericht zur Beurteilung von Zivil- und Strafsachen in erster Instanz; d. das Obergericht als einzige oder Rechtsmittelinstanz in Zivil-, Straf- und Verwaltungssachen. e … 2 Das Gesetz regelt Organisation, Verfahren und Zuständigkeiten. 3 Der Kantonsrat regelt die Besoldung, die berufliche Vorsorge und die Entschädigungen der Mitglieder der Gerichte. Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Aufgehoben in der Volksabstimmung vom 13. Juni 2010 , mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Aufgehoben in der Volksabstimmung vom 13. Juni 2010 , mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 ). Angenommen in der Volksabstimmung vom 13. Juni 2010 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ( BBl 2011 7619 Art. 1 Ziff. 6 4467 )."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "52",
+      "section": "95",
+      "title": "Begründungspflicht",
+      "content": "1 Die Urteile sind schriftlich zu begründen. 2 Ausnahmen regelt das Gesetz."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Allgemeine Grundsätze",
+      "content": "1 Kanton und Gemeinden führen ihren Finanzhaushalt sparsam, wirtschaftlich und mittelfristig ausgeglichen. 2 Sie sorgen für eine umfassende Finanz- und Investitionsplanung. 3 Neue Aufgaben dürfen erst übernommen werden, wenn ihre Finanzierung geregelt ist. 4 Verwaltungsunabhängige Kontrollorgane prüfen, ob der Finanzhaushalt gesetzmässig geführt wird. 5 Das Nähere regelt das Gesetz."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Mittelbeschaffung",
+      "content": "Der Kanton beschafft sich seine Mittel: a. durch die Erhebung von Steuern und anderen Abgaben; b. aus Vermögenserträgen; c. aus Leistungen des Bundes und Dritter; d. durch die Aufnahme von Darlehen und Anleihen."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Steuern und Abgaben",
+      "content": "1 Kanton und Gemeinden besteuern das Einkommen und Vermögen der natürlichen Personen sowie den Ertrag und das Kapital juristischer Personen. 2 Durch Gesetz können weitere kantonale und kommunale Steuern und Abgaben eingeführt werden. 3 Bei der Ausgestaltung der Steuern sind die Grundsätze der Rechtsgleichheit und der wirtschaftlichen Leistungsfähigkeit zu beachten."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Ausgaben",
+      "content": "Jede Ausgabe setzt eine Rechtsgrundlage, einen entsprechenden Kredit sowie einen Ausgabenbeschluss des zuständigen Organs voraus."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Einwohnergemeinde",
+      "content": "1 Einzige Gemeindeart im Kanton ist die Einwohnergemeinde. 2 Sie ist eine Körperschaft des öffentlichen Rechts mit eigener Rechtspersönlichkeit. 3 Sie erfüllt alle örtlichen Aufgaben, die nicht vom Bund oder vom Kanton wahrgenommen werden und die nicht sinnvollerweise Privaten überlassen bleiben."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Gemeindeautonomie",
+      "content": "1 Die Autonomie der Gemeinden ist gewährleistet. Ihr Umfang ist durch das kantonale und das eidgenössische Recht bestimmt. 2 Alle kantonalen Organe wahren eine möglichst grosse Selbständigkeit der Gemeinden."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Organisation",
+      "content": "1 Die Gemeinden legen ihre Organisation im Rahmen von Verfassung und Gesetz in einer Gemeindeordnung fest. 2 Die Gemeindeordnung unterliegt der Volksabstimmung und bedarf zu ihrer Gültigkeit der Genehmigung durch den Regierungsrat. 3 Die Gemeinden können ein Gemeindeparlament einführen."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Verhältnis der Gemeinden unter sich und zum Kanton",
+      "content": "1 Die Gemeinden arbeiten bei der Erfüllung ihrer Aufgaben unter sich, mit dem Kanton und allenfalls mit ausserkantonalen Gemeinden zusammen. 2 Sie können mit Zustimmung des Regierungsrates Zweckverbände gründen oder sich zu anderen Organisationen zusammenschliessen. 3 Ist eine Aufgabe anders nicht zu erfüllen, kann der Regierungsrat zwei oder mehrere Gemeinden zur Zusammenarbeit verpflichten."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Finanzausgleich",
+      "content": "Durch einen Finanzausgleich ist ein ausgewogenes Verhältnis der Steuerbelastung unter den Gemeinden anzustreben."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Stimmrecht",
+      "content": "1 Das Stimmrecht in der Gemeinde steht allen Personen zu, die in kantonalen Angelegenheiten stimmberechtigt sind. 2 Die Gemeinden können das Stimmrecht ausserdem Ausländerinnen und Ausländern erteilen, die seit zehn Jahren in der Schweiz und davon seit fünf Jahren im Kanton wohnen und ein entsprechendes Begehren stellen."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Initiativrecht",
+      "content": "1 Mit einer Initiative kann der Erlass, die Änderung oder die Aufhebung von Reglementen oder Beschlüssen verlangt werden, die dem obligatorischen oder dem fakultativen Referendum unterliegen. 2 Die Initiative kann als allgemeine Anregung oder als ausgearbeiteter Entwurf eingereicht werden. 3 Wird mit einer Initiative der Erlass oder die Änderung von Plänen oder Vorschriften verlangt, für die ein Einspracheverfahren vorgeschrieben ist, ist sie nur als allgemeine Anregung zulässig. 4 Die Artikel 51 Absatz 1, 52, 54 und 55 gelten im übrigen sinngemäss."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Gemeindegesetz",
+      "content": "Das Gesetz regelt insbesondere die Grundzüge der Gemeindeorganisation, die Aufsicht über die Gemeinden sowie das Finanzwesen."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "",
+      "content": "Nach Massgabe des Gesetzes können öffentliche Aufgaben von Körperschaften und Anstalten des öffentlichen Rechts wahrgenommen werden."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "a. Grundsatz; Selbständigkeit",
+      "content": "1 Die evangelisch-reformierte und die römisch-katholische Kirche sind selbständige Körperschaften des öffentlichen Rechts. 2 Die kirchlichen Körperschaften regeln ihre inneren Angelegenheiten selbständig. Sie sind befugt, von ihren Mitgliedern Steuern zu erheben. 3 Beschlüsse und Verfügungen kirchlicher Organe können nicht an staatliche Stellen weitergezogen werden."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "b. Zugehörigkeit",
+      "content": "Die Zugehörigkeit zu einer Kirche regelt sich nach deren Verfassung. Das Recht, durch schriftliche Erklärung aus einer Kirche auszutreten, ist gewährleistet."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "",
+      "content": "Die übrigen Religionsgemeinschaften unterstehen dem zivilen Recht. Sie können vom Kantonsrat als öffentlich-rechtliche Körperschaften anerkannt werden, wenn ihre Verfassung dem kantonalen und dem Bundesrecht nicht widerspricht."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Grundsatz",
+      "content": "1 Die Verfassung kann jederzeit ganz oder teilweise revidiert werden. 2 Verfassungsrevisionen werden auf dem Weg der Gesetzgebung vorgenommen."
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Teilrevision",
+      "content": "Eine Teilrevision kann eine einzelne Bestimmung oder mehrere sachlich zusammenhängende Bestimmungen umfassen."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Totalrevision",
+      "content": "1 Der Kantonsrat prüft in Zeitabständen von jeweils 20 Jahren nach Inkrafttreten dieser Verfassung, ob eine Totalrevision an die Hand genommen werden soll. 2 Die Frage, ob eine Totalrevision durchzuführen sei, ist den Stimmberechtigten vorzulegen. Diese entscheiden ferner, ob der Kantonsrat oder ein Verfassungsrat die Revision vorbereiten soll. Angenommen in der Volksabstimmung vom 28. Sept. 1997 , in Kraft seit 28. Sept. 1997. Gewährleistungsbeschluss vom 3. Dez. 1998 ( BBl 1999 219 Art. 1 Ziff. 2, 1998 3945 )."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "58",
+      "section": "115",
+      "title": "Bürgergemeinden",
+      "content": "1 Bestehende Bürgergemeinden gelten ohne weiteres als aufgelöst, wenn sie nicht innert fünf Jahren seit Inkrafttreten dieser Verfassung durch Beschluss ihrer Mitglieder in Körperschaften des öffentlichen Rechts umgewandelt werden. 2 Mit der Auflösung der Bürgergemeinde tritt die Einwohnergemeinde vollumfänglich in deren Rechte und Pflichten ein."
+    },
+    {
+      "provision_ref": "art116",
+      "chapter": "58",
+      "section": "116",
+      "title": "Kirchliche Gebäulichkeiten",
+      "content": "In den Gemeinden, in denen die kirchlichen Gebäulichkeiten im Eigentum der Einwohnergemeinde stehen, ist innert einer Frist von fünf Jahren seit Inkrafttreten dieser Verfassung eine Sicherung der bisherigen Mitbenutzungsrechte sowie eine Vereinbarung über Benutzung und Unterhalt zu treffen."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "58",
+      "section": "117",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 27. Sept. 1998 , mit Wirkung seit 27. Sept. 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 6 2514 )."
+    },
+    {
+      "provision_ref": "art117bis",
+      "chapter": "59",
+      "section": "117bis",
+      "title": "",
+      "content": "Angenommen in der Volksabstimmung vom 27. April 1997 . Gewährleistungsbeschluss vom 3. Dez. 1998 ( BBl 1999 219 Art. 1 Ziff. 2, 1998 3945 ). Aufgehoben in der Volksabstimmung vom 27. Sept. 1998 , mit Wirkung seit 27. Sept. 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 6 2514 )."
+    },
+    {
+      "provision_ref": "art117ter",
+      "chapter": "59",
+      "section": "117ter",
+      "title": "ter Amtsdauer",
+      "content": "1 Die durch diese Teilrevision der Verfassung geschaffenen Unvereinbarkeiten sind auf Ende der laufenden Amtsdauer zu beheben. 2 Die für die laufende Amtsdauer gewählten Mitglieder des Verwaltungsgerichts werden im Zeitpunkt des Inkrafttretens dieser Teilrevision der Verfassung bis zum Ablauf der Amtsdauer Mitglieder des Obergerichtes. 3 Die von den Stimmberechtigten der Gemeinden gewählten Vermittler und Vermittlerinnen behandeln die bei ihnen bis zum 31. Dezember 2010 eingehenden Vermittlungsbegehren bis zum Ende der laufenden Amtsdauer."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "59",
+      "section": "118",
+      "title": "Inkrafttreten; aufgehobenes Recht",
+      "content": "1 Diese Verfassung tritt nach ihrer Gewährleistung durch die Bundesversammlung am 1. Mai 1996 in Kraft. 2 Auf diesen Zeitpunkt wird die Verfassung für den Kanton Appenzell Ausserrhoden vom 26. April 1908 aufgehoben."
+    }
+  ],
+  "definitions": []
+}

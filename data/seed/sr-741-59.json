@@ -1,0 +1,375 @@
+{
+  "id": "sr-741-59",
+  "type": "statute",
+  "title": "Verordnung vom 13. Dezember 2024 über das automatisierte Fahren (VAF)",
+  "title_en": "Ordinance of 13 December 2024 on Automated Driving (OAD)",
+  "short_name": "VAF",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2025/50/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 Subject Matter and Definitions",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "This Ordinance regulates the requirements for the registration and use of motor vehicles with an automated driving system and the processing of data associated with such vehicles."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 Subject Matter and Definitions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "In this Ordinance: a. vehicle with takeover request means a vehicle with an automated driving system that informs the driver when it reaches the limits of its operational design domain; b. vehicle with an automated parking system means a vehicle with an automated driving system designed to manoeuvre from the handover location to a parking space and from the parking space to the pick-up location without the driver and without the driver's supervision; c. driverless vehicle means a vehicle with an automated driving system that is designed to cover at least certain distances from its starting point to its final destination without the presence of a driver; a vehicle that only has an automated parking system is not considered a driverless vehicle."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 Requirements for Vehicles with an Automated Driving System",
+      "section": "3",
+      "title": "General requirements",
+      "content": "1 The automated driving system must: a. be capable of driving the vehicle in a longitudinal and lateral direction; b. be capable of operating the vehicle systems that are required for the journey and, if necessary, for the safe return of the vehicle to the driver’s control; c. be capable of being deactivated intuitively at any time; d. be capable of providing unambiguous feedback; e. be user-friendly; f. have accident prevention functions; g. have protective measures in place against unauthorised interference by third parties; h. be capable of coping with all traffic scenarios within the operational design domain in accordance with: 1. the use cases contained in international regulations recognised by Switzerland in accordance with Annex 2 No. 12 of the Ordinance of 19 June 1995 on the Technical Requirements for Road Vehicles (RVTRO), 2. Implementing Regulation (EU) 2022/1426 Annex III Part 1, or 3. the methodology of the United Nations Economic Commission for Europe (UNECE) according to the Guidelines and Recommendations on Safety Requirements, Assessment and Test Methods for Automated Driving Systems; i. be capable of recognising the following conditions in the operational design domain: 1. meteorological conditions, 2. time of day, 3. light intensity, 4. markings and type of roadway, 5. geographical area. 2 For its entire operating time, as soon as it is activated, it must: a. take over vehicle operation permanently, comprehensively and reliably in the respective operational design domain; b. comply with all traffic regulations relevant to the driving task; c. recognise and comply with the limits of the operational design domain; d. recognise all technical failures that impair vehicle operation by the automated driving system; e. if human intervention is required: indicate this with sufficient time reserve; f. initiate a manoeuvre to minimise risk if: 1. the vehicle has reached the limits of its operational design domain, 2. for vehicles with takeover request: there is no response to a request to take over control, 3. a serious failure of the vehicle or the automated driving system occurs. 3 To ensure compliance with the traffic regulations in accordance with paragraph 2 letter b, the automated driving system must in particular: a. drive at an appropriate speed and comply with the speed limits applicable to the vehicle; b. maintain an appropriate distance from other road users; c. adapt its driving behaviour to the traffic conditions in an appropriate and safety-oriented manner; d. adapt its driving behaviour to the safety risks and give top priority to the protection of human life; e. activate the relevant vehicle systems, such as lighting devices and windscreen wipers, if necessary. SR 741.41 Commission Implementing Regulation (EU) 2022/1426 of 5 August 2022 laying down detailed rules for the implementation of Regulation (EU) 2019/2144 of the European Parliament and of the Council with regard to the common procedures and technical specifications for type-approval of the automated driving system (ADS) of fully automated vehicles, OJ L 221, 26.8.2022, p. 1. Working document ECE/TRANS/WP.29/2024/39 for the 193rd session of the WP.29."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Operational design domain",
+      "content": "1 The manufacturer shall determine and declare for types of automated driving systems or vehicle types the domain in which a particular automated driving system is technically intended to be used (operational design domain). 2 The type approval must contain a description of the operational design domain. The description must make it possible to compare the system characteristics with the intended real operating conditions. 3 Infrastructure owners and operators are not obliged to make adjustments in order to fulfil the requirements of the operational design domain of specific automated driving systems."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Applicability of the provisions",
+      "content": "1 The relevant status of the technical regulations for automated driving systems in international regulations is based on the versions that are binding for Switzerland in accordance with Annex 2 numbers 11 and 12 RVTRO. 2 In derogation from Article 3 b paragraph 1 RVTRO, the registration of driverless vehicles is governed by the international technical regulations for automated driving systems applicable at the time when the vehicle is first authorised for use on the road. SR 741.41"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Applicability of provisions to vehicles already authorised for use on the road",
+      "content": "1 The Federal Department of the Environment, Transport, Energy and Communications may declare newly introduced regulations for automated driving systems to be applicable to vehicles authorised for use on the road, provided this averts a danger to road traffic. 2 A danger to road traffic exists if the vehicle type concerned or another vehicle type from the same manufacturer with an identical or comparable system architecture: a. has been affected by one or more cyberattacks that necessitated additional protective measures; b. has caused an accident with personal injury or with a high potential for injury or damage while in automated driving mode; or c. has been involved in several comparable and avoidable safety-relevant incidents."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Data storage system for automated driving",
+      "content": "1 Vehicles with an automated driving system must be equipped with a data storage system for automated driving (DSSAD). 2 The DSSAD only operates while the automated driving system is activated. 3 The DSSAD must record the following events: a. the start and end of an emergency manoeuvre; b. the trigger input for event-related data recording; c. collisions; d. safety-relevant technical failures in the automated driving system; e. safety-relevant technical failures of the vehicle; f. the execution of a minimum risk manoeuvre by the automated driving system; g. the start of a lane change procedure or an intentional lane crossing if this: 1. occurred within 30 seconds before a minimum risk manoeuvre or an event under letters a-c or h, or 2. occurred within five seconds before a system override by the driver of the vehicle; h. the cancellation of a lane change procedure; i. the end of a lane change procedure or an intentional lane crossing if it occurred within 30 seconds before a minimum risk manoeuvre or an event under letters a-c. 4 It must record the following data items: a. the type of event and any reason for it; b. the date with resolution YYYY/MM/DD; c. the timestamp with resolution hh/mm/ss, with time zone and an accuracy of +/- 1 s; d. for driverless vehicles: the position of the vehicle by specifying the GNSS coordinates. 5 For each recorded event, the RX software identification number (RXSWIN) or the software versions of the automated driving system must be clearly identifiable, indicating the software version that was being used when the event occurred. 6 If multiple events are recorded simultaneously, a single timestamp is permitted within the timing resolution of the specific data elements. If more than one event is recorded with the same timestamp, the information must indicate the chronological order of the individual events. 7 The DSSAD must comply with one of the following regulations: a. the international regulations of the UNECE in accordance with Annex 2 number 12 RVTRO; b. the requirements for ADS records in accordance with Annex II number 9 of Implementing Regulation (EU) 2022/1426; c. the binding framework provisions of the UNECE. 8 Where the UNECE and EU regulations on the DSSAD in accordance with paragraph 7 and Annex 2 RVTRO stipulate requirements other than those in paragraphs 3 and 4, the requirements of the corresponding international regulations shall take precedence. SR 741.41 See footnote to Art. 3 para. 1 let. h no. 2."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Management systems",
+      "content": "1 In order to maintain and improve data security and operational safety, manufacturers of vehicles with an automated driving system must, for the entire period of operation they support, have valid certificates from a national type approval authority for the following management systems: a. for cybersecurity in accordance with UN Regulation No. 155; b. for software updates in accordance with UN Regulation No. 156; c. for automated driving systems of driverless vehicles: a safety management system in accordance with Annex III, Part 2, point 5 of Implementing Regulation (EU) 2022/1426. 2 If the certificate for a management system in accordance with paragraph 1 becomes invalid, the automated driving systems covered by this system may no longer be used. For the continued operation of the automated driving system, the manufacturer must prove that continued data security and operational safety is guaranteed by recording the automated driving system in a new management system or that of another manufacturer. UNECE Regulation No. 155 of 22 January 2021 on uniform provisions concerning the approval of vehicles with regard to cybersecurity and the cybersecurity management system; amended by Amendment 1, in force since 8 October 2022 (Add.154 Amend.1). UNECE Regulation No. 156 of 22 January 2021 on uniform provisions concerning the approval of vehicles with regard to software updating and the software update management system (Add.155). See footnote to Art. 3 para. 1 let. h no 2."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 2 Manufacturer's Operating Manual and Safety Information",
+      "section": "9",
+      "title": "Making the operating manual available",
+      "content": "1 Persons who give others charge of a vehicle with an automated driving system must inform them of the presence of the system and the recording function of the DSSAD and make the manufacturer's operating manual available to them. 2 In the case of driverless vehicles, vehicle keepers must make the operating manual available to the operator (Art. 34) and to the person who may be manually driving the driverless vehicle. 3 In the case of vehicles with an automated parking system, the manager of the parking area must make the operating manual available to persons with monitoring or intervention functions."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 2 Manufacturer's Operating Manual and Safety Information",
+      "section": "10",
+      "title": "Compliance with the operating manual",
+      "content": "1 Persons who have duties in connection with the overall operation of a vehicle with an automated driving system must observe the relevant instructions and safety information provided by the manufacturer in the operating manual. 2 Persons who activate an automated driving system must have read the manufacturer's operating manual and be familiar with the functionalities and conditions of use of the automated driving system."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 3 Type Approval and Conformity Assessments",
+      "section": "11",
+      "title": "Type approval requirement",
+      "content": "1 Automated driving systems and vehicles with an automated driving system are subject to type approval. 2 In derogation from Article 4 of the Ordinance of 19 June 1995 on the Type Approval of Road Vehicles (RVTAO), exemptions from the type approval requirement are not permitted. 3 The operational design domain and traffic scenarios in accordance with Article 3 paragraph 1 letter h must be declared in the type-approval documents. SR 741.511"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 Type Approval and Conformity Assessments",
+      "section": "12",
+      "title": "Granting of type approval",
+      "content": "1 Type approvals are issued by the following authorities: a. whole-vehicle type-approvals for driverless vehicles and for vehicles with an automated parking system in accordance with Regulation (EU) 2018/858: by the competent authorities of the Member States of the European Union (EU) and the European Economic Area; b. type approvals for automated driving systems in accordance with UNECE regulations: by the competent authorities of the Contracting Parties to the Agreement of 20 March 1958 of the United Nations concerning the adoption of harmonised technical regulations for wheeled vehicles, equipment and parts which can be fitted to or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these regulations. 2 In derogation from Article 13 paragraph 1 RVTAO, type approvals are only granted if the vehicle type is roadworthy and an EU whole-vehicle type-approval is available. Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC OJ. L 151 of 14.6.2018, p. 1; last amended by Regulation (EU) 2024/1257, OJ. L 2024/1257 of 8.5.2024. SR 0.741.411 SR 741.511"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3 Type Approval and Conformity Assessments",
+      "section": "13",
+      "title": "Maintenance of road safety and operational safety: FEDRO's duties and powers",
+      "content": "1 The Federal Roads Office (FEDRO) shall coordinate the measures to ensure the road safety and operational safety of automated driving systems within the framework of the conformity assessment. 2 It may analyse safety-relevant incidents in connection with automated driving systems and order or carry out spot checks. 3 It may require keepers of driverless vehicles to provide information that is necessary to assess road safety and operational safety following registration. 4 For conformity assessments by the manufacturers of driverless vehicles, it may: a. require that the necessary documents and information as well as other technical specifications be provided free of charge; b. require access to software, relevant training data and definitions of the tested scenarios. 5 It may call on the assistance of a technical service for the inspection of automated driving systems."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Maintenance of road safety and operational safety: Reporting obligations",
+      "content": "1 Manufacturers or importers of driverless vehicles and vehicles with automated parking systems must report safety-relevant incidents to FEDRO. They shall agree with the vehicle keepers or holders of parking area permits on how to obtain the required information. 2 Safety-critical incidents must be reported immediately. Safety-critical incidents are defined as safety-relevant incidents in which: a. at least one person is injured and requires medical assistance because they were in the vehicle or were involved in the incident; b. the driverless vehicle, other vehicles or stationary objects suffer substantial physical damage; or c. an airbag is deployed in a vehicle involved in the incident. 3 The deadlines for the periodic reports and the content of the reports of safety-relevant incidents are based on Annex III Part 5 of Implementing Regulation (EU) 2022/1426 and, in the case of automated parking systems, also on Annex V Number 3 of Implementing Regulation (EU) 2022/1426. 4 The police shall record accidents involving driverless vehicles within 14 days in the Road Traffic Accident Information System and report the same to FEDRO. If the police are unable to meet this deadline, they shall inform FEDRO before the deadline expires, and provide the anonymised information on the accident that is already available. 5 The cantons and the federal authorities responsible for vehicle inspections shall notify FEDRO within 30 days of driverless vehicles whose automated driving system has been the subject of complaint during periodic (Art. 33 RVTRO) or exceptional (Art. 34 RVTRO) inspections. See footnote to Art. 3 para. 1 let. h no 2. SR 741.41"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Maintenance of road safety and operational safety: Exceptional inspections",
+      "content": "1 After safety-critical incidents related to the automated driving system, the driverless vehicles concerned must undergo an exceptional inspection (Art. 34 RVTRO). FEDRO shall notify the cantonal and federal registration authorities of the vehicles to be presented for the exceptional inspection. 2 After measures have been taken to restore road safety and operational safety as part of a procedure in accordance with the safeguard clauses under Article 16, the competent cantonal or federal authorities shall carry out an exceptional inspection before the vehicles concerned may continue to be used. The order to attend for inspection is issued by the registration authorities. SR 741.41"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Safeguard clauses for the suspension of the recognition of type approvals",
+      "content": "The safeguard clauses under Chapter 12 Section V point 4 of the Agreement of 21 June 1999 between the Swiss Confederation and the European Community on mutual recognition in relation to conformity assessment and under Article 4 of the United Nations Convention of 20 March 1958 concerning the Adoption of Harmonised Technical Regulations for Wheeled Vehicles, Equipment and Parts which can be Fitted or be Used on Wheeled Vehicles, and the Conditions for Reciprocal Recognition of Approvals which can be used on Wheeled Vehicles granted under these Regulations may be applied in respect of whole-vehicle type-approvals for vehicles with automated driving systems or partial approvals for automated driving systems if: a. road safety is directly jeopardised by the operation of appropriately equipped and type-approved vehicles; b. the manufacturer does not take adequate measures to prevent safety-critical or repeated safety-relevant incidents; c. personal data from reported security incidents are not processed in accordance with Swiss data protection regulations or are transferred to countries that do not have an equivalent level of data protection to that in Switzerland; d. traffic is significantly obstructed by repeated, unusual driving manoeuvres or such obstructions are foreseeable. SR 0.946.526.81 SR 0.741.411"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 4 Delegation of Tests",
+      "section": "17",
+      "title": "",
+      "content": "1 The cantons and the federal authorities responsible for registration may require technical tests to be carried out by a technical service in accordance with Annex 2 RVTAO or have them carried out at the expense of the vehicle keeper. 2 If no technical service is recognised to carry out a technical test in accordance with Article 17 RVTAO, FEDRO shall decide on the recognition of evidence from other bodies. 3 Articles 32 and 34a RVTRO do not apply to driverless vehicles. SR 741.511 SR 741.41"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 5 Data Processing",
+      "section": "18",
+      "title": "Purpose of processing data from the DSSAD",
+      "content": "1 The processing of data based on Article 25 g paragraph 1 RTA is only permitted for preparing expert opinions on the vehicle or on its use in road traffic under the Civil Procedure Code. 2 The processing of data based on Article 25 g paragraph 3 RTA is permitted solely for the following purposes: a. accident analysis by law enforcement authorities or experts on their behalf; b. criminal investigations into offences under road traffic law under the Criminal Procedure Code; c. investigations by administrative authorities in connection with offences under road traffic law. SR 272 SR 312.0"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 5 Data Processing",
+      "section": "19",
+      "title": "Processing of data in the context of enforcement",
+      "content": "1 FEDRO, the Federal Office of Communications, the Federal Office of Transport (FOT), the Federal Office for Customs and Border Security (FOCBS), the Defence Group and cantonal and communal authorities may process the following personal data: a. name, address, date of birth of operators and the type of driving licence that they hold (Art. 34); b. name and address or business name and registered office of vehicle keepers; c. name and address or business name and registered office of applicants; d. name and address or business name and registered office of the owners of land and parcel numbers for the land; e. name and address or business name and registered office of approval holders; f. vehicle registration numbers; g. vehicle chassis numbers. 2 a. examining applications for the authorisation of target operational domains and parking areas; b. issuing, suspending and withdrawing authorisations for target operational domains and parking areas; c. recording the condition of vehicles as part of conformity assessments; d. recording and analysing security-related incidents. 3 a. searches and disclosures in accordance with the processing regulations; b. disclosure by email. 4 FEDRO may process the following personal data: a. vehicle registration numbers; b. vehicle chassis numbers. 5 The data referred to in paragraph 4 may only be processed for the following purposes: a. ordering and following up measures in connection with conformity assessments; b. recording and analysing security-related incidents; c. evaluating measures to maintain and improve operational safety. 6 The data referred to in paragraph 4 may only be disclosed using the following procedures: a. searches by and disclosure to authorities with enforcement duties under this Ordinance; b. searches and disclosure on platforms operated by foreign type-approval and market surveillance authorities and the EU Commission, insofar as disclosure is required by the recognised type-approval regulations in accordance with Annex 2 Clauses 11 and 12 RVTRO; c. searches via secure remote access by manufacturers of driverless vehicles; d. requests from manufacturers of driverless vehicles by means of signed or encrypted e-mails. SR 741.41"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Retention period",
+      "content": "Data on the granting, refusal and withdrawal of approvals for target operational domains and parking areas must be destroyed ten years after the approvals become legally binding."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Destruction of data in the DSSAD",
+      "content": "The data in the DSSAD may be destroyed when scrapping the vehicle, provided that the data are not required for the investigation of accidents or for the assessment of offences under road traffic law. The consent of the data subjects is not required."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 1 Rights and Obligations for Vehicles with Takeover Request",
+      "section": "22",
+      "title": "Vehicle handover",
+      "content": "1 Persons who commercially sell, hire or lease a vehicle with takeover request must explicitly inform the contracting party about the intended use of the automated driving system and have the contracting party sign a document confirming that the information has been provided. 2 The confirmation of the contracting party must be kept for five years and made available to the prosecution authorities on request."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 1 Rights and Obligations for Vehicles with Takeover Request",
+      "section": "23",
+      "title": "Effects of using the automated driving system on motorways",
+      "content": "1 The automated driving system must be activated in accordance with the manufacturer's instructions. 2 Once the automated driving system has been successfully activated, the driver may release hold of the steering wheel on directionally separated motorways and leave the operation of the vehicle to the automated driving system. 3 When the automated driving system is activated, the driver is not required to constantly monitor the vehicle and traffic, but must remain ready and in a position to be able to operate the vehicle again at any time. The field of view must remain clear. No activities may be undertaken that could lead to any delay in meeting the obligation under paragraph 4. 4 The driver has a duty to resume driving the vehicle as soon as they: a. are requested to do so by the automated driving system; or b. recognise or should recognise from the obvious circumstances that the conditions for safe use of the automated driving system in compliance with traffic regulations are no longer met."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 2 DSSAD in Vehicles with Takeover Request",
+      "section": "24",
+      "title": "",
+      "content": "The DSSAD in vehicles with takeover request shall record the following events in addition to the events referred to in Article 7 paragraph 3: a. the activation of the automated driving system; b. the deactivation of the automated driving system and the reason for deactivation, whereby the following reasons are available: 1. use of dedicated means for the driver to deactivate the system, 2. overriding the system by moving the steering wheel, 3. overriding the system by pressing the accelerator pedal while holding the steering wheel, 4. overriding the system by braking while holding the steering wheel; c. the request to take over control and its reason, whereby the following categories of reasons are available: 1. planned event, 2. unplanned event, 3. driver unavailable, 4. driver not present or with seatbelt unbuckled, 5. system failure, 6. system override by braking, 7. system override by pressing the accelerator pedal, 8. manual activation of the direction indicator; d. the prevention or reduction of driver intervention by the automated driving system."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 1 Rights and Obligations for Automated Parking",
+      "section": "25",
+      "title": "Drivers of vehicles",
+      "content": "1 The automated parking system may only be activated in parking areas that are approved for the relevant vehicle type. 2 When intending to park the vehicle, the automated driving system may only be activated at drop-off locations within the authorised parking area. 3 Once parked using the automated parking system, the vehicle may only be picked up again at a drop-off location within the authorised parking area. The foregoing does not apply in the event of a breakdown of the vehicle or the automated parking system."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 1 Rights and Obligations for Automated Parking",
+      "section": "26",
+      "title": "Managers of parking areas for automated parking",
+      "content": "1 Managers of parking areas for automated parking must ensure that the areas accessible to vehicles with an activated automated parking system are monitored. 2 If an accident occurs in the parking area involving a vehicle with an automated driving system, they must notify the police immediately. 3 They must ensure that the obligations arising from the type approval of the vehicle and, where applicable, from the safety management system for the infrastructure that is not part of the vehicle (external infrastructure) are fulfilled, unless the obligations are assigned to other persons involved in the operation of the system, such as the manufacturer."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 2 Special Technical Requirements",
+      "section": "27",
+      "title": "General requirements for automated parking",
+      "content": "1 The parking procedure may only be carried out if: a. the parking area has been authorised for the relevant vehicle type; b. the vehicle has one of the type approvals specified in the safety management document that forms part of the application; c. when parking: the vehicle is at the drop-off location; and d. when parking: free spaces are available in the parking area. 2 For vehicles with an automated parking system, the automated system must recognise and respect the limits of the approved parking areas. 3 The processes required for automated parking, namely the identification of a free parking space and route planning, must be carried out either entirely by the vehicle or with the support of external infrastructure."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 2 Special Technical Requirements",
+      "section": "28",
+      "title": "Requirements for parking areas for automated parking",
+      "content": "1 The parking areas for automated parking must: a. be demarcated from the other roadways, pavements, footpaths and cycle paths; b. have dedicated useable areas for access and exit. 2 The drop-off and pick-up locations must: a. be in suitable places that ensure road safety; b. be marked with the symbol for 'vehicles with an automated driving system' in accordance with Annex 2 Number 5.44 of the Road Signs Ordinance of 5 September 1979 (RSO). 3 The spaces in the parking area must be marked as parking or no-parking spaces. 4 All access roads and entrances to the parking area must be indicated with the 'Vehicles with an automated driving system' sign in accordance with Annex 2, No 4.91 bis RSO. SR 741.21"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 2 Special Technical Requirements",
+      "section": "29",
+      "title": "External infrastructure and exchange of information between the automated driving system and the external infrastructure",
+      "content": "1 Unless the vehicle carries out all the processes of automated parking itself, the external infrastructure must meet the requirements specified by the vehicle's safety management system. 2 If the vehicle is guided wholly or partly by the non-vehicle infrastructure, the vehicle must be continuously identified and localised during the automated driving manoeuvre. 3 The required connection between the automated parking system and the external infrastructure must be guaranteed for the entire period in the parking area. 4 In the event of serious failures in the external infrastructure or in the event of a relevant interruption in the exchange of information, the vehicle must perform a manoeuvre to minimise the risk."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "DSSAD of vehicles with an automated parking system",
+      "content": "In addition to the events specified in Article 7 paragraph 3, the DSSAD of vehicles with an automated parking system must record the events specified in Article 41, mutatis mutandis ."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Section 3 Approval of Parking Areas for Automated Parking",
+      "section": "31",
+      "title": "Application for approval of a parking area for automated parking",
+      "content": "1 Owners and managers of a parking area may apply for approval of their parking area for the automated parking of specific types of vehicles. 2 The application is submitted to the canton on whose territory the parking area is located. The canton may delegate the authority to grant approval to the communes. 3 The application must include: a. the name of the vehicle types covered by the application; b. a precise description of the parking area, including drop-off and pick-up locations, as well as details of particularly challenging points in the area; c. an assessment of whether the parking area complies with the requirements specified by the safety management system of the vehicle types; d. a description of the process for reporting safety-relevant incidents, including the contact point and confirmations from the parties involved; e. a description of how the areas accessible to vehicles with an activated automated parking system are monitored; f. a description of how to fulfil the obligations that would be incumbent on the driver in the event of an accident. 4 If the processes required for automated parking are carried out with the support of external infrastructure, the application must also contain the following information: a. a description of the processes performed by the external infrastructure; b. the name of the infrastructure provider; c. an assessment of whether the external infrastructure meets the requirements of the vehicle manufacturer's safety management system; d. a description of what information is exchanged between the automated driving system and the external infrastructure; e. confirmation of a reliable wireless connection with appropriate latency. 5 The competent authority may request additional information if this is necessary for the assessment of the application."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Section 3 Approval of Parking Areas for Automated Parking",
+      "section": "32",
+      "title": "Assessment of the application for approval of a parking area for automated parking",
+      "content": "1 The application for approval of a parking area for automated parking shall be granted if it contains the information specified in Article 31 and shows that road safety is not adversely affected by the vehicles with an automated parking system. In particular, it must show that the obligations under Article 26 and the technical requirements under Articles 27-29 are fulfilled. 2 Article 45 paragraphs 3 and 4, 46 letters b-d, 47 and 48 paragraphs 1-5 apply mutatis mutandis . The right of access pursuant to Article 48 paragraph 2 relates to the premises of persons with monitoring or intervention functions. 3 The local commune must be consulted if it is not responsible for the approval."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Section 1 Rights and Obligations for Driverless Vehicles",
+      "section": "33",
+      "title": "Departure check",
+      "content": "1 Before a driverless vehicle is brought into operation, a departure check must be carried out on a daily basis. 2 The departure check involves a manually performed driving manoeuvre. Elements of the departure check maybe automated using a diagnostic system. 3 In the course of the departure check, the following must be checked: a. the tyres, wheels and suspension; b. the brakes, and the steering and lighting systems; c. in the case of faults detected during self-diagnosis: the safety and emission-relevant electronically controlled vehicle systems."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Section 1 Rights and Obligations for Driverless Vehicles",
+      "section": "34",
+      "title": "Operators",
+      "content": "1 While a driverless vehicle is in operation, it must be supervised by a human being (the operator). 2 Operators shall carry out their work in accordance with the operating manual. In particular, they have the following duties: a. When starting work, they must check whether the infrastructure required to fulfil their tasks is available and functioning properly. b. They shall activate and deactivate the automated driving system in accordance with the manufacturer's specifications; before activating the system, they must ensure that the driverless vehicle is in the approved target operational domain and that the departure check has been carried out. c. They must check driving manoeuvres proposed by the automated driving system and either confirm them or propose a different driving manoeuvre or, if appropriate, initiate a manoeuvre to minimise the risk. d. They must propose driving manoeuvres to the automated driving system if this is requested by the vehicle. e. They must trigger a minimum risk manoeuvre and deactivate the automated driving system if this is necessary. f. If a risk-minimising manoeuvre has been carried out, they must check whether the cause of the risk-minimising manoeuvre has been eliminated before allowing the vehicle to continue its journey. g. If the automated driving system triggers a manoeuvre to minimise risk, they must make contact with the vehicle occupants and initiate the measures required to ensure traffic safety and flow. h. They must receive the messages addressed to them by vehicle occupants and third parties via the vehicle's audio-visual interface or an alternative communication channel (Art. 38 para. 3 let. f) and take any measures required. i. If an accident involving the driverless vehicle occurs on a public road, they must inform the police immediately. 3 The operators must take the required action in a timely manner. 4 The operators' place of work must be in Switzerland. It may be located outside or inside the driverless vehicle."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 1 Rights and Obligations for Driverless Vehicles",
+      "section": "35",
+      "title": "Manual driving of a driverless vehicle",
+      "content": "1 Manual driving may be carried out using controls located in the vehicle or by remote control. 2 Persons who manually drive a driverless vehicle: a. are deemed to be the driver of the vehicle; b. are not deemed to be an operator. 3 If the vehicle has no conventional controls for vehicle operation, it may only be driven manually in accordance with the manufacturer's specifications or in the course of the departure check. 4 Switching between automated and manual driving mode may only take place when the vehicle is stationary."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Requirements for operators and persons driving a driverless vehicle manually",
+      "content": "1 Operators and persons driving a driverless vehicle manually must: a. be able and qualified to drive; b. be fit to drive and not be under the influence of alcohol in terms of Article 2 a paragraph 2 of the Traffic Regulations Ordinance of 13 November 1962 (TRegO) while carrying out their duties; and c. hold a driving licence authorising them to drive the category of vehicle to which the driverless vehicle is assigned, but at least category B. 2 They must have successfully completed training in accordance with Article 37 and must undergo continuing education and training in accordance with the manufacturer's specifications. SR 741.11"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Training",
+      "content": "1 The manufacturer must provide training for the work carried out by operators and, if the vehicle has no conventional controls, for driving the vehicle manually. The training must provide all the information required about the technical functions of the vehicle and the automated driving system, insofar as this information is necessary to carry out the relevant tasks and operate the vehicle safely. 2 The manufacturer must issue a certificate to the persons who have successfully completed the training. 3 If the manufacturer does not have a permanent establishment in Switzerland, the training may be offered by the importer of the driverless vehicle. In this case, the confirmation is issued by the importer."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Obligations of vehicle keepers",
+      "content": "1 Vehicle keepers must update and maintain the driverless vehicle's automated driving system in accordance with the manufacturer's specifications. 2 Vehicle keepers must ensure that the departure check is carried out before the vehicle is brought into daily operation. 3 Vehicle keepers must ensure that: a. the vehicle is only used in an area approved for this vehicle; b. is operated under the supervision of an operator; c. the infrastructure is available that is required for the operator to fulfil their tasks in accordance with the manufacturer's specifications; d. suitable personnel and infrastructure are available to drive the driverless vehicle manually if necessary, where the manufacturer has provided this function; e. operators and persons driving the driverless vehicle manually have completed the required training; f. control bodies can establish contact with the operator via the vehicle's audio-visual interface; if the vehicle does not have an audio-visual interface, there must be an alternative communication channel. 4 Vehicle keepers must ensure in organisational terms that the duties incumbent on the driver of the vehicle are fulfilled. It is not necessary to display a breakdown sign in accordance with Article 23 paragraph 2 TRegO provided the hazard warning lights are activated, nor is it necessary to carry the vehicle licence in accordance with Article 10 paragraph 4 RTA. 5 Vehicle keepers are responsible for ensuring that any load is properly secured (Art. 30 RTA and Art. 73 TRegO). 6 Vehicle keepers must ensure that, in the event of the vehicle coming to a standstill and obstructing traffic, immediate measures are taken to have the vehicle removed from the carriageway by a towing or breakdown service, unless it can otherwise be removed from the road. 7 If the vehicle keeper is a legal entity, it must designate a natural person who is responsible for compliance with the obligations set out in this article. SR 741.11"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Section 2 Special Technical Requirements",
+      "section": "39",
+      "title": "Unladen weight",
+      "content": "For driverless vehicles without a driver's seat, the driver's weight is not included in the unladen weight (Art. 7 para. 1 let. c RVTRO). SR 741.41"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Section 2 Special Technical Requirements",
+      "section": "40",
+      "title": "Operating controls",
+      "content": "1 Driverless vehicles are not required to have conventional controls for a driver. 2 In the case of vehicles without conventional controls, the registration authority shall state in the vehicle registration document whether and, if so, where the vehicle has controls for manual driving."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Section 2 Special Technical Requirements",
+      "section": "41",
+      "title": "DSSAD in driverless vehicles",
+      "content": "In addition to the events specified in Article 7 paragraph 3, the DSSAD in driverless vehicles must also record the following events: a. activation or re-initialisation of the automated driving system; b. deactivation of the automated driving system; c. instructions sent by the automated driving system to the operator; d. commands and information sent by the operator; e. manoeuvres performed by the vehicle to minimise risk; f. interruptions of the communication link with the operator."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Section 2 Special Technical Requirements",
+      "section": "42",
+      "title": "Compliance with the limits of the approved target operational domain",
+      "content": "In the case of driverless vehicles, the automated driving system must recognise and comply with the limits of the approved target operational domain."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Section 3 Approval of the Target Operational Domain for Driverless Vehicles",
+      "section": "43",
+      "title": "Application for approval of target operational domains for driverless vehicles",
+      "content": "1 Any legal entity with its registered office or branch in Switzerland or any natural person resident in Switzerland who intends to keep driverless vehicles may submit an application for approval of target operational domains to the cantonal licensing authority or to the competent authority of the Armed Forces. 2 The application may concern a single vehicle or two or more vehicles of the same type. 3 The application must include: a. a description of the target operational domains for which authorisation is requested, including the routes, the limitations, and information on particularly demanding points in the domain and the expected conditions in accordance with Article 3 paragraph 1 letter i; b. an assessment of whether the characteristics of the target operational domains applied for correspond to those of the operational design domain; the scenarios assessed, the particularly demanding points and the suitability must be confirmed by the manufacturer or the importer of the vehicles authorised by the manufacturer; c. an indication of whether there are any operational restrictions; d. a description of the vehicle's remote intervention capabilities and confirmation of reliable wireless communication with adequate latency throughout the target operational domain for which approval is sought; e. an operating concept for the use of operators and a declaration by the prospective vehicle keeper as to how the personnel and other requirements will be met; f the EU certificate of conformity for the vehicle or vehicles in accordance with Regulation (EU) 2018/858 and the annex to the type approval with detailed information on the automated driving system; g. the declarations of consent from the parties obliged to report and provide information (Art. 13 para. 3 and 4 and Art. 14 para. 1-3) to providing the relevant information to FEDRO in due time. 4 Applications for the registration of new vehicle types in target operational domains already approved by the authorities do not require information to be provided in accordance with paragraph 3 letters a and e. 5 Applications to change the number of vehicles of the same vehicle type that have been granted approval for target operational domains only require the new or non-applicable chassis numbers to be specified. 6 The competent authority may request additional information if this is required in order to assess the application. See footnote to Art. 12 para. 1 let. a."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Section 3 Approval of the Target Operational Domain for Driverless Vehicles",
+      "section": "44",
+      "title": "Responsibility for processing the application",
+      "content": "1 The registration canton is responsible for examining and coordinating the applications and for approving the target operational domains. If a target operational domain for army vehicles is restricted to areas owned by the Confederation and managed by the Department of Defence, Civil Protection and Sport (DDPS), the responsibility for approval lies with the Armed Forces registration authority. 2 If a target operational domain extends onto the territory of another canton or includes national highways, the authorising canton shall obtain the consent of the other canton or FEDRO respectively. 3 The communes affected by the requested target operational domains must be consulted. If a target operational domain covers: a. areas that are administered by the DDPS, the Armed Forces' registration authority must be consulted; b. offers of passenger transport services licensed or authorised by the Confederation, the FOT must be consulted; c. the territory of another state or a customs exclusion area in accordance with Article 3 paragraph 3 of the Customs Act of 18 March 2005, the FOCBS must be consulted. SR 631.0"
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Assessment of the application",
+      "content": "1 The application for the authorisation of target operational domains must contain the information specified in Article 43 paragraph 3 and show that: a. the driverless vehicles can handle the task of driving in the relevant target operational domains independently; b. the infrastructure on the relevant route meets the technical requirements for the operation of driverless vehicles; c. traffic will not be obstructed or traffic congestion caused by the operation of driverless vehicles, road safety is guaranteed and the needs of cyclists and pedestrians are adequately taken into account; d. a sufficient number of adequately qualified operators will be engaged, they will have sufficient access at all times to the data and information required for vehicle operation in accordance with the operating concept, and they will be provided with suitably equipped workstations; e. communication between the operators and the vehicle occupants is possible at all times via an audio-visual interface; and f. the obligations incumbent on the vehicle keeper (Art. 38) are fulfilled. 2 The application shall be approved if the requirements set out in paragraph 1 are met and there are no local circumstances, such as those related to traffic planning, traffic flow or the need to ensure the provision of public transport or the quality of life, particularly in residential neighbourhoods, that prevent approval. 3 The approval authority may consult the FEDRO monitoring group (Art. 50 para. 6) when assessing whether the requirements under paragraph 1 have been meet or instruct the applicant to have an assessment carried out by a recognised or accredited organisation. 4 The complete documentation for the assessment of the applications must be submitted to FEDRO."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Notification of the decision",
+      "content": "Official notification of the decision on an application for approval of the target operational domains of driverless vehicles shall be given to the applicant; the decision shall also be communicated to the following authorities: a. the authority responsible for registration of the vehicles; b. the cantonal and federal authorities responsible for examining the application and the security directorates of the cantons concerned; c. the competent authorities of the communes whose territory is affected by the approved target operational domain; d. FEDRO."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Publication of approved target operational domains",
+      "content": "Details of approved target operational domains are published in the official publication organ for the approval authority. If other authorities have given their consent, they shall also publish their decision in their official publication organs."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Supervision",
+      "content": "1 The approval authorities and the consenting authorities may review the information in the application at any time, even after it has been approved. The approval holder must grant a competent authority access to the data and documents required for the operation of the vehicles on request and provide any information required for the application of this Ordinance and for an inspection. 2 The competent authorities must be granted access to the premises containing the infrastructure of the operators and persons who drive the vehicle manually when necessary. 3 Approval may be suspended if the requirements for granting it are temporarily no longer met. 4 Approval shall be suspended if any of the conditions for invoking the safeguard clauses (Art. 16) is met. 5 Approval shall be suspended until the conditions for granting it are demonstrably met again or the conditions for applying the safeguard clauses are demonstrably no longer met. 6 The approval authority shall notify the competent registration authority of the suspension or cancellation of within 5 days."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Chapter 6 Criminal and Final Provisions",
+      "section": "49",
+      "title": "Criminal provisions",
+      "content": "1 Criminal liability for a breach of the driver's obligations under Article 23 is governed by Article 90 RTA. 2 Persons shall be liable to a fine if they: a. commercially sell, rent or lease a vehicle with takeover request and: 1. fail to expressly explain how to use the automated driving system as intended to the contracting party (Art. 22 para. 1), or 2. fail to retain the confirmation of the contracting party regarding the explanation or dispose of it before the expiry of the five-year period (Art. 22 para. 2); b. breach the obligations under Article 38; c. wilfully drive a driverless vehicle manually without having completed the required training (Art. 36 para. 2). 3 Operators shall be liable to a fine if they wilfully: a. breach an obligation under Article 34 paragraph 2 letters a-i; b. take charge of a driverless vehicle without being able or qualified to drive or without holding a driving licence for the corresponding vehicle category, but at least category B (Art. 36 para. 1 let. a and c); c. take charge of a driverless vehicle even though they are temporarily unfit to drive or are under the influence of alcohol (Art. 36 para. 1 let. b); d. take charge of a driverless vehicle without having completed the required training (Art. 36 para. 2)."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Chapter 6 Criminal and Final Provisions",
+      "section": "50",
+      "title": "Enforcement",
+      "content": "1 FEDRO may issue directives for the implementation of this Ordinance and regulate details, in particular to ensure compatibility with international and European law. 2 In special individual cases, it may authorise derogations from the following provisions for vehicles with an automated parking system and for driverless vehicles: a. Article 3 paragraph 1 letter h; b. Article 4 paragraph 2; c. Article 7 paragraph 7; d. Article 8; e. Article 11; f. Article 26 paragraph 3; g. Article 27 paragraph 1 letter b; h. Article 43 paragraph 3 letter f and paragraphs 4 and 5. 3 In the cases referred to in paragraph 2, it may specify alternative requirements if proof is provided that a comparable level of safety is guaranteed. 4 In the case of derogations in accordance with paragraph 2 letter d, it may limit the authorisation in time. 5 At the request of the manufacturer or importer, FEDRO may order that manufacturer’s declarations of compliance with a test report in accordance with Article 14 RVTAO apply to the registration of driverless vehicles instead of international type approvals, provided it can be demonstrated that the tests were carried out in accordance with the international regulations recognised by Switzerland in accordance with Annex 2 Nos. 11 and 12 RVTRO. 6 FEDRO shall form an advisory group that supports the cantons in assessing applications for the approval of target operational domains for driverless vehicles and parking areas for automated parking. The advisory group shall include representatives of the registration authorities, the police, the building, spatial planning and environmental authorities and other stakeholders. 7 FEDRO shall evaluate the effects of this Ordinance no later than five years after it comes into force. It shall publish the results of the evaluation. SR 741.511 SR 741.41 The amendment in accordance with No I of the O of 15 Oct. 2025, in force since 1 Jan. 2026 relates to the French and Italian texts only ( AS 2025 653 )."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Deferral of the right to assessment of applications",
+      "content": "In the first three years after this Ordinance comes into force, there shall be no right to have applications assessed for the authorisation of parking areas for automated parking and for the authorisation of target operational domains for driverless vehicles."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Amendment of other legislation",
+      "content": "The amendment of other legislation is regulated in the Annex."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Commencement",
+      "content": "1 Subject to paragraph 2, this Ordinance comes into force on 1 March 2025. 2 The amendment to Annexes 11 and 12 of the Road Traffic Authorisation Ordinance of 27 October 1976 (Annex, No. 3) comes into force on 1 July 2025. SR 741.51"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "vehicle with takeover request",
+      "definition": "vehicle with takeover request means a vehicle with an automated driving system that informs the driver when it reaches the limits of its operational design domain;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "vehicle with an automated parking system",
+      "definition": "vehicle with an automated parking system means a vehicle with an automated driving system designed to manoeuvre from the handover location to a parking space and from the parking space to the pick-up location without the driver and without the driver's supervision;",
+      "source_provision": "art2"
+    }
+  ]
+}

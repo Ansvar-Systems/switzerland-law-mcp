@@ -1,0 +1,50 @@
+{
+  "id": "sr-642-142-2",
+  "type": "statute",
+  "title": "Verordnung vom 13. November 2019 über den steuerlichen Abzug auf Eigenfinanzierung juristischer Personen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2019/700/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Eigenkapitalunterlegungssätze",
+      "content": "(Art. 25 a bis Abs. 2 und 3 StHG) Die Eigenkapitalunterlegungssätze betragen auf folgenden Aktiven: Aktiven Eigenkapitalunterlegungssätze 1 Betriebsnotwendiges Umlaufvermögen 1.1 Flüssige Mittel 0 % 1.2 Kurzfristig gehaltene Aktiven mit Börsenkurs: 1.2.1 in- und ausländische Obligationen in Schweizerfranken 35 % 1.2.2 ausländische Obligationen in Fremdwährung 45 % 1.2.3 börsenkotierte in- und ausländische Aktien 65 % 1.3 Forderungen aus Lieferungen und Leistungen 40 % 1.4 Übrige kurzfristige Forderungen 40 % 1.5 Vorräte und nicht fakturierte Dienstleistungen 40 % 1.6 Aktive Rechnungsabgrenzungen 40 % 2 Betriebsnotwendiges Anlagevermögen 2.1 Finanzanlagen: 2.1.1 in- und ausländische Obligationen in Schweizerfranken 35 % 2.1.2 ausländische Obligationen in Fremdwährung 45 % 2.1.3 börsenkotierte in- und ausländische Aktien 65 % 2.1.4 nicht börsenkotierte Aktien und Stammanteile 75 % 2.1.5 Darlehen an Nahestehende: 2.1.5.1 die keine ungerechtfertigte Steuerersparnis nach Artikel 25 a bis Absatz 3 Buchstabe e StHG bewirken 15 % 2.1.5.2 die eine ungerechtfertigte Steuerersparnis nach Artikel 25 a bis Absatz 3 Buchstabe e StHG bewirken 100 % 2.1.6 Darlehen an Drittparteien 40 % 2.2 Beteiligungen nach Artikel 28 Absatz 1 StHG 100 % 2.3 Sachanlagen: 2.3.1 mobile Sachanlagen 75 % 2.3.2 immobile Sachanlagen: 2.3.2.1 Fabrikliegenschaften, Wohnliegenschaften und Bauland 55 % 2.3.2.2 übrige Liegenschaften 45 % 2.4 Immaterielle Werte: 2.4.1 derivative immaterielle Werte 55 % 2.4.2 selbst geschaffene immaterielle Werte: 2.4.2.1 die nach Artikel 24 b StHG besteuert werden 100 % 2.4.2.2 die nicht nach Artikel 24 b StHG besteuert werden 55 % 2.5 Nicht einbezahltes Grund-, Gesellschafter- oder Stiftungskapital 100 % 3 Nicht betriebsnotwendige Aktiven 100 % 4 Nach Artikel 24 c StHG aufgedeckte stille Reserven, einschliesslich des selbst geschaffenen Mehrwerts, sowi e vergleichbare unversteuert aufgedeckte stille Reserven 4.1 sofern Teil des steuerbaren Eigenkapitals 100 % 4.2 sofern nicht Teil des steuerbaren Eigenkapitals 0 %"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Berechnung des Sicherheitseigenkapitals",
+      "content": "(Art. 25 a bis Abs. 2 StHG) 1 Das Sicherheitseigenkapital entspricht der positiven Differenz zwischen dem gesamten steuerlich massgeblichen Eigenkapital und dem Kerneigenkapital. 2 Das Kerneigenkapital berechnet sich, indem die durchschnittlichen Gewinnsteuerwerte der Aktiven mit den Eigenkapitalunterlegungssätzen nach Artikel 1 multipliziert und die Ergebnisse summiert werden. 3 Die durchschnittlichen Gewinnsteuerwerte berechnen sich anhand der Gewinnsteuerwerte zu Beginn und am Ende der Steuerperiode. 4 Verfügt eine steuerpflichtige Person über Geschäftsbetriebe, Betriebsstätten oder Grundstücke im Ausland oder in einem anderen Kanton, so vermindert sich das Sicherheitseigenkapital prozentual um den Anteil der durchschnittlichen Gewinnsteuerwerte dieser Aktiven an den durchschnittlichen Gewinnsteuerwerten der gesamten Aktiven. Dabei werden die durchschnittlichen Gewinnsteuerwerte der Aktiven mit der Differenz zwischen 100 Prozent und dem jeweiligen Eigenkapitalunterlegungssatz nach Artikel 1 gewichtet."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Kalkulatorischer Zinssatz",
+      "content": "(Art. 25 a bis Abs. 4 erster Satz StHG) 1 Der kalkulatorische Zinssatz auf dem Sicherheitseigenkapital entspricht der Rendite von zehnjährigen Bundesobligationen am letzten Handelstag des dem Beginn der Steuerperiode vorangegangenen Kalenderjahres. Bei negativer Rendite beträgt der Zinssatz 0 Prozent. 2 Der kalkulatorische Zinssatz wird jährlich von der Eidgenössischen Steuerverwaltung publiziert."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Forderungen aller Art gegenüber Nahestehenden",
+      "content": "(Art. 25 a bis Abs. 4 zweiter Satz StHG) Der Anteil des Sicherheitseigenkapitals, der auf Forderungen aller Art gegenüber Nahestehenden entfällt, entspricht dem Anteil des durchschnittlichen Gewinnsteuerwerts dieser Forderungen am durchschnittlichen Gewinnsteuerwert der Aktiven nach Anwendung von Artikel 2 Absatz 4. Dabei werden die durchschnittlichen Gewinnsteuerwerte der Aktiven mit der Differenz zwischen 100 Prozent und dem jeweiligen Eigenkapitalunterlegungssatz nach Artikel 1 gewichtet."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Berechnung des kalkulatorischen Zinses auf dem Sicherheitseigenkapital",
+      "content": "(Art. 25 a bis Abs. 5 StHG) 1 Der massgebende Zinsaufwand berechnet sich, indem das Sicherheitseigenkapital mit dem kalkulatorischen Zinssatz multipliziert wird. 2 Der Zinsaufwand auf Sicherheitseigenkapital, das auf Forderungen aller Art gegenüber Nahestehenden entfällt, berechnet sich, indem dieser Anteil des Sicherheitseigenkapitals mit dem Zinssatz multipliziert wird, der dem Drittvergleich entspricht."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2020 in Kraft."
+    }
+  ],
+  "definitions": []
+}

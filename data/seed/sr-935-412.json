@@ -1,0 +1,98 @@
+{
+  "id": "sr-935-412",
+  "type": "statute",
+  "title": "Verordnung vom 12. August 2015 über das Datenbearbeitungssystem private Sicherheitsdienstleistungen (VDPS)",
+  "title_en": "",
+  "short_name": "VDPS",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/530/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt den Betrieb und die Benützung des automatisierten Datenbearbeitungssystems private Sicherheitsdienstleistungen (DPS) der Politischen Direktion (PD) des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Zweck des DPS",
+      "content": "Das DPS dient der PD zur Wahrnehmung der folgenden nach den Artikeln 10, 12–14 und 16 BPS zu erbringenden Aufgaben: a. Bearbeitung der eingehenden Meldungen; b. Durchführung des Prüfverfahrens; c. Erstellung von Statistiken und Berichten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Verantwortliche Behörde",
+      "content": "Die PD trägt die Verantwortung für das DPS."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "4",
+      "title": "Bearbeitete Daten und Bearbeitungsrechte",
+      "content": "1 Im DPS werden folgende Daten bearbeitet: a. betreffend das meldepflichtige Unternehmen: Angaben zu den Identitäten und den beabsichtigten Tätigkeiten nach Anhang 1; b. betreffend das Personal und die Mitglieder der Geschäftsleitung oder des Aufsichtsorgans des meldepflichtigen Unternehmens: die Daten nach Anhang 2; c. betreffend die Auftraggeberinnen und Auftraggeber sowie die Empfängerinnen und Empfänger von privaten Sicherheitsdienstleistungen nach Artikel 5 der Verordnung vom 24. Juni 2015 über die im Ausland erbrachten privaten Sicherheitsdienstleistungen: die Daten nach Anhang 3. 2 Die zuständigen Mitarbeiterinnen und Mitarbeiter der PD erfassen die Daten im DPS; sie können die Daten jederzeit bearbeiten. 3 Die Einheit für Informatik des EDA kann alle Daten im DPS bearbeiten, soweit dies für die Erfüllung ihrer Aufgaben notwendig ist. SR 935.411"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "5",
+      "title": "Erteilung der Zugriffsberechtigung",
+      "content": "1 Die oder der Anwendungsverantwortliche erteilt den Benutzerinnen und Benutzern des DPS die individuellen Zugriffsrechte. 2 Sie oder er überprüft mindestens einmal jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "6",
+      "title": "Dokumente",
+      "content": "Im DPS können alle Dokumente zu elektronisch gespeicherten Geschäften erfasst werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "7",
+      "title": "Technischer Betrieb und Systemverwaltung",
+      "content": "1 Die Einheit für Informatik des EDA ist für den technischen Betrieb des DPS verantwortlich. 2 Die Systemadministratorin oder der Systemadministrator verwaltet das Computersystem, die Datenbank und die Anwendungen des DPS. 3 Die oder der Anwendungsverantwortliche bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern. Sie oder er ist bei der PD angestellt."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "8",
+      "title": "Sorgfaltspflichten",
+      "content": "1 Die PD sorgt dafür, dass die Personendaten im DPS vorschriftsgemäss bearbeitet werden. 2 Sie stellt sicher, dass die Personendaten im DPS richtig und vollständig sind und nachgeführt werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "9",
+      "title": "Datensicherheit",
+      "content": "1 Die Daten- und Informatiksicherheit richtet sich nach der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz, der Bundesinformatikverordnung vom 9. Dezember 2011 und den Weisungen des Bundesrates vom 14. August 2013 über die IKT-Sicherheit in der Bundesverwaltung. 2 Die PD erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung. SR 235.11 SR 172.010.58 BBl 2013 6713"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "10",
+      "title": "Protokollierung",
+      "content": "1 Die Zugriffe auf das DPS und die Änderungen werden laufend protokolliert. 2 Die Protokolle werden ein Jahr aufbewahrt."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Aufbewahrung, Archivierung und Vernichtung der Daten",
+      "section": "11",
+      "title": "",
+      "content": "1 Die im DPS enthaltenen Personendaten werden 15 Jahre nach der letzten Bearbeitung vernichtet. 2 Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Inkrafttreten",
+      "section": "12",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. September 2015 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,564 @@
+{
+  "id": "sr-745-16",
+  "type": "statute",
+  "title": "Verordnung vom 16. Oktober 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr (ARPV)",
+  "title_en": "",
+  "short_name": "ARPV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2024/609/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Abgeltung der ungedeckten Kosten der von Bund und Kantonen gemeinsam bestellten Angebote im regionalen Personenverkehr, namentlich die Anteile der Kantone und des Bundes; b. die Bestellung von Angeboten von nationaler Bedeutung, Tariferleichterungen und weiteren Angeboten; c. die Gewährung von Finanzhilfen; d. die Rechnungslegung der Unternehmen, die Abgeltungen oder Finanzhilfen nach PBG oder EBG erhalten."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung gelten als: a. regionaler Personenverkehr: der Personenverkehr innerhalb einer Region, einschliesslich der Groberschliessung von Ortschaften nach Artikel 5 Absatz 3 der Verordnung vom 4. November 2009 über die Personenbeförderung (VPB), sowie der Personenverkehr mit benachbarten, auch ausländischen Regionen; b. Betriebskosten- und Leistungsrechnung: Ist-Kostenrechnung als Grundlage für den Ergebnisausweis der einzelnen Sparten eines Unternehmens; c. Sparte: folgende gleichartigen Angebote eines Unternehmens: 1. die Gesamtheit der von Bund und Kantonen gemeinsam bestellten Linien des regionalen Personenverkehrs, 2. die Eisenbahninfrastruktur, 3. die nur von den Kantonen bestellten Linien des regionalen Personenverkehrs sowie weitere bestellte Angebote wie der Ortsverkehr, 4. der vom Bund bestellte Autoverlad, 5. Nebengeschäfte; d. Linienerfolgsrechnung: in der Betriebskosten- und Leistungsrechnung der Ergebnisausweis eines einzelnen Angebots einer Sparte; e. Planrechnung: in der Offerte enthaltene Rechnung zum Nachweis der ungedeckten Kosten einzelner Angebote einer Sparte oder der Sparte insgesamt; f. Investitionsrechnung: Ausweis aller Vorgänge im Zusammenhang mit der Erstellung, Erneuerung, Abschreibung oder Desinvestition von Objekten des Anlagevermögens. SR 745.11"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "3",
+      "title": "Empfänger von Abgeltungen",
+      "content": "Abgeltungen nach Artikel 28 Absatz 1 PBG können Unternehmen erhalten, die gestützt auf eine Konzession nach Artikel 6 PBG, eine Bewilligung nach Artikel 8 PBG oder einen Staatsvertrag Personen im Linienverkehr, im Bedarfsverkehr oder mit linienverkehrsähnlichen Fahrten befördern."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "4",
+      "title": "Abgeltung der ungedeckten Kosten",
+      "content": "1 Abgeltungen für die Deckung der gemäss Planrechnung ungedeckten Kosten im regionalen Personenverkehr werden für die einzelne Linie entrichtet. 2 Bund und Kantone können mit einem Unternehmen eine von den geplanten ungedeckten Kosten abweichende Abgeltung vereinbaren, wenn: a. eine neue Linie eingerichtet werden soll; b. eine Zielvereinbarung mit festgelegten Kosten oder Abgeltungen abgeschlossen wurde; oder c. es im Ausnahmefall für die Besteller und das Unternehmen von Vorteil ist."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "5",
+      "title": "Koordination zwischen BAV und Kantonen",
+      "content": "1 Gelten Bund und Kantone die ungedeckten Kosten im regionalen Personenverkehr gemeinsam ab, so führen das Bundesamt für Verkehr (BAV) und die Kantone das Bestellverfahren gemeinsam durch. 2 Sie koordinieren ihre Tätigkeiten bei der Bestellung und der Prüfung durch die Aufsichtsbehörde nach Artikel 37 PBG. 3 Die Kantone sind federführend bei der Festlegung des Angebots, bei der Offertprüfung und bei Verhandlungen mit den Unternehmen. Betrifft die Bestellung mehrere Kantone, so einigen sie sich auf einen federführenden Kanton pro Linie. Können sie sich nicht einigen, so entscheidet das BAV. 4 Das BAV ist federführend bei der Messung der Qualität der bestellten Leistungenund unterstützt die Kantone bei der Offertprüfung, insbesondere mittels Kennzahlenvergleichen. 5 Es achtet bei der Bestellung auf die Gesamtkoordination des öffentlichen Verkehrs."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "6",
+      "title": "Tarifausgleich",
+      "content": "1 Bund und Kantone sorgen dafür, dass die Tarife für gleichwertige bestellte Angebote im ganzen Land ungefähr gleich sind. 2 Sie achten insbesondere darauf, dass höhere Produktionskosten in geografisch oder aus anderen Gründen benachteiligten Landesgegenden nicht zu wesentlich höheren Tarifen führen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Abgeltungsvoraussetzungen",
+      "section": "7",
+      "title": "",
+      "content": "1 Ein Angebot des regionalen Personenverkehrs wird gemeinsam von Bund und Kantonen abgegolten, wenn: a. die Linie ganzjährig der Groberschliessung nach Artikel 5 Absatz 3 VPB dient; darin inbegriffen sind saisonal oder an einzelnen Wochentagen verkehrende Angebote zur Ergänzung der bestehenden Erschliessung; b. es bei im Ausland liegenden Linienabschnitten überwiegend schweizerischem Verkehr dient oder der Grenzbahnhof bei Eisenbahnlinien im Ausland liegt; c. für die Linie eine minimale Wirtschaftlichkeit und mindestens eine Nachfrage nach Artikel 8 Absatz 2 gegeben sind; d. die Vorgaben der Besteller zur Qualität und Sicherheit des Angebots sowie zur Stellung der Beschäftigten eingehalten werden; e. der direkte Verkehr nach Artikel 16 PBG gewährleistet ist; f. für das Angebot eine Konzession, eine Bewilligung nach Artikel 8 PBG oder ein Staatsvertrag vorliegt. 2 Das BAV legt die Voraussetzungen für die minimale Wirtschaftlichkeit von Linien in einer Richtlinie fest; es berücksichtigt dabei die Bedürfnisse der wirtschaftlichen Entwicklung benachteiligter Landesgegenden und die Kennzahlen nach Artikel 37. Es überprüft die Voraussetzungen periodisch und passt sie bei Bedarf den aktuellen Gegebenheiten an. 3 Nach Anhörung der Kantone entscheidet das BAV, ob die Voraussetzungen für eine gemeinsame Abgeltung einer Linie erfüllt sind. In begründeten Ausnahmefällen kann das BAV der gemeinsamen Abgeltung einer Linie auch zustimmen, wenn nicht alle Voraussetzungen erfüllt sind. SR 745.11"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Angebot im regionalen Personenverkehr",
+      "section": "8",
+      "title": "Umfang des bestellten Angebots",
+      "content": "1 Bund und Kantone bestellen das Angebot gemeinsam aufgrund der Nachfrage. 2 Werden auf dem meistbelasteten Teilstück einer Linie durchschnittlich mindestens 32 Personen pro Tag befördert, so stellen Bund und Kantone eine Mindesterschliessung mit 4 Kurspaaren sicher. 3 Werden auf dem meistbelasteten Teilstück einer Linie durchschnittlich mehr als 500 Personen pro Tag befördert, so kann ein Angebot mit einem durchgehenden Stundentakt mit 18 Kurspaaren bestellt werden. 4 Das Angebot kann über den Stundentakt hinaus verdichtet werden, wenn: a. dies aus Kapazitätsgründen notwendig ist, soweit eine genügende Auslastung und Wirtschaftlichkeit vorliegt; b. es die Ziele der Raumplanung oder des Umweltschutzes verlangen, namentlich wenn sich dadurch wesentliche zusätzliche Marktpotenziale erschliessen lassen. 5 Vom Angebotsumfang nach den Absätzen 2–4 kann abgewichen werden, wenn die betrieblichen Rahmenbedingungen und die Kostensituation einer Linie dies rechtfertigen. 6 Bei Seilbahnen, Fahrten auf Verlangen, Bedarfsverkehr, Sammelfahrten oder Anlagen mit automatischem Betrieb bestellen Bund und Kantone das Angebot aufgrund der Betriebszeiten sowie unter Berücksichtigung der jeweiligen Produktionsbedingungen und Kostensituation. 7 Angebote, die über den Angebotsumfang nach den Absätzen 2–6 hinausgehen, werden vom Bund nicht abgegolten. Sie können durch die Kantone gestützt auf Artikel 28 Absatz 4 PBG als Angebotsverbesserungen bestellt werden. 8 Das BAV legt die Grundsätze für das Angebot im regionalen Personenverkehr in einer Richtlinie fest."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Angebot im regionalen Personenverkehr",
+      "section": "9",
+      "title": "Ermittlung der Nachfrage",
+      "content": "1 Die Nachfrage wird aufgrund der Querschnittsbelastung in der Verkehrsperiode Montag bis Freitag ermittelt. Das BAV kann in besonderen Fällen Ausnahmen bewilligen. 2 Die Querschnittsbelastung eines Teilstücks einer Linie entspricht dem Quotienten aus der Gesamtzahl der Passagiere, die auf dem Teilstück in beiden Richtungen innerhalb eines Jahres in der Verkehrsperiode Montag bis Freitag befördert werden, und der Jahressumme der Verkehrstage in dieser Verkehrsperiode."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Angebot im regionalen Personenverkehr",
+      "section": "10",
+      "title": "Qualität der Angebote",
+      "content": "1 Das BAV misst die Qualität der gemeinsam bestellten Angebote im regionalen Personenverkehr mittels eines Qualitätsmesssystems. Dabei bezieht es die Kantone und die Unternehmen ein. Es veröffentlicht jährlich die Ergebnisse der einzelnen Unternehmen. 2 Die Unternehmen dokumentieren und kommentieren die vom BAV gemessene Qualität ihrer Angebote jährlich in Qualitätsberichten. 3 Gestützt auf die Qualitätsberichte können die Besteller und die Unternehmen in Angebots- oder Zielvereinbarungen Qualitätsverbesserungen vereinbaren."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Ausschreibung und Vergabe",
+      "section": "11",
+      "title": "Ausschreibungsplanung",
+      "content": "1 Jeder Kanton erstellt eine Ausschreibungsplanung über die gemeinsam mit dem Bund auszuschreibenden Angebote. Die Ausschreibungsplanung enthält mindestens folgende Angaben: a. Angebote, die der Kanton gemeinsam mit dem Bund ausschreibt; b. allfällige weitere Angebote, die der Kanton ohne Bundesbeteiligung ausschreibt; c. Zeitpunkt der Ausschreibung; d. Datum der Betriebsaufnahme; e. Vergabedauer; f. bei bestehenden konzessionierten Angeboten die Konzessionärin und das Ende der Konzession; g. Art des Verkehrsträgers: Strasse oder Schiene; h. Grund der Ausschreibung; i. Status der Ausschreibung. 2 Soll ein bestehendes Angebot ausgeschrieben werden, so muss dieses spätestens zwölf Monate vor der Ausschreibung in die Ausschreibungsplanung aufgenommen werden. Soll eine Konzession für ein Angebot des gemeinsam bestellten regionalen Personenverkehrs auf der Strasse neu erteilt werden, so kann dieses Angebot zur Information in die Ausschreibungsplanung aufgenommen werden. 3 Die Ausschreibungsplanung bedarf der Genehmigung des BAV. Das BAV hört die von der Ausschreibung betroffenen anderen Kantone an. 4 Das BAV sorgt dafür, dass die kantonalen Ausschreibungsplanungen aufeinander abgestimmt werden. Insbesondere überprüft es, ob sie bei gemeinsam auszuschreibenden Angeboten dieselben Informationen enthalten. Es veröffentlicht eine Übersicht über die Ausschreibungsplanungen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Ausschreibung und Vergabe",
+      "section": "12",
+      "title": "Schwellenwerte",
+      "content": "1 Der Schwellenwert des Abgeltungsbetrages, ab welchem die Besteller Angebote auf der Strasse nach Artikel 32 Absatz 2 Buchstabe b PBG ausschreiben, richtet sich bei Angeboten, für die eine Konzession neu erteilt werden soll, nach Anhang 4 Ziffer 1.1 des Bundesgesetzes vom 21. Juni 2019 über das öffentliche Beschaffungswesen. 2 Bei bestehenden Angeboten beträgt der Schwellenwert ohne Mehrwertsteuer 500 000 Franken. 3 In Fällen nach Artikel 32 c Absatz 2 PBG schreiben die Besteller das Angebot auch bei einem Abgeltungsbetrag unterhalb des Schwellenwertes aus. SR 172.056.1"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Ausschreibung und Vergabe",
+      "section": "13",
+      "title": "Neues Angebot in einem bestehenden regionalen Netz",
+      "content": "Ein neues Angebot gilt dann als Bestandteil eines bestehenden regionalen Netzes nach Artikel 32 Absatz 2 Buchstabe d PBG, wenn in der Region nur ein Unternehmen mehrere miteinander verknüpfte Buslinien betreibt und sich das neue Angebot so in das bestehende Netz einfügen lässt, dass sich betriebliche Synergien mit den bestehenden Linien ergeben."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Ausschreibung und Vergabe",
+      "section": "14",
+      "title": "Ausschreibung mit mehreren beteiligten Kantonen",
+      "content": "1 Beteiligen sich mehrere Kantone an einer Ausschreibung, so einigen sie sich vor Beginn der Ausschreibung auf einen Kanton, der die Federführung übernimmt, sowie auf die Aufteilung der Ausschreibungskosten. 2 Der federführende Kanton übernimmt die Aufgaben des Kantons nach den Artikeln 15, 18, 19 und 26."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Ausschreibungsverfahren",
+      "content": "1 Der Kanton erstellt die Ausschreibungsunterlagen. Diese enthalten: a. die für die Einreichung der Ausschreibungsofferten massgebenden Angaben; b. die Anforderungen an die Ausschreibungsofferten; c. die Kriterien zur Bewertung der Eignung der offerierenden Unternehmen; d. die Kriterien zur Bewertung der Ausschreibungsofferten; e. die Fristen für die Einreichung der Ausschreibungsofferten und des Konzessionsgesuchs; f. die Dauer, während welcher die Unternehmen an ihre Ausschreibungsofferten gebunden sind. 2 Die Frist für die Einreichung der Ausschreibungsofferten und der Konzessionsgesuche beträgt mindestens 60 Tage nach der Ausschreibung. Die Unternehmen sind während höchstens zwölf Monaten ab Ende der Einreichungsfrist an ihre Ausschreibungsofferten gebunden. 3 Der Kanton unterbreitet die Ausschreibungsunterlagen sowie Änderungen dieser Unterlagen dem BAV zur Genehmigung und schreibt danach das Angebot aus. 4 Nach der Ausschreibung veröffentlicht der Kanton: a. Änderungen der Ausschreibungsunterlagen unverzüglich nach deren Genehmigung; b. die Fragen der interessierten Unternehmen und die Antworten der Besteller in anonymisierter Form. 5 Er stellt die Ausschreibungsunterlagen interessierten Unternehmen auf Verlangen zu und gibt diesen Unternehmen auch die Angaben nach Absatz 4 bekannt. 6 Beteiligen sich mehrere Kantone an einer Ausschreibung, so unterbreitet der federführende Kanton die Ausschreibungsunterlagen sowie Änderungen dieser Unterlagen den beteiligten Kantonen zur Genehmigung."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Vergütung",
+      "content": "Es besteht kein Anspruch auf die Vergütung der Kosten der Ausschreibungsofferten."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Teile und Kombinationen des Angebots, Unternehmensvarianten",
+      "content": "1 In der Ausschreibung kann vorgesehen werden, dass die Unternehmen: a. Ausschreibungsofferten für Teile oder Kombinationen des Angebots einreichen können; b. Unternehmensvarianten einreichen können. 2 Die Rahmenbedingungen werden in den Ausschreibungsunterlagen festgehalten."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Öffnung der Ausschreibungsofferten",
+      "content": "1 Mindestens je eine Vertreterin oder ein Vertreter des Kantons und des BAV öffnen die Ausschreibungsofferten gemeinsam. 2 Sie erstellen über die Öffnung der Ausschreibungsofferten ein Protokoll und halten darin mindestens folgende Angaben fest: a. die Namen der anwesenden Personen; b. die Namen der offerierenden Unternehmen; c. das Einreichungsdatum; d. die geplanten Kosten und Erlöse der Angebote; e. den Umfang der Ausschreibungsofferten nach Artikel 17. 3 Der Kanton stellt das Protokoll den offerierenden Unternehmen unter Wahrung des Geschäftsgeheimnisses zu. Bei mehreren beteiligten Kantonen stellt der federführende Kanton das Protokoll auch den übrigen beteiligten Kantonen zu."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Bereinigung und Bewertung der Ausschreibungsofferten",
+      "content": "1 Der Kanton bereinigt die Angaben der Ausschreibungsofferten in technischer und rechnerischer Hinsicht so, dass sie objektiv vergleichbar sind. Kontaktiert er hierfür ein offerierendes Unternehmen, so hält er den Ablauf und das Ergebnis der Kontaktaufnahme fest. 2 Die Besteller können über ein offerierendes Unternehmen Erkundigungen einholen, insbesondere wenn: a. der Verdacht auf einen Ausschlussgrund nach Artikel 32 f PBG besteht; oder b. die ungedeckten Kosten des Angebots aussergewöhnlich niedrig sind. 3 Sie bewerten die Ausschreibungsofferten mittels einer Nutzwertanalyse oder eines gleichwertigen Bewertungssystems und ermitteln gemeinsam die vorteilhafteste Ausschreibungsofferte. 4 Sie legen gemeinsam fest, ob die Bewertung aufgrund der geplanten Kosten und Erlöse oder nur der geplanten Kosten erfolgt."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Vergabeabsicht und Vergabeentscheid",
+      "content": "1 Das BAV gibt die Vergabeabsicht den beteiligten Kantonen und den offerierenden Unternehmen bekannt. 2 Es führt die Anhörung nach Artikel 13 VPB durch. 3 Nach Abschluss der Anhörung verfügt das BAV den Vergabeentscheid sowie die Erteilung oder Erneuerung der Konzession. 4 Liegt neun Monate vor der Betriebsaufnahme einer Linie kein rechtskräftiger Vergabeentscheid vor, so entscheidet das BAV über den Betrieb der Linie. SR 745.11"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Abbruch des Ausschreibungsverfahrens",
+      "content": "Die Besteller brechen das Ausschreibungsverfahren aus wichtigen Gründen ab, insbesondere wenn: a. sich die Voraussetzungen der Ausschreibung grundlegend geändert haben; b. keine Ausschreibungsofferte die in den Ausschreibungsunterlagen festgelegten Anforderungen und Kriterien erfüllt."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Veröffentlichung",
+      "content": "1 Die Veröffentlichungen des BAV erfolgen auf der Internetplattform für öffentliche Beschaffungen. 2 Nicht veröffentlicht werden Verfügungen in Fällen nach Artikel 32 Absatz 2 Buchstaben a, f und g PBG. www.simap.ch"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Wechsel des beauftragten Unternehmens",
+      "content": "Stellt das neu beauftragte Unternehmen Arbeitnehmerinnen und Arbeitnehmer des bisher beauftragten Unternehmens aufgrund von Artikel 32 l Absatz 3 PBG an, so handelt es sich dabei nicht um einen Übergang des Arbeitsverhältnisses nach Artikel 333 des Obligationenrechts (OR). SR 220"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "5. Abschnitt: Zielvereinbarungen",
+      "section": "24",
+      "title": "Grundsätze",
+      "content": "1 Bund und Kantone schliessen mit den Unternehmen Zielvereinbarungen für eine Dauer von vier bis sechs Jahren ab. Abweichende Dauern sind in gegenseitigem Einvernehmen möglich. 2 Bund und Kantone dürfen mit den Unternehmen keine den Zielvereinbarungen zuwiderlaufenden Vereinbarungen abschliessen. 3 In den Zielvereinbarungen können Kosten- oder Abgeltungsziele vereinbart werden oder Kosten oder Abgeltungen verbindlich fixiert werden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "5. Abschnitt: Zielvereinbarungen",
+      "section": "25",
+      "title": "Ausnahmen",
+      "content": "Keine Zielvereinbarungen müssen abgeschlossen werden: a. für Seilbahnen und Schiffe; b. für grenzüberschreitende Angebote; c. für Unternehmen mit einem jährlichen Abgeltungsbetrag unter 1 Million Franken; d. in begründeten Einzelfällen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "5. Abschnitt: Zielvereinbarungen",
+      "section": "26",
+      "title": "Zielvereinbarung nach einer Ausschreibung",
+      "content": "1 Nach einer Ausschreibung nach Artikel 32 PBG schliessen das BAV, die beteiligten Kantone und das Unternehmen eine Zielvereinbarung für die im Vergabeentscheid festgelegte Dauer ab. 2 In der Zielvereinbarung werden die Kosten und Erlöse oder nur die Kosten für die ersten zwei Bestellperioden festgelegt sowie die Anpassungen dieser Beträge für die Folgejahre geregelt. 3 Bei wesentlichen Änderungen der Verhältnisse können die Parteien die Zielvereinbarung im gegenseitigen Einvernehmen anpassen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "5. Abschnitt: Zielvereinbarungen",
+      "section": "27",
+      "title": "Bonus-Malus-System",
+      "content": "1 Bonus-Malus-Systeme dürfen die Unternehmen nicht in ihrem Bestand gefährden. 2 Boni oder Mali sind bei der Zuweisung zur Spezialreserve nach Artikel 36 PBG nicht zu berücksichtigen. 3 Der Bonus steht dem Unternehmen zur freien Verfügung."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "6. Abschnitt: Bestellverfahren",
+      "section": "28",
+      "title": "Termine und Ablauf",
+      "content": "1 Das BAV gibt den Kantonen und den Unternehmen die Termine der einzelnen Phasen des Bestellverfahrens bekannt. Es trägt dabei der Zeit, die für die kantonalen Entscheidverfahren notwendig ist, angemessen Rechnung. 2 Das BAV und die Kantone sorgen für die Koordination von Fahrplanverfahren und Bestellverfahren. Die Kantone hören die interessierten Kreise im Verlauf des Bestellverfahrens an und berücksichtigen deren Anträge angemessen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "6. Abschnitt: Bestellverfahren",
+      "section": "29",
+      "title": "Finanzielle Vorgaben",
+      "content": "1 Der Bundesrat stellt die für den regionalen Personenverkehr einzusetzenden Mittel ein: a. im Entwurf für den jährlichen Voranschlag; b. im Verpflichtungskredit nach Artikel 30 a PBG. 2 Das BAV teilt die Mittel den Kantonen in Fortschreibung der bisherigen Leistungen des Bundes zu. Es kann dabei auch den effektiven Bedarf berücksichtigen."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "7. Abschnitt: Offerten",
+      "section": "30",
+      "title": "Aufforderung zur Offertstellung",
+      "content": "1 Nach Konsultation des BAV informieren die Kantone die Unternehmen spätestens zwölf Monate vor Beginn einer Bestellperiode über die für den regionalen Personenverkehr bereitgestellten Mittel und fordern sie zur Offertstellung auf. Sie teilen ihnen gleichzeitig mit, wie das Angebot verändert werden soll. Bei interkantonal tätigen Unternehmen koordinieren die Kantone ihre Vorgaben. 2 Wollen die Besteller ein Angebot so ändern, dass ein Unternehmen sein Betriebskonzept von Grund auf überarbeiten muss, so informieren sie dieses spätestens drei Jahre vor der Einführung des neuen Angebots. 3 Wollen die zur Offertstellung aufgeforderten Unternehmen keine Offerte erstellen, so müssen sie dies den Bestellern innert Monatsfrist mitteilen. 4 Für Angebote, die nach Artikel 32 PBG ausgeschrieben worden sind, müssen die Unternehmen bis zum Ablauf der Zielvereinbarung für die betreffenden Linien eine Offerte einreichen. 5 Die Besteller können von den Unternehmen vor dem Einreichen der Offerten Richtofferten verlangen. Diese dienen der Angebotsplanung und sind nicht verbindlich."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "7. Abschnitt: Offerten",
+      "section": "31",
+      "title": "Offerteinreichung",
+      "content": "1 Die Offerte für die nachfolgende Bestellperiode ist den Bestellern im letzten Jahr einer Bestellperiode nach Vorliegen der Betriebskosten- und Leistungsrechnung des Vorjahres, spätestens jedoch Ende April, einzureichen. 2 Die Offerte ist nach Linien zu gliedern. Nach Vorgabe des BAV können Linien nach Artikel 9 VPB unterteilt oder zusammengefasst werden. 3 Die Offerte muss enthalten: a. eine qualitative und quantitative Umschreibung des Angebotskonzeptes; b. je eine verbindliche Planrechnung für die einzelnen Fahrplanjahre der Bestellperiode; c. Begründungen für Abweichungen gegenüber bisherigen Planungen, Zielvereinbarungen und letzter Jahresrechnung; d. einen Mittelfristplan, sofern dieser nicht bereits durch die Zielvereinbarung abgedeckt ist; e. eine Investitionsplanung; f. eine Übersicht über die eingesetzten Fahrzeuge; g. die Indikatoren zur Berechnung der Kennzahlen für die einzelnen Jahre der Bestellperiode; h. die Fahrpläne der Bestellperiode; i. die Qualitätsberichte des Vorjahres; j. Angaben zu Kosten und Erlösen des Erhalts und Betriebes von historischem Rollmaterial. 4 Das BAV legt fest, in welcher Form die Offerte einzureichen ist. 5 Die Besteller können weitere Unterlagen verlangen, insbesondere Nachweise zu den Anstellungsbedingungen des Personals, zum Stand der Umsetzung des Behindertengleichstellungsgesetzes vom 13. Dezember 2002, zum Verkauf und zu den Verkaufsstellen, zum Angebot im Transport von Reisegepäck sowie zum Tarifsystem und Tarifniveau. SR 745.11 SR 151.3"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Planrechnung",
+      "content": "1 In der Planrechnung einer Offerte sind das Leistungs- und das Verursacherprinzip sowie das Prinzip der Vollkostenrechnung einzuhalten. 2 Die Planrechnung ist nach Linien zu gliedern; die Gliederung richtet sich nach Anhang 1. 3 Die Besteller können von den Unternehmen verlangen, allgemeine Kosten wie Kosten für den Verkauf und Vertrieb separat auszuweisen, damit sie diese als eigenständiges Angebot abgelten können. 4 Wurden Linien mit einem Betriebsvertrag nach Artikel 20 VPB ganz oder teilweise auf eine Drittperson übertragen, so können die Besteller verlangen, dass in der Planrechnung die Erlöse, Kosten und Abgeltungen der gesamten Leistung gemäss Anhang 1 gegliedert werden. 5 Das BAV regelt die Anrechenbarkeit von Kosten und Erlösen in einer Richtlinie. SR 745.11"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Historisches Rollmaterial des regionalen Personenverkehrs",
+      "content": "1 Die ungedeckten Kosten für den Erhalt und Betrieb von historischem Rollmaterial des regionalen Personenverkehrs können in den Planrechnungen geltend gemacht werden. 2 Besteller und Unternehmen legen in den Zielvereinbarungen den Umfang des Erhalts und des Betriebs des historischen Rollmaterials fest."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Mittelfristplan",
+      "content": "1 Der Mittelfristplan der Offerte muss einschliesslich der offerierten Bestellperiode mindestens vier Fahrplanjahre umfassen. Er ist nach Linien zu gliedern. 2 Mit Zustimmung der Besteller kann auf eine Gliederung nach Linien verzichtet werden. 3 Im Mittelfristplan sind mindestens die Summen der Markterlöse, der Kosten, der Abgeltungen und der Leistungsmengen sowie deren Veränderungen auszuweisen und zu erläutern. Die Leistungsmengen müssen die produktiven Kilometer, die Fahrplanstunden und die Personenkilometer umfassen."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Nebenerlöse und Nebengeschäfte",
+      "content": "1 Nebenerlöse sind Erlöse aus Leistungen, die mit den Ressourcen der abgegoltenen Sparten erbracht werden und untrennbar mit den abgegoltenen Angeboten verbunden sind. 2 Nebengeschäfte sind produktionsmässig eigenständig erbrachte Leistungen mit Restkapazitäten oder zugeordneten Ressourcen innerhalb eines konzessionierten Bereichs, die keinen direkten Bezug zu den abgegoltenen Angeboten haben. 3 Werden Ressourcen sowohl für bestellte Angebote als auch für Angebote für Dritte eingesetzt, so legen die Besteller mit dem Unternehmen in der Zielvereinbarung fest, welche Leistungen als Nebenerlöse und welche als Nebengeschäfte auszuweisen sind. 4 Das BAV legt in einer Richtlinie fest, wie die Nebenerlöse und die Nebengeschäfte auszuweisen und die Kosten zu verrechnen sind."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Investitionen",
+      "content": "1 Unternehmen können Investitionsfolgekosten in die Planrechnung einer Offerte aufnehmen, wenn die Besteller der Aufnahme dieser Kosten vor der Investition zugestimmt haben. 2 Überträgt bei einer Betriebsmittelübertragung nach Artikel 32 l Absatz 2 PBG das bisherige Unternehmen das für die Finanzierung dieser Betriebsmittel aufgenommene Fremdkapital nicht mit allen Rechten und Pflichten auf das neue Unternehmen, so muss dieses dem bisherigen Unternehmen den Restbuchwert vergüten. Die Besteller vergüten dem bisherigen Unternehmen die gegenüber dem Darlehensgeber nicht abgesicherten Ausstiegskosten. 3 Bei Betriebsmitteln, die auf Eisenbahnlinien mit einem Kostendeckungsgrad von unter 30 Prozent eingesetzt werden sollen, prüfen die Besteller vor der Zustimmung, ob alternative Angebote mit einem besseren Kosten-Nutzen-Verhältnis möglich sind. 4 Bei der Prüfung berücksichtigen sie neben der Wirtschaftlichkeit insbesondere: a. die Anliegen nach Artikel 31 a Absatz 3 PBG; b. die Kosten und Erlöse der Infrastruktur der betreffenden Strecken; c. die Auslastung der Linie während den Hauptverkehrszeiten; d. die Auswirkungen auf die Qualität der Erschliessung. 5 Die Prüfung wird spätestens nach zehn Jahren wiederholt. 6 Das BAV legt die Voraussetzungen und den Prozess der Zustimmung der Besteller zu Investitionen in einer Richtlinie fest."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Kennzahlen und systematischer Vergleich der bestellten Angebote",
+      "content": "1 Das BAV berechnet aufgrund der Offerten sowie der Betriebskosten- und Leistungsrechnung Kennzahlen über die einzelnen Linien. 2 Es erstellt einen systematischen Vergleich der bestellten Angebote. 3 Es stellt der Öffentlichkeit, den Kantonen und den Unternehmen die Indikatoren, Kennzahlen und Ergebnisse des systematischen Vergleichs in geeigneter Form zur Verfügung."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Prüfung der Offerten",
+      "content": "1 Ist eine Offerte nicht befriedigend, so können die Besteller das Unternehmen zur Einreichung einer überarbeiteten Offerte auffordern. 2 Gibt es bei den Kennzahlen erhebliche, vom Unternehmen nicht hinreichend begründete Unterschiede gegenüber anderen Unternehmen mit vergleichbaren Verhältnissen, so können die Kantone eine Prüfung durch das BAV verlangen. 3 Das BAV hört für die Prüfung die beteiligten Kantone und die betroffenen Unternehmen an. Lassen sich die abweichenden Kennzahlen nicht rechtfertigen, so fordert es das Unternehmen zu einer Anpassung der Offerte an das Niveau der Kennzahlen vergleichbarer Unternehmen auf."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "8. Abschnitt: Angebotsvereinbarungen",
+      "section": "39",
+      "title": "Abschluss von Angebotsvereinbarungen",
+      "content": "1 Nehmen die Besteller eine Offerte an, so schliessen sie mit dem Unternehmen eine Angebotsvereinbarung ab. Eine Angebotsvereinbarung kommt zustande, wenn alle Besteller die Offerte angenommen haben. Das Unternehmen teilt den Bestellern innerhalb von 14 Tagen das Zustandekommen mit. 2 Die Unternehmen haben nur dann einen Rechtsanspruch auf eine Bestellung, wenn die Leistungen Gegenstand einer Zielvereinbarung nach Artikel 26 sind. 3 Die Besteller können den Abschluss einer Angebotsvereinbarung bei besonderen Fällen vom Vorliegen einer Zielvereinbarung mit verbindlich festgelegten Zielen abhängig machen. 4 Die für mehr als ein Jahr vereinbarten Abgeltungen des Bundes und der Kantone stehen unter dem Vorbehalt der Budgetgenehmigung. Stehen die finanziellen Mittel nicht zur Verfügung, so ist das Angebot neu festzulegen und sind die Offerten anzupassen."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "8. Abschnitt: Angebotsvereinbarungen",
+      "section": "40",
+      "title": "Vorbehalte",
+      "content": "1 In begründeten Fällen können Angebotsvereinbarungen mit dem Vorbehalt versehen werden, dass der effektive Umfang der Leistungserbringung nachkalkuliert wird. 2 Die Aufnahme von Vorbehalten bedarf der Zustimmung des BAV."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "8. Abschnitt: Angebotsvereinbarungen",
+      "section": "41",
+      "title": "Nachverhandlungen",
+      "content": "Ergeben sich nach dem Abschluss einer Angebotsvereinbarung wesentliche neue Tatsachen, so kann bei Zustimmung aller Beteiligten die Vereinbarung nachverhandelt werden."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "9. Abschnitt: Anteile der Kantone und des Bundes an den Abgeltungen",
+      "section": "42",
+      "title": "Berechnung des interkantonalen Verteilschlüssels",
+      "content": "1 Bedient eine Linie das Gebiet mehrerer Kantone, so legen diese für die Abgeltungen einen interkantonalen Verteilschlüssel fest. 2 Können sich die Kantone nicht auf einen interkantonalen Verteilschlüssel einigen, so legt ihn das BAV fest. Dabei berücksichtigt es die Linienlänge auf Kantonsgebiet und die Verkehrsbedienung der Stationen. 3 Die Verkehrsbedienung der Stationen entspricht der Anzahl der fahrplanmässigen Abfahrten im Rahmen des von Bund und Kantonen gemeinsam finanzierten Angebots. Als Stationen gelten auch Bahnhöfe und Haltestellen. Stationen werden ganz oder teilweise einem anderen Kanton zugerechnet, wenn sie weniger als 1 Kilometer von der Kantonsgrenze entfernt sind und den Einwohnerinnen und Einwohnern dieses Kantons dienen. Die Verteilung wird auf das nächste Viertel auf- oder abgerundet. 4 Linienlängen werden ab Kantonsgrenze gemessen. Linienabschnitte ohne Station, die dem betreffenden Kanton dient, werden nicht mitgerechnet."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "9. Abschnitt: Anteile der Kantone und des Bundes an den Abgeltungen",
+      "section": "43",
+      "title": "Berechnung der Kantonsbeteiligungen",
+      "content": "1 Die Kantonsbeteiligungen werden unter Berücksichtigung der strukturellen Voraussetzungen nach Artikel 30 Absatz 2 PBG mit der Formel nach Anhang 2 berechnet. 2 Sie werden mindestens alle vier Jahre neu berechnet. Sie sind in Anhang 3 aufgeführt."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "9. Abschnitt: Anteile der Kantone und des Bundes an den Abgeltungen",
+      "section": "44",
+      "title": "Maximale jährliche Abweichung vom Bundesanteil",
+      "content": "Die jährliche Abweichung vom Bundesanteil nach Artikel 30 Absatz 1 PBG darf maximal 5 Prozentpunkte betragen."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "3. Kapitel: Angebote von nationaler Bedeutung, Tariferleichterungen und weitere Angebote",
+      "section": "45",
+      "title": "Angebote von nationaler Bedeutung",
+      "content": "Der Bund richtet Abgeltungen für die von ihm bestellten Angebote von nationaler Bedeutung und für Kosten von Leistungen im Zusammenhang mit diesen Angeboten gestützt auf schriftliche Vereinbarungen mit Unternehmen oder anderen Leistungserbringern aus."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "3. Kapitel: Angebote von nationaler Bedeutung, Tariferleichterungen und weitere Angebote",
+      "section": "46",
+      "title": "Koordination",
+      "content": "1 Bei der Bestellung von Angeboten ohne Beteiligung des Bundes haben die Besteller die Koordination mit dem gemeinsam von Bund und Kantonen bestellten Angebot sicherzustellen. 2 Die Besteller von Angeboten ohne Beteiligung des Bundes können die Bestimmungen des 2. und 5. Kapitels als verbindlich erklären."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "3. Kapitel: Angebote von nationaler Bedeutung, Tariferleichterungen und weitere Angebote",
+      "section": "47",
+      "title": "Tariferleichterungen",
+      "content": "1 Tariferleichterungen nach Artikel 28 Absatz 4 PBG können bestellt und abgegolten werden. Die Besteller und die Unternehmen oder Tarifverbünde vereinbaren die Tariferleichterungen. 2 Die Besteller von Tariferleichterungen entschädigen die Unternehmen oder Tarifverbünde für die Einnahmenausfälle."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "3. Kapitel: Angebote von nationaler Bedeutung, Tariferleichterungen und weitere Angebote",
+      "section": "48",
+      "title": "Tarifverbünde",
+      "content": "1 In Tarifverbünden sind die Einnahmen zwischen den Unternehmen nachfrageabhängig aufgrund der Personenkilometer, der Anzahl der Einsteigenden und der Fahrausweisstruktur zu verteilen. 2 Beträgt das Erlösniveau weniger als 80 Prozent des Standarderlösniveaus des nationalen direkten Verkehrs, so ist auf Verlangen der betroffenen Transportunternehmen die Differenz zu diesen 80 Prozent durch die Verursacher zu entschädigen. Die Verkehrserlöse im bestellten regionalen Personenverkehr dürfen durch die Entschädigung nicht geschmälert werden."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "3. Kapitel: Angebote von nationaler Bedeutung, Tariferleichterungen und weitere Angebote",
+      "section": "49",
+      "title": "Befristete Angebotserweiterungen",
+      "content": "Befristete Angebotserweiterungen zur Bewältigung von Verkehr, der das Mass des normalen Verkehrs nach Artikel 12 PBG übersteigt, sind durch die Verursacher zu bestellen und zu bezahlen."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "1. Abschnitt: Bürgschaften",
+      "section": "50",
+      "title": "Grundsatz",
+      "content": "Für die Finanzierung von Investitionen im regionalen Personenverkehr kann der Bund den Unternehmen im Rahmen der bewilligten Kredite Bürgschaften gewähren."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "1. Abschnitt: Bürgschaften",
+      "section": "51",
+      "title": "Voraussetzungen und Auflagen",
+      "content": "1 Bürgschaften werden für die Finanzierung von Investitionen gewährt, die abgeltungsberechtigten Leistungen dienen und deren Folgekosten nach Artikel 36 Absatz 1 in die Planrechnung einer Offerte aufgenommen werden dürfen. Über Ausnahmen entscheidet das BAV. 2 Der Bund kann die Gewährung der Bürgschaften von flankierenden Massnahmen im Verkehrsbereich abhängig machen. 3 Das BAV legt die Voraussetzungen und den Prozess der Gewährung von Bürgschaften in einer Richtlinie fest. Fassung gemäss Ziff. I 8 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ( AS 2025 550 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "1. Abschnitt: Bürgschaften",
+      "section": "52",
+      "title": "Zuständigkeit",
+      "content": "Die Bürgschaften werden durch das BAV erteilt."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "2. Abschnitt: Umwandlung und Sistierung der Rückzahlung von Darlehen",
+      "section": "53",
+      "title": "Grundsatz",
+      "content": "Die Umwandlung oder die Sistierung der Rückzahlung von Darlehen des Bundes nach Artikel 31 Absatz 3 oder 4 PBG setzt eine entsprechende Umwandlung oder Sistierung durch die Kantone voraus."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "2. Abschnitt: Umwandlung und Sistierung der Rückzahlung von Darlehen",
+      "section": "54",
+      "title": "Voraussetzungen und Auflagen",
+      "content": "Umwandlungen oder Sistierungen der Rückzahlung von Darlehen werden für Investitionen gewährt, die abgeltungsberechtigten Leistungen dienen und deren Folgekosten nach Artikel 36 Absatz 1 in die Planrechnung einer Offerte aufgenommen werden dürfen."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "2. Abschnitt: Umwandlung und Sistierung der Rückzahlung von Darlehen",
+      "section": "55",
+      "title": "Antragsstellung",
+      "content": "Die Umwandlung ist spätestens drei Monate zum Voraus beim BAV zu beantragen."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "2. Abschnitt: Umwandlung und Sistierung der Rückzahlung von Darlehen",
+      "section": "56",
+      "title": "Umwandlungs- oder Sistierungsvereinbarung",
+      "content": "1 Das BAV, die beteiligten Kantone und das Unternehmen schliessen eine Vereinbarung über die Umwandlung oder Sistierung der Rückzahlung des Darlehens ab. Darin legen sie die damit verbundenen Auflagen fest. 2 … Aufgehoben durch Ziff. I 8 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ( AS 2025 550 )."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "3. Abschnitt: Beiträge für Innovationen sowie für Investitionen von Seilbahnunternehmen",
+      "section": "57",
+      "title": "Innovationen",
+      "content": "1 Zur Förderung von Innovationen kann der Bund im Rahmen der bewilligten Kredite A-Fonds-perdu-Beiträge gewähren. 2 Das BAV regelt die Voraussetzungen und den Prozess der Vergabe in einer Richtlinie."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "3. Abschnitt: Beiträge für Innovationen sowie für Investitionen von Seilbahnunternehmen",
+      "section": "58",
+      "title": "Investitionen von Seilbahnunternehmen",
+      "content": "1 Für Investitionen von Seilbahnunternehmen kann der Bund im Rahmen der bewilligten Kredite A-Fonds-perdu-Beiträge nach Artikel 16 Absatz 3 SebG gewähren. 2 Das BAV regelt die Voraussetzungen und den Prozess der Finanzierung von Investitionen abgeltungsberechtigter Seilbahnunternehmen in einer Richtlinie."
+    },
+    {
+      "provision_ref": "art58a",
+      "chapter": "4. Abschnitt:",
+      "section": "58a",
+      "title": "a Finanzielle Förderung",
+      "content": "Der Bund fördert den grenzüberschreitenden Personenfernverkehr auf der Schiene gestützt auf Artikel 37 a des CO 2 -Gesetzes im Rahmen der bewilligten Kredite durch A‑Fonds-perdu-Beiträge an den Betrieb oder an Investitionen."
+    },
+    {
+      "provision_ref": "art58b",
+      "chapter": "4. Abschnitt:",
+      "section": "58b",
+      "title": "b Prioritäten bei der Förderung",
+      "content": "1 Vorrangig gefördert werden neue Angebote ganzjährig betriebener Nachtzüge, die neben Sitzplatz- auch Schlaf- oder Liegewagen mitführen. Dabei wird berücksichtigt, wie mit den vorhandenen Mitteln die Anzahl der Personenkilometer im grenzüberschreitenden Personenfernverkehr maximiert werden kann. 2 Stehen zusätzliche Mittel zur Verfügung, so werden zudem gefördert: a. neue Angebote saisonal verkehrender Nachtzüge; b. neue grenzüberschreitende Nacht- und Tagesverbindungen ohne Schlaf- oder Liegewagen; c. die Erhöhung der Kapazität oder Attraktivität bestehender grenzüberschreitender Angebote; d. Investitionen, die überwiegend dem grenzüberschreitenden Personenfernverkehr auf der Schiene dienen. 3 Die Förderung der Vergünstigung der Fahrausweise ist ausgeschlossen."
+    },
+    {
+      "provision_ref": "art58c",
+      "chapter": "4. Abschnitt:",
+      "section": "58c",
+      "title": "c Voraussetzungen",
+      "content": "1 Beiträge beantragen können Unternehmen, die: a. im grenzüberschreitenden Personenfernverkehr Personen befördern auf der Basis: 1. einer Konzession nach Artikel 6 PBG, 2. einer Bewilligung nach Artikel 8 PBG, oder 3. eines Staatsvertrages; und b. zum Zeitpunkt der Einreichung des Fördergesuchs bereits über Erfahrung im Betrieb vergleichbarer Angebote verfügen. 2 Angebote, die an einem Grenzbahnhof in der Schweiz starten oder enden, werden nur gefördert, wenn sie im überwiegenden Interesse der Schweiz liegen. 3 Angebote, die ein wesentlich schlechteres Verhältnis zwischen den ungedeckten Kosten und den Personenkilometern aufweisen als andere Angebote, werden nicht gefördert."
+    },
+    {
+      "provision_ref": "art58d",
+      "chapter": "4. Abschnitt:",
+      "section": "58d",
+      "title": "d Angebotskonzepte",
+      "content": "1 Das BAV macht administrative Vorgaben für die Einreichung von Angebotskonzepten und von Investitionskonzepten und veröffentlicht diese. 2 Die Unternehmen können dem BAV Konzepte für die zu fördernden Angebote und die Investitionen einreichen. 3 Nach einer Vorprüfung informiert das BAV die Unternehmen, ob ihre Konzepte den Vorgaben entsprechen oder angepasst werden müssen und ob andere Unternehmen Konzepte eingereicht haben."
+    },
+    {
+      "provision_ref": "art58e",
+      "section": "58e",
+      "title": "e Gesuche",
+      "content": "1 Die Unternehmen können dem BAV Gesuche für die Förderung ihrer Angebote einreichen. 2 Die Gesuche müssen die folgenden Angaben und Unterlagen enthalten: a. Angaben zum gesuchstellenden Unternehmen; b. das Angebotskonzept mit Marktanalyse, Linienführung, Haltepolitik, Tarifen, Kapazität, Mengengerüst und Fahrplan; c. erwartete Kosten und Erlöse sowie beantragte Beiträge pro Jahr für mindestens drei Betriebsjahre; d. erwartete Nachfrage, insbesondere die jährlichen Personenkilometer im grenzüberschreitenden Personenfernverkehr sowie Angaben zur erwarteten Verlagerung des Personenverkehrs von der Luft auf die Schiene; e. zugesicherte Beiträge Dritter; f. Zusicherung, dass das Angebot während mehrerer Jahre erbracht wird; g. bei bestehenden Angeboten: Ausführungen über die Attraktivitätsverbesserung für die Reisenden. 3 Das BAV kann von den Unternehmen weitere Angaben verlangen, die für die Behandlung der Gesuche erforderlich sind."
+    },
+    {
+      "provision_ref": "art58f",
+      "section": "58f",
+      "title": "f Bewertung der Gesuche",
+      "content": "Das BAV bewertet und priorisiert die Gesuche aufgrund der erwarteten ungedeckten Kosten und Personenkilometer im grenzüberschreitenden Personenfernverkehr."
+    },
+    {
+      "provision_ref": "art58g",
+      "section": "58g",
+      "title": "g Bemessung der Beiträge",
+      "content": "1 Beiträge werden maximal in der Höhe der geplanten ungedeckten Kosten des Angebots bestehend aus den in- und ausländischen Linienabschnitten gewährt. 2 Bei der Festlegung der Höhe der Beiträge werden keine Gewinnzuschläge berücksichtigt. 3 Die Höhe der Beiträge für die Jahre 2028–2030 wird aufgrund der Ergebnisse der Vorjahre überprüft."
+    },
+    {
+      "provision_ref": "art58h",
+      "section": "58h",
+      "title": "h Verfügung",
+      "content": "1 Das BAV erlässt eine Verfügung zum Gesuch für die Förderung von Angeboten. 2 Es legt darin insbesondere fest: a. die Höhe der jährlichen Beiträge; b. das geförderte Angebot; c. die einzuhaltenden Bedingungen; d. die Modalitäten der Berichterstattung; e. die Modalitäten der Auszahlung der Beiträge; f. die Gründe für die Ablehnung des Gesuchs."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "59",
+      "title": "",
+      "content": "1 Die Jahresrechnung von Unternehmen mit Angeboten des gemeinsam bestellten regionalen Personenverkehrs muss ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage vermitteln. 2 Das BAV legt das für die Rechnungslegung anzuwendende Regelwerk sowie Ausnahmen in einer Richtlinie fest."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "2. Abschnitt: Betriebskosten- und Leistungsrechnung",
+      "section": "60",
+      "title": "",
+      "content": "1 Unternehmen mit Angeboten des gemeinsam bestellten regionalen Personenverkehrs führen mindestens für die Ist-Rechnung neben ihrer Finanzrechnung eine nach Sparten gegliederte Betriebskosten- und Leistungsrechnung. 2 Bei Seilbahnunternehmen bilden regionaler Personenverkehr, Infrastruktur und Güterverkehr eine gemeinsame Sparte. 3 Die Betriebskosten- und Leistungsrechnung ist auf die Organisation und die Angebote des Unternehmens auszurichten. Das Leistungs- und das Verursacherprinzip sowie das Prinzip der Vollkostenrechnung sind einzuhalten. 4 Die Betriebskosten- und Leistungsrechnung ist in die gleichen Linien zu gliedern wie die Planrechnung der Offerte. In der Planrechnung und in den Linienerfolgsrechnungen muss der Detaillierungsgrad der Markterlöse, der Kosten und der Abgeltungen identisch sein. Die Gliederung richtet sich nach Anhang 1. 5 Unternehmen unter gemeinsamer Leitung können die Betriebskosten- und Leistungsrechnung über mehr als eine juristische Person führen. 6 Das BAV kann auf Gesuch hin bewilligen, dass die Betriebskosten- und Leistungsrechnung nur über einen Teilbereich des Unternehmens geführt wird. 7 Es kann schweizerische Unternehmen, die eine einzige Linie betreiben, sowie ausländische Unternehmen von der Pflicht zur Führung einer Betriebskosten- und Leistungsrechnung befreien, wenn sich die ungedeckten Kosten des regionalen Personenverkehrs dieser Unternehmen einwandfrei nachweisen lassen."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "3. Abschnitt: Anlagen- und Abschreibungsrechnung",
+      "section": "61",
+      "title": "Grundsätze",
+      "content": "1 Die Anlagen- und Abschreibungsrechnung ist nach dem Brutto- und dem Einzelbewertungsprinzip zu erstellen. 2 Sie enthält als Detailrechnung die Bilanzpositionen des materiellen Anlagevermögens."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "3. Abschnitt: Anlagen- und Abschreibungsrechnung",
+      "section": "62",
+      "title": "Abgrenzung zwischen der Erfolgsrechnung und der Anlagen- und Abschreibungsrechnung",
+      "content": "1 Massnahmen, die dazu dienen, die mit dem Abschreibungssatz ausgedrückte Nutzungsdauer zu erreichen, sind als Unterhalt in der Erfolgsrechnung auszuweisen. 2 Nicht aktivierbar sind direkt durch eine Investition ausgelöste einmalige Kosten, die im Finanzhandbuch des Unternehmens als solche aufgeführt sind. Sie sind in der Investitionsplanung separat auszuweisen."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "3. Abschnitt: Anlagen- und Abschreibungsrechnung",
+      "section": "63",
+      "title": "Aktivierung und Ausbuchung von Anlagen",
+      "content": "1 Angeschaffte Anlagen sind zu Anschaffungskosten zu aktivieren. Selbst hergestellte Anlagen sind zu Herstellungskosten zu aktivieren. 2 Gesamt- und Teilerneuerungen von Anlagen sind zu Anschaffungs- oder Herstellungskosten zu aktivieren. 3 Erweiterungen von Anlagen sind zu Anschaffungs- oder Herstellungskosten zu aktivieren, wenn die Aktivierungsuntergrenze überschritten ist. Die Nutzungsdauer und der Abschreibungssatz von erweiterten Anlagen sind mit deren Inbetriebnahme neu zu bestimmen. 4 Effektive oder hochgerechnete Anlagenwerte und Wertberichtigungen von ersetzten Teilen oder ersetztem Material sind auszubuchen. 5 Restbuchwerte von Anlagen sind über die Erfolgsrechnung zu verbuchen. 6 Das Unternehmen muss eine Kostengrenze festlegen, unterhalb welcher die Anlagen nicht aktiviert werden."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "3. Abschnitt: Anlagen- und Abschreibungsrechnung",
+      "section": "64",
+      "title": "Abschreibungen und Wertberichtigungen",
+      "content": "1 Das BAV legt die Bandbreiten der Abschreibungssätze für die Anlagen des regionalen Personenverkehrs in einer Richtlinie fest. 2 Werden vor Ablauf der Nutzungsdauer einer Anlage einzelne Anlageteile ersetzt oder erneuert, so kann die Anlage aufgrund einer Unterteilung in eine Hauptanlage und Unteranlagen aktiviert und abgeschrieben werden. Die Unterteilung der Anlage muss in der Anlagen- und Abschreibungsrechnung ersichtlich sein. 3 A-Fonds-perdu-Beiträge der öffentlichen Hand und von Dritten für aktivierbare Investitionen, insbesondere für Tunnelausbrucharbeiten, sind so zu verbuchen, dass auf diesem Teil der Investition keine erfolgswirksamen Wertberichtigungen gemacht werden können. Dabei darf der A-Fonds-perdu-Beitrag nicht mit dem Anschaffungswert verrechnet werden."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "3. Abschnitt: Anlagen- und Abschreibungsrechnung",
+      "section": "65",
+      "title": "Veränderte Nutzungsdauer",
+      "content": "1 Wird die Nutzungsdauer einer Anlage neu beurteilt, so ist der Restbuchwert über die neu festgelegte verbleibende Nutzungsdauer abzuschreiben. 2 Erträge und Aufwendungen, einschliesslich Restbuchwerte, aus Anlagenabgängen (Veräusserungserfolge) sind in der Sparte zu verbuchen, die die Kosten der Anlage getragen hat."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "4. Abschnitt: Jahresrechnung",
+      "section": "66",
+      "title": "",
+      "content": "1 Unternehmen mit Abgeltungen oder Finanzhilfen von Bund und Kantonen müssen dem BAV und den betreffenden Kantonen innert dreissig Tagen nach der Generalversammlung die von dieser genehmigte Jahresrechnung mit den folgenden Unterlagen zur subventionsrechtlichen Prüfung einreichen: a. Erklärung der Einhaltung der subventionsrechtlichen Grundsätze; b. Geschäftsbericht nach Artikel 958 Absatz 2 OR; im Anhang sind alle für den Betrieb der Linien und Strecken abgeschlossenen Sach- und Haftpflichtversicherungen mit deren Deckungssummen auszuweisen; der Anhang des Geschäftsberichts einer Infrastrukturbetreiberin enthält zudem die Investitionsrechnung für die Sparte Infrastruktur; c. Linienerfolgsrechnung, gegliedert nach Sparten sowie den Summen der einzelnen Erlöse, Kosten und Abgeltungen pro Sparte und über alle Sparten; d. Abgrenzungen zur Finanzbuchhaltung pro Sparte; e. Indikatoren für die Berechnung der Kennzahlen; f. soweit nicht aus Erfolgsrechnung, Bilanz oder Anhang der Jahresrechnung ersichtlich, detaillierte Nachweise über: 1. im Geschäftsjahr erhaltene, nach Bestellern aufgeteilte Abgeltungen nach Artikel 28 PBG oder Artikel 51 EBG, 2. nach Geldgebern aufgeteilte Bestände von Darlehen der öffentlichen Hand oder von Darlehen nach den Artikeln 51 b und 58 a EBG sowie nach anderen subventionsrechtlichen Grundlagen, 3. nach Geldgebern aufgeteilte Bestände von noch nicht abgerechneten Finanzhilfen, 4. Art, Bildung, Verwendung und Auflösung von Rückstellungen und Reserven; g. detaillierte Anlagen- und Abschreibungsrechnung; h. Nachweis über Desinvestitionen von Anlagen der abgegoltenen Sparten; i. Bericht über die Spezialprüfung nach Artikel 38 Absatz 3 PBG; j. ausführlicher Revisionsbericht an den Verwaltungsrat; k. Begründungen für Abweichungen gegenüber den Offerten. 2 Das Protokoll über die Generalversammlung ist einzureichen, sobald es rechtsgültig ist. 3 Die Besteller können im Rahmen ihrer Prüftätigkeit weitere Unterlagen verlangen. 4 Das BAV legt fest, in welcher Form die Unterlagen zur subventionsrechtlichen Prüfung einzureichen sind. SR 220"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "67",
+      "title": "Aufhebung und Änderung anderer Erlasse",
+      "content": "Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 4 geregelt."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "68",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Vergabevereinbarungen nach bisherigem Recht sind bis zu ihrem Ablauf den Zielvereinbarungen nach Artikel 26 gleichgestellt. 2 Kleinluftseilbahnen mit Erschliessungsfunktion sind bis zum Ablauf ihrer kantonalen Bewilligung zur Personenbeförderung den Unternehmen nach Artikel 3 gleichgestellt."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "69",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2025 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "regionaler Personenverkehr:",
+      "definition": "regionaler Personenverkehr: der Personenverkehr innerhalb einer Region, einschliesslich der Groberschliessung von Ortschaften nach Artikel 5 Absatz 3 der Verordnung vom 4. November 2009 über die Personenbeförderung (VPB), sowie der Personenverkehr mit benachbarten, auch ausländischen Regionen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Betriebskosten- und Leistungsrechnung:",
+      "definition": "Betriebskosten- und Leistungsrechnung: Ist-Kostenrechnung als Grundlage für den Ergebnisausweis der einzelnen Sparten eines Unternehmens;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Sparte:",
+      "definition": "Sparte: folgende gleichartigen Angebote eines Unternehmens: 1. die Gesamtheit der von Bund und Kantonen gemeinsam bestellten Linien des regionalen Personenverkehrs,",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Linienerfolgsrechnung:",
+      "definition": "Linienerfolgsrechnung: in der Betriebskosten- und Leistungsrechnung der Ergebnisausweis eines einzelnen Angebots einer Sparte;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Planrechnung:",
+      "definition": "Planrechnung: in der Offerte enthaltene Rechnung zum Nachweis der ungedeckten Kosten einzelner Angebote einer Sparte oder der Sparte insgesamt;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Investitionsrechnung:",
+      "definition": "Investitionsrechnung: Ausweis aller Vorgänge im Zusammenhang mit der Erstellung, Erneuerung, Abschreibung oder Desinvestition von Objekten des Anlagevermögens.",
+      "source_provision": "art2"
+    }
+  ]
+}

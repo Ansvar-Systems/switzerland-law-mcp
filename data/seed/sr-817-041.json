@@ -1,0 +1,26 @@
+{
+  "id": "sr-817-041",
+  "type": "statute",
+  "title": "Verordnung des BLV vom 25. August 2020 über Einfuhrbeschränkungen für bestimmte, nicht sichere Lebensmittel",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2020/667/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Einfuhrverbot für bestimmte, nicht sichere Lebensmittel",
+      "content": "Die Einfuhr der im Anhang aufgeführten Lebensmittel ist verboten."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Oktober 2020 in Kraft."
+    }
+  ],
+  "definitions": []
+}

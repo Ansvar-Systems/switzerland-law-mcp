@@ -1,0 +1,208 @@
+{
+  "id": "sr-941-213",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 16. April 2004 über nichtselbsttätige Waagen (NSWV)",
+  "title_en": "",
+  "short_name": "NSWV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2004/243/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die Anforderungen an nichtselbsttätige Waagen, die Verfahren für die Konformitätsbewertung sowie die Kontrollen nach dem Inverkehrbringen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "Nichtselbsttätige Waagen unterstehen dieser Verordnung, wenn sie verwendet werden zur: a. Bestimmung der Masse im Handel und Geschäftsverkehr sowie im Hinblick auf die Erstellung von Gutachten für gerichtliche Zwecke und die Anwendung von Rechtsvorschriften, namentlich zur Berechnung einer Gebühr, eines Zolles, einer Abgabe, einer Zulage, einer Strafe, eines Entgelts, einer Entschädigung oder ähnlicher Zahlungen; b. Bestimmung der Masse beim Wägen von Patienten und Patientinnen im Rahmen der ärztlichen Überwachung, Untersuchung und Behandlung, bei der Herstellung von Heilmitteln in Apotheken auf Grund ärztlicher Verschreibung und bei Analysen in medizinischen und pharmazeutischen Laboratorien; c. Bestimmung des Preises entsprechend der Masse für den Verkauf in offenen Verkaufsstellen und bei der Herstellung von Fertigpackungen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung gelten als: a. Waage: Messmittel, das die Masse eines Körpers durch Einwirken der Schwerkraft auf diesen Körper oder mit der Masse zusammenhängende Grössen, Werte, Parameter oder charakteristische Eigenschaften ermittelt; b. Nichtselbsttätige Waage: Waage, die das Eingreifen einer Bedienungsperson während des Wägevorgangs erfordert; c. Teilungswert (d): Differenz zwischen den Werten von zwei benachbarten Teilstrichen oder, bei Ziffernanzeigen, zwischen zwei aufeinanderfolgenden Anzeigewerten, ausgedrückt in Einheiten der Masse; d. Eichwert (e): für die Klasseneinteilung der Waagen und für die Bestimmung der Fehlergrenzen verwendeter, in Einheiten der Masse ausgedrückter Wert; e. … Aufgehoben durch Ziff. I der V des EJPD vom 25. Nov. 2015, mit Wirkung seit 20. April 2016 ( AS 2015 5849 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Einheiten",
+      "content": "Für die Angaben auf nichtselbsttätigen Waagen sind folgende gesetzlichen Einheiten der Masse zu verwenden: Mikrogramm (μg) Milligramm (mg) Gramm (g) Kilogramm (kg) Tonne (t) Metrisches Karat (ct) (nur für das Wägen von Edelsteinen)"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Bezugsbedingungen, Eichgewichtstücke",
+      "content": "1 Für die Ermittlung von Messergebnissen bei der Konformitätsbewertung oder Nacheichung gelten folgende Bezugsbedingungen: a. Temperatur 20 °C; b. konventionelle Dichte für Eichgewichtstücke 8 000 kg/m 3 ; c. Luftdichte 1,2 kg/m 3 . 2 Die Messabweichung der bei der Prüfung oder Nacheichung verwendeten Gewichtstücke oder Prüflasten darf bei der jeweiligen Belastung höchstens ein Drittel der Fehlergrenze der zu prüfenden Waage betragen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Waagen der Genauigkeitsklasse",
+      "content": "1 Nichtselbsttätige Waagen der Genauigkeitsklasse nach Anhang 1 Ziffer 2 dürfen nur für das Wägen von mineralischen Baustoffen, Abfällen, Abbruchmaterial und Kehricht verwendet werden. 2 In anderen Fällen dürfen Waagen der Genauigkeitsklasse nur mit Bewilligung des Eidgenössischen Instituts für Metrologie (METAS) verwendet werden. Das METAS kann die Bewilligung namentlich im Bereich der Verkehrsüberwachung oder im Handel mit billigen Massengütern erteilen. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen. Fassung gemäss Ziff. I der V des EJPD vom 2. Okt. 2006, in Kraft seit 30. Okt. 2006 ( AS 2006 4189 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Inverkehrbringen",
+      "section": "7",
+      "title": "Grundlegende Anforderungen",
+      "content": "1 Nichtselbsttätige Waagen müssen die in Anhang 1 festgelegten grundlegenden Anforderungen erfüllen. 2 Entspricht eine nichtselbsttätige Waage den technischen Normen nach Anhang 2, so wird vermutet, dass sie die grundlegenden Anforderungen erfüllt. 3 Sind an einer nichtselbsttätigen Waage Einrichtungen vorhanden oder ist die Waage an Einrichtungen angeschlossen, die nicht für die in Artikel 2 genannten Verwendungen eingesetzt werden, so gelten die grundlegenden Anforderungen für diese Einrichtungen nicht."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Inverkehrbringen",
+      "section": "8",
+      "title": "Konformitätsbewertungsverfahren",
+      "content": "1 Die Konformität der nichtselbsttätigen Waagen mit den grundlegenden Anforderungen wird nach Wahl der Herstellerin nach einem der beiden folgenden Konformitätsbewertungsverfahren festgestellt: a. Modul B nach Anhang 3 Ziffer 1, gefolgt entweder von Modul D nach Anhang 3 Ziffer 2 oder von Modul F nach Anhang 3 Ziffer 4; b. Modul G nach Anhang 3 Ziffer 6. 2 Nichtselbsttätige Waagen, in denen keine elektronische Einrichtung benutzt wird und deren Auswägeeinrichtung keine Feder zum Ausgleich der aufgebrachten Last benutzt, müssen im Fall der Wahl des Verfahrens nach Absatz 1 Buchstabe a nicht dem Verfahren nach Modul B unterzogen werden. Wird in diesen Fällen Modul B nicht angewendet, so muss Modul D1 nach Anhang 3 Ziffer 3 oder Modul F1 nach Anhang 3 Ziffer 5 angewendet werden. Fassung gemäss Ziff. I der V des EJPD vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2015 5849 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Inverkehrbringen",
+      "section": "9",
+      "title": "Konformitätsbewertungsstellen",
+      "content": "Konformitätsbewertungsstellen müssen nachweisen, dass sie die Voraussetzungen nach Artikel 25 der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996 (AkkBV) erfüllen. Fassung gemäss Ziff. I der V des EJPD vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 5849 ). SR 946.512"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Inverkehrbringen",
+      "section": "10",
+      "title": "Konformitätserklärung",
+      "content": "1 Wer eine nichtselbsttätige Waage in Verkehr bringt, muss eine Konformitätserklärung vorlegen können, aus welcher hervorgeht, dass die Waage den grundlegenden Anforderungen entspricht und die Konformitätsbewertungsverfahren nach Artikel 8 durchgeführt worden sind. 2 Die Konformitätserklärung muss in einer schweizerischen Amtssprache oder in Englisch abgefasst sein. 3 Sie muss mindestens folgende Angaben enthalten: a. Name und Adresse der Herstellerin oder ihrer in der Schweiz niedergelassenen Vertreterin, welche die Konformitätserklärung ausstellt, und Name und Funktion der Person, welche die Konformitätserklärung unterzeichnet; b. die Bezeichnung der Waage (Name, Typ oder Modell, Nummer des Bauartzulassungszertifikats); c. eine Erklärung, dass die Waage die rechtlichen Anforderungen erfüllt; d. gegebenenfalls die angewandten technischen Normen; e. gegebenenfalls Hinweise auf eine besondere Art der Verwendung; f. gegebenenfalls Name und Adresse der Konformitätsbewertungsstelle. 4 … Fassung gemäss Ziff. I der V des EJPD vom 2. Okt. 2006, in Kraft seit 30. Okt. 2006 ( AS 2006 4189 ). Aufgehoben durch Ziff. I der V des EJPD vom 25. Nov. 2015, mit Wirkung seit 20. April 2016 ( AS 2015 5849 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Technische Unterlagen",
+      "content": "1 … 2 Die technischen Unterlagen nach Anhang 3 müssen in einer schweizerischen Amtssprache oder in Englisch abgefasst sein. Sie können in einer anderen Sprache abgefasst sein, sofern die zu ihrer Beurteilung erforderlichen Auskünfte in einer schweizerischen Amtssprache oder in Englisch erteilt werden. 3 Sie müssen mindestens Folgendes enthalten: a. eine allgemeine Beschreibung der Waage; b. eine Darlegung der Massnahmen, welche die Konformität der Waage mit den grundlegenden Anforderungen gewährleisten; c. die für das jeweilige Konformitätsbewertungsverfahren notwendige Dokumentation. Aufgehoben durch Ziff. I der V des EJPD vom 25. Nov. 2015, mit Wirkung seit 20. April 2016 ( AS 2015 5849 ). Fassung gemäss Ziff. I der V des EJPD vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2015 5849 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Melde- und Informationspflicht",
+      "content": "Wer nichtselbsttätige Waagen gewerbsmässig in Verkehr bringt, muss: a. dem METAS spätestens zum Zeitpunkt des Inverkehrbringens seinen Namen, seine Adresse sowie die Waagenkategorie angeben; b. den Verwender über die Pflichten nach dem 3. Abschnitt informieren."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Kennzeichnung",
+      "content": "1 Die Konformität einer nichtselbsttätigen Waage mit den rechtlichen Anforderungen wird durch das Anbringen des Konformitätskennzeichens und des Metrologie-Kennzeichens nach Anhang 5 Ziffer 1.1 Buchstaben a und b angezeigt. Die Waagen müssen zudem die Aufschriften nach Anhang 5 Ziffer 1.1 Buchstabe c tragen. 2 Statt des Konformitätskennzeichens nach Absatz 1 darf in der Schweiz auch ein ausländisches Konformitätskennzeichen angebracht werden, sofern sich seine Verwendung auf Konformitätsbewertungen bezieht, über deren gegenseitige Anerkennung eine internationale Vereinbarung besteht."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Kennzeichnung von zusätzlichen Einrichtungen",
+      "content": "Sind an einer nichtselbsttätigen Waage zusätzliche Einrichtungen angebracht oder ist die Waage an Einrichtungen angeschlossen, die keinem Konformitätsbewertungsverfahren nach Artikel 8 unterzogen wurden, so muss jede dieser Einrichtungen mit dem Symbol nach Anhang 5 Ziffer 2 versehen sein."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "14",
+      "section": "14",
+      "title": "a",
+      "content": "Die Pflichten der Wirtschaftsakteure richten sich insbesondere nach Anhang 6."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "3. Abschnitt:",
+      "section": "15",
+      "title": "Waagen für die Verwendung nach Art. 2 Bst. a und c",
+      "content": "1 Die Verwenderin ist dafür verantwortlich, dass die von ihr verwendete Waage den rechtlichen Anforderungen entspricht. 2 Sie muss der zuständigen kantonalen Vollzugsbehörde jede Inbetriebnahme einer Waage melden und ihr jederzeit Auskunft über die von ihr verwendeten Waagen geben können. 3 Sie ist dafür verantwortlich, dass die Nacheichung fristgemäss durchgeführt wird."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Abschnitt:",
+      "section": "16",
+      "title": "Waagen für die Verwendung nach Art. 2 Bst. b",
+      "content": "1 Die Verwenderin ist dafür verantwortlich, dass die von ihr verwendete Waage den rechtlichen Anforderungen entspricht. 2 Sie muss der zuständigen Vollzugsbehörde jederzeit Auskunft über die von ihr verwendeten Waagen geben können. 3 Sie muss dafür sorgen, dass die von ihr verwendeten Waagen vorschriftsgemäss in Stand gehalten werden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Kontrollen der Waagen nach dem Inverkehrbringen",
+      "section": "17",
+      "title": "",
+      "content": "1 Nichtselbsttätige Waagen unterstehen der Marktüberwachung. 2 Im Rahmen der Marktüberwachung kontrollieren die zuständigen Vollzugsorgane, ob die in Verkehr gebrachten oder in Betrieb genommenen Waagen den Vorschriften dieser Verordnung entsprechen. 3 Die Kontrollen erfolgen in Form von Stichproben oder auf Grund begründeter Hinweise, dass eine Waage den Vorschriften nicht entspricht. 4 Die Kontrollen können bei der Verwenderin, Herstellerin oder Importeurin stattfinden. Fassung gemäss Ziff. I 8 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grund-lagen im Messwesen), in Kraft seit 1. Jan. 2013 ( AS 2012 7183 ). Fassung gemäss Ziff. I 8 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grund-lagen im Messwesen), in Kraft seit 1. Jan. 2013 ( AS 2012 7183 ). Fassung gemäss Ziff. I 8 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Jan. 2013 ( AS 2012 7183 ). Fassung gemäss Ziff. I der V des EJPD vom 2. Okt. 2006, in Kraft seit 30. Okt. 2006 ( AS 2006 4189 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Kontrollen der Waagen nach dem Inverkehrbringen",
+      "section": "18",
+      "title": "Nacheichung, Gültigkeit der Eichung",
+      "content": "1 Nichtselbsttätige Waagen, welche für die Zwecke von Artikel 2 Buchstaben a und c verwendet werden, müssen nach Anhang 7 Ziffer 1 der Messmittelverordnung vom 15. Februar 2006 periodisch nachgeeicht werden. 2 Die Nacheichung der nichtselbsttätigen Waagen hat zu erfolgen: a. … b. jedes Jahr für: 1. Kontrollwaagen für Stichprobenkontrollen in Abfüll- und Abpackstrassen, 2. Radlast-Wiegegeräte für Verkehrskontrollen durch die Polizei, 3. stationäre Milchannahmewaagen, 4. Waagen in Nassbetrieben (Schlachtbetriebe, Chemiebetriebe), 5. selbsteinspielende und halbselbsteinspielende Waagen, die auf den Märkten verwendet werden, 6. dauerbelastete fahrzeugmontierte Waagen, 7. Waagen, die in Handhubwagen oder Stapler eingebaut sind, 8. Waagen, die auf Fertigpackungen ungleicher Nennfüllmenge Menge, Grundpreis oder Verkaufspreis abdrucken, mit Ausnahme von Ladenwaagen, die nur gelegentlich für das Wägen von Fertigpackungen ungleicher Nennfüllmenge verwendet werden; c. alle drei Jahre für: 1. Laufgewichtswaagen über 5 t, 2. selbsteinspielende und halbselbsteinspielende Waagen, die in landwirtschaftlichen Betrieben verwendet werden; d. alle vier Jahre für nichtstselbsteinspielende Waagen; e. alle zwei Jahre für die übrigen Waagen. 3 Die Eichung der Waagen gilt nur für Wägungen innerhalb des Wägebereichs. 4 Einrichtungen nach Artikel 7 Absatz 3 unterstehen der Nacheichung nicht, sofern sie mit dem Symbol nach Anhang 5 Ziffer 2 gekennzeichnet sind. Fassung gemäss Ziff. I der V des EJPD vom 2. Okt. 2006, in Kraft seit 30. Okt. 2006 ( AS 2006 4189 ). Aufgehoben durch Ziff. III der V des EJPD vom 5. Dez. 2016, mit Wirkung seit 1. Jan. 2017 ( AS 2016 5225 ). Fassung gemäss Ziff. III der V des EJPD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 5225 ). Eingefügt durch Ziff. III der V des EJPD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 5225 )."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Nachschau",
+      "content": "Die Vollzugsorgane der Kantone kontrollieren während der ganzen Verwendungsdauer der Waagen, die für die Zwecke von Artikel 2 Buchstaben a und c verwendet werden, in unregelmässigen Zeitabständen: a. ob die Waagen für den vorgesehenen Einsatz geeignet sind und ob deren Verwendung gemäss den rechtlichen Vorschriften erfolgt; b. ob die Waagen die vorgeschriebenen Konformitätskennzeichen und Eichzeichen aufweisen; c. ob die Nacheichung fristgemäss durchgeführt wurde."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Massnahmen",
+      "content": "1 Wird im Rahmen der Marktüberwachung festgestellt, dass eine nichtselbsttätige Waage den Vorschriften nicht entspricht, so informiert das METAS die für das Inverkehrbringen verantwortliche Person über das Ergebnis und gibt ihr Gelegenheit zur Stellungnahme. Hierauf ordnet das METAS geeignete Massnahmen an und räumt für deren Befolgung eine angemessene Frist ein. Es kann insbesondere das weitere Inverkehrbringen verbieten, den Rückruf, die Beschlagnahme oder die Einziehung verfügen sowie die von ihm getroffenen Massnahmen veröffentlichen. 2 Das METAS informiert: a. die zuständigen Vollzugsbehörden und -organe über die national und international getroffenen Massnahmen; b. die zuständigen Stellen der wichtigsten Handelspartner der Schweiz über Massnahmen, die das weitere Anbieten, das Inverkehrbringen, die Inbetriebnahme oder der Rückruf von in Verkehr gebrachten oder in Betrieb genommenen Waagen betreffen. 3 Entspricht anlässlich der Nachschau eine Waage oder deren Verwendung den Vorschriften nicht, so veranlasst das zuständige Vollzugsorgan zweckdienliche Massnahmen, um den rechtmässigen Zustand wieder herzustellen. 4 Stellt sich im Rahmen der Marktüberwachung oder der Nachschau heraus, dass eine Waage nicht den Vorschriften entspricht, so werden die Verstösse gemäss den Strafbestimmungen der Artikel 20–24 des Messgesetzes vom 17. Juni 2011, der Artikel 23–30 des Bundesgesetzes vom 6. Oktober 1995 über die technischen Handelshemmnisse und von Artikel 248 des Strafgesetzbuches sanktioniert. Fassung gemäss Ziff. I 8 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grund-lagen im Messwesen), in Kraft seit 1. Jan. 2013 ( AS 2012 7183 ). Fassung gemäss Ziff. I 8 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grund-lagen im Messwesen), in Kraft seit 1. Jan. 2013 ( AS 2012 7183 ). SR 941.20 SR 946.51 SR 311.0 Fassung gemäss Ziff. I 8 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Jan. 2013 ( AS 2012 7183 )."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Kontrollgebühr",
+      "content": "Wird im Rahmen der Marktüberwachung oder der Nachschau ein Verstoss gegen die Vorschriften dieser Verordnung aufgedeckt, so erhebt die Kontrollbehörde eine Gebühr nach Zeitaufwand nach der Eichgebührenverordnung vom 23. November 2005. Fassung gemäss Ziff. I 8 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Jan. 2013 ( AS 2012 7183 ). SR 941.298.1"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "22",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Nichtselbsttätige Waagen, die gemäss der Wiegegeräteverordnung vom 15. August 1986 zugelassen wurden, können noch bis zum 30. April 2009 in Verkehr gebracht und der Ersteichung nach Anhang 5 Ziffer 2 der Messmittelverordnung vom 15. Februar 2006 unterzogen werden. 2 Nichtselbsttätige Waagen, die nach Absatz 1 erstgeeicht wurden und nichtselbsttätige Waagen, die vor dem Inkrafttreten dieser Verordnung geeicht wurden, dürfen weiterhin der Nacheichung unterzogen werden. [ AS 1986 2013 , 2002 2136 , 2004 2119 . AS 2006 1545 Art. 11] Fassung gemäss Ziff. I der V des EJPD vom 2. Okt. 2006, in Kraft seit 30. Okt. 2006 ( AS 2006 4189 )."
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "22a",
+      "title": "a Übergangsbestimmung zur Änderung vom 25. November 2015",
+      "content": "Bescheinigungen von Konformitätsbewertungsstellen wie Bauartprüfzertifikate und Entwurfsprüfzertifikate, die vor Inkrafttreten der Änderung vom 25. November 2015 ausgestellt wurden, bleiben bis zu ihrem Ablauf gültig. Eingefügt durch Ziff. I der V des EJPD vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2015 5849 )."
+    },
+    {
+      "provision_ref": "art22b",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "22b",
+      "title": "b Übergangsbestimmung zur Änderung vom 5. Dezember 2016",
+      "content": "Für Waagen nach Artikel 18 Absatz 2 Buchstabe b Ziffer 8, die vor dem 1. Januar 2017 geeicht wurden, gelten bis zur nächsten Nacheichung die bisherigen Fristen. Eingefügt durch Ziff. III der V des EJPD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 5225 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "23",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 2004 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Waage:",
+      "definition": "Waage: Messmittel, das die Masse eines Körpers durch Einwirken der Schwerkraft auf diesen Körper oder mit der Masse zusammenhängende Grössen, Werte, Parameter oder charakteristische Eigenschaften ermittelt;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Nichtselbsttätige Waage:",
+      "definition": "Nichtselbsttätige Waage: Waage, die das Eingreifen einer Bedienungsperson während des Wägevorgangs erfordert;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Teilungswert (d):",
+      "definition": "Teilungswert (d): Differenz zwischen den Werten von zwei benachbarten Teilstrichen oder, bei Ziffernanzeigen, zwischen zwei aufeinanderfolgenden Anzeigewerten, ausgedrückt in Einheiten der Masse;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Eichwert (e):",
+      "definition": "Eichwert (e): für die Klasseneinteilung der Waagen und für die Bestimmung der Fehlergrenzen verwendeter, in Einheiten der Masse ausgedrückter Wert;",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "sr-831-108",
+  "type": "statute",
+  "title": "Verordnung 23 vom 12. Oktober 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2022/604/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Alters- und Hinterlassenenversicherung",
+      "section": "1",
+      "title": "Sinkende Beitragsskala",
+      "content": "Die Grenzen der sinkenden Beitragsskala für Selbstständigerwerbende werden wie folgt festgesetzt: Franken a. obere Grenze nach Artikel 8 Absatz 1 AHVG 58 800.– b. untere Grenze nach Artikel 8 Absatz 1 AHVG 9 800.–"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Alters- und Hinterlassenenversicherung",
+      "section": "2",
+      "title": "Mindestbeitrag für Selbstständigerwerbende und Nichterwerbstätige",
+      "content": "1 Die Grenze des Einkommens aus selbstständiger Erwerbstätigkeit nach Artikel 8 Absatz 2 AHVG wird auf 9700 Franken festgesetzt. 2 Der Mindestbeitrag für Selbstständigerwerbende nach Artikel 8 Absatz 2 AHVG und für Nichterwerbstätige nach Artikel 10 Absatz 1 AHVG wird auf 422 Franken im Jahr festgesetzt. In der freiwilligen Versicherung beträgt er nach Artikel 2 Absätze 4 und 5 AHVG 844 Franken im Jahr."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Alters- und Hinterlassenenversicherung",
+      "section": "3",
+      "title": "Ordentliche Renten",
+      "content": "1 Der Mindestbetrag der vollen Altersrente nach Artikel 34 Absatz 5 AHVG wird auf 1225 Franken festgesetzt. 2 Die laufenden Voll- und Teilrenten werden angepasst, indem das bisher massgebende durchschnittliche Jahreseinkommen um: erhöht wird. Anwendbar sind die ab dem 1. Januar 2023 gültigen Rententabellen. 3 Die neuen Voll- und Teilrenten dürfen nicht niedriger sein als die bisherigen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Alters- und Hinterlassenenversicherung",
+      "section": "4",
+      "title": "Indexstand",
+      "content": "Die nach Artikel 3 Absatz 2 angepassten Renten entsprechen einem Rentenindex von 222,7 Punkten. Dieser entspricht nach Artikel 33 ter Absatz 2 AHVG dem Mittelwert aus: a. 196,9 Punkten für die Preisentwicklung, entsprechend einem Stand des Landesindexes der Konsumentenpreise von 205,0 Punkten (September 1977 = 100); b. 248,5 Punkten für die Lohnentwicklung, entsprechend einem Stand des Nominallohnindexes von 2495 Punkten (Juni 1939 = 100)."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Alters- und Hinterlassenenversicherung",
+      "section": "5",
+      "title": "Andere Leistungen",
+      "content": "Neben den ordentlichen Renten werden alle anderen Leistungen der AHV und der IV, deren Höhe nach Gesetz oder Verordnung vom Betrag der ordentlichen Rente abhängt, entsprechend erhöht."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Invalidenversicherung",
+      "section": "6",
+      "title": "",
+      "content": "Der Mindestbeitrag nach Artikel 3 Absatz 1 bis IVG wird für obligatorisch versicherte Nichterwerbstätige auf 68 Franken im Jahr, für freiwillig versicherte Nichterwerbstätige auf 136 Franken im Jahr festgesetzt."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Erwerbsersatz",
+      "section": "7",
+      "title": "Höchstbetrag der Gesamtentschädigung",
+      "content": "1 Der Höchstbetrag der Gesamtentschädigung nach Artikel 16 a EOG beträgt 275 Franken im Tag. 2 Der Höchstbetrag der Entschädigung nach Artikel 16 f Absatz 1 EOG beträgt 220 Franken im Tag."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Erwerbsersatz",
+      "section": "8",
+      "title": "Indexstand",
+      "content": "Der Höchstbetrag der Gesamtentschädigung entspricht einem Stand von 2494 Punkten des Lohnindexes des Bundesamtes für Statistik (Juni 1939 = 100)."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Erwerbsersatz",
+      "section": "9",
+      "title": "Mindestbeitrag",
+      "content": "Der Mindestbeitrag für Nichterwerbstätige nach Artikel 27 Absatz 2 EOG beträgt 24 Franken im Jahr."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "10",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung 21 vom 14. Oktober 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO wird aufgehoben. [ AS 2020 4609 , 4683 ]"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "11",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2023 in Kraft."
+    }
+  ],
+  "definitions": []
+}

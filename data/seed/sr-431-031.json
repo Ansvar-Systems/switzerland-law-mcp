@@ -1,0 +1,223 @@
+{
+  "id": "sr-431-031",
+  "type": "statute",
+  "title": "Verordnung vom 26. Januar 2011 über die Unternehmens-Identifikationsnummer (UIDV)",
+  "title_en": "",
+  "short_name": "UIDV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2011/81/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: UID-Einheiten, UID-Stellen und Meldung von UID-Daten",
+      "section": "1",
+      "title": "Nähere Umschreibung der UID-Einheiten",
+      "content": "(Art. 3 Abs. 1 Bst. c Ziff. 3, 5 und 6 UIDG) 1 Als UID-Einheiten gelten nur die natürlichen Personen nach Artikel 3 Absatz 1 Buchstabe c Ziffer 3 UIDG, die bei mindestens einer UID-Stelle registriert sind. 2 Nicht als UID-Einheiten nach Artikel 3 Absatz 1 Buchstabe c Ziffer 5 UIDG gelten die institutionellen Begünstigten nach Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007. 3 Nicht als UID-Einheiten nach Artikel 3 Absatz 1 Buchstabe c Ziffer 6 UIDG gelten die natürlichen Personen, die Tiere halten und nicht unter die Artikel 7, 18 a und 21 der Tierseuchenverordnung vom 27. Juni 1995 fallen. SR 192.12 SR 916.401 Fassung gemäss Anhang Ziff. 1 der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ( AS 2015 4255 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: UID-Einheiten, UID-Stellen und Meldung von UID-Daten",
+      "section": "2",
+      "title": "Registrierung von UID-Stellen",
+      "content": "Zur Registrierung melden sich die UID-Stellen beim Bundesamt für Statistik (BFS) an."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: UID-Einheiten, UID-Stellen und Meldung von UID-Daten",
+      "section": "3",
+      "title": "Meldung von UID-Daten",
+      "content": "(Art. 9 UIDG) 1 Für die Meldung von UID-Einheiten und deren UID-Daten an das BFS sind die Register der UID-Stellen nach den Artikeln 5 Absatz 1 und 9 Absatz 1 UIDG in folgender Reihenfolge massgebend: a. Handelsregister: kantonale Handelsregister, Zentralregister des Eidgenössischen Amtes für das Handelsregister; b. Branchenregister: kantonale Landwirtschaftsregister, Datensammlungen von kantonalen Veterinärämtern, Datensammlungen von Kantonschemikern oder kantonalen Labors, Register des Bundesamtes für Landwirtschaft, Medizinalberuferegister (MedReg), Gesundheitsberuferegister (GesReg), Nationales Register der Gesundheitsberufe (NAREG), kantonale Anwaltsregister, kantonale Notariatsregister; c. Register der AHV-Ausgleichskassen, kantonale Steuerregister, Mehrwertsteuerregister; d. übrige Register: Betriebs- und Unternehmensregister des BFS, Datensammlungen der Eidgenössischen Zollverwaltung über im Import und Export registrierte Unternehmen, Zentrales Migrationsinformationssystem (ZEMIS), Register der Schweizerischen Unfallversicherungsanstalt (Suva) und der Versicherer nach Artikel 68 des Bundesgesetzes vom 20. März 1981 über die Unfallversicherung, Unternehmensregister des Fürstentums Liechtenstein. 2 Weitere UID-Stellen können UID-Einheiten melden. Ihre Meldung wird berücksichtigt, soweit nicht bereits eine Meldung aus dem Register einer UID-Stelle nach Absatz 1 vorliegt. 3 Das BFS leitet die von einer nachrangigen UID-Stelle neu gemeldeten Daten weiter an die massgebende UID-Stelle. Es informiert die meldende Stelle über die Weiterleitung. 4 Eine UID-Einheit kann sich nicht selber beim BFS anmelden. Fassung gemäss Art. 21 der Registerverordnung GesBG vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ( AS 2020 111 ). Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 15. Dez. 2014 ( AS 2014 3675 ). SR 832.20"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Richtigkeit der UID-Daten",
+      "content": "(Art. 9 Abs. 3 und 4 UIDG) 1 Die Daten aus den Registern nach Artikel 3 Absatz 1 Buchstaben a und b werden unverändert in das UID-Register übernommen. 2 Bestehen Widersprüche zwischen Daten von UID-Stellen, die nach Artikel 3 Absatz 1 Buchstabe b, c oder d gleichermassen massgebend sind, so klärt das BFS mit den betroffenen UID-Stellen ab, welche Daten in das UID-Register übernommen werden. 3 Das BFS prüft, ob die Daten vollständig sind und ob keine Dublette vorliegt. Liegt eine Dublette vor, so meldet es den betroffenen UID-Stellen die bestehende UID. 4 Es kann Angaben über Mutationen in den Registern nach Artikel 3 Absatz 1 bearbeiten, soweit dies für die einwandfreie Identifizierung von UID-Einheiten erforderlich ist. Der Zugriff auf die Daten des Mehrwertsteuerregisters erfolgt mittels Abrufverfahren. Daten, die nicht in Artikel 9 aufgeführt sind, werden nicht ins UID‑Register aufgenommen. Eingefügt durch Ziff. II 1 der V vom 8. März 2019, in Kraft seit 1. April 2019 ( AS 2019 911 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: UID und UID-Ergänzung",
+      "section": "5",
+      "title": "Aufbau der UID",
+      "content": "(Art. 3 Abs. 1 Bst. a UIDG) Die UID besteht aus: a. dem Präfix «CHE»; b. einer nach dem Zufallsprinzip zugeteilten achtstelligen Zahl; c. einer Prüfziffer."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: UID und UID-Ergänzung",
+      "section": "6",
+      "title": "Zuweisung der UID",
+      "content": "(Art. 4 Abs. 1 UIDG) 1 Das BFS weist die UID unverzüglich der neuen UID-Einheit zu. 2 Das BFS oder eine von ihm bezeichnete UID-Stelle teilt der UID-Einheit die ihr zugewiesene UID mit und informiert sie über deren Bedeutung und die damit zusammenhängenden Rechte und Pflichten. Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6651 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: UID und UID-Ergänzung",
+      "section": "7",
+      "title": "Weiterführung der UID",
+      "content": "(Art. 4 Abs. 2 UIDG) 1 Nimmt eine aus dem UID-Register gelöschte UID-Einheit ihre frühere Tätigkeit wieder auf, so wird die Löschung ihrer UID rückgängig gemacht. 2 Wird die UID im Handelsregister zur Identifizierung einer anderen Rechtseinheit bereits verwendet, so wird der UID-Einheit eine neue UID zugewiesen. 3 Bei Geschäftsübergabe eines Einzelunternehmens entsteht eine neue UID-Einheit, die eine neue UID erhält."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: UID und UID-Ergänzung",
+      "section": "8",
+      "title": "UID-Ergänzung",
+      "content": "(Art. 3 Abs. 1 Bst. b UIDG) 1 Die UID-Ergänzung für das Handelsregister lautet: a. deutsch «HR»; b. französisch «RC»; c. italienisch «RC». 2 Die UID-Ergänzung für das Mehrwertsteuerregister lautet: a. deutsch «MWST»; b. französisch «TVA»; c. italienisch «IVA». 3 Die UID-Ergänzung wird der UID nachgestellt. 4 Die Führung der UID-Ergänzung in den Datensammlungen der UID-Stellen ist freiwillig. 5 Unter Vorbehalt spezialgesetzlicher Vorschriften ist die Verwendung der UID-Ergänzung durch die UID-Einheiten freiwillig."
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "10",
+      "section": "8a",
+      "title": "a Aufbau der einheitlichen internationalen Identifikationsnummer",
+      "content": "(Art. 2 Bst. d UIDG) Die einheitliche internationale Identifikationsnummer ( Legal Entity Identifyer , LEI) besteht aus 20 Zeichen und setzt sich wie folgt zusammen: a. dem vierstelligen Präfix, das jeder LEI-Vergabestelle einheitlich zugewiesen wird; b. zwei Reservezeichen; c. dem alphanumerischen 12-stelligen Teil, der die Einheiten nach Artikel 3 Absatz 1 Buchstabe g UIDG eindeutig identifiziert; d. zwei Kontrollziffern."
+    },
+    {
+      "provision_ref": "art8b",
+      "chapter": "10",
+      "section": "8b",
+      "title": "b Zuweisung und Meldung",
+      "content": "(Art. 10 a und 10 b UIDG) 1 Das BFS weist der UID-Einheit die LEI auf Verlangen zu. 2 Es meldet die zugewiesene LEI: a. der UID-Einheit; b. der Stiftung Global Legal Entity Identifier System Foundation (GLEIF)."
+    },
+    {
+      "provision_ref": "art8c",
+      "chapter": "10",
+      "section": "8c",
+      "title": "c Kosten",
+      "content": "(Art. 10 c UIDG) 1 Die Kosten für die Zuweisung und die Erneuerung der LEI berechnet das BFS jährlich in Abhängigkeit des vom BFS zu bezahlenden Jahresbeitrags an die GLEIF, der Anzahl LEI-Zuweisungs- und Erneuerungsgesuche und der Betriebskosten des Systems. 2 Die Summe der jährlich vom BFS erhobenen Einnahmen ohne Mehrwertsteuer für die Zuweisung und die Erneuerung der LEI muss der Summe der jährlichen Beitragszahlung an die GLEIF und der Betriebskosten des Systems des BFS entsprechen. 3 Das BFS publiziert die Ansätze auf seiner Internetseite."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: UID-Register",
+      "section": "9",
+      "title": "Zusatz- und Systemmerkmale des UID-Registers",
+      "content": "(Art. 6 Abs. 2 Bst. b und c UIDG) 1 Als Zusatzmerkmale werden im UID-Register geführt: a. Geburtsdatum, sofern es zur eindeutigen Identifikation notwendig ist; b. wirtschaftliche Tätigkeit gemäss Allgemeiner Systematik der Wirtschaftszweige (NOGA); c. Kategorie der UID-Einheit; d. die folgenden Identifikationsnummern: 1. Authorised Economic Operator (AEO), 2. Data Universal Numbering System (D-U-N-S-Nummer), 3. Global Location Number (GLN), 4. Unternehmensnummer gemäss dem Unternehmensregister des Fürstentums Liechtenstein; e. von der Sitzadresse abweichende Zustelladresse der UID-Einheit; f. gegebenenfalls Bezeichnung als Zweigniederlassung gemäss Eintrag im Handelsregister; g. detaillierter UID-Status; h. Löschungsgrund im UID-Register; i. Datum der erstmaligen Eintragung in das Handelsregister; j. Datum der Löschung im Handelsregister; k. öffentliche Zugänglichkeit der Daten zu den Kernmerkmalen; l. UID-Stellen, die Daten zur UID-Einheit gemeldet haben; m. massgebende UID einer gelöschten Dublette. 2 Als Systemmerkmale werden im UID-Register geführt: a. Datum der Eintragung in das UID-Register; b. UID und Bezeichnung der für die Meldung massgebenden UID-Stelle; c. Datum der letzten Änderung im UID-Register; d. UID-Stelle, die die letzte Änderung von Daten der UID-Einheit gemeldet hat; e. Datum der Löschung im UID-Register; f. UID-Stelle, die eine UID-Einheit zur Löschung angemeldet hat; g. Sperrung des Zugangs zu den UID-Daten; h. Angabe, dass die UID-Einheit eine UID-Stelle ist; i. Berechtigung, neue Administrativeinheiten und Mutationen von Administrativeinheiten zu melden; j. Angabe, dass das Register der UID-Stelle öffentlich ist. Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 15. Dez. 2014 ( AS 2014 3675 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: UID-Register",
+      "section": "10",
+      "title": "Betrieb und Kosten",
+      "content": "1 Das BFS stellt den Betrieb des UID-Registers sicher. 2 Es trägt die Kosten für den Betrieb und die Weiterentwicklung des UID-Registers. 3 Die UID-Stellen tragen die Kosten für die Anpassungen an die standardisierten Schnittstellen des UID-Registers."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Administrativnummer",
+      "section": "11",
+      "title": "Aufbau der Administrativnummer",
+      "content": "(Art. 3 Abs. 1 Bst. e UIDG) 1 Die Administrativnummer besteht aus: a. dem Präfix «ADM»; b. einer nach dem Zufallsprinzip zugeteilten achtstelligen Zahl; c. einer Prüfziffer. 2 Der numerische Teil der Administrativnummer wird nur einmal zugewiesen. Er darf nicht mit dem numerischen Teil einer bereits zugewiesenen UID übereinstimmen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Administrativnummer",
+      "section": "12",
+      "title": "Zuweisung der Administrativnummer",
+      "content": "(Art. 10 Abs. 2 UIDG) 1 Folgende UID-Stellen können dem BFS Administrativeinheiten für die Aufnahme in das UID-Register melden: a. die Eidgenössische Steuerverwaltung für die Führung des Mehrwertsteuerregisters; b. die AHV-Ausgleichskassen. 2 Weitere UID-Stellen können beim BFS die Zuweisung von Administrativnummern an die in ihren Registern geführten Einheiten beantragen, wenn sie diese Nummern für die Registerführung benötigen. 3 Die UID-Stellen geben dem BFS mindestens Name, Firma oder Bezeichnung und Adresse der Administrativeinheit an."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Administrativnummer",
+      "section": "13",
+      "title": "Umwandlung einer Administrativeinheit in eine UID-Einheit",
+      "content": "(Art. 4 Abs. 1 UIDG) 1 Eine Administrativeinheit kann in eine UID-Einheit umgewandelt werden. 2 Dabei wird ihr eine aus dem Präfix «CHE» und dem numerischen Teil der bisherigen Administrativnummer gebildete UID zugewiesen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Administrativnummer",
+      "section": "14",
+      "title": "Merkmale der Administrativeinheiten im UID-Register",
+      "content": "(Art. 6 Abs. 3 und 10 Abs. 3 UIDG) Das UID-Register enthält zu den Administrativeinheiten die Administrativnummer und die Merkmale, die zur Identifizierung der Administrativeinheiten erforderlich sind, höchstens jedoch die Merkmale, die zu UID-Einheiten aufgenommen werden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Administrativnummer",
+      "section": "15",
+      "title": "Bearbeitung der Daten von Administrativeinheiten im UID-Register",
+      "content": "(Art. 10 Abs. 3 UIDG) Das BFS erfasst, ändert oder löscht Daten von Administrativeinheiten nur auf Gesuch der UID-Stellen, die diese Einheiten in ihren Registern führen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Administrativnummer",
+      "section": "16",
+      "title": "Einsicht in die Daten der Administrativeinheiten im UID-Register",
+      "content": "(Art. 10 Abs. 3 UIDG) 1 UID-Stellen, die Administrativeinheiten in ihren Registern führen, können für andere UID-Stellen beim BFS das Einsichtsrecht in die Kern- und Zusatzmerkmale dieser Administrativeinheiten beantragen, sofern spezialgesetzliche Bestimmungen dies zulassen. 2 Das BFS prüft die Anträge und erteilt die entsprechenden Einsichtsrechte."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Datenbekanntgabe und Datenschutz",
+      "section": "17",
+      "title": "Auskunfts- und Berichtigungsrecht der UID-Einheiten und Administrativeinheiten",
+      "content": "1 Die UID-Einheiten können beim BFS Auskunft über ihre UID-Daten und deren Berichtigung verlangen. 2 Sie können die Berichtigung auch bei der massgebenden UID-Stelle nach Artikel 3 Absatz 1 verlangen. 3 Im Handelsregister eingetragene UID-Einheiten müssen die Berichtigung beim zuständigen kantonalen Handelsregister anmelden. 4 Die Administrativeinheiten können Auskunft über ihre Daten und deren Berichtigung bei der UID-Stelle verlangen, deren Register ihre Daten enthält."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Datenbekanntgabe und Datenschutz",
+      "section": "18",
+      "title": "Einsichtsrecht der UID-Einheiten",
+      "content": "1 Die UID-Einheiten können ihre eigenen UID-Daten sowie die Kernmerkmale von UID-Einheiten nach Artikel 11 Absatz 3 UIDG einsehen. 2 Sie können ihre eigenen UID-Daten über einen gesicherten Internetzugang einsehen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Datenbekanntgabe und Datenschutz",
+      "section": "19",
+      "title": "Einsichtsrecht der UID-Stellen",
+      "content": "1 Die UID-Stellen können die Kern- und Zusatzmerkmale aller UID-Einheiten einsehen. 2 Die UID-Stelle des Fürstentums Liechtenstein hat lediglich Zugriff auf die Daten der UID-Einheiten auf liechtensteinischem Hoheitsgebiet. Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 15. Dez. 2014 ( AS 2014 3675 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "5. Abschnitt: Datenbekanntgabe und Datenschutz",
+      "section": "20",
+      "title": "Bekanntgabe der UID bei Sammelabfragen",
+      "content": "(Art. 11 Abs. 2 UIDG) 1 Für eine Sammelabfrage der UID müssen ein schriftlicher Antrag und mindestens Name, Firma oder Bezeichnung und Adresse der UID-Einheiten in elektronischer Form beim BFS eingereicht werden. 2 Bei der Sammelabfrage sind die technischen Vorgaben des BFS einzuhalten. 3 Sammelabfragen von UID durch Private sind nur möglich, wenn diese die UID-Einheiten bereits in ihren Datensammlungen führen. 4 Bei Sammelabfragen von UID durch Private werden nur UID bekannt gegeben, die öffentlich zugänglich sind. 5 Von Privaten wird für Sammelabfragen eine Gebühr erhoben. Diese richtet sich nach Artikel 1 Buchstabe h der Verordnung vom 25. Juni 2003 über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes. SR 431.09"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "5. Abschnitt: Datenbekanntgabe und Datenschutz",
+      "section": "21",
+      "title": "Datenschutz",
+      "content": "(Art. 13 UIDG) 1 Die UID-Daten und die Daten von Administrativeinheiten dürfen nur zum gesetzlich vorgesehenen Zweck verwendet werden. 2 Das BFS stellt für Meldungen und Abfragen von Daten standardisierte Schnittstellen zur Verfügung. 3 Es überwacht die Einhaltung der datenschutzrechtlichen Bestimmungen. 4 Die Daten werden nach den technischen und organisatorischen Vorgaben des Bundes übermittelt."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Abschnitt: Datenbekanntgabe und Datenschutz",
+      "section": "22",
+      "title": "Aufbewahrung von Daten zu gelöschten UID-Einheiten und Administrativeinheiten",
+      "content": "(Art. 12 UIDG) 1 Daten von als gelöscht gekennzeichneten UID-Einheiten und Administrativeinheiten werden vom Zeitpunkt der Löschung an höchstens 30 Jahre aufbewahrt. Das Einsichtsrecht der UID-Stellen bleibt während der Aufbewahrungsdauer bestehen. 2 Das BFS bietet die zur Vernichtung vorgesehenen Daten dem Bundesarchiv zur Archivierung an und vernichtet die Daten anschliessend."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "23",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "24",
+      "title": "Übergangsbestimmung zur Einführung der UID",
+      "content": "(Art. 17 Abs. 2 UIDG) 1 Die zuständigen UID-Stellen schliessen die Einführung der UID bis zum 31. Dezember 2013 für die nachfolgenden Register ab: a. die kantonalen Handelsregister; b. das Eidgenössische Amt für das Handelsregister; c. die kantonalen Landwirtschaftsregister; d. das Register des Bundesamtes für Landwirtschaft; e. das Medizinalberuferegister; f. die kantonalen Anwaltsregister; g. das Mehrwertsteuerregister; h. das Betriebs- und Unternehmensregister des BFS. 2 Die übrigen UID-Stellen schliessen die Einführung der UID bis zum 31. Dezember 2015 ab. 3 Bis zum Abschluss der Einführung können die jeweiligen UID-Stellen die Begriffe nach bisherigem Recht weiterverwenden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "25",
+      "title": "Übergangsbestimmung zur Koordinationsstelle",
+      "content": "(Art. 18 UIDG) Die kantonale Koordinationsstelle nach Artikel 18 UIDG nimmt Informations-, Koordinations- und Planungsaufgaben wahr und berichtet dem BFS über den Stand der Einführung."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "26",
+      "title": "Übergangsbestimmungen zur Änderung der Handelsregisternummer",
+      "content": "(Art. 19 UIDG) 1 Das BFS weist den im Handelsregister elektronisch eingetragenen Rechtseinheiten die UID aufgrund der im Betriebs- und Unternehmensregister registrierten Daten zu. 2 Es meldet die UID den zuständigen kantonalen Handelsregisterämtern, dem Eidgenössischen Amt für das Handelsregister und dem Schweizerischen Handelsamtsblatt. 3 Das Schweizerische Handelsamtsblatt publiziert die UID der aktiven im Handelsregister eingetragenen Rechtseinheiten ausschliesslich in elektronischer Form. Es bestimmt den Zeitpunkt der Publikation in Absprache mit den kantonalen Handelsregisterämtern."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "27",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. April 2011 in Kraft."
+    }
+  ],
+  "definitions": []
+}

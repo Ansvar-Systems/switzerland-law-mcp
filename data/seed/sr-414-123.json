@@ -1,0 +1,362 @@
+{
+  "id": "sr-414-123",
+  "type": "statute",
+  "title": "Verordnung vom 5. Dezember 2014 über das Finanz- und Rechnungswesen des ETH-Bereichs",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/770/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Grundsätze",
+      "content": "1 Der ETH-Rat, die ETH und die Forschungsanstalten sorgen für einen wirksamen und wirtschaftlichen Einsatz der finanziellen Mittel. 2 Die ETH und die Forschungsanstalten sind dafür dem ETH-Rat gegenüber verantwortlich."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Drittmittel",
+      "content": "1 Drittmittel sind alle Mittel, die nicht aus den direkten Finanzierungsbeiträgen des Bundes stammen. Sie setzen sich zusammen aus: a. den Entgelten für Forschungsaufträge des Bundes und von Bundesinstitutionen sowie den Beiträgen aus europäischen Forschungsprogrammen; b. den Beiträgen von dritter Seite. 2 Die Entgegennahme von Drittmitteln muss mit der Unabhängigkeit sowie mit den Aufgaben und den Zielen der ETH und der Forschungsanstalten vereinbar sein. 3 Die ETH und die Forschungsanstalten entscheiden über die Entgegennahme und die Verwendung von Drittmitteln im Rahmen der vertraglichen Verpflichtungen, soweit der ETH-Rat nichts anderes bestimmt. 4 Der ETH Rat, die ETH und die Forschungsanstalten müssen den zuständigen Bundesbehörden über die Herkunft und die Verwendung der Drittmittel sowie über die Projektstände Auskunft geben können."
+    },
+    {
+      "provision_ref": "art2a",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2a",
+      "title": "a Zuwendungen mit Auflagen",
+      "content": "Lässt sich bei Erbschaften, Vermächtnissen und Schenkungen (Zuwendungen), die mit Auflagen verbunden sind, die Zweckbestimmung nicht mehr verwirklichen, so entscheidet die für die Verwaltung zuständige Stelle über die Verwendung der Mittel. Eingefügt durch Ziff. I der V vom 7. Sept. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 3227 )."
+    },
+    {
+      "provision_ref": "art2b",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2b",
+      "title": "b Erträge aus Energieverkauf",
+      "content": "1 Wenn die ETH oder die Forschungsanstalten nicht selbst benötigte Energie verkaufen, sind 90 Prozent der Bruttoerträge der allgemeinen Bundeskasse abzuliefern. 2 Der ETH-Rat budgetiert und begründet im Rahmen des Voranschlags die erwarteten Erträge aus dem Energieverkauf. Eingefügt durch Ziff. II der V vom 5. April 2017 ( AS 2017 2555 ). Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 1. Jan. 2022 ( AS 2021 605 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Grundsätze und Rechnungslegungsstandards",
+      "section": "3",
+      "title": "Grundsätze der Rechnungslegung",
+      "content": "Für die Rechnungslegung gelten folgende Grundsätze: a. Wesentlichkeit: Es sind sämtliche Informationen offenzulegen, die für eine rasche und umfassende Beurteilung der Vermögens-, der Finanz- und der Ertragslage notwendig sind und Entscheide der beschliessenden Behörde beeinflussen können. b. Vollständigkeit: Es sind alle Aufwände und Erträge sowie Investitionsausgaben und Investitionseinnahmen aufzuführen. c. Verständlichkeit: Die Informationen müssen klar und nachvollziehbar sein. d. Stetigkeit: Die Grundsätze der Rechnungslegung und der Buchführung sollen so weit als möglich über einen längeren Zeitraum unverändert bleiben und die Vergleichbarkeit ermöglichen. e. Bruttodarstellung: Aufwände und Erträge sowie Investitionsausgaben und Investitionseinnahmen sind getrennt voneinander ohne gegenseitige Verrechnung in voller Höhe auszuweisen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Grundsätze und Rechnungslegungsstandards",
+      "section": "4",
+      "title": "Rechnungslegungsstandards",
+      "content": "1 Die Rechnungslegung richtet sich nach den International Public Sector Accounting Standards (IPSAS). 2 Abweichungen von den IPSAS sind in Anhang 1 geregelt. Konkretisierungen der IPSAS sind in Anhang 2 festgehalten. www.ifac.org/public-sector"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Jahresrechnungen",
+      "section": "5",
+      "title": "Aufbau",
+      "content": "Die Jahresrechnungen des ETH-Rates, der ETH und der Forschungsanstalten folgen dem Aufbau der Jahresrechnung des ETH-Bereichs gemäss Artikel 35 Absatz 2 des ETH-Gesetzes."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Jahresrechnungen",
+      "section": "6",
+      "title": "Kontenrahmen",
+      "content": "Der ETH-Rat legt in Weisungen den Kontenrahmen der Jahresrechnungen in Abstimmung mit dem Kontenrahmen der konsolidierten Rechnung des Bundes fest."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Jahresrechnungen",
+      "section": "7",
+      "title": "Bilanz",
+      "content": "1 Die Bilanz weist die Vermögenswerte (Aktiven) sowie die Verpflichtungen und das Eigenkapital (Passiven) aus. 2 Die Vermögenswerte werden dem Umlauf- oder dem Anlagevermögen zugeordnet. 3 Die Verpflichtungen werden in kurz- und in langfristiges Fremdkapital gegliedert."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Jahresrechnungen",
+      "section": "8",
+      "title": "Bilanzierungsgrundsätze",
+      "content": "1 Vermögensteile werden als Aktiven in der Bilanz aufgeführt, wenn: a. sie einen künftigen wirtschaftlichen Nutzen hervorbringen oder unmittelbar der Erfüllung öffentlicher Aufgaben dienen; und b. ihr Wert verlässlich ermittelt werden kann. 2 Bestehende Verpflichtungen aus einem Ereignis in der Vergangenheit werden als Passiven in der Bilanz aufgeführt, wenn ihre Erfüllung voraussichtlich zu einem Mittelabfluss führen wird. 3 Rückstellungen werden für Verpflichtungen gebildet, deren Ursprung in einem Ereignis in der Vergangenheit liegt, falls der Zeitpunkt der Erfüllung oder die Höhe des künftigen Mittelabflusses mit Unsicherheiten behaftet ist. 4 Vermögensteile und Verpflichtungen werden in der Rechnungsperiode bilanziert, in der sie die Voraussetzungen nach den Absätzen 1, 2 und 3 für eine Aktivierung oder Passivierung erfüllen. 5 Auf eine Bilanzierung kann verzichtet werden, wenn die Aktivierungs- oder die Passivierungsgrenze (Art. 10) nicht erreicht wird. 6 Der ETH-Rat legt in Weisungen fest, unter welchen Voraussetzungen ausnahmsweise eine Sammelaktivierung oder -passivierung zulässig ist."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Jahresrechnungen",
+      "section": "9",
+      "title": "Bewertungsgrundsätze und Abschreibungen",
+      "content": "1 Die Bewertungsgrundsätze richten sich nach den Vorgaben der IPSAS. 2 Kulturobjekte wie Kunst- und Lehrsammlungen, historische Sammlungen und Bibliotheken sind nicht zu aktivieren. 3 Gleichartige Vermögensteile und Verpflichtungen sind zu Klassen zusammenzufassen. Innerhalb einer Klasse gelten die gleichen Bewertungsgrundsätze. 4 Der ETH-Rat legt in Weisungen fest: a. die für die einzelnen Klassen anzuwendenden Bewertungsgrundsätze; b. die Anlageklassen und deren Abschreibungssätze."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Jahresrechnungen",
+      "section": "10",
+      "title": "Aktivierungs- und Passivierungsgrenzen",
+      "content": "1 Investitionen und Lagerbestände sind ab folgenden Werten zu aktivieren: a. Immobilien: ab 100 000 Franken; b. nutzerspezifische Ausbauten in bundeseigenen und in gemieteten Liegenschaften: ab 100 000 Franken; c. Mobilien: ab 10 000 Franken; d. gekaufte immaterielle Vermögenswerte: ab 100 000 Franken; e. selbst geschaffene immaterielle Vermögenswerte: ab 1 Million Franken; f. Lagerbestände: ab 100 000 Franken. 2 Rückstellungen sind mindestens ab einem Betrag von 500 000 Franken zu bilden. 3 Zeitliche Abgrenzungen sind mindestens ab einem Betrag von 100 000 Franken vorzunehmen. 4 Der ETH-Rat kann in Weisungen weitere Grenzen festlegen."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Reserven",
+      "content": "1 Reserven können auf Stufe ETH-Rat sowie ETH und Forschungsanstalten gebildet werden. 2 Sie sind Teil des Eigenkapitals. 3 Die Bildung und die Auflösung von Reserven erfolgen nicht direkt über die Erfolgsrechnung. 4 Der ETH-Rat regelt in Weisungen die Bildung und die Auflösung von Reserven."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Erfolgsrechnung",
+      "content": "Die Erfolgsrechnung enthält den Aufwand und den Ertrag sowie das Jahresergebnis der laufenden Geschäftsperiode."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Geldflussrechnung",
+      "content": "1 Die Geldflussrechnung informiert über die Herkunft und die Verwendung der flüssigen Mittel und der kurzfristigen Geldanlagen und weist deren Veränderungen nach. 2 Sie zeigt den Mittelfluss auf aus: a. operativen Tätigkeiten (Cash Flow); b. Investitionstätigkeiten; und c. Finanzierungstätigkeiten. 3 Die Investitionsrechnung ist Teil der Geldflussrechnung."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Eigenkapitalnachweis",
+      "content": "Der Eigenkapitalnachweis zeigt die Ursachen der Veränderung des Eigenkapitals auf."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Anhang",
+      "content": "Der Anhang der Jahresrechnung umfasst namentlich folgende Punkte: a. Er nennt das auf die Rechnungslegung anzuwendende Regelwerk und begründet Abweichungen. b. Er fasst Rechnungslegungsgrundsätze einschliesslich der wesentlichen Grundsätze für die Bilanzierung und Bewertung zusammen. c. Er führt in geraffter Form wesentliche Einzelheiten zu den anderen Teilen der Jahresrechnung aus. d. Er enthält zusätzliche Angaben, die für die Beurteilung der Vermögens- und der Ertragslage, der Verpflichtungen und der finanziellen Risiken von Bedeutung sind."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Konsolidierung",
+      "content": "1 Die konsolidierte Jahresrechnung des ETH-Bereichs wird nach dem Grundsatz der Vollkonsolidierung erstellt. Sie umfasst die konsolidierten Jahresrechnungen des ETH-Rates, der ETH und der Forschungsanstalten. 2 Sie vermittelt einen Überblick über die Vermögens-, die Finanz- und die Ertragslage des ETH-Bereichs, bereinigt um die Innenbeziehungen. 3 Sie bildet die Grundlage zur Überleitung in die konsolidierte Rechnung des Bundes gemäss den für dezentrale Verwaltungseinheiten des Bundes geltenden Vorgaben. 4 Die Konsolidierung der Jahresrechnungen des ETH-Rates, der ETH und der Forschungsanstalten erfolgt nach den gleichen Regeln wie die Konsolidierung der Jahresrechnung des ETH-Bereichs. 5 Der ETH-Rat legt die Einzelheiten zur Konsolidierung in Weisungen fest; dabei sind die Konkretisierungen der IPSAS nach Anhang 2 zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Unterzeichnung und Bestätigung der Jahresrechnung",
+      "content": "1 Der Präsident oder die Präsidentin des ETH-Rates unterzeichnet zusammen mit dem oder der Finanzverantwortlichen die konsolidierte Jahresrechnung des ETH-Rates sowie die konsolidierte Jahresrechnung des ETH-Bereichs. 2 Die Präsidenten oder Präsidentinnen der ETH und die Direktoren oder Direktorinnen der Forschungsanstalten unterzeichnen zusammen mit ihren Finanzverantwortlichen die konsolidierte Jahresrechnung ihrer Institution. 3 Die Unterzeichnenden bestätigen mit ihrer Unterschrift, dass der Jahresabschluss nach den rechtlichen Vorschriften erfolgt ist und dass er die Vermögens-, die Finanz- und die Ertragslage den tatsächlichen Verhältnissen entsprechend darstellt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "3. Abschnitt: Berichterstattung",
+      "section": "18",
+      "title": "Grundsätze",
+      "content": "1 In der Berichterstattung innerhalb des ETH-Bereichs und nach aussen werden die Vermögens-, die Finanz- und die Ertragslage den tatsächlichen Verhältnissen entsprechend dargestellt. 2 Die ETH und die Forschungsanstalten bestätigen im Rahmen ihrer Berichterstattung an den ETH-Rat die Ordnungsmässigkeit der in der Jahresrechnung verwendeten Zahlen und Kommentare."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "3. Abschnitt: Berichterstattung",
+      "section": "19",
+      "title": "Geschäftsberichte",
+      "content": "1 Die ETH und die Forschungsanstalten erstellen jährlich je einen Geschäftsbericht, bestehend aus dem Lagebericht und der Jahresrechnung. 2 Der ETH-Rat erstellt jährlich gestützt auf die Berichterstattung der ETH und der Forschungsanstalten den Geschäftsbericht des ETH-Bereichs. Er integriert seinen Lagebericht in den Lagebericht des ETH-Bereichs. 3 Der ETH-Rat veröffentlicht den Geschäftsbericht des ETH-Bereichs nach der Genehmigung durch den Bundesrat und der Zustellung an die zuständigen Kommissionen der eidgenössischen Räte."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "3. Abschnitt: Berichterstattung",
+      "section": "20",
+      "title": "Weitere Berichte",
+      "content": "Die ETH und die Forschungsanstalten liefern dem ETH-Rat die notwendigen Angaben für die Erstellung der weiteren vom Bund verlangten Berichte des ETH-Bereichs."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "4. Abschnitt: Revision",
+      "section": "21",
+      "title": "",
+      "content": "1 Der Revision unterliegen: a. auf Stufe des ETH-Bereichs, der ETH und der Forschungsanstalten: die Jahresrechnungen und die Lageberichte; b. auf Stufe des ETH-Rates: die Jahresrechnung. 2 Die Lageberichte sind zu prüfen auf: a. allfällige Widersprüche zu den Jahresrechnungen; b. die Durchführung eines adäquaten Risikomanagements; c. allfällige Widersprüche im Bereich der Personalberichterstattung."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "1. Abschnitt: Buchführung und Inventarisierung",
+      "section": "22",
+      "title": "Grundsätze",
+      "content": "1 Für die Buchführung gelten die folgenden Grundsätze: a. Vollständigkeit: Alle Finanzvorfälle und Buchungstatbestände sind lückenlos und periodengerecht zu erfassen. b. Richtigkeit: Die Buchungen müssen den Tatsachen entsprechen. c. Rechtzeitigkeit: Die Buchhaltung ist aktuell zu halten. Die Vorgänge sind chronologisch festzuhalten. d. Nachprüfbarkeit: Die Vorgänge sind klar und verständlich zu erfassen. Korrekturen sind zu kennzeichnen und Buchungen durch Belege nachzuweisen. 2 Die Grundsätze der Rechnungslegung gemäss Artikel 3 gelten sinngemäss."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "1. Abschnitt: Buchführung und Inventarisierung",
+      "section": "23",
+      "title": "Kosten- und Leistungsrechnung",
+      "content": "1 Die ETH und die Forschungsanstalten führen eine auf ihre Bedürfnisse ausgerichtete Kosten- und Leistungsrechnung (KLR). 2 Die KLR muss so ausgestaltet sein, dass: a. mit ihr die Betriebsführung unterstützt wird; b. auf ihrer Grundlage Budget und Jahresrechnung erarbeitet und beurteilt werden können; c. auf ihrer Grundlage Statistiken erstellt werden können; d. mit ihr die Kostentransparenz im Interesse einer wirtschaftlichen Verwaltungstätigkeit sichergestellt ist."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "1. Abschnitt: Buchführung und Inventarisierung",
+      "section": "24",
+      "title": "Aufbewahrung der Belege",
+      "content": "1 Belege sind zusammen mit der Buchhaltung während 10 Jahren aufzubewahren. 2 Für der Mehrwertsteuer unterliegende Leistungen im Zusammenhang mit Immobilien sind die Belege während 20 Jahren aufzubewahren."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "1. Abschnitt: Buchführung und Inventarisierung",
+      "section": "25",
+      "title": "Inventare",
+      "content": "1 Der ETH-Rat, die ETH und die Forschungsanstalten führen für die aktivierungspflichtigen Sachanlagen und Lagerbestände Wertinventare. 2 Sie aktualisieren die Wertinventare jährlich. In Bezug auf aktivierungspflichtige Sachanlagen, deren Restbuchwert zum Zeitpunkt der jährlichen Kontrolle unter 100 000 Franken beträgt, aktualisieren sie die Inventare alle drei Jahre. 3 Der ETH-Rat, die ETH und die Forschungsanstalten führen für die Kulturobjekte Sachinventare. 4 Sie regeln für die anderen nicht aktivierungspflichtigen Sachanlagen und Lagerbestände die Führung von Sachinventaren risikogerecht."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "2. Abschnitt: Interne Kontrolle",
+      "section": "26",
+      "title": "Internes Kontrollsystem und Verantwortlichkeit",
+      "content": "1 Der ETH-Rat, die ETH und die Forschungsanstalten führen je ein internes Kontrollsystem (IKS). 2 Das IKS dient dazu: a. das Vermögen zu schützen; b. die zweckmässige Verwendung der Mittel sicherzustellen; c. Fehler und Unregelmässigkeiten bei der Rechnungsführung zu verhindern oder aufzudecken; d. die Ordnungsmässigkeit der Rechnungslegung und die verlässliche Berichterstattung zu gewährleisten. 3 Es berücksichtigt die Risikolage und das Kosten-Nutzen-Verhältnis. 4 Der Präsident oder die Präsidentin des ETH-Rates, die Präsidenten oder Präsidentinnen der ETH und die Direktoren oder Direktorinnen der Forschungsanstalten sorgen für die Einführung, den wirksamen Einsatz und die Überwachung des IKS in ihrem Zuständigkeitsbereich."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "2. Abschnitt: Interne Kontrolle",
+      "section": "27",
+      "title": "Ausgestaltung des IKS",
+      "content": "1 Das IKS umfasst regulatorische, organisatorische und technische Massnahmen. 2 Es muss vollständig und nachvollziehbar dokumentiert werden. Zu dokumentieren sind insbesondere die Risikoanalyse und die sich daraus ergebenden Kontrollen sowie die Nachweise für die durchgeführten Kontrollen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "2. Abschnitt: Interne Kontrolle",
+      "section": "28",
+      "title": "Unterschriftenregelung",
+      "content": "Der ETH-Rat, die ETH und die Forschungsanstalten treffen je eine Unterschriftenregelung."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "3. Abschnitt: Risikomanagement",
+      "section": "29",
+      "title": "Zuständigkeiten",
+      "content": "1 Der ETH-Rat, die ETH und die Forschungsanstalten betreiben je in ihrem Aufgabenbereich ein Risikomanagement. 2 Der ETH-Rat regelt die Grundzüge des Risikomanagements im ETH-Bereich in Weisungen. Er legt darin insbesondere fest: a. die Ziele der Risikopolitik und die Verantwortlichkeiten bei deren Umsetzung; b. die Risikoerfassung; c. die Risikobewertung; d. die Risikobewältigung und -finanzierung; e. das Risikocontrolling."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "3. Abschnitt: Risikomanagement",
+      "section": "30",
+      "title": "Risikotragung",
+      "content": "1 Der ETH-Rat, die ETH und die Forschungsanstalten tragen je in ihrem Aufgabenbereich ihre Risiken selber; vorbehalten bleiben Absatz 2 und spezialgesetzliche Bestimmungen. 2 Tritt beim ETH-Rat, bei den ETH oder bei den Forschungsanstalten ein Schadenereignis ein, das die Erfüllung der in der Bundesgesetzgebung und in den strategischen Zielen verankerten Aufgaben gefährdet, so beantragt der ETH-Rat nach Konsultation der Eidgenössischen Finanzverwaltung (EFV) beim Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) zuhanden des Bundesrates: a. eine Anpassung der strategischen Ziele; oder b. eine Erhöhung des Finanzierungsbeitrags des Bundes und nötigenfalls des Zahlungsrahmens. Ausdruck gemäss Ziff. II der V vom 5. April 2017, in Kraft seit 1. Mai 2017 ( AS 2017 2555 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "3. Abschnitt: Risikomanagement",
+      "section": "31",
+      "title": "Informationspflicht",
+      "content": "Der ETH-Rat informiert das Generalsekretariat des WBF und die EFV über wesentliche Entwicklungen der Risikosituation und der Versicherungsdeckungen beim ETH-Rat, bei den ETH und bei den Forschungsanstalten."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "4. Kapitel: Finanzplan und Budget",
+      "section": "32",
+      "title": "Finanzplan",
+      "content": "1 Der ETH-Rat aktualisiert jährlich den Finanzplan des ETH-Bereichs für die drei dem Budget folgenden Jahre. 2 Die ETH und die Forschungsanstalten liefern dem ETH-Rat die notwendigen Angaben."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "4. Kapitel: Finanzplan und Budget",
+      "section": "33",
+      "title": "Budget",
+      "content": "1 Der ETH-Rat erstellt gemäss den für dezentrale Verwaltungseinheiten des Bundes geltenden Vorgaben jährlich das Budget des ETH-Bereichs. 2 Er erstellt das Budget nach den in den Artikeln 3 und 4 festgelegten Grundsätzen und Standards. 3 Er erlässt für die Erstellung des Budgets Weisungen zuhanden der ETH und der Forschungsanstalten. 4 Er kann das Budget in einem Bericht veröffentlichen."
+    },
+    {
+      "provision_ref": "art33a",
+      "chapter": "7",
+      "section": "33a",
+      "title": "a Arten",
+      "content": "1 Überlassen die ETH und die Forschungsanstalten im Rahmen ihrer Aufgabenerfüllung und ihrer strategischen Ziele bundeseigene Grundstücke Dritten zur Nutzung, so liegt keine Nutzungsüberlassung im Sinne von Artikel 34 b bis des ETH-Gesetzes vor. 2 Eine Nutzungsüberlassung im Sinne von Artikel 34 b bis des ETH-Gesetzes liegt hingegen vor, wenn: a. die ETH und die Forschungsanstalten ausserhalb ihrer Aufgabenerfüllung und ihrer strategischen Ziele bundeseigene Grundstücke Dritten zur Nutzung überlassen; b. die ETH und die Forschungsanstalten bundeseigene Grundstücke nicht mehr benötigen und Dritten zur Zwischennutzung überlassen."
+    },
+    {
+      "provision_ref": "art33b",
+      "chapter": "7",
+      "section": "33b",
+      "title": "b Nutzung durch Dritte im Rahmen der Aufgabenerfüllung und der strategischen Ziele der ETH und der Forschungsanstalten",
+      "content": "1 Eine Nutzung im Sinne von Artikel 33 a Absatz 1 liegt vor, wenn die Nutzung durch Dritte: a. unmittelbarder Aufgabenerfüllung der ETH und der Forschungsanstalten dient oder dazu beiträgt; und b. zur Erreichung der strategischen Ziele der ETH und der Forschungsanstalt notwendig ist. 2 Eine Nutzung im Sinne von Artikel 33 a Absatz 1 ist insbesondere die Nutzung von Grundstücken durch Dritte zu folgenden Zwecken: a. Aus- und Weiterbildung auf wissenschaftlichem oder technischem Gebiet in Zusammenarbeit mit Dritten; b. Forschung und Nutzung von Forschungsergebnissen auf wissenschaftlichem oder technischem Gebiet in Zusammenarbeit mit Dritten; c. Unterstützung der betrieblichen Abläufe."
+    },
+    {
+      "provision_ref": "art33c",
+      "chapter": "7",
+      "section": "33c",
+      "title": "c Nutzungsüberlassungen ausserhalb des Rahmens der Aufgabenerfüllung und der strategischen Ziele",
+      "content": "1 Die ETH und die Forschungsanstalten dürfen ausserhalb ihrer Aufgabenerfüllung und ihrer strategischen Ziele bundeseigene Grundstücke Dritten gemäss den folgenden Voraussetzungen zur Nutzung überlassen: a. Die Überlassung ist auf höchstens zwölf Jahre befristet; die Frist beginnt mit der Zuteilung der bundeseigenen Grundstücke in die Kategorie der Nutzungsüberlassung nach dem vorliegenden Artikel. b. Die überlassenen bundeseigenen Grundstücke werden gemäss der räumlichen Entwicklungsstrategie der ETH oder der Forschungsanstalt in den nächsten zwölf Jahren einer Eigennutzung oder einer Nutzung nach Artikel 33a Absatz 1 zugeführt. 2 Der ETH-Rat kann mit der Zustimmung des Bundesamts für Bauten und Logistik (BBL) für bundeseigene Grundstücke, die als strategische Land- und Immobilienreserve dienen, die Frist nach Absatz 1 angemessen verlängern."
+    },
+    {
+      "provision_ref": "art33d",
+      "chapter": "7",
+      "section": "33d",
+      "title": "d Überlassung zur Zwischennutzung durch Dritte bis zum Verkauf",
+      "content": "Benötigen die ETH und die Forschungsanstalten bundeseigene Grundstücke nicht mehr zur Eigennutzung oder zu Nutzung nach Artikel 33 b oder 33 c , so sind diese Grundstücke gemäss der Verordnung vom 5. Dezember 2008 über das Immobilienmanagement und die Logistik des Bundes zu verkaufen. Bis zum Vollzug des Verkaufs dürfen die Grundstücke Dritten zur Zwischennutzung überlassen werden. SR 172.010.21"
+    },
+    {
+      "provision_ref": "art33e",
+      "section": "33e",
+      "title": "e Erträge aus Nutzungen durch Dritte",
+      "content": "1 Erträge, die die ETH und die Forschungsanstalten aus der Nutzung bundeseigener Grundstücke durch Dritte im Rahmen der Aufgabenerfüllung und der strategischen Ziele der ETH und der Forschungsanstalten (Art. 33 b ) erzielen, müssen nicht dem Bund abgeliefert werden. 2 Aus den Nutzungsüberlassungen nach den Artikeln 33 c und 33 d sind von den Nettoerträgen 90 Prozent der allgemeinen Bundeskasse abzuliefern."
+    },
+    {
+      "provision_ref": "art33f",
+      "section": "33f",
+      "title": "f Überprüfung der Zuteilungen und Nutzungen, Berichterstattung, Budgetierung der Erträge",
+      "content": "1 Der ETH-Rat überprüft und dokumentiert die Zuteilung und Nutzung der bundeseigenen Grundstücke periodisch, mindestens jedoch alle vier Jahre, und erstattet dem Bund darüber Bericht. 2 Er budgetiert und begründet im Rahmen des Voranschlags die erwarteten Erträge aus Nutzungsüberlassungen nach den Artikeln 33 c und 33 d ."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "5. Kapitel: Übrige Bestimmungen",
+      "section": "34",
+      "title": "Weisungen",
+      "content": "1 Der ETH-Rat fasst die Weisungen, die er nach dieser Verordnung zu erlassen hat, in einem einheitlichen Dokument zusammen. 2 Er kann auch zu weiteren Aspekten der Umsetzung dieser Verordnung Weisungen erlassen. 3 Die ETH und die Forschungsanstalten können für ihre Institution ergänzende Weisungen für die Umsetzung dieser Verordnung erlassen."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "5. Kapitel: Übrige Bestimmungen",
+      "section": "35",
+      "title": "Dienstleistungen zwischen den ETH oder den Forschungsanstalten und Dienststellen des Bundes",
+      "content": "Leistungen von Dienststellen des Bundes zugunsten des ETH-Bereichs sowie Leistungen der ETH oder der Forschungsanstalten zugunsten der übrigen Bundesverwaltung werden gegenseitig in Rechnung gestellt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "5. Kapitel: Übrige Bestimmungen",
+      "section": "36",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. II der V vom 5. April 2017, mit Wirkung seit 1. Mai 2017 ( AS 2017 2555 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "5. Kapitel: Übrige Bestimmungen",
+      "section": "37",
+      "title": "Sicherstellungen",
+      "content": "1 Sicherstellungen zugunsten der ETH und der Forschungsanstalten müssen der Höhe des Risikos entsprechen. 2 Die Stelle, in deren Aufgabenbereich das Geschäft fällt, verlangt die Sicherstellung. 3 Sicherstellungen sind zu leisten durch: a. Barhinterlagen; b. Solidarbürgschaften; c. Bankgarantien; d. Schuldbriefe und Grundpfandverschreibungen; e. Lebensversicherungspolicen mit Rückkaufswert; f. kotierte Frankenobligationen von inländischen Schuldnern sowie Kassenobligationen von schweizerischen Banken."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "38",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung des ETH-Rates vom 5. Februar 2004 über das Rechnungswesen des ETH-Bereichs wird aufgehoben. [ AS 2004 3309 ]"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "39",
+      "title": "Änderung anderer Erlasse",
+      "content": "… Die Änderungen können unter AS 2014 4579 konsultiert werden."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "40",
+      "title": "Übergangsbestimmung",
+      "content": "Der ETH-Rat kann für die Rechnungslegung der ersten beiden Rechnungsjahre nach Inkrafttreten dieser Verordnung Abweichungen von den IPSAS festlegen."
+    },
+    {
+      "provision_ref": "art40a",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "40a",
+      "title": "a Übergangsbestimmung zur Änderung vom 5. April 2017",
+      "content": "Für das Jahr 2017 sind keine Erträge gemäss Artikel 2 b Absatz 1 abzuliefern. Eingefügt durch Ziff. II der V vom 5. April 2017, in Kraft seit 1. Mai 2017 ( AS 2017 2555 )."
+    },
+    {
+      "provision_ref": "art40b",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "40b",
+      "title": "b Übergangsbestimmung zur Änderung vom 4. November 2020",
+      "content": "1 Baurechtsverträge, die zum Zeitpunkt des Inkrafttretens der Änderung vom 4. November 2020 bestehen, können weiterbestehen und müssen nicht an die Regelung nach den Artikeln 33 b –33 d angepasst werden. 2 Wird ein bestehender Baurechtsvertrag mit einer Vertragsdauer von höchstens 30 Jahren während des Weiterbestehens geändert, so gilt ab dem Zeitpunkt der Änderung die Regelung nach den Artikeln 33 b –33 d . Nach Ablauf der Verträge gilt in jedem Fall die Regelung nach den Artikeln 33 b –33 d . 3 Bestehende Baurechtsverträge mit einer Vertragsdauer von über 30 Jahren können, sofern es für den Bund vorteilhaft ist, mit Genehmigung des BBL während des Weiterbestehens geändert werden. Nach Ablauf der Verträge sind die Grundstücke entweder für die Eigennutzung oder nach Artikel 33 b zu nutzen oder nach Artikel 33 d zu verkaufen. Eingefügt durch Ziff. I der V vom 4. Nov. 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 4987 )."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "41",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2015 in Kraft."
+    }
+  ],
+  "definitions": []
+}

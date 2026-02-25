@@ -1,0 +1,78 @@
+{
+  "id": "sr-783-11",
+  "type": "statute",
+  "title": "Postorganisationsverordnung vom 24. Oktober 2012 (VPOG)",
+  "title_en": "",
+  "short_name": "VPOG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/721/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Post: Schweizerische Post nach Artikel 1 POG; b. PostFinance: PostFinance AG nach Artikel 14 Absatz 1 POG; c. Postkonzerngesellschaft: die PostFinance und die von der Post direkt oder indirekt kontrollierten Unternehmen, insbesondere Kapitalgesellschaften."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Erfüllung der Verpflichtung zur Grundversorgung: Mehrheitserfordernisse",
+      "content": "1 Die Post muss über die kapital- und stimmenmässige Mehrheit an denjenigen Postkonzerngesellschaften verfügen, denen sie die Erfüllung der Verpflichtung zur Grundversorgung mit Postdiensten überträgt. 2 Sie kann die Erfüllung der Verpflichtung zur Grundversorgung mit Postdiensten nur Gesellschaften übertragen, die sie direkt kontrolliert. 3 Im Verwaltungsrat derjenigen Postkonzerngesellschaften, denen die Erfüllung der Verpflichtung zur Grundversorgung mit Postdiensten und Dienstleistungen des Zahlungsverkehrs übertragen wurde, müssen Vertreterinnen und Vertreter der Post über die Mehrheit verfügen. Der Verwaltungsrat dieser Postkonzerngesellschaften muss sich aus einer ungeraden Zahl von Mitgliedern zusammensetzen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Erfüllung der Verpflichtung zur Grundversorgung: Steuerung und Kontrolle",
+      "content": "1 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation sorgt im Einvernehmen mit der Eidgenössische Finanzverwaltung dafür, dass die Statuten der Post Regelungen zur Steuerung und Kontrolle der Erfüllung der Verpflichtung zur Grundversorgung enthalten. 2 Die Post stellt die Steuerung und Kontrolle der auf die Postkonzerngesellschaften übertragenen Erfüllung der Verpflichtung zur Grundversorgung sicher durch: a. Regelungen in den Statuten der betreffenden Postkonzerngesellschaften; b. Mandatsverträge mit ihren bestellten Vertreterinnen und Vertretern im Verwaltungsrat der betreffenden Postkonzerngesellschaften; c. schriftliche Verträge unter den betreffenden Postkonzerngesellschaften. 3 Der Verwaltungsrat der Post muss die Statuten nach Absatz 2 Buchstabe a sowie deren Änderungen dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation und der Eidgenössischen Finanzverwaltung vorgängig zur Stellungnahme vorlegen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Einheitliche Führung der Post und Postkonzerngesellschaften",
+      "content": "Der Verwaltungsrat der Post ist verantwortlich für eine einheitliche Führung der Post und der Postkonzerngesellschaften."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Kaderlöhne",
+      "content": "In der Post und in den Postkonzerngesellschaften gelten für die Mitglieder der leitenden Organe, für die Angehörigen des geschäftsleitenden Kaders sowie für das Personal, das in vergleichbarer Höhe entlöhnt wird, Artikel 6 a Absätze 1–5 des Bundespersonalgesetzes vom 24. März 2000 und die Bestimmungen der Kaderlohnverordnung vom 19. Dezember 2003 sinngemäss. SR 172.220.1 SR 172.220.12"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Die Post und die PostFinance treten auf den Zeitpunkt ihrer Umwandlung beziehungsweise Ausgliederung integral in die Steuerpflicht ein. Die Aufwertung der Aktiven und Passiven um die stillen Reserven erfolgt im Rahmen der Umwandlung steuerneutral. Aufwertungsgewinne werden nicht nach der bisherigen Zuordnung auf die Universal- und Wettbewerbsdienste aufgeteilt. 2 Im Hinblick auf die Erstellung der Eröffnungsbilanz der Post und der Ausgliederung der PostFinance gilt Folgendes: a. Die Rentenbezügerinnen und Rentenbezüger, die bei der Pensionskasse Post eine Alters-, Invaliden- oder Hinterlassenenrente beziehen, sind der Post und den Postkonzerngesellschaften zuzuordnen. b. Die PostFinance hat die Vorsorgeverpflichtungen für ihr Personal und die ihr zugeordneten Rentenbezügerinnen und Rentenbezüger nach dem Rechnungslegungsstandard «Swiss GAAP FER 16» zu bilanzieren."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Dezember 2012 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Post:",
+      "definition": "Post: Schweizerische Post nach Artikel 1 POG;",
+      "source_provision": "art1"
+    },
+    {
+      "term": "PostFinance:",
+      "definition": "PostFinance: PostFinance AG nach Artikel 14 Absatz 1 POG;",
+      "source_provision": "art1"
+    },
+    {
+      "term": "Postkonzerngesellschaft:",
+      "definition": "Postkonzerngesellschaft: die PostFinance und die von der Post direkt oder indirekt kontrollierten Unternehmen, insbesondere Kapitalgesellschaften.",
+      "source_provision": "art1"
+    }
+  ]
+}

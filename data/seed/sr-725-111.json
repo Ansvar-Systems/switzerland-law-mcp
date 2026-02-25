@@ -1,0 +1,432 @@
+{
+  "id": "sr-725-111",
+  "type": "statute",
+  "title": "Nationalstrassenverordnung vom 7. November 2007 (NSV)",
+  "title_en": "",
+  "short_name": "NSV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/796/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt Bau, Ausbau, Unterhalt und Betrieb der Nationalstrassen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Bestandteile der Nationalstrassen",
+      "content": "Bestandteil der Nationalstrasse bilden je nach ihrer Ausbauform und den von der technischen Funktion her bedingten Erfordernissen: a. der Strassenkörper; b. die Kunstbauten, einschliesslich Über- und Unterführungsbauwerken, die beim Bau erforderlich werden, nicht jedoch Leitungen und ähnliche Anlagen Dritter; c. die Anschlüsse samt Verbindungsstrecken bis zur nächsten leistungsfähigen Kantons‑, Regional- oder Lokalstrasse, soweit diese hauptsächlich dem Verkehr zur Nationalstrasse dienen, einschliesslich Verzweigungen oder Kreiseln; d. Nebenanlagen mit Zu- und Wegfahrten und allfällige Erschliessungswege; e. Rastplätze mit ihren Zu- und Wegfahrten sowie den dazugehörigen Bauten und Anlagen; f. Einrichtungen für den Unterhalt und den Betrieb der Strassen wie Stützpunkte, Werkhöfe, Schadenwehren, Materialdepots, Fernmeldeanlagen, Vorrichtungen für Gewichts- und andere Verkehrskontrollen sowie Einrichtungen für die Verkehrsüberwachung, Strassenzustands- und Wettererfassung, einschliesslich der erforderlichen Datenbanken; g. Bauten und Anlagen zur Entwässerung, Beleuchtung und Lüftung sowie Sicherheitseinrichtungen und Werkleitungen; h. Verkehrseinrichtungen wie Signale, Signalanlagen, Markierungen, Einfriedungen und Blendschutz; i. Einrichtungen für die Führung, Erfassung und Beeinflussung des Verkehrs und für das Verkehrsmanagement, wie Verkehrsmanagementzentralen, Warteräume, Abstellplätze, Verkehrsleitsysteme und Verkehrserfassungssysteme, einschliesslich der erforderlichen Datenbanken; j. Bepflanzungen sowie Böschungen, deren Pflege den Anstössern nicht zumutbar ist; k. Lawinen‑, Steinschlag‑ und Hangverbauungen, Einrichtungen und Bauten für den Hochwasserschutz, Einrichtungen gegen Schneeverwehungen, soweit sie überwiegend der Nationalstrasse dienen; l. Bauten und Anlagen zum Schutz der Umwelt; m. Zentren für die Schwerverkehrskontrollen, einschliesslich Zu- und Wegfahrten sowie der zur Kontrolle notwendigen Bauten und technischen Einrichtungen wie Waagen oder Labors; n. Abstellspuren und -flächen im Bereich der Nationalstrassen, einschliesslich Zu- und Wegfahrten; o. Grenzzollanlagen, mit Ausnahme der Infrastrukturen, die der Zollabfertigung dienen. Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6791 ). Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ( AS 2010 4281 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Eintrag ins Grundbuch",
+      "content": "Die Nationalstrassengrundstücke sind im Grundbuch als solche anzumerken."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3a",
+      "title": "a Bericht zum strategischen Entwicklungsprogramm",
+      "content": "Der Bericht nach Artikel 11 a Absatz 2 NSG enthält insbesondere: a. das Gesamtkonzept der geplanten langfristigen Weiterentwicklung des Nationalstrassennetzes, einschliesslich einer grafischen Darstellung; b. Angaben zu den verkehrlichen Rahmenbedingungen, insbesondere Bevölkerungsszenarien, Verkehrsprognosen und Bewertungskriterien; c. Angaben zur Entwicklung des Verkehrs und der Engpässe im Nationalstrassennetz sowie zum Stand der Umsetzung der bereits beschlossenen Ausbau- massnahmen und der grösseren Vorhaben im Nationalstrassennetz; d. eine Liste der Ausbaumassnahmen und der grösseren Vorhaben im Nationalstrassennetz, mit Angaben zu Kosten und Nutzen. Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6791 )."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Jährliches Bauprogramm",
+      "content": "Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) bestimmt das jährliche Bauprogramm."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I 4 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, mit Wirkung seit 1. Jan. 2021 ( AS 2020 3995 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Nebenanlagen",
+      "content": "1 Nebenanlagen sind Versorgungs‑, Verpflegungs- und Beherbergungsbetriebe (Raststätten) und Tankstellen sowie die dazugehörigen Parkplätze. Die Parkplätze müssen in einer der Kapazität der Anlage genügenden Anzahl für alle Motorfahrzeugkategorien vorhanden sein. Tankstellen sowie Versorgungs‑, Verpflegungs- und Beherbergungsbetriebe können je allein errichtet oder örtlich miteinander verbunden werden. Für Motorfahrzeuge darf eine rückwärtige Erschliessung nur für Lieferungen und Fahrten des Personals der Betreiber der Nebenanlage offen stehen. 2 Die Versorgungs-, Verpflegungs- und Beherbergungsbetriebe haben in Ausgestaltung und Angebot den Bedürfnissen der Strassenbenützer und -benützerinnen zu entsprechen. 3 Die Nebenanlagen haben eine öffentliche, behindertengerechte Toilette aufzuweisen. Tankstellen und Toiletten sind täglich während 24 Stunden offen zu halten. Die Tankstellen sind mit genügend Einfüllgeräten zu versehen, an denen die gebräuchlichen Treibstoffe getankt werden können. Es sind die gebräuchlichsten Ölarten zur Verfügung zu halten. 4 Das UVEK bestimmt nach Anhören der Kantone die Standorte, die Art und den Zeitpunkt der Ausführung der Nebenanlagen auf dem Nationalstrassennetz. 5 Verträge zwischen dem Kanton und dem Betreiber der Nebenanlage sind dem Bundesamt für Strassen (ASTRA) zur Genehmigung zu unterbreiten. Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 2137 ). Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 2137 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Rastplätze",
+      "content": "1 Wer auf Rastplätzen Anlagen zur Abgabe von alternativen Antriebsmitteln, wie Schnellladestationen, oder Versorgungs- und Verpflegungseinrichtungen, wie Kioske, Verkaufswagen oder Verkaufsstände, betreiben will, braucht eine Bewilligung des ASTRA. Die Bewilligungen werden erteilt: a. für höchstens 30 Jahre für Anlagen zur Abgabe von alternativen Antriebsmitteln; b. für höchstens 5 Jahre für Versorgungs- und Verpflegungseinrichtungen. 2 Die Nutzung der Nationalstrasseninfrastruktur für den Betrieb von Anlagen zur Abgabe von alternativen Antriebsmitteln und von Versorgungs- und Verpflegungseinrichtungen ist zu entgelten. Bei der Festlegung der Höhe des Entgelts sind insbesondere allfällige Vorfinanzierungen des Bundes für das Bereitstellen von Zuleitungen bis zu den Bezugspunkten auf den Rastplätzen zu berücksichtigen. 3 Vor Erteilung oder Erneuerung einer Bewilligung für eine Versorgungs- und Verpflegungseinrichtung sind der Standortkanton und der Nachbarkanton anzuhören, sofern sich auf dessen Gebiet eine Raststätte zehn Kilometer vor oder nach dem betreffenden Rastplatz befindet. 4 Die Versorgungs- und Verpflegungseinrichtungen haben in Ausgestaltung und Angebot den Bedürfnissen der Strassenbenützer und -benützerinnen zu entsprechen. Alkohol darf nicht ausgeschenkt oder verkauft werden. 5 Die Versorgungs- und Verpflegungseinrichtungen dürfen nicht fest mit dem Boden verbunden sein. 6 An der durchgehenden Fahrbahn darf keine Signalisation angebracht werden, die auf die Versorgungs- und Verpflegungseinrichtungen hinweist. 7 Das ASTRA schafft die für den Bau und den Betrieb von Anlagen zur Abgabe von alternativen Antriebsmitteln notwendigen technischen Voraussetzungen. Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6791 )."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "a Interessen des Natur- und Heimatschutzes",
+      "content": "1 Der Bund klärt im Rahmen der Planung und Projektierung ab, ob Massnahmen zum Schutz von Interessen nach Artikel 3 Absatz 1 des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz notwendig sind. Bei Massnahmen im Zuständigkeitsbereich der Kantone beteiligt er sich an den Kosten der Arbeiten zu deren Umsetzung. 2 Die Massnahmen und die Kostenbeteiligung werden im Rahmen des Ausführungsprojekts bestimmt. 3 Die Ausführung der Massnahmen und die definitive Kostenbeteiligung des Bundes werden in einer Leistungsvereinbarung zwischen dem zuständigen Kanton und dem ASTRA geregelt. 4 Werden in der Bauphase unvorhergesehene Massnahmen notwendig, namentlich aufgrund archäologischer Zufallsfunde, so schliessen der zuständige Kanton und das ASTRA eine Leistungsvereinbarung ab. Diese regelt insbesondere die Massnahmen sowie die Kostenbeteiligung des Bundes. 5 Kommt in den Fällen nach den Absätzen 3 und 4 keine Leistungsvereinbarung zustande, so entscheidet das UVEK über die Kostenbeteiligung des Bundes. 6 Das ASTRA koordiniert nach Anhörung der kantonalen Stellen die Arbeiten auf dem Gebiet, das für den Nationalstrassenbau dauernd oder vorübergehend benötigt wird . Eingefügt durch Ziff. I der V vom 22. Aug. 2012, in Kraft seit 1. Okt. 2012 ( AS 2012 4603 ). SR 451"
+    },
+    {
+      "provision_ref": "art7b",
+      "section": "7b",
+      "title": "b Übergang des Eigentums",
+      "content": "1 Sind die Arbeiten nach Artikel 8 a Absatz 4 NSG abgeschlossen, so übernimmt der Bund die Gesamtrechtsnachfolge und tritt in die Vertragsverhältnisse ein, die der Kanton eingegangen ist. Er ist namentlich zur Geltendmachung von Ansprüchen aus Werkverträgen und aus Auftragsverhältnissen mit Unternehmen, Ingenieuren und Ingenieurinnen sowie Architekten und Architektinnen berechtigt. 2 Sind Landerwerbsgeschäfte bei bestehenden Strassen im Zeitpunkt der Aufnahme ins Nationalstrassennetz noch nicht abgeschlossen, so geht das Eigentum erst nach erfolgter Bereinigung an den Bund über. Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Abschnitt: Planung und Projektierung",
+      "section": "8",
+      "title": "Umfang der Planung",
+      "content": "1 Die Planungsunterlagen müssen umfassen: a. den Situationsplan, in der Regel im Massstab 1:25 000; b. das Längenprofil im Massstab 1:25 000/2500; c. das Normalprofil; d. den technischen Bericht; e. die Kostenschätzung. 2 Bei der Planung sind die Auswirkungen auf Wirtschaft, Umwelt und Gesellschaft zu prüfen. Die vorgeschlagenen Massnahmen sind räumlich und verkehrsträgerübergreifend abzustimmen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "1. Abschnitt: Planung und Projektierung",
+      "section": "9",
+      "title": "Projektierungszonen",
+      "content": "1 Die Projektierungszonen sind entsprechend dem Stand der Projektierung festzulegen. Insbesondere bei den Anschlussstellen ist der weiteren Projektierung genügend Spielraum zu lassen. 2 Steht die allgemeine Linienführung einer Nationalstrasse noch nicht fest oder werden für eine Linienführung Varianten geprüft, so sind die Projektierungszonen entsprechend weiter oder für jede Variante einzeln zu ziehen. 3 Innerhalb der Projektierungszonen dürfen ohne Bewilligung keine baulichen Massnahmen getroffen, keine Kiesgruben und Materialdeponien angelegt und keine anderen wesentlichen Geländeveränderungen vorgenommen werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "1. Abschnitt: Planung und Projektierung",
+      "section": "10",
+      "title": "Generelles Projekt",
+      "content": "1 Das generelle Projekt muss die Linienführung, einschliesslich der ober- und unterirdischen Strassenführung, die Anschlussstellen mit den Zu- und Wegfahrten, die Kreuzungsbauwerke und die Anzahl Fahrspuren enthalten. 2 Es ist so auszuarbeiten und im Bereinigungsverfahren derart festzulegen, dass keine wesentlichen Verschiebungen und Änderungen mehr zu erwarten sind. Es muss mit dem kantonalen Richtplan abgestimmt sein."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Abschnitt: Planung und Projektierung",
+      "section": "11",
+      "title": "Bereinigung und Genehmigung des generellen Projekts",
+      "content": "1 Die Projektunterlagen des generellen Projekts müssen enthalten: a. Situationsplan im Massstab 1:5000; b. Längsschnitt im Massstab 1:5000 für die Längen und 1:500 für die Höhen; c. technischer Bericht einschliesslich flankierender Massnahmen; d. Kosten-Nutzen-Analysen; e. Angaben über die Kosten; f. Umweltverträglichkeitsbericht 2. Stufe; g. Vorschläge des Kantons und Stellungnahmen der Gemeinden; h. Mitbericht folgender Stelle: 1. der kantonalen Umweltschutz- und Raumplanungsfachstelle, 2. der kantonalen Stelle für Natur- und Heimatschutz, 3. der kantonalen Stelle für Archäologie, und 4. der kantonalen Stelle für Langsamverkehr. 2 Das UVEK unterbreitet das generelle Projekt innert neun Monaten nach Bereinigung der erhaltenen Unterlagen mit den betroffenen Kantonen dem Bundesrat zum Entscheid. 3 Der Bundesrat entscheidet über strittige Fragen im Rahmen der Genehmigung. 4 Wird bei der Erarbeitung des Ausführungsprojekts festgestellt, dass dessen Kosten jene des generellen Projekts um mehr als 10 Prozent ohne Berücksichtigung der Teuerung überschreiten, so sind die Kostensteigerungen dem Bundesrat zum Entscheid vorzulegen. Bei Projekten unter 100 Millionen Franken sind Kostensteigerungen von über 10 Millionen Franken (ohne Teuerung) vom Bundesrat zu genehmigen. Fassung gemäss Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Ausführungsprojekt",
+      "content": "1 Das Ausführungsprojekt ist dem UVEK unter Beilage folgender Unterlagen zur Genehmigung einzureichen: a. Übersichtsplan; b. Situationspläne mit Angabe der Baulinien im Massstab 1:1000; c. Längsschnitt im Massstab 1:1000 für die Längen und 1:100 für die Höhen; d. Normalprofil im Massstab 1:50; e. Querprofile im Massstab 1:100; f. Hauptabmessungen der Kunstbauten; g. technischer Bericht einschliesslich flankierender Massnahmen; g bis . kurzer Bericht zum Langsamverkehr, soweit dieser betroffen ist; h. Entwässerungskonzept; i. Umweltverträglichkeitsbericht 3. Stufe; j. Angaben über die Kosten; k. Enteignungsplan; l. Grunderwerbstabelle; m. Unterlagen für weitere Bewilligungen, für die der Bund zuständig ist; n. allfälliges Schutz- und Grabungskonzept für archäologische und paläontologische Fundstellen. 2 Das UVEK prüft die Unterlagen innert zehn Tagen auf Vollständigkeit und übermittelt sie anschliessend dem Kanton zur Stellungnahme und zur öffentlichen Auflage. 3 Das UVEK genehmigt das Ausführungsprojekt innert sechs Monaten nach Abschluss des Instruktionsverfahrens. Es teilt den Parteien den Abschluss des Instruktionsverfahrens mit. Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 ). Eingefügt durch Ziff. I der V vom 22. Aug. 2012, in Kraft seit 1. Okt. 2012 ( AS 2012 4603 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Baulinienabstände",
+      "content": "1 Die Abstände der Baulinien von der Strassenachse betragen bei: a. Nationalstrassen erster Klasse 25 m b. Nationalstrassen zweiter Klasse, deren späterer Ausbau – zu Nationalstrassen erster Klasse vorgesehen ist 25 m – zu Nationalstrassen erster Klasse nicht vorgesehen ist, je nach Strassenquerschnitt 20–25 m c. Nationalstrassen dritter Klasse, je nach Strassenquerschnitt 10–25 m d. Nationalstrassen im Gebiet von Städten 20–25 m 2 Bei Anschlüssen und Verzweigungen sind die Baulinien so zu ziehen, dass deren Abstände vom Strassenkörper den Abständen nach Absatz 1 entsprechen. 3 Wo es die Verhältnisse erfordern, können abweichende Baulinienabstände festgesetzt oder die Baulinien vertikal begrenzt werden. 4 Werden bestehende Strecken neu ins Nationalstrassennetz aufgenommenen, so gelten bis zur rechtsgültigen Festlegung der Nationalstrassenbaulinien die nach kantonalem Recht festgelegten Baulinien und Strassenabstände. Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6791 ). Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6791 )."
+    },
+    {
+      "provision_ref": "art13a",
+      "section": "13a",
+      "title": "a Aufnahme der Baulinien in das Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen",
+      "content": "Die Aufnahme der Baulinien in das Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen gemäss Artikel 16 des Geoinformationsgesetzes vom 5. Oktober 2007 gilt als Veröffentlichung im Sinne von Artikel 29 NSG. Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 ). SR 510.62"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Aussteckung",
+      "content": "Für die Aussteckung nach Artikel 27 a NSG gelten folgende Vorschriften: a. Die Umrisslinien von zu erwerbendem Grundeigentum sowie alle dazu gehörenden Flächen, die für ökologische Ersatzmassnahmen beansprucht werden, sind kenntlich zu machen. b. Die Strassenanlagen und die äusseren Kanten von zur Anlage gehörenden Hochbauten sind durch Profile zu kennzeichnen. c. Muss gerodet werden, so sind die zu rodende Fläche oder die Bäume, die entfernt werden müssen, zu bezeichnen."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Vorgehen bei wesentlichen Änderungen",
+      "content": "Ergeben sich während des Plangenehmigungsverfahrens wesentliche Änderungen gegenüber dem ursprünglichen Projekt, so ist das geänderte Projekt den Betroffenen erneut zur Stellungnahme zu unterbreiten und gegebenenfalls öffentlich aufzulegen."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Umweltverträglichkeitsprüfung und ökologische Bauabnahme",
+      "content": "1 Bei der Planung und Projektierung der Nationalstrassen ist die Umweltverträglichkeit nach Ziffer 11.1 des Anhangs der Verordnung vom 19. Oktober 1988 über die Umweltverträglichkeitsprüfung mehrstufig zu prüfen. 2 In jeder Projektphase sind die technischen Grundlagen und die ökologischen Auswirkungen soweit abzuklären, als sie für den Entscheid über das Projekt stufengerecht notwendig sind. 3 Das UVEK kann die Genehmigung des Ausführungsprojekts mit der Auflage verbinden, dass spätestens drei Jahre nach Inbetriebnahme festgestellt wird, ob die verfügten Massnahmen zum Schutz der Umwelt sachgerecht umgesetzt und die beabsichtigten Wirkungen erzielt worden sind. SR 814.011"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Kosten",
+      "content": "1 Das ASTRA bestimmt für jede Projektphase, wie die Kosten zu ermitteln sind. 2 Beim generellen Projekt und beim Ausführungsprojekt sind Kosten und Nutzen zu bewerten sowie die Bau-, Unterhalts- und Betriebskosten gesondert auszuweisen. Das gilt ebenfalls für Massnahmen, die sich auf materielles Recht ausserhalb der Strassenbaunormen stützen. 3 In jeder Projektphase sind die von Dritten gestellten Forderungen nach Projektveränderungen auszuweisen und technisch und ökologisch sowie hinsichtlich Kosten und Nutzen zu bewerten. 4 Nach allfälligen Änderungen aufgrund von Einsprache- und Rechtsmittelentscheiden sind die Angaben über die Kosten des Ausführungsprojekts anzupassen."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Begutachtung von Detailprojekten",
+      "content": "Zur Begutachtung von Detailprojekten können Prüfingenieure und Prüfingenieurinnen beigezogen werden. Diese Begutachtung stellt keine Werkabnahme dar und entbindet den projektierenden Ingenieur oder die projektierende Ingenieurin nicht von seiner oder ihrer Haftung."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Meldung an die Aufsicht über die amtliche Vermessung",
+      "content": "Die zuständigen Behörden orientieren die für die Aufsicht über die amtliche Vermessung zuständige kantonale Stelle innert 30 Tagen über Veränderungen, die eine Nachführung der amtlichen Vermessung notwendig machen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Abschnitt: Landerwerb",
+      "section": "20",
+      "title": "Freihändiger Landerwerb",
+      "content": "Der freihändige Landerwerb ist zulässig, wenn das Grundstück höchstens zum Verkehrswert erworben werden kann. Bei der Ermittlung des Verkehrswertes sind die Landpreise der betreffenden Gegend sowie die Lage und die Nutzungsmöglichkeit des Grundstückes angemessen zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Abschnitt: Landerwerb",
+      "section": "21",
+      "title": "Landerwerb im Umlegungsverfahren",
+      "content": "Bei der Ausarbeitung und Einreichung von strassenbedingten Güter- und Waldzusammenlegungsprojekten sind insbesondere die bundesrechtlichen Bestimmungen über die Unterstützung von Bodenverbesserungen und landwirtschaftlichen Hochbauten, über die Raumplanung und über den Schutz der Umwelt zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Abschnitt: Landerwerb",
+      "section": "22",
+      "title": "Einreichung und Überprüfung der Landumlegungsprojekte",
+      "content": "Die Vorprojekte für Landumlegungen sind dem ASTRA einzureichen. Dieses stellt fest, ob die Interessen des Strassenbaus gewahrt sind. Bei Güterzusammenlegungen lässt es die Einhaltung der Beitragsvorschriften durch das Bundesamt für Landwirtschaft und durch das Bundesamt für Umwelt überprüfen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Abschnitt: Landerwerb",
+      "section": "23",
+      "title": "Schätzung von Verkehrswerten und Entschädigungen",
+      "content": "Die Kantone können in ihren Ausführungsbestimmungen für die Schätzung des Verkehrswertes von Land, das im Landumlegungsverfahren dem Strassenbau abzutreten ist, oder die Schätzung von Inkonvenienzen, die sich nicht bei der Neuzuteilung abgelten lassen, die Anwendung des EntG vorschreiben. SR 711"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "2. Abschnitt: Landerwerb",
+      "section": "24",
+      "title": "Ausnahmen vom Zweckentfremdungsverbot und von der Rückerstattungspflicht",
+      "content": "Für Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot und von der Rückerstattungspflicht gelten die Artikel 36 Buchstabe d und 37 Absatz 3 der Strukturverbesserungsverordnung vom 7. Dezember 1998. SR 913.1"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "2. Abschnitt: Landerwerb",
+      "section": "25",
+      "title": "Ausnahmen vom Landumlegungsverfahren",
+      "content": "Vermag das Landumlegungsverfahren berechtigten Ersatzansprüchen eines Grundeigentümers oder einer Grundeigentümerin für ein bestimmtes Grundstück offensichtlich nicht zu genügen, so ist auf Gesuch des Eigentümers oder der Eigentümerin oder von Amtes wegen das Enteignungsverfahren einzuleiten."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "2. Abschnitt: Landerwerb",
+      "section": "26",
+      "title": "",
+      "content": "1 und 2 ... 3 Müssen nach der Planauflage für den Strassenbau, für Installationen, Deponien oder Anpassungsarbeiten dauernd oder vorübergehend weitere Grundstücke oder Grundstückteile beansprucht werden, so wird eine ergänzende Planauflage nur durchgeführt, wenn die Ausdehnung Rechte Dritter beansprucht und eine gütliche Einigung mit den Berechtigten nicht zustande kommt. Fassung gemäss Ziff. I 4 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ( AS 2020 3995 ). Aufgehoben durch Ziff. I 4 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, mit Wirkung seit 1. Jan. 2021 ( AS 2020 3995 ). Fassung gemäss Ziff. I 4 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ( AS 2020 3995 )."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Gebühren",
+      "content": "1 Für die durch Landumlegungen im Nationalstrassenperimeter bedingte Feststellung und Bereinigung der dinglichen Rechte dürfen Gebühren nach den entsprechenden Ansätzen der kantonalen Tarife in Grundbuchsachen erhoben werden. Dagegen dürfen für die Eintragungen in das Grundbuch keine Gebühren erhoben werden (Art. 954 Zivilgesetzbuch), es sei denn, die Eintragungen sind einzig durch den Strassenbau bedingt oder betreffen nicht landwirtschaftliche Betriebe. 2 Die Gebühren für die grundbuchliche Behandlung von Enteignungen, die im Zusammenhang mit dem Nationalstrassenbau notwendig sind, werden nach den bundesrechtlichen Bestimmungen über die Gebühren und Entschädigungen im Enteignungsverfahren erhoben. SR 210"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "3. Abschnitt: Ausbau und Nutzung",
+      "section": "28",
+      "title": "Ausbau von Nationalstrassen",
+      "content": "Für den Ausbau von Nationalstrassen gelten die Bestimmungen über die Ausarbeitung und die Genehmigung der generellen Projekte und der Ausführungsprojekte sowie die Bestimmungen über den Bau der Nationalstrassen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "3. Abschnitt: Ausbau und Nutzung",
+      "section": "29",
+      "title": "Nutzungen des Areals im Eigentum der Nationalstrasse durch Dritte",
+      "content": "1 Nutzungen des Areals im Eigentum der Nationalstrasse durch Dritte bedürfen der Bewilligung des ASTRA. 2 Die Nutzungen sind zu entgelten. Das Entgelt hat in der Regel dem Marktpreis zu entsprechen. Nutzungen durch die Kantone für ihre eigenen Bedürfnisse sind unentgeltlich, soweit sie Gegenrecht halten. 3 Erhöhte Unterhalts- und Betriebskosten der Strassenanlage infolge Mehrfachnutzung sind durch den Dritten zu tragen. 4 Unabhängig von der Einleitung oder dem Ausgang eines Strafverfahrens kann das ASTRA auf Kosten des Widerhandelnden die nötigen Massnahmen zur Wiederherstellung des rechtmässigen Zustandes treffen. Fassung gemäss Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 ). Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "3. Abschnitt: Ausbau und Nutzung",
+      "section": "30",
+      "title": "Bauvorhaben Dritter im Bereich der Nationalstrassen",
+      "content": "1 Das ASTRA ist zuständig für die Bewilligung von Bauvorhaben innerhalb der Baulinien nach Artikel 44 NSG. 2 Bauvorhaben dürfen die Sicherheit des Strassenverkehrs, die Zweckbestimmung der Anlage und einen allfälligen künftigen Ausbau der Strasse nicht beeinträchtigen. Das gilt insbesondere für: a. die Erstellung, Änderung oder Verlegung von Kreuzungen von anderen Verkehrswegen, Gewässern, Seilbahnen, Leitungen und ähnlichen Anlagen mit Nationalstrassen; b. die Erstellung von Leitungen längs Nationalstrassen; oder c. Geländeveränderungen, wie die Anlage von Kiesgruben. 3 Das ASTRA bestimmt die Massnahmen, die zur Sicherheit des Verkehrs auf der Nationalstrasse sowie zur Vermeidung der Gefahr für Personen und Sachen notwendig sind. Die Kosten gehen zu Lasten des Bewilligungsinhabers oder der Bewilligungsinhaberin."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "31",
+      "title": "Grundsatz",
+      "content": "Soweit die Bestimmungen dieses Kapitels nichts anderes bestimmen, ist das 2. Kapitel anwendbar."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "32",
+      "title": "Fertigstellung",
+      "content": "In Anhang 1 sind die Strecken bezeichnet, die im Rahmen der Fertigstellung des beschlossenen Nationalstrassennetzes durch die Kantone erstellt werden."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "33",
+      "title": "Landerwerb bei der Fertigstellung des beschlossenen Nationalstrassennetzes",
+      "content": "Das UVEK regelt die Einzelheiten des Landerwerbs bei der Fertigstellung des beschlossenen Nationalstrassennetzes."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "34",
+      "title": "Projektierung und Bau im Gebiet von Städten",
+      "content": "Die Kantone können die Projektierung und den Bau von Nationalstrassen im Gebiet von Städten ganz oder teilweise den Stadtgemeinden übertragen. In diesem Fall haben die Stadtgemeinden die entsprechenden, dem Kanton durch das NSG und diese Verordnung übertragenen Aufgaben zu erfüllen; sie sind zu einer dauernden, engen Zusammenarbeit mit dem Kanton und, durch dessen Vermittlung, mit dem ASTRA und den übrigen interessierten Bundesstellen verpflichtet."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "2. Abschnitt: Planung und Projektierung",
+      "section": "35",
+      "title": "Generelles Projekt",
+      "content": "1 Das ASTRA kann die Kantone mit der Ausarbeitung der generellen Projekte beauftragen. In diesem Fall arbeiten die Kantone bis zum Abschluss der Projektierung eng mit dem ASTRA und den übrigen interessierten Bundesstellen zusammen. Das ASTRA umschreibt nötigenfalls Vorgaben zur Ausarbeitung des generellen Projekts und teilt diese dem Kanton als Weisung mit. 2 Zur Bereinigung und Genehmigung reicht der Kanton beim ASTRA die Unterlagen nach Artikel 11 ein."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "2. Abschnitt: Planung und Projektierung",
+      "section": "36",
+      "title": "Ausführungsprojekt",
+      "content": "1 Das ASTRA prüft das Ausführungsprojekt, bevor der Kanton dieses dem UVEK zur Plangenehmigung einreicht. Das ASTRA gibt dem Kanton innert drei Monaten bekannt, welche Projektbestandteile nicht vom Bund finanziert werden. 2 Können sich ASTRA und Kanton nicht einigen, so reicht dieser dem UVEK das Projekt zur Plangenehmigung so ein, wie es vom ASTRA als vom Bund finanzierbar beurteilt wurde."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "2. Abschnitt: Planung und Projektierung",
+      "section": "37",
+      "title": "Detailprojekt",
+      "content": "1 Das ASTRA bestimmt, für welche Bauwerksteile ihm die Detailprojekte zur Genehmigung einzureichen sind. 2 Das ASTRA entscheidet über die Detailprojekte innert zwei Monaten nach Übermittlung sämtlicher Unterlagen durch den Kanton."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "3. Abschnitt: Beschaffungswesen",
+      "section": "38",
+      "title": "Verfahren",
+      "content": "1 Folgende Aufträge für Arbeiten, Lieferungen und Dienstleistungen sind öffentlich auszuschreiben: a. Bauaufträge ab 2 Millionen Franken; b. Liefer- und Dienstleistungsaufträge ab 350 000 Franken. 2 Folgende Aufträge können auf Einladung vergeben werden, wobei wenn möglich mindestens drei Angebote eingeholt werden müssen: a. Bauaufträge ab 500 000 Franken; b. Liefer- und Dienstleistungsaufträge ab 230 000 Franken. 3 Die andern Aufträge können freihändig vergeben werden. 4 Das wirtschaftlich günstigste Angebot erhält den Zuschlag. 5 Das UVEK passt die Schwellenwerte im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung und dem Eidgenössischen Finanzdepartement den Vorgaben des Übereinkommens vom 15. April 1994 über das öffentliche Beschaffungswesen (GATT-Übereinkommen) an. Fassung gemäss Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ( AS 2010 4281 ). Fassung gemäss Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ( AS 2010 4281 ). Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2013 angepasst. SR 0.632.231.422 Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ( AS 2010 4281 )."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "3. Abschnitt: Beschaffungswesen",
+      "section": "39",
+      "title": "Anwendbares Recht",
+      "content": "Im Übrigen findet das kantonale Recht Anwendung."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "3. Abschnitt: Beschaffungswesen",
+      "section": "40",
+      "title": "Genehmigung des ASTRA",
+      "content": "1 Die Kantone haben folgende Aufträge vor dem Zuschlag dem ASTRA zur Genehmigung zu unterbreiten: a. Bauaufträge ab 2 Millionen Franken; b. Liefer- und Dienstleistungsaufträge ab 230 000 Franken. 2 Das ASTRA entscheidet über die Genehmigung innert einem Monat. 3 Die anderen Aufträge sind dem ASTRA vor Beginn der Bauarbeiten bzw. der Lieferung oder Dienstleistungserbringung zur Kenntnis zu bringen. 4 Das UVEK passt die Werte in Absatz 1 den Vorgaben des GATT-Übereinkommens an. Fassung gemäss Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ( AS 2010 4281 ). SR 0.632.231.422 Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ( AS 2010 4281 )."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "4. Abschnitt: Ausführung",
+      "section": "41",
+      "title": "Beginn und Fortschritt der Bauarbeiten",
+      "content": "1 Mit den Bauarbeiten darf erst begonnen werden, wenn die notwendigen Genehmigungen des ASTRA für das Projekt samt allfälligen Vereinbarungen mit Dritten sowie die Vergabe vorliegen. 2 Das ASTRA ist von den Kantonen über den Stand der Bauarbeiten periodisch zu informieren. Es kann Form und Inhalt des Berichts in Weisungen festlegen. 3 Die Kantone sind für den Abschluss des Projektes nach Übergabe der Strecke an den Verkehr zuständig."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "4. Abschnitt: Ausführung",
+      "section": "42",
+      "title": "Überschreitung des Kostenvoranschlags",
+      "content": "1 Werden vor oder während des Baus technisch bedeutsame Änderungen am Detailprojekt notwendig oder verursachen Änderungen Mehrkosten von über 500 000 Franken, so bedürfen diese der Zustimmung des ASTRA. Dasselbe gilt für voraussichtliche wesentliche Überschreitungen des Kostenvoranschlags. 2 Die Zustimmung des ASTRA ist rechtzeitig vor Beginn der Arbeiten einzuholen. 3 Werden Pläne geändert oder Kosten überschritten, so muss dies dem ASTRA vor Beginn der Arbeiten gemeldet werden."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "4. Abschnitt: Ausführung",
+      "section": "43",
+      "title": "Schlussabrechnung und ausführungsgetreue Pläne",
+      "content": "Die Kantone haben dem ASTRA für jedes erstellte Objekt eine Schlussabrechnung einzureichen. Sie sorgen innert zwei Jahren nach Inbetriebnahme für die Anfertigung der ausführungsgetreuen Dokumente (Pläne, elektronische Daten) aller Objekte und technischen Einrichtungen."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "4. Abschnitt: Ausführung",
+      "section": "44",
+      "title": "Dokumentation",
+      "content": "Für alle Objekte und technischen Einrichtungen müssen bei der Abnahme die für Betrieb, Überwachung und Unterhalt erforderlichen Dokumente vorliegen. Diese sind dem ASTRA zu übergeben."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "5. Abschnitt: Eigentumsübertragung",
+      "section": "45",
+      "title": "",
+      "content": "1 Das UVEK bezeichnet die Grundstücke und benennt die beschränkten dinglichen Rechte, die öffentlich-rechtlichen und obligatorischen Vereinbarungen sowie die Verfügungen, die auf den Bund übertragen werden. Das ASTRA kann diese Zuweisung innert 15 Jahren nach Inbetriebnahme der betreffenden Strecke durch Verfügung bereinigen. 2 Die Kantone bleiben für den Abschluss der noch nicht abgeschlossenen Grunderwerbsgeschäfte nach der Inbetriebnahme zuständig. 3 Die mit dem Bau verbundenen Schuldverhältnisse gehen mit dem Abschluss des Projekts auf den Bund als Gesamtrechtsnachfolger über. Das Projekt gilt als abgeschlossen, wenn die Bauabnahme ohne Feststellung wesentlicher Mängel stattgefunden hat. Der Bund ist namentlich zur Geltendmachung von Ansprüchen aus Werkverträgen und aus Auftragsverhältnissen mit Unternehmen, Ingenieuren und Ingenieurinnen sowie Architekten und Architektinnen berechtigt."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "4. Kapitel: Unterhalt der Nationalstrassen",
+      "section": "46",
+      "title": "",
+      "content": "1 Das ASTRA sorgt für einen technisch ausreichenden und kostengünstigen Unterhalt und überprüft periodisch den Zustand der Strassenanlage. 2 Es plant Unterhaltsmassnahmen langfristig. Die Massnahmen sind so zu koordinieren, dass die Leistungsfähigkeit der Nationalstrassen sichergestellt ist und die Anzahl der Baustellen auf einem Abschnitt möglichst gering gehalten werden kann."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "1. Abschnitt: Ausführung des betrieblichen und des projektfreien baulichen Unterhalts Unterhalts",
+      "section": "47",
+      "title": "Abgrenzung der Gebietseinheiten",
+      "content": "Die Gebietseinheiten für die Ausführung des betrieblichen und des projektfreien baulichen Unterhalts sind in Anhang 2 festgelegt."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "1. Abschnitt: Ausführung des betrieblichen und des projektfreien baulichen Unterhalts Unterhalts",
+      "section": "48",
+      "title": "Leistungsvereinbarungen",
+      "content": "1 Das ASTRA schliesst im Namen des Bundes die Leistungsvereinbarungen über die Ausführung des betrieblichen und des projektfreien baulichen Unterhalts mit den Betreibern ab und sorgt für deren Einhaltung. 2 Das ASTRA kann in der Leistungsvereinbarung von den Grenzen der Gebietseinheiten nach Anhang 2 aus betriebswirtschaftlichen und verkehrlichen Gründen geringfügig abweichen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "1. Abschnitt: Ausführung des betrieblichen und des projektfreien baulichen Unterhalts Unterhalts",
+      "section": "49",
+      "title": "Zuteilung der Gebietseinheiten",
+      "content": "1 Bewirbt sich nur ein Kanton oder eine Trägerschaft um eine Gebietseinheit, so kann das ASTRA ihn oder sie als Betreiber bestimmen. 2 Ist kein Kanton oder keine Trägerschaft bereit, den betrieblichen und den projektfreien baulichen Unterhalt für eine Gebietseinheit zu übernehmen, so findet das Beschaffungsrecht des Bundes Anwendung. Das ASTRA führt das Verfahren durch und erteilt den Zuschlag. 3 Soweit einzelne Gebietseinheiten oder Teile davon vom Bund selbst betrieben werden, ist das ASTRA für die Ausführung des betrieblichen und des projektfreien baulichen Unterhalts zuständig."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "2. Abschnitt: Tunnelsicherheit",
+      "section": "50",
+      "title": "",
+      "content": "Das UVEK erlässt zur Tunnelsicherheit Weisungen. Dabei hält es sich an die Richtlinie 2004/54/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Mindestanforderungen an die Sicherheit von Tunneln im transeuropäischen Strassennetz oder eine entsprechende Nachfolgeregelung. ABl. L 167 vom 30.4.2004, S. 39."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "3. Abschnitt: Verkehrsmanagement",
+      "section": "51",
+      "title": "Zuständigkeit des ASTRA",
+      "content": "1 Das ASTRA ist zuständig für das Verkehrsmanagement auf den Nationalstrassen. Es betreibt den Verkehrsdatenverbund und die Verkehrsmanagementzentrale und sorgt für die Verkehrsinformation für die Nationalstrassen. 2 Sofern die Sachlage es erfordert, koordiniert es seine Massnahmen mit den Nachbarstaaten. Es informiert diese über besondere Verkehrssituationen auf den Nationalstrassen. 3 Es kann diese Aufgaben ganz oder teilweise an Kantone, von diesen gebildete Trägerschaften oder Dritte übertragen. 4 Es erlässt Weisungen, welche Verkehrsdaten die Kantone zu melden haben. 5 Es kann Einrichtungen, die dem Verkehrsmanagement dienen (z.B. Informationstafeln), auch auf Nebenanlagen erstellen."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "3. Abschnitt: Verkehrsmanagement",
+      "section": "52",
+      "title": "Verkehrsmanagementpläne der Kantone",
+      "content": "1 Für Strassen mit häufig auftretenden Ereignissen, die bedeutende Auswirkungen auf die Nationalstrasse haben und Massnahmen des nationalen Verkehrsmanagements erfordern, haben die Kantone Verkehrsmanagementpläne zu erstellen. Diese Strassen sind in Anhang 3 bezeichnet. 2 Das ASTRA kann den Anhang bei geänderten Verhältnissen anpassen. 3 Die Kantone erstellen die Verkehrsmanagementpläne nach den Vorgaben des ASTRA und reichen sie diesem zur Genehmigung ein. 4 Die Kantone setzen die in den vom ASTRA genehmigten Verkehrsmanagementplänen vorgesehenen Massnahmen um. Fassung gemäss Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 ). Fassung gemäss Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 )."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "3. Abschnitt: Verkehrsmanagement",
+      "section": "53",
+      "title": "Anordnungen der Polizei an die Verkehrsmanagementzentrale",
+      "content": "Die Verkehrsmanagementzentrale hat Massnahmen der Polizei in Fällen nach Artikel 3 Absatz 6 SVG zur Verkehrsleitung oder Verkehrssteuerung auf Nationalstrassen umzusetzen."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "54",
+      "title": "Vollzug",
+      "content": "1 Soweit der Vollzug nicht dem UVEK übertragen ist, vollzieht das ASTRA diese Verordnung und erlässt Weisungen. 2 Im Bereich der Nationalstrassengrundstücke ist es insbesondere für folgende Massnahmen zuständig: a. Kauf und Verkauf sowie Begründung, Änderung, Ausübung und Aufhebung von Vorkaufs-, Kaufs- und Rückkaufsrechten; b. Begründung, Änderung und Aufhebung von Baurechten und anderen beschränkten dinglichen Rechten; c. Vermietung und Verpachtung. Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ( AS 2010 4281 )."
+    },
+    {
+      "provision_ref": "art54a",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "54a",
+      "title": "a Bildliche Erfassung der Nationalstrasseninfrastruktur",
+      "content": "1 Das ASTRA kann im Rahmen seiner Aufgabenerfüllung die Nationalstrasseninfrastruktur bildlich erfassen. Fallen dabei Personendaten an, so dürfen diese nicht personenbezogen ausgewertet werden. 2 Es kann das Bildmaterial den Gebietseinheiten auf Anfrage auch im Abrufverfahren zugänglich machen, wenn dies im Zusammenhang mit deren Aufgabenerfüllung notwendig ist. Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 2263 )."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "55",
+      "title": "Aufhebung und Änderung bisherigen Rechts",
+      "content": "Die Aufhebung und Änderung bisherigen Rechts wird in Anhang 4 geregelt."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "56",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Der Bund übernimmt als Gesamtrechtsnachfolger zusammen mit dem Eigentum sämtliche mit dem Bau, Ausbau und Unterhalt der Nationalstrassen verbundenen Schuldverhältnisse der Kantone und ist namentlich zur Geltendmachung von Ansprüchen aus Werkverträgen und aus Auftragsverhältnissen mit Unternehmen, Ingenieuren und Ingenieurinnen sowie Architekten und Architektinnen berechtigt. 2 Bei fertig gestellten Nationalstrassen mit laufenden Ausbau- und Unterhaltsvorhaben (Art. 62 a Abs. 7 NSG) bezeichnet das ASTRA die Arbeiten, welche die Kantone nach bisherigem Verfahren ausführen. In diesen Fällen übernimmt der Bund die mit den Ausbau- und Unterhaltsvorhaben zusammenhängenden Schuldverhältnisse erst nach Beendigung der Arbeiten. 3 Grundstücke und Bauwerke, wie Restflächen und Werkhöfe, die für den Betrieb, Unterhalt und künftigen Ausbau der Nationalstrassen nicht mehr benötigt werden und die der Kanton behalten will, werden nicht auf den Bund übertragen. 4 Grundstücke und Bauwerke, welche die Kantone für ihre Aufgabenerfüllung auf den Nationalstrassen benötigen, wie Polizeistützpunkte, werden ebenfalls nicht auf den Bund übertragen. 5 Sind Landerwerbsgeschäfte bei Nationalstrassen, die beim Inkrafttreten dieser Verordnung bereits dem Verkehr übergeben worden sind, noch nicht abgeschlossen, so geht das Eigentum erst nach erfolgter Bereinigung an den Bund über. 6 Der Kanton bleibt bei hängigen Plangenehmigungsgesuchen im Rahmen von Bau- oder Ausbauvorhaben bis zum Abschluss der Verfahren zuständig."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "6. Kapitel: Schlussbestimmungen",
+      "section": "57",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2008 in Kraft."
+    }
+  ],
+  "definitions": []
+}

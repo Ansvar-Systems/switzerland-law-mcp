@@ -1,0 +1,50 @@
+{
+  "id": "sr-514-544-2",
+  "type": "statute",
+  "title": "Verordnung vom 21. September 1998 über die Mindestanforderungen für Geschäftsräume von Waffenhandlungen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1998/2620_2620_2620/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Zweck",
+      "content": "Diese Verordnung legt die Mindestanforderungen an die Geschäftsräume fest, über die ein Inhaber oder eine Inhaberin einer Waffenhandelsbewilligung verfügen muss."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Einbruchsicherung",
+      "content": "1 Die Aussenhülle der Geschäftsräume (Wände, Decken und Böden) muss massiv gebaut sein und genügenden mechanischen Schutz gegen Einbruch bieten. 2 Türen, Fenster und andere Öffnungen müssen genügenden mechanischen Schutz gegen Einbruch bieten. Ist dies nicht der Fall, so müssen zusätzliche mechanische Sicherungsmittel (Gitter, Fensterläden usw.) installiert werden. 3 Die Geschäftsräume sind mit einer Einbruchmeldeanlage zu einer rund um die Uhr besetzten Einsatzleitstelle auszustatten."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Diebstahlsicherung",
+      "content": "1 Schusswaffen müssen in Verkaufsräumen in verschlossenen Vitrinen aufbewahrt oder durch elektronische oder mechanische Mittel gesichert werden. 2 Munition ist verschlossen aufzubewahren."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Überfallschutz",
+      "content": "Die Geschäftsräume sind mit einer Überfall-Alarmanlage zu einer rund um die Uhr besetzten Einsatzleitstelle auszurüsten."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Ausnahmen",
+      "content": "Handelt die gesuchstellende Person weder mit Schusswaffen noch mit Munition oder beschränkt sie sich auf das Vermitteln von Waffen, so können die Kantone auch dann eine Waffenhandelsbewilligung mit entsprechender Auflage erteilen, wenn die Geschäftsräume die Mindestanforderungen nach dieser Verordnung nicht erfüllen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 1999 in Kraft."
+    }
+  ],
+  "definitions": []
+}

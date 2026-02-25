@@ -1,0 +1,92 @@
+{
+  "id": "sr-784-101-21",
+  "type": "statute",
+  "title": "Verordnung des BAKOM vom 26. Mai 2016 über Fernmeldeanlagen (VFAV)",
+  "title_en": "",
+  "short_name": "VFAV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/307/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Zusätzliche grundlegende Anforderungen",
+      "content": "Die anwendbaren zusätzlichen grundlegenden Anforderungen nach Artikel 7 Absatz 3 FAV und die betreffenden Funkanlagen sind in Anhang 1 aufgeführt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Schnittstellen",
+      "content": "1 Die anwendbaren technischen Vorschriften nach Artikel 3 Absatz 1 FAV für Schnittstellen sind in Anhang 2 aufgeführt. 2 Die Vorschriften betreffend die Lage der vorgeschriebenen Schnittstellen sind in Anhang 1 Ziffer 4 der Verordnung des Bundesamtes für Kommunikation vom 9. Dezember 1997 über Fernmeldedienste und Adressierungselemente aufgeführt. SR 784.101.113"
+    },
+    {
+      "provision_ref": "art2a",
+      "section": "2a",
+      "title": "a Information zu Betriebsbeschränkungen",
+      "content": "1 Die Information zu Betriebsbeschränkungen auf der Verpackung nach Artikel 19 Absatz 3 FAV muss sichtbar und lesbar angebracht werden. 2 Für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 trägt, muss die Information in einer der folgenden Formen angebracht werden: a. Piktogramm nach Anhang 6; b. Ausdruck «Betriebsbeschränkungen in CH». 3 Für eine Funkanlage, die das ausländische Konformitätskennzeichen gemäss Anhang 1 Ziffer 2 trägt, muss die Information in einer der folgenden Formen angebracht werden: a. Piktogramm nach Anhang 6; b. Ausdruck «Beschränkungen oder Anforderungen in», abgefasst in einer für die vom betreffenden Staat bestimmten und für die Endnutzerin oder den Endnutzer leicht verständlichen Sprache, gefolgt von der Abkürzung des Staats gemäss Anhang 6, in dem solche Beschränkungen oder Anforderungen Geltung haben. 4 Für eine Funkanlage, die beide Konformitätskennzeichen trägt, muss die Information in einer der Formen gemäss Absatz 3 angebracht werden. Eingefügt durch Ziff. I der V des BAKOM vom 21. Nov. 2017, in Kraft seit 9. Aug. 2018 ( AS 2017 7137 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Pflicht der Konformitätsbewertungsstellen",
+      "content": "Die Konformitätsbewertungsstellen müssen an den Reglementierungstätigkeiten auf dem Gebiet der Funkanlagen und der Frequenzplanung der folgenden Stellen mitwirken: a. Ausschuss für elektronische Kommunikation (Electronic Communications Committee, ECC); b. die für die Bereiche Akkreditierung oder Bezeichnung zuständigen Untergruppen des ECC."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Zulassung von Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden",
+      "content": "1 Das Zulassungsverfahren nach Artikel 26 FAV ist in Anhang 4 aufgeführt. 2 Die anwendbaren technischen und administrativen Vorschriften für Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden nach Artikel 27 Absatz 4 FAV betrieben zu werden, sind in Anhang 5 aufgeführt."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Bewilligung für das Bereitstellen von Funkanlagen auf dem Markt, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden",
+      "content": "1 Um eine Bewilligung für das Bereitstellen von Funkanlagen auf dem Markt zu erhalten, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden (Art. 27 FAV), muss die Gesuchstellerin oder der Gesuchsteller über eine technische Leiterin oder einen technischen Leiter nach Artikel 32 Absatz 2 der Verordnung vom 18. November 2020 über die Nutzung des Funkfrequenzspektrums (VNF) verfügen. 2 Artikel 32 Absatz 3 VNF gilt sinngemäss. Fassung gemäss Ziff. I der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 5277 ). SR 784.102.1"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Leitungsgebundene Fernmeldeanlagen mit PLC-Technologie",
+      "content": "Die technischen und administrativen Vorschriften über das Erstellen und Betreiben von leitungsgebundenen Fernmeldeanlagen mit Powerline-Communication-Technologie (PLC) nach Artikel 33 Absatz 1 FAV sind in Anhang 5 aufgeführt."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Abgabe von Funkanlagen",
+      "content": "1 Funkanlagen nach Artikel 25 Absatz 1 Buchstabe a FAV dürfen nur an militärische Stellen, Zivilschutzorganisationen oder andere in ausserordentlichen Lagen handelnde Organisationen abgegeben werden. Bei der Abgabe muss eine Quittung ausgestellt werden. 2 Die im Handel erhältlichen, neuen oder gebrauchten Sendeanlagen für die Teilnahme am Amateurfunk dürfen nur abgegeben werden an: a. Inhaberinnen und Inhaber eines Rufzeichens nach Artikel 47 f der Verordnung vom 6. Oktober 1997 über die Adressierungselemente im Fernmeldebereich gegen Quittung und gegen Vorweisung der Rechnung des laufenden Jahres betreffend die Verwaltungsgebühr für die Verwaltung eines Rufzeichens (Art. 46 Abs. 8 der Fernmeldegebührenverordnung vom 18. November 2020); b. Wirtschaftsakteurinnen gegen Quittung. 3 Die Quittung muss die Anzahl der abgegebenen Funkanlagen, deren Marke und Typ, die Adresse und Unterschrift der Person, welcher die Funkanlagen abgegeben wurden, und gegebenenfalls das auf der vorgewiesenen Rechnung angegebene Rufzeichen enthalten. Die Quittung muss nicht unterzeichnet werden, wenn die Funkanlagen per Post zugestellt werden. 4 Wer Funkanlagen nach Absatz 2 Buchstabe a abgibt, muss die Quittung zwei Jahre aufbewahren. 5 Wer Funkanlagen nach den Artikeln 6 Absatz 2 und 25 Absatz 1 Buchstabe a FAV abgibt, muss die Belege zur Bereitstellung auf dem Markt, insbesondere Lieferschein und Rechnung, fünf Jahre aufbewahren. Fassung gemäss Ziff. I der V des BAKOM vom 5. Juli 2021, in Kraft seit 1. Sept. 2021 ( AS 2021 475 ). SR 784.104 SR 784.106 Fassung gemäss Ziff. I der V des BAKOM vom 5. Juli 2021, in Kraft seit 1. Sept. 2021 ( AS 2021 475 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Erstellen und Betreiben von gebrauchten Fernmeldeanlagen",
+      "content": "Gebrauchte Fernmeldeanlagen, für welche die anwendbaren technischen Normen wesentlich geändert haben (Art. 35 FAV), sowie die Vorschriften über ihr Erstellen und ihr Betreiben sind in Anhang 3 aufgeführt."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Änderung von durch das BAKOM bezeichneten technischen Normen",
+      "content": "Wird eine bezeichnete technische Norm geändert, so veröffentlicht das BAKOM im Bundesblatt, ab welchem Zeitpunkt die Vermutung der Konformität für konforme Funkanlagen nach der vorangehenden Fassung dahinfällt."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung des Bundesamts für Kommunikation vom 14. Juni 2002 über Fernmeldeanlagen wird aufgehoben. [ AS 2002 2111 ; 2005 2219 , 5139 ; 2007 1001 , 7081 ; 2008 1907 , 6471 ; 2009 4229 , 5839 , 6543 ; 2010 959 , 3549 , 5067 ; 2011 1391 , 4339 , 5265 ; 2012 1921 , 4337 , 6565 ; 2013 2649 , 4129 ; 2014 919 , 4357 ; 2015 2771 , 4977 ]"
+    },
+    {
+      "provision_ref": "art10a",
+      "section": "10a",
+      "title": "a Übergangsbestimmung zur Änderung vom 12. November 2019",
+      "content": "Handmobiltelefone mit fortgeschrittenen Rechenfähigkeiten, die der zusätzlichen grundlegenden Anforderung gemäss Artikel 7 Absatz 3 Buchstabe g FAV in Verbindung mit Anhang 1 Ziffer 6 nicht entsprechen, dürfen bis zum 16. März 2022 in Verkehr gebracht werden. Eingefügt durch Ziff. I der V des BAKOM vom 12. Nov. 2019 ( AS 2019 4241 ). Fassung gemäss Ziff. I der V des BAKOM vom 27. Juli 2020, in Kraft seit 1. Sept. 2020 ( AS 2020 3563 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 13. Juni 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

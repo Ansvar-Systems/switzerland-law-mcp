@@ -1,0 +1,63 @@
+{
+  "id": "sr-221-302-32",
+  "type": "statute",
+  "title": "Verordnung der Eidgenössischen Revisionsaufsichtsbehörde vom 14. November 2008 über den elektronischen Zugriff auf die nicht öffentlich zugänglichen Daten (Datenverordnung RAB, DV-RAB)",
+  "title_en": "Ordinance of the Federal Audit Oversight Authority of 14 November 2008 on Electronic Access to Non-Publicly Accessible Data (Data Ordinance FAOA, DatO-FAOA)",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/739/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Provisions",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "This Ordinance shall regulate electronic access to non-publicly accessible data by other Swiss oversight authorities, pursuant to Article 22 of the Auditor Oversight Act of 16 December 2005 (AOA). Amended by Annex No 2 of the Health Insurance Oversight Ordinance of 18 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5165 ). SR 221.302"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Provisions",
+      "section": "2",
+      "title": "Non-publicly accessible data",
+      "content": "1 Non-publicly accessible data is data that is not included in the register of auditors (Art. 19 ff. AOO) and that arises from licence applications, the documents submitted with these applications or the decisions on the granting of licences, or that is collected in another way in application of the AOA. 2 The non-publicly accessible data and the level of access permitted to this data are set out in the Annex. SR 221.302"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 2 Requirements for Electronic Access to Non-Publicly Accessible Data",
+      "section": "3",
+      "title": "Applicable law",
+      "content": "Electronic access to non-publicly accessible data is governed by the applicable provisions on administrative and mutual assistance contained in the Federal Act of 19 June 1992 on Data Protection, in the AOA and in the relevant implementing provisions. SR 235.1 SR 221.302"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Requirements for Electronic Access to Non-Publicly Accessible Data",
+      "section": "4",
+      "title": "Application for electronic access",
+      "content": "1 Other Swiss oversight authorities may submit an application to the Oversight Authority for electronic access to non-publicly accessible data. 2 This application shall contain the following details: a. confirmation that the requirements for allowing access to non-publicly accessible data are met; b. the type of information or documents for which access is being requested, together with the purpose of such access; c. the individuals and audit firms concerned; and d. the surnames, first names and addresses of the persons who will receive access authorisation. 3 Other Swiss oversight authorities must also satisfy the technical requirements stipulated by the Oversight Authority and must bear the costs of installing electronic access. Amended by Annex No 2 of the Health Insurance Oversight Ordinance of 18 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5165 ). Amended by Annex No 2 of the Health Insurance Oversight Ordinance of 18 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5165 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Requirements for Electronic Access to Non-Publicly Accessible Data",
+      "section": "5",
+      "title": "Persons with access authorisation",
+      "content": "1 Other Swiss oversight authorities shall designate two persons to receive electronic access to the non-publicly accessible data. 2 These two persons shall not be permitted to pass on their personal access authorisation to third parties. Amended by Annex No 2 of the Health Insurance Oversight Ordinance of 18 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5165 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Requirements for Electronic Access to Non-Publicly Accessible Data",
+      "section": "6",
+      "title": "Cancellation or interruption of access",
+      "content": "Electronic access to non-publicly accessible data may be cancelled or interrupted at any time if the requirements of Articles 4 and 5 are no longer met."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 3 Commencement",
+      "section": "7",
+      "title": "",
+      "content": "This Ordinance comes into force on 1 January 2009."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,967 @@
+{
+  "id": "sr-131-235",
+  "type": "statute",
+  "title": "Verfassung der Republik und des Kantons Jura, vom 20. März 1977",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1977/2_264_259_261_fga/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Souveränität",
+      "section": "1",
+      "title": "Staatsform",
+      "content": "1 Die jurassische Republik ist ein auf Brüderlichkeit gegründeter demokratischer und sozialer Staat. 2 Sie ist ein souveräner Kanton der Schweizerischen Eidgenossenschaft."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Souveränität",
+      "section": "2",
+      "title": "Ausübung der Souveränität",
+      "content": "Die Souveränität steht dem Volk zu, das sie unmittelbar oder durch seine Vertreter ausübt."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I. Souveränität",
+      "section": "3",
+      "title": "Sprache",
+      "content": "Das Französische ist Landes- und Amtssprache der Republik und des Kantons Jura."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Souveränität",
+      "section": "4",
+      "title": "Zusammenarbeit",
+      "content": "1 Die Republik und der Kanton Jura arbeitet mit den anderen Kantonen der Schweizerischen Eidgenossenschaft zusammen. 2 Sie ist bestrebt, mit ihren Nachbarn eng zusammenzuarbeiten. 3 Sie ist weltoffen und arbeitet mit den um Solidarität bemühten Völkern zusammen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I. Souveränität",
+      "section": "5",
+      "title": "Wappen",
+      "content": "Die Republik und der Kanton Jura hat das folgende Wappen: «Gespalten von Silber mit rotem Bischofsstab und von Rot mit drei silbernen Balken»"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II. Die Grundrechte",
+      "section": "6",
+      "title": "Gleichheit vor dem Gesetz",
+      "content": "1 Mann und Frau sind gleichberechtigt. 2 Niemand darf wegen seiner Geburt, seiner Herkunft, seiner Rasse, seiner weltanschaulichen Überzeugung, seiner Meinung oder seiner sozialen Stellung benachteiligt oder bevorzugt werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "II. Die Grundrechte",
+      "section": "7",
+      "title": "Menschenwürde",
+      "content": "1 Die Würde des Menschen ist unantastbar. 2 Jeder Mensch hat das Recht auf freie Entfaltung seiner Persönlichkeit und auf Chancengleichheit."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "II. Die Grundrechte",
+      "section": "8",
+      "title": "Freiheitsrechte",
+      "content": "Die persönliche Freiheit ist gewährleistet. Gewährleistet sind insbesondere: a. das Recht auf Leben und auf körperliche und geistige Unversehrtheit; b. das Recht auf Achtung der Privatsphäre und der Wohnung; c. das Recht auf Ehe und Familie; d. das Recht auf Pflege und Erziehung der Kinder; e. die Gedanken-, die Gewissens- und die Religionsfreiheit; f. die Freiheit der Meinungsbildung, der Meinungsäusserung und der Meinungsverbreitung, insbesondere die Pressefreiheit; g. die Vereins-, die Versammlungs- und die Demonstrationsfreiheit; h. die Freiheit des Lernens und der Lehre; i. die Freiheit der Kunst und der Forschung; j. die Freiheit der Berufswahl und der Berufsausübung; k. die Handels- und Gewerbefreiheit; l. die Niederlassungsfreiheit; m. der freie Zugang zu öffentlichen Ämtern."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "II. Die Grundrechte",
+      "section": "9",
+      "title": "Rechtsschutz im Allgemeinen",
+      "content": "1 Niemand darf seinem verfassungsmässigen Richter entzogen werden. 2 Jede Partei hat Anspruch auf rechtliches Gehör, bevor über ihren Rechtsstreit entschieden wird. 3 Jeder hat ausser in den vom Gesetz vorgesehenen Fällen Anspruch auf Akteneinsicht. 4 Mittellose Parteien haben Anspruch auf unentgeltlichen Rechtsbeistand nach den Vorschriften des Gesetzes."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II. Die Grundrechte",
+      "section": "10",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 30. Nov. 2008 , mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ( BBl 2009 9137 Art. 1 Ziff. 5 5961 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II. Die Grundrechte",
+      "section": "11",
+      "title": "Zensur",
+      "content": "Die Zensur ist untersagt."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II. Die Grundrechte",
+      "section": "12",
+      "title": "Eigentum",
+      "content": "1 Das Eigentum ist in seiner privaten und seiner sozialen Funktion anerkannt und in den Schranken des Gesetzes gewährleistet. 2 Wer enteignet wird, hat Anspruch auf volle und nach Möglichkeit im Voraus zu leistende Entschädigung. 3 Bei überwiegendem öffentlichem Interesse ergreift der Staat Massnahmen, um den Missbrauch des Eigentums insbesondere an Boden, Wohnungen und wichtigen Produktionsmitteln zu verhindern. 4 Der Staat fördert den bäuerlichen Grundbesitz. 5 Das Gesetz kann dem Staat und den Gemeinden ein Vorkaufsrecht in den Fällen einräumen, in denen ein überwiegendes öffentliches Interesse es erfordert."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Beschränkung der Grundrechte",
+      "content": "Die Grundrechte können nur durch Gesetz eingeschränkt werden und nur so weit, als ein überwiegendes öffentliches Interesse es erfordert."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Wirkungen der Grundrechte",
+      "content": "1 Alle Staatsgewalt ist an die Grundrechte gebunden. 2 Jeder achtet bei der Ausübung seiner Grundrechte .die Grundrechte der anderen."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Pflichten",
+      "content": "Jeder hat seine gesetzlichen Pflichten gegenüber dem Staat und den Gemeinden zu erfüllen."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Bürgerrecht",
+      "content": "1 Das Gesetz regelt die Voraussetzungen und das Verfahren für den Erwerb des Kantons- und des Gemeindebürgerrechts. 2 Das Gemeindebürgerrecht begründet das Kantonsbürgerrecht."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "1. Die Familie",
+      "section": "17",
+      "title": "",
+      "content": "1 Der Staat schützt und unterstützt die Familie, die Urzelle und Grundlage der Gesellschaft. 2 Er stärkt die Stellung der Familie in der Gemeinschaft."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. Soziale Sicherheit",
+      "section": "18",
+      "title": "Grundsatz",
+      "content": "1 Der Staat und die Gemeinden fördern die allgemeine Wohlfahrt und die soziale Sicherheit. 2 Sie schützen insbesondere die Menschen, die wegen ihres Alters, ihrer Gesundheit und ihrer wirtschaftlichen oder sozialen Lage Hilfe brauchen. 3 Sie fördern die Eingliederung der Wanderbevölkerung in ihre jurassische soziale Umwelt."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "2. Soziale Sicherheit",
+      "section": "19",
+      "title": "Recht auf Arbeit",
+      "content": "1 Das Recht auf Arbeit ist anerkannt. 2 Der Staat strebt mit Unterstützung der Gemeinden die Vollbeschäftigung an. 3 Jeder Erwerbstätige hat Anspruch auf den Lohn, der ihm einen menschenwürdigen Lebensunterhalt sichert. 4 Der Staat fördert die berufliche Umschulung. 5 Er fördert die wirtschaftliche und soziale Eingliederung der Behinderten."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Soziale Sicherheit",
+      "section": "20",
+      "title": "Schutz der Erwerbstätigen",
+      "content": "Zum Schutz der Erwerbstätigen trifft der Staat folgende Massnahmen: a. er organisiert die obligatorische Arbeitslosenversicherung; b. er richtet einen arbeitsmedizinischen Dienst ein; c. er erlässt Rechtsvorschriften über die Arbeitsbedingungen; d. er fördert die Mitbestimmung der Arbeitnehmer in den Unternehmen ; e. er schützt die Erwerbstätigen und ihre Vertreter bei der Ausübung ihrer Rechte; f. er überwacht die Einhaltung des Grundsatzes «Gleiche Arbeit, gleicher Lohn»; g. er anerkennt das Streikrecht; das Gesetz bezeichnet die öffentlichen Dienste, in denen besondere Vorschriften darüber aufgestellt werden können."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Soziale Sicherheit",
+      "section": "21",
+      "title": "Sozialer Frieden",
+      "content": "Der Staat setzt eine kantonale Schlichtungs- und Schiedsstelle ein, die sich bei sozialen Konflikten einschaltet."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Soziale Sicherheit",
+      "section": "22",
+      "title": "Recht auf Wohnung",
+      "content": "1 Das Recht auf Wohnung ist anerkannt. 2 Der Staat und die Gemeinden sorgen dafür, dass jedermann eine angemessene Wohnung zu tragbaren Bedingungen erhält. 3 Sie treffen Massnahmen zum Schutz der Mieter gegen Missbräuche."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Soziale Sicherheit",
+      "section": "23",
+      "title": "Sozialversicherungen und Sozialleistungen",
+      "content": "1 Der Staat und die Gemeinden können die Sozialversicherungen und Sozialleistungen des Bundes ergänzen und weitere einführen. 2 Der Staat führt die Familienzulagen allgemein ein. 3 Das Gesetz geht für die Finanzierung der Sozialversicherungen und Sozialleistungen vom Grundsatz der Solidarität aus."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "3. Sozialhilfe",
+      "section": "24",
+      "title": "",
+      "content": "Die Sozialhilfe ist Aufgabe des Staates und der Gemeinden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. Gesundheitswesen",
+      "section": "25",
+      "title": "Schutz im Allgemeinen",
+      "content": "1 Der Staat und die Gemeinden sorgen für die öffentliche Hygiene und die Volksgesundheit. 2 Sie fördern die Gesundheitsvorsorge und die Berufe, die der Pflege von Kranken und Behinderten dienen. 3 Der Staat regelt und überwacht die Ausübung der medizinischen und paramedizinischen Berufe."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "4. Gesundheitswesen",
+      "section": "26",
+      "title": "",
+      "content": "1 Der Staat organisiert und koordiniert das gesamte Spitalwesen und die angeschlossenen medizinischen Einrichtungen. 2 Er sorgt für deren Unterhalt. 3 Er überträgt die Verwaltung einer öffentlichrechtlichen Anstalt. Angenommen in der Volksabstimmung vom 28. Nov. 1993 , in Kraft seit 28. Nov. 1993. Gewährleistungsbeschluss vom 16. Sept. 1996 ( BBl 1996 IV 864 Art. 1 Ziff. 8, I 1301 ). Angenommen in der Volksabstimmung vom 26. Sept. 2004 , in Kraft seit 1. Jan. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ( BBl 2005 5995 Art. 1 Ziff. 7 2891 ). Angenommen in der Volksabstimmung vom 28. Nov. 1993 , in Kraft seit 28. Nov. 1993. Gewährleistungsbeschluss vom 16. Sept. 1996 ( BBl 1996 IV 864 Art. 1 Ziff. 8, I 1301 )."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "4. Gesundheitswesen",
+      "section": "27",
+      "title": "Hauspflege",
+      "content": "Der Staat fördert die Hauspflege."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "4. Gesundheitswesen",
+      "section": "28",
+      "title": "Gesundheitspolizei",
+      "content": "Der Staat organisiert die Gesundheitspolizei."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "4. Gesundheitswesen",
+      "section": "29",
+      "title": "Versicherungen",
+      "content": "1 Die Kranken-, die Unfall- und die Mutterschaftsversicherung sind obligatorisch. 2 Der Staat fördert die Übernahme der Zahnbehandlungskosten durch die Krankenversicherung."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "4. Gesundheitswesen",
+      "section": "30",
+      "title": "Sport",
+      "content": "Der Staat fördert den Volkssport."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "4. Gesundheitswesen",
+      "section": "31",
+      "title": "Gesundheitsrat",
+      "content": "1 Der Staat schafft einen Gesundheitsrat. 2 Das Gesetz regelt Zusammensetzung, Tätigkeit und Zuständigkeit des Gesundheitsrats."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "5. Schulwesen",
+      "section": "32",
+      "title": "Aufgabe",
+      "content": "1 Die Schule hat die Aufgabe, für die volle Entfaltung der Kinder zu sorgen. 2 Sie erzieht und unterrichtet die Kinder solidarisch mit der Familie. 3 Sie erzieht die Kinder zu freien und verantwortungsbewussten Menschen, die fähig sind, ihr Leben selber zu meistern."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "5. Schulwesen",
+      "section": "33",
+      "title": "Schulpflicht",
+      "content": "Der Schulbesuch ist obligatorisch."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "5. Schulwesen",
+      "section": "34",
+      "title": "Öffentliche Schulen",
+      "content": "1 Der Staat organisiert und überwacht das öffentliche Schulwesen. 2 Die Aufnahme in den Kindergarten ist gewährleistet. 3 Der Unterricht ist unentgeltlich. 4 Die öffentlichen Schulen achten die Gedanken-, die Gewissens- und die Religionsfreiheit."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "5. Schulwesen",
+      "section": "35",
+      "title": "Aufgabenverteilung",
+      "content": "1 Der Kindergarten und die obligatorische Volksschule sind Sache des Staates und der Gemeinden. 2 Die Mittelschulen, die Berufsschulen, die Gewerbe- und die Handelsschulen sind Sache des Staates. 3 Die Berufsbildung kann in bestimmten Fällen privaten Einrichtungen übertragen werden. 4 Der Staat sorgt für die Ausbildung und ständige Weiterbildung der Lehrer."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "5. Schulwesen",
+      "section": "36",
+      "title": "Ausbildung von Behinderten",
+      "content": "Der Staat unterhält oder fördert Sondereinrichtungen, in denen Behinderte eine ihnen angemessene Ausbildung erhalten."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "5. Schulwesen",
+      "section": "37",
+      "title": "Ausbildung ausserhalb des Kantons",
+      "content": "Der Staat sorgt, wenn nötig durch Vereinbarungen, für Ausbildungsmöglichkeiten, die im Kanton nicht bestehen."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "5. Schulwesen",
+      "section": "38",
+      "title": "Privatschulen",
+      "content": "1 Das Recht zur Gründung von Privatschulen ist in den Schranken des Gesetzes gewährleistet. 2 Der Staat unterstützt die Privatschulen unter den im Gesetz umschriebenen Voraussetzungen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "5. Schulwesen",
+      "section": "39",
+      "title": "Aufsicht",
+      "content": "Alle Schulen stehen unter der Aufsicht des Staates."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "5. Schulwesen",
+      "section": "40",
+      "title": "Recht auf Ausbildung",
+      "content": "1 Das Recht auf Ausbildung ist anerkannt. 2 Der Staat und die Gemeinden erleichtern den Besuch von Schulen und Universitäten sowie die Berufsausbildung im Allgemeinen."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "5. Schulwesen",
+      "section": "41",
+      "title": "Schulrat",
+      "content": "1 Der Staat schafft einen Schulrat. 2 Das Gesetz regelt Zusammensetzung, Tätigkeit und Zuständigkeit des Schulrats."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "6. Kultur und Erwachsenenbildung",
+      "section": "42",
+      "title": "Kulturschaffen",
+      "content": "1 Der Staat und die Gemeinden unterstützen das Kulturschaffen im schöpferischen Bereich, in der Forschung, in Veranstaltungen und im Bereich der Verbreitung. 2 Sie sorgen aktiv für die Erhaltung, die Bereicherung und die Pflege des jurassischen Brauchtums, vor allem der Mundart. 3 Sie fördern die Pflege der französischen Sprache."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "6. Kultur und Erwachsenenbildung",
+      "section": "43",
+      "title": "Erwachsenenbildung",
+      "content": "Der Staat und die Gemeinden fördern die Erwachsenenbildung."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "7. Büro für Frauenfragen",
+      "section": "44",
+      "title": "",
+      "content": "Der Staat schafft ein Büro für Frauenfragen, dessen Aufgaben insbesondere sind: a. die Stellung der Frau zu verbessern; b. den Zugang der Frau zu den öffentlichen Aufgaben auf allen Stufen zu fördern; c. Diskriminierungen der Frau zu beseitigen."
+    },
+    {
+      "provision_ref": "art44a",
+      "chapter": "10",
+      "section": "44a",
+      "title": "a",
+      "content": "1 Der Staat und die Gemeinden wachen über die Einhaltung des Gleichgewichts zwischen der Bewahrung der natürlichen Umwelt und den Bedürfnissen des wirtschaftlichen und sozialen Lebens. 2 Bei der Ausübung ihrer Aufgaben beachten sie die Prinzipien der nachhaltigen Entwicklung und sie tragen den Interessen zukünftiger Generationen Rechnung."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "8. Umwelt und Raumordnung",
+      "section": "45",
+      "title": "Umweltschutz",
+      "content": "1 Der Staat und die Gemeinden schützen den Menschen und seinen natürlichen Lebensraum vor Schäden; sie bekämpfen insbesondere die Verschmutzung der Luft, des Bodens und der Gewässer sowie den Lärm. 2 Sie erhalten die Schönheit und Eigenart der Landschaft sowie die Natur- und Kulturdenkmäler. 3 Der Staat schützt die Tier- und Pflanzenwelt, insbesondere den Wald. 4 Er regelt Jagd und Fischerei."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "8. Umwelt und Raumordnung",
+      "section": "46",
+      "title": "Raumplanung",
+      "content": "1 Der Staat und die Gemeinden sorgen für eine zweckmässige Nutzung des Bodens und für eine geordnete Besiedlung des Landes. 2 Sie erhalten soweit wie möglich die Forst- und die Landwirtschaftsgebiete, in denen Forst- und Landwirtschaft überwiegen. 3 Sie reservieren die für die Entwicklung der Wirtschaft und der Verkehrswege notwendigen Flächen. 4 Sie sind bestrebt, die zur Erholung und Freizeit besonders geeigneten Gebiete der gemeinschaftlichen Benutzung zu erhalten. 5 Sie nehmen Rücksicht auf die Meinung der betroffenen Bevölkerung."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "9. Wirtschaft",
+      "section": "47",
+      "title": "Wirtschaftsentwicklung",
+      "content": "1 Der Staat fördert die wirtschaftliche Entwicklung des Kantons; er berücksichtigt die Bedürfnisse der Regionen und sorgt für die Vielfalt der Wirtschaftstätigkeiten. 2 Er kann zu diesem Zweck Ämter schaffen und Einrichtungen unterstützen, namentlich einen konsultativen Wirtschafts- und Sozialrat und ein Amt für Wirtschaftsförderung."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "9. Wirtschaft",
+      "section": "48",
+      "title": "Bau- und Strassenwesen",
+      "content": "Der Staat erlässt Vorschriften über das Bau- und das Strassenwesen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "9. Wirtschaft",
+      "section": "49",
+      "title": "Öffentlicher Verkehr",
+      "content": "Der Staat fördert den öffentlichen Verkehr."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "9. Wirtschaft",
+      "section": "50",
+      "title": "Bodenschätze",
+      "content": "Der Staat kontrolliert die Ausbeutung der Bodenschätze."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "9. Wirtschaft",
+      "section": "51",
+      "title": "Landwirtschaftspolitik",
+      "content": "Der Staat erarbeitet eine Landwirtschaftspolitik."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "10. Konsumentenschutz",
+      "section": "52",
+      "title": "",
+      "content": "Der Staat berücksichtigt die Interessen der Konsumenten."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "11. Humanitäre Hilfe",
+      "section": "53",
+      "title": "",
+      "content": "Der Staat fördert die humanitäre Hilfe und beteiligt sich an der Entwicklungszusammenarbeit mit den benachteiligten Völkern."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "12. Öffentliche Ordnung",
+      "section": "54",
+      "title": "",
+      "content": "Der Staat und die Gemeinden sorgen für die öffentliche Ordnung, für Sicherheit und Ruhe."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "1. Allgemeine Grundsätze",
+      "section": "55",
+      "title": "Gewaltentrennung",
+      "content": "Die gesetzgebende, die vollziehende und die rechtsprechende Gewalt sind getrennt."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "1. Allgemeine Grundsätze",
+      "section": "56",
+      "title": "Grundlagen des staatlichen Handelns",
+      "content": "1 Alles staatliche Handeln muss auf den Grundsätzen der Rechtmässigkeit und von Treu und Glauben beruhen. 2 Es muss verhältnismässig sein."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "1. Allgemeine Grundsätze",
+      "section": "57",
+      "title": "Haftung",
+      "content": "Der Staat und die Gemeinden haften für den Schaden, den Behörden und Beamte in Ausübung ihrer amtlichen Tätigkeit widerrechtlich verursachen."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "1. Allgemeine Grundsätze",
+      "section": "58",
+      "title": "Rückwirkung von Gesetzen",
+      "content": "Gesetzen, die den einzelnen oder den Gemeinden neue Lasten oder Pflichten auferlegen, darf keine Rückwirkung zukommen."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "1. Allgemeine Grundsätze",
+      "section": "59",
+      "title": "Übertragung von Befugnissen",
+      "content": "1 Das Volk, das Parlament und die Regierung können ihre Befugnisse nach den Vorschriften des Gesetzes übertragen. 2 Für Volk und Parlament bestimmt das Gesetz den Gegenstand jeder Übertragung von Befugnissen und legt deren Zweck und Umfang fest."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "1. Allgemeine Grundsätze",
+      "section": "60",
+      "title": "Notrecht",
+      "content": "Das Gesetz bestimmt, dass im Krieg oder bei Katastrophen dem Parlament oder der Regierung vorübergehend Befugnisse übertragen werden können, die von der Verfassung abweichen."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "1. Allgemeine Grundsätze",
+      "section": "61",
+      "title": "Rechtsauskunft und Schlichtung",
+      "content": "1 Der Staat richtet einen grundsätzlich unentgeltlichen Rechtsauskunftsdienst ein. 2 Er kann eine unabhängige Schlichtungsstelle für Verwaltungsangelegenheiten errichten."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "1. Allgemeine Grundsätze",
+      "section": "62",
+      "title": "Unvereinbare Ämter",
+      "content": "1 Niemand darf zwei der folgenden Ämter gleichzeitig ausüben: Abgeordneter im Parlament, Mitglied der Regierung, vollamtlicher Richter, Staatsanwalt. 2 Die Mitglieder der Regierung dürfen keiner Bezirks- oder Gemeindebehörde angehören. 3 Die vollamtlichen Richter dürfen keiner Gemeindebehörde und keiner anderen Bezirksbehörde angehören. 4 Das Mandat eines eidgenössischen Parlamentariers ist mit folgenden Ämtern unvereinbar: Abgeordneter im Kantonsparlament, vollamtlicher Richter, Staatsanwalt und Mitglied der Regierung. 5 … 6 Das Gesetz regelt die Unvereinbarkeit von Ämtern für die nebenamtlichen Richter und die Beamten. Angenommen in der Volksabstimmung vom 5. April 1987 , in Kraft seit 5. April 1987. Gewährleistungsbeschluss vom 9. März 1988 ( BBl 1988 I 1448 Art. 1 Ziff. 5 249 ). Aufgehoben in der Volksabstimmung vom 5. April 1987 , mit Wirkung seit 5. April 1987. Gewährleistungsbeschluss vom 9. März 1988 ( BBl 1988 I 1448 Art. 1 Ziff. 5 249 )."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Unvereinbarkeit bei Verwandtschaft",
+      "content": "Das Gesetz regelt die Unvereinbarkeit von Ämtern bei Verwandtschaft und. Verschwägerung."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Doppeltätigkeit",
+      "content": "Das Amt eines Regierungsmitglieds oder eines vollamtlicher Richters ist mit jeder anderen bezahlten Tätigkeit unvereinbar."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Amtsdauer",
+      "content": "1 Die Abgeordneten, die Mitglieder der Regierung, die Richterinnen und Richter, die Staatsanwältinnen und Staatsanwälte und die Mitglieder der Bezirks- und der Gemeindebehörden werden für fünf Jahre gewählt. 2 Die Präsidenten und Vizepräsidenten des Parlaments, der Regierung und des Kantonsgerichts werden für ein Jahr gewählt. 3 Während einer Amtsperiode Gewählte üben ihr Mandat bis zum Ende dieser Periode aus. Angenommen in der Volksabstimmung vom 7. März 2010 , in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 5, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Wiederwahlen",
+      "content": "1 Die Ständeräte und die Parlamentsabgeordneten können nur zweimal nacheinander wiedergewählt werden. 2 Die Mitglieder der Regierung können nur zweimal wiedergewählt werden. 3 Die Präsidenten und Vizepräsidenten des Parlaments, der Regierung und des Kantonsgerichts können für das gleiche Amt nicht unmittelbar wiedergewählt werden. 4 Die Mitglieder der anderen Behörden des Staates und der Bezirke können unbeschränkt wiedergewählt werden. Angenommen in der Volksabstimmung vom 7. März 2010 , in Kraft seit 1. Juli 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 5, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Öffentlichkeit der Verhandlungen",
+      "content": "Die Verhandlungen des Parlaments und der Generalräte sind öffentlich."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Information der Öffentlichkeit",
+      "content": "1 Die Kantons- und die Gemeindebehörden informieren die Bevölkerung über ihre Tätigkeit. 2 Sie veröffentlichen die wichtigen Vorhaben in der Weise, dass eine öffentliche Diskussion möglich ist."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Sitz der Behörden",
+      "content": "1 Das Parlament und die Regierung haben ihren Sitz in Delsberg. 2 Das Kantonsgericht und das erstinstanzliche Gericht haben ihren Sitz in Pruntrut. 3 Die kantonale Verwaltung ist dezentralisiert. Angenommen in der Volksabstimmung vom 29. Nov. 1998 , in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ( BBl 2000 3643 Art. 1 Ziff. 9 1107 )."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "2. Die politischen Rechte",
+      "section": "70",
+      "title": "Stimmberechtigte",
+      "content": "1 Stimm- und wahlberechtigt in kantonalen Angelegenheiten sind alle Männer und Frauen, die Schweizerbürger und mindestens 18 Jahre alt sind und Wohnsitz im Kanton haben. 2 … 3 Stimm- und wahlberechtigt in Gemeindeangelegenheiten sind alle Männer und Frauen, die Schweizerbürger und mindestens 18 Jahre alt sind und Wohnsitz in der Gemeinde haben. 4 Das Gesetz bestimmt, in welchen Fällen einem Stimmberechtigten die politischen Rechte entzogen werden. Aufgehoben in der Volksabstimmung vom 29. Nov. 1998 , mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ( BBl 2000 3643 Art. 1 Ziff. 9 1107 )."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "2. Die politischen Rechte",
+      "section": "71",
+      "title": "Inhalt der politischen Rechte",
+      "content": "Jeder Stimmberechtigte hat das Recht: a. an den Volkswahlen und -abstimmungen teilzunehmen; b. unter den in Verfassung und Gesetz genannten Voraussetzungen in ein öffentliches Amt gewählt zu werden; c. Volksinitiativen und Referenden zu unterzeichnen."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "2. Die politischen Rechte",
+      "section": "72",
+      "title": "Auswärtige Jurassier",
+      "content": "Das Gesetz regelt die politischen Rechte der Jurassier, die ausserhalb des Kantons niedergelassen sind."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "2. Die politischen Rechte",
+      "section": "73",
+      "title": "Ausländer",
+      "content": "Das Gesetz umschreibt und regelt das Stimm- und Wahlrecht sowie die übrigen politischen Rechte der Ausländer."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "2. Die politischen Rechte",
+      "section": "74",
+      "title": "Volkswahlen",
+      "content": "1 Die Stimmberechtigten des Kantons wählen: a. die Parlamentsabgeordneten und die Stellvertreter; b. die Mitglieder der Regierung; c. die Ständeräte. 2 … 3 Die Stimmberechtigten der Gemeinde wählen: a. die Generalräte; b. den Gemeindepräsidenten und die Gemeinderäte; c. die Mitglieder der anderen Gemeindeorgane, wenn das Gesetz oder das Gemeindereglement es vorsieht. 4 Die Volkswahlen erfolgen in geheimer Abstimmung. 5 Die Ständeräte, die Parlamentsabgeordneten und die Mitglieder der Generalräte werden nach dem Verhältniswahlverfahren gewählt. 6 Die Regierungsmitglieder und die Gemeindepräsidenten werden nach dem Mehrheitswahlverfahren gewählt. Aufgehoben in der Volksabstimmung vom 29. Nov. 1998 , mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ( BBl 2000 3643 Art. 1 Ziff. 9 1107 ). Angenommen in der Volksabstimmung vom 29. Nov. 1998 , in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ( BBl 2000 3643 Art. 1 Ziff. 9 1107 )."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Kantonale Volksinitiative: Voraussetzungen",
+      "content": "1 Zweitausend Stimmberechtigte oder fünf Gemeinden können mit einer Initiative in der Form der allgemeinen Anregung oder des ausgearbeiteten Entwurfs die Annahme, die Änderung oder die Aufhebung von Verfassungs- oder Gesetzesbestimmungen verlangen. 2 Fünftausend Stimmberechtigte können in der Form der allgemeinen Anregung verlangen, dass das Parlament das Standesinitiativrecht in Bundesangelegenheiten ausübt. 3 Die Volksinitiative muss mit dem übergeordneten Recht vereinbar sein, darf nur einen Gegenstand betreffen und nicht undurchführbar sein; andernfalls tritt das Parlament wegen Ungültigkeit nicht darauf ein. 4 Die Initiative kann unter den im Gesetz genannten Voraussetzungen zurückgezogen werden. Angenommen in der Volksabstimmung vom 5. Juni 2016 , in Kraft seit 5. Juni 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ( BBl 2017 4419 Art. 5 1499 ). Angenommen in der Volksabstimmung vom 26. Sept. 2004 , in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ( BBl 2005 5995 Art. 1 Ziff. 7 2891 )."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Kantonale Volksinitiative: Verfahren",
+      "content": "1 Das Parlament entscheidet, ob die Bestimmungen, die es aufgrund einer Volksinitiative in der Form der allgemeinen Anregung annimmt oder ändert, in die Verfassung oder das Gesetz aufgenommen werden. 2 Beschliesst das Parlament, einer gültigen Volksinitiative keine Folge zu geben, oder gibt es dieser nicht innerhalb von zwei Jahren Folge, so wird die Initiative dem Volk zur Abstimmung unterbreitet. 3 Das Parlament kann jeder Volksinitiative einen Gegenvorschlag gegenüberstellen. 4 Nimmt das Volk eine Initiative in der Form der allgemeinen Anregung an, so muss das Parlament dieser innerhalb von zwei Jahren Folge geben. 5 Nimmt das Volk sowohl die Initiative wie den Gegenvorschlag an, so gilt die Vorlage als angenommen, welche die meisten Stimmen auf sich vereinigt hat. Angenommen in der Volksabstimmung vom 26. Sept. 2004 , in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ( BBl 2005 5995 Art. 1 Ziff. 7 2891 ). Angenommen in der Volksabstimmung vom 26. Sept. 2004 , in Kraft seit 1. Sept. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ( BBl 2005 5995 Art. 1 Ziff. 7 2891 )."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Obligatorisches Referendum",
+      "content": "Der Volksabstimmung werden unterbreitet: a. der Grundsatzentscheid über eine Totalrevision der Verfassung zusammen mit dem Verfassungszusatz, der ihre Durchführung regelt; b. die Verfassungsbestimmungen; c. die Volksinitiativen, denen das Parlament keine Folge gibt; d. jede nicht gesetzlich festgelegte Ausgabe, sofern es sich um eine einmalige Ausgabe von mehr als 5/100 oder um eine wiederkehrende Ausgabe von mehr als 5/1000 der Einnahmen des letzten Staatsvoranschlags handelt; e. die Gesetze und Beschlüsse, die dem obligatorischen Referendum unterliegende Ausgaben zur Folge haben; f. die Verträge, Konkordate und anderen öffentlichrechtlichen Vereinbarungen, die von der Verfassung abweichen oder sie ergänzen oder die dem obligatorischen Referendum unterliegende Ausgaben zur Folge haben; g. das Staatsbudget gemäss Artikel 123 a Absätze 4 und 6. Angenommen in der Volksabstimmung vom 17. Mai 2009 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Dez. 2010 ( BBl 2011 257 Art. 1 Ziff. 5, 2010 4901 )."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Fakultatives Referendum",
+      "content": "Wenn zweitausend Stimmberechtigte oder fünf Gemeinden es verlangen, werden der Volksabstimmung unterbreitet: a. die Gesetze; b. jede nicht gesetzlich festgelegte Ausgabe, sofern es sich um eine einmalige Ausgabe von mehr als 5/1000 oder um eine wiederkehrende Ausgabe von mehr als 5/10'000 der Einnahmen des letzten Staatsvoranschlags handelt; c. die Verträge, Konkordate und anderen öffentlichrechtlichen Vereinbarungen, die vom Gesetz abweichen oder es ergänzen oder die dem fakultativen Referendum unterliegende Ausgaben zur Folge haben; d. die Immobiliengeschäfte, die Bürgschaften und die Beteiligung an Wirtschaftsunternehmen, sofern die betreffenden Beträge grösser sind als 5/1000 der Einnahmen des letzten Staatsvoranschlags; e. die Pläne in den gesetzlich vorgesehenen Fällen; f. die Standesinitiativen in Bundesangelegenheiten. Angenommen in der Volksabstimmung vom 5. Juni 2016 , in Kraft seit 5. Juni 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ( BBl 2017 4419 Art. 5 1499 )."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Referendum auf Beschluss des Parlaments",
+      "content": "Das Parlament kann alle seine Entscheidungen der Volksabstimmung unterbreiten."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Petitionsrecht",
+      "content": "1 Jeder hat das Recht, eine Petition an die Behörden zu richten. 2 Die Behörde, bei der eine Petition eingereicht wird, mussdiese behandeln und beantworten."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Politische Parteien",
+      "content": "Der Staat anerkennt die Aufgabe der politischen Parteien und unterstützt deren Tätigkeit."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "3. Das Parlament",
+      "section": "82",
+      "title": "Stellung",
+      "content": "1 Das Parlament ist die erste Vertretung des Volkes. 2 Es bestimmt die Politik des Kantons. 3 Es übt, unter Vorbehalt der Rechte des Volkes, die gesetzgebende Gewalt aus. 4 Es übt die Oberaufsicht über die Regierung, die Verwaltung und die richterlichen Behörden aus."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "3. Das Parlament",
+      "section": "83",
+      "title": "Gesetzgebungsbefugnis",
+      "content": "1 Das Parlament: a. arbeitet bei einer Teilrevision der Verfassung die entsprechenden Bestimmungen aus; b. erlässt die Gesetze, namentlich die Einführungsgesetze zum Bundesrecht. 2 Es erlässt die Dekrete zur Inkraftsetzung der wichtigen Ausführungsbestimmungen zum Bundesrecht und zu kantonalen Gesetzen. 3 Die Entwürfe zu Verfassungsbestimmungen, Gesetzen und Dekreten werden in zwei Lesungen beraten."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "3. Das Parlament",
+      "section": "84",
+      "title": "Andere Befugnisse",
+      "content": "Das Parlament ist, unter Vorbehalt der Rechte des Volkes, ausserdem befugt: a. die Mitglieder des Kantonsgerichts, den Staatsanwalt und die Mitglieder der anderen vom Gesetz bezeichneten Behörden zu wählen; b. die Verträge, Konkordate und anderen öffentlichrechtlichen Vereinbarungen zu genehmigen, die nicht ausschliesslich Sache der Regierung sind; c. über das allgemeine Regierungsprogramm und seine Verwirklichung zu beraten; d. die kantonalen Pläne, die die Wirtschaft, das Bauwesen und die Raumordnung betreffen, zu genehmigen und zu bestimmen, wieweit sie verbindlich sind; e. die Finanzpläne des Staates zu genehmigen; f. den Staatsvoranschlag zu beschliessen und die Staatsrechnung zu genehmigen; g. jede nicht gesetzlich festgelegte Ausgabe zu beschliessen, sofern es sich um eine einmalige Ausgabe von mehr als 5/10'000 oder um eine wiederkehrende Ausgabe von mehr als 5/100'000 der Einnahmen des letzten Staatsvoranschlags handelt; h. über den Abschluss von Immobiliengeschäften und von Bürgschaften sowie über die Beteiligung an Wirtschaftsunternehmen zu beschliessen, sofern die betreffenden Beträge grösser sind als 5/10'000 der Einnahmen des letzten Staatsvoranschlags; i. öffentliche Anleihen zu bewilligen; j. die Geschäftsberichte der Regierung, der Gerichte und der selbständigen kantonalen Anstalten zu genehmigen; k. in Kompetenzstreitigkeiten zu entscheiden, in denen der Verfassungsgerichtshof Partei ist; l. das Begnadigungsrecht auszuüben; m. Amnestie zu gewähren; n. zu den Vernehmlassungen der Regierung in wichtigen Bundesangelegenheiten Stellung zu nehmen; o. das Standesinitiativrecht in Bundesangelegenheiten auszuüben; p. zusammen mit anderen Kantonen die ausserordentliche Einberufung der Bundesversammlung und die Volksabstimmung über ein Bundesgesetz oder einen Bundesbeschluss zu verlangen; q. jede andere Befugnis auszuüben, welche ihm die Verfassung oder das Gesetz überträgt."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "3. Das Parlament",
+      "section": "85",
+      "title": "Zusammensetzung",
+      "content": "1 Das Parlament zählt sechzig Abgeordnete. 2 Das Gesetz regelt die Wahl von Stellvertretern."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "3. Das Parlament",
+      "section": "86",
+      "title": "Wahlen",
+      "content": "1 Für die Wahl des Parlaments bildet jeder Bezirk einen Wahlkreis. 2 Jedem Wahlkreis stehen von vornherein drei Sitze zu; die übrigen werden im Verhältnis zur Bevölkerungszahl verteilt."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Einberufung",
+      "content": "Das Parlament tritt auf Einberufung durch den Präsidenten zusammen: a. in den im Geschäftsreglement vorgesehenen Fällen; b. auf seinen besonderen Beschluss; c. auf Verlangen der Regierung; d. wenn 12 Abgeordnete es unter Angabe der Verhandlungsgegenstände verlangen."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Unabhängigkeit der Parlamentarier",
+      "content": "1 Die Abgeordneten üben ihr Mandat frei aus. 2 Sie können für Äusserungen, die sie in Ausübung ihres Mandats machen, nicht belangt werden. 3 Sie sind für solche Äusserungen nur dem Parlament verantwortlich."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "4. Die Regierung",
+      "section": "89",
+      "title": "Stellung",
+      "content": "1 Die Regierung leitet die Politik des Kantons. 2 Sie übt die vollziehende Gewalt aus und führt die Verwaltung. 3 Sie vertritt den Staat."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "4. Die Regierung",
+      "section": "90",
+      "title": "Gesetzgebung",
+      "content": "1 Die Regierung wirkt an der Ausarbeitung der Gesetzgebung mit und kann dem Parlament Verfassungs-, Gesetzes- oder Dekretsbestimmungen vorschlagen. 2 Unter Vorbehalt der Befugnisse des Parlaments erlässt sie die Durchführungsverordnungen zum Bundesrecht und zu kantonalen Gesetzen und Dekreten."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "4. Die Regierung",
+      "section": "91",
+      "title": "Dringlichkeitsrecht",
+      "content": "1 In dringlichen Fällen kann die Regierung Verordnungen erlassen und Massnahmen ergreifen, die von Beschlüssen, Dekreten oder Gesetzen abweichen. 2 Diese Verordnungen und Massnahmen bleiben in Kraft, solange die notwendigen Vorkehrungen nicht verfassungsgemäss getroffen werden können, längstens jedoch ein Jahr."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "4. Die Regierung",
+      "section": "92",
+      "title": "Andere Befugnisse",
+      "content": "1 Unter Vorbehalt der Befugnisse von Volk und Parlament: a. ernennt die Regierung die Beamten und betraut andere Personen mit kantonalen öffentlichen Ämtern; b. beschliesst die Regierung jede nicht gesetzlich festgelegte Ausgabe; c. entscheidet die Regierung über den Abschluss von Immobiliengeschäften und Bürgschaften sowie über die Beteiligung an Wirtschaftsunternehmen. 2 Ausserdem ist die Regierung befugt: a. öffentlichrechtliche Vereinbarungen von geringer Tragweite abzuschliessen; b. dem Parlament zu Beginn jeder Legislaturperiode ein allgemeines Regierungsprogramm vorzulegen; c. dem Parlament am Ende jeder Legislaturperiode einen Bericht über die Verwirklichung ihres Regierungsprogramms vorzulegen; d. unter Vorbehalt der Befugnisse des Parlaments die Staatstätigkeit zu planen und für die Verwirklichung der Pläne zu sorgen; e. den Staatsvoranschlag und die Staatsrechnung vorzubereiten und dem Parlament zu unterbreiten; f. das Vermögen und die Finanzen des Staates zu verwalten; g. die öffentliche Ordnung sicherzustellen und zu diesem Zweck über die kantonalen Truppen zu verfügen; h. die Gesetze, Dekrete und Beschlüsse sowie die Gerichtsurteile zu vollziehen; i. die Arbeit der Behörden zu koordinieren und die Verwaltung in den Schranken des Gesetzes zu organisieren; j. die Aufsicht über die Gemeinden auszuüben; k. die Aufsicht über die selbständigen kantonalen Anstalten auszuüben; l. über die Klagen und Beschwerden in den vom Gesetz bestimmten Fällen zu entscheiden; m. das Kantonsbürgerrecht zu erteilen; n. unter Vorbehalt der Befugnisse des Parlaments in den Vernehmlassungsverfahren der Bundesbehörden Stellung zu nehmen; o. die eidgenössischen Parlamentarier regelmässig zu konsultieren und zu informieren; p. jede andere Befugnis auszuüben, die ihr das Gesetz einräumt oder die keiner bestimmten Behörde zugewiesen ist."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "4. Die Regierung",
+      "section": "93",
+      "title": "Zusammensetzung und Wahl",
+      "content": "1 Die Regierung setzt sich aus fünf Mitgliedern zusammen. 2 Für die Wahl der Regierung bildet der Kanton einen einzigen Wahlkreis."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Präsident und Vizepräsident",
+      "content": "Der Präsident und der Vizepräsident der Regierung werden vom Parlament gewählt."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Kollegialitätsprinzip",
+      "content": "1 Die Regierung handelt als Kollegialbehörde. 2 Die wichtigen Geschäfte fallen immer in ihre Zuständigkeit."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Departemente",
+      "content": "1 Jedes Regierungsmitglied leitet ein Departement, dessen Aufgaben das Gesetz bestimmt. 2 Die Koordination zwischen den Departementen muss sichergestellt sein."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Beziehung zum Parlament",
+      "content": "1 Die Regierung kann dem Parlament Anträge unterbreiten. 2 Sie nimmt an den Sitzungen des Parlaments teil und kann sich zu jedem Gegenstand äussern."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Konsultativrat der auswärtigen Jurassier",
+      "content": "Der Staat schafft einen Konsultativrat der Jurassier, die ausserhalb des Kantons Wohnsitz haben."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Verwaltung",
+      "content": "1 Jeder Beamte steht im Dienst des Volkes. 2 Die Verwaltung muss wirksam und wirtschaftlich seih."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Selbständige Anstalten oder Einrichtungen",
+      "content": "Das Gesetz kann bestimmte Staatsaufgaben selbständigen Anstalten oder Einrichtungen übertragen."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "5. Die richterlichen Behörden",
+      "section": "101",
+      "title": "Unabhängigkeit",
+      "content": "Die Gerichte sind unabhängig."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "5. Die richterlichen Behörden",
+      "section": "102",
+      "title": "Erstinstanzliches Gericht",
+      "content": "1 Die erstinstanzliche Gerichtsbarkeit wird für das ganze Kantonsgebiet vom Gericht erster Instanz ausgeübt. 2 Das Kantonsgericht entscheidet erstinstanzlich in den vom Gesetz vorgesehenen Fällen. Angenommen in der Volksabstimmung vom 29. Nov. 1998 , in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ( BBl 2000 3643 Art. 1 Ziff. 9 1107 ). Angenommen in der Volksabstimmung vom 30. Nov. 2008 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ( BBl 2009 9137 Art. 1 Ziff. 5 5961 )."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "5. Die richterlichen Behörden",
+      "section": "103",
+      "title": "Kantonsgericht",
+      "content": "Die zweitinstanzliche Gerichtsbarkeit wird vom Kantonsgericht ausgeübt. Angenommen in der Volksabstimmung vom 30. Nov. 2008 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ( BBl 2009 9137 Art. 1 Ziff. 5 5961 )."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "5. Die richterlichen Behörden",
+      "section": "104",
+      "title": "Verfassungsgerichtshof",
+      "content": "1 Der Verfassungsgerichtshof des Kantonsgerichts überprüft die Verfassungsmässigkeit der Gesetze auf Antrag und vor deren Inkrafttreten. 2 Er beurteilt in den Schranken des Gesetzes: a. Streitigkeiten über die Rechtmässigkeit kantonaler und kommunaler Dekrete, Beschlüsse, Verordnungen und Reglemente; b. Streitigkeiten über die Autonomie der Gemeinden, der anerkannten Kirchen und ihrer Kirchgemeinden; c. Streitigkeiten über die Ausübung der politischen Rechte, über die Gültigkeit kantonaler Wahlen und Abstimmungen und, auf Beschwerde hin, über die Gültigkeit von Wahlen und Abstimmungen in den Bezirken und den Gemeinden; d. Kompetenzstreitigkeiten zwischen kantonalen Behörden, sofern der Verfassungsgerichtshof nicht selber Partei ist; e. die anderen im Gesetz genannten Streitigkeiten. Angenommen in der Volksabstimmung vom 30. Nov. 2008 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ( BBl 2009 9137 Art. 1 Ziff. 5 5961 )."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "5. Die richterlichen Behörden",
+      "section": "105",
+      "title": "Jugendliche",
+      "content": "Der Jugendschutz untersteht in Strafsachen einer besonderen Gerichtsbarkeit."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Strafuntersuchung und Staatsanwaltschaft",
+      "content": "Die Strafverfolgung wird von der Staatsanwaltschaft wahrgenommen. Angenommen in der Volksabstimmung vom 30. Nov. 2008 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ( BBl 2009 9137 Art. 1 Ziff. 5 5961 )."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Organisation, Befugnisse und Verfahren",
+      "content": "Das Gesetz regelt die Einzelheiten der Wahl der richterlichen Behörden, ihrer Organisation, ihrer Befugnisse sowie das Verfahrensrecht unter Vorbehalt des Bundesrechts. Angenommen in der Volksabstimmung vom 30. Nov. 2008 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ( BBl 2009 9137 Art. 1 Ziff. 5 5961 )."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "1. Die Bezirke",
+      "section": "108",
+      "title": "Rechtsstellung",
+      "content": "1 Die Bezirke sind kantonale Verwaltungskreise. 2 Das Gesetz regelt ihre Organisation. 3 Es bestimmt die Art der Wahl ihrer Behörden und deren Aufgaben. 4 … Angenommen in der Volksabstimmung vom 29. Nov. 1998 , in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss der BVers vom 14. Juni 2000 ( BBl 2000 3643 Art. 1 Ziff. 9 1107 ). Aufgehoben in der Volksabstimmung vom 29. Nov. 1998 , mit Wirkung seit 1. Jan. 2001. Gewährleistungsbeschluss der BVers vom 14. Juni 2000 ( BBl 2000 3643 Art. 1 Ziff. 9 1107 )."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "1. Die Bezirke",
+      "section": "109",
+      "title": "Anzahl und Grenzen",
+      "content": "1 Das Kantonsgebiet ist in drei Bezirke eingeteilt: Delsberg, Freiberge, Pruntrut. 2 Die Grenzen der Bezirke werden durch das Gesetz festgelegt."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "2. Die Gemeinden",
+      "section": "110",
+      "title": "Rechtsnatur und Autonomie",
+      "content": "1 Die Gemeinden und die Gemeindeverbände sind Körperschaften des öffentlichen Rechts. 2 Ihr Bestand und ihre Autonomie sind in den Schranken der Verfassung und des Gesetzes gewährleistet."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "2. Die Gemeinden",
+      "section": "111",
+      "title": "Aufsicht",
+      "content": "1 Die Gemeinden stehen unter der Aufsicht der Regierung. 2 Die Regierung beaufsichtigt insbesondere ihre Finanzverwaltung und die Durchführung der ihnen von Bund und Kanton übertragenen Aufgaben. 3 Stellt die Regierung Unregelmässigkeiten fest, so trifft sie die vom Gesetz vorgesehenen Massnahmen. 4 In schwerwiegenden Fällen kann die Regierung die Gemeindeorgane suspendieren und durch eine ausserordentliche Verwaltung ersetzen. 5 Können die Gemeindeorgane nicht bestellt werden, so setzt die Regierung eine ausserordentliche Verwaltung ein."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "2. Die Gemeinden",
+      "section": "112",
+      "title": "Zusammenschluss, Teilung, Grenzänderung",
+      "content": "1 Die Gemeinden können ohne Zustimmung ihrer Stimmberechtigten und ohne Genehmigung des Parlaments weder ihre Grenzen ändern, noch sich zusammenschliessen, noch sich teilen oder einem anderen Bezirk angeschlossen werden. 2 Der Staat erleichtert den Zusammenschluss von Gemeinden. 3 In den vom Gesetz vorgesehenen Ausnahmefällen und unter den im Gesetz genannten Voraussetzungen kann das Parlament über den Zusammenschluss von zwei oder mehr Gemeinden oder über die Grenzänderung zwischen Gemeinden entscheiden."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "2. Die Gemeinden",
+      "section": "113",
+      "title": "Gemeindeverbände",
+      "content": "1 Die Gemeinden haben das Recht, sich für bestimmte Aufgaben von gemeinsamem Interesse in Verbänden zusammenzuschliessen, in die auch ausserkantonale Gemeinden aufgenommen werden können. 2 Die Gründungsurkunde und das Verbandsreglement müssen von den betreffenden Gemeinden angenommen und von der Regierung genehmigt werden. 3 Die Regierung übt über die Gemeindeverbände dieselbe Aufsicht aus wie über die Gemeinden. 4 In den vom Gesetz vorgesehenen Fällen kann die Regierung die Gründung eines Gemeindeverbands beschliessen und dessen Gründungsurkunde und Reglement erstellen."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "2. Die Gemeinden",
+      "section": "114",
+      "title": "Aufgaben",
+      "content": "Die Einwohnergemeinde nimmt die örtlichen Aufgaben wahr, für die weder der Bund noch der Kanton zuständig sind."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "2. Die Gemeinden",
+      "section": "115",
+      "title": "Organisation",
+      "content": "1 Die Einwohnergemeinde gibt sich ein Organisationsreglement. 2 Dieses Reglement muss von den stimmberechtigten Einwohnern angenommen und von der Regierung genehmigt werden. 3 Die Regierung erteilt ihre Genehmigung, wenn das Reglement mit der Verfassung und dem Gesetz übereinstimmt."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Organe",
+      "content": "Die Einwohnergemeinde muss die folgenden Organe haben: a. die stimmberechtigten Einwohner; b. den Gemeinderat; c. die vom Gesetz bestimmten ständigen Kommissionen."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Stimmberechtigte Einwohner",
+      "content": "1 Die Gemeindesouveränität steht den stimmberechtigten Einwohnern zu. 2 Die stimmberechtigten Einwohner äussern ihren Willen in der Gemeindeversammlung oder durch Urnenabstimmung. 3 Die Befugnisse der stimmberechtigten Einwohner, die Organisation und der Geschäftsgang der Gemeindeversammlung, die Urnenabstimmungen und das Initiativrecht werden durch das Gesetz geregelt, das auf das Gemeindereglement verweisen kann."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Generalrat",
+      "content": "1 Die Gemeindeversammlung kann durch einen Generalrat ersetzt werden. 2 Die Wahl, die Befugnisse, die Organisation und der Geschäftsgang des Generalrats sowie das Referendumsrecht gegen seine Entscheidungen werden durch das Gesetz geregelt, das auf das Gemeindereglement verweisen kann."
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Gemeinderat",
+      "content": "1 Der Gemeinderat ist die vollziehende und verwaltende Behörde der Einwohnergemeinde. 2 Der Gemeindepräsident hat den Vorsitz. 3 Die Wahl, die Befugnisse, die Organisation und der Geschäftsgang des Gemeinderats werden durch das Gesetz geregelt, das auf das Gemeindereglement verweisen kann."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "",
+      "content": "Im Kanton gibt es ausser den Einwohnergemeinden gemischte Gemeinden, Bürgergemeinden und Teilgemeinden, deren Rechtsstellung das Gesetz bestimmt."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "1. Steuern und Abgaben",
+      "section": "121",
+      "title": "Steuerhoheit",
+      "content": "1 Der Staat und die Gemeinden erheben die zur Erfüllung ihrer Aufgaben notwendigen Steuern und anderen öffentlichen Abgaben. 2 Die öffentlichen Abgaben werden durch Gesetz eingeführt und in den Grundzügen geregelt."
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "1. Steuern und Abgaben",
+      "section": "122",
+      "title": "Steuerpflicht",
+      "content": "Die Steuerpflichtigen beteiligen sich solidarisch, entsprechend ihrer wirtschaftlichen Leistungsfähigkeit, an den Lasten des Staates und der Gemeinden."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "2. Die Verwaltung der öffentlichen Finanzen",
+      "section": "123",
+      "title": "Allgemeine Bestimmungen",
+      "content": "1 Der Staat und die Gemeinden müssen wirtschaftlich verwaltet werden. 2 Der Staat berücksichtigt bei der Verwaltung seiner Finanzen die Bedürfnisse des ganzen Kantons. 3 Der Staat und die Gemeinden erstellen Finanzpläne, die von der Planung der öffentlichen Aufgaben ausgehen. 4 Das Gesetz regelt die Grundsätze der Verwaltung der öffentlichen Finanzen. 5 Der Staat organisiert die Kontrolle der Kantons- und der Gemeindefinanzen."
+    },
+    {
+      "provision_ref": "art123a",
+      "chapter": "2. Die Verwaltung der öffentlichen Finanzen",
+      "section": "123a",
+      "title": "a Schuldenbremse",
+      "content": "1 Das Staatsbudget muss einen Selbstfinanzierungsgrad von 80 % oder höher aufweisen. 2 Im Falle eines Bilanzfehlbetrags oder falls die Bruttoschuld um das Anderthalbfache höher ist als der für die kantonalen Steuereinnahmen budgetierte Betrag, muss der Selbstfinanzierungsgrad mindestens 100 % betragen. 3 Das Parlament kann mit einer Mehrheit von mindestens zwei Dritteln der Stimmen der Parlamentsmitglieder von den Absätzen 1 und 2 abweichen, wenn ausserordentliche Umstände dies erfordern; es kann indessen nicht während zweier aufeinander folgender Jahre davon abweichen. 4 Falls eine Mehrheit von zwei Dritteln der Parlamentsmitglieder nicht erreicht werden kann oder wenn das Parlament von den Absätzen 1 und 2 im Vorjahr abgewichen ist, muss ein Staatsbudget, welches deren Anforderungen nicht entspricht, obligatorisch dem Volk zur Abstimmung unterbreitet werden. 5 Nimmt das Volk das Staatsbudget an, so kann die Ausnahmeregelung im Sinne von Absatz 3 auf das nächste Budget wieder Anwendung finden. 6 Lehnt das Volk das Staatsbudget ab, so arbeitet das Parlament ein neues aus. Falls dieses den Anforderungen der Absätze 1 und 2 nicht entspricht, ist es obligatorisch dem Volk zur Abstimmung zu unterbreiten. 7 Im Weiteren regelt das Gesetz die Einzelheiten der Schuldenbremse. Angenommen in der Volksabstimmung vom 17. Mai 2009 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Dez. 2010 ( BBl 2011 257 Art. 1 Ziff. 5, 2010 4901 )."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "2. Die Verwaltung der öffentlichen Finanzen",
+      "section": "124",
+      "title": "Öffentlichkeit von Rechnung und Voranschlag",
+      "content": "Voranschlag und Rechnung des Staates, der Gemeinden, der Gemeindeverbände, ihrer Anstalten und Einrichtungen sind öffentlich."
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "2. Die Verwaltung der öffentlichen Finanzen",
+      "section": "125",
+      "title": "Finanzierung",
+      "content": "Mit jedem Entwurf eines Gesetzes, Dekrets oder Beschlusses, der Ausgaben zur Folge hat, wird ein Finanzierungsplan vorgelegt."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "3. Der Finanzausgleich",
+      "section": "126",
+      "title": "",
+      "content": "Der Staat trifft Massnahmen, um die Ungleichheiten zwischen Gemeinden mit unterschiedlicher Wirtschafts- und Finanzkraft zu mildern."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "4. Die selbständigen Wirtschaftseinrichtungen",
+      "section": "127",
+      "title": "Kantonalbank",
+      "content": "1 Der Staat errichtet eine Kantonalbank, die seiner Aufsicht untersteht. 2 Er bürgt für ihre Verbindlichkeiten. 3 Die Kantonalbank unterstützt die Wirtschaftspolitik des Kantons."
+    },
+    {
+      "provision_ref": "art128",
+      "chapter": "4. Die selbständigen Wirtschaftseinrichtungen",
+      "section": "128",
+      "title": "Andere Einrichtungen",
+      "content": "Der Staat, die Gemeinden und die Gemeindeverbände können sich an Wirtschaftsunternehmen beteiligen oder solche Unternehmen gründen."
+    },
+    {
+      "provision_ref": "art129",
+      "chapter": "5. Die Regalien",
+      "section": "129",
+      "title": "",
+      "content": "Das Bergregal und das Salzregal sind dem Staat vorbehalten."
+    },
+    {
+      "provision_ref": "art130",
+      "chapter": "VII. Kirche und Staat",
+      "section": "130",
+      "title": "Anerkannte Kirchen",
+      "content": "1 Die römisch-katholische Kirche und die evangelisch-reformierte Kirche des Kantons sind als Körperschaften des öffentlichen Rechts anerkannt. 2 Das Parlament kann andere Kirchen von Bedeutung und dauerndem Bestand als Körperschaften des öffentlichen Rechts anerkennen. 3 Die anderen religiösen Gemeinschaften unterstehen dem Privatrecht."
+    },
+    {
+      "provision_ref": "art131",
+      "chapter": "VII. Kirche und Staat",
+      "section": "131",
+      "title": "Autonomie",
+      "content": "1 Die anerkannten Kirchen organisieren sich selbständig. 2 Jede anerkannte Kirche gibt sich eine Kirchenverfassung, die von ihren Mitgliedern angenommen und von der Regierung genehmigt werden muss. 3 Die Regierung muss die Kirchenverfassung genehmigen, wenn sie nach demokratischen Grundsätzen angenommen worden ist und mit der Verfassung und dem Gesetz übereinstimmt."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "VII. Kirche und Staat",
+      "section": "132",
+      "title": "Mitgliedschaft in einer anerkannten Kirche",
+      "content": "1 Jeder Einwohner des Kantons gehört der Kirche seines Bekenntnisses an, wenn er deren Bedingungen erfüllt. 2 Jedes Mitglied einer anerkannten Kirche kann schriftlich seinen Austritt erklären."
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "VII. Kirche und Staat",
+      "section": "133",
+      "title": "Kirchgemeinden",
+      "content": "1 Die anerkannten Kirchen teilen das Kantonsgebiet nach den Bestimmungen ihrer Kirchenverfassung in Kirchgemeinden ein. 2 Die Kirchgemeinden sind Körperschaften des öffentlichen Rechts."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "VII. Kirche und Staat",
+      "section": "134",
+      "title": "Finanzen",
+      "content": "1 Die anerkannten Kirchen oder ihre Kirchgemeinden können Steuern in Form von Zuschlägen auf den vom Gesetz näher bestimmten Steuern erheben. 2 Der Staat und die Gemeinden wirken durch ihre Verwaltung bei der Erhebung der Kirchensteuern mit. 3 Entscheide der anerkannten Kirchen oder deren Kirchgemeinden in Steuersachen unterliegen der Beschwerde gemäss dem anwendbaren Recht. 4 Das Gesetz bestimmt, in welchen Fällen der Staat den Kirchen Beiträge leistet. Angenommen in der Volksabstimmung vom 30. Nov. 2008 , in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 10. Dez. 2009 ( BBl 2009 9137 Art. 1 Ziff. 5 5961 )."
+    },
+    {
+      "provision_ref": "art135",
+      "chapter": "VIII. Revision der Verfassung",
+      "section": "135",
+      "title": "Grundsatz",
+      "content": "1 Die Verfassung kann ganz oder teilweise geändert werden. 2 Jede Revision muss der Volksabstimmung unterbreitet werden."
+    },
+    {
+      "provision_ref": "art136",
+      "chapter": "VIII. Revision der Verfassung",
+      "section": "136",
+      "title": "Teilrevision",
+      "content": "1 Die Teilrevision wird nach dem Gesetzgebungsverfahren durchgeführt. 2 Sie kann einen oder mehrere Artikel umfassen. 3 Sie darf nur einen Gegenstand betreffen."
+    },
+    {
+      "provision_ref": "art137",
+      "chapter": "VIII. Revision der Verfassung",
+      "section": "137",
+      "title": "Totalrevision",
+      "content": "1 Die Totalrevision der Verfassung wird dem Volk durch Volksinitiative oder durch das Parlament beantragt. 2 Ein Verfassungszusatz regelt die Einzelheiten. 3 Wird der Verfassungszusatz abgelehnt, so unterbreitet das Parlament dem Volk innert eines Jahres einen neuen Entwurf."
+    },
+    {
+      "provision_ref": "art138",
+      "chapter": "VIII. Revision der Verfassung",
+      "section": "138",
+      "title": "",
+      "content": "Art. 138 hat die Gewährleistung des Bundes nicht erhalten."
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "VIII. Revision der Verfassung",
+      "section": "139",
+      "title": "Verfahren zur Schaffung eines neuen Kantons",
+      "content": "Die Regierung ist ermächtigt, unter Beachtung des Bundesrechts und des Rechts der betroffenen Kantone ein Verfahren zur Schaffung eines neuen Kantons einzuleiten, der das Gebiet des Berner Jura und dasjenige des Kantons Jura umfasst. Angenommen in der Volksabstimmung vom 24. Nov. 2013 , in Kraft seit 24. Nov. 2013. Gewährleistungsbeschluss vom 11. März 2015 ( BBl 2015 3035 Art. 1 Ziff. 10, 2014 9091 )."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,201 @@
+{
+  "id": "sr-0-235-1",
+  "type": "statute",
+  "title": "Übereinkommen vom 28. Januar 1981 zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2002/422/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Kapitel I Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Zweck",
+      "content": "Zweck dieses Übereinkommens ist es, im Hoheitsgebiet jeder Vertragspartei für jedermann ungeachtet seiner Staatsangehörigkeit oder seines Wohnorts sicherzustellen, dass seine Rechte und Grundfreiheiten, insbesondere sein Recht auf einen Persönlichkeitsbereich, bei der automatischen Verarbeitung personenbezogener Daten geschützt werden («Datenschutz»)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Kapitel I Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffsbestimmungen",
+      "content": "In diesem Übereinkommen a. bedeutet «personenbezogene Daten» jede Information über eine bestimmte oder bestimmbare natürliche Person («Betroffener»); b. bedeutet «automatisierte Datei/Datensammlung» jede zur automatischen Verarbeitung erfasste Gesamtheit von Informationen; c. umfasst «automatische Verarbeitung» die folgenden Tätigkeiten, wenn sie ganz oder teilweise mit Hilfe automatisierter Verfahren durchgeführt werden: das Speichern von Daten, das Durchführen logischer und/oder rechnerischer Operationen mit diesen Daten, das Verändern, Löschen, Wiedergewinnen oder Bekanntgeben von Daten; d. bedeutet «Verantwortlicher für die Datei/Datensammlung» die natürliche oder juristische Person, die Behörde, die Einrichtung oder jede andere Stelle, die nach dem innerstaatlichen Recht zuständig ist, darüber zu entscheiden, welchen Zweck die automatisierte Datei/Datensammlung haben soll, welche Arten personenbezogener Daten gespeichert und welche Verarbeitungsverfahren auf sie angewendet werden sollen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Kapitel I Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Geltungsbereich",
+      "content": "1. Die Vertragsparteien verpflichten sich, dieses Übereinkommen auf automatisierte Dateien/Datensammlungen und automatische Verarbeitungen von personenbezogenen Daten im öffentlichen und privaten Bereich anzuwenden. 2. Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde oder jederzeit danach durch Erklärung an den Generalsekretär des Europarats bekanntgeben, a. dass er dieses Übereinkommen auf bestimmte Arten von automatisierten Dateien/Datensammlungen mit personenbezogenen Daten nicht anwendet, und hinterlegt ein Verzeichnis dieser Arten. In das Verzeichnis darf er jedoch Arten automatisierter Dateien/Datensammlungen nicht aufnehmen, die nach seinem innerstaatlichen Recht Datenschutzvorschriften unterliegen. Er ändert dieses Verzeichnis durch eine neue Erklärung, wenn weitere Arten von automatisierten Dateien/Datensammlungen mit personenbezogenen Daten seinen innerstaatlichen Datenschutzvorschriften unterstellt werden; b. dass er dieses Übereinkommen auch auf Informationen über Personengruppen, Vereinigungen, Stiftungen, Gesellschaften, Körperschaften oder andere Stellen anwendet, die unmittelbar oder mittelbar aus natürlichen Personen bestehen, unabhängig davon, ob diese Stellen Rechtspersönlichkeit besitzen oder nicht; c. dass er dieses Übereinkommen auch auf Dateien/Datensammlungen mit personenbezogenen Daten anwendet, die nicht automatisch verarbeitet werden. 3. Jeder Staat, der den Geltungsbereich dieses Übereinkommens durch eine Erklärung nach Absatz 2 Buchstabe b oder c erweitert hat, kann in dieser Erklärung bekannt geben, dass die Erweiterung nur für bestimmte Arten von Dateien/Datensammlungen mit personenbezogenen Daten gilt; er hinterlegt ein Verzeichnis dieser Arten. 4. Hat eine Vertragspartei bestimmte Arten von automatisierten Dateien/Datensammlungen mit personenbezogenen Daten durch eine Erklärung nach Absatz 2 Buchstabe a ausgeschlossen, so kann sie nicht verlangen, dass eine Vertragspartei, die diese Arten nicht ausgeschlossen hat, das Übereinkommen auf diese Arten anwendet. 5. Ebenso kann eine Vertragspartei, die keine Erweiterung nach Absatz 2 Buchstabe b oder c vorgenommen hat, in diesen Punkten die Anwendung dieses Übereinkommens nicht verlangen von einer Vertragspartei, die eine solche Erweiterung vorgenommen hat. 6. Die Erklärungen nach Absatz 2 werden mit Inkrafttreten des Übereinkommens für den Staat wirksam, der sie abgegeben hat, wenn sie im Zeitpunkt der Unterzeichnung oder der Hinterlegung seiner Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde abgegeben worden sind, oder drei Monate nach ihrem Eingang beim Generalsekretär des Europarats, wenn sie später abgegeben worden sind. Diese Erklärungen können ganz oder teilweise durch Notifikation an den Generalsekretär des Europarats zurückgenommen werden. Die Zurücknahme wird drei Monate nach Eingang der Notifikation wirksam."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Kapitel II Grundsätze für den Datenschutz",
+      "section": "4",
+      "title": "Pflichten der Vertragsparteien",
+      "content": "1. Jede Vertragspartei trifft in ihrem innerstaatlichen Recht die erforderlichen Massnahmen, um die in diesem Kapitel aufgestellten Grundsätze für den Datenschutz zu verwirklichen. 2. Jede Vertragspartei trifft diese Massnahmen spätestens zu dem Zeitpunkt, zu dem dieses Übereinkommen für sie in Kraft tritt."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Kapitel II Grundsätze für den Datenschutz",
+      "section": "5",
+      "title": "Qualität der Daten",
+      "content": "Personenbezogene Daten, die automatisch verarbeitet werden, a. müssen nach Treu und Glauben und auf rechtmässige Weise beschafft sein und verarbeitet werden; b. müssen für festgelegte und rechtmässige Zwecke gespeichert sein und dürfen nicht so verwendet werden, dass es mit diesen Zwecken unvereinbar ist; c. müssen den Zwecken, für die sie gespeichert sind, entsprechen, dafür erheblich sein und dürfen nicht darüber hinausgehen; d. müssen sachlich richtig und wenn nötig auf den neuesten Stand gebracht sein; e. müssen so aufbewahrt werden, dass der Betroffene nicht länger identifiziert werden kann, als es die Zwecke, für die sie gespeichert sind, erfordern."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Kapitel II Grundsätze für den Datenschutz",
+      "section": "6",
+      "title": "Besondere Arten von Daten",
+      "content": "Personenbezogene Daten, welche die rassische Herkunft, politische Anschauungen oder religiöse oder andere Überzeugungen erkennen lassen, sowie personenbezogene Daten, welche die Gesundheit oder das Sexualleben betreffen, dürfen nur automatisch verarbeitet werden, wenn das innerstaatliche Recht einen geeigneten Schutz gewährleistet. Dasselbe gilt für personenbezogene Daten über Strafurteile."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Kapitel II Grundsätze für den Datenschutz",
+      "section": "7",
+      "title": "Datensicherung",
+      "content": "Für den Schutz personenbezogener Daten, die in automatisierten Dateien/Datensammlungen gespeichert sind, werden geeignete Sicherungsmassnahmen getroffen gegen die zufällige oder unbefugte Zerstörung, gegen zufälligen Verlust sowie unbefugten Zugang, unbefugte Veränderung oder unbefugtes Bekanntgeben."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Kapitel II Grundsätze für den Datenschutz",
+      "section": "8",
+      "title": "Zusätzlicher Schutz für den Betroffenen",
+      "content": "Jedermann muss die Möglichkeit haben, a. das Vorhandensein einer automatisierten Datei/Datensammlung mit personenbezogenen Daten, ihre Hauptzwecke sowie die Bezeichnung, den gewöhnlichen Aufenthaltsort oder den Sitz des Verantwortlichen für die Datei/Datensammlung festzustellen; b. in angemessenen Zeitabständen und ohne unzumutbare Verzögerung oder übermässige Kosten die Bestätigung zu erhalten, ob Daten über ihn in einer automatisierten Datei/Datensammlung mit personenbezogenen Daten gespeichert sind, sowie zu erwirken, dass ihm diese Daten in verständlicher Form mitgeteilt werden; c. gegebenenfalls diese Daten berichtigen oder löschen zu lassen, wenn sie entgegen den Vorschriften des innerstaatlichen Rechts verarbeitet worden sind, welche die Grundsätze der Artikel 5 und 6 verwirklichen; d. über ein Rechtsmittel zu verfügen, wenn seiner Forderung nach Bestätigung oder gegebenenfalls nach Mitteilung, Berichtigung oder Löschung im Sinne der Buchstaben b und c nicht entsprochen wird."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Kapitel II Grundsätze für den Datenschutz",
+      "section": "9",
+      "title": "Ausnahmen und Einschränkungen",
+      "content": "1. Ausnahmen von den Artikeln 5, 6 und 8 sind nicht zulässig, abgesehen von den in diesem Artikel vorgesehenen. 2. Eine Abweichung von den Artikeln 5, 6 und 8 ist zulässig, wenn sie durch das Recht der Vertragspartei vorgesehen und in einer demokratischen Gesellschaft eine notwendige Massnahme ist a. zum Schutz der Sicherheit des Staates, der öffentlichen Sicherheit sowie der Währungsinteressen des Staates oder zur Bekämpfung von Straftaten; b. zum Schutz des Betroffenen oder der Rechte und Freiheiten Dritter. 3. Die Ausübung der Rechte nach Artikel 8 Buchstabe b, c und d kann durch Gesetz für automatisierte Dateien/Datensammlungen mit personenbezogenen Daten eingeschränkt werden, die Zwecken der Statistik oder der wissenschaftlichen Forschung dienen, wenn offensichtlich keine Gefahr besteht, dass der Persönlichkeitsbereich der Betroffenen beeinträchtigt wird."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Sanktionen und Rechtsmittel",
+      "content": "Jede Vertragspartei verpflichtet sich, geeignete Sanktionen und Rechtsmittel für Verletzungen der Vorschriften des innerstaatlichen Rechts, welche die in diesem Kapitel aufgestellten Grundsätze für den Datenschutz verwirklichen, festzulegen."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Weitergehender Schutz",
+      "content": "Dieses Kapitel ist nicht so auszulegen, als ob es die Möglichkeit begrenze oder auf andere Weise beeinträchtige, dass eine Vertragspartei den Betroffenen ein grösseres Mass an Schutz als das in diesem Übereinkommen vorgeschriebene gewährt."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Kapitel III Grenzüberschreitender Datenverkehr",
+      "section": "12",
+      "title": "Grenzüberschreitender Verkehr personenbezogener Daten und innerstaatliches Recht",
+      "content": "1. Werden personenbezogene Daten, die automatisch verarbeitet werden oder für eine solche Verarbeitung beschafft worden sind, – mittels welcher Datenträger auch immer – über die Staatsgrenzen hinweg weitergegeben, so finden die folgenden Bestimmungen Anwendung. 2. Eine Vertragspartei darf allein zum Zweck des Schutzes des Persönlichkeitsbereichs den grenzüberschreitenden Verkehr personenbezogener Daten in das Hoheitsgebiet einer anderen Vertragspartei nicht verbieten oder von einer besonderen Genehmigung abhängig machen. 3. Jede Vertragspartei ist jedoch berechtigt, von Absatz 2 abzuweichen, a. soweit ihr Recht für bestimmte Arten von personenbezogenen Daten oder automatisierten Dateien/Datensammlungen mit personenbezogenen Daten wegen der Beschaffenheit dieser Arten besondere Vorschriften enthält, es sei denn, die Vorschriften der anderen Vertragspartei sehen einen gleichwertigen Schutz vor; b. um zu verhindern, dass ihr Recht dadurch umgangen wird, dass eine Weitergabe aus ihrem Hoheitsgebiet in das Hoheitsgebiet einer Nichtvertragspartei auf dem Weg über das Hoheitsgebiet einer anderen Vertragspartei erfolgt."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Kapitel IV Gegenseitige Hilfeleistung",
+      "section": "13",
+      "title": "Zusammenarbeit zwischen den Vertragsparteien",
+      "content": "1. Die Vertragsparteien verpflichten sich, einander bei der Durchführung dieses Übereinkommens Hilfe zu leisten. 2. Zu diesem Zweck a. bezeichnet jede Vertragspartei eine oder mehrere Behörden und teilt deren amtliche Bezeichnung und Anschrift dem Generalsekretär des Europarats mit; b. legt jede Vertragspartei, die mehrere Behörden bezeichnet hat, die Zuständigkeit jeder Behörde fest und gibt sie in ihrer Mitteilung nach Buchstabe a an. 3. Eine bezeichnete Behörde einer Vertragspartei wird auf Ersuchen einer bezeichneten Behörde einer anderen Vertragspartei a. Auskünfte über Recht und Verwaltungspraxis im Bereich des Datenschutzes erteilen; b. in Übereinstimmung mit dem innerstaatlichen Recht und allein zum Zweck des Schutzes des Persönlichkeitsbereichs alle geeigneten Massnahmen treffen, um Sachauskünfte über eine bestimmte automatische Verarbeitung, die in ihrem Hoheitsgebiet durchgeführt wird, zu erteilen, jedoch mit Ausnahme der dabei verarbeiteten personenbezogenen Daten."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Kapitel IV Gegenseitige Hilfeleistung",
+      "section": "14",
+      "title": "Unterstützung von Betroffenen, die im Ausland wohnen",
+      "content": "1. Jede Vertragspartei unterstützt Personen, die im Ausland wohnen, bei der Ausübung der Rechte, die ihnen nach dem innerstaatlichen Recht zustehen, das die in Artikel 8 aufgestellten Grundsätze verwirklicht. 2. Eine im Hoheitsgebiet einer anderen Vertragspartei wohnende Person kann ihren Antrag über die bezeichnete Behörde dieser Vertragspartei stellen. 3. Der Antrag auf Unterstützung muss alle erforderlichen Angaben enthalten, insbesondere über a. den Namen, die Anschrift und alle anderen für die Identifizierung des Antragstellers erheblichen Einzelheiten; b. die automatisierte Datei/Datensammlung mit personenbezogenen Daten oder den dafür Verantwortlichen, auf die sich der Antrag bezieht; c. den Zweck des Antrags."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Kapitel IV Gegenseitige Hilfeleistung",
+      "section": "15",
+      "title": "Sicherheiten bei Hilfeleistung durch bezeichnete Behörden",
+      "content": "1. Hat eine bezeichnete Behörde einer Vertragspartei von einer bezeichneten Behörde einer anderen Vertragspartei Auskünfte erhalten, die einem Antrag auf Unterstützung dienen oder Antwort auf ein eigenes Ersuchen geben, so darf sie diese Auskünfte nur zu den Zwecken verwenden, die dem Antrag oder Ersuchen zugrunde liegen. 2. Jede Vertragspartei sorgt dafür, dass die Personen, die der bezeichneten Behörde angehören oder in ihrem Namen handeln, durch entsprechende Verpflichtungen zur Geheimhaltung oder zur vertraulichen Behandlung dieser Auskünfte gebunden werden. 3. Es ist einer bezeichneten Behörde in keinem Fall erlaubt, nach Artikel 14 Absatz 2 im Namen eines im Ausland wohnenden Betroffenen von sich aus und ohne dessen ausdrückliche Zustimmung einen Antrag auf Unterstützung zu stellen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Kapitel IV Gegenseitige Hilfeleistung",
+      "section": "16",
+      "title": "Ablehnung von Ersuchen und Anträgen",
+      "content": "Eine bezeichnete Behörde, an die nach Artikel 13 ein Ersuchen oder nach Artikel 14 ein Antrag gerichtet wird, kann nur ablehnen, ihnen stattzugeben, wenn a. sie mit den Befugnissen der für die Beantwortung zuständigen Behörden auf dem Gebiet des Datenschutzes nicht vereinbar sind; b. sie den Bestimmungen dieses Übereinkommens nicht entsprechen; c. ihre Erfüllung mit der Souveränität, der Sicherheit oder der öffentlichen Ordnung der Vertragspartei, die sie bezeichnet hat, oder mit den Rechten und Grundfreiheiten der Personen, die der Gerichtsbarkeit dieser Vertragspartei unterstehen, nicht vereinbar wäre."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Kapitel IV Gegenseitige Hilfeleistung",
+      "section": "17",
+      "title": "Kosten und Verfahren",
+      "content": "1. Für Hilfe, welche die Vertragsparteien einander nach Artikel 13 leisten, oder für Unterstützung, die sie Betroffenen im Ausland nach Artikel 14 leisten, werden keine Auslagen oder Gebühren ausser für Sachverständige und Dolmetscher erhoben. Diese Auslagen oder Gebühren werden von der Vertragspartei getragen, welche die ersuchende Behörde bezeichnet hat. 2. Der Betroffene kann nicht verpflichtet werden, für Schritte, die im Hoheitsgebiet einer anderen Vertragspartei für ihn unternommen werden, höhere Auslagen oder Gebühren zu zahlen, als von Personen erhoben werden können, die im Hoheitsgebiet der betreffenden Vertragspartei wohnen. 3. Die sonstigen Einzelheiten im Zusammenhang mit der Hilfeleistung oder Unterstützung, insbesondere hinsichtlich der Form und der Verfahren sowie der zu verwendenden Sprachen, werden unmittelbar zwischen den beteiligten Vertragsparteien festgelegt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Kapitel V Beratender Ausschuss",
+      "section": "18",
+      "title": "Zusammensetzung des Ausschusses",
+      "content": "1. Nach dem Inkrafttreten dieses Übereinkommens wird ein Beratender Ausschuss eingesetzt. 2. Jede Vertragspartei ernennt einen Vertreter und einen Stellvertreter für diesen Ausschuss. Jeder Mitgliedstaat des Europarats, der nicht Vertragspartei des Übereinkommens ist, hat das Recht, sich im Ausschuss durch einen Beobachter vertreten zu lassen. 3. Der Beratende Ausschuss kann durch einstimmigen Beschluss jeden Nichtmitgliedstaat des Europarats, der nicht Vertragspartei des Übereinkommens ist, einladen, sich durch einen Beobachter in einer seiner Sitzungen vertreten zu lassen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Kapitel V Beratender Ausschuss",
+      "section": "19",
+      "title": "Aufgaben des Ausschusses",
+      "content": "Der Beratende Ausschuss a. kann Vorschläge zur Erleichterung oder Verbesserung der Anwendung des Übereinkommens machen; b. kann in Übereinstimmung mit Artikel 21 Änderungen dieses Übereinkommens vorschlagen; c. nimmt zu jeder vorgeschlagenen Änderung dieses Übereinkommens Stellung, die ihm nach Artikel 21 Absatz 3 unterbreitet wird; d. kann auf Ersuchen einer Vertragspartei zu allen Fragen im Zusammenhang mit der Anwendung dieses Übereinkommens Stellung nehmen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Kapitel V Beratender Ausschuss",
+      "section": "20",
+      "title": "Verfahren",
+      "content": "1. Der Beratende Ausschuss wird vom Generalsekretär des Europarats einberufen. Seine erste Sitzung findet innerhalb von zwölf Monaten nach Inkrafttreten dieses Übereinkommens statt. Danach tritt er mindestens alle zwei Jahre sowie immer dann zusammen, wenn ein Drittel der Vertreter der Vertragsparteien dies verlangt. 2. Der Beratende Ausschuss ist in einer Sitzung beschlussfähig, wenn die Mehrheit der Vertreter der Vertragsparteien anwesend ist. 3. Im Anschluss an jede Sitzung unterbreitet der Beratende Ausschuss dem Ministerkomitee des Europarats einen Bericht über seine Arbeit und die Wirksamkeit des Übereinkommens. 4. In Übereinstimmung mit diesem Übereinkommen gibt sich der Beratende Ausschuss eine Geschäftsordnung."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Kapitel VI Änderungen",
+      "section": "21",
+      "title": "Änderungen",
+      "content": "1. Änderungen dieses Übereinkommens können von einer Vertragspartei, vom Ministerkomitee des Europarats oder vom Beratenden Ausschuss vorgeschlagen werden. 2. Der Generalsekretär des Europarats teilt jeden Änderungsvorschlag den Mitgliedstaaten des Europarats sowie jedem Nichtmitgliedstaat mit, der diesem Übereinkommen beigetreten ist oder der nach Artikel 23 eingeladen worden ist, ihm beizutreten. 3. Darüber hinaus wird jede von einer Vertragspartei oder vom Ministerkomitee vorgeschlagene Änderung dem Beratenden Ausschuss übermittelt; dieser teilt dem Ministerkomitee seine Stellungnahme zu der vorgeschlagenen Änderung mit. 4. Das Ministerkomitee prüft die vorgeschlagene Änderung und die Stellungnahme des Beratenden Ausschusses und kann die Änderung genehmigen. 5. Der Wortlaut einer Änderung, die das Ministerkomitee nach Absatz 4 genehmigt hat, wird den Vertragsparteien zur Annahme zugeleitet. 6. Eine nach Absatz 4 genehmigte Änderung tritt am dreissigsten Tag nach dem Zeitpunkt in Kraft, zu dem alle Vertragsparteien dem Generalsekretär ihre Annahme mitgeteilt haben."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Kapitel VII Schlussklauseln",
+      "section": "22",
+      "title": "Inkrafttreten",
+      "content": "1. Dieses Übereinkommen liegt für die Mitgliedstaaten des Europarats zur Unterzeichnung auf. Es bedarf der Ratifikation, Annahme oder Genehmigung. Die Ratifikations‑, Annahme- oder Genehmigungsurkunden werden beim Generalsekretär des Europarats hinterlegt. 2. Dieses Übereinkommen tritt am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach dem Tag folgt, an dem fünf Mitgliedstaaten des Europarats nach Absatz 1 ihre Zustimmung ausgedrückt haben, durch das Übereinkommen gebunden zu sein. 3. Für jeden Mitgliedstaat, der später seine Zustimmung ausdrückt, durch das Übereinkommen gebunden zu sein, tritt es am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung der Ratifikations‑, Annahme- oder Genehmigungsurkunde folgt."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Kapitel VII Schlussklauseln",
+      "section": "23",
+      "title": "Beitritt von Nichtmitgliedstaaten",
+      "content": "1. Nach Inkrafttreten dieses Übereinkommens kann das Ministerkomitee des Europarats durch einen mit der in Artikel 20 Buchstabe d der Satzung vorgesehenen Mehrheit und mit einhelliger Zustimmung der Vertreter der Vertragsstaaten, die Anspruch auf einen Sitz im Komitee haben, gefassten Beschluss jeden Nichtmitgliedstaat des Rates einladen, dem Übereinkommen beizutreten. 2. Für jeden beitretenden Staat tritt das Übereinkommen am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegen der Beitrittsurkunde beim Generalsekretär des Europarats folgt."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Kapitel VII Schlussklauseln",
+      "section": "24",
+      "title": "Räumlicher Geltungsbereich",
+      "content": "1. Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde einzelne oder mehrere Hoheitsgebiete bezeichnen, auf die dieses Übereinkommen Anwendung findet. 2. Jeder Staat kann jederzeit danach durch eine an den Generalsekretär des Europarats gerichtete Erklärung die Anwendung dieses Übereinkommens auf jedes weitere in der Erklärung bezeichnete Hoheitsgebiet erstrecken. Das Übereinkommen tritt für dieses Hoheitsgebiet am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Eingang der Erklärung beim Generalsekretär folgt. 3. Jede nach den Absätzen 1 und 2 abgegebene Erklärung kann in Bezug auf jedes darin bezeichnete Hoheitsgebiet durch eine an den Generalsekretär des Europarats gerichtete Notifikation zurückgenommen werden. Die Zurücknahme wird am ersten Tag des Monats wirksam, der auf einen Zeitabschnitt von sechs Monaten nach Eingang der Notifikation beim Generalsekretär folgt."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Kapitel VII Schlussklauseln",
+      "section": "25",
+      "title": "Vorbehalte",
+      "content": "Vorbehalte zu diesem Übereinkommen sind nicht zulässig."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Kapitel VII Schlussklauseln",
+      "section": "26",
+      "title": "Kündigung",
+      "content": "1. Jede Vertragspartei kann dieses Übereinkommen jederzeit durch eine an den Generalsekretär des Europarats gerichtete Notifikation kündigen. 2. Die Kündigung wird am ersten Tag des Monats wirksam, der auf einen Zeitabschnitt von sechs Monaten nach Eingang der Notifikation beim Generalsekretär folgt."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Kapitel VII Schlussklauseln",
+      "section": "27",
+      "title": "Notifikationen",
+      "content": "Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates und jedem Staat, der diesem Übereinkommen beigetreten ist: a. jede Unterzeichnung; b. jede Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde; c. jeden Zeitpunkt des Inkrafttretens dieses Übereinkommens nach den Artikeln 22, 23 und 24; d. jede andere Handlung, Notifikation oder Mitteilung im Zusammenhang mit diesem Übereinkommen."
+    }
+  ],
+  "definitions": []
+}

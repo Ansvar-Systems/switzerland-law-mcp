@@ -1,0 +1,496 @@
+{
+  "id": "sr-746-12",
+  "type": "statute",
+  "title": "Verordnung vom 4. Juni 2021 über Sicherheitsvorschriften für Rohrleitungsanlagen (Rohrleitungssicherheitsverordnung, RLSV)",
+  "title_en": "",
+  "short_name": "RLSV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2021/348/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Geltungsbereich",
+      "content": "1 Diese Verordnung gilt für die Projektierung, den Bau, den Betrieb und den Unterhalt der dem RLG unterstehenden Rohrleitungsanlagen. 2 Für die folgenden Leitungen gelten nur die Artikel 2, 3 Absätze 1 und 2 und 39 a sowie Anhang 1: a. Gasleitungen mit einem maximalen Betriebsdruck bis 5 bar; b. Wasserstoffleitungen, die die Voraussetzungen nach Artikel 3 Absatz 1 Buchstabe b der Rohrleitungsverordnung vom 26. Juni 2019 (RLV) nicht erfüllen. SR 746.11 Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ( AS 2025 386 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "1 Rohrleitungsanlagen bestehen aus Rohrleitungen und Nebenanlagen. 2 Ölleitungen sind Rohrleitungsanlagen für den Transport von flüssigen Brenn- oder Treibstoffen. 3 Gasleitungen sind Rohrleitungsanlagen für den Transport von gasförmigen Brenn- oder Treibstoffen. 3bis Wasserstoffleitungen sind Rohrleitungsanlagen, die ausschliesslich dem Transport von gasförmigem Wasserstoff dienen. 4 Für Rohrleitungen, die dem Transport von Stoffen dienen, die sowohl flüssig als auch gasförmig sein können, legt die technische Aufsichtsbehörde die Kategorie fest. 5 Nebenanlagen sind Einrichtungen (Installationen wie Pumpen und Speicher sowie Gebäude), die dem Betrieb von Rohrleitungen dienen. Die technische Aufsichtsbehörde legt im Einzelnen fest, welche Einrichtungen als Nebenanlagen gelten. 6 Alle Druckangaben sind als Überdruck zu verstehen. 7 Alle Distanzangaben bezeichnen die horizontale Entfernung zwischen dem äussersten Rand eines Objektes und der Rohraussenseite (lichte Weite). 8 Sicherheit bedeutet den Schutz der Rohrleitung vor innerer und äusserer Beschädigung, soweit der Begriff in einem besonderen Zusammenhang nicht anders definiert wird. Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ( AS 2025 386 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Regeln der Technik",
+      "content": "1 Die Rohrleitungsanlagen sind nach den Regeln der Technik von fachkundigen Personen zu projektieren, zu erstellen, zu betreiben und zu unterhalten. 2 Als Regeln der Technik gelten insbesondere die in Anhang 1 aufgeführten Richtlinien. 3 Das Departement für Umwelt, Verkehr, Energie und Kommunikation kann Anhang 1 den technischen und wirtschaftlichen Entwicklungen anpassen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Aufsicht",
+      "content": "1 Aufsichtsbehörde ist das Bundesamt für Energie (BFE). 2 Die technische Aufsicht obliegt dem Eidgenössischen Rohrleitungsinspektorat (ERI). 3 Bei Rohrleitungen, die von den Kantonen bewilligt werden, bestimmen die Kantone die für die Aufsicht zuständigen Behörden."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Abweichungen",
+      "content": "1 Die zuständige Aufsichtsbehörde kann im Einzelfall zum Schutz von Personen und Sachen zusätzliche Massnahmen anordnen, die über die Anforderungen dieser Verordnung hinausgehen. 2 Sie kann Ausnahmen zu den Vorschriften dieser Verordnung bewilligen, wenn die örtlichen Umstände oder neue technische Erkenntnisse dies erlauben und die Sicherheit gewährleistet bleibt."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Betriebsreglement",
+      "content": "Die Betreiber von Rohrleitungsanlagen (Betreiber) müssen in einem Betriebsreglement die für die Sicherheit der Rohrleitungsanlage und ihres Betriebes notwendigen Einzelheiten gemäss Artikel 26 RLV regeln. SR 746.11"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Trassee",
+      "section": "7",
+      "title": "Bauzonen",
+      "content": "1 Rohrleitungen dürfen nicht durch Bauzonen geführt werden. 2 Ausgenommen sind Rohrleitungen für die Versorgung solcher Gebiete; ihr maximal zulässiger Betriebsdruck darf jedoch in der Regel nicht mehr als 25 bar betragen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Trassee",
+      "section": "8",
+      "title": "Trassee der Rohrleitung",
+      "content": "1 Gebiete mit möglichen Gefährdungen der Anlage durch gravitative Naturgefahren wie Rutschung, Sturz, Lawine, Hochwasser, Einsturz und Hebung durch Grundwasser sowie andere Gebiete mit besonderen Gefahren sind nach Möglichkeit zu umfahren. 2 Bereits vorhandene oder geplante andere Leitungen oder Infrastrukturanlagen sind mit deren Betreibern und den zuständigen Behörden zu erheben und bei der Projektierung zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Sicherheitsabstände",
+      "section": "9",
+      "title": "Sicherheitsabstände im Allgemeinen",
+      "content": "1 Zwischen einer Rohrleitungsanlage und anderen Anlagen sind die für den sicheren Bau und Betrieb der Rohrleitungsanlage und den Schutz der anderen Anlagen nötigen Sicherheitsabstände einzuhalten. 2 Bei Mantelrohren bemessen sich die Sicherheitsabstände ab dem Mantelrohr."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Sicherheitsabstände",
+      "section": "10",
+      "title": "Sicherheitsabstände zu Dämmen, Einschnitten, Fundamenten und Bäumen",
+      "content": "Ein Sicherheitsabstand von mindestens 2 m ist einzuhalten zwischen einer Rohrleitungsanlage und: a. dem Böschungsfuss bei Dämmen; b. der Böschungskrone bei Einschnitten; c. Fundamenten; d. Bäumen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Sicherheitsabstände",
+      "section": "11",
+      "title": "Sicherheitsabstände zu anderen erdverlegten Leitungen",
+      "content": "1 Bei der Parallelführung einer Rohrleitung zu anderen erdverlegten Leitungen in einem Abstand bis zu 10 m ist der Sicherheitsabstand je nach Art und Durchmesser der Leitungen, nach Bauablauf und nach Bauverfahren im Einvernehmen mit dem ERI festzulegen. 2 Bei Kreuzungen ist zwischen einer Rohrleitung und anderen erdverlegten Leitungen ein vertikaler Sicherheitsstabstand von mindestens 30 cm einzuhalten. Die Rohrleitung soll in der Regel die anderen erdverlegten Leitungen unterqueren."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Sicherheitsabstände",
+      "section": "12",
+      "title": "Sicherheitsabstände zu Gebäuden und Orten mit häufigen Menschenansammlungen",
+      "content": "1 Bei Gasleitungen mit einem Betriebsdruck über 25 bar, bei Ölleitungen und bei Wasserstoffleitungen mit einem Reinheitsgrad von über 98 Prozent sind folgende Sicherheitsabstände einzuhalten: a. zu Gebäuden ohne Personenbelegung: 2 m; b. zu Gebäuden mit Personenbelegung: 10 m. 2 Bei anderen Gas- und Wasserstoffleitungen ist zu Gebäuden mit Personenbelegung ein Sicherheitsabstand von mindestens 5 m einzuhalten. Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ( AS 2025 386 ). Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ( AS 2025 386 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Sicherheitsabstände",
+      "section": "13",
+      "title": "Sicherheitsabstände zu Strassen",
+      "content": "1 Rohrleitungen dürfen nicht längs unter Strassen verlegt werden. 2 Bei der Parallelführung einer Rohrleitung zu Autobahnen, Autostrassen und Hauptstrassen ist ein Sicherheitsabstand von mindestens 5 m, bei der Parallelführung zu anderen Strassen mit Hartbelag ein Sicherheitsabstand von mindestens 2 m zum Rand des Hartbelags einzuhalten. 3 Bei Kreuzungen ist zwischen einer Rohrleitung und einer Strasse ein vertikaler Sicherheitsabstand von mindestens 2 m einzuhalten."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Sicherheitsabstände zu Eisenbahnen",
+      "content": "1 Bei der Parallelführung einer Rohrleitung zu Eisenbahnen ist ein Sicherheitsabstand von mindestens 10 m zur nächsten Schiene einzuhalten. 2 Bei Kreuzungen ist zwischen einer Rohrleitung und der Oberkante einer Schwelle ein vertikaler Sicherheitsabstand von mindestens 2 m einzuhalten."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Abstände bei Kreuzungen mit Fliessgewässern",
+      "content": "Bei Kreuzungen sind zwischen einer Rohrleitung und einem Fliessgewässer (Gewässersohle) folgende vertikale Abstände einzuhalten: a. mindestens 1,5 m bei einer Gewässerbreite bis zu 1 m; b. mindestens 2 m bei einer Gewässerbreite von mehr als 1 m."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Schutzbereiche",
+      "content": "1 Um Rohrleitungsanlagen sind Schutzbereiche einzurichten. 2 Für Rohrleitungen beträgt der Schutzbereich 10 m beidseitig der Leitung. 3 Die Schutzbereiche um Nebenanlagen sind freizuhalten und müssen von den Betreibern oder den Ereignisdiensten auf einfache Weise abgesperrt werden können. 4 Für Nebenanlagen betragen die Schutzbereiche mindestens: a. 50 m (Radius) bei Pump- und Kompressorenstationen mit mehr als 300 kW Antriebsleistung, deren technische Einrichtungen in Räumen mit explosionsgefährdeten Zonen von mehr als 50 m 3 Rauminhalt untergebracht sind; b. 30 m (Radius) bei anderen Nebenanlagen sowie bei Portalen und Fenstern von begehbaren Rohrleitungsstollen. 5 Für Nebenanlagen gilt der gleiche Schutzbereich wie für die dazugehörigen Leitung, wenn deren technische Einrichtungen in Räumen mit explosionsgefährdeten Zonen von weniger als folgenden Rauminhalten untergebracht sind: a. 50 m 3 bei gasförmigen Medien; b. 10 m 3 bei flüssigen Medien. 6 Für einzelne Streckenschieber gilt ein Schutzbereich wie für die dazugehörige Leitung."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Hochspannungsanlagen",
+      "content": "1 Hochspannungsanlagen dürfen nicht innerhalb des Schutzbereichs einer Nebenanlage liegen. 2 Für Rohrleitungsanlagen im Umfeld von 30 m einer Hochspannungsanlage ist ein Nachweis einzureichen, dass im Fall eines Erdschlusses keine unzulässige Beeinflussung der Rohrleitungsanlage erfolgt. Induzierte Spannungen sind auf die in der Starkstromverordnung vom 30. März 1994 vorgegebenen Werte zu reduzieren. SR 734.2"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Rohrleitungen",
+      "section": "18",
+      "title": "Werkstoffe und Herstellungsverfahren",
+      "content": "1 Werkstoffe für Rohrleitungsteile (Rohre, Formstücke, Armaturen usw.) müssen für die vorgesehene Verwendung hinsichtlich Festigkeit, Alterungs- und Korrosionsbeständigkeit, Feuersicherheit und Verbindungsfähigkeit geeignet sein. Sie dürfen nicht zu Sprödbruch neigen. 2 Für die Herstellung der Anlageteile sind genormte Rohrleitungsstähle zu verwenden. Andere Werkstoffe, zum Beispiel Kunststoffe oder nicht genormte Stähle, dürfen nur verwendet werden, wenn ihre Eignung für die vorgesehene Verwendung nachgewiesen wird. 3 Die Wahl des Werkstoffes und seine zulässigen chemischen und mechanisch-technologischen Eigenschaften sowie die Herstellungsart der aus diesem Werkstoff anzufertigenden Rohrleitungsteile sind mit dem ERI abzusprechen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Rohrleitungen",
+      "section": "19",
+      "title": "Dimensionierung",
+      "content": "1 Die Berechnung der Wanddicke von Rohrleitungsteilen hat unter Berücksichtigung der inneren und der äusseren Kräfte sowie der Auslegungstemperatur zu erfolgen. 2 Für die Ermittlung der äusseren Kräfte sind insbesondere an kritischen Stellen die mechanischen Einflüsse des Bodens auf die Rohrleitung sowie mögliche Temperaturschwankungen zu berücksichtigen. 3 Zur Ermittlung des maximalen Betriebsdruckes sind sämtliche in der Praxis möglichen statischen und dynamischen Betriebszustände unter Berücksichtigung der besonderen Eigenschaften des beförderten Gutes zu berechnen. Bei Ölleitungen sind die Druckverhältnisse der möglichen stationären und instationären Betriebszustände in Druckprofilen darzustellen. 4 Die Rohrleitung und ihre Nebenanlagen sind im Einvernehmen mit dem ERI zu dimensionieren und zu berechnen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Abschnitt: Rohrleitungen",
+      "section": "20",
+      "title": "Werkprüfung",
+      "content": "1 Die Rohrleitungsteile sowie die Rohrumhüllung sind im Herstellerwerk daraufhin zu prüfen, ob sie den gestellten Anforderungen entsprechen. 2 Art, Umfang und Verfahren der Werkprüfungen sind mit dem ERI abzusprechen. 3 Über die Durchführung der Prüfungen und ihre Ergebnisse sind dem ERI Prüfzeugnisse vorzulegen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "5. Abschnitt: Schutz- und Sicherungsmassnahmen",
+      "section": "21",
+      "title": "Korrosionsschutz",
+      "content": "1 Die Rohrleitung ist gegen Korrosionseinflüsse aller Art zu schützen. 2 Bei erdverlegten Rohrleitungen besteht der Schutz gegen die Korrosion von aussen her aus einer elektrisch isolierenden, dauernd haftenden Rohrumhüllung sowie aus einer kathodischen Korrosionsschutzanlage. 3 Die Materialien und Einrichtungen, die für den Korrosionsschutz vorgesehen sind, sowie die jeweiligen Applikationsverfahren sind im Einvernehmen mit dem ERI zu bestimmen. Folgende Eigenschaften sind nachzuweisen: a. Eignung der Materialien, Einrichtungen und Applikationsverfahren für den vorgesehenen Zweck; b. Betriebssicherheit der Korrosionsschutzeinrichtungen; c. Umweltverträglichkeit der Materialien und Einrichtungen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Abschnitt: Schutz- und Sicherungsmassnahmen",
+      "section": "22",
+      "title": "Kathodische Korrosionsschutzanlage",
+      "content": "1 Die Rohrleitung ist, sofern keine zwingenden Gründe entgegenstehen, auf ihrer ganzen Ausdehnung als elektrisch ununterbrochener Leiter auszuführen. Sie ist durch Isolierstücke von geerdeten Anlageteilen, die an die Leitung anschliessen, zu trennen. 2 Bei der Wahl des Standortes von Anodenanlagen sind die Sicherheitsabstände zu Erdungseinrichtungen von Starkstromanlagen einzuhalten. Die Anodenstandorte sind so zu wählen, dass andere erdverlegte Leitungen nicht unzulässig beeinflusst werden 3 Anlagen unter kathodischem Korrosionsschutz sind mit einem Berührungsschutz zu versehen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "5. Abschnitt: Schutz- und Sicherungsmassnahmen",
+      "section": "23",
+      "title": "Erdung und Blitzschutz von Nebenanlagen",
+      "content": "Die isolierten und mit der Rohrleitungsanlage elektrisch nicht verbundenen Nebenanlagen sind zu erden und mit einer Blitzschutzanlage zu versehen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "5. Abschnitt: Schutz- und Sicherungsmassnahmen",
+      "section": "24",
+      "title": "Schutz vor mechanischer Einwirkung",
+      "content": "1 Die Rohrleitungsanlage ist insbesondere und soweit möglich gegen die nachteiligen Auswirkungen durch gravitative Naturgefahren (Art. 8 Abs. 1), Erdbeben und Vibrationen zu schützen. 2 In Gebieten mit gravitativen Naturgefahren sind dazu bauliche oder betriebliche Schutzmassnahmen zu treffen. 3 Nebenanlagen und oberirdisch verlegte Rohrleitungen sind zusätzlich gegen Beschädigungen insbesondere durch aufprallende Fahrzeuge oder umstürzende Bäume zu schützen. 4 Bei Kreuzungen von Rohrleitungen mit Wegen und Strassen ist die Rohrleitung durch spezielle Massnahmen wie eine Schutzplatte, ein Mantelrohr oder Tieferlegung zu schützen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "5. Abschnitt: Schutz- und Sicherungsmassnahmen",
+      "section": "25",
+      "title": "Schutz vor Deformationen und Spannungen",
+      "content": "Rohrleitungen sind durch geeignete Massnahmen gegen unzulässige Deformationen und Spannungen zu schützen"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "5. Abschnitt: Schutz- und Sicherungsmassnahmen",
+      "section": "26",
+      "title": "Überdrucksicherung",
+      "content": "Pump- und Kompressorenstationen sind mit Sicherheitseinrichtungen gegen unzulässigen Überdruck auszurüsten."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Systeme mit verschiedenen Drücken",
+      "content": "1 Anlagen mit verschiedenen zulässigen Drücken müssen über Sicherheitseinrichtungen verfügen, die das Überschreiten des jeweils maximalen zulässigen Drucks wirksam verhindern. 2 Druckreduktionen dürfen nicht zur Vereisung von Armaturen oder Rohrleitungsteilen führen."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Brand- und Explosionsschutz",
+      "content": "1 Gebäude für Nebenanlagen sind aus nicht brennbarem Material zu erstellen. Sie müssen ausreichend belüftet werden und Feuerlöscheinrichtungen aufweisen. Zusätzlich sind Massnahmen zur Druckentlastung zu treffen. 2 Für Nebenanlagen sind Fluchtwege vorzusehen. 3 Nebenanlagen müssen für Fahrzeuge der Ereignisdienste auf befestigten Wegen oder Strassen leicht erreichbar sein. 4 In den explosionsgefährdeten Zonen sind Zündquellen zu vermeiden oder Schutzmassnahmen zu treffen, die eine Zündgefahr ausschliessen. Die elektrischen Anlagen müssen explosionsgeschützt ausgeführt werden, und die elektrischen Betriebsmittel müssen mindestens der Gerätekategorie entsprechen, die für die Verwendung in der jeweiligen Zone vorgeschrieben ist. Die Zonen sind im Einvernehmen mit dem ERI festzulegen."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Sicherung von oberirdischen Nebenanlagen",
+      "content": "1 Oberirdische Nebenanlagen sind gegen unbefugtes Eindringen und gegen unbefugte Eingriffe von aussen zu sichern und mit Warntafeln zu versehen. 2 Oberirdische Nebenanlagen mit flüssigen oder gasförmigen Brenn- und Treibstoffen sind zudem zu umzäunen."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Rückhaltemassnahmen bei Ölleitungen",
+      "content": "Das BFE kann für Ölleitungen zusätzliche Schutzmassnahmen verlangen, die verhindern, dass die flüssigen Brenn- und Treibstoffe in die Umgebung gelangen."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Rückhaltebecken bei Nebenanlagen",
+      "content": "1 Nebenanlagen, die wassergefährdende Flüssigkeiten enthalten, sind in richtig dimensionierten, dichten und standfesten, Rückhaltebecken aufzustellen. 2 Nicht überdachte Becken sind mit einer nicht automatisch arbeitenden Entwässerungseinrichtung über den Rand der Becken zu versehen."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Zusammentreffen mit anderen Anlagen",
+      "content": "Bei Kreuzungen einer Rohrleitung oder einem sonstigen Zusammentreffen einer Rohrleitunganlage mit anderen Anlagen wie Eisenbahnen, Strassen, anderen Rohrleitungen, Kanalisationen, Kabeln oder Freileitungen sind an der Rohrleitungsanlage und an den anderen Anlagen die nötigen Schutzvorkehrungen zu treffen."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "6. Abschnitt: Absperrorgane und Entlastungselemente",
+      "section": "33",
+      "title": "Absperrorgane",
+      "content": "1 Rohrleitungsanlagen müssen mit Absperrorganen ausgerüstet sein, welche die Abtrennung einzelner Leitungsabschnitte oder Nebenanlagen in kürzester Frist ermöglichen. 2 Absperrorgane sind in folgenden Fällen vorzusehen und wie folgt zu platzieren: a. in allen Leitungen: 1. Streckenschieber in Abständen von höchstens 20 km in Abhängigkeit des Volumens und der örtlichen Verhältnisse, 2. am Anfang von abzweigenden Leitungen, sofern diese länger als 100 m sind, und in der Regel in der Hauptleitung unmittelbar vor und nach den Abzweigungen, 3. in Anschlüssen von Nebenanlagen, die der Erhöhung oder der Reduzierung des Druckes und der Messung des Durchflusses dienen, in einer Entfernung von 10 bis 100 m vor und nach der Nebenanlage; b. in Ölleitungen: zusätzliche Absperrorgane zum Schutz von nutzbaren Grundwasservorkommen entsprechend der Topografie. 3 Absperrorgane sind so zu konfigurieren, dass deren interne Dichtheit geprüft werden kann. 4 Die Antriebe der Absperrorgane müssen jederzeit leicht zugänglich sein und einfach betätigt werden können. Die für die Sicherheit wichtigen Absperrorgane müssen zusätzlich mit einem Motorantrieb ausgerüstet sein. 5 Streckenschieber, die aufgrund des Leitungsvolumens oder der Leitungslänge notwendig sind, müssen mit einem ferngesteuerten Antrieb versehen sein."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "6. Abschnitt: Absperrorgane und Entlastungselemente",
+      "section": "34",
+      "title": "Ausbläser, Belüftungs- und Entleerungsanschlüsse",
+      "content": "1 An geeigneten Stellen sind Ausbläser oder Entleerungsanschlüsse vorzusehen, damit die zwischen den Absperrorganen liegenden Leitungsabschnitte gefahrlos druckentlastet oder entleert werden können. 2 Bei Bedarf können Belüftungsstutzen eingebaut werden. Sie dürfen nur für die Spülung und die Inertisierung einer drucklosen Leitung verwendet werden."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "7. Abschnitt: Überwachung und Schutz vor Cyberbedrohungen",
+      "section": "35",
+      "title": "Leitwarte",
+      "content": "1 Der Betreiber betreibt eine Leitwarte, die ununterbrochen besetzt ist. 2 Im Ereignisfall muss die Leitwarte innert angemessener Zeit in geeigneter Weise Unterstützung erhalten. 3 Mehrere Unternehmungen können eine gemeinsame Leitwarte betreiben. 4 Die Leitwarte muss so organisiert und eingerichtet sein, dass die Überwachung der Rohrleitungsanlage und die Alarmierung der Einsatzmannschaft jederzeit gewährleistet sind."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "7. Abschnitt: Überwachung und Schutz vor Cyberbedrohungen",
+      "section": "36",
+      "title": "Überwachungseinrichtungen",
+      "content": "1 Nebenanlagen mit für den Betrieb wichtigen technischen Einrichtungen wie Kompressoren, Pumpen oder Druckreglern sind mit registrierenden Messgeräten, Alarm-einrichtungen und Steuereinrichtungen zu versehen. 2 Die Überwachungseinrichtungen sind, soweit betrieblich zulässig, derart zu automatisieren, dass bei ausserordentlichen Druckveränderungen, Förderverlusten oder anderen Betriebsstörungen der Betreiber alarmiert und die Anlage in einen möglichst sicheren Zustand gebracht wird."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "7. Abschnitt: Überwachung und Schutz vor Cyberbedrohungen",
+      "section": "37",
+      "title": "Fernmeldeanlage",
+      "content": "1 Messwerte und Alarme von unbemannten Nebenanlagen mit Überwachungseinrichtungen sind über eine Fernmeldeanlage an die Leitwarte zu übertragen. 2 Sicherheitsrelevante Fernmeldeanlagen sind redundant auszuführen."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "7. Abschnitt: Überwachung und Schutz vor Cyberbedrohungen",
+      "section": "38",
+      "title": "Fernsteuerungsanlage",
+      "content": "1 Wichtige technische Einrichtungen von unbemannten Nebenanlagen wie Kompressoren, Pumpen oder motorangetriebenen Absperrorganen müssen ferngesteuert werden können. 2 Die Fernsteuerungseinrichtungen sind gegen Fehlbedienung abzusichern."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "7. Abschnitt: Überwachung und Schutz vor Cyberbedrohungen",
+      "section": "39",
+      "title": "Betriebssicherheit",
+      "content": "1 Die Sicherheits-, Überwachungs-, Fernmelde- und Fernsteuerungseinrichtungen und die daran angeschlossenen technischen Einrichtungen müssen auch bei einem Unterbruch der externen Energiezufuhr sicher funktionieren. 2 Sie müssen so ausgerüstet sein, dass sie ihr Funktionieren selbsttätig überwachen und ihren Status an die Leitwarte übermitteln. 3 Sie sind gegen störende äussere Beeinflussung so abzuschirmen, dass die Sicherheit und die Steuerbarkeit der Rohrleitungsanlage nicht beeinträchtigt werden."
+    },
+    {
+      "provision_ref": "art39a",
+      "chapter": "7. Abschnitt: Überwachung und Schutz vor Cyberbedrohungen",
+      "section": "39a",
+      "title": "a Schutz vor Cyberbedrohungen",
+      "content": "1 Die Betreiber treffen Massnahmen für einen angemessenen Schutz ihrer Rohrleitungsanlagen vor Cyberbedrohungen. 2 Sie erarbeiten gemeinsam Richtlinien über die Cybersicherheit und passen diese regelmässig dem neuesten Stand der Technik an. Dabei konsultieren sie das BFE, die Kantone und die interessierten Kreise. 3 Sie veröffentlichen die Richtlinien über eine frei zugängliche Adresse im Internet. Die Richtlinien sind kostenlos abrufbar. 4 Für Betreiber von Gasleitungen sind die im Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) in der Gasversorgung, Ausgabe Mai 2024, enthaltenen Anforderungen verbindlich. Die Betreiber müssen der Aufsichtsbehörde nachweisen, dass sie die für das massgebende Schutzniveau geltenden Anforderungen nach Kapitel 5 des Minimalstandards erfüllen. Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 768 ). Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ( AS 2025 386 ). Der Minimalstandard kann kostenlos bezogen werden beim Bundesamt für Energie, Pulverstrasse 13, 3063 Ittigen. Er kann beim Fachverband für Wasser, Gas und Wärme kostenlos abgerufen werden unter: www.svgw.ch > Shop > Suchfeldeingabe «G1008» oder kostenlos bezogen werden per E-Mail an: info@svgw.ch . Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ( AS 2025 386 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "8. Abschnitt: Bau",
+      "section": "40",
+      "title": "Einbetten der Rohrleitung",
+      "content": "1 Die Rohrleitung muss in Materialien eingebettet werden, welche die Rohrleitung und deren Isolation nicht beschädigen. 2 Die Rohrleitung darf nicht mit korrosiven Stoffen eingedeckt oder nachträglich überdeckt werden. 3 Über dem Rohrscheitel sind Warnbänder einzulegen. 4 Das Ausschwemmen von Füllmaterial im Graben ist durch geeignete Massnahmen zu verhindern."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "8. Abschnitt: Bau",
+      "section": "41",
+      "title": "Verlegung der Rohrleitung",
+      "content": "1 Die Rohrleitung ist in der Regel in den Boden zu verlegen. Die Überdeckung soll vom Rohrscheitel aus gemessen mindestens einen, höchstens aber vier Meter betragen; sie ist den örtlichen Verhältnissen anzupassen. Bei Mantelrohren bemisst sich die Überdeckung ab dem Mantelrohr. 2 Die Rohrleitung ist gegen Auftrieb zu sichern. 3 Die Leitung muss für Instandhaltungsarbeiten (Art. 7 Abs. 3 RLV) zugänglich sein. 4 Rohrleitungsabschnitte, die nicht kathodisch geschützt werden können, müssen so verlegt werden, dass sie auf Korrosionsschäden kontrolliert werden können. SR 746.11"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "8. Abschnitt: Bau",
+      "section": "42",
+      "title": "Markierung",
+      "content": "1 Die Rohrleitung ist im Gelände so zu markieren, dass ihr Verlauf auch durch Dritte sicher verfolgt werden kann. 2 Bei der Festlegung der Standorte der Markierungssignale ist auf die Bewirtschaftung der Grundstücke Rücksicht zu nehmen. 3 An besonders gefährdeten Stellen wie Kreuzungen mit Autobahnen, Hauptstrassen, Eisenbahnen und Gewässern ist die Lage der Rohrleitung genau zu markieren. 4 Die Markierungssignale sind als orangefarbige Flugmarkierungen auszuführen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "8. Abschnitt: Bau",
+      "section": "43",
+      "title": "Einmessen der Rohrleitungsanlage",
+      "content": "Die Rohrleitungsanlage ist vor der Betriebsaufnahme durch qualifizierte Vermessungsfachleute einzumessen. Das BFE gibt das Datenmodell vor. Fassung gemäss Anhang Ziff. 15 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 529 )."
+    },
+    {
+      "provision_ref": "art43a",
+      "chapter": "8. Abschnitt: Bau",
+      "section": "43a",
+      "title": "a Anmerkung im Grundbuch",
+      "content": "Rohrleitungsanlagen sind im Grundbuch anzumerken. Eingefügt durch Anhang Ziff. 15 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 529 )."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "8. Abschnitt: Bau",
+      "section": "44",
+      "title": "Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen",
+      "content": "Die Schutzbereiche von Rohrleitungen und Nebenanlagen gemäss Artikel 16 sind im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen aufzunehmen."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Geobasisdaten von Rohrleitungsanlagen",
+      "content": "1 Die Betriebsinhaber dokumentieren ihre Rohrleitungsanlagen in Form von Geodaten und stellen diese dem BFE zu. 2 Das BFE erstellt eine Gesamtsicht; diese ist öffentlich zugänglich. 3 Vorbehalten bleibt die Aufnahme der Daten einzelner Bestandteile von Rohrleitungsanlagen in die amtliche Vermessung. Eingefügt durch Anhang Ziff. 15 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 529 )."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Bau- und Prüfverfahren",
+      "content": "1 Die Bau- und Prüfverfahren für Rohrleitungsanlagen sind im Einvernehmen mit dem ERI abzusprechen. 2 Schweisser dürfen nur eingesetzt werden, wenn sie vom ERI zugelassen sind. 3 Über Leitungsbauten ist ein Rohrbuch zu führen. Der Inhalt des Rohrbuches ist mit dem ERI abzusprechen."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "9. Abschnitt: Betrieb, Unterhalt und Kontrolle",
+      "section": "47",
+      "title": "Allgemeines",
+      "content": "1 Die Rohrleitungsanlage ist in betriebsbereitem und betriebssicherem Zustand zu halten. 2 Der Betreiber sorgt dafür, dass die Sicherheitsabstände gegenüber Bauten Dritter eingehalten werden, auch wenn nachträglich eine Bauzone im Bereich der Rohrleitungsanlage ausgeschieden wird. 3 Er muss sich regelmässig bei den lokalen Behörden über die aktuelle Richt- und Nutzungsplanung, die vorgesehene Änderung dieser Pläne sowie über Bauprojekte, die Bestand oder Betrieb der Rohrleitungsanlage beeinträchtigen könnten, informieren. 4 Er orientiert zudem die lokalen Behörden und die Aufsichtsbehörde über mögliche Konflikte der neuen Richtpläne oder geplanten Umzonungen mit der Rohrleitungsanlage."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "9. Abschnitt: Betrieb, Unterhalt und Kontrolle",
+      "section": "48",
+      "title": "Kontrolle von Betriebssicherheit und Zustand",
+      "content": "1 Der Betreiber kontrolliert regelmässig die Betriebssicherheit und den Zustand der Rohrleitung, der Nebenanlagen, des kathodischen Korrosionsschutzes, der Überwachungseinrichtungen und der Fernmelde- und Fernsteuerungsanlage. 2 Die Kontrollen sind zu dokumentieren."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "9. Abschnitt: Betrieb, Unterhalt und Kontrolle",
+      "section": "49",
+      "title": "Kontrolle von Trassee und Nebenanlagen",
+      "content": "1 Das Trassee, die Umgebung der Nebenanlagen einschliesslich deren Zugänglichkeit sowie die baulichen Schutzmassnahmen und die Markierungssignale sind mindestens alle zwei Wochen in geeigneter Weise zu kontrollieren. 2 Die mechanischen und elektrischen Anlageteile der Nebenanlagen sind mindestens monatlich zu kontrollieren. 3 Bei der Festlegung von Umfang und Periodizität der Kontrollen berücksichtigt der Betreiber die eingesetzten Kontrollmittel, die Umgebung und die Lage der Rohrleitungsanlage. 4 Umfang und Periodizität der Kontrollen sind im Betriebsreglement festzuhalten. 5 Für die Trasseekontrollen können terrestrische oder andere geeignete Kontrollmittel wie Hubschrauber eingesetzt werden. Dabei ist den Wetter- und Umweltbedingungen Rechnung zu tragen. 6 Für die Kontrollen darf nur Personal eingesetzt werden, das entsprechend ausgebildet ist und über die erforderliche Dokumentation verfügt."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "9. Abschnitt: Betrieb, Unterhalt und Kontrolle",
+      "section": "50",
+      "title": "Überwachung der Dichtheit und Brucherkennung",
+      "content": "1 Ölleitungen sind in der Regel mit einem automatisierten System auszurüsten, das permanent und unter allen Betriebszuständen die Dichtheit überwacht. 2 Gasleitungen und Wasserstoffleitungen sind mit einem System auszurüsten, das einen Leitungsbruch zeitnah entdecken und den betroffenen Leitungsabschnitt zuverlässig feststellen kann. 3 Das System ist mit dem ERI abzusprechen. Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ( AS 2025 386 )."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "9. Abschnitt: Betrieb, Unterhalt und Kontrolle",
+      "section": "51",
+      "title": "Tankanlagen und Behälter von Rohrleitungsanlagen",
+      "content": "1 Die Berichte betreffend die Kontrollen von Tankanlagen und Behältern von Rohrleitungsanlagen mit wassergefährdenden Flüssigkeiten sind dem ERI vorzulegen. 2 Druckbehälter von Rohrleitungsanlagen sind mindestens alle acht Jahre einer Innenprüfung zu unterziehen. Das ERI kann diese Frist bis auf zwölf Jahre verlängern."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Kathodischer Korrosionsschutz",
+      "content": "1 Die kathodische Korrosionsschutzanlage ist nach den Regeln der Technik zu planen, zu betreiben, zu unterhalten und zu kontrollieren. 2 Die Kontrollen sind in Absprache mit dem ERI durchzuführen."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Gravitative Naturgefahren",
+      "content": "1 Die Dokumentation gemäss Artikel 10 Buchstabe g RLV ist regelmässig und der Situation angepasst nachzuführen. 2 Die Massnahmen sind mit dem ERI abzusprechen. SR 746.11"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Molchung",
+      "content": "1 Mit Ausnahme von kurzen Rohrleitungen sind Rohrleitungen regelmässig mit einem intelligenten Molch zu prüfen. 2 Bei nichtmolchbaren Leitungen ist die intelligente Molchung durch eine Fehlerortungsmessung zu ersetzen. 3 Im ersten Betriebsjahr ist eine Nullmessung durchzuführen."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Änderungen und Instandhaltungsarbeiten an der Rohrleitung",
+      "content": "1 Für Änderungen und Instandhaltungsarbeiten an der Rohrleitungsanlage (Art. 7 Abs. 1 und 3 RLV) gelten die gleichen technischen Anforderungen wie für den Bau der Rohrleitungsanlage. 2 Instandhaltungsarbeiten dürfen den Sicherheitsgrad der Rohrleitung nicht vermindern. SR 746.11"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Abblas- und Entleerungsoperationen",
+      "content": "1 Abblas- und Entleerungsoperationen dürfen nur unter Überwachung vor Ort ausgeführt werden. 2 Beim Abblasen von gasförmigen Brenn- oder Treibstoffen ist die an die Umwelt abgegebene Menge Gas auf das Minimum zu beschränken."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Odorierung",
+      "content": "1 Brenn- oder Treibstoffe, die unter Normalbedingungen geruchlos und unsichtbar sind, sind in der Regel zu odorieren. 2 Die Odorierungsmittel dürfen nicht korrosiv wirken."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Umnutzung",
+      "content": "Sollen Rohrleitungsanlagen zur Beförderung von gasförmigen Brenn- oder Treibstoffen, die nicht oder nur teilweise nach den Vorschriften für Anlagen mit einem Betriebsdruck über 5 bar erstellt oder betrieben wurden, mit einem Betriebsdruck über 5 bar betrieben werden, so ist ein Plangenehmigungsverfahren nach Artikel 2 RLG erforderlich. Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ( AS 2025 386 )."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Stilllegung",
+      "content": "1 Stillgelegte Teile einer Rohrleitungsanlage sind zu entfernen oder in einen Zustand zu bringen, in dem sie das Leben oder die Gesundheit von Personen, Sachen von erheblichem Wert oder andere wichtige Rechtsgüter nicht gefährden. 2 Falls Rohrleitungen nach der Stilllegung weiterhin kathodisch geschützt werden, darf dadurch der Korrosionsschutz der noch in Betrieb stehenden Anlage nicht beeinträchtigt werden. 3 Die Markierungssignale gemäss Artikel 42 sind bei Aufhebung der Aufsicht des Bundes zu entfernen."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "10. Abschnitt: Präventive Massnahmen",
+      "section": "60",
+      "title": "Grundsatz",
+      "content": "Der Betreiber muss alle Massnahmen treffen, mit denen Unfälle und Schadenfälle soweit möglich verhindert und deren Auswirkungen auf Mensch und Umwelt minimiert werden können."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "10. Abschnitt: Präventive Massnahmen",
+      "section": "61",
+      "title": "Einsatzmannschaft",
+      "content": "1 Der Betreiber muss eine Einsatzmannschaft bereitstellen, die für die Schadensminimierung ausgebildet und ausgerüstet ist. 2 Die Einsatzmannschaft muss jederzeit einsatzbereit sein und mit einer zentralen Leitwarte in Verbindung treten können."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "10. Abschnitt: Präventive Massnahmen",
+      "section": "62",
+      "title": "Reparaturmaterial",
+      "content": "1 Der Betreiber legt im Betriebsreglement fest, welches Material für die Schadens-minimierung und die Reparaturen jederzeit greifbar sein muss. 2 Vereinbarungen mit Dritten oder Beteiligungen an Gruppenmagazinen sind zulässig, sofern die gleiche Sicherheit und Alarmbereitschaft wie bei Eigenmagazinen bestehen."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "10. Abschnitt: Präventive Massnahmen",
+      "section": "63",
+      "title": "Zusammenarbeit mit den öffentlichen Ereignisdiensten",
+      "content": "Mit den zuständigen Ereignisdiensten ist eine zweckmässige Zusammenarbeit zu vereinbaren. Sie ist regelmässig zu überprüfen."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "10. Abschnitt: Präventive Massnahmen",
+      "section": "64",
+      "title": "Einsatzübungen",
+      "content": "1 Der Betreiber einer Rohrleitungsanlage führt jährlich mindestens eine Einsatzübung durch. 2 Die Einsatzübungen sind so anzulegen, dass alle möglichen Abläufe von Schadenszenarien regelmässig geübt werden. 3 Das Übungsszenario ist mit dem ERI abzusprechen."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "10. Abschnitt: Präventive Massnahmen",
+      "section": "65",
+      "title": "Information im Schadenfall und Berichterstattung",
+      "content": "1 Beim Austritt von flüssigen oder gasförmigen Stoffen müssen unverzüglich die kantonale Meldestelle und das ERI benachrichtigt werden. 2 Bei einer Beschädigung oder einer akuten Gefährdung der Rohrleitungsanlage ist unverzüglich das ERI zu benachrichtigen. 3 Dieses informiert das BFE nach Ereignissen gemäss Absatz 1. 4 Nach Ereignissen gemäss Absatz 1 muss der Betreiber innert dreier Monate dem BFE einen Bericht einreichen. Der Bericht umfasst insbesondere: a. eine Beschreibung des Ablaufs, der Einwirkungen und der Bewältigung des Ereignisses; b. eine Auswertung des Ereignisses."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "11. Abschnitt: Strafbestimmungen",
+      "section": "66",
+      "title": "",
+      "content": "1 Gemäss Artikel 45 RLG wird bestraft, wer: a. einer Vorschrift dieser Verordnung oder einer anerkannten Regel der Technik zuwiderhandelt und dadurch einen Zustand schafft, der geeignet ist, Leben oder Gesundheit von Personen, fremde Sachen von erheblichem Wert oder andere wichtige Rechtsgüter zu gefährden; b. unbefugte Handlungen an einer Rohrleitungsanlage vornimmt. 2 Das Bundesgesetz vom 22. März 1974 über das Verwaltungsstrafrecht ist anwendbar. Verfolgende und beurteilende Behörde ist das BFE. SR 313.0"
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "12. Abschnitt: Schlussbestimmungen",
+      "section": "67",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Rohrleitungssicherheitsverordnung vom 4. April 2007 wird aufgehoben. [ AS 2007 1823 ; 2008 2745 Anhang Ziff. 5; 2019 2205 Anhang Ziff. 1]"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "12. Abschnitt: Schlussbestimmungen",
+      "section": "68",
+      "title": "Änderung anderer Erlasse",
+      "content": "Die Änderung anderer Erlasse wird in Anhang 2 geregelt."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "12. Abschnitt: Schlussbestimmungen",
+      "section": "69",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Im Zeitpunkt des Inkrafttretens dieser Verordnung noch nicht ausgeführte, jedoch genehmigte Pläne und erteilte Bewilligungen bleiben in Kraft. 2 Bei Erweiterungen und Umbauten an bestehenden Anlagen finden die Vorschriften dieser Verordnung Anwendung, soweit dies ohne wesentliche Änderungen der davon nicht betroffenen Anlagenteile möglich ist. 3 Die Vorschriften dieser Verordnung über den Betrieb, den Unterhalt und die Kontrolle finden auf alle bestehenden Anlagen Anwendung. 4 Ölleitungen und Gasleitungen sind innert 5 Jahren mit einem System gemäss Artikel 50 Absätze 1 und 2 nachzurüsten. 5 Bei Ölleitungen ist bis zur Nachrüstung mit einem System gemäss Artikel 50 Absatz 1 eine jährliche Dichtheitsprüfung durchzuführen."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "12. Abschnitt: Schlussbestimmungen",
+      "section": "70",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2021 in Kraft."
+    }
+  ],
+  "definitions": []
+}

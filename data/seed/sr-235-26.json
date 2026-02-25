@@ -1,0 +1,119 @@
+{
+  "id": "sr-235-26",
+  "type": "statute",
+  "title": "Verordnung vom 25. September 2020 über das Informationssystem Plato (Plato-Verordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2020/747/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt den Betrieb und die Benützung des Informationssystems Plato (Plato) des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Zweck des Informationssystems",
+      "content": "Das Plato dient dem EDA zur Erfüllung seiner Aufgaben, die durch die Abteilung Menschliche Sicherheit (AMS) in der Politischen Direktion und durch den Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe (Direktionsbereich HH/SKH) in der Direktion für Entwicklung und Zusammenarbeit (DEZA) in Anwendung des Bundesgesetzes vom 19. Dezember 2003 über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte und der Verordnung vom 11. Mai 1988 über das Schweizerische Korps für humanitäre Hilfe wahrgenommen werden. Es dient insbesondere: a. der Verwaltung und Administration der Angehörigen des Schweizerischen Expertenpools für zivile Friedensförderung der AMS und des SKH; b. der Rekrutierung von Expertinnen und Experten für die Expertenpools; c. der Planung und Abwicklung von Einsätzen; d. der Erstellung von Arbeitsverträgen; e. der Administration der Schulungen und Weiterbildungen der Expertinnen und Experten; f. der logistischen Bereitstellung von Einsatzmaterial; g. der Erstellung von Statistiken. SR 193.9 SR 172.211.31"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Verantwortlichkeiten",
+      "content": "Die AMS und der Direktionsbereich HH/SKH tragen die Verantwortung für das Plato."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Struktur",
+      "content": "Das Plato besteht aus einer Anwendungsoberfläche sowie den folgenden, voneinander getrennten Datenbanken: a. Datenbank für die Angehörigen des Schweizerischen Expertenpools für zivile Friedensförderung; b. Datenbank für die Angehörigen des SKH."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "5",
+      "title": "Bearbeitete Daten",
+      "content": "1 Das Plato enthält Daten von Personen nach Artikel 2 des Bundesgesetzes vom 24. März 2000 über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten. 2 Welche Daten bearbeitet werden, ist im Anhang aufgeführt."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "6",
+      "title": "Herkunft der Daten und Bearbeitungsrechte",
+      "content": "1 Die Daten werden von der AMS, vom Personal EDA und vom Direktionsbereich HH/SKH erfasst. Diese Stellen verfügen für die von ihnen verwalteten Daten über vollständige Bearbeitungsrechte. 2 Die Fachgruppe Rettung SKH im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) verfügt über das Leserecht für Daten über Expertinnen und Experten des SKH, die der Fachgruppe Rettung des SKH angehören. 3 Die Einheit für Informatik des EDA verfügt über diejenigen Zugriffsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind. 4 Alle Bearbeitungsrechte werden im Abrufverfahren ausgeübt."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "7",
+      "title": "Bekanntgabe von Daten",
+      "content": "Dem Krisenmanagementzentrum des EDA und der Konsularischen Direktion können zur Erfüllung ihrer Aufgaben im Rahmen der Bewältigung von Krisen und Sicherheitsvorfällen sowie der Krisenvorsorge Daten über im Einsatz stehende Expertinnen und Experten übermittelt werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "8",
+      "title": "Vernichtung von Datensätzen",
+      "content": "1 Datensätze von Personen werden spätestens zehn Jahre nach Erreichen des siebzigsten Altersjahrs vernichtet. 2 Daten über abgewiesene Bewerberinnen und Bewerber werden spätestens drei Monate nach Abschluss des Bewerbungsverfahrens vernichtet. 3 Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung des Bundes."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "9",
+      "title": "Ablage von Dokumenten",
+      "content": "Im Plato können alle Dokumente zu im System erfassten Personen gespeichert werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Betrieb und Zugriffsberechtigungen",
+      "section": "10",
+      "title": "Technischer Betrieb und Systemverwaltung",
+      "content": "1 Die Einheit für Informatik des EDA ist für den technischen Betrieb des Plato verantwortlich. 2 Die Systemadministratorin oder der Systemadministrator gehört der Einheit für Informatik des EDA an. Sie oder er verwaltet das Computersystem, die Datenbanken und die Anwendungen. 3 Je eine Anwendungsverantwortliche oder ein Anwendungsverantwortlicher gehört der AMS und dem Direktionsbereich HH/SKH an. Sie bilden die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Betrieb und Zugriffsberechtigungen",
+      "section": "11",
+      "title": "Erteilung der Zugriffsberechtigung",
+      "content": "1 Die Anwendungsverantwortlichen erteilen den Benutzerinnen und Benutzern des Plato die individuellen Zugriffsrechte. 2 Sie überprüfen jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "12",
+      "title": "Sorgfaltspflichten",
+      "content": "1 Die AMS und der Direktionsbereich HH/SKH sorgen dafür, dass die Daten im Plato vorschriftsgemäss bearbeitet werden. 2 Sie stellen sicher, dass die Daten richtig, vollständig und nachgeführt sind."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "13",
+      "title": "Bearbeitungsreglement",
+      "content": "Die AMS und der Direktionsbereich HH/SKH erlassen ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "14",
+      "title": "Protokollierung",
+      "content": "1 Die Zugriffe auf das Plato und die Bearbeitungen werden laufend protokolliert. 2 Die Protokolle werden ein Jahr aufbewahrt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Inkrafttreten",
+      "section": "15",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. November 2020 in Kraft."
+    }
+  ],
+  "definitions": []
+}

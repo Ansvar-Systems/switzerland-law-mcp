@@ -1,0 +1,80 @@
+{
+  "id": "sr-444-12",
+  "type": "statute",
+  "title": "Verordnung vom 21. Mai 2014 über das Kulturgüterverzeichnis des Bundes (KGVV)",
+  "title_en": "",
+  "short_name": "KGVV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/309/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Kriterien für die Aufnahme von beweglichen Kulturgütern, die sich im Eigentum des Bundes befinden, in das Kulturgüterverzeichnis des Bundes (KGT-Verzeichnis); b. das Verfahren: 1. zur Eintragung von beweglichen Kulturgütern in das KGT-Verzeichnis, 2. zur Löschung von Einträgen aus dem KGT-Verzeichnis."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Aufnahme in das KGT-Verzeichnis",
+      "content": "1 In das KGT-Verzeichnis werden bewegliche Kulturgüter von wesentlicher Bedeutung für das kulturelle Erbe aufgenommen. 2 Von wesentlicher Bedeutung für das kulturelle Erbe ist ein bewegliches Kulturgut, das mindestens eines der folgenden Kriterien erfüllt: a. künstlerische, kunsthistorische oder kunstwissenschaftliche Bedeutung; b. Einzigartigkeit oder Seltenheit; c. kunsthandwerklicher Wert; d. ikonographische Bedeutung; e. historische Bedeutung; f. Bedeutung im Kontext der Sammlung; g. materieller Wert."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Signatur der eingetragenen Kulturgüter",
+      "content": "1 Jedes eingetragene Kulturgut wird mit einer Signatur gekennzeichnet . 2 Die Signatur setzt sich gemäss Anhang zusammen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Beschreibung der eingetragenen Kulturgüter",
+      "content": "Zu jedem Kulturgut werden, soweit bekannt, folgende Angaben in das KGT-Verzeichnis aufgenommen: a. Signatur; b. Eintragungsdatum; c. Name der Institution des Bundes, in deren Eigentum es sich befindet; d. Objekttyp; e. Material; f. Technik; g. Masse beziehungsweise Gewicht; h. Einheiten, Stückzahl oder Umfang; i. Motiv; j. Inschrift; k. Markierung und besondere Merkmale, namentlich Schäden und Reparaturen; l. Epoche oder Erstellungsdatum; m. Urheber oder Urheberin; n. Titel; o. möglichst genaue Angaben zur Herkunft sowie zum Herstellungsort oder, wenn es sich um ein Ergebnis archäologischer oder paläontologischer Ausgrabungen oder Entdeckungen handelt, zum Fundort; p. Literatur mit Abbildungsverzeichnis, soweit vorhanden; q. eine Fotografie oder sonstige Abbildung des Objektes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Zuständigkeit für das KGT-Verzeichnis",
+      "content": "1 Die Fachstelle des Bundesamts für Kultur (Fachstelle) führt das KGT-Verzeichnis in Form einer elektronischen Datenbank und veröffentlicht es auf der Webseite des Bundesamtes für Kultur. 2 Sie entscheidet über die Eintragung von Kulturgütern im KGT-Verzeichnis und über die Löschung des Eintrags."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Antrag auf Eintragung",
+      "content": "1 Die Institution des Bundes, in der sich das Kulturgut befindet, beantragt bei der Fachstelle die Aufnahme des betreffenden Kulturgutes in das KGT-Verzeichnis. 2 Der Antrag muss die Angaben nach Artikel 4 enthalten und ist elektronisch zu stellen. 3 Stimmt die Fachstelle dem Antrag zu, so nimmt sie das Kulturgut in die elektronische Datenbank auf."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Zeitpunkt der Eintragung",
+      "content": "Kulturgüter gelten mit der Aufnahme in die elektronische Datenbank als eingetragen. Das Eintragungsdatum wird im KGT-Verzeichnis vermerkt."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Löschung von Einträgen",
+      "content": "1 Liegt ein Grund nach Artikel 3 Absatz 3 KGTG vor, so kann die Institution des Bundes, in deren Eigentum das Kulturgut sich befindet, bei der Fachstelle die Löschung des Eintrags beantragen. Der Antrag ist zu begründen. 2 Stimmt die Fachstelle dem Antrag zu, so löscht sie den Eintrag in der elektronischen Datenbank."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Zugang zum KGT-Verzeichnis",
+      "content": "Der Zugang zum KGT-Verzeichnis ist unentgeltlich."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Änderung eines andern Erlasses",
+      "content": "Die Kulturgütertransferverordnung vom 13. April 2005 wird wie folgt geändert: … SR 444.11 Die Änderung kann unter AS 2014 1451 konsultiert werden."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2014 in Kraft."
+    }
+  ],
+  "definitions": []
+}

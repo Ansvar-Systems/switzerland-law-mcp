@@ -1,0 +1,32 @@
+{
+  "id": "sr-432-219-1",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 15. August 2018 über die Gebühren der Schweizerischen Nationalbibliothek (GebV-EDI-NBib)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2018/513/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung legt die Ansätze fest, nach denen die Gebühren für die Dienstleistungen der Schweizerischen Nationalbibliothek und aller ihr angegliederten Institutionen bemessen werden. Die einzelnen Gebühren sind im Anhang ersichtlich."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung des EDI vom 17. Januar 2007 über die Gebühren der Schweizerischen Nationalbibliothek wird aufgehoben. [ AS 2007 475 ]"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Oktober 2018 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "sr-832-102-2",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 13. November 2012 über den Datenaustausch für die Prämienverbilligung (VDPV-EDI)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/828/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die technischen und organisatorischen Vorgaben und das Datenformat, nach denen Daten nach den Artikeln 65 Absatz 2 und 66 a des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) und Artikel 21 a des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) elektronisch ausgetauscht werden. SR 832.10 SR 831.30"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Kantonale Stelle nach Artikel 106 b Absatz 1 KVV",
+      "content": "1 Die kantonale Stelle nach Artikel 106 b Absatz 1 KVV meldet Daten zur Prämienverbilligung nach dem KVG und zum Pauschalbetrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d ELG. 2 Die gemeinsame Einrichtung nach Artikel 18 KVG meldet die für den Vollzug der VPVKEU notwendigen Daten. Sie ist einer kantonalen Stelle nach Artikel 106 b Absatz 1 KVV gleichgestellt. SR 832.10 SR 831.30 Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2537 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Verbund",
+      "content": "Die kantonalen Stellen nach Artikel 106 b Absatz 1 KVV und die Versicherer müssen eine geschlossene Benutzergruppe (Verbund) bilden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Datenaustauschplattform",
+      "content": "1 Die kantonalen Stellen nach Artikel 106 b Absatz 1 KVV und Versicherer (Verbundteilnehmerinnen) verwenden für den Datenaustausch die Datenaustauschplattform Sedex des Bundesamts für Statistik. 2 Sie sind für die Meldungen verantwortlich, stellen deren Verschlüsselung und Nachvollziehbarkeit von der Senderin bis zur Empfängerin sicher und tragen die Umsetzungskosten, auch wenn sie Dritte beauftragen, die Übermittlung der Meldungen zwischen ihnen und Sedex sicherzustellen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Meldeprozesse",
+      "content": "1 Der Datenaustausch erfolgt über folgende Meldeprozesse: a. Meldung einer Prämienverbilligung durch die kantonale Stelle nach Artikel 106 b Absatz 1 KVV; b. Meldung der Verkürzung oder Aufhebung einer Prämienverbilligung durch die kantonale Stelle nach Artikel 106 b Absatz 1 KVV; c. Meldung von wesentlichen Änderungen des Versicherungsverhältnisses durch den Versicherer; d. Meldung der Jahresrechnung durch den Versicherer; e. Meldung der tatsächlichen Prämie nach Artikel 16 d ELV durch den Versicherer. 2 Als wesentliche Änderungen des Versicherungsverhältnisses gelten Änderungen der Versicherungsdaten, die für die Gewährung der Prämienverbilligung entscheidend sind. 3 Die Kantone können weitere Meldeprozesse vorsehen. Eingefügt durch Ziff. I der V des EDI vom 4. Juni 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2537 ). AS 2020 599"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Standard für den Datenaustausch",
+      "content": "1 Die Verbundsteilnehmerinnen müssen für die Meldeprozesse nach Artikel 5 Absatz 1 die Struktur und Semantik der zu meldenden Daten (Meldeformat), die Aktionen, Reaktionen und Optionen der am Verbund Beteiligten (Verhalten) sowie die Grundlagen zur technischen Einbindung in den Verbund (Meldungsübermittlung) gemäss dem «Konzept Datenaustausch Prämienverbilligung», Version 4.1 vom 25. März 2020, (PV-Standard) einhalten. 2 Der Begriff der Tarifprämie nach Ziffer 3.2.5 des PV-Standards entspricht dem Begriff der tatsächlichen Prämie nach Artikel 16 d ELV. Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2537 ). Das Dokument ist einsehbar unter: www.bag.admin.ch > Versicherungen > Krankenversicherung > Versicherer und Aufsicht > Datenaustausch für die Prämienverbilligung zwischen Versicherern und Kantonen. AS 2020 599"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Zu meldende Daten",
+      "content": "1 Die Verbundsteilnehmerinnen melden die nach dem PV-Standard für die Meldeprozesse nach Artikel 5 Absatz 1 notwendigen Daten. 2 Sie dürfen Zusatzdaten im Sinne von Ziffer 3.2.17 des PV-Standards melden, wenn das kantonale Recht dies vorsieht. 3 Die kantonalen Stellen nach Artikel 106 b Absatz 1 KVV dürfen Änderungen beim Betrag der jährlichen Ergänzungsleistung nach dem ELG, die den Pauschalbetrag für die obligatorische Krankenpflegeversicherung nicht beeinflussen, nicht melden. Fassung gemäss Ziff. I der V des EDI vom 20. Sept. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5527 ). SR 831.30"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Test der Meldeprozesse",
+      "content": "1 Die Verbundsteilnehmerinnen sind verpflichtet, vor dem Start des Datenaustauschs die Meldeprozesse nach Artikel 5 Absatz 1 mit den Daten nach Artikel 7 Absatz 1 zu testen. 2 Das Testverfahren ist im «Test- und Einführungskonzept Datenaustausch Prämienverbilligung», Version 2.1 vom 21. August 2013, festgelegt. Das Dokument ist einsehbar unter: www.bag.admin.ch > Versicherungen > Krankenversicherung > Versicherer und Aufsicht > Datenaustausch für die Prämienverbilligung zwischen Versicherern und Kantonen. Fassung gemäss Ziff. I der V des EDI vom 27. Nov. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 4525 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 Übergangsbestimmung zur Änderung vom 4. Juni 2020",
+      "content": "Bis zum 31. Oktober 2020 dürfen die Verbundsteilnehmerinnen das «Konzept Datenaustausch Prämienverbilligung» in der Version 2.4 vom 9. Mai 2017 verwenden. Fassung gemäss Ziff. I der V des EDI vom 4. Juni 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2537 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "10 Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2013 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,212 @@
+{
+  "id": "sr-814-680",
+  "type": "statute",
+  "title": "Verordnung vom 26. August 1998 über die Sanierung von belasteten Standorten (Altlasten-Verordnung, AltlV)",
+  "title_en": "Ordinance of 26 August 1998 on the Remediation of Polluted Sites (Contaminated Sites Ordinance, CSO)",
+  "short_name": "AltlV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Provisions",
+      "section": "1",
+      "title": "Aim and subject matter",
+      "content": "1 This Ordinance is intended to ensure that polluted sites are remediated if they cause harmful effects or nuisances, or if there is a real danger that such effects may arise. 2 It regulates the following procedures for treating polluted sites: a. their recording in a register; b. the assessment of the need for monitoring and remediation; c. the assessment of the objectives and urgency of remediation; d. the specification of the measures for investigation, monitoring and remediation."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Provisions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "1 Polluted sites means sites whose pollution originates from waste, and that are restricted in area. They comprise: a. waste disposal sites, i.e. inoperative or operative landfills and other sites where waste has been deposited, except for sites at which only unpolluted excavation material, quarried material or spoil have been deposited; b. industrial sites, i.e. sites whose pollution originates from inoperative or operative installations or industrial operations in which environmentally hazardous substances have been used; c. accident sites, i.e. sites polluted as a result of extraordinary events, including industrial accidents. 2 Sites in need of remediation are polluted sites that cause harmful effects or nuisances or where there is a real danger that such effects may arise. 3 Contaminated sites are polluted sites in need of remediation."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 General Provisions",
+      "section": "3",
+      "title": "Construction and alteration of buildings and installations",
+      "content": "Polluted sites may be modified by the construction or alteration of buildings and installations only if: a. they are not in need of remediation and the project does not make their remediation necessary; or b. their later remediation is not seriously hampered, or, insofar as they are modified by the project, they are remediated at the same time."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 General Provisions",
+      "section": "4",
+      "title": "General requirements for measures",
+      "content": "Investigation, monitoring and remediation measures under this Ordinance must correspond to the state of the art and be documented by those responsible."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Register of Polluted Sites",
+      "section": "5",
+      "title": "Creation of the Register",
+      "content": "1 The authorities shall identify the polluted sites by evaluating existing information such as maps, registers and reports. They may obtain information from the holders of the sites or from third parties. 2 They shall give notice of the content of the proposed register entry to the holders and provide them with the opportunity to state their opinion and to provide clarification. At the request of the holders, the authorities shall issue a declaratory ruling. 3 They shall enter in the Register those sites that are established as polluted in accordance with paragraphs 1 and 2 or where there is a high probability that they are polluted. Where possible, the entries shall contain the following information: a. location; b. type and quantity of waste delivered to the site; c. period of disposal of waste, period of operation, or time of accident; d. investigations and measures already taken for the protection of the environment; e. effects that have already been ascertained; f. endangered environmental areas; g. particular events such as waste incineration, landslides, floods, fires or major accidents. 4 The authorities shall divide the polluted sites into the following categories based on the information contained in the Register, particularly with regard to type and quantity of waste delivered to the site: a. sites from which no harmful effects or nuisances are to be expected; and b. sites requiring an investigation as to whether they are in need of monitoring or remediation. 5 The authorities shall prepare a list of priorities for performing the investigations. In doing so, they shall pay due regard to the information contained in the Register concerning the type and quantity of waste delivered to the polluted site, the likelihood of substances being released and the importance of the environmental areas affected."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Register of Polluted Sites",
+      "section": "6",
+      "title": "Keeping the Register",
+      "content": "1 The authorities shall add information on the following to the entry in the Register: a. the need for monitoring and remediation; b. the objectives and urgency of remediation; c. the measures taken or ordered by them for the protection of the environment. 2 They shall delete the site entry in the Register if: a. the investigations show that the site is not polluted with environmentally hazardous substances; or b. the environmentally hazardous substances have been eliminated."
+    },
+    {
+      "provision_ref": "art6a",
+      "chapter": "Section 2 Register of Polluted Sites",
+      "section": "6a",
+      "title": "a Coordination with the structure and land use planning",
+      "content": "The authorities shall take account of the Register in their structure and land use planning. Inserted by Annex 6 No 9 of the Waste Management Ordinance of 4 Dec. 2015, in force since 1 Jan. 2016 ( AS 2015 5699 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 3 Need for Monitoring and Remediation",
+      "section": "7",
+      "title": "Preliminary investigation",
+      "content": "1 Based on the list of priorities, the authorities shall require a preliminary investigation to be carried out within a reasonable period for sites in need of investigation. This shall normally consist of a historical and a technical investigation, so that the need for monitoring and remediation can be assessed (Art. 8), and the environmental hazard evaluated (risk assessment). 2 The historical investigation shall establish the possible causes of the pollution of the site, in particular: a. the events and the temporal and spatial history of developments at the site; b. the procedures used for handling environmentally hazardous substances at the site. 3 Based on the historical investigation, a performance specification shall be prepared on the aim, extent and methods of the technical investigation. The performance specification shall be submitted to the authorities for comment. 4 The technical investigation shall establish the type and quantity of substances at the site, the likelihood of their release and the importance of the environmental areas affected."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 3 Need for Monitoring and Remediation",
+      "section": "8",
+      "title": "Assessment of the need for monitoring and remediation",
+      "content": "1 Based on the preliminary investigation, the authorities shall assess whether the polluted site is in need of monitoring or remediation in accordance with Articles 9–12. In doing so, they shall pay due regard to effects caused by other polluted sites or by third parties. 2 They shall state in the Register whether a polluted site is: a. in need of monitoring; b. in need of remediation (contaminated site); c. in need of neither monitoring nor remediation."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 3 Need for Monitoring and Remediation",
+      "section": "9",
+      "title": "Protection of groundwater",
+      "content": "1 Subject to paragraph 1 bis , a polluted site is deemed to be in need of monitoring to protect the groundwater, if: a. any of the concentration values specified in Annex 1 is exceeded in the eluate of the material at the site; b. for groundwater water protection areas A u , the concentration of substances originating from the site immediately downstream of the site exceeds 10 % of one of the concentration values specified in Annex 1; c. for groundwater outside water protection areas A u , the concentration of substances originating from the site immediately downstream of the site exceeds 40 % of one of the concentration values specified in Annex 1. 1bis If after several years of monitoring a site, it is established that, considering the evolution of pollutant concentrations and the characteristics of the site, it is highly probable that the site will not need remediation under paragraph 2, the site is deemed no longer to be in need of monitoring. 2 A polluted site is deemed to be in need of remediation to protect the groundwater, if: a. potential water pollutants originating from the site are detected in groundwater catchments of public interest in concentrations that exceed the detection threshold; b. for groundwater in water protection areas A u : the concentration of substances originating from the site immediately downstream of the site exceeds one-half the concentration value specified in Annex 1; c. for groundwater outside water protection area A u s: the concentration of substances originating from the site immediately downstream of the site exceeds double the concentration value specified in Annex 1; or d. it is in need of monitoring in accordance with paragraph 1 letter a, and, owing to insufficient retention capacity, or degradation of substances originating from the site, there is a real danger of groundwater pollution. Amended by No I of the O of 9 May 2012, in force since 1 Aug. 2012 ( AS 2012 2905 ). Inserted by No I of the O of 9 May 2012, in force since 1 Aug. 2012 ( AS 2012 2905 ). Amended by No I of the O of 22 March 2017, in force since 1 May 2017 ( AS 2017 2589 ). Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ( AS 1998 2863 ). In accordance with Article 29 para. 1 let. A of the O on the Protection of Waters of 28 Oct. 1998 ( SR 814.201 ). Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ( AS 1998 2863 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Protection of surface waters",
+      "content": "1 Subject to paragraph 1 bis , a polluted site is deemed to be in need of monitoring to protect the surface waters, if: a. any of the concentration values specified in Annex 1 is exceeded in the eluate of the material at the site which is susceptible of affecting surface waters; or b. in water that flows into surface waters, a concentration value specified in Annex 1 is exceeded for substances originating from the site. 1bis If after several years of monitoring a site, it is established that, considering the evolution of pollutant concentrations and the characteristics of the site, it is highly probable that the site will not need remediation under paragraph 2, the site is deemed no longer to be in need of monitoring. 2 For the protection of surface waters, a polluted site is deemed to be in need of remediation if: a. in water that flows into surface waters, the concentration of substances originating from the site exceeds by tenfold a concentration value specified in Annex 1; or b. it is in need of monitoring in accordance with paragraph 1 letter a, and owing to insufficient retention capacity, or degradation of substances originating at the site, there is a real danger of pollution of surface waters. Amended by No I of the O of 9 May 2012, in force since 1 Aug. 2012 ( AS 2012 2905 ). Inserted by No I of the O of 9 May 2012, in force since 1 Aug. 2012 ( AS 2012 2905 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Prevention of air pollution",
+      "content": "1 For the protection of persons from air pollution, a polluted site is deemed to be in need of monitoring if its interstitial air exceeds a concentration value specified in Annex 2, and the emission originating from the site reaches places that may regularly be frequented by persons for longer periods. 2 For the protection of persons from air pollution, a polluted site is deemed to be in need of remediation if its interstitial air exceeds a concentration value specified in Annex 2, and the emission originating from the site reaches places that may regularly be frequented by persons for longer periods. Amended by No I of the O of 22 March 2017, in force since 1 May 2017 ( AS 2017 2589 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Prevention of pollution of the soil",
+      "content": "1 Soil that is a polluted site or part thereof is deemed to be in need of remediation if a substance in the soil exceeds a concentration value specified in Annex 3. The foregoing also applies to soil that is already subject to a restriction of use. 2 Soil that is not in need of remediation in accordance with paragraph 1 despite being polluted sites or parts thereof, and the impacts of polluted sites on soil are assessed in accordance with the Ordinance of 1 July 1998 on the Pollution of Soil. Amended by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ( AS 2008 4771 ). SR 814.12"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Action of the authorities",
+      "content": "1 For polluted sites in need of monitoring, the authorities shall require a monitoring plan to be drawn up and suitable measures to be taken to detect a real danger of harmful effects or nuisances before these become manifest. The monitoring measures shall be applied until there is no longer any need for monitoring in accordance with Articles 9–12. 2 For sites that are in need of remediation (contaminated sites), the authorities shall require that: a. a detailed investigation be carried out within a reasonable period; b. the site be monitored until completion of remediation. Amended by No I of the O of 9 May 2012, in force since 1 Aug. 2012 ( AS 2012 2905 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 4 Objectives and Urgency of Remediation",
+      "section": "14",
+      "title": "Detailed investigation",
+      "content": "1 To specify the objectives and assess the urgency of remediation, the following detailed information shall be obtained and evaluated in a risk assessment: a. type, location, quantity and concentration of the environmentally hazardous substances at the polluted site; b. type, load and temporal development of the existing and possible impacts on the environment; c. location and importance of the environmental areas at risk. 2 If the results of the detailed investigation deviate substantially from those of the preliminary investigation, the authorities shall reassess whether the site is in need of remediation in accordance with Articles 9–12."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 4 Objectives and Urgency of Remediation",
+      "section": "15",
+      "title": "Objectives and urgency of remediation",
+      "content": "1 The objective of remediation is the elimination of impacts that led to the need for remediation in accordance with Articles 9–12, or of the real danger of such effects. 2 As regards remediation for the purpose of groundwater protection, deviation from the objective is made if: a. by this means the total environmental impact can be lessened; b. disproportionate costs would otherwise result; and c. the exploitability of groundwater in water protection areas A u is guaranteed, or if surface waters connected to groundwater outside water protection areas A u fulfil the requirements of the waters protection legislation regarding water quality. 3 As regards remediation for the purpose of surface waters protection, deviation from the objectives is made if: a. by this means the total environmental impact can be lessened; b. disproportionate costs would otherwise result; and c. the waters complies with the requirements of the waters protection legislation regarding water quality. 4 Remediation is deemed to be of particular urgency if an existing use is impaired or immediately endangered. 5 The authorities shall assess the objectives and the urgency of remediation on the basis of the detailed investigation. Amended by Annex 5 No 5 of the O on the Protection of Waters of 28 Oct. 1998, in force since 1 Jan. 1999 ( AS 1998 2863 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 5 Remediation",
+      "section": "16",
+      "title": "Remediation measures",
+      "content": "1 The objective of remediation must be achieved by measures that: a. enable environmentally hazardous substances to be eliminated (decontamination); or b. enable the diffusion of environmentally hazardous substances to be prevented in the long term and monitored (securing). 2 … Amended by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ( AS 2008 4771 ). Repealed by No I of the O of 22 March 2017, with effect from 1 May 2017 ( AS 2017 2589 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 5 Remediation",
+      "section": "17",
+      "title": "17 Remediation project",
+      "content": "The authorities shall require that for contaminated sites a remediation project be prepared within a time frame appropriate to the urgency of remediation. This shall describe in particular the following: a. the remediation measures including those for monitoring and for waste disposal, the effectiveness of the measures, the assessment of their results and the time expenditure; b. the impact of the proposed measures on the environment; c. the residual danger to the environment following remediation; d. the shares of the responsibility for the contaminated site in cases where the person required to carry out remediation measures demands a ruling on the allocation of costs (Art. 32 d para. 3 EPA). Now: para. 4."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 5 Remediation",
+      "section": "18",
+      "title": "Specification of essential measures",
+      "content": "1 The authority shall assess the remediation project. In doing so, it shall pay particular regard to the following: a. the environmental impact of the measures; b. their long-term effectiveness; c. the danger to the environment caused by the contaminated site before and after remediation; d. in cases of incomplete decontamination, the extent to which the measures may be monitored, avenues for remedying the deficiencies and securing the necessary funding for the proposed measures; e. whether the requirements for deviation from the remediation objective in accordance with Article 15 paragraphs 2 and 3 are satisfied. 2 On the basis of this assessment, it shall issue a ruling containing in particular: a. the final objectives of the remediation; b. the remediation measures, the assessment of results and the time frame to be adhered to; c. further charges and conditions for the protection of the environment. 3 By way of exception and with the consent of the Federal Office for the Environment (FOEN), the authority may authorise the reinstatement of contaminated excavated material that does not meet the requirements for the recovery of excavated material in accordance with Article 19 of the Waste Ordinance of 4 December 2015 at the location where the material was produced, provided: a. by this means the total environmental impact can be lessened; b. it is proven that the reinstated excavated material will not cause harmful effects or nuisances or there is no real danger that such effects may arise; and c. the location is monitored over the long term. SR 814.600 Inserted by No I of the O of 31 May 2024, in force since 1 July 2024 ( AS 2024 253 )."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Evaluation of results",
+      "content": "Persons required to carry out remediation measures must notify the authorities of the remediation measures carried out and demonstrate that the remediation objectives have been achieved. The authorities shall express an expert opinion in this regard. Amended by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ( AS 2008 4771 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 6 Obligation to carry out Investigation, Monitoring and Remediation Measures",
+      "section": "20",
+      "title": "",
+      "content": "1 The investigation, monitoring and remediation measures shall be carried out by the holder of the polluted site. 2 If the authorities have reason to believe that the pollution of the site was caused by the action of third parties, the authorities may require them to carry out the preliminary investigation, the monitoring measures or the detailed investigation. 3 If the pollution of the site was caused by the action of third parties, the authorities may require these with the approval of the holder to prepare the remediation project and perform the remediation measures."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 7 Final Provisions",
+      "section": "21",
+      "title": "Enforcement",
+      "content": "1 The cantons shall enforce this Ordinance unless it delegates enforcement to the Confederation. The cantons shall submit the information required in Article 5 paragraphs 3 and 5 and Article 6 as well as the information on remediated sites required by Article 17 to the FOEN by the end of each calendar year. 1bis The FOEN shall evaluate the information and inform the public regularly on the progress with the remediation of contaminated sites. 2 If federal authorities apply other federal acts or agreements or decisions under international law that relate to the subject matter of this Ordinance, they shall also enforce this Ordinance. The cooperation of the FOEN and of the cantons is governed by Article 41 paragraphs 2 and 4 EPA; statutory duties of secrecy are reserved. If the federal authorities dispense with issuing a ruling when specifying remediation measures (Art. 23 para. 3), they shall consult the cantons concerned about the intended measures. 3 The federal authorities shall determine the procedures for categorising polluted sites (Art. 5 para. 4), preparing the list of priorities (Art. 5 para. 5) and deleting entries in the Register (Art. 6 para. 2) after consultation with the FOEN. 4 They shall inform the cantons concerned of the content of the Register (Art. 5 and 6) at regular intervals. These shall include a reference to the relevant polluted sites in their own register. Amended by No II 16 of the O of 2 Feb. 2000 relating to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ( AS 2000 703 ). Amended by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ( AS 2008 4771 ). Second sentence amended by No I of the O of 22 March 2017, in force since 1 May 2017 ( AS 2017 2589 ). Inserted by Annex No II 2 of the O of 26. Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ( AS 2008 4771 ). Name in accordance with No I of the O of 31 May 2024, in force since 1 July 2024 ( AS 2024 253 ). This change has been made throughout the text. Amended by No I 2 of the O of 29 June 2011 on amendments of ordinances in the field of environment, in force since 1 Aug. 2011 ( AS 2011 3379 ). Amended by No I 2 of the O of 29 June 2011 on amendments of ordinances in the field of environment, in force since 1 Aug. 2011 ( AS 2011 3379 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 7 Final Provisions",
+      "section": "22",
+      "title": "",
+      "content": "Repealed by No II 16 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, with effect from 1 March 2000 ( AS 2000 703 )."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Collaboration with those concerned",
+      "content": "1 In enforcing this Ordinance, the authorities shall collaborate with those directly concerned. In particular, they shall examine whether voluntary measures provided for in sectoral agreements of the private sector are suitable for the enforcement of this Ordinance. 2 They shall endeavour to reach agreement with those directly concerned on the necessary assessments and measures in accordance with the requirements of this Ordinance. To this end, they shall consult those directly concerned at the earliest possible time. 3 They may dispense with issuing rulings if carrying out the required investigation, monitoring and remediation measures is guaranteed by other means."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Deviation from procedural regulations",
+      "content": "Deviation from the procedures specified in this Ordinance shall be permitted if: a. immediate measures for the protection of the environment are necessary; b. the need for monitoring or remediation can be assessed, or the required measures determined, on the basis of existing information; c. a polluted site is modified by the construction or alteration of a building or installation; d. voluntary measures by those directly concerned have an equivalent effect to those specified in the Ordinance."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Guidelines",
+      "content": "In preparing guidelines for implementing this Ordinance, the FOEN shall collaborate with the cantons and the industrial organisations concerned."
+    },
+    {
+      "provision_ref": "art25a",
+      "section": "25a",
+      "title": "a Geoinformation",
+      "content": "The FOEN shall specify the minimum geodata models and representation models for geographical base data in accordance with this Ordinance for which the Federal Office is designated as the specialist authority at federal level in Annex 1 to the Geoinformation Ordinance of 21 May 2008. Inserted by Annex 2 No 11 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ( AS 2008 2809 ). SR 510.620"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Amendment of current legislation",
+      "content": "… The amendment may be inspected in AS 1998 2261 ."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Transitional provision",
+      "content": "The Register (Art. 5) shall be prepared by 31 December 2003."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 October 1998."
+    }
+  ],
+  "definitions": []
+}

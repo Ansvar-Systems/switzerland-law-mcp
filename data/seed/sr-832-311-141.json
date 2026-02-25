@@ -1,0 +1,863 @@
+{
+  "id": "sr-832-311-141",
+  "type": "statute",
+  "title": "Verordnung vom 18. Juni 2021 über die Sicherheit und den Gesundheitsschutz der Arbeitnehmerinnen und Arbeitnehmer bei Bauarbeiten (Bauarbeitenverordnung, BauAV)",
+  "title_en": "",
+  "short_name": "BauAV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2021/384/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung legt die Massnahmen fest, die für die Sicherheit und den Gesundheitsschutz der Arbeitnehmerinnen und Arbeitnehmer bei Bauarbeiten getroffen werden müssen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Bauarbeiten: die Erstellung, die Instandstellung, die Änderung, der Unterhalt, die Kontrolle, der Rückbau und der Abbruch von Bauwerken, einschliesslich der vorbereitenden und abschliessenden Arbeiten, namentlich Arbeiten auf Dächern, Arbeiten an und mit Gerüsten, Arbeiten in Gräben, Schächten und Baugruben, Arbeiten, bei denen Gestein, Kies und Sand abgebaut wird, Arbeiten an wärmetechnischen Anlagen und Hochkaminen, am hängenden Seil, an und in Rohrleitungen, Untertagarbeiten sowie die Steinbearbeitung; b. Absturzhöhe: 1. bei einer Neigung der Arbeits- oder Verkehrsfläche bis und mit 60°: die Höhendifferenz zwischen der Absturzkante und der tiefstmöglichen Aufschlagstelle, 2. bei einer Neigung der Arbeits- oder Verkehrsfläche von mehr als 60°: die Höhendifferenz zwischen dem höchstmöglichen Ort, an dem ein Absturz beginnen kann, und der tiefstmöglichen Aufschlagstelle; c. durchbruchsichere Fläche: Fläche, die allen Belastungen standhält, die während der Ausführung von Arbeiten auftreten können."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "3",
+      "title": "Planung von Bauarbeiten",
+      "content": "1 Bauarbeiten müssen so geplant werden, dass das Risiko von Berufsunfällen, Berufskrankheiten oder Gesundheitsbeeinträchtigungen möglichst klein ist und die notwendigen Sicherheitsmassnahmen, namentlich bei der Verwendung von Arbeitsmitteln, eingehalten werden können. 2 Besteht der Verdacht, dass besonders gesundheitsgefährdende Stoffe wie Asbest oder polychlorierte Biphenyle (PCB) auftreten können, so muss der Arbeitgeber die Gefährdungen eingehend ermitteln und beurteilen. Darauf abgestützt sind die erforderlichen Massnahmen zu planen. 3 Der Arbeitgeber, der sich im Rahmen eines Werkvertrags als Unternehmer zur Ausführung von Bauarbeiten verpflichten will, hat vor dem Vertragsabschluss zu prüfen, welche Massnahmen notwendig sind, um die Arbeitssicherheit und den Gesundheitsschutz bei der Ausführung seiner Arbeiten zu gewährleisten. 4 Die von den Ergebnissen der Gefährdungsbeurteilung nach Absatz 2 abhängenden Massnahmen sind in den Werkvertrag aufzunehmen und in der gleichen Form zu spezifizieren wie die übrigen Inhalte des Werkvertrags. 5 Die baustellenspezifischen Massnahmen, die nicht bereits umgesetzt werden, sind in den Werkvertrag aufzunehmen und in der gleichen Form zu spezifizieren wie die übrigen Inhalte des Werkvertrags. Bereits umgesetzte baustellenspezifische Massnahmen sind im Werkvertrag anzumerken. 6 Als baustellenspezifische Massnahmen gelten die Massnahmen, die bei Bauarbeiten zum Schutz der Arbeitnehmerinnen und Arbeitnehmer mehrerer Unternehmen getroffen werden, namentlich: a. Absturzsicherungsmassnahmen, insbesondere mit Hilfe von Gerüsten, Auffangnetzen, Laufstegen, einem Seitenschutz und von Bodenabdeckungen; b. Sicherungsmassnahmen in Gräben und Baugruben, insbesondere mit Hilfe von Spriessungen und Böschungen; c. Hohlraumsicherungsmassnahmen bei Untertagarbeiten; und d. Gesundheitsschutzmassnahmen, insbesondere mit Hilfe von Baugüteraufzügen und sanitären Einrichtungen. 7 Überträgt der Arbeitgeber die Umsetzung des Werkvertrags einem anderen Arbeitgeber, so muss er sicherstellen, dass dieser die im Werkvertrag enthaltenen Sicherheits- und Gesundheitsschutzmassnahmen umsetzt. 8 Der Arbeitgeber, der Bauarbeiten ausführt, hat dafür zu sorgen, dass geeignete Materialien, Installationen und Geräte in genügender Menge und rechtzeitig zur Verfügung stehen. Sie müssen sich in betriebssicherem Zustand befinden und den Anforderungen der Arbeitssicherheit und des Gesundheitsschutzes entsprechen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "4",
+      "title": "Sicherheits- und Gesundheitsschutzkonzept",
+      "content": "1 Der Arbeitgeber hat dafür zu sorgen, dass vor Beginn der Bauarbeiten ein Konzept vorliegt, in dem die für seine Arbeiten auf der Baustelle erforderlichen Sicherheits- und Gesundheitsschutzmassnahmen aufgezeigt werden. Das Konzept muss namentlich die Notfallorganisation regeln. 2 Es muss schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, erstellt werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "5",
+      "title": "Organisation der Arbeitssicherheit und des Gesundheitsschutzes",
+      "content": "1 Der Arbeitgeber muss auf jeder Baustelle eine Person bezeichnen, die für die Arbeitssicherheit und den Gesundheitsschutz zuständig ist; diese Person muss den Arbeitnehmerinnen und Arbeitnehmern entsprechende Weisungen erteilen können. 2 Wer durch sein Verhalten oder seinen Zustand sich selbst oder andere gefährdet, ist von der Baustelle wegzuweisen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "6",
+      "title": "Schutzhelmtragpflicht",
+      "content": "1 Die Arbeitnehmerinnen und Arbeitnehmer müssen bei allen Arbeiten, bei denen sie durch herunterfallende Gegenstände oder Materialien gefährdet werden können, einen Schutzhelm tragen. 2 In jedem Fall ist ein Schutzhelm zu tragen: a. bei Hochbau- und Brückenbauarbeiten bis zum Abschluss des Rohbaus; b. bei Arbeiten im Bereich von Kranen , Aushubgeräten und Spezialtiefbaumaschinen; c. beim Graben- und Schachtbau sowie beim Erstellen von Baugruben; d. in Steinbrüchen; e. bei Untertagarbeiten, mit Ausnahme von Installationsarbeiten in Technikräumen, bei denen eine Gefährdung durch herunterfallende Gegenstände oder Materialien ausgeschlossen werden kann; f. bei Sprengarbeiten; g. bei Rückbau- oder Abbrucharbeiten; h. bei Gerüstbauarbeiten; i. bei Arbeiten an und in Rohrleitungen. 3 In jedem Fall ist ein Schutzhelm mit Kinnband zu tragen: a. bei Arbeiten mit einer persönlichen Schutzausrüstung gegen Absturz (Seilsicherung); b. bei Arbeiten am hängenden Seil; c. bei Arbeiten im Bereich von Helikoptern."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Warnkleider",
+      "content": "Bei Arbeiten im Bereich von Verkehrsmitteln wie Baumaschinen und Transportfahrzeugen oder bei Arbeiten im Bereich von öffentlichen Verkehrswegen müssen die Arbeitnehmerinnen und Arbeitnehmer Warnkleider in farbigem fluoreszierendem Material höchster Auffälligkeit und mit retroreflektierenden Flächen tragen."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Rettung von Verunfallten",
+      "content": "1 Es muss gewährleistet sein, dass Verunfallte gerettet werden können. 2 Den Arbeitnehmerinnen und Arbeitnehmern sind die Notrufnummern der Rettungsdienste, wie Ärztin oder Arzt, Spital, Ambulanz, Polizei, Feuerwehr und Helikopter, der nächsten Umgebung in geeigneter Form bekannt zu geben."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Arbeitsplätze und Verkehrswege",
+      "section": "9",
+      "title": "Allgemeine Anforderungen",
+      "content": "1 Die Arbeitsplätze müssen sicher und über sichere Verkehrswege zu erreichen sein. 2 Zur Gewährleistung der Sicherheit der Arbeitsplätze und der Verkehrswege sind Absturzsicherungen nach den Artikeln 22–29 anzubringen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Arbeitsplätze und Verkehrswege",
+      "section": "10",
+      "title": "Entfernung von scharfkantigen und spitzigen Gegenständen",
+      "content": "Scharfkantige und spitzige Gegenstände sind zu entfernen oder abzudecken. Vorstehende Armierungsstäbe müssen mit Haken ausgebildet sein. Ist dies nicht möglich, so ist die Verletzungsgefahr durch geeignete Abdeckungen auszuschliessen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Abschnitt: Arbeitsplätze und Verkehrswege",
+      "section": "11",
+      "title": "Verkehrswege",
+      "content": "Zur Gewährleistung der Sicherheit der Verkehrswege gehören folgende Massnahmen: a. Baustellenzugänge müssen mindestens 1 m breit sein, die übrigen Verkehrswege mindestens 60 cm breit. b. Die Verkehrswege sind freizuhalten. c. Bei Gleitgefahr müssen die Verkehrswege durch geeignete Massnahmen gesichert werden. Sie sind insbesondere von Schnee und Eis zu befreien. d. Bei Steigungen von mehr als 10 Grad muss eine Rutschsicherung angebracht sein. e. An Treppen mit mehr als fünf Stufen ist ein Handlauf anzubringen; gibt es eine Absturzseite, so ist anstelle eines Handlaufes ein Seitenschutz anzubringen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "2. Abschnitt: Arbeitsplätze und Verkehrswege",
+      "section": "12",
+      "title": "Nicht durchbruchsichere Flächen, Bauteile und Abdeckungen",
+      "content": "1 Bei nicht durchbruchsicheren Flächen, Bauteilen und Abdeckungen sind Abschrankungen anzubringen oder andere Massnahmen zu treffen, damit sie nicht versehentlich begangen werden. Nötigenfalls sind sie mit tragfähigen Abdeckungen oder Laufstegen zu überbrücken. 2 Verkehrswege über nicht durchbruchsichere Flächen sind über Laufstege mit beidseitigem Seitenschutz zu führen. 3 An den Zugängen zu nicht durchbruchsicheren Flächen sind Anschlagtafeln anzubringen, mit denen die Arbeitnehmerinnen und Arbeitnehmer in ihnen verständlichen Sprachen oder Symbolen darauf hingewiesen werden, dass das Betreten der Fläche verboten ist."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "2. Abschnitt: Arbeitsplätze und Verkehrswege",
+      "section": "13",
+      "title": "Laufstege und Abdeckungen",
+      "content": "Laufstege und Abdeckungen müssen eine ihrer Funktion entsprechende Grösse und Stärke aufweisen sowie gegen Verrutschen gesichert sein."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Abschnitt: Arbeitsplätze und Verkehrswege",
+      "section": "14",
+      "title": "Durchgang bei sich bewegenden Anlageteilen",
+      "content": "Zwischen sich bewegenden Anlageteilen und festen Hindernissen ist ein freier Durchgang von 0,5 m Breite und 2,5 m Höhe freizuhalten. Wird eines dieser Masse unterschritten, so ist der Durchgang zu sperren oder sind die Anlageteile zu verschalen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "2. Abschnitt: Arbeitsplätze und Verkehrswege",
+      "section": "15",
+      "title": "Zugang bei Niveauunterschieden",
+      "content": "Sind zum Erreichen der Arbeitsplätze Niveauunterschiede von mehr als 50 cm zu überwinden, so sind Treppen oder andere geeignete Arbeitsmittel zu verwenden."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "2. Abschnitt: Arbeitsplätze und Verkehrswege",
+      "section": "16",
+      "title": "Fahrbahnen",
+      "content": "1 Fahrbahnen müssen so konzipiert sein, dass sie den zu erwartenden Lasten standhalten. 2 Bei Kunstbauten wie Brücken oder Dämmen muss ein durch eine Fachingenieurin oder einen Fachingenieur erstellter Nachweis der Tragfähigkeit der Fahrbahn vorliegen. Die Traglast der Fahrbahn ist auf einem Schild anzugeben . 3 An Fahrbahnen mit Absturzgefahr wie Fahrbahnen bei Brücken, Bermen, Dämmen oder Rampen sind wirksame Absturzsicherungsmassnahmen wie das Montieren von Leitplanken oder Radabweisern zu treffen. 4 Dämme, Bermen und Rampen müssen so angelegt und befestigt sein, dass sie nicht brechen, abrutschen oder einstürzen können. Dazu muss der Abstand zwischen dem Fahrspurrand und dem Rand des Dammes, der Berme oder der Rampe den Bodenverhältnissen angepasst sein, mindestens aber 1 m betragen. Ist dies aus Platzgründen nicht möglich, so sind geeignete technische Massnahmen zu treffen. 5 Es sind Massnahmen zum Schutz der Arbeitnehmerinnen und Arbeitnehmer namentlich vor Steinen, Schmutz und Spritzwasser zu treffen."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Schutz vor einstürzenden Bauteilen und herabfallenden Gegenständen und Materialien",
+      "content": "Bei Arbeitsplätzen und Verkehrswegen sind Massnahmen zu treffen, damit Arbeitnehmerinnen und Arbeitnehmer nicht durch einstürzende Bauteile oder herabfallende, herabgleitende, herabrollende oder herabfliessende Gegenstände oder Materialien gefährdet werden."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Werfen oder Fallenlassen von Gegenständen und Materialien",
+      "content": "Gegenstände und Materialien dürfen nur geworfen oder fallen gelassen werden, wenn der Zugang zum Gefahrenbereich abgesperrt ist oder wenn die Gegenstände oder Materialien auf der ganzen Länge über Kanäle, geschlossene Rutschen oder Ähnliches geführt werden."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Fahrten von Transportfahrzeugen und Baumaschinen",
+      "content": "1 Es ist sicherzustellen, dass sich keine Personen im Gefahrenbereich von Transportfahrzeugen und Baumaschinen aufhalten können. Müssen sich Personen im Gefahrenbereich aufhalten, so sind die erforderlichen technischen Massnahmen zu treffen, wie der Einsatz von Kameras oder das Anbringen von Spiegeln, oder der Gefahrenbereich ist durch eine Hilfsperson zu überwachen. Die Hilfsperson darf sich nicht im Gefahrenbereich aufhalten. 2 Rückwärtsfahrten von Transportfahrzeugen und Baumaschinen sind so kurz wie möglich zu halten."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "3. Abschnitt: Leitern",
+      "section": "20",
+      "title": "Anforderungen",
+      "content": "1 Es dürfen nur Leitern verwendet werden, die: a. insbesondere bezüglich Belastbarkeit und Standfestigkeit für die beabsichtigte Verwendung geeignet sind; und b. unbeschädigt sind. 2 Leitern müssen auf einer tragfähigen Unterlage stehen und gegen Wegrutschen, Drehen und Kippen gesichert sein. 3 Der Standort ist so zu wählen, dass keine Gefahr besteht, durch herabfallende Gegenstände oder Materialien getroffen zu werden. 4 Bei Anstellleitern dürfen die obersten drei Sprossen nur dann bestiegen werden, wenn beim Austritt eine Plattform und eine Haltevorrichtung vorhanden sind. 5 Bei Bockleitern dürfen die obersten zwei Sprossen nicht bestiegen werden. Bockleitern dürfen nur vom Leiterfuss her begangen und verlassen werden."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "3. Abschnitt: Leitern",
+      "section": "21",
+      "title": "Arbeiten von tragbaren Leitern aus",
+      "content": "1 Von tragbaren Leitern aus dürfen Arbeiten nur ausgeführt werden, wenn kein anderes Arbeitsmittel in Bezug auf die Sicherheit besser geeignet ist. 2 Ab einer Absturzhöhe von mehr als 2 m dürfen Arbeiten von tragbaren Leitern aus nur von kurzer Dauer sein und es sind Absturzsicherungsmassnahmen zu treffen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "4. Abschnitt: Absturzsicherungen",
+      "section": "22",
+      "title": "Anforderungen an den Seitenschutz",
+      "content": "1 Ein Seitenschutz besteht aus einem Geländerholm, mindestens einem Zwischenholm und einem Bordbrett. 2 Die Oberkante des Geländerholms muss mindestens 100 cm über der Standfläche liegen. 3 Die Bordbretter müssen eine Höhe von mindestens 15 cm ab der Standfläche aufweisen. 4 Der Abstand zwischen Geländer- und Zwischenholm, zwischen Bordbrett und Zwischenholm und zwischen den Zwischenholmen darf nicht mehr als 47 cm betragen. 5 Anstelle von Geländer- und Zwischenholmen können Rahmen oder Gitter mit einer Maschenweite von maximal 25 cm verwendet werden, sofern sie den gleichen Schutz bieten. 6 Der Seitenschutz ist so zu befestigen, dass er nicht unbeabsichtigt entfernt werden oder sich lösen kann."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "4. Abschnitt: Absturzsicherungen",
+      "section": "23",
+      "title": "Verwendung des Seitenschutzes",
+      "content": "1 Ein Seitenschutz ist zu verwenden bei ungeschützten Stellen: a. mit einer Absturzhöhe von mehr als 2 m; b. bei Böschungen mit einer Höhe von mehr als 2 m und einer Neigung von mehr als 45°; c. im Bereich von Gewässern. 2 Bei Verkehrswegen im Bereich von Gewässern oder Böschungen genügt es, wenn der Seitenschutz nur aus einem Geländerholm besteht. 3 Bei Gräben für den Bau von Werkleitungen kann auf den Seitenschutz verzichtet werden, wenn sich keine Arbeitnehmerinnen und Arbeitnehmer im Bereich des Grabenrandes aufhalten müssen und die Baustelle gut sichtbar signalisiert ist."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "4. Abschnitt: Absturzsicherungen",
+      "section": "24",
+      "title": "Niveauunterschiede bei Böden",
+      "content": "Im Gebäudeinnern sind bei Böden Niveauunterschiede von mehr als 50 cm mit einem Geländerholm abzuschranken."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. Abschnitt: Absturzsicherungen",
+      "section": "25",
+      "title": "Bodenöffnungen",
+      "content": "Bodenöffnungen, bei denen die Gefahr besteht, dass man hineinfällt oder hineintritt, sind mit einem Seitenschutz abzuschranken oder mit einer durchbruchsicheren und unverrückbaren Abdeckung zu versehen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "4. Abschnitt: Absturzsicherungen",
+      "section": "26",
+      "title": "Fassadengerüste bei Hochbauarbeiten",
+      "content": "1 Wird bei Hochbauarbeiten die Absturzhöhe von 3 m überschritten, so ist ein Fassadengerüst zu erstellen. 2 Der oberste Holm des Fassadengerüstes hat während der ganzen Dauer der Bauarbeiten die höchste Absturzkante um mindestens 80 cm oder, wenn der Seitenschutz des Gerüstes näher als 60 cm zur Absturzkante liegt, um mindestens 100 cm zu überragen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "4. Abschnitt: Absturzsicherungen",
+      "section": "27",
+      "title": "Auffangnetz und Fanggerüst für die Montage von vorgefertigten Dach- und Deckenelementen",
+      "content": "1 Für die Montage von vorgefertigten Dach- und Deckenelementen sind bei einer Absturzhöhe von mehr als 3 m über die ganze Fläche Auffangnetze oder Fanggerüste zu verwenden. 2 Der Arbeitgeber hat dafür zu sorgen, dass Auffangnetze und Fanggerüste täglich einer Sichtkontrolle unterzogen werden. Bei Mängeln dürfen Arbeiten, für die das Auffangnetz oder das Fanggerüst als Absturzsicherung dient, nicht ausgeführt werden."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Betreten von vorgefertigten Dach- und Deckenelementen",
+      "content": "Vorgefertigte Dach- und Deckenelemente dürfen erst betreten werden, wenn sie befestigt sind."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Andere Absturzsicherungen",
+      "content": "1 Wo das Anbringen eines Seitenschutzes nach Artikel 22, eines Fassadengerüstes nach Artikel 26 oder eines Auffangnetzes oder Fanggerüstes nach Artikel 27 technisch nicht möglich oder zu gefährlich ist, sind gleichwertige Schutzmassnahmen zu treffen. 2 Die Schutzmassnahmen müssen unter Beizug einer Spezialistin oder eines Spezialisten für Arbeitssicherheit nach Artikel 11 a der Verordnung vom 19. Dezember 1983 über die Unfallverhütung (VUV) schriftlich festgelegt werden. SR 832.30"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "5. Abschnitt: Bestehende Anlagen und Energieversorgung",
+      "section": "30",
+      "title": "Bestehende Anlagen",
+      "content": "1 Vor Beginn der Bauarbeiten muss abgeklärt werden, ob im Arbeitsbereich Anlagen vorhanden sind, durch die Personen gefährdet werden können, namentlich elektrische Anlagen, Verkehrsanlagen, Leitungen, Kanäle, Schächte und Anlagen mit Explosionsgefahr oder gefährlichen Stoffen. 2 Sind solche Anlagen vorhanden, so ist mit deren Eigentümern oder Betreibern schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, festzulegen, welche Sicherheitsmassnahmen erforderlich sind und wer sie durchzuführen hat. 3 Werden solche Anlagen erst nach Arbeitsaufnahme entdeckt, so sind die Arbeiten einzustellen und ist die Bauherrschaft oder deren Vertretung zu benachrichtigen. Die Arbeiten dürfen erst wiederaufgenommen werden, wenn die erforderlichen Massnahmen getroffen worden sind."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "5. Abschnitt: Bestehende Anlagen und Energieversorgung",
+      "section": "31",
+      "title": "Energieversorgung auf Baustellen",
+      "content": "1 Für die Versorgung von Baustellen mit Energie sind die gesetzlichen Vorschriften und die anerkannten Regeln der Technik zu beachten. 2 Für Steckdosen mit einer Nennstromstärke von höchstens 32 A, die zum Anschluss beweglicher Geräte dienen, ist eine Fehlerstromschutzschaltung mit maximal 30 mA Nennauslösestrom obligatorisch. 3 Stromkreise zur Versorgung von Steckdosen mit einem Bemessungsstrom von mehr als 32 A müssen durch Fehlerstromschutzeinrichtungen geschützt sein."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "6. Abschnitt: Arbeitsumgebung",
+      "section": "32",
+      "title": "Besonders gesundheitsgefährdende Stoffe",
+      "content": "1 Besteht der Verdacht, dass besonders gesundheitsgefährdende Stoffe wie Asbest oder PCB auftreten können, so muss der Arbeitgeber die Massnahmen nach Artikel 3 Absatz 2 treffen. 2 Der Arbeitgeber hat die betroffenen Arbeitnehmerinnen und Arbeitnehmer über das Ergebnis von erstellten Schadstoffgutachten zu informieren. 3 Wird ein besonders gesundheitsgefährdender Stoff im Verlauf der Bauarbeiten unerwartet vorgefunden, so sind die betroffenen Arbeiten einzustellen und ist die Bauherrschaft oder deren Vertretung zu benachrichtigen."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "6. Abschnitt: Arbeitsumgebung",
+      "section": "33",
+      "title": "Luftqualität",
+      "content": "1 Es ist dafür zu sorgen, dass: a. am Arbeitsplatz der Sauerstoffgehalt der Luft zwischen 19 und 21 Volumenprozente beträgt; b. die Grenzwerte für gesundheitsgefährdende Stoffe in der Luft nach den Richtlinien über maximale Arbeitsplatz-Konzentrationen nach Artikel 50 Absatz 3 VUV nicht überschritten werden. 2 Gesundheitsgefährdende Stoffe, namentlich solche, die in Gräben, Kanalisationen, Schächten oder Tunnels sowie im Gebäudeinnern entstehen, sind: a. ohne Gefährdung von Personen ins Freie abzuleiten; b. mit einem Umluftsystem herauszufiltern; oder c. durch eine künstliche Lüftung zu verdünnen. 3 Gesundheitsgefährdende Stoffe, die bekanntermassen krebserzeugend sind, müssen ohne Gefährdung von Personen ins Freie abgeleitet werden. Ist dies in besonderen Fällen nicht möglich, so sind diese Stoffe gemäss dem Stand der Technik entweder mit einem Umluftsystem herauszufiltern oder durch eine künstliche Lüftung so zu verdünnen, dass die Exposition so tief wie möglich ist. 4 Die Luftqualität ist regelmässig zu überprüfen. 5 Kann die zum Schutz der Arbeitnehmerinnen und Arbeitnehmer erforderliche Luftqualität nicht durch technische oder organisatorische Massnahmen sichergestellt werden, so sind Atemschutzgeräte zu verwenden. 6 Müssen Atemschutzgeräte mit künstlicher Frischluftzufuhr verwendet werden, so sind Arbeitnehmerinnen und Arbeitnehmer einzusetzen, die aufgrund ihrer körperlichen Verfassung geeignet sind. Sie müssen über die auftretenden Gefahren informiert und in der Anwendung der Geräte instruiert worden sein. SR 832.30"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "6. Abschnitt: Arbeitsumgebung",
+      "section": "34",
+      "title": "Explosions- und Brandgefahr",
+      "content": "1 Um Explosionen und Brände zu verhüten und in Explosions- und Brandfällen allfällige Folgen für die Gesundheit der Arbeitnehmerinnen und Arbeitnehmer zu vermeiden, sind geeignete Massnahmen zu treffen. 2 Arbeiten, bei denen Brandgefahr besteht, sind so zu planen und auszuführen, dass die Arbeitsplätze im Brandfall gefahrlos verlassen werden können. 3 Löschmittel und Löscheinrichtungen, die den möglichen Brandstoffen angepasst sind, müssen in unmittelbarer Nähe zur Verfügung stehen. 4 Explosionsgefährdete Bereiche sind abzusperren und mit einem Warndreieck zu kennzeichnen."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "6. Abschnitt: Arbeitsumgebung",
+      "section": "35",
+      "title": "Ertrinkungsgefahr",
+      "content": "1 Bei Arbeiten an und über Gewässern sind zur Verhinderung eines Sturzes ins Wasser Massnahmen nach den Artikeln 23 und 29 zu treffen. 2 Sind die Massnahmen nach Absatz 1 technisch nicht möglich, so müssen: a. geeignete Schutz- und Rettungsausrüstungen wie Rettungswesten getragen werden; und b. Rettungsringe, Tauwerke, Wurfleinen und Haken zur Verfügung stehen. 3 Bei Arbeiten an, über und in fliessenden Gewässern, bei denen die Gefahr besteht, dass Arbeitnehmerinnen und Arbeitnehmer weggeschwemmt werden, sind Auffangvorrichtungen oder motorisierte Rettungsboote zur Verfügung zu stellen, es sei denn, die Rettung ist von einem Ort an der Oberfläche aus, namentlich vom Ufer, von Pontons, Flossen, Plattformen oder Stegen, gewährleistet. 4 Für Arbeiten an, über und in Gewässern sind Arbeitnehmerinnen und Arbeitnehmer einzusetzen, die aufgrund ihrer körperlichen Verfassung geeignet sind. Sie müssen über die auftretenden Gefahren informiert und in der Anwendung der Rettungsgeräte instruiert worden sein."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Lärm",
+      "content": "Kann die Lärmbelastung durch technische oder organisatorische Massnahmen nicht unter den Grenzwert nach den Richtlinien über Grenzwerte für physikalische Einwirkungen nach Artikel 50 Absatz 3 VUV gesenkt werden, so sind geeignete Gehörschutzmittel zu tragen. SR 832.30"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Sonne, Hitze und Kälte",
+      "content": "Bei Arbeiten bei Sonne, Hitze und Kälte sind die erforderlichen Massnahmen zum Schutz der Arbeitnehmerinnen und Arbeitnehmer zu treffen."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Beleuchtung",
+      "content": "Arbeitsplätze und Verkehrswege müssen über eine ausreichende Beleuchtung verfügen."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Naturgefahren",
+      "content": "1 In Zonen mit Naturgefahren wie Lawinen, Hochwasser, Murgängen, Erdrutschen oder Steinschlag dürfen Arbeiten nur ausgeführt werden, wenn: a. eine geeignete Überwachung gewährleistet ist; b. die Rettungskräfte alarmiert werden können; und c. der Transport einer verunfallten Person zwischen einem Arbeitsplatz und der nächsten Ärztin oder dem nächsten Arzt oder dem nächsten Spital sichergestellt ist. 2 Im Sicherheits- und Gesundheitsschutzkonzept nach Artikel 4 sind die Vorgaben der Behörden des Bundes und der Kantone in Bezug auf die Naturgefahren in ihrem Gebiet zu berücksichtigen. 3 Bei akuter Gefahr dürfen sich keine Arbeitnehmerinnen und Arbeitnehmer in der Gefahrenzone aufhalten."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "7. Abschnitt: Transport",
+      "section": "40",
+      "title": "",
+      "content": "1 Transportanlagen sind so einzurichten und in Stand zu halten, dass zwischen dem Personal, das die Anlagen steuert, und jeder Stelle, die bedient wird, direkte Sichtverbindung besteht. Ist dies wegen der örtlichen Verhältnisse nicht möglich, so muss ein zuverlässiges Kommunikationssystem eingerichtet werden. 2 Der Gefahrenbereich unterhalb einer Aufzugseinrichtung ist entweder abzusperren oder durch Warnposten zu sichern. Muss der Gefahrenbereich betreten werden, so ist die Einrichtung vorgängig stillzulegen und zu sichern. 3 Personentransporte dürfen nur mit Arbeitsmitteln ausgeführt werden, die vom Hersteller dafür vorgesehen sind. 4 Das zuständige Durchführungsorgan kann für spezielle Bauverfahren oder in begründeten Einzelfällen auf Antrag hin Ausnahmen von der Regelung nach Absatz 3 bewilligen. Der Antrag ist schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, einzureichen."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "1. Abschnitt: Schutz vor Stürzen über den Dachrand",
+      "section": "41",
+      "title": "Massnahmen an Dachrändern",
+      "content": "1 An sämtlichen Dachrändern sind ab einer Absturzhöhe von mehr als 2 m geeignete Massnahmen zu treffen, um Abstürze zu verhindern. Bei unterschiedlichen Dachneigungen ist für die zu treffenden Massnahmen die Neigung an der Dachtraufe massgebend. 2 Bei Dächern mit einer Neigung bis und mit 60° gilt Folgendes: a. Beträgt die Neigung weniger als 10°, so ist ein Spenglergang anzubringen, es sei denn, es wird ein durchgehender Seitenschutz nach Artikel 22 angebracht, innerhalb dessen alle Arbeiten ausgeführt werden können. b. Beträgt die Neigung zwischen 10° und 30°, so ist ein Spenglergang anzubringen. c. Beträgt die Neigung zwischen 30° und 45°, so ist ein Spenglergang mit einem Seitenschutz, der als Dachdeckerschutzwand nach Artikel 59 ausgestaltet ist, anzubringen. d. Beträgt die Neigung zwischen 45° und 60°, so ist ein Spenglergang mit einem Seitenschutz, der als Dachdeckerschutzwand nach Artikel 59 ausgestaltet ist, anzubringen und es sind zusätzliche Schutzmassnahmen wie das Errichten von Arbeitspodesten oder Seilsicherungen zu treffen. e. An giebelseitigen Dachrändern sind ein Geländerholm und ein Zwischenholm anzubringen, es sei denn, es ist ein durchgehender Spenglergang angebracht oder es wurden gleichwertige Schutzmassnahmen getroffen. 3 Bei Dächern mit einer Neigung über 60° darf, unabhängig von der Absturzhöhe, nur von Gerüsten oder Hubarbeitsbühnen aus gearbeitet werden."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "1. Abschnitt: Schutz vor Stürzen über den Dachrand",
+      "section": "42",
+      "title": "Dachfangwand bei Arbeiten auf bestehenden Dächern",
+      "content": "1 Für Arbeiten auf bestehenden Dächern mit einer Dachneigung bis 45° kann in Abweichung von Artikel 41 Absatz 2 Buchstaben a–c eine Dachfangwand verwendet werden. 2 Eine Dachfangwand ist eine Schutzeinrichtung auf geneigten Dachflächen, die verhindert, dass abrutschende Personen über den Dachrand abstürzen oder niedergehendes Material über den Dachrand herunterfällt. 3 Sie ist für eine dynamische Belastung zu bemessen . 4 Sie ist direkt an der Traufe zu errichten, hat diese um mindestens 80 cm zu überragen, muss eine Bauhöhe von mindestens 100 cm aufweisen und ist in der tragenden Unterkonstruktion zu verankern."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "1. Abschnitt: Schutz vor Stürzen über den Dachrand",
+      "section": "43",
+      "title": "Schutz vor Abstürzen durch Öffnungen zwischen Spenglergang und Fassade",
+      "content": "Beträgt die Öffnung zwischen dem Belag des Spenglergangs und der Fassade mehr als 30 cm, so sind Massnahmen zu treffen, die Abstürze durch diese Öffnung verhindern."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "2. Abschnitt: Schutz vor Stürzen durch das Dach",
+      "section": "44",
+      "title": "Allgemeines",
+      "content": "1 Vor Beginn der Arbeiten muss der Arbeitgeber abklären, ob die Dachflächen durchbruchsicher sind. 2 Kann nicht nachgewiesen werden, dass die Dachflächen durchbruchsicher sind, so gelten sie als nicht durchbruchsichere Dachflächen. 3 Bei Dachöffnungen sind, unabhängig von der Absturzhöhe, tragfähige und unverrückbare Absturzsicherungen nach den Artikeln 22–29 anzubringen."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "2. Abschnitt: Schutz vor Stürzen durch das Dach",
+      "section": "45",
+      "title": "Nicht durchbruchsichere Dachflächen",
+      "content": "1 Das Arbeiten auf nicht durchbruchsicheren Dachflächen ist nur von Laufstegen aus gestattet. 2 Ist das Anbringen von Laufstegen technisch nicht möglich oder mit unverhältnismässigem Aufwand verbunden, so sind ab einer Absturzhöhe von mehr als 3 m Auffangnetze oder Fanggerüste zu montieren. 3 Sind Arbeiten in der Nähe von nicht durchbruchsicheren Dachflächen auszuführen, so sind diese gegenüber den Arbeitsbereichen abzuschranken oder durchbruchsicher abzudecken."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "3. Abschnitt: Arbeiten von geringem Umfang",
+      "section": "46",
+      "title": "",
+      "content": "1 Bei Arbeiten, die pro Dach gesamthaft weniger als zwei Personenarbeitstage dauern, müssen die Absturzsicherungsmassnahmen erst bei einer Absturzhöhe von mehr als 3 m getroffen werden. Bei Gleitgefahr sind die Massnahmen bereits ab einer Absturzhöhe von mehr als 2 m zu treffen. 2 Folgende Massnahmen sind auf jeden Fall zu treffen: a. bei Dachneigungen bis und mit 60°: Seilsicherung; b. bei Dachneigungen von mehr als 60°: Verwendung von Hubarbeitsbühnen oder gleichwertigen Vorrichtungen."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "47",
+      "title": "Trag- und Widerstandsfähigkeit",
+      "content": "1 Es dürfen nur Gerüste und Gerüstbestandteile verwendet werden, die den Anforderungen an das Inverkehrbringen nach dem Bundesgesetz vom 12. Juni 2009 über die Produktesicherheit entsprechen. 2 Die Gerüste und Gerüstbestandteile müssen alle auf sie einwirkenden Kräfte, auch während des Auf-, Um- und Abbaus, aufnehmen können, namentlich: a. das Eigengewicht; b. Nutzlasten; c. Windkräfte; d. Schneelasten; e. dynamische Beanspruchung wie bei Sprüngen, Stürzen oder Erschütterungen; f. spezielle Kräfte, die während des Auf-, Um- und Abbaus auftreten. SR 930.11"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "48",
+      "title": "Nicht zu benützende Gerüstbestandteile",
+      "content": "Gerüstbestandteile, die verbogen, geknickt oder durch Korrosion oder anderswie beschädigt sind, dürfen nicht benützt werden."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "49",
+      "title": "Fundation",
+      "content": "Gerüste müssen auf eine tragfähige Unterlage abgestellt und gegen Wegrutschen gesichert werden."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "50",
+      "title": "Stabilität",
+      "content": "Gerüste sind so aufzubauen, dass sämtliche Bestandteile gegen unbeabsichtigtes Verschieben gesichert sind."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "51",
+      "title": "Verankerung",
+      "content": "1 Das Gerüst ist am Bauwerk zug- und druckfest zu verankern oder anderweitig in geeigneter Weise zu fixieren, namentlich durch Abstützen oder Abspannen. 2 Die Verankerung oder die anderweitige Fixierung ist fortlaufend dem Gerüstaufbau oder -abbau folgend zu montieren oder zu entfernen."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "52",
+      "title": "Ein- und Anbauten am Gerüst",
+      "content": "Wer Ein- und Anbauten jeglicher Art wie Aufzüge, Seilwinden, Konsolen, Werbetafeln oder Gerüstverkleidungen an ein Gerüst anbringen will, hat sich vorgängig zu vergewissern, dass das Gerüst bezüglich Tragsicherheit und Stabilität den zu erwartenden Zusatzkräften standhält. Für Ein- und Anbauten ist die Einwilligung des Gerüsterstellers erforderlich."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "2. Abschnitt: Arbeitsgerüste",
+      "section": "53",
+      "title": "Begriff",
+      "content": "Arbeitsgerüste sind Konstruktionen, die begehbare Arbeitsflächen am Bauwerk schaffen. Sie können auch als Absturzsicherung dienen."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "2. Abschnitt: Arbeitsgerüste",
+      "section": "54",
+      "title": "Verbot von Fassadengerüsten aus vertikal tragenden Holzstangen",
+      "content": "Fassadengerüste dürfen nicht aus vertikal tragenden Holzstangen erstellt werden."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "2. Abschnitt: Arbeitsgerüste",
+      "section": "55",
+      "title": "Tragfähigkeit und Belagsbreite",
+      "content": "Für folgende Arbeiten dürfen nur Arbeitsgerüste mit folgender minimalen Tragfähigkeit und Belagsbreite verwendet werden: Nutzlast in kN pro m 2 Minimale Belagsbreite (auch zwischen Ständern) Gerüstbezeichnung Arbeiten mit leichtem Material wie Verputz- oder Malerarbeiten 2,00 60 cm leichtes Arbeitsgerüst wie Verputz- oder Malergerüst Arbeiten mit Materiallagerung wie Maurerarbeiten 3,00 90 cm schweres Arbeitsgerüst wie Maurergerüst Arbeiten mit schwerem Material wie das Versetzen von Fertigelementen 4,50 90 cm besonders schweres Arbeitsgerüst wie Steinhauergerüst"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "2. Abschnitt: Arbeitsgerüste",
+      "section": "56",
+      "title": "Zugänge zu Arbeitsplätzen",
+      "content": "1 Gerüstgänge müssen über Gerüsttreppen sicher zugänglich sein. Anstelle von Gerüsttreppen dürfen in folgenden Fällen Durchstiegsbeläge verwendet werden: a. für den Zugang zum obersten Gerüstgang im Giebelbereich; b. bei Rollgerüsten; c. wenn Gerüsttreppen aus Platzgründen nicht montiert werden können. 2 Gerüsttreppen und Durchstiegsbeläge müssen so angebracht werden, dass sie von jedem Arbeitsplatz aus höchstens 25 m entfernt sind. 3 An Arbeitsgerüsten, die höher als 25 m sind, ist zudem mindestens ein Aufzug zu montieren, der vom Hersteller für Material- und Personentransporte vorgesehen ist. Der Aufzug ersetzt nicht die erforderlichen Zugänge. 4 An den Gerüsttreppen ist stirnseitig ein Seitenschutz nach Artikel 22 anzubringen."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "2. Abschnitt: Arbeitsgerüste",
+      "section": "57",
+      "title": "Gerüstgänge",
+      "content": "1 Die Gänge der Arbeitsgerüste sind in einem vertikalen Abstand von mindestens 1,9 m und höchstens 2,3 m anzuordnen. 2 Der Mindestabstand nach Absatz 1 gilt nicht für: a. die unterste Durchgangshöhe vom gewachsenen Terrain zum untersten Gerüstgang; b. die oberste Durchgangshöhe über dem obersten Gerüstgang. 3 Der Abstand des Belages von der Fassade darf in keiner Bauphase 30 cm übersteigen. Lässt sich dies nicht einhalten, so sind zusätzliche Massnahmen zu treffen, um einen Absturz zu verhindern."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Spenglergang",
+      "content": "1 Ein Spenglergang ist ein Gerüstgang, der das sichere Arbeiten am Dachrand ermöglicht. 2 Bei Absturzhöhen ab der Traufe oder ab dem Flachdachrand von mehr als 2 m ist maximal 1 m unterhalb der Traufe oder des Flachdachrandes ein Spenglergang zu erstellen. 3 Der Belag des Spenglergangs ist für eine dynamische Beanspruchung wie bei einem Sturz vom Dach zu bemessen. 4 Der Seitenschutz des Spenglergangs muss mindestens 60 cm von der fertigen Dachtraufe oder der Aussenkante des Daches entfernt stehen. Der oberste Holm muss mindestens 80 cm oberhalb des Dachrandes liegen."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Dachdeckerschutzwand",
+      "content": "1 Die Dachdeckerschutzwand ist eine Schutzeinrichtung am Spenglergang, die vom Dach stürzende Personen, Gegenstände und Materialien auffängt. 2 In der Dachdeckerschutzwand sind Öffnungen bis zu einer Fläche von je 100 cm 2 zulässig."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Montage und Demontage von Arbeitsgerüsten",
+      "content": "Die Montage und Demontage von Arbeitsgerüsten hat gemäss den Herstellerangaben zu erfolgen."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Sichtkontrolle und Unterhalt",
+      "content": "1 Der Arbeitgeber, dessen Arbeitnehmerinnen und Arbeitnehmer Arbeiten auf dem Arbeitsgerüst ausführen oder für die das Arbeitsgerüst als Absturzsicherung dient, hat dafür zu sorgen, dass das Arbeitsgerüst täglich einer Sichtkontrolle unterzogen wird. Weist es Mängel auf, so darf es nicht benützt werden. 2 Auf Gerüstbelägen sowie auf Zugängen, Auf- und Abstiegen muss überflüssiges oder gefährliches Material, namentlich Schutt, Schnee und Eis, entfernt werden."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Nutzlast eines Arbeitsgerüstes oder eines Materialpodestes",
+      "content": "1 Die Nutzlast eines Arbeitsgerüstes muss bei jedem Gerüstzugang gut sichtbar auf einem Schild angegeben sein. 2 Die Nutzlast jedes Materialpodestes muss beim Zugang zum Materialpodest gut sichtbar auf einem Schild angegeben sein."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Sperrung des Arbeitsgerüstes",
+      "content": "Arbeitsgerüste oder Bereiche von Arbeitsgerüsten, die zur Benutzung nicht freigegeben sind, müssen mit einer technischen Massnahme wie einem Seitenschutz gesperrt werden."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Änderungen am Arbeitsgerüst",
+      "content": "Änderungen am Arbeitsgerüst dürfen nur vom Gerüstersteller vorgenommen werden. Geringfügige Anpassungen dürfen in Absprache mit dem Gerüstersteller vorgenommen werden. Die Absprache muss schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, erfolgen."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Besondere Bestimmungen für Rollgerüste",
+      "content": "1 Rollgerüste sind vor der Benützung hinsichtlich der Art der auszuführenden Arbeiten und unter Berücksichtigung der Bodenverhältnisse auf ihre Standsicherheit zu prüfen. 2 Die gemäss Verwendungsanleitung vorgesehene maximale Einsatzhöhe darf nicht überschritten werden. 3 Die Rollgerüste müssen gegen unbeabsichtigtes Verschieben gesichert sein. Während des Verschiebens eines Rollgerüsts dürfen sich keine Personen darauf aufhalten."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "3. Abschnitt: Fanggerüste und Auffangnetze",
+      "section": "66",
+      "title": "Fanggerüste",
+      "content": "1 Fanggerüste sind Gerüste, die dazu dienen, Personen, Gegenstände und Materialien aufzufangen. Sie sind so anzubringen, dass Personen, Gegenstände und Materialien nicht tiefer als 2 m abstürzen oder herunterfallen können. 2 Wird ein Fanggerüst auskragend angebracht, so muss die horizontale Auskragung mindestens 1,5 m betragen. 3 Gibt es eine Absturzseite, so ist ein Seitenschutz nach Artikel 22 anzubringen. 4 Der Belag des Fanggerüstes ist für eine dynamische Beanspruchung zu bemessen."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "3. Abschnitt: Fanggerüste und Auffangnetze",
+      "section": "67",
+      "title": "Auffangnetze",
+      "content": "Auffangnetze sind so anzubringen, dass Personen nicht tiefer als 3 m abstürzen oder herunterfallen können."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "5. Kapitel: Gräben, Schächte und Baugruben",
+      "section": "68",
+      "title": "Allgemeines",
+      "content": "1 Gräben, Schächte und Baugruben sind so auszugestalten, dass keine Arbeitnehmerinnen und Arbeitnehmer durch herabfallende oder abrutschende Massen gefährdet werden. 2 Gräben, Schächte und Baugruben von mehr als 1,5 m Tiefe, die nicht verspriesst werden, sind gemäss Artikel 75 abzuböschen oder durch andere geeignete Massnahmen zu sichern."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "5. Kapitel: Gräben, Schächte und Baugruben",
+      "section": "69",
+      "title": "Minimale lichte Breite in Gräben und Schächten",
+      "content": "1 Gräben und Schächte müssen so erstellt werden, dass die lichte Breite ein sicheres Arbeiten gewährleistet. 2 Die lichte Breite ist der kleinste Abstand: a. zwischen Grabenwänden oder, sofern eine Spriessung vorhanden ist, zwischen gegenüberliegenden Spriesswänden; oder b. zwischen Baugrubenböschung und festen Bauteilen. 3 Muss der Graben für das Verlegen von Leitungen begangen werden, hat die lichte Breite zu betragen: a. ab einer Grabentiefe von mehr als 1 m: mindestens 60 cm; b. bei einem Innenrohrdurchmesser bis und mit 40 cm: mindestens 40 cm plus der Aussenrohrdurchmesser der Leitung; c. bei einem Innenrohrdurchmesser ab 40 cm bis und mit 120 cm: mindestens 60 cm, und dabei auf der einen Seite mindestens 40 cm, plus der Aussenrohrdurchmesser der Leitung; d. bei einem Innenrohrdurchmesser ab 120 cm: mindestens 80 cm, und dabei auf der einen Seite mindestens 60 cm, plus der Aussenrohrdurchmesser der Leitung."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "5. Kapitel: Gräben, Schächte und Baugruben",
+      "section": "70",
+      "title": "Minimale Breite des Arbeitsraums in Baugruben",
+      "content": "Die Breite des Arbeitsraums in Baugruben muss in jeder Bauphase mindestens 60 cm betragen."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "5. Kapitel: Gräben, Schächte und Baugruben",
+      "section": "71",
+      "title": "Freihaltung der Ränder von Gräben und Baugruben",
+      "content": "Ränder von Gräben und Baugruben müssen horizontal freigehalten werden: a. bei Spriessungen in Gräben und Sicherungen der Baugrubenwände mit Spund-, Pfahl-, Schlitz-, Nagelwänden und dergleichen: auf einer Breite von mindestens 50 cm; b. bei Böschungen: auf einer Breite von mindestens 1 m."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "5. Kapitel: Gräben, Schächte und Baugruben",
+      "section": "72",
+      "title": "Deponien von Aushub- und Baumaterial",
+      "content": "Deponien von Aushub- und Baumaterial sind so zu erstellen, dass keine Arbeitnehmerinnen und Arbeitnehmer gefährdet werden."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "5. Kapitel: Gräben, Schächte und Baugruben",
+      "section": "73",
+      "title": "Einsatz von Treppen und Leitern",
+      "content": "1 Für den Zugang zu Baugruben, in Gräben und in Schächten müssen sichere Arbeitsmittel, namentlich Treppen, eingesetzt werden. Die Treppen müssen im vertikalen Abstand von maximal 5 m mit Zwischenpodesten unterbrochen sein. 2 Anstelle von Treppen dürfen Leitern eingesetzt werden: a. für den Zugang zu Baugruben: bis zu einer Tiefe von 5 m und wenn aus technischen Gründen keine Treppen eingesetzt werden können; b. in Gräben und Schächten: bis zu einer Tiefe von 5 m."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "5. Kapitel: Gräben, Schächte und Baugruben",
+      "section": "74",
+      "title": "Verhinderung des Überfahrens von Graben-, Schacht- und Baugruben sowie von Böschungskanten",
+      "content": "Gegen das Überfahren von Graben-, Schacht- und Baugrubenrändern sowie von Böschungskanten sind im Bereich von Fahrbahnen und Kippstellen die geeigneten Massnahmen zu treffen, namentlich durch: a. Geschwindigkeitsbegrenzungen; b. eine geeignete Verkehrsführung mit Signalisationen; c. Abschrankungen und Radabweiser."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Standfestigkeit des Baugrunds bei Böschungen",
+      "content": "1 Die Böschungsneigungen der Wände von Gräben und Baugruben sind der Standfestigkeit des Baugrunds anzupassen. 2 Wird die Standfestigkeit des Baugrunds durch äussere Einflüsse wie starke Niederschläge, Tauwetter, Lasten oder Erschütterungen beeinträchtigt, so sind geeignete Massnahmen zu treffen."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Sicherheitsnachweis bei Böschungen",
+      "content": "1 Bei Böschungen muss ein Sicherheitsnachweis einer Fachingenieurin oder eines Fachingenieurs oder einer Geotechnikerin oder eines Geotechnikers vorliegen, wenn: a. die Böschung mehr als 4 m hoch ist; b. die folgenden Verhältnisse zwischen Senkrechte und Waagrechte nicht eingehalten werden: 1. höchstens 2 : 1 bei gutem Material und bei mässig verfestigtem, jedoch noch standfestem Material, 2. höchstens 1 : 1 bei rolligem Material; c. die Böschung voraussichtlich durch Fahrzeuge, Baumaschinen oder Materialdepots zusätzlich belastet wird; oder d. Hangwasser zutritt oder der Böschungsfuss sich im Grundwasserbereich befindet. 2 Der Arbeitgeber hat dafür zu sorgen, dass die Fachingenieurin oder der Fachingenieur oder die Geotechnikerin oder der Geotechniker die Umsetzung der Massnahmen, die sich aus dem Sicherheitsnachweis ergeben, überprüft."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Anforderungen an Spriessungen",
+      "content": "1 Spriessungen müssen den zu erwartenden Belastungen und Beanspruchungen standhalten und nach den Regeln der Technik ausgeführt werden. 2 Bei der Dimensionierung der Spriessungen sind zusätzliche Belastungen wie Belastungen durch Fahrzeuge, Baumaschinen sowie Deponien von Aushub, Material und Geräten zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Ausführung der Spriessungen",
+      "content": "1 Die Spriessungen sind so auszuführen, dass benachbarte unverspriesste Wandteile keine Arbeitnehmerinnen und Arbeitnehmer gefährden. 2 Der unterste Teil der Grabenwände kann bis zu einer Höhe von höchstens 80 cm unverspriesst bleiben, soweit es das Material zulässt. 3 Die Spriesselemente dürfen in standfestem Material Zwischenräume von höchstens 20 cm aufweisen. 4 Hohlräume hinter Spriesswänden sind sofort satt auszufüllen. 5 Die Spriessungen müssen mindestens 15 cm über den Grabenrand vorstehen. 6 Gräben, die unterhalb von Böschungen senkrecht ausgehoben werden, sind auf der gesamten vertikalen Aushubtiefe zu verspriessen. 7 Beim Ein- und Ausbau der Spriessungen sowie beim Wiedereinfüllen der Gräben dürfen sich keine Arbeitnehmerinnen und Arbeitnehmer im ungesicherten Bereich aufhalten."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Sicherheitsnachweis bei Baugrundverbesserungen",
+      "content": "1 Baugrundverbesserungen wie Injektionen, Vermörtelungen und künstliche Vereisungen dürfen nur ausgeführt werden, wenn ein Sicherheitsnachweis einer Fachingenieurin oder eines Fachingenieurs oder einer Geotechnikerin oder eines Geotechnikers vorliegt. 2 Die notwendigen Prüfungen und Messungen sind nach den Anweisungen einer Fachingenieurin oder eines Fachingenieurs oder einer Geotechnikerin oder eines Geotechnikers durchzuführen. 3 Der Arbeitgeber hat dafür zu sorgen, dass die Fachingenieurin oder der Fachingenieur oder die Geotechnikerin oder der Geotechniker die Umsetzung der Massnahmen, die sich aus dem Sicherheitsnachweis ergeben, überprüft."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Überhänge an Böschungen oder Grabenwänden",
+      "content": "1 Überhänge an den Böschungen oder Grabenwänden sind unverzüglich zu beseitigen. 2 Freigelegte Gegenstände wie Bauwerksteile, Werkleitungen, Randsteine, Belagsteile, Findlinge, lose Steine, Bäume und Sträucher sind zu entfernen oder zu sichern."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "81",
+      "title": "",
+      "content": "1 Für Rückbau- und Abbrucharbeiten sind im Sicherheits- und Gesundheitsschutzkonzept nach Artikel 4 insbesondere die Massnahmen nach den Artikeln 17, 22–29 und 32–34 festzuhalten. Zusätzlich müssen die Massnahmen festgehalten werden, mit denen verhindert wird, dass: a. Bauteile unbeabsichtigt einstürzen; b. Arbeitnehmerinnen und Arbeitnehmer durch die Instabilität von Nachbarbauwerken, durch bestehende Anlagen, durch beschädigte Werkleitungen oder durch den plötzlichen Bruch von Zugseilen gefährdet werden; c. Arbeitnehmerinnen und Arbeitnehmer durch den Eintritt eines Seilbruches oder durch Materialwurf gefährdet werden. 2 Namentlich ist sicherzustellen, dass: a. das Betreten von Gefahrenzonen durch Schutzwände, Absperrungen oder Warnposten verhindert wird; b. die Arbeiten nur unter ständiger fachkundiger Aufsicht durchgeführt werden."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "2. Abschnitt: Bestimmungen für anerkannte Asbestsanierungsunternehmen",
+      "section": "82",
+      "title": "Grundsatz",
+      "content": "1 Asbestsanierungsarbeiten, bei denen erhebliche Mengen gesundheitsgefährdender Asbestfasern freigesetzt werden können, dürfen nur von Asbestsanierungsunternehmen ausgeführt werden, die von der Schweizerischen Unfallversicherungsanstalt (Suva) anerkannt sind. 2 Als Arbeiten nach Absatz 1 gelten insbesondere die vollständige oder teilweise Entfernung von und die Rückbau- oder Abbrucharbeiten an Gebäuden und Gebäudeteilen mit: a. asbesthaltigen Spritzbelägen; b. asbesthaltigen Boden-, Decken- und Wandbelägen; c. asbesthaltigem Fliesenkleber; d. asbesthaltigen Leichtbauplatten; e. asbesthaltigen Brandabschottungen; f. asbesthaltigen Dämmmaterialien; g. asbesthaltigen Schnüren, Matten und Kissen; h. asbesthaltigen Mörteln und Putzen; i. asbesthaltigem Karton."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "2. Abschnitt: Bestimmungen für anerkannte Asbestsanierungsunternehmen",
+      "section": "83",
+      "title": "Anerkennung von Asbestsanierungsunternehmen",
+      "content": "1 Asbestsanierungsunternehmen werden anerkannt, wenn sie: a. eine eigene Arbeitnehmerin oder einen eigenen Arbeitnehmer als Spezialistin und Spezialisten für Asbestsanierungen nach Artikel 84 beschäftigen und sicherstellen, dass während der Asbestsanierung eine solche Spezialistin oder ein solcher Spezialist anwesend ist und die Arbeiten überwacht; b. mindestens zwei weitere eigene Arbeitnehmerinnen oder Arbeitnehmer beschäftigen, die für diese Arbeiten nach Artikel 6 VUV instruiert worden sind und bei der Suva nach den Artikeln 70–89 VUV gemeldet sind; c. über die notwendigen Arbeitsmittel und einen Plan für deren Instandhaltung verfügen; d. für die Einhaltung des anwendbaren Rechts, namentlich dieser Verordnung, Gewähr bieten. 2 Die Suva kann die Anerkennung entziehen, wenn die Voraussetzungen für die Anerkennung nicht mehr erfüllt sind. SR 832.30"
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "2. Abschnitt: Bestimmungen für anerkannte Asbestsanierungsunternehmen",
+      "section": "84",
+      "title": "Anforderungen an Spezialistinnen und Spezialisten für Asbestsanierungen",
+      "content": "Spezialistinnen und Spezialisten für Asbestsanierungen müssen namentlich Kenntnisse in folgenden Bereichen nachweisen können: a. Grundkenntnisse in Arbeitssicherheit und Gesundheitsschutz; b. Methode der staubarmen Entfernung von asbesthaltigen Materialien; c. sachgerechte Verwendung der persönlichen Schutzausrüstungen und der anderen Arbeitsmittel; d. Erstellen eines Arbeitsplans; e. Führen eines Baustellentagebuches; f. Führen und Instruieren von Arbeitnehmerinnen und Arbeitnehmern auf Baustellen."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "2. Abschnitt: Bestimmungen für anerkannte Asbestsanierungsunternehmen",
+      "section": "85",
+      "title": "Fortbildung der Spezialistinnen und Spezialisten für Asbestsanierungen",
+      "content": "1 Spezialistinnen und Spezialisten für Asbestsanierungen müssen sich mindestens alle fünf Jahre fortbilden. 2 Die Fortbildung bezweckt, die Fachkenntnisse der Spezialistinnen und Spezialisten für Asbestsanierungen nach Artikel 84 zu vertiefen und auf dem aktuellen Stand zu halten."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "2. Abschnitt: Bestimmungen für anerkannte Asbestsanierungsunternehmen",
+      "section": "86",
+      "title": "Meldepflicht für Asbestsanierungsunternehmen",
+      "content": "1 Asbestsanierungsunternehmen sind verpflichtet, Asbestsanierungsarbeiten mindestens 14 Tage vor der Ausführung der Suva zu melden. 2 Die Arbeitgeber müssen die von der Suva zur Verfügung gestellten Formulare benützen."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "7. Kapitel: Untertagarbeiten",
+      "section": "87",
+      "title": "Meldepflicht",
+      "content": "1 Die Arbeitgeber sind verpflichtet, alle Untertagarbeiten mindestens 14 Tage vor der Ausführung der Suva zu melden. 2 Von der Meldepflicht ausgenommen sind Kontrollarbeiten und kleinere Unterhaltsarbeiten an und in bestehenden Tunnels. 3 Die Arbeitgeber müssen die von der Suva zur Verfügung gestellten Formulare benützen."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "7. Kapitel: Untertagarbeiten",
+      "section": "88",
+      "title": "Sicherheits- und Gesundheitsschutzkonzept",
+      "content": "Für die Untertagarbeiten sind im Sicherheits- und Gesundheitsschutzkonzept nach Artikel 4 namentlich die Massnahmen zur Umsetzung der Artikel 89–101 festzuhalten."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "7. Kapitel: Untertagarbeiten",
+      "section": "89",
+      "title": "Redundante Energieversorgung",
+      "content": "Es ist eine redundante Energieversorgung einzurichten, um sicherzustellen, dass folgende Anlagen jederzeit mit Energie versorgt werden: a. Schachtbefahranlagen; b. Erdgaswarnanlagen; c. Kommunikationseinrichtungen; d. Anlagen zur Erzeugung von Druckluft bei Arbeiten unter Überdruck; e. Lüfter bei Erdgasgefährdung; f. Beleuchtungen; g. Pumpen bei Gefährdung durch geflutete Flucht- und Rettungswege."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "7. Kapitel: Untertagarbeiten",
+      "section": "90",
+      "title": "Klimatische Bedingungen",
+      "content": "Ist eine Gefährdung der Gesundheit der Arbeitnehmerinnen und Arbeitnehmer durch klimatische Bedingungen wie besondere Wärme, Kälte und Luftfeuchtigkeit zu erwarten, sind geeignete Massnahmen zu treffen."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "7. Kapitel: Untertagarbeiten",
+      "section": "91",
+      "title": "Belüftung",
+      "content": "1 Vor Beginn von Untertagarbeiten muss ein Lüftungskonzept erstellt werden. 2 Räume, in denen gearbeitet wird, müssen belüftet werden. 3 Der Zugang zu nicht belüfteten Räumen ist verboten. 4 In Ausnahmefällen, in denen der Zugang zu nicht belüfteten Räumen nicht vermeidbar ist, muss die Luftqualität ununterbrochen messtechnisch überwacht werden. 5 In durchgeschlagenen Bauwerken, die nicht künstlich belüftet werden, muss die Luftqualität ununterbrochen messtechnisch überwacht werden."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "7. Kapitel: Untertagarbeiten",
+      "section": "92",
+      "title": "Erdgas in Gesteinsschichten",
+      "content": "Der Arbeitgeber muss abklären, ob in den Gesteinsschichten Erdgas vorhanden ist. Er hat nötigenfalls die geeigneten Massnahmen zu treffen."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "7. Kapitel: Untertagarbeiten",
+      "section": "93",
+      "title": "Explosions- und Brandgefahr",
+      "content": "Verbrennungsmotoren, die mit Treibstoffen mit niedrigem Flammpunkt betrieben werden, wie Benzin- und Flüssiggasmotoren dürfen untertags nicht eingesetzt werden."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "7. Kapitel: Untertagarbeiten",
+      "section": "94",
+      "title": "Beleuchtung",
+      "content": "Untertagarbeiten dürfen nur durchgeführt werden, wenn eine Notbeleuchtung installiert ist oder wenn jede Person eine Lampe mitführt."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Arbeiten in Tunnels bei laufendem Bahn- oder Strassenverkehr",
+      "content": "Für die Dauer der Arbeiten in Tunnels bei laufendem Bahn- oder Strassenverkehr ist durch geeignete Massnahmen sicherzustellen, dass keine Arbeitnehmerinnen und Arbeitnehmer durch vorbeifahrende Züge oder Fahrzeuge gefährdet werden."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Transport",
+      "content": "1 Transportpisten sowie Gleis- und Bandanlagen sind so anzulegen, zu benutzen und zu unterhalten, dass keine Arbeitnehmerinnen und Arbeitnehmer gefährdet werden, namentlich durch den Betrieb, das Fördergut oder die Installationen. 2 Verkehrsmittel wie Transportfahrzeuge und Baumaschinen müssen so ausgerüstet und beladen sein, dass die Person, die das Verkehrsmittel führt, jederzeit den Gefahrenbereich ihres Fahrzeugs in Fahrtrichtung überblicken und überwachen kann."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Schutz von technischen Installationen sowie Lager von Gefahrstoffen",
+      "content": "Technische Installationen wie Lüftungen und Frischluftzufuhr sowie Lager von Gefahrstoffen, die bei Beschädigung zur Gefährdung von Personen führen können, sind zu schützen."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Fusswege",
+      "content": "Fusswege entlang von Fahrpisten und Gleisanlagen sind mit technischen Massnahmen von diesen zu trennen. Davon ausgenommen sind Kontrollarbeiten und kleinere Unterhaltsarbeiten an und in bestehenden Tunnels."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Schutz vor einbrechendem Gestein und Wassereinbruch sowie Hohlraumsicherung",
+      "content": "1 Wo die Gefährdung durch nieder- oder einbrechendes Gestein sowie Wassereinbruch besteht, sind vor Beginn der Ausbrucharbeiten Vorerkundungen durchzuführen. 2 Die Arbeitsplätze sind so anzuordnen und zu sichern, dass keine Arbeitnehmerinnen und Arbeitnehmer durch einbrechendes Gestein und Wassereinbruch gefährdet werden. 3 Wo die Baugrundverhältnisse es erfordern, sind geeignete Massnahmen zur Hohlraumsicherung zu treffen."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Sprengvortrieb",
+      "content": "1 Es sind geeignete Massnahmen zu treffen, damit für die Arbeitnehmerinnen und Arbeitnehmer bei Sprengungen keine Gefahr insbesondere durch Druckstoss, Lärm, Steinwurf oder Sprengschwaden besteht. 2 Die Arbeit an der Sprengstelle darf frühestens 15 Minuten nach der Sprengung wiederaufgenommen werden. 3 Nach jedem Abschlag sind Materialablösungen und gelockerte Gesteinspartien von der ausgebrochenen Strecke zu entfernen."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Warnkleider",
+      "content": "Die Arbeitnehmerinnen und Arbeitnehmer müssen Warnkleider nach Artikel 7 tragen, die den ganzen Körper bedecken."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "8. Kapitel: Abbau von Gestein, Kies und Sand",
+      "section": "102",
+      "title": "Meldepflicht für den Abbau von Gestein",
+      "content": "1 Die Arbeitgeber sind verpflichtet, der Suva mindestens 14 Tage vor der Ausführung den Abbau im Freien von Gestein von über 5000 m 3 pro Abbaustelle zu melden. 2 Sie müssen die von der Suva zur Verfügung gestellten Formulare benützen."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "8. Kapitel: Abbau von Gestein, Kies und Sand",
+      "section": "103",
+      "title": "Abbauplan",
+      "content": "1 Vor Beginn der Arbeiten zum Abbau von Gestein, Kies und Sand ist ein Abbauplan zu erstellen. 2 Der Abbauplan muss den Lagerungs- und Schichtverhältnissen sowie der Standfestigkeit des abzubauenden Materials Rechnung tragen und die maximalen Böschungsneigungen festlegen."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "8. Kapitel: Abbau von Gestein, Kies und Sand",
+      "section": "104",
+      "title": "Böschungsneigung",
+      "content": "1 Die Böschungsneigung von Abraumdecken darf nicht mehr als 45° betragen. 2 Die Distanz zwischen dem Fusspunkt des Abraumes und der Böschungskante muss mindestens 1 m betragen."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "8. Kapitel: Abbau von Gestein, Kies und Sand",
+      "section": "105",
+      "title": "Abbau von Gestein durch Sprengung",
+      "content": "1 Bei Abbau von Gestein durch Sprengung sind die Abbauwände in Stufen zu unterteilen. 2 Die Stufenhöhe richtet sich nach den Gegebenheiten des abzubauenden Materials. Sie darf höchstens 40 m betragen. Bei Steinbrüchen für die Gewinnung von Naturwerkstein darf die maximale Stufenhöhe von 40 m überschritten werden. Die Stufenhöhe ist im Abbauplan festzulegen. 3 Bevor nach erfolgter Sprengung die Arbeit auf den Stufen wiederaufgenommen werden darf, muss die Stabilität der Stufen durch eine Fachperson beurteilt und nachgewiesen werden. 4 Nach jedem Abschlag sind Materialablösungen und gelockerte Gesteinspartien von der Wand zu entfernen."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "8. Kapitel: Abbau von Gestein, Kies und Sand",
+      "section": "106",
+      "title": "Abbau von Kies und Sand",
+      "content": "1 Der Abbau von Kies und Sand von oben hat in Stufen zu erfolgen. 2 Der Abbau von unten darf nur in locker gelagertem Material erfolgen. Dabei darf das anstehende standfeste Material von unten her nur abgetragen werden, wenn die Wand nicht höher ist als der höchste mit dem Abbaugerät erreichbare Punkt zuzüglich dessen Raddurchmesser. Erfolgt der Abbau mit Wasserstrahl, ist die Wandhöhe nicht begrenzt, sofern der Standort für die Bedienung des Gerätes ausserhalb des Gefahrenbereichs liegt."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "8. Kapitel: Abbau von Gestein, Kies und Sand",
+      "section": "107",
+      "title": "Verbot der Unterhöhlung von Abbauwänden",
+      "content": "Abbauwände dürfen zu keinem Zeitpunkt unterhöhlt werden."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "8. Kapitel: Abbau von Gestein, Kies und Sand",
+      "section": "108",
+      "title": "Absturzsicherung",
+      "content": "Arbeitnehmerinnen und Arbeitnehmer, die Arbeiten in steilem Gelände oder an Abbauwänden ausführen, müssen nach den Artikeln 22–29 gegen Absturz gesichert sein."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "8. Kapitel: Abbau von Gestein, Kies und Sand",
+      "section": "109",
+      "title": "Schutz vor niedergehenden Steinen und Materialien",
+      "content": "1 Durch geeignete Massnahmen ist zu verhindern, dass Arbeitnehmerinnen und Arbeitnehmer durch niedergehende Steine und Materialien gefährdet werden. Namentlich sind die Fahrerkabinen oder die Bedienungsstände von Maschinen und Geräten mit einer Schutzvorrichtung auszurüsten. 2 Drohen Materialmassen oder Gesteinspakete abzustürzen und kann die Gefahr nicht sofort beseitigt werden, so ist der gefährdete Bereich unverzüglich abzusperren. 3 Durchgänge und Verkehrswege, die durch Steinschlag gefährdet sind, sind mit geeigneten Massnahmen zu sichern."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Massnahmen vor der Wiederaufnahme der Arbeiten",
+      "content": "Vor Wiederaufnahme der Arbeiten nach Arbeitsunterbrüchen sind überhängende Partien, namentlich solche, die durch Witterungseinflüsse entstanden sind, abzubauen und ist loses Material aus der Böschung zu entfernen."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "9. Kapitel: Wärmetechnische Anlagen und Hochkamine",
+      "section": "111",
+      "title": "Begriffe",
+      "content": "1 Wärmetechnische Anlagen sind Feuerungsanlagen und stationäre Verbrennungsmotoren für feste, flüssige oder gasförmige Brennstoffe, einschliesslich Wärmeerzeugungs-, Wärmetransport- und Wärmeverteileinrichtungen, Steuer- und Sicherheitseinrichtungen sowie Verbindungsrohre und Anlagen zur Ableitung der Abgase. 2 Hochkamine sind freistehende, von innen oder aussen begehbare Anlagen zur Ableitung der Abgase, die nur von oben nach unten gereinigt werden können."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "9. Kapitel: Wärmetechnische Anlagen und Hochkamine",
+      "section": "112",
+      "title": "Persönliche Anforderungen",
+      "content": "1 Für Arbeiten an wärmetechnischen Anlagen und Hochkaminen dürfen nur Arbeitnehmerinnen und Arbeitnehmer eingesetzt werden, die: a. in der Lage sind, die ihnen übertragenen Aufgaben zuverlässig und sicher auszuführen; b. sich am Arbeitsplatz verständigen können. 2 Die Arbeitnehmerinnen und Arbeitnehmer müssen für diese Arbeiten nach Artikel 6 VUV instruiert worden sein. 3 Mindestens eine Person pro Arbeitsstelle muss über eine entsprechende Ausbildung für Arbeiten an wärmetechnischen Anlagen und Hochkaminen verfügen. Diese Person muss während der Arbeiten ununterbrochen vor Ort sein. SR 832.30"
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "9. Kapitel: Wärmetechnische Anlagen und Hochkamine",
+      "section": "113",
+      "title": "Steuer- und Schalteinrichtungen",
+      "content": "1 Jede wärmetechnische Anlage und wenn nötig auch ihre Funktionseinheiten müssen mit Einrichtungen ausgerüstet sein, mit denen sie von jeder Energiequelle abgetrennt oder abgeschaltet werden können. Die Einrichtungen müssen sich gegen Wiedereinschalten sichern lassen, wenn sich aus dem Wiedereinschalten eine Gefahr für Arbeitnehmerinnen und Arbeitnehmer ergibt. 2 Bei Arbeiten an begehbaren wärmetechnischen Anlagen und an Hochkaminen muss: a. die Sicherheitsabschalteinrichtung mit einem Vorhängeschloss in der Abschaltstellung abgeschlossen werden; b. der Elektrostecker des Brenners, des Ventilators oder der Brennstoffzufuhr ausgezogen und die Steckdose mit einem Vorhängeschloss gesichert werden; c. beim Einstieg in die wärmetechnische Anlage oder beim Besteigen des Hochkamins an der Sicherheitsabschalteinrichtung eine Hinweistafel angebracht sein."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "9. Kapitel: Wärmetechnische Anlagen und Hochkamine",
+      "section": "114",
+      "title": "Arbeiten an begehbaren wärmetechnischen Anlagen und an Hochkaminen",
+      "content": "1 Die Arbeiten an begehbaren wärmetechnischen Anlagen und an Hochkaminen müssen durch eine Person ausserhalb des Gefahrenbereichs überwacht werden. 2 Die wärmetechnischen Anlagen und die Hochkamine dürfen erst betreten oder bestiegen werden, wenn sie sich genügend abgekühlt haben und die angesammelten gesundheitsgefährdenden Gase entfernt worden sind. Es ist durch eine Messung zu überprüfen, ob die Gase entfernt worden sind. 3 Können die gesundheitsgefährdenden Gase nicht entfernt werden, so sind beim Betreten oder Besteigen der begehbaren wärmetechnischen Anlagen und der Hochkamine von der Umgebungsatmosphäre unabhängige Atemschutzgeräte zu verwenden."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "9. Kapitel: Wärmetechnische Anlagen und Hochkamine",
+      "section": "115",
+      "title": "Zugänge zu Anlagen zur Ableitung der Abgase auf Dächern",
+      "content": "1 Zugänge zu Anlagen zur Ableitung der Abgase auf Dächern dürfen begangen werden, wenn die zur Sicherung notwendigen festen Vorrichtungen vorhanden sind, namentlich Laufstege oder feste Leitern zwischen den Aussteigöffnungen im Dach und den betreffenden Anlagen. 2 Fehlen die zur Sicherung notwendigen festen Vorrichtungen, so sind andere Schutzmassnahmen zu treffen, namentlich die Verwendung von Fanggerüsten, Auffangnetzen oder Seilsicherungen."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Besteigen von Hochkaminen",
+      "content": "1 Von aussen dürfen Hochkamine nur über ortsfeste Leitern bestiegen werden. Sind keine ortsfesten Leitern vorhanden, so sind Transportmittel, die für Personen zugelassen sind, zu benützen. 2 Von innen dürfen Hochkamine nur über bestehende Steigeisen oder ähnliche Aufstiegseinrichtungen, die sich in einwandfreiem Zustand befinden, bestiegen werden."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Elektrische Anschlüsse über Dachständer",
+      "content": "1 Elektrische Anschlüsse über Dachständer, die im Arbeitsbereich verlaufen, sind von der Stromzuführung abzutrennen oder gegen Berührung zu sichern. 2 Vor der Arbeitsaufnahme im Bereich von elektrischen Anschlüssen über Dachständer ist der Leitungseigentümer zu benachrichtigen."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "10. Kapitel: Arbeiten am hängenden Seil",
+      "section": "118",
+      "title": "",
+      "content": "1 Für Arbeiten am hängenden Seil dürfen nur Arbeitnehmerinnen und Arbeitnehmer eingesetzt werden, die über eine entsprechende Ausbildung verfügen. 2 Arbeitnehmerinnen und Arbeitnehmer, die Arbeiten am hängenden Seil ausführen, müssen sich mindestens alle drei Jahre fortbilden. 3 Es müssen mindestens zwei Arbeitnehmerinnen und Arbeitnehmer so eingesetzt werden, dass sie sich gegenseitig überwachen können. 4 Das Seilsystem muss über mindestens zwei getrennt voneinander befestigte Seile verfügen, wobei eines dem Fortbewegen oder dem Positionieren am Arbeitsplatz und das andere dem Sichern gegen Absturz dient. 5 Die Verwendung eines einzigen Seiles kann zugelassen werden, wenn in Übereinstimmung mit der Risikobewertung die Verwendung eines zweiten Seiles eine grössere Gefährdung der Arbeitnehmerinnen und Arbeitnehmer bei den Arbeiten bewirken würde. Es sind andere geeignete Massnahmen zur Gewährleistung der Sicherheit und des Gesundheitsschutzes zu treffen."
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "11. Kapitel: Arbeiten in Rohrleitungen",
+      "section": "119",
+      "title": "",
+      "content": "1 Arbeitnehmerinnen und Arbeitnehmer, die für Arbeiten in Rohrleitungen eingesetzt werden, müssen ununterbrochen von einer Person überwacht werden, die sich ausserhalb der Rohrleitungen aufhält. 2 Arbeiten in Rohrleitungen mit einem Lichtmass zwischen 600 mm und 800 mm sind mit Arbeitsmitteln auszuführen, die von ausserhalb des Rohres bedient werden (Manipulatoren). 3 Ist der Einsatz von Manipulatoren nicht möglich oder nicht angemessen, so dürfen Arbeitnehmerinnen und Arbeitnehmer unter folgenden Bedingungen eingesetzt werden: a. Die Rohrleitungen werden künstlich belüftet. b. Für den Einsatz über eine Strecke von mehr als 20 m werden seilgeführte Rollenwagen eingesetzt. c. Die Flucht und Rettung der Arbeitnehmerinnen und Arbeitnehmer sind sichergestellt und die Kommunikation nach aussen ist jederzeit gewährleistet. 4 Arbeiten in Rohrleitungen mit einem Lichtmass von weniger als 600 mm dürfen nur mit Manipulatoren ausgeführt werden."
+    },
+    {
+      "provision_ref": "art120",
+      "chapter": "12. Kapitel: Rechtsschutz",
+      "section": "120",
+      "title": "",
+      "content": "Gegen Verfügungen der Suva nach Artikel 83 kann Beschwerde nach Artikel 109 UVG erhoben werden."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "13. Kapitel: Schlussbestimmungen",
+      "section": "121",
+      "title": "Vollzug",
+      "content": "Der Vollzug dieser Verordnung richtet sich nach den Vollzugsbestimmungen des UVG und insbesondere der VUV. Das zuständige Vollzugsorgan koordiniert seine Tätigkeiten mit den Vollzugsbehörden des ArG. SR 832.30"
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "13. Kapitel: Schlussbestimmungen",
+      "section": "122",
+      "title": "Aufhebung und Änderung anderer Erlasse",
+      "content": "1 Die Bauarbeitenverordnung vom 29. Juni 2005 wird aufgehoben. 2 … [ AS 2005 4289 ; 2006 1263 ; 2008 3685 ; 2010 2583 Anhang 4 Ziff. II 10; 2011 3537 ] Die Änderung kann unter AS 2021 384 konsultiert werden."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "13. Kapitel: Schlussbestimmungen",
+      "section": "123",
+      "title": "Übergangsbestimmung",
+      "content": "Ein Arbeitsgerüst oder ein Seitenschutz, bei dem die Oberkante des Geländerholms in Abweichung von Artikel 22 Absatz 2 mindestens 95 cm über der Standfläche liegt und der oder das vor Inkrafttreten dieser Verordnung in Verkehr gebracht worden ist, darf weiterhin verwendet werden."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "13. Kapitel: Schlussbestimmungen",
+      "section": "124",
+      "title": "Inkrafttreten",
+      "content": "1 Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Januar 2022 in Kraft. 2 Artikel 31 Absatz 3 tritt am 1. Januar 2024 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bauarbeiten:",
+      "definition": "Bauarbeiten: die Erstellung, die Instandstellung, die Änderung, der Unterhalt, die Kontrolle, der Rückbau und der Abbruch von Bauwerken, einschliesslich der vorbereitenden und abschliessenden Arbeiten, namentlich Arbeiten auf Dächern, Arbeiten an und mit Gerüsten, Arbeiten in Gräben, Schächten und Baugruben, Arbeiten, bei denen Gestein, Kies und Sand abgebaut wird, Arbeiten an wärmetechnischen Anlagen und Hochkaminen, am hängenden Seil, an und in Rohrleitungen, Untertagarbeiten sowie die Steinbearbeitung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Absturzhöhe:",
+      "definition": "Absturzhöhe: 1. bei einer Neigung der Arbeits- oder Verkehrsfläche bis und mit 60°: die Höhendifferenz zwischen der Absturzkante und der tiefstmöglichen Aufschlagstelle,",
+      "source_provision": "art2"
+    },
+    {
+      "term": "durchbruchsichere",
+      "definition": "durchbruchsichere Fläche: Fläche, die allen Belastungen standhält, die während der Ausführung von Arbeiten auftreten können.",
+      "source_provision": "art2"
+    }
+  ]
+}

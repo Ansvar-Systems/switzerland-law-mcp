@@ -1,0 +1,56 @@
+{
+  "id": "sr-832-205-12",
+  "type": "statute",
+  "title": "Verordnung vom 18. Oktober 1984 über die Abgabe von Hilfsmitteln durch die Unfallversicherung (HVUV)",
+  "title_en": "",
+  "short_name": "HVUV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1984/1227_1227_1227/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Anspruch auf Hilfsmittel",
+      "content": "1 Der Versicherte hat Anspruch auf die in der Liste im Anhang aufgeführten Hilfsmittel, soweit diese durch Unfall oder Berufskrankheit bedingte körperliche Schädigungen oder Funktionsausfälle ausgleichen. 2 Der Anspruch erstreckt sich auf die notwendigen und dem Gesundheitsschaden angepassten Hilfsmittel in einfacher und zweckmässiger Ausführung, das erforderliche Zubehör und die Anpassungen, die wegen des Gesundheitsschadens nötig sind. Ausstattung und Anzahl der Hilfsmittel müssen den Anforderungen des privaten sowie des beruflichen Lebens entsprechen. 3 Ist die Unfallversicherung für ein Hilfsmittel leistungspflichtig, so entfällt ein entsprechender Anspruch gegenüber der Invalidenversicherung."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Kostenbeteiligung",
+      "content": "Ersetzt ein Hilfsmittel einen Gegenstand, den der Versicherte auch ohne die unfallbedingte Gesundheitsschädigung benützen würde, so kann er an den Kosten des von der Unfallversicherung abgegebenen Hilfsmittels beteiligt werden."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Verträge mit Abgabestellen",
+      "content": "1 Die Versicherer sind befugt, mit den Abgabestellen für Hilfsmittel vertraglich die Zusammenarbeit zu regeln und die Tarife festzulegen. 2 Soweit keine Verträge bestehen, kann das Eidgenössische Departement des Innern für die Vergütung von Hilfsmitteln Höchstbeträge festlegen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Abgabeform",
+      "content": "Kostspielige Hilfsmittel, die ihrer Art nach auch für andere Versicherte Verwendung finden können, werden leihweise abgegeben. Alle übrigen Hilfsmittel erhält der Versicherte zu Eigentum."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Sorgfaltspflicht",
+      "content": "1 Die Hilfsmittel sind sorgfältig und zweckmässig zu verwenden. 2 Wird ein Hilfsmittel vorzeitig untauglich, weil es unsorgfältig benützt wurde, so hat der Versicherte eine angemessene Entschädigung zu leisten."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Gebrauchstraining, Reparatur und Betrieb",
+      "content": "1 Bedarf der Versicherte zum Gebrauch des Hilfsmittels eines besonderen Trainings, so übernimmt der Versicherer die dafür entstehenden Kosten. 2 Muss ein Hilfsmittel trotz sorgfältiger Verwendung repariert, angepasst oder erneuert werden, so übernimmt der Versicherer die Kosten, soweit nicht ein Dritter ersatzpflichtig ist. 3 Die Kosten für Betrieb und Unterhalt von Hilfsmitteln werden von der Unfallversicherung nicht übernommen. In Härtefällen gewährt die Unfallversicherung an solche Kosten einen Beitrag."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt rückwirkend auf den 1. Januar 1984 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,663 @@
+{
+  "id": "sr-812-219",
+  "type": "statute",
+  "title": "Verordnung vom 4. Mai 2022 über In-vitro-Diagnostika (IvDV)",
+  "title_en": "Ordinance of 26 May 2022 on In Vitro Diagnostic Medical Devices (IvDO)",
+  "short_name": "IvDV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2022/291/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 Scope and Exceptions",
+      "section": "1",
+      "title": "Scope",
+      "content": "1 This Ordinance applies to in vitro diagnostic medical devices and accessories as defined in Article 3 (Devices). 2 For devices which, when placed on the market or put into service, incorporate as an integral part a medical device in accordance with Article 3 paragraphs 1 and 2 of the Medical Devices Ordinance of 1 July 2020 (MedDO), this Ordinance applies only to the in vitro diagnostic medical device part. SR 812.213"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 Scope and Exceptions",
+      "section": "2",
+      "title": "Exceptions",
+      "content": "This Ordinance does not apply to: a. products for general laboratory use or research-use only products, unless such products, in view of their characteristics, are specifically intended by their manufacturer to be used for in vitro diagnostic examination; b. invasive sampling products or products which are directly applied to the human body for the purpose of obtaining a specimen; c. internationally certified reference materials; d. materials used for external quality assessment schemes; e. devices intended exclusively for veterinary diagnostic purposes."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 2 Definitions and References to European Legislation",
+      "section": "3",
+      "title": "In vitro diagnostic medical device and its accessories",
+      "content": "1 An in vitro diagnostic medical device means any medical device in accordance with Article 3 paragraphs 1 and 2 MedDO which: a. is a reagent, reagent product, calibrator, control material, kit, instrument, apparatus, piece of equipment, software or system, whether used alone or in combination, intended by the manufacturer to be used in vitro for the examination of specimens, including blood and tissue donations, derived from the human body; and b. solely or principally for the purpose of providing information on one or more of the following: 1. concerning physiological or pathological processes or states, 2. concerning congenital physical or mental impairments, 3. concerning the predisposition to a particular medical condition or a particular disease, 4. to determine the safety and compatibility with potential recipients, 5. to predict treatment response or reactions, 6. to define or monitor therapeutic measures. 2 Specimen receptacles shall also be deemed to be in vitro diagnostic medical devices. 3 Accessory for an in vitro diagnostic medical device means an article which, whilst not being itself an in vitro diagnostic medical device, is intended by its manufacturer to be used together with one or more particular in vitro diagnostic medical device(s), to: specifically enable the in vitro diagnostic medical device(s) to be used in accordance with its/their intended purpose(s); or to specifically and directly assist the medical functionality of the in vitro diagnostic medical device or in vitro diagnostic medical devices in terms of its/their intended purpose(s). SR 812.213"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Definitions and References to European Legislation",
+      "section": "4",
+      "title": "Further definitions",
+      "content": "1 In this Ordinance: a. making available on the market means any transfer or cession of a device, other than a device for performance study, for distribution, consumption or use on the Swiss market in the course of a commercial activity, whether in return for payment or free of charge; b. placing on the market means the first making available of a device, other than a device for performance study, on the Swiss market; c. putting into service means the stage at which a device, other than a device for performance study, has been made available to the final user as being ready for use on the Swiss market for the first time for its intended purpose; d. maintenance means measures such as preventive maintenance, software updates, inspection, repair, preparation for first use and reprocessing for reuse or measures to keep a device in functional condition or restore it to functional condition; e. manufacturer means a natural or legal person who manufactures or fully refurbishes a device or has a device designed, manufactured or fully refurbished, and markets that device under its name or trademark; this definition is subject to the clarifying explanations and exceptions set out in Article 16 paragraphs 1 and 2 of Regulation (EU) 2017/746 (EU-IVDR); f. authorised representative means any natural or legal person domiciled in Switzerland who has received and accepted a written mandate from a manufacturer located abroad to act on the manufacturer's behalf in relation to specified tasks with regard to the latter's obligations under this Ordinance; g. importer means any natural or legal person domiciled in Switzerland that places a device from abroad on the Swiss market; h. distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, that makes a device available on the Swiss market, up until the point of putting into service; i. economic operator means a manufacturer, an authorised representative, an importer or a distributor; j. healthcare institution means an organisation the primary purpose of which is the care or treatment of patients or the promotion of public health; k. hospital means any healthcare institution in which inpatient treatments for illnesses, inpatient medical rehabilitation and inpatient medical measures for cosmetic purposes are provided by medical or nursing interventions; l. contracting state means any state that is bound to mutually recognise conformity assessments and conformity procedures for devices by an agreement with Switzerland under international law based on equivalent legislation; m. Provider of information society services means any natural or legal person who provides a service in accordance with Article 7 paragraph 5. 2 The definitions set out in Article 2 points 3, 5–19, 24, 30–41, 44–45, 49–56, 60–72 and 74 EU-IVDR also apply. Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ( AS 2023 576 ). Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU, OJ L 117 of 5.5.2017, p. 176; last amended by Regulation (EU) 2023/607, OJ L 80 of 20.3.2023, p. 24."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "References to European legislation",
+      "content": "1 The equivalent terms specified in Annex 1 and as used in EU-IVDR and this Ordinance shall apply. 2 Where this Ordinance makes reference to provisions of EU-IVDR which, in turn, refer to other provisions of EU-IVDR or other EU legislative acts, those provisions shall also apply. The version in the footnote to Article 4 paragraph 1 letter e is authoritative for references to EU-IVDR, while the versions of the relevant EU acts set out in Annex 2 point 1apply to references to other EU acts. This provision excludes onward references to the EU acts listed in Annex 2 number 2; here the Swiss provisions listed in the Annex shall apply. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 1 Requirements",
+      "section": "6",
+      "title": "General safety and performance requirements",
+      "content": "1 A device may be placed on the market or put into service only if it complies with this Ordinance when duly supplied and properly installed, maintained and used in accordance with its intended purpose. 2 Devices shall meet the general safety and performance requirements set out in Annex I to EU-IVDR , taking into account its intended purpose. 3 If the device complies with the applicable technical standards or common specifications designated by the Swiss Agency for Therapeutic Products (Swissmedic), or relevant sections thereof, or with pharmacopoeial requirements in accordance with the Pharmacopoeia Ordinance of 17 October 2001, then the device shall be presumed to comply with those requirements of this Ordinance covered by the applicable designated technical standards or common specifications, or relevant sections thereof, or by the pharmacopoeial requirements. 4 The presumption in paragraph 3 also applies to compliance with the system or process requirements to be fulfilled in accordance with this Ordinance by economic operators, including requirements relating to quality management systems, risk management, post-market surveillance systems, performance studies, clinical evidence or post-market performance follow-up. 5 Compliance with the common specifications in paragraph 3 is required unless the manufacturer can duly justify that the adopted solutions ensure an equivalent level of safety and performance. See the footnote to Art. 4 para. 1 let. e. SR 812.211"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 1 Requirements",
+      "section": "7",
+      "title": ". 7 Distance sales",
+      "content": "1 Devices offered in Switzerland by means of information society services – specifically an online service – that fulfil the conditions set out in paragraph 5 must comply with this Ordinance. 2 Devices offered to users in Switzerland online or via some other form of distance sales are considered to have been made available on the market. 3 Similarly, devices although not placed on the market, but used in the context of a commercial activity, whether in return for payment or free of charge, for the provision of a diagnostic or therapeutic service offered by means of information society services or by other means of communication shall also comply with this Ordinance. 4 Upon request by the Swiss Agency for Therapeutic Products (Swissmedic), any natural or legal person offering diagnostic or therapeutic services in accordance with paragraph 1 shall make available a copy of the declaration of conformity. 5 A device is deemed to be supplied via an information society service if that service: a. is provided by distance selling, specifically without the contracting parties being physically present at the same time; b. is provided electronically; and c. is provided at the individual request of the recipient or the recipient’s representative."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 1 Requirements",
+      "section": "8",
+      "title": "Specific requirements",
+      "content": "Devices that are also machines within the meaning of Article 1 of the Machine Ordinance of 2 April 2008 must satisfy the relevant general safety and health protection requirements of the Machine Ordinance where these requirements are more specific than those of Chapter II of Annex I to EU-IVDR. SR 819.14 See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Devices manufactured and used in healthcare institutions",
+      "content": "1 Devices manufactured and used solely within healthcare institutions, with the exception of devices for performance studies, are deemed to have been put into service. Such devices are subject to the pertinent general safety and performance requirements of Annex I EU-IVDR , but not to any of the other requirements set out in this Ordinance, provided the requirements of Article 5 paragraph 5 letters a–i EU-IVDR are fulfilled. 2 The documentation specified in Article 5 paragraph 5 letter g EU-IVDR is required for devices of all classes in accordance with Article 14. 3 Paragraphs 1 and 2 do not apply to devices manufactured on an industrial scale. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Notification of devices manufactured in healthcare institutions",
+      "content": "1 Healthcare institutions that manufacture and use devices as specified in Article 9 shall provide the following information to Swissmedic prior to putting the devices into service: a. their name and address; b. the name and intended purpose of the device; c. the risk class of the device in accordance with Article 14. 2 Any other relevant information about these devices must be submitted to Swissmedic upon request. 3 Changes to the information required in paragraph 1 must be reported to Swissmedic within 30 days. 4 Depending on the risk inherent to a device and its use, Swissmedic may exempt devices manufactured and used in accordance with Article 9 from the reporting obligation."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Parts and components",
+      "content": "1 Any natural or legal person who makes available on the market an item intended to replace an identical or similar integral part or component of a device that is defective or worn in order to maintain or restore the function of the device without changing its performance or safety characteristics or its intended purpose, shall ensure that the item does not adversely affect the safety and performance of the device. Supporting evidence must be kept available for the competent authority. 2 An item that is intended to replace a part or component of a device and that significantly changes the performance or safety characteristics or the intended purpose of the device shall be considered to be a device and shall meet the requirements laid down in this Ordinance."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Conformity marking and identification number",
+      "content": "1 Devices placed on the market in Switzerland or made available on the Swiss market must bear a conformity marking in accordance with Annex 4. The conformity marking presented in Annex V to EU-IVDR is also a permissible conformity marking. 2 The following must not bear a conformity marking: a. devices exclusively for demonstration and presentation purposes; b. devices for performance studies, subject to the provisions of Article 6 a of the Ordinance of 1 July 2020 on Clinical Trials with Medical Devices; c. devices in accordance with Article 9. 3 Where the conformity of a device has to be assessed by a conformity assessment body that is designated in accordance with this Ordinance or recognised in connection with an international agreement (designated body), the identification number of this body must be affixed to the conformity marking. See the footnote to Art. 4 para. 1 let. e. SR 810.306"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Affixing of conformity markings and identification numbers",
+      "content": "1 The conformity marking and, where necessary, the associated identification number shall be affixed to the device itself or its sterile packaging. 2 Where this is not possible or practicable owing to the nature of the device, the conformity marking and, where necessary, the associated identification number must be displayed on the packaging. 3 The conformity marking shall also appear on the instructions for use and on the sales packaging. 4 The requirements of Article 18 paragraphs 3–6 EU-IVDR and the general principles stated in Article 30 of Regulation (EC) No. 765/2008 must also be observed when affixing the conformity marking. See the footnote to Art. 4 para. 1 let. e. Regulation (EC) No. 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 of the Council, version according to OJ L 218 of 13.8.2008, p. 30."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 2 Classification, Product Information and Device Identification Classification, Product Information and Device Identification",
+      "section": "14",
+      "title": "Classification",
+      "content": "Devices shall be divided into classes A, B, C and D, taking into account the intended purpose of the devices and their inherent risks. This classification must comply with the provisions of Annex VIII to EU-IVDR . See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 2 Classification, Product Information and Device Identification Classification, Product Information and Device Identification",
+      "section": "15",
+      "title": "Product information",
+      "content": "1 Product information comprises the labelling and instructions for use. It is governed by Chapter III of Annex I to EU-IVDR . 2 It must be written in all three official languages of Switzerland. Symbols established by means of technical standards may be used to replace written statements. 3 The product information may be provided in fewer than the three official languages of Switzerland or in English, provided that: a. the device is supplied exclusively to healthcare professionals or concerns a device in accordance with Article 9; b. it is certain that the user meets the necessary professional and linguistic requirements and qualifications, and is in agreement; c. the protection of patients, users and third parties is ensured; and d. the efficacy and performance of the medical device are not placed at risk. 4 If requested, additional information must be provided to users in one of the official languages of Switzerland. 5 If a product cannot be, or cannot yet be, placed on the market as an in vitro diagnostic medical device, but may be confused with such a device, the claims relating to the said product must indicate clearly and legibly that it is not an in vitro diagnostic medical device and is not suitable for medical purposes. 6 Devices intended solely for demonstration and presentation purposes must be specifically labelled as such. The information must be clearly visible and comprehensible. 7 Misleading or contradictory information on a device's intended purpose, safety and performance is forbidden. 8 For devices for self-testing or for near-patient testing, the information stated in Chapter III of Annex I to EU-IVDR should be easily understandable and written in the three official languages. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 2 Classification, Product Information and Device Identification Classification, Product Information and Device Identification",
+      "section": "16",
+      "title": "Unique device identification",
+      "content": "1 The manufacturer shall assign to the device and all superordinate packaging layers a unique device identifier (UDI) prior to placing it on the market. 2 The manufacturer must state the UDI on the labelling of the device and all higher levels of packaging. Shipping containers are not considered as a higher level of packaging. . 3 The manufacturer shall maintain a list of all the UDIs he has assigned. This list is part of the technical documentation specified in Annex II to EU-IVDR. It must be kept up-to-date at all times. 4 The obligations and modalities associated with device identification and registration are governed by Articles 24 and 26 and Annex VI to EU--IVDR, taking account of the amendments to this Annex adopted by the European Commission by means of delegated acts. 5 … Stands for «unique device identifier». See the footnote to Art. 4 para. 1 let. e. See Annex 3. Enters into force at a later date (see Art. 91 para. 2)."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 1 Conformity assessment",
+      "section": "17",
+      "title": "Principle",
+      "content": "1 Any natural or legal person who is domiciled in Switzerland and makes devices available on the market in Switzerland or in a contracting state must, upon request, provide the authorities which are responsible for controls in the field of market surveillance, with the declaration of conformity. [tab] 2 A manufacturer domiciled in Switzerland and who places a device on the market in Switzerland or in a contracting state must, prior to placing it on the market, carry out an assessment of the device’s conformity in accordance with the applicable conformity assessment procedures. The manufacturer and the importer must be able to prove that such a conformity assessment has been carried out and that the device is compliant. [tab] 3 A manufacturer who puts into service in Switzerland or in a contracting state a device that is not placed on the market, with the exception of devices in accordance with Article 9, and who is domiciled in Switzerland must carry out an assessment of the device’s conformity with the relevant conformity assessment procedures before it is put into service. The manufacturer must be able to prove that an according conformity assessment has been carried out and that the device is in compliant. 4 The demonstration of conformity with the general safety and performance requirements shall also include a performance evaluation in accordance with Article 56 EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 1 Conformity assessment",
+      "section": "18",
+      "title": "Exemptions",
+      "content": "1 On a duly justified request, Swissmedic may authorise the placing on the market and putting into service of a specific device the use of which is in the interest of public health, patient safety or health even though: a. the relevant conformity assessment procedure in accordance with Article 19 has not been carried out; or b. the language requirements in Article 15 paragraph 2 have not been met. 2 Individual devices, apart from devices for self-testing, that have not undergone the relevant conformity assessment procedure may be placed on the market and used without authorisation from Swissmedic provided: a. they are used to test samples with the aim of averting or treating life-threatening conditions or permanent impairments of a body function; b. no conforming device is available for this specific intended purpose; c. they are used exclusively in the laboratory to investigate samples from an individual person; d. the treating healthcare professional has informed the individual person concerned about the non-conformity of the medical device and the related risks; and e. the individual person concerned has consented to the use of the device. 3 For devices placed on the market exclusively within the armed forces or within the framework of their specific tasks, the Federal Department of Home Affairs (FDHA) may, in agreement with the Federal Department of Defence, Civil Protection and Sports, grant exemptions."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 1 Conformity assessment",
+      "section": "19",
+      "title": "Procedure",
+      "content": "The conformity assessment procedure is governed by Article 48 and by Annexes IX–XI to EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 1 Conformity assessment",
+      "section": "20",
+      "title": "Involvement of a designated body",
+      "content": "1 When a designated body is involved, all the information necessary for the conformity assessment must be made available to it. 2 Manufacturers must not simultaneously apply to more than one designated body in Switzerland or a contracting state to carry out a conformity assessment procedure for the same device. 3 Any natural or legal person who applies to a designated body must declare whether an application to a different designated body in Switzerland or a contracting state has been withdrawn before a decision was issued or rejected by a different designated body in Switzerland or a contracting state. 4 If a manufacturer withdraws its application to have a conformity assessment procedure carried out before the designated body has issued its decision on the assessment, the designated body in question shall notify Swissmedic and the other designated bodies. 5 Where a manufacturer voluntarily changes the designated body, it must comply with the requirements of Article 53 EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 2 Certificate of Conformity",
+      "section": "21",
+      "title": "Issuing and content",
+      "content": "1 The designated bodies issue certificates of conformity in accordance with Annexes IX–XI to EU-IVDR (Certificates). 2 The certificates must be issued in one of the three official languages of Switzerland or in English. 3 They must, as a minimum, include the information required in Annex XII to EU-IVDR, taking account of the amendments to this Annex adopted by the European Commission by means of delegated acts. 4 Certificates issued by bodies designated under EU law and domiciled in a state of the EU or European Economic Area (EEA) but not recognised by an international agreement are deemed equivalent to certificates issued by Swiss bodies if it can be credibly demonstrated that: a. the conformity assessment procedures applied meet Swiss requirements; and b. the certificates were issued by a body with an equivalent qualification to that required in Switzerland. See the footnote to Art. 4 para. 1 let. e. See Annex 3."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 2 Certificate of Conformity",
+      "section": "22",
+      "title": "Validity",
+      "content": "1 Certificates are valid for a maximum of five years. The expiry date must be indicated on the certificate. 2 At the manufacturer's request, the validity of the certificate may be extended by a maximum of five years following a re- assessment carried out in accordance with the applicable conformity assessment procedure. Certificates may be extended more than once. 3 Any supplement to a certificate is valid for the same period as the certificate to which it belongs."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 2 Certificate of Conformity",
+      "section": "23",
+      "title": "Suspension, restriction and revocation",
+      "content": "1 If a designated body finds that a manufacturer no longer fulfils the requirements of this Ordinance, it shall impose on that manufacturer a suitable deadline for restoring compliance. 2 If this deadline passes without the manufacturer taking suitable corrective action, the designated body shall suspend, revoke or restrict the certificate in question. 3 A certificate that has been amended, suspended or revoked by a designated body must no longer be used in its original form."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 2 Certificate of Conformity",
+      "section": "24",
+      "title": "Documentation requirements",
+      "content": "1 The designated body shall provide Swissmedic and the other designated bodies with: a. all information on certificates it has issued and any amendments or supplements to such certificates; b. information on suspended, reinstated or revoked certificates; c. information on certificates it has refused; d. information on restrictions imposed on certificates. 2 Notifications of certificates for Class D devices, with the exception of applications to supplement or renew existing certificates, must include the documents specified in Article 50 paragraph 1 EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 3 Declaration of Conformity",
+      "section": "25",
+      "title": "",
+      "content": "1 If the applicable conformity assessment procedure has demonstrated that the requirements of this Ordinance have been fulfilled, the manufacturer of devices, apart from devices used for performance studies, issues a declaration of conformity. The manufacturer shall continuously update this declaration. 2 The declaration of conformity shall include the information required in Annex IV to EU-IVDR , taking account of the amendments to this Annex adopted by the European Commission by means of delegated acts must be written in one of the three official languages of Switzerland or English or translated into one of these languages. 3 If a device also requires a manufacturer's declaration of conformity for aspects not covered by this Ordinance but nevertheless required by other legislation in order to demonstrate compliance with that legislation, a single declaration of conformity shall be drawn up. 4 By drawing up the declaration of conformity, the manufacturer assumes responsibility for compliance with the requirements of this Ordinance and all other legislation applicable to the device. See the footnote to Art. 4 para. 1 let. e. See Annex 3."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 1 Designation",
+      "section": "26",
+      "title": "Requirements and application",
+      "content": "1 Swissmedic shall only designate conformity assessment bodies which are domiciled in Switzerland, have completed an assessment procedure in accordance with Article 27 and which comply with the requirements set out in Annex VII to EU-IVDR. 2 Applications for designation must be submitted to Swissmedic. They must in particular include: a. details of the activities and the types of devices for which designation is sought; b. proof that the requirements of Annex VII to EU-IVDR are met. 3 Swissmedic shall, within thirty days, check that the application for designation is complete, and shall request the applicant to provide any missing information. 4 It shall review the application and accompanying documents and draw up a preliminary assessment report. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 1 Designation",
+      "section": "27",
+      "title": "Assessment",
+      "content": "1 Swissmedic shall conduct an on-site assessment of the conformity assessment body and, if relevant, of all sub-contractors and subsidiaries. 2 If Swissmedic identifies non-compliances in the course of its assessment, it shall draw up a list of non-compliances for the applicant. Swissmedic shall set a deadline for the conformity assessment body by which the latter shall submit to Swissmedic a corrective action plan to address the non-compliances and a preventive action plan. 3 The plans shall indicate the root cause of the identified non-compliances and shall include a timeframe for implementation of the actions therein. 4 Swissmedic shall decide whether the proposed action is suitable and whether the timeframe for implementation is appropriate."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 1 Designation",
+      "section": "28",
+      "title": "Assessment report",
+      "content": "1 If Swissmedic approves the plans required under Article 27 paragraph 2, it shall prepare an assessment report. 2 This shall comprise the following: a. the result of the assessment; b. confirmation that suitable corrective and preventive actions have been appropriately addressed and, where necessary, implemented; c. the scope of the designation."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 1 Designation",
+      "section": "29",
+      "title": "Issuance and extension of designation",
+      "content": "1 Swissmedic shall issue the designation if the conformity assessment body meets the requirements. 2 The extension of designations is subject to the requirements and procedures laid out in Articles 26–28."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Section 1 Designation",
+      "section": "30",
+      "title": "Sub-contractors and subsidiaries",
+      "content": "1 Designated bodies that delegate part of the work to sub-contractors or to subsidiaries bear full responsibility for the work carried out on their behalf by sub-contractors or by the subsidiaries. 2 They shall verify that the sub-contractor or the subsidiary meets the applicable requirements of Annex VII to EU-IVDR. 3 They must notify Swissmedic if they delegate work under the terms of paragraph 1. They must be able to demonstrate to Swissmedic that the sub-contractor or the subsidiary is capable of carrying out the tasks assigned to it. 4 Conformity assessment activities may only be delegated if the designated body has informed the legal or natural person that applied for conformity assessment accordingly. 5 The designated bodies shall make publicly available a list of their subsidiaries. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Duty of cooperation and notification requirement",
+      "content": "1 The designated bodies, including their subsidiaries and sub-contractors, are required to keep available for Swissmedic at all times all data that is necessary for assessment, designation, monitoring and re-assessment, including the documents required to assess the qualifications of sub-contractors or subsidiaries. The data must be kept up-to-date at all times. 2 The designated bodies shall notify Swissmedic within 15 days of any change which may affect their compliance with the requirements of Annex VII to EU-IVDR or their ability to conduct conformity assessments. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Tariffs",
+      "content": "The designated bodies shall issue lists of the standard fees charged for their activities and make these lists publicly available."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Section 2 Cessation of Conformity Assessment Activities",
+      "section": "33",
+      "title": "",
+      "content": "1 If a designated body ceases to carry out its conformity assessment activities, it shall inform Swissmedic and the manufacturers concerned as soon as possible. In the case of a planned cessation of activities, notice must be given one year before the activities cease. Swissmedic shall revoke the designation at the time of cessation of activities. 2 The certificates remain valid for a maximum of nine months following the cessation of activities, provided another designated body assumes responsibility for the devices covered by those certificates and confirms this in writing. 3 The designated body assuming responsibility in accordance with paragraph 2 shall conduct a full assessment of the devices concerned before the nine-month period expires and before issuing new certificates for those devices."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Section 3 Suspension, Restriction or Revocation of Designation",
+      "section": "34",
+      "title": "Principle",
+      "content": "1 Designation shall be suspended, restricted or revoked if the designated body: a. no longer or only partly meets the requirements; or b. fails to carry out corrective actions ordered by Swissmedic. 2 Suspensions shall be imposed for a maximum of twelve months. They may be extended by a maximum of a further twelve months. 3 If its designation is suspended, restricted or revoked, the designated body must inform the manufacturers concerned within ten days."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 3 Suspension, Restriction or Revocation of Designation",
+      "section": "35",
+      "title": "Unduly issued certificates",
+      "content": "1 In the event of its designation being restricted, suspended or revoked, the designated body shall suspend or revoke any certificates which were unduly issued. 2 If the designated body fails to fulfil this requirement, Swissmedic shall instruct it to suspend or revoke the certificates and set an appropriate deadline for doing so."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Section 3 Suspension, Restriction or Revocation of Designation",
+      "section": "36",
+      "title": "Validity of certificates in the event of suspension or restriction of designation",
+      "content": "1 If Swissmedic suspends or restricts the designation of a designated body, the certificates concerned remain valid provided Swissmedic: a. confirms within a month that no safety issue exists in relation to the certificates concerned; and b. outlines a timeline and measures to remedy the suspension or restriction. 2 The certificates also remain valid if Swissmedic: a. confirms that during the suspension or restriction, no certificates relevant to the suspension shall be issued, amended or re-issued; and b. states that the designated body is able to continue to monitor and retain responsibility for existing certificates during the suspension or restriction. 3 The designated body shall inform the manufacturers concerned or the persons or entities placing the devices concerned on the market. 4 Should Swissmedic ascertain that the designated body does not have the capability to support existing certificates issued, these certificates retain their validity if the manufacturer of the device in question confirms to Swissmedic or, if it is domiciled in a contracting state, to the competent authority there, in writing and within three months of designation being suspended or restricted that: another qualified designated body is temporarily assuming the monitoring functions; and that this designated body is responsible for the certificates during the period of suspension or restriction."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Section 3 Suspension, Restriction or Revocation of Designation",
+      "section": "37",
+      "title": "Validity of certificates in the event of designation being revoked",
+      "content": "1 If Swissmedic revokes the designation of a designated body, the certificates affected remain valid for nine months provided: a. Swissmedic or, if the manufacturer is domiciled in a contracting state, the competent authority there confirms that there is no safety issue associated with the devices in question, and b. another designated body confirms in writing that it is assuming immediate responsibility for the certificates for these devices and can complete the assessment of the devices within twelve months of designation being revoked. 2 Swissmedic may, within the limits of its competence, extend the provisional validity of the certificates for further periods of three months, which altogether must not exceed twelve months."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Section 4 Monitoring and Re-assessment of Designated Bodies",
+      "section": "38",
+      "title": "",
+      "content": "1 Swissmedic shall monitor the designated bodies and their subsidiaries and sub-contractors and carry out re-assessments. In the course of monitoring and re-assessing designated bodies and reviewing their assessments, Swissmedic shall take account of the requirements and procedures set out in Articles 40 and 41 EU-IVDR. 2 It shall verify whether designated bodies still satisfy the requirements of Article 32 paragraph 1 and Annex VII to EU-IVDR three years after designation, and then every four years, in the course of a full re-assessment. This provision is subject to changes in assessment intervals resulting from delegated acts issued by the European Commission. 3 Swissmedic shall carry out an on-site audit at least once a year to ascertain whether the designated bodies and, where necessary, their subsidiaries and sub-contractors fulfil the requirements and obligations of Annex VII to EU-IVDR. 4 For this purpose, it may at any time: a. carry out on-site assessments with or without advance notice; b. carry out audits of the personnel of the designated body and its subsidiaries or sub-contractors or observe audits that the designated body carries out on manufacturers’ premises. See the footnote to Art. 4 para. 1 let. e. See Annex 3."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Section 1 Manufacturers",
+      "section": "39",
+      "title": "Affixing the conformity marking and performance evaluation",
+      "content": "1 Manufacturers guarantee that their devices have been designed and manufactured in accordance with the requirements of this Ordinance when placing them on the market or putting them into service. 2 They must affix the conformity marking to their devices. 3 They must conduct a performance evaluation in accordance with Article 56 to EU-IVDR See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Section 1 Manufacturers",
+      "section": "40",
+      "title": "Technical documentation",
+      "content": "1 Manufacturers must specify in the technical documentation the information required in Annexes II and III to EU-IVDR , taking account of the amendments to these Annexes made by the European Commission by means of delegated acts. 2 Manufacturers must submit either the complete technical documentation or a summary thereof when requested to do so by the competent authority. See the footnote to Art. 4 para. 1 let. e. See Annex 3."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Section 1 Manufacturers",
+      "section": "41",
+      "title": "Document retention requirements",
+      "content": "Manufacturers must ensure that the following documents are available to the competent authority for at least ten years after the last device covered by the declaration of conformity has been placed on the market: the complete technical documentation; the declaration of conformity; a copy of the certificates issued, including any amendments and supplements."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Section 1 Manufacturers",
+      "section": "42",
+      "title": "Person responsible for regulatory compliance",
+      "content": "1 Manufacturers must have available within their organisation at least one person responsible for regulatory compliance who possesses the requisite expertise in the field of in vitro diagnostic medical devices. 2 Proof of the requisite expertise the person responsible for regulatory compliance possesses, the responsibilities of this person, exceptions and further modalities are governed by Article 15 EU-IVDR. 3 The person responsible for regulatory compliance must have a deputy. If a number of persons are jointly responsible for regulatory compliance, their respective areas of responsibility shall be stipulated in writing. 4 The person responsible for regulatory compliance must suffer no disadvantage within the manufacturer's organisation in relation to the proper fulfilment of his or her duties, regardless of whether or not they are employees of the organisation. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Further obligations",
+      "content": "The further obligations incumbent on manufacturers, particularly the requirements regarding their quality and risk management systems, are governed by Article 10 EU-IVDR . See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Section 2 Authorised Representative",
+      "section": "44",
+      "title": "Obligations",
+      "content": "1 Where the manufacturer of a device is not domiciled in Switzerland, the device may only be placed on the market if the manufacturer designates an authorised representative domiciled in Switzerland by means of a written mandate. 2 The authorised representative is responsible for the formal and safety-related aspects of placing the device on the market. 3 The authorised representative’s rights and obligations and the scope of its mandate are governed by Article 11 EU-IVDR. 4 The manufacturer and authorised representative may contractually agree that, instead of the authorised representative keeping available a copy of the technical documentation, the manufacturer shall, on request, submit the documentation straight to Swissmedic. The authorised representative must ensure that the documentation is submitted within seven days. 5 Changes in authorised representative are governed by Article 12 EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Section 2 Authorised Representative",
+      "section": "45",
+      "title": "Person responsible for regulatory compliance",
+      "content": "1 Authorised representatives shall have permanently and continuously at their disposal at least one person who possesses the requisite expertise as regards the requirements for in vitro diagnostic medical devices under this Ordinance and who is responsible for regulatory compliance. 2 In other respects, Article 42 paragraphs 2–4 shall apply mutatis mutandis."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Section 3 Importers",
+      "section": "46",
+      "title": "46",
+      "content": "1 Importers may only place on the market devices that comply with this Ordinance. Before placing devices on the market, they shall verify that: a. the device bears the conformity marking; b. the declaration of conformity has been drawn up; c. the manufacturer is identified and has designated an authorised representative in accordance with Article 44; d. the device is labelled in accordance with this Ordinance and accompanied by the instructions for use; e. the manufacturer has assigned a UDI where applicable. 2 Importers shall indicate on the device or on its packaging or in a document accompanying the device, their name, place of business and the address where they can be contacted. 3 Where an importer considers or has reason to believe that a device is not in conformity with the requirements of this Ordinance, it must not place the device on the market until it has been brought into conformity. 4 The further obligations of importers prior to and after placing a device on the market are governed by Articles 13 and 16 paragraphs 3 and 4 EU-IVDR. In particular, importers must comply with the following obligations: a. storage, transport and quality management system; b. cooperation with the manufacturer, authorised representative, designated body and competent authorities; c. the provision of information to the manufacturer, authorised representative, designated body and competent authorities. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Section 4 Distributors",
+      "section": "47",
+      "title": "",
+      "content": "1 When making a device available on the market, distributors must, in the context of their activities, act with due care in relation to the requirements applicable. Before making a device available on the market, distributors must verify that: a. the device bears the conformity marking; b. the declaration of conformity has been drawn up; c. the device is accompanied by the product information; d. where devices have been imported, the importer has provided the information required in Article 46 paragraph 2; e. the manufacturer has assigned a UDI where applicable. 2 With the exception of paragraph 1 letter d, a sampling method may be used for the purposes of verification. 3 Where a distributor considers or has reason to believe that a device is not in conformity with the requirements of this Ordinance, it must not make the device available on the market until it has been brought into conformity. 4 The further obligations of distributors prior to and after making a device available on the market are governed by Articles 14 and 16 paragraphs 3 and 4 EU-IVDR. In particular, distributors must fulfil the following obligations: a. storage, transport and quality management system; b. cooperation with the manufacturer, authorised representative, importer and competent authorities; c. the provision of information to the manufacturer, authorised representative, importer and competent authorities. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Section 5 Registration of Economic Operators",
+      "section": "48",
+      "title": "",
+      "content": "1 Manufacturers or their authorised representatives and importers must register the information required by Part A, Section 1, of Annex VI to EU-IVDR with Swissmedic within three months of placing a device on the market for the first time. 2 The economic operator in question must report any changes to the information provided to Swissmedic within one week. 3 Further obligations and registration modalities are governed by Article 27 paragraph 3 and Article 28 EU-IVDR. 4 Swissmedic shall verify the information provided by the economic operators and assign them a Swiss single registration number (CHRN). See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Section 1 Post-market Surveillance",
+      "section": "49",
+      "title": "System",
+      "content": "1 For each device, manufacturers must plan, establish, document, implement, maintain and update a post-market surveillance system in a manner that is proportionate to the risk class and appropriate for the type of device. That system shall be an integral part of the manufacturer's quality management system. 2 The system must be suited to actively and systematically gathering, recording and analysing relevant data on the quality, performance and safety of a device throughout its entire lifetime, and to drawing the necessary conclusions and to determining, implementing and monitoring any preventive and corrective actions. 3 The modalities of the system, particularly the resulting actions, updates and amendments to technical documentation, are governed by Article 78 paragraph 3 EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Section 1 Post-market Surveillance",
+      "section": "50",
+      "title": "Incidents and actions",
+      "content": "1 Should it become evident in the course of post-market surveillance that preventive and/or corrective actions are necessary, the manufacturer shall implement the appropriate measures and inform the competent authorities and, if applicable, the designated body. 2 If a manufacturer becomes aware of a serious incident in connection with a device that has been made available on the market, or takes action to prevent or minimise the risk of such an incident for medical or technical reasons (field safety corrective actions), it must report the fact in accordance with Article 59."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Section 1 Post-market Surveillance",
+      "section": "51",
+      "title": "Plan",
+      "content": "The post-market surveillance plan must satisfy the requirements of Section 1 of Annex III to EU-IVDR. The plan shall be part of the technical documentation referred to in Annex II to EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Section 1 Post-market Surveillance",
+      "section": "52",
+      "title": "Report",
+      "content": "1 Manufacturers of class A and B devices must draw up a post-market surveillance report. 2 This report must contain: a. a summary of the results and conclusions of the analyses of the data gathered as a result of the plan in accordance with Article 51; b. a description of any preventive and corrective actions taken, including their rationale. 3 The report is part of the post-market surveillance technical documentation specified in Annex III to EU-IVDR. 4 The manufacturer must update the report when necessary and make it available to the designated body and the competent authority upon request. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Section 2 Safety Report",
+      "section": "53",
+      "title": "Obligation",
+      "content": "1 Manufacturers of class C and D devices shall prepare a safety report for each device and, where relevant, for each category or group of devices. 2 Manufacturers of class C and D devices shall update the safety report when necessary, but at least annually."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "Section 2 Safety Report",
+      "section": "54",
+      "title": "Content",
+      "content": "1 The safety report must contain: a. a summary of the results and conclusions of the analyses of the data gathered as a result of the plan in accordance with Article 51; b. a description of any preventive and corrective actions taken and their rationale. 2 Throughout the lifetime of the device concerned, the safety report must set out: a. the conclusions of the benefit-risk determination; b. the main findings of the post-market performance follow-up; c. the total sales volume of the device; d. an estimate of the size of the population using the device; e. characteristics of the population in letter d; f. the frequency of device usage, where practicable. 3 The safety report forms part of the technical documentation specified in Annexes II and III to EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "Section 2 Safety Report",
+      "section": "55",
+      "title": "Review",
+      "content": "1 Manufacturers shall make their safety reports available to the designated body involved in the conformity assessment. 2 The designated body shall review the safety report for class D devices and record the outcome of its review with details of any action taken. 3 Manufacturers or their authorised representatives shall, upon request, make the safety report and the outcome of the designated body’s review, with details of any action taken, available to the competent authority."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "Section 3 Summary of Safety and Performance",
+      "section": "56",
+      "title": "",
+      "content": "1 For class C and D devices, other than devices for performance studies, the manufacturer must draw up a summary of safety and performance. 2 This summary shall be written in a way that is clear to the intended user and, if relevant, to the patient. 3 The minimum content of the summary is governed by Article 29 paragraph 2 EU-IVDR. 4 The draft of the summary, together with the documentation, must be submitted to the designated body involved in the conformity assessment for validation by that body. 5 The manufacturer shall publish the summary after it has been validated. 6 The manufacturer must mention on the label or instructions for use where the summary is available. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "Section 4 Traceability and Recording of Device Identification",
+      "section": "57",
+      "title": "Traceability",
+      "content": "1 Distributors and importers shall co-operate with manufacturers or authorised representatives to achieve an appropriate level of traceability of devices. 2 The duty of disclosure under Article 47c TPA applies for at least 10 years from the date on which the device was acquired or delivered."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Section 4 Traceability and Recording of Device Identification",
+      "section": "58",
+      "title": "Storage of the UDI",
+      "content": "Economic operators and healthcare institutions shall store and keep, preferably by electronic means, the UDI of devices which they have supplied or with which they have been supplied. The list of these devices, device categories or device groups is specified in implementing acts of the EU Commission in accordance with Article 24 paragraph 11 letter a EU-IVDR. See Annex 3. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Section 5 Vigilance",
+      "section": "59",
+      "title": "Reporting obligation",
+      "content": "1 Manufacturers of devices made available on the market in Switzerland must report to Swissmedic: a. any serious incidents involving the device in question that have occurred in Switzerland as soon as they become aware of them; b. any field safety corrective actions undertaken in Switzerland. 2 Exemptions from this reporting obligation, modalities, periodic summary reports, trend reporting and analyses of serious incidents and field safety corrective actions are governed by Article 24 paragraph 5 and Articles 82–84 EU-IVDR. 3 Where an authorised representative is required pursuant to Article 44, this representative is responsible for the reporting obligation in paragraph 1. Furthermore, the authorised representative shall submit the trend reports pursuant to paragraph 2 on incidents in Switzerland and abroad to Swissmedic without being requested to do so. Final reports prepared in accordance with Article 84 paragraph 5 EU-IVDR should be submitted to Swissmedic. The transfer of these obligations from the manufacturer to the authorised representative must be agreed in writing in the mandate. 4 Any professional who becomes aware of a serious incident when using devices must report this to the supplier and Swissmedic. The report may be submitted by a professional association. The timelines for doing so are as set out in Article 82 EU-IVDR. 5 Reports must be submitted to Swissmedic electronically and in machine-readable format. Swissmedic publishes information on electronic submission and the forms to be used with content specifications. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Section 5 Vigilance",
+      "section": "60",
+      "title": "Reporting systems in hospitals",
+      "content": "1 Hospitals must set up an internal reporting system within the framework of an established quality management system for the purpose of reporting under Article 59 paragraph 4. 2 They must designate a suitable competent person (vigilance contact person) with a medical or technical qualification to assume responsibility for reporting to Swissmedic. They must supply this person’s contact details to Swissmedic. 3 Records and all documents created under the vigilance quality management system must be retained for at least 15 years."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Chapter 7 Conduct in relation to Devices",
+      "section": "61",
+      "title": "Supply",
+      "content": "1 Devices are supplied in accordance with their intended purpose and the information provided by the manufacturer. 2 Devices for self-testing may be supplied only if the dispensing point can guarantee that professional advice is available and that the operational requirements are satisfied. Article 13 of the Federal Act of 15 June 2018 on Human Genetic Testing also applies. 3 Dispensing devices for the diagnosis of human communicable diseases to the general public is prohibited. Swissmedic may approve exceptions in the interests of public health. SR 810.12 Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ( AS 2023 576 )."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Chapter 7 Conduct in relation to Devices",
+      "section": "62",
+      "title": "Advertising",
+      "content": "1 Claims for devices must only contain statements that correspond to the product information. 2 Misleading statements, particularly concerning the intended purpose, safety and performance of a device, are prohibited. 3 Devices intended solely for use by healthcare professionals must not be advertised to the public."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "Chapter 7 Conduct in relation to Devices",
+      "section": "63",
+      "title": "Use",
+      "content": "Any professional who uses a device from a foreign country directly without placing it on the market is responsible for the conformity of that device."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "Chapter 7 Conduct in relation to Devices",
+      "section": "64",
+      "title": "Maintenance",
+      "content": "1 Any professional using devices must ensure that the devices are maintained and tested in accordance with the regulations. 2 Maintenance must be carried out in accordance with the principles of a quality management system, is to be organised appropriately, and must be guided in particular by: a. the manufacturer's instructions; b. the particular risk associated with the device and its use. 3 For devices with a measurement function, test procedures may be required in accordance with the Measuring Instruments Ordinance of 15 February 2006. 4 Swissmedic may issue and publish requirements for maintenance measures. These requirements shall be deemed to constitute the current scientific and technological standards. SR 941.210"
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "Chapter 7 Conduct in relation to Devices",
+      "section": "65",
+      "title": "Cyber security",
+      "content": "1 Healthcare institutions must put in place all technical and organisational resources required by the state of the art to ensure that network-compatible devices are protected against electronic attack and unauthorised access. 2 Hospitals must identify, evaluate and document the measures taken under paragraph 1 in accordance with the principles of a risk management system. This system forms an integral part of the hospitals’ quality management system."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Chapter 8 Market Surveillance",
+      "section": "66",
+      "title": "Principle",
+      "content": "1 Inspections under the auspices of market surveillance shall cover devices made available on the market, conformity assessment procedures, device surveillance, device handling and economic operators’ fulfilment of their obligations. They shall also cover devices made available in contracting states by natural or legal persons domiciled in Switzerland, the conformity assessment procedures and surveillance activities for such devices and the natural or legal persons’ fulfilment of their obligations. 2 The market surveillance activities undertaken by Swissmedic and the Cantons are governed by Article 66 TPA and Articles 88–90, 92 and 93 EU-IVDR. Article 92 paragraph 3 and Article 93 paragraphs 3 and 4 EU-IVDR are excluded. 3 The Cantons shall draw up annual plans for their market surveillance activities under paragraph 2. They shall provide Swissmedic with an annual summary of the results of their surveillance activities. Swissmedic may determine both the content of the summary and the form in which it is made available. [tab] 4 If necessary for the protection of public health, Swissmedic shall decree its measures under Article 66 TPA in a general ruling. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Chapter 8 Market Surveillance",
+      "section": "67",
+      "title": "Common activities and use of information",
+      "content": "[tab] 1 The market surveillance authorities may reach agreement with organisations that represent the economic operators or users on the implementation of common activities designed to promote conformity and other similar purposes. [tab] 2 They may use all the information obtained in connection with these activities for market surveillance."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Chapter 8 Market Surveillance",
+      "section": "68",
+      "title": "Additional measures",
+      "content": "[tab] In addition to the measures stated in Article 66 paragraph 2, the competent authorities may institute the following measures in particular: a. They may require economic operators to issue the relevant information required to establish the ownership of websites, if the information concerned is connected with the subject of the investigation. b. They may request the removal of content from an online interface or the explicit display of a warning for users, provided there is no other option for eliminating a serious risk. c. If the request stated in letter b is ignored, they may instruct providers of information society services to restrict access to the online interface, for example by asking a third party to implement this measure. d. To protect public health, they may require a provider of information society services to discontinue its activities in Switzerland."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Chapter 8 Market Surveillance",
+      "section": "69",
+      "title": "Responsibilities",
+      "content": "1 Swissmedic is responsible for monitoring: a. devices and device conformity; b. vigilance; c. the maintenance of devices: 1. in hospitals, 2. that are intended for use in hospitals. 2 Certain aspects of the monitoring activities set out in paragraph 1 remain the responsibility of other federal offices or institutions. 3 The Cantons are responsible for monitoring: a. the retail trade and dispensing points; b. the maintenance of devices by the professionals using them and in healthcare institutions with the exception of hospitals."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Powers",
+      "content": "1 For the purposes of verifying conformity, the authorities responsible for monitoring under Article 69 may, without providing compensation: a. demand the proof and information required; b. take samples; c. have the samples tested or submitted to laboratory examination; d. enter and inspect, during normal working hours and with advance notice or, if necessary, unannounced, the business premises and facilities of natural or legal persons who have an obligation to provide information; e. consult documents and demand that they, or additional information, be provided in one of the official languages of Switzerland or in English. 2 If a manufacturer fails to fulfil its obligations under Article 59, Swissmedic may impose appropriate measures to protect health, up to and including prohibiting the making available on the market or the putting into service of the devices in question."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Duty to cooperate and provide information",
+      "content": "1 Economic operators that place a device on the market in Switzerland or in a contracting state, and economic operators, professionals and healthcare institutions that make a device available or put it into service in Switzerland or a contracting state have a duty to cooperate on matters of enforcement. In particular, they must provide, free of charge, all necessary information and all necessary proof and documentation to the enforcement bodies. 2 The providers of information society services also have a duty to cooperate on matters of enforcement. In particular, they should inform the competent authorities about suspected illegal activities by, or information from, users of their service and, upon request, provide information that enables the users of their service with whom they have concluded agreements about storage to be identified."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "Chapter 9 Data Processing",
+      "section": "72",
+      "title": "Data processing in general",
+      "content": "The provisions of Chapter 10 of MedDO, with the exception of Article 90 MedDO, apply mutatis mutandis to data process by Swissmedic and third parties contracted by Swissmedic. SR 812.213"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "Chapter 9 Data Processing",
+      "section": "73",
+      "title": "Publication of data",
+      "content": "Swissmedic may publish the following in the medical devices information system: a. device data, as specified in Part B of Annex VI to EU-IVDR; b. information on economic operators and devices, as specified in Part A of Annex VI to EU-IVDR; c. the general information specified in Article 31 paragraph 7 EU-IVDR governing the assessment, designation and notification of conformity assessment bodies and for the monitoring of designated bodies, and on changes that have a significant impact on such tasks; d. summaries of the annual report on monitoring and on-site assessment activities drawn up in accordance with Article 40 paragraph 12 EU-IVDR; e. summaries of safety and performance in accordance with Article 56; f. information on certificates issued under Articles 24 and 35–37; g. field safety notices for users or customers issued in the course of field safety corrective actions in accordance with Article 84 paragraph 8 EU-IVDR; h. summaries of the reports on Swissmedic's activities in monitoring market surveillance; i. information on market surveillance measures, particularly recalls, on non-conforming devices and preventive health protection measures. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "Section 1 Enforcement",
+      "section": "74",
+      "title": "Amendment of Annexes",
+      "content": "1 The FDHA may amend Annexes 1, 2 and 4 to this Ordinance in line with international and technical progress. 2 Where amendments may pose technical barriers to trade, it shall make them by mutual agreement with the Federal Department of Economic Affairs, Education and Research."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "Section 1 Enforcement",
+      "section": "75",
+      "title": "Information on directly applicable legal acts of the European Commission",
+      "content": "Swissmedic shall provide on its website information on legal acts of the European Commission that, in accordance with this Ordinance, are directly applicable in Switzerland in the version mandatory for the Member States of the EU and as listed in Annex 3."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "Section 1 Enforcement",
+      "section": "76",
+      "title": "Harmonisation of enforcement",
+      "content": "When implementing this Ordinance, Swissmedic shall respect implementing acts adopted by the European Commission on the basis of EU-IVDR. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "Section 1 Enforcement",
+      "section": "77",
+      "title": "Cooperation with the European Commission and authorities of the contracting states",
+      "content": "1 Where provided for by international agreements, Swissmedic, the designated bodies, economic operators and the providers of information society services shall cooperate with the European Commission and the authorities of the contracting states. 2 Swissmedic may appoint experts who are qualified to assess conformity assessment bodies in the field of in vitro diagnostic medical devices. 3 Swissmedic may appoint experts to participate in expert groups of the European Commission and the authorities of the contracting states."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "Section 1 Enforcement",
+      "section": "78",
+      "title": "Collaboration with the customs authorities",
+      "content": "1 The customs authorities provide Swissmedic with information on the import, export and transit of devices. 2 Swissmedic may mandate the customs authorities to detain devices for further inspection and to obtain samples. 3 It may provide the customs authorities with information about ongoing or concluded administrative or criminal proceedings and sanctions in connection with market surveillance."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "Section 1 Enforcement",
+      "section": "79",
+      "title": "EU reference laboratories in Switzerland",
+      "content": "1 Laboratories that wish to be designated an EU reference laboratory by the European Commission according to Article 100 paragraph 1 EU-IVDR may apply to Swissmedic for this designation. 2 They must demonstrate to Swissmedic in particular that they: a. meet the criteria set out in Article 100 paragraph 4 EU-IVDR; b. have arranged appropriate liability insurance cover; and c. are able to assume the tasks under Article 100 paragraph 2 EU-IVDR in accordance with the requirements in each case. 3 If the requirements are met, Swissmedic shall propose to the European Commission that the laboratory be designated an EU reference laboratory. See the footnote to Art. 4 para. 1 let. e."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "Section 2 Amendment of other Legislation and Transitional Provisions",
+      "section": "80",
+      "title": "Amendment of other legislation",
+      "content": "The amendment of other legislation is regulated in Annex 5."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "Section 2 Amendment of other Legislation and Transitional Provisions",
+      "section": "81",
+      "title": "Validity of certificates issued under the old legislation",
+      "content": "Certificates issued under the old legislation retain their validity until the expiry date stated therein, but no longer than 26 May 2025."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "Section 2 Amendment of other Legislation and Transitional Provisions",
+      "section": "82",
+      "title": "Placing on the market of devices that comply with the old legislation",
+      "content": "1 Provided the following devices continue to comply with the old legislation as of 26 May 2022 and have not undergone any significant changes in their design or intended purpose, they may be placed on the market or put into service until the following dates: a. devices with a certificate valid under Article 81: until 26 May 2025; b. devices that did not require the involvement of a designated body in connection with the conformity assessment procedure according to the old legislation, but which is now required by this Ordinance, and for which a declaration of conformity was issued before 26 May 2022 under the old legislation: 1. Class D devices: until 26 May 2025, 2. Class C devices: until 26 May 2026, 3. Class B devices: until 26 May 2027, 4. Class A devices placed on the market in a sterile condition: until 26 May 2027. 2 The post-market surveillance of devices specified in paragraph 1, their market surveillance, vigilance, registration of economic operators and of the devices themselves are subject to the provisions of this Ordinance. 3 Devices legally placed on the market prior to 26 May 2022 under the old legislation and devices legally placed on the market in accordance with paragraph 1 from 26 May 2022 may continue to be made available on the market or put into service. 4 … Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ( AS 2023 576 ). Repealed by Annex No 2 of the O of 29 Sept. 2023, with effect from 1 Nov. 2023 ( AS 2023 576 )."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "Section 2 Amendment of other Legislation and Transitional Provisions",
+      "section": "83",
+      "title": "Requirements for devices manufactured and used in healthcare institutions",
+      "content": "The requirements set out in Article 9 for devices manufactured and used in healthcare institutions shall apply from the following dates: a. the requirements set out in Article 5 paragraph 5 letters b, c and e-i EU-IVDR: from 26 May 2024; b. the requirements set out in Article 5 paragraph 5 letter d EU-IVDR: 26 May 2028. See the footnote to Art. 4 para. 1 let. e"
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Exemptions for in vitro diagnostic medical devices",
+      "content": "Exemptions issued by Swissmedic under Article 9 paragraph 4 and Article 17 paragraph 3 MedDO in the version dated 1 August 2020 shall retain their validity. SR 812.213 AS 2001 3487 ; 2020 2975"
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Affixing the UDI",
+      "content": "The UDI must be affixed in accordance with Article 16 paragraph 2: a. for class D devices: from 26 May 2023; b. for class B and C devices: from 26 May 2025; c. for class A devices: from 26 May 2027;"
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Designation of an authorised representative",
+      "content": "If the manufacturer is domiciled in an EU or EEA state or has designated an authorised representative domiciled in an EU or EEA state, that manufacturer must designate an authorised representative in accordance with Article 44 paragraph 1 for all devices placed on the market as from 26 May 2022 within the following time periods: a. for class D devices: by 31 December 2022; b. for class B and C devices: by 31 March 2023; c. for class A devices: by 31 July 2023."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Placing information about the authorised representative",
+      "content": "For devices which are not intended for self-testing and are placed on the market according to the new legislation, the information specified in Annex 1 Chapter III Section 20.2 letter d EU-IVDR about the authorised representative according to Article 44 paragraph 1 of this Ordinance may be included in a document accompanying the device until 31 March 2025. See the footnote to Art. 4 para.1 let. e"
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Registration of economic operators",
+      "content": "Economic operators that have placed devices on the market prior to 26 May 2022 in accordance with Article 22 a MedDO in the version dated 26 November 2017 must register the information required under Article 48 paragraph 1 by 26 November 2022. SR 812.213 AS 2017 5935"
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Conformity assessment bodies",
+      "content": "1 Conformity assessment body designations issued under Section 4 of MedDO in the version dated 26 November 2017 shall become void for in vitro diagnostic medical devices. 2 The conformity assessment body that issued the certificates under the old legislation remains responsible for the appropriate surveillance of these devices. It is subject to supervision by Swissmedic. 3 Conformity assessment body designations issued under Section 4 a of MedDO in the version dated 1 August 2020 retain their validity for in vitro diagnostic medical devices. 4 If an application for designation as a conformity assessment body according to Section 4 a of MedDO in the version dated 26 November 2017 was submitted before 26 May 2022, the designation is issued according to the new legislation. SR 812.213 AS 2001 3487 ; 2010 1215 ; 2015 999 ; 2017 5935 AS 2017 5935 AS 2017 5935"
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Notification of devices",
+      "content": "1 Until Article 16 paragraph 5 enters into force, the notification obligation for manufacturers domiciled in Switzerland according to Article 6 paragraphs 2 and 4 MedDO in the version dated 26 November 2017 continue to apply. 2 ... 3 The notification obligation according to Article 10 for devices manufactured and used in healthcare institutions applies from the following dates: a. for class D devices: from 1 July 2024; b. for class B and C devices: from 1 January 2025; c. for class A devices: from 1 July 2025. SR 812.213 AS 2001 3487 ; 2017 5935 Enters into force at a later date (see Art. 91 para. 2)."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Entry into force",
+      "content": "1 Subject to the exceptions in paragraph 2, this Ordinance enters into force on 26 May 2022. 2 Article 16 paragraph 5 and Article 90 paragraph 2 enters into force at a later date."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised representative",
+      "definition": "authorised representative means any natural or legal person domiciled in Switzerland who has received and accepted a written mandate from a manufacturer located abroad to act on the manufacturer's behalf in relation to specified tasks with regard to the latter's obligations under this Ordinance;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "importer",
+      "definition": "importer means any natural or legal person domiciled in Switzerland that places a device from abroad on the Swiss market;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "distributor",
+      "definition": "distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, that makes a device available on the Swiss market, up until the point of putting into service;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "economic operator",
+      "definition": "economic operator means a manufacturer, an authorised representative, an importer or a distributor;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "healthcare institution",
+      "definition": "healthcare institution means an organisation the primary purpose of which is the care or treatment of patients or the promotion of public health;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "contracting state",
+      "definition": "contracting state means any state that is bound to mutually recognise conformity assessments and conformity procedures for devices by an agreement with Switzerland under international law based on equivalent legislation;",
+      "source_provision": "art4"
+    }
+  ]
+}

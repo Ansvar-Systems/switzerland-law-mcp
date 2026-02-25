@@ -1,0 +1,32 @@
+{
+  "id": "sr-120-424",
+  "type": "statute",
+  "title": "Verordnung des EDA vom 14. August 2012 über die Personensicherheitsprüfungen (PSPV-EDA)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/505/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung legt für die Funktionen innerhalb des EDA nach Anhang 1 PSPV die jeweilige Prüfstufe nach Artikel 9 Absatz 1 PSPV fest. 2 Die Prüfstufen werden im Anhang festgelegt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Aktualisierung des Anhangs",
+      "content": "1 Der Bereich Sicherheit EDA prüft mindestens alle fünf Jahre die Gültigkeit des Anhangs der vorliegenden Verordnung. 2 Bei einer Änderung von Anhang 1 PSPV beantragt der Bereich Sicherheit EDA innerhalb von sechs Monaten nach Inkrafttreten dieser Änderung die entsprechende Änderung des Anhangs der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. September 2012 in Kraft."
+    }
+  ],
+  "definitions": []
+}

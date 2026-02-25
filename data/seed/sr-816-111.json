@@ -1,0 +1,80 @@
+{
+  "id": "sr-816-111",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 22. März 2017 über das elektronische Patientendossier (EPDV-EDI) ",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/205/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Patientenidentifikationsnummer",
+      "content": "Der Aufbau der Patientenidentifikationsnummer und die Berechnung der Prüfziffer nach Artikel 5 Absatz 2 EPDV sind in Anhang 1 festgelegt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Technische und organisatorische Zertifizierungsvoraussetzungen für Gemeinschaften und Stammgemeinschaften",
+      "content": "1 Die technischen und organisatorischen Zertifizierungsvoraussetzungen für Gemeinschaften und Stammgemeinschaften nach Artikel 30 Absatz 2 EPDV sind in Anhang 2 festgelegt. 2 Das Bundesamt für Gesundheit (BAG) kann die technischen und organisatorischen Zertifizierungsvoraussetzungen für Gemeinschaften und Stammgemeinschaften dem Stand der Technik anpassen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "",
+      "content": "1 Die Metadaten nach Artikel 10 Absatz 3 Buchstabe a EPDV, die für den Austausch medizinischer Daten zu verwenden sind, sind in Anhang 3 festgelegt. 2 Das BAG kann die Metadaten dem Stand der Technik anpassen. Fassung gemäss Ziff. I der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ( AS 2019 2075 ). Fassung gemäss Ziff. I der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ( AS 2019 2075 )."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Austauschformate",
+      "content": "1 Die Austauschformate nach Artikel 10 Absatz 3 Buchstabe b EPDV sind in Anhang 4 festgelegt. 2 Das BAG kann die Austauschformate dem Stand der Technik anpassen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Integrationsprofile",
+      "content": "1 Anhang 5 legt in Anwendung von Artikel 10 Absatz 3 Buchstaben c und d EPDV fest: a. die Integrationsprofile; b. die nationalen Anpassungen der Integrationsprofile; c. die nationalen Integrationsprofile. 2 Das BAG kann die Anforderungen nach Absatz 1 dem Stand der Technik anpassen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Evaluation und Forschung",
+      "content": "1 Anhang 6 enthält die nach Artikel 22 Absatz 2 EPDV durch Gemeinschaften und Stammgemeinschaften zu liefernden Daten. 1bis Das BAG fordert die Daten periodisch ein und stellt die notwendigen Formulare zur Verfügung. 2 Das BAG kann die Daten nach Absatz 1 dem Stand der Technik anpassen. Fassung gemäss Ziff. I der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ( AS 2019 2075 ). Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ( AS 2019 2075 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Mindestanforderungen an das Personal",
+      "content": "1 Die Mindestanforderungen an die Qualifikation des Personals nach Artikel 28 Absatz 5 EPDV, das Zertifizierungen durchführt, sind in Anhang 7 festgelegt. 2 Das BAG kann die Mindestanforderungen an die Qualifikation des Personals dem Stand der Technik anpassen. Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ( AS 2019 2075 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Technische und organisatorische Zertifizierungsvoraussetzungen für Herausgeber von Identifikationsmitteln",
+      "content": "1 Die technischen und organisatorischen Zertifizierungsvoraussetzungen für Herausgeber von Identifikationsmitteln nach Artikel 31 Absatz 2 EPDV sind in Anhang 8 festgelegt. 2 Das BAG kann die technischen und organisatorischen Zertifizierungsvoraussetzungen für Herausgeber von Identifikationsmitteln dem Stand der Technik anpassen."
+    },
+    {
+      "provision_ref": "art8a",
+      "section": "8a",
+      "title": "8 a Dienst zur Abfrage der Gesundheitseinrichtungen und Gesundheitsfachpersonen",
+      "content": "1 Gemeinschaften und Stammgemeinschaften tragen im Dienst zur Abfrage der Gesundheitseinrichtungen und Gesundheitsfachpersonen zu jeder ihr angeschlossenen Gesundheitseinrichtung die Identifikationsnummer nach Artikel 3 Absatz 2 Buchstabe c der Verordnung vom 30. Juni 1993 über das Betriebs- und Unternehmensregister (BUR-Nummer) ein. 2 Die für die Bezeichnung der Gesundheitseinrichtungen und Gesundheitsfachpersonen zu verwendenden Metadaten nach Artikel 10 Absatz 3 Buchstabe a EPDV sind in Anhang 9 festgelegt. 3 Das BAG kann die Vorgaben nach Absatz 2 dem Stand der Technik anpassen. Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ( AS 2019 2075 ). SR 431.903"
+    },
+    {
+      "provision_ref": "art8b",
+      "section": "8b",
+      "title": "b Übergangsbestimmung zur Änderung vom 28. Oktober 2022",
+      "content": "Bis zum 31. Dezember 2023 müssen Gemeinschaften und Stammgemeinschaften die Änderung vom 28. Oktober 2022 nicht umsetzen. Eingefügt durch Ziff. I der V des EDI vom 28. Okt. 2022, in Kraft seit 1. Dez. 2022 ( AS 2022 657 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 15. April 2017 in Kraft."
+    }
+  ],
+  "definitions": []
+}

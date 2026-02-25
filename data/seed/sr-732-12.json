@@ -1,0 +1,320 @@
+{
+  "id": "sr-732-12",
+  "type": "statute",
+  "title": "Safeguardsverordnung vom 4. Juni 2021 (SaV)",
+  "title_en": "Safeguards Ordinance of 4 June 2021 (SaO)",
+  "short_name": "SaV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2021/359/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Provisions",
+      "section": "1",
+      "title": "Subject matter and purpose",
+      "content": "1 This Ordinance regulates in particular the implementation of the Agreement of 6 September 1978 between the Swiss Confederation and the International Atomic Energy Agency (IAEA) concerning the application of safeguards within the scope of the Treaty on the Non-Proliferation of Nuclear Weapons (Safeguards Agreement) and of the Additional Protocol of 16 June 2000 to the Safeguards Agreement. 2 Its purpose is to ensure that materials and activities subject to these agreements serve peaceful uses only. SR 0.515.031 SR 0.515.031.1"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Provisions",
+      "section": "2",
+      "title": "Scope of application",
+      "content": "1 This Ordinance applies to: a. the following materials: 1. source material in accordance with Article 1 paragraph 1 letter one of the Nuclear Energy Ordinance of 10 December 2004 (NEO) and special fissile material in accordance with Article 1 paragraph 1 letter b NEO, 2. radioactive waste that includes materials in accordance with number 1, 3. ores from which uranium or thorium are extracted; b. facilities that use or store the materials referred to in letter a: 1. research reactors and critical assemblies, 2. power reactors, 3. storage facilities, in particular interim storage facilities, 4. deep geological repositories, 5. other facilities under Article 3 letter a; c. the following facilities that do not yet or no longer use or store the materials referred to in letter a: 1. facilities in accordance with letter b that are in planning or under construction, 2. closed-down facilities in accordance with letter b; d. locations outside facilities at which materials in accordance with letter a are used or stored; e. nuclear equipment in accordance with Annex 1, the manufacture, assembly and construction of which is subject to notification, and the production and enrichment of heavy water and deuterium in accordance with Annex 1; f. the possession, import, export and transport of materials in accordance with letter a; g. research and development related to the nuclear fuel cycle; h. the exploration for or exploitation of uranium and thorium mines. 2 This Ordinance applies to: a. Swiss customs territory; b. Swiss open customs warehouses; c. Swiss warehouses for bulk goods; d. Swiss duty-free warehouses; and e. Swiss customs enclaves. SR 732.11"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Definitions",
+      "content": "1 In this Ordinance: a. facility means a reactor, a critical assembly, a conversion plant, a fuel element fabrication plant, a reprocessing plant, an enrichment plant, a storage facility or any other installation at which materials referred to in Article 2 paragraph 1 letter a are normally used in quantities that exceed an effective kilogram; b. location outside facilities means an installation outside facilities in which materials referred to in Article 2 paragraph 1 letter a are normally used or stored in quantities that do not exceed an effective kilogram; c. site means the area that includes the buildings and installations required for operation of a facility or of a location outside facilities; this includes closed-down facilities and closed-down locations outside facilities, provided hot cells are still installed at these locations outside facilities or activities have been carried out in connection with conversion, enrichment, fuel production or reprocessing; d. closed-down facility means a facility that is no longer in operation and in which no materials in accordance with Article 2 paragraph 1 letter a are present, but in which the essential structures and equipment for handling these materials are still available; e. decommissioned facility means a facility whose structures and equipment have been removed or rendered unusable to the extent that they can no longer be used to store, handle, process or use materials in accordance with Article 2 paragraph 1 letter a; f. effective kilogram means a unit of measurement that corresponds in the case of: 1. plutonium, to its weight in kilogrammes, 2. uranium with an enrichment of 0.01 (1 %) or more, its weight in kilogrammes multiplied by the square of its enrichment, 3. uranium with an enrichment of less than 0.01 (1 %) and more than 0.005 (0.5 %), its weight in kilograms multiplied by 0.0001, and 4. uranium with an enrichment of 0.005 (0.5 %) or less, and thorium, its weight in kilograms multiplied by 0.00005; g. highly enriched uranium means enriched uranium in which the proportion of uranium‑233, uranium‑235 or of both isotopes together amounts to or exceeds 20 per cent; h. batch means a portion of materials in accordance with Article 2 paragraph 1 letter a handled as a unit for accounting purposes and for which the composition and quantity of the materials are defined by a single set of specifications or measurements; the material may be in bulk form or in a number of separate items; i. terminated material means material in accordance with Article 2 paragraph 1 letter a for which the safeguards based on Article 11 or 13 of the Safeguards Agreement have been terminated; j . essential equipment means equipment that is essential for storing, handling, processing or using materials in accordance with Article 2 paragraph 1 letter a; k. environmental samples means air, water, soil, plant and other samples, including swipe samples; l. research and development activities related to the nuclear fuel cycle means, subject to paragraph 2, activities that cover specific aspects of process or system development, in particular: 1. the conversion and enrichment of materials in accordance with Article 2 paragraph 1 letter a, 2. the manufacture and reprocessing of fuel elements, 3. the development of nuclear reactors and critical assemblies, 4. the processing of intermediate and high-level waste that contains plutonium, highly enriched uranium or uranium‑233, but not repackaging and conditioning for the purpose of storage or disposal, provided that no isotopes are separated in the process. 2 The following are not considered research and development activities related to the fuel cycle in accordance with paragraph 1 letter l: a. activities related to theoretical or basic scientific research; b. research and development: 1. on potential industrial uses of radio isotopes, 2. for medical, hydrological and agricultural applications, 3. on the effects on health and the environment, and 4. for improved maintenance. SR 0.515.031"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Responsibilities",
+      "content": "1 The Swiss Federal Office of Energy (SFOE) is responsible for the supervision of the safeguards (supervisory authority). 2 The SFOE shall, as required, issue the detailed requirements for implementing the safeguards in guidelines, in particular Articles 5, 6, 10, 14, 16 and 20."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Safeguards for Facilities in accordance with Article 2 Paragraph 1 letter b",
+      "section": "5",
+      "title": "Safeguards officer",
+      "content": "1 The holder of an operating licence under Article 19 NEA (licence holder) shall appoint a person (to be) responsible for safeguards, together with a deputy (safeguards officers) and entrust them with the necessary competencies and provide them with the required resources. 2 The safeguards officers must be familiar with the obligations associated with the relevant treaties and agreements between Switzerland and the IAEA. 3 The appointments require the written consent of the SFOE. The SFOE may assess the suitability of the persons to be appointed."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Safeguards for Facilities in accordance with Article 2 Paragraph 1 letter b",
+      "section": "6",
+      "title": "Safeguards regulations",
+      "content": "1 The licence holder shall draw up safeguards regulations. 2 These regulations shall be submitted to the SFOE for approval."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Safeguards for Facilities in accordance with Article 2 Paragraph 1 letter b",
+      "section": "7",
+      "title": "Specification of material balance areas",
+      "content": "1 The licence holder shall establish material balance areas for those areas in which material in accordance with Article 2 paragraph 1 letter a is present. 2 It shall define the extent of the material balance area so as to ensure that the inventory of material within the zone and the movements of material beyond the boundaries of the zone can be ascertained at all times. 3 It shall divide each material balance area in such a way as to ensure that movements of such material within a material balance area can be ascertained at all times."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Safeguards for Facilities in accordance with Article 2 Paragraph 1 letter b",
+      "section": "8",
+      "title": "Consideration of safeguards in the event of substantial changes",
+      "content": "In the event of substantial changes to facilities, the effects of such changes on the implementation of safeguards shall be considered in the planning process (safeguards by design ). In particular, the installation of monitoring and measurement instruments that facilitate the verification of the material inventory and the uninterrupted monitoring of material movements in accordance with Article 2 paragraph 1 letter a shall be considered."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 2 Safeguards for Facilities in accordance with Article 2 Paragraph 1 letter b",
+      "section": "9",
+      "title": "Accounting obligations",
+      "content": "1 The licence holder shall maintain an inventory, updated as and when required, of the material in accordance with Article 2 paragraph 1 letter a in each material balance area. 2 The accounting documents shall comprise: a. the inventory and inventory change reports in accordance with Annex 2 number 1.2 for material that as a result of its composition or its purity level is suitable for fuel production or isotope enrichment; b. the inventory of material that as a result of its composition or its purity level is not yet suitable for fuel production or isotope enrichment; c. the operating records in accordance with Annex 2 number 1.3. 3 The measurement system used to establish the inventory of material shall meet, or be qualitatively equivalent to, the latest international standards. 4 The accounting documents shall be retained for a minimum of 10 years."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Reporting obligations",
+      "content": "The licence holder is required to submit the following reports to the SFOE: a. the design information for the facility, the supplementary information on the site, the safeguards by design information in accordance with Annex 2 number 1.1, and the information on substantial modifications to essential equipment; b. the inventory and inventory change reports in accordance with Annex 2 number 1.2; c. the notifications under Annex 2 number 1.2."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 3 Safeguards for Installations under Article 2 Paragraph 1 Letter c",
+      "section": "11",
+      "title": "Consideration of safeguards from the planning phase",
+      "content": "The future implementation of safeguards in accordance with Annex 2 number 1.1 shall be considered from the time at which the planning of facilities begins (safeguards by design). In particular, the future installation of monitoring and measurement instruments that facilitate the verification of the material inventory and the uninterrupted monitoring of the material movements in accordance with Article 2 paragraph 1 letter a shall be included in the plans."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 Safeguards for Installations under Article 2 Paragraph 1 Letter c",
+      "section": "12",
+      "title": "Specifying material balance areas",
+      "content": "1 The person with authority for a facility under Article 2 paragraph 1 letter c number 1 shall specify areas in the facility in which with material in accordance with Article 2 paragraph 1 letter a will be handled. 2 He or she shall limit the material balance area so that the quantity of material within the area and the quantity that is moved beyond the boundaries of the area can be ascertained at all times. 3 He or she shall define key measurement points (KMPs) within a material balance area so that movements of such material within the material balance area can be ascertained at all times."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3 Safeguards for Installations under Article 2 Paragraph 1 Letter c",
+      "section": "13",
+      "title": "Person responsible for reports and conducting inspections",
+      "content": "The person with authority for a facility under Article 12 paragraph 1 shall designate a person responsible for reports and for conducting inspections and entrust that person with the necessary competencies and provide him/her with the required resources."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 3 Safeguards for Installations under Article 2 Paragraph 1 Letter c",
+      "section": "14",
+      "title": "Reporting obligations",
+      "content": "1 The person responsible for reports and inspections under Article 13 shall submit the reports in accordance with Annex 2 number 2 to the SFOE. 2 In the case of closed-down facilities, he or she shall report each quarter to the SFOE on the removal or disablement of essential equipment . 3 The reporting obligations end as soon as the IAEA declares the facility to be decommissioned in relation to safeguards."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 4 Safeguards relating to the Manufacture, Assembly and Construction of Certain Types of Nuclear Equipment, and the Production and Upgrading of Heavy Water and Deuterium",
+      "section": "15",
+      "title": "",
+      "content": "1 Any person who carries out activities in accordance with Annex 1 shall notify the SFOE about such activities on an annual basis. Notifications shall be submitted by 31 March of the following year at the latest. 2 Notifications must include details of the location, nature and scope of the activities concerned."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 5 Safeguards relating to the Import, Export and Transport of Material in accordance with Article 2 paragraph 1 letter a and Accounting for such Materials Abroad",
+      "section": "16",
+      "title": "Notification requirement for the import, export and transport of material in accordance with Article 2 paragraph 1 letter a from or to facilities",
+      "content": "Any person who imports or exports material in accordance with Article 2 paragraph 1 letter a from or to a facility or transports such material within Switzerland shall notify the SFOE at the latest 30 days before transport of the quantity, the physical form, the chemical composition and the intended use. The licensing obligations under Article 6 paragraph 1 NEA are reserved."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 5 Safeguards relating to the Import, Export and Transport of Material in accordance with Article 2 paragraph 1 letter a and Accounting for such Materials Abroad",
+      "section": "17",
+      "title": "Deliveries equivalent to import and export",
+      "content": "The following deliveries are deemed equivalent to import and export: a. deliveries from and to diplomatic or consular representations; b. deliveries from and to international organisations; c. deliveries to and from open customs warehouses, warehouses for bulk goods, duty-free warehouses or customs enclaves."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 5 Safeguards relating to the Import, Export and Transport of Material in accordance with Article 2 paragraph 1 letter a and Accounting for such Materials Abroad",
+      "section": "18",
+      "title": "Accounting for material in accordance with Article 2 paragraph 1 letter a number 1 abroad",
+      "content": "1 The owner of material in accordance with Article 2 paragraph 1 letter a number 1 for use in the nuclear fuel cycle that is located abroad shall keep an inventory thereof. In doing so, he or she shall provide the following information: a. on whether the material is natural uranium, depleted uranium, enriched uranium, thorium or plutonium; b. on the quantity rounded to whole kilograms; c. on the storage location and the address of the person responsible for storage; d. on the chemical composition; e. on the physical form; and f. on the intended use of such material. 2 He or she shall notify the SFOE of the existing inventories of material as of the end of each calendar year by 31 March of the following year."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 6 Special Safeguards Measures",
+      "section": "19",
+      "title": "Notification requirement for persons in possession of terminated material in radioactive waste",
+      "content": "1 Any person in possession of high or intermediate level waste with terminated plutonium, terminated highly enriched uranium or terminated uranium‑233 shall notify the SFOE of its storage location each year. 2 The notification shall be made at the end of the calendar year and shall be submitted to the SFOE by 31 March of the following year at the latest. 3 The SFOE shall be notified in advance of any intention to further process such waste if isotopes are to be separated. For the purposes of this article, further processing does not include repackaging or conditioning for the purpose of storage or disposal."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 6 Special Safeguards Measures",
+      "section": "20",
+      "title": "Notification requirement for persons in possession of materials in accordance with Article 2 paragraph 1 letter a at locations outside facilities and for the import and export of such material to and from such locations",
+      "content": "1 Any person who possesses materials specified in Article 2 paragraph 1 letter a that are subject to a Federal Office of Public Health (FOPH) licence in accordance with the Radiological Protection Ordinance of 26 April 2017 at locations outside facilities or modifies the inventory of such materials shall notify the SFOE of their quantity, physical form, chemical composition, storage location and intended use. The FOPH shall notify the SFOE of the licence holders. 2 The SFOE shall, after consulting the FOPH, specify the extent, the frequency and form of these notifications in a guideline. 3 Any person who imports, exports or domestically transports more than 1000 kg of such materials in any quarter shall notify the SFOE at the latest 30 days before the transport of the quantity, physical form and chemical composition of the material and the intended use. SR 814.501"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 6 Special Safeguards Measures",
+      "section": "21",
+      "title": "Exemption from safeguards for material in accordance with Article 2 paragraph 1 letter a",
+      "content": "1 On request, the SFOE may seek from the IAEA exemption from safeguards for materials under Article 2 paragraph 1 letter a in accordance with the Safeguards Agreement. 2 Any person who is in possession of such exempt material shall notify the SFOE annually of its quantity, physical form and chemical composition, storage location and use. 3 The report on the inventory at the end of the calendar year and on any changes in the course of the calendar year shall be submitted to the SFOE by 31 March of the following year at the latest. SR 0.515.031"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 6 Special Safeguards Measures",
+      "section": "22",
+      "title": "Exploration or exploitation of uranium and thorium mines",
+      "content": "1 The holders of an exploration or exploitation licence for a uranium or thorium mine shall submit a copy of their licence to the SFOE. This obligation applies irrespective of whether the uranium or thorium is a main or by-product, and regardless of the extraction process used. The SFOE may request additional information. 2 The following information shall be submitted to the SFOE each year by 31 March: a. situation maps with coordinates; b. the maximum annual production capacity (t uranium and/or thorium); c. a summary of the activities during the past calendar year; d. the exploited quantity in the past calendar year (t uranium and/or thorium)."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Research and development related to the nuclear fuel cycle",
+      "content": "Any person who carries out research and development activities related to the nuclear fuel cycle shall: a. provide the SFOE each year by 31 March with a description of the activities carried out in the past calendar year; b. on request notify the SFOE of the identity of the persons who carry out these activities."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 7 Inspections",
+      "section": "24",
+      "title": "Subject matter",
+      "content": "1 Inspections may be carried out to assess the implementation of safeguards. 2 The following may be assessed in particular: a. in an inspection relating to the implementation of safeguards in accordance with Section 2, whether: 1. the facility corresponds to the submitted design information, 2. the location corresponds to the submitted supplementary information, 3. the accounting has been carried out properly, 4. the inventory of material in accordance with Article 2 paragraph 1 letter a corresponds to the information in the reports under Article 10; b. in an inspection relating to the implementation of safeguards in accordance with Section 3, whether: 1. the reporting has been carried out properly, 2. no material in accordance with Article 2 paragraph 1 letter a is present, 3. the structure of the facility and the subdivision of the material balance areas are suitable for implementing safeguards. 3 In addition, the notifications in accordance with Articles 15–22 and the information in accordance with Article 23 may be assessed. Notifications relating to deliveries in accordance with Article 17 are exempted from this assessment."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 7 Inspections",
+      "section": "25",
+      "title": "Responsibility",
+      "content": "1 Inspections shall be carried out by the SFOE, where necessary together with IAEA inspectors. 2 The SFOE may arrange with the safeguards officer for the inspections under Article 24 paragraph 2 letter a to be carried out by IAEA inspectors without the participation of the SFOE. 3 The SFOE may call on other federal authorities, specialised organisations and experts. Experts and the personnel of specialised organisations shall be obliged to observe official secrecy in accordance with Article 320 of the Swiss Criminal Code. SR 311.0"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 7 Inspections",
+      "section": "26",
+      "title": "Tolerance and cooperation",
+      "content": "The persons entitled to authorise access to land and buildings that are subject to this Ordinance shall tolerate inspections by the SFOE and the IAEA and cooperate with the inspectors. They shall in particular: a. grant access even without advance notice: 1. in the case of facilities under Article 2 paragraph 1 letter b: to the SFOE and the IAEA inspectors, 2. in the case of facilities under Article 2 paragraph 1 letter c: to the SFOE; b. provide information about: 1. the location that is being inspected, 2. the activities carried out there, 3. the safety measures required for the inspection, and 4. the associated administration and logistics; c. provide telecommunications equipment, premises with electricity supply and means of transport within the location, insofar as this is required for carrying out the inspection; d. permit the carrying of information technology equipment, insofar as this is necessary for the proper conduct of the inspection."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Principles",
+      "content": "1 The SFOE shall take the precautions required for carrying out an inspection. It shall in particular: a. create the conditions necessary to ensure that operations in the inspected areas are disrupted as little as possible; b. ensure the protection of confidential data and installations; c. ensure the unambiguous classification of the information that becomes accessible. 2 It shall decide after consulting the person entitled to authorise access to land and buildings that are subject to this Ordinance whether the IAEA inspectors are allowed access to sensitive information. 3 It shall ensure if requested by the person entitled to authorise access to land and buildings that are subject to this Ordinance that sensitive information is not removed from the inspected area."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Powers",
+      "content": "In the course of inspections, the following activities are authorised, in particular: a. land and buildings may be inspected and checked during normal operating and business hours; b. material in accordance with Article 2 paragraph 1 letter a may be verified; c. seals may be applied and removed; d. monitoring and measurement instruments may be installed, maintained and removed; e. visual examinations may be carried out; f. photographs may be taken; g. samples of materials specified in Article 2 paragraph 1 letter a and environmental samples may be taken; h. radiation measuring equipment may be used; i. operating reports and documents may be examined."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Restrictions",
+      "content": "1 The SFOE may restrict the activities of the IAEA inspectors in order to: a. ensure compliance with the provisions governing workplace safety, radiation protection or nuclear security; b. protect sensitive information. 2 It may deny the IAEA inspectors access to the facilities if: a. the IAEA does not provide the required documents in due time, in particular the personal data relating to the inspectors, or if it has not made the required clarifications; b. regulations governing workplace safety or radiation protection would be violated."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Advance notice of inspection",
+      "content": "1 The SFOE shall notify the persons concerned of the time, the inspection location, the subject matter of the inspection and the participants in an inspection. 2 In the case of unannounced inspections, access shall be granted to the facility within two hours of the arrival of the inspectors."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Refund of costs, support for compensation claims",
+      "content": "1 Ongoing costs, in particular for data transmission, or extraordinary costs that arise as the result of a request by the IAEA, shall be refunded by the IAEA provided the person or company concerned has requested a refund and the IAEA has declared its readiness in advance to refund such costs. The relevant requests shall be submitted to the SFOE. 2 In the event that any person should be harmed during an inspection, the Confederation shall support the person concerned in asserting his or her legal rights within the limits of its own legal powers. 3 Liability for loss or damage incurred due to unlawful conduct by representatives of the Confederation is governed by the Government Liability Act of 14 March 1958. SR 170.32"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Section 8 Criminal Provisions",
+      "section": "32",
+      "title": "Offences under the Nuclear Energy Act",
+      "content": "Under Article 93 NEA, it is an offence for any person: a. to fail to comply with the obligation of establishing a zone in accordance with Articles 7 and 12; b. to fail to comply with the accounting, reporting and notification requirements specified in Articles 9, 10, 14, 16, 18, 19, 22 and 23; c. to fail to comply with the notification requirement specified in Article 21 in relation to facilities; d. to prevent inspections in accordance with Article 24 relating to the accounting, reporting and notification requirements mentioned in letters b and c from being carried out; e. to fail to comply with the obligations to tolerate and cooperate specified in Article 26 in the course of inspections in accordance with letter d."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Section 8 Criminal Provisions",
+      "section": "33",
+      "title": "Offences under the Goods Control Act",
+      "content": "Under Article 15 GCA it is an offence for any person: a. to fail to comply with the notification requirement specified in Article 15; b. to prevent inspections to assess compliance with the notification requirement specified in Article 15 from being carried out; c. to fail to comply with obligations to tolerate and cooperate specified in Article 26 in the course of inspections in accordance with letter b."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Section 8 Criminal Provisions",
+      "section": "34",
+      "title": "Offences under the Radiological Protection Act",
+      "content": "Under Article 44 paragraph 1 RPA it is an offence for any person: a. to fail to comply with the notification requirement specified in Article 20; b. to fail to comply with the notification requirement specified in Article 21 in relation to locations outside facilities; c. to prevent inspections under Article 24 to assess compliance with the notification requirement mentioned in letters a and b from being carried out; d. to fail to comply with obligations to tolerate and cooperate specified in Article 26 in the course of inspections in accordance with letter c."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 9 Final Provisions",
+      "section": "35",
+      "title": "Amendments by DETEC",
+      "content": "The Federal Department of the Environment, Transport, Energy and Communications (DETEC) shall amend Annexes 1 and 2 if Switzerland’s international obligations in relation to safeguards so require."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Section 9 Final Provisions",
+      "section": "36",
+      "title": "Repeal of other legislation",
+      "content": "The Safeguards Ordinance of 21 March 2012 is repealed. [ AS 2012 1703 ; 2016 2195 Annex 8 no 2]"
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Section 9 Final Provisions",
+      "section": "37",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 July 2021."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "facility",
+      "definition": "facility means a reactor, a critical assembly, a conversion plant, a fuel element fabrication plant, a reprocessing plant, an enrichment plant, a storage facility or any other installation at which materials referred to in Article 2 paragraph 1 letter a are normally used in quantities that exceed an effective kilogram;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "location outside facilities",
+      "definition": "location outside facilities means an installation outside facilities in which materials referred to in Article 2 paragraph 1 letter a are normally used or stored in quantities that do not exceed an effective kilogram;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "site",
+      "definition": "site means the area that includes the buildings and installations required for operation of a facility or of a location outside facilities; this includes closed-down facilities and closed-down locations outside facilities, provided hot cells are still installed at these locations outside facilities or activities have been carried out in connection with conversion, enrichment, fuel production or reprocessing;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "closed-down facility",
+      "definition": "closed-down facility means a facility that is no longer in operation and in which no materials in accordance with Article 2 paragraph 1 letter a are present, but in which the essential structures and equipment for handling these materials are still available;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "decommissioned facility",
+      "definition": "decommissioned facility means a facility whose structures and equipment have been removed or rendered unusable to the extent that they can no longer be used to store, handle, process or use materials in accordance with Article 2 paragraph 1 letter a;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "effective kilogram",
+      "definition": "effective kilogram means a unit of measurement that corresponds in the case of: 1. plutonium, to its weight in kilogrammes,",
+      "source_provision": "art3"
+    },
+    {
+      "term": "highly enriched uranium",
+      "definition": "highly enriched uranium means enriched uranium in which the proportion of uranium‑233, uranium‑235 or of both isotopes together amounts to or exceeds 20 per cent;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "batch",
+      "definition": "batch means a portion of materials in accordance with Article 2 paragraph 1 letter a handled as a unit for accounting purposes and for which the composition and quantity of the materials are defined by a single set of specifications or measurements; the material may be in bulk form or in a number of separate items;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "terminated material",
+      "definition": "terminated material means material in accordance with Article 2 paragraph 1 letter a for which the safeguards based on Article 11 or 13 of the Safeguards Agreement have been terminated;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "environmental samples",
+      "definition": "environmental samples means air, water, soil, plant and other samples, including swipe samples;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "research and development activities related to the nuclear fuel cycle",
+      "definition": "research and development activities related to the nuclear fuel cycle means, subject to paragraph 2, activities that cover specific aspects of process or system development, in particular: 1. the conversion and enrichment of materials in accordance with Article 2 paragraph 1 letter a,",
+      "source_provision": "art3"
+    }
+  ]
+}

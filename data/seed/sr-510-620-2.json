@@ -1,0 +1,62 @@
+{
+  "id": "sr-510-620-2",
+  "type": "statute",
+  "title": "Verordnung des VBS vom 20. November 2009 über die Gebühren des Bundesamtes für Landestopografie (GebV-swisstopo)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2009/760/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt die Gebührentarife für die amtlichen Leistungen des Bundesamts für Landestopografie in den Bereichen der Landesvermessung, der Landesgeologie und der geografischen Namen. 2 Die Ansätze für die Grundgebühr, die Rabattfaktoren, die Bereitstellungskosten und die Pauschalgebühren sind im Anhang festgehalten."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Mehrwertsteuer",
+      "content": "Für die amtlichen Leistungen, die der Mehrwertsteuer unterliegen, wird die Steuer zusätzlich zu den Gebühren erhoben."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Verzicht auf Gebührenerhebung",
+      "content": "1 Keine Gebühren werden erhoben für die Nutzung von Geobasisdaten zur Veröffentlichung in rein wissenschaftlichen Publikationen, insbesondere in Forschungsberichten und in qualifizierenden Arbeiten (Diplomarbeiten, Masterarbeiten, Dissertationen und dergleichen). 2 Das Bundesamt für Landestopografie kann für bestimmte amtliche Leistungen oder bestimmte Ausprägungen von amtlichen Leistungen generell oder für eine bestimmte Dauer auf die Gebührenerhebung verzichten. Dies gilt insbesondere für amtliche Leistungen, die: a. Promotionszwecken des Bundesamts für Landestopografie dienen; b. Testzwecken dienen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Gebührenbefreiung",
+      "content": "Wer geologische Informationen liefert, kann von den Gebühren für die Nutzung der geologischen Informationsstelle ganz oder teilweise befreit werden."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Gebührenfreie Nutzung ohne Einwilligung",
+      "content": "Folgende Nutzungen von Geobasisdaten sind ohne Einwilligung zulässig und gebührenfrei: a. umgearbeitete analoge Karten kleineren Massstabes als 1:300 000; b. umgearbeitete digitale Daten mit (Generalisierungsgrad) einer durchschnittlichen Genauigkeit von < 1:300 000; c. Veröffentlichungen von umgearbeiteten Daten in analoger Form bis zu einer Grösse von 3,2 dm 2 (Format A5); d. Veröffentlichungen von umgearbeiteten Daten in analoger Form bis zu einer Grösse von 12,5 dm 2 (Format A3) und einer Auflage von 100 Exemplaren; e. grobe, nicht massstäbliche Skizzen oder stark verfremdete oder umgearbeitete Daten; f. Veröffentlichungen in Forschungsberichten und in qualifizierenden Arbeiten (Diplomarbeiten, Masterarbeiten, Dissertationen, Maturitätsarbeiten und dergleichen) bis zu einer Auflage von 100 Exemplaren oder als statische Einzelbilder in öffentlichen Netzen; g. Veröffentlichungen in der Tagespresse zur Erläuterung des Tagesgeschehens; h. Veröffentlichungen auf Internetseiten bis zu einer Grösse von 2 000 000 Pixel als statisches Einzelbild oder als Einbindung einer kleinen dynamischen Karte (iFrame mit dem Kartenviewer map.geo.admin.ch des Bundesamtes für Landestopografie) in eine beliebige Internetseite. Fassung gemäss Ziff. I der V des VBS vom 12. Aug. 2016, in Kraft seit 1. Okt. 2016 ( AS 2016 3031 ). Fassung gemäss Ziff. I der V des VBS vom 12. Aug. 2016, in Kraft seit 1. Okt. 2016 ( AS 2016 3031 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung des EMD vom 28. November 1991 über die Abgabe und den Verkauf von Landeskarten wird aufgehoben. [ AS 1992 90 ]"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Übergangsbestimmungen",
+      "content": "Auf der Grundlage des bisherigen Rechts vertraglich vereinbarte Zahlungskonditionen gelten bis zum Ablauf des Vertrags, längstens aber bis zum 31. Dezember 2014."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2010 in Kraft."
+    }
+  ],
+  "definitions": []
+}

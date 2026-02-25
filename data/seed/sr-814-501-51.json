@@ -1,0 +1,165 @@
+{
+  "id": "sr-814-501-51",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 26. April 2017 über den Strahlenschutz bei nichtmedizinischen Anlagen zur Erzeugung ionisierender Strahlung (SnAV)",
+  "title_en": "",
+  "short_name": "SnAV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/505/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Geltungsbereich",
+      "content": "1 Diese Verordnung gilt für: a. Anlagen, die der Erzeugung von Photonen- oder Korpuskularstrahlen dienen und die nicht für medizinische Anwendungen bestimmt sind; b. Störstrahler, die nicht für medizinische Anwendungen bestimmt sind und deren Ortsdosisleistung in 10 cm Abstand zur Oberfläche mehr als 1 μSv pro Stunde beträgt oder deren Spannung zur Beschleunigung der Elektronen 30 kV überschreitet. 2 Sie gilt insbesondere für Anlagen zur Werkstoffprüfung, Werkstoffveränderung, Mess- und Regeltechnik, Herstellung von Radionukliden sowie für Anlagen zu Forschungs- und Sterilisationszwecken."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "Es gelten die Begriffsbestimmungen nach Artikel 2 und den Anhängen 1 und 4 StSV sowie nach Anhang 1 dieser Verordnung."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Anerkannte Regeln der Technik",
+      "content": "Die Anlagen und deren Betrieb müssen den anerkannten Regeln der Technik entsprechen. Als anerkannte Regeln der Technik gelten insbesondere die international harmonisierten Normen der Internationalen Elektrotechnischen Kommission (IEC), des Europäischen Komitees für Normung (CEN) und des Europäischen Komitees für Elektrotechnische Normung (CENELEC)."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Spezialanwendungen und technische Neuerungen",
+      "content": "Wo in Einzelfällen wegen Spezialanwendungen oder technischer Neuerungen besondere Gründe vorliegen, kann das Bundesamt für Gesundheit Abweichungen von den technischen Bestimmungen dieser Verordnung bewilligen, sofern die Gesuchstellerin oder der Gesuchsteller beziehungsweise die Bewilligungsinhaberin oder der Bewilligungsinhaber nachweist, dass der Strahlenschutz durch geeignete Massnahmen gewährleistet ist."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Einrichtung und Betrieb von Anlagen",
+      "section": "5",
+      "title": "Ortsfeste Anlagen",
+      "content": "Für die Einrichtung und den Betrieb ortsfester Anlagen ohne Voll- oder Teilschutzeinrichtung in Überwachungsbereichen gelten die besonderen Anforderungen nach Anhang 2."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Einrichtung und Betrieb von Anlagen",
+      "section": "6",
+      "title": "Handgehaltene Röntgenanlagen",
+      "content": "Für den Betrieb handgehaltener Röntgenanlagen mit beschränkter Leistung gelten die besonderen Anforderungen nach Anhang 3."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Einrichtung und Betrieb von Anlagen",
+      "section": "7",
+      "title": "Anlagen im mobilen Einsatz",
+      "content": "Für die Einrichtung und den Betrieb von Anlagen im mobilen Einsatz gelten die besonderen Anforderungen nach Anhang 4."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Einrichtung und Betrieb von Anlagen",
+      "section": "8",
+      "title": "Anlagen in Bestrahlungsräumen",
+      "content": "1 Für die Einrichtung und den Betrieb von Anlagen in Bestrahlungsräumen gelten die besonderen Anforderungen nach Anhang 5. 2 Für die Einrichtung und den Betrieb von Anlagen in Bestrahlungsräumen mit einer Strahlenergie ab 1 MeV oder für Bestrahlungsanlagen mit Hadronen gelten die besonderen Anforderungen nach den Anhängen 5 und 6. 3 Für industrielle Betriebe, die Bestrahlungsräume für Anlagen einrichten oder umgestalten, gelten die Vorschriften betreffend Plangenehmigung durch die kantonale Behörde nach Artikel 7 Absatz 1 des Arbeitsgesetzes vom 13. März 1964. SR 822.11"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Einrichtung und Betrieb von Anlagen",
+      "section": "9",
+      "title": "Übrige Anlagen",
+      "content": "Für die Einrichtung und den Betrieb von nicht in den Artikeln 5–8 geregelten Anlagen sind die Erfahrung und der Stand von Wissenschaft und Technik zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Einrichtung und Betrieb von Anlagen",
+      "section": "10",
+      "title": "Bedienungseinrichtungen von Anlagen ohne Voll- oder Teilschutzeinrichtung",
+      "content": "1 Die Bedienungseinrichtungen von Anlagen ohne Voll- oder Teilschutzeinrichtung müssen ausserhalb von Überwachungsbereichen installiert werden. Das Einschalten der Strahlung darf nur von der Bedienungseinrichtung aus möglich sein. 2 Ist die Installation der Bedienungseinrichtung ausserhalb von Überwachungsbereichen aus organisatorischen oder technischen Gründen nicht möglich, so muss sichergestellt werden, dass die Ortsdosis an der Bedienungseinrichtung unter Berücksichtigung der Betriebsfrequenz nicht mehr als 0,1 mSv in einer Woche beträgt. 3 Anlagen müssen im Bereich der Bedienungseinrichtung mit einem gut sichtbaren Schalter zur Ausserbetriebsetzung ausgestattet sein. 4 Die Anlagen müssen gegen unbefugtes Einschalten gesichert werden können."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Abschnitt: Einrichtung und Betrieb von Anlagen",
+      "section": "11",
+      "title": "Warneinrichtungen",
+      "content": "1 Mindestens ein Warnlicht muss anzeigen, dass die Strahlung eingeschaltet ist. 2 Warnlichter müssen von allen Seiten von der Begrenzung des Kontroll- oder Überwachungsbereichs her leicht erkennbar sein. 3 Bei Anlagen ohne Vollschutzeinrichtung, die ausserhalb von Bestrahlungsräumen betrieben werden, muss sichergestellt sein, dass sie bei defektem Warnlicht nicht in Betrieb genommen werden können; ausgenommen sind handgehaltene Röntgenanlagen nach Artikel 6. 4 Anlagen und Überwachungsbereiche sind mit dem Gefahrenzeichen und einer Bezeichnung gemäss Anhang 8 StSV zu kennzeichnen."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Sicherheitseinrichtungen",
+      "content": "1 Strahlenschutzeinrichtungen von Anlagen und Zugänge zu Bestrahlungsräumen müssen mit Überwachungsschaltern ausgerüstet werden. Dies gilt insbesondere für: a. ohne Werkzeuge entfernbare Abschirmungen und Abdeckungen; b. Beladungsöffnungen; c. Verschlussblenden. 2 Die Überwachungsschalter müssen zwangsbetätigt und zwangsöffnend sein oder auf anderem Wege mindestens das gleiche Schutzniveau erreichen. Das Schutzniveau muss dem Risiko der Anlage angepasst sein. Beim Ansprechen der Überwachungsschalter muss automatisch der Strahlbetrieb unterbrochen werden. Die Wiederaufnahme des Strahlbetriebs darf nur von der Bedienungseinrichtung aus möglich sein. 3 Die Wiederaufnahme des Strahlbetriebs darf automatisch erfolgen, wenn die Anlage eine Beladungsöffnung hat und bei geschlossener Beladungsöffnung keine Körperteile der Strahlung ausgesetzt sein können."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Ausserbetriebsetzung von Sicherheitseinrichtungen",
+      "content": "1 Sicherheitseinrichtungen dürfen nur für Wartungs-, Reparatur- und Justierarbeiten ausser Betrieb gesetzt werden. Während dieser Ausserbetriebsetzung dürfen Anlagen nur mit der kleinstmöglichen Dosisleistung betrieben werden. 2 Die Ausserbetriebsetzung von Sicherheitseinrichtungen hat unter Einbezug einer oder eines Sachverständigen nach Artikel 16 Absatz 1 des Strahlenschutzgesetzes vom 22. März 1991 (Strahlenschutz-Sachverständige) zu erfolgen und muss an der Anlage gut sichtbar angezeigt werden. SR 814.50"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Dokumentation zur Anlage",
+      "content": "1 Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass in unmittelbarer Nähe der Anlage jederzeit die Betriebsanleitung einsehbar ist. Diese muss in betriebsüblicher Sprache abgefasst sein und mindestens folgende Angaben enthalten: a. Anweisungen für den bestimmungsgemässen Betrieb der Anlage; b. Anweisungen für die periodischen Kontrollen, die Wartung und die Justierungen der Anlage; c. Anweisungen für die Behebung von Störungen. 2 Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass für jede Anlage mindestens folgende Unterlagen verfügbar sind: a. die Bewilligung der zuständigen Behörde für die Einrichtung und den Betrieb der Anlage; b. Protokolle und Angaben über alle durchgeführten Prüfungen und Kontrollen; c. Strahlenschutzbauzeichnungen und Berechnungen für Bestrahlungsräume; d. betriebsinterne Weisungen für den Strahlenschutz."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "3. Abschnitt: Standort und Abschirmung von Anlagen",
+      "section": "15",
+      "title": "Standort",
+      "content": "1 Anlagen ohne Voll- oder Teilschutzeinrichtung müssen innerhalb von Bestrahlungsräumen betrieben werden. 2 Ist der Betrieb von Anlagen ohne Voll- oder Teilschutzeinrichtung innerhalb von Bestrahlungsräumen aus betrieblichen oder technischen Gründen nicht möglich, so kann die Aufsichtsbehörde den Betrieb innerhalb von anderen Überwachungsbereichen zulassen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Abschnitt: Standort und Abschirmung von Anlagen",
+      "section": "16",
+      "title": "Abschirmung und Zugänglichkeit von Anlagen",
+      "content": "1 Die Abschirmung von Bestrahlungsräumen oder die Abmessung des Überwachungsbereichs richtet sich nach Artikel 79 StSV. Dabei dürfen die folgenden Ortsdosisrichtwerte unter Berücksichtigung der Betriebsparameter nicht überschritten werden: a. in Räumen ausserhalb von Überwachungsbereichen: 0,02 mSv in einer Woche; b. an Orten ausserhalb von Überwachungsbereichen, die nicht für einen Daueraufenthalt vorgesehen sind: 0,1 mSv in einer Woche; c. an Orten innerhalb von Überwachungsbereichen, an denen sich nur beruflich strahlenexponierte Personen aufhalten können: 0,1 mSv in einer Woche. d. beim mobilen Einsatz von Anlagen innerhalb von Gebäuden: 0,02 mSv in einer Woche; e. beim mobilen Einsatz von Anlagen im Freien: 0,1 mSv in einer Woche. 2 Die zugrundegelegte Betriebsfrequenz muss mindestens eine Stunde pro Woche betragen. 3 An Orten, an denen sich während des Betriebs der Anlagen keine Personen aufhalten können, unterliegt die Ortsdosis keiner Beschränkung."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Abschnitt: Standort und Abschirmung von Anlagen",
+      "section": "17",
+      "title": "Unterlagen zum bautechnischen Strahlenschutz",
+      "content": "1 Für den Betrieb von Anlagen ohne Voll- oder Teilschutzeinrichtung in Bestrahlungsräumen muss die Gesuchstellerin oder der Gesuchsteller dem Bewilligungsgesuch Unterlagen zum bautechnischen Strahlenschutz beilegen, insbesondere: a. einen Grundriss der Räume im Massstab 1:20 oder 1:50, auf dem eingezeichnet sind: 1. die Anordnung von Strahlungsquellen, 2. mögliche Strahlrichtungen, 3. Untersuchungsgeräte, die für die Bestimmung der Abstände massgebend sind; b. Schnittzeichnungen, falls diese für die Beurteilung der zu schützenden, in Reichweite der Strahlung liegenden Bereiche erforderlich sind; c. Berechnungstabellen, welche die in Anhang 7 aufgeführten Angaben enthalten; d. eine Beschreibung der Warn- und Sicherheitseinrichtung. 2 Die Unterlagen zum bautechnischen Strahlenschutz müssen durch die Strahlenschutz-Sachverständige oder den Strahlenschutz-Sachverständigen auf Korrektheit geprüft worden sein. Sie oder er sorgt dafür, dass die Bauausführung gemäss diesen Vorgaben erfolgt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Schutz von Personen",
+      "section": "18",
+      "title": "",
+      "content": "Als beruflich strahlenexponiert im Sinne von Artikel 51 StSV gelten insbesondere: a. Personen, die Anlagen ohne Voll- oder Teilschutzeinrichtungen benutzen; b. Personen, die für Wartungs-, Reparatur- und Justierarbeiten an Anlagen mit Voll- oder Teilschutzeinrichtung die bestehenden Sicherheitseinrichtungen ganz oder teilweise ausser Betrieb setzen müssen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Wartung, Umbau, Reparatur und Kontrolle",
+      "section": "19",
+      "title": "",
+      "content": "1 Anlagen müssen gemäss den Angaben der Herstellerin oder des Herstellers, der Lieferantin oder des Lieferanten regelmässig gewartet und auf ihren Zustand geprüft werden. Die Resultate der Prüfungen müssen dokumentiert werden. 2 Das bestimmungsgemässe Funktionieren von Sicherheitseinrichtungen ist mindestens jährlich zu kontrollieren. 3 Bei wenig benutzten Anlagen oder nach jedem längeren Betriebsunterbruch und nach Reparaturen oder Umbauten muss die Kontrolle jeweils bei der erneuten Inbetriebnahme der Anlage erfolgen. Die Resultate der Kontrollen müssen dokumentiert werden. 4 Nach Wartung, Reparatur oder Umbau von strahlenschutzrelevanten Anlageteilen ist zu prüfen, ob der Richtwert für die Ortsdosisleistung eingehalten wird. Dafür müssen geeignete Messmittel nach Artikel 89 StSV zur Verfügung stehen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "20",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Strahlenschutz-Anlagenverordnung vom 31. Januar 2001 wird aufgehoben. [ AS 2001 922 ]"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "21",
+      "title": "Bestehende Bewilligungen",
+      "content": "Die Bewilligungsinhaberinnen und -inhaber müssen bestehende Anlagen und Einrichtungen spätestens drei Jahre nach dem Inkrafttreten dieser Verordnung an die neuen Vorschriften angepasst haben."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "22",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2018 in Kraft."
+    }
+  ],
+  "definitions": []
+}

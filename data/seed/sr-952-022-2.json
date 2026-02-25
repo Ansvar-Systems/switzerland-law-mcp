@@ -1,0 +1,136 @@
+{
+  "id": "sr-952-022-2",
+  "type": "statute",
+  "title": "Verordnung der FINMA vom 6. März 2024 über die Offenlegungspflichten der Banken und Wertpapierhäuser (OffV-FINMA)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2024/138/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die Pflichten zur Offenlegung der Risiken, der Eigenmittel, der Liquidität, der Vergütungen sowie der Grundsätze der Unternehmensführung ( Corporate Governance )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "1 Diese Verordnung gilt für die folgenden Institute: a. Banken nach Artikel 1 a des Bankengesetzes vom 8. November 1934 (BankG); b. Wertpapierhäuser, die Konten nach Artikel 44 Absatz 1 Buchstabe a des Finanzinstitutsgesetzes vom 15. Juni 2018 führen; c. Finanzgruppen und Finanzkonglomerate nach Artikel 3 c Absätze 1 und 2 BankG. 2 Wo nichts anderes geregelt wird, gelten die Bestimmungen für Banken auch für die anderen Institute, die dieser Verordnung unterstehen. 3 Diese Verordnung gilt nicht für: a. Privatbankiers nach Artikel 16 Absatz 2 ERV; b. schweizerische Zweigniederlassungen von ausländischen Banken und Wertpapierhäusern. SR 952.0 SR 954.1"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Grundsätze",
+      "content": "Für die Offenlegung gelten die folgenden Grundsätze: a. Klarheit: Die offengelegten Informationen müssen verständlich sein. b. Angemessenheit: Die wesentlichen Aktivitäten und Risiken der Bank sind qualitativ und quantitativ angemessen offenzulegen. c. Aussagekraft: Es muss möglich sein, die wesentlichen Risiken sowie das Risikomanagement der Bank und gegebenenfalls der Finanzgruppe oder des Finanzkonglomerats einzuschätzen; die Nachvollziehbarkeit ist mit allfälligen Hinweisen auf Positionen der Bilanz oder der Erfolgsrechnung sicherzustellen; Informationen ohne Aussagekraft sind wegzulassen, und die entsprechende Begründung ist intern zu dokumentieren. d. Konsistenz: Die Informationen sind von Periode zu Periode in konsistenter Weise darzustellen; wesentliche Änderungen sind angemessen zu begründen und zu kommentieren."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Umfang der Offenlegungspflichten",
+      "section": "4",
+      "title": "Allgemeines",
+      "content": "1 Der Umfang der Offenlegung richtet sich insbesondere nach: a. der Kategorie der Bank nach Anhang 3 BankV; b. der Systemrelevanz der Bank nach Artikel 124 a ERV; c. den Ansätzen, die die Bank für die Berechnung der Mindesteigenmittel verwendet. 2 Die Offenlegungspflichten sind in den Anhängen 1–5 festgelegt. Diese regeln insbesondere die zu publizierenden Informationen sowie die Publikationshäufigkeit. 3 Die Offenlegung nach den Anhängen 2 und 3 muss die Informationen zum Berichtsjahr sowie die in den Tabellen allenfalls vorgeschriebenen Vergleichszahlen zu Vorperioden umfassen. 4 In jedem Fall zu publizieren sind, unter Vorbehalt der nachfolgenden Bestimmungen, die folgenden Informationen: a. von allen Banken: die Informationen nach Anhang 2 Tabellen KM1, OV1, CR1, CR4, ORA, IRRBBA, IRRBBA1, IRRBB1 und LIQA sowie die Angaben zur Unternehmensführung nach Anhang 4; b. von systemrelevanten Banken zusätzlich zu den Informationen nach Buchstabe a: die Informationen nach den Anhängen 3 und 5; c. von international tätigen systemrelevanten Banken zusätzlich zu den Informationen nach den Buchstaben a und b: die Informationen nach Anhang 2 Tabellen KM2, TLAC1, TLAC2, TLAC3 und GSIB1; d von Banken, die als Einzelinstitut, als Finanzgruppe oder als Finanzkonglomerat Mindesteigenmittel von 10 Milliarden Franken halten müssen: die Informationen nach Anhang 2 Tabellen REMA, REM1, REM2 und REM3. 5 Alle anderen Informationen und Tabellen als diejenigen nach Absatz 4 müssen nicht publiziert werden, wenn sie keine Aussagekraft haben. 6 Die Offenlegungen zu den vier vorangegangenen Berichtsjahren müssen publiziert bleiben, ausgenommen die Offenlegungen nach den Anhängen 4 und 5."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Umfang der Offenlegungspflichten",
+      "section": "5",
+      "title": "Volle Offenlegung",
+      "content": "Für die folgenden Banken gilt die volle Offenlegung: a. Banken der Kategorien 1–3; b. Banken der Kategorien 4 und 5, die Verbriefungstransaktionen bezüglich ausländischer Positionen eingehen oder Modellansätze nach Artikel 59, 77 oder 88 ERV anwenden."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Umfang der Offenlegungspflichten",
+      "section": "6",
+      "title": "Partielle Offenlegung",
+      "content": "Für Banken der Kategorien 4 und 5, die nicht unter Artikel 5 Buchstabe b fallen, gilt die partielle Offenlegung."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Umfang der Offenlegungspflichten",
+      "section": "7",
+      "title": "Spezialfälle",
+      "content": "1 Banken, die die Vereinfachungen nach Artikel 47 a ERV anwenden dürfen (Banken des Kleinbankenregimes), müssen ausschliesslich die Informationen nach Anhang 2 Ziffer 1.5 Tabelle KM1 publizieren. 2 Kontoführende Wertpapierhäuser müssen nicht offenlegen: a. die Zinsrisiken nach Anhang 2 Tabellen IRRBBA, IRRBBA1 und IRRBB1, wenn im Bankenbuch keine wesentlichen Zinsrisiken vorliegen; b. die Liquiditätsrisiken nach Anhang 2 Tabellen LIQA, LIQ1 und LIQ2. 3 Hält eine systemrelevante Bank Eigenmittel zur Erfüllung der Anforderungen nach dem 5. Titel 4. Kapitel ERV, die sie nicht gleichzeitig zur Erfüllung der Anforderungen nach den Artikeln 128–131 b ERV heranziehen darf (Art. 132 Abs. 6 ERV), so sind folgende Grössen in den Tabellen nach Anhang 2 zusätzlich nach Abzug dieser Eigenmittel in geeigneter Form zu publizieren: a. hartes Kernkapital; b. Kernkapital; c. risikobasierte Kapitalquoten; d. Leverage Ratio . 4 Die Tabelle CCA ist durch die Banken der Kategorien 1 und 2 mindestens halbjährlich und durch die Banken der Kategorie 3 sowie die Banken der Kategorien 4 und 5 mit voller Offenlegung jährlich zu publizieren. Eine zusätzliche Aktualisierung ist erforderlich, sofern eine Emission, Rückzahlung, Rücknahme, Wandlung, ein Forderungsverzicht oder eine sonstige wesentliche Veränderung betreffend die Kapitalinstrumente oder andere Instrumente, die zur gesamten Verlusttragfähigkeit ( Total Loss Absorbing Capacity , TLAC) der Bank beitragen, erfolgte. 5 Die Tabelle OR1 gilt nur für Banken, deren Geschäftsindikator mehr als 1,25 Milliarden Franken beträgt oder die ihren internen Verlustmultiplikator auf Basis von Verlustdaten berechnen. Für Banken der Kategorien 4 und 5 mit partieller Offenlegung gilt dies analog für die Tabellen OR2 und OR3. 6 Die Tabelle CCyB1 gilt nur für Banken, die einen erweiterten antizyklischen Puffer nach Artikel 44 a ERV halten müssen."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Änderung eines Sachverhalts",
+      "content": "1 Ändert sich bei einer Bank ein Sachverhalt und führt dies zu veränderten Offenlegungspflichten, so gelten diese ab dem Zeitpunkt der Änderung des Sachverhalts. 2 Gibt es in Bezug auf die publizierten Informationen Übergangsrecht, so muss die Bank offenlegen, ob und inwieweit sie das Übergangsrecht oder das neue Recht anwendet."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Offenlegung auf konsolidierter Basis",
+      "section": "9",
+      "title": "Finanzgruppen, Finanzkonglomerate und grosse Banken",
+      "content": "1 Gelten die Eigenmittel- und Liquiditätsvorschriften auf Stufe einer Finanzgruppe oder eines Finanzkonglomerats, so müssen die Offenlegungspflichten nur auf konsolidierter Basis erfüllt werden, mit folgenden Ausnahmen: a. Die Informationen nach Anhang 2 Tabelle KM1 sind auch auf Stufe des Einzelinstituts zu publizieren; sie können auch von der Finanzgruppe oder dem Finanzkonglomerat publiziert werden; in diesem Fall muss das betreffende Institut im Geschäftsbericht darauf verweisen. b. Betragen die Mindesteigenmittel für das Kreditrisiko und das Gegenpartei-Kreditrisiko einer Bank insgesamt mehr als 4 Milliarden Franken und übt die Bank eine wesentliche internationale Tätigkeit aus, so müssen die Informationen nach Anhang 2 Tabelle KM1 auch auf Stufe derjenigen bedeutenden in- und ausländischen Banktochtergesellschaften und untergeordneten Finanzgruppen publiziert werden, für die Eigenmittel- und Liquiditätsvorschriften gelten; die Publikation muss quartalsweise erfolgen. 2 Der Konsolidierungskreis für die Offenlegung entspricht dabei jenem nach Artikel 7 ERV für die konsolidierte Berechnung der anrechenbaren Eigenmittel und der Mindesteigenmittel. 3 Die Mindesteigenmittel nach Absatz 1 Buchstabe b berechnen sich als Durchschnitt der entsprechenden Angaben in den Eigenmittelnachweisen der letzten vier dem Stichtag vorangegangenen Semester."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Offenlegung auf konsolidierter Basis",
+      "section": "10",
+      "title": "Zentrale Organisationen",
+      "content": "Die Offenlegungspflichten gelten nicht für die einer zentralen Organisation angeschlossenen Banken, welche die FINMA nach Artikel 10 Absatz 1 ERV von der Erfüllung der Eigenmittelvorschriften auf Stufe Einzelinstitut ganz oder teilweise befreit hat. Die zentrale Organisation muss die Offenlegungspflichten auf konsolidierter Basis erfüllen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Offenlegung auf konsolidierter Basis",
+      "section": "11",
+      "title": "Ausländisch beherrschte Banken",
+      "content": "1 Ausländisch beherrschte Banken sind von den Offenlegungspflichten befreit, wenn vergleichbare Informationen auf Gruppenstufe im Ausland publiziert werden und im Geschäftsbericht der beherrschten Bank darauf verwiesen wird. 2 Die folgenden Informationen sind jedoch auch auf Stufe der beherrschten Bank zu publizieren: a. die Informationen nach Anhang 2 Tabelle KM1; und b. die Informationen zur Unternehmensführung nach Anhang 4. 3 Die Informationen nach Absatz 2 sind jährlich im Geschäftsbericht der beherrschten Bank zu publizieren."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Modalitäten der Publikation sowie bankinterne Zuständigkeit",
+      "section": "12",
+      "title": "Art der Publikation",
+      "content": "1 Anhang 1 regelt: a. unter «Informationstyp», für welche Informationen eine qualitative und für welche eine quantitative Beschreibung erforderlich ist; und b. unter «Tabellenformat», inwieweit die Tabellen angepasst werden können. 2 Fixe Tabellen sind im vordefinierten Format zu publizieren. Nicht zutreffende Zeilen und Spalten können weggelassen werden. Bei Bedarf können zusätzliche Zeilen und Spalten eingefügt werden. Die vorgegebene Zeilen- und Spaltennummerierung darf jedoch nicht verändert werden, auch nicht bei Weglassen oder Hinzufügen von Zeilen und Spalten. 3 Flexible Tabellen können durch die Bank angepasst werden, wenn dies der Aussagekraft der Informationen dient; anderslautende Bestimmungen in den Anhängen bleiben vorbehalten. Von der einmal gewählten Darstellung und Granularität flexibler Tabellen kann nur in begründeten Ausnahmefällen abgewichen werden. 4 Die Tabellen nach Anhang 2 sind unter Nennung ihrer Bezeichnung und Referenz zu publizieren. 5 Banken, die die Informationen in englischer Sprache publizieren, können in den Tabellen nach Anhang 2 den jeweiligen Originalwortlaut des Basler Mindeststandards zu den Anforderungen an die Offenlegung (DIS) in der Fassung nach Anhang 1 ERV übernehmen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Modalitäten der Publikation sowie bankinterne Zuständigkeit",
+      "section": "13",
+      "title": "Form der Publikation",
+      "content": "1 Die Banken müssen die Informationen so publizieren, dass sie leicht zugänglich sind. 2 Sie müssen die Informationen nach den Anhängen 2 und 3 auf ihrer Internetseite publizieren. Banken der Kategorien 4 und 5, die keine Internetseite haben, müssen diese Informationen im Geschäftsbericht publizieren. 3 Banken, die der vollen Offenlegung unterliegen, müssen die Informationen nach den Anhängen 2 und 3 in einem eigenständigen Dokument publizieren, die Tabellen CCA und GSIB1 nach Anhang 2 ausgenommen. Dieses Dokument kann auch ein separater Teil des Zwischen- oder Geschäftsberichts sein, wenn dieser Teil klar als Offenlegung identifizierbar ist. 4 Banken, die der partiellen Offenlegung unterliegen und die Informationen nach Anhang 2 nicht im Geschäftsbericht publizieren, müssen im Geschäftsbericht angeben, wo diese Informationen verfügbar sind. 5 Bei der Publikation der Inhalte von flexiblen Tabellen nach den Anhängen 2 und 3 darf unter folgenden Voraussetzungen auf andere Quellen verwiesen werden: a. Die Quellen sind leicht zugänglich. b. Die Qualität und die Zuverlässigkeit der Quellen sind vergleichbar mit denjenigen der intern erhobenen Daten. c. Der Verweis umfasst folgende Informationen: 1. Tabellenreferenz sowie Tabellenbezeichnung nach Anhang 1; 2. vollständiger Name des Quellendokuments, auf das verwiesen wird und in dem die Informationen publiziert sind; 3. Internetlink; 4. Angabe der Seite und der Abschnittsnummer des Quellendokuments, in dem die Informationen publiziert sind. 6 Die Banken müssen die Informationen nach den Anhängen 4 und 5 auf ihrer Internetseite oder in einem separaten Kapitel im Geschäftsbericht publizieren. 7 Banken, die nach den Artikeln 9–11 publizieren, müssen in ihrem Geschäftsbericht mit einem generellen Hinweis angeben, wo die konsolidierte Publikation erhältlich ist."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Zeitpunkt und Fristen der Publikation",
+      "content": "1 Die nach jeder Jahresperiode aktualisierten Daten sind innerhalb von vier Monaten nach Abschluss der Jahresrechnung zu publizieren. Die Frist zur Publikation der Vergütungen kann um höchstens zwei weitere Monate erstreckt werden, sofern aufgrund des Datums der ordentlichen Generalversammlung eine Publikation innert vier Monaten nicht möglich ist. 2 Die nach jeder Zwischenperiode aktualisierten Daten sind innerhalb von zwei Monaten nach Ende der Zwischenperiode zu publizieren. 3 Fällt das Ende der Zwischenperiode auf das Ende der Jahresperiode, so gelten die Fristen nach Absatz 1. 4 Der Zeitpunkt der Erstellung oder Anpassung der publizierten Informationen muss klar angegeben werden."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Währung",
+      "content": "Wo nichts anderes angegeben ist, sind die Informationen in der Währung der Jahresrechnung zu publizieren."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Genehmigung",
+      "content": "1 Das Organ der Bank für die Oberleitung, Aufsicht und Kontrolle muss die institutsspezifischen Grundsätze, auf deren Basis die Bank die Offenlegungspflichten dieser Verordnung erfüllt, und den Umfang der Offenlegung genehmigen. 2 Die Offenlegung ist einer internen Kontrolle zu unterziehen, die mit jener für die Publikation der Jahres- und gegebenenfalls der Konzernrechnung vergleichbar ist."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "17",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Die Aufbereitung von Informationen, die zur Publikation nach den Tabellen nach den Anhängen 2 und 3 vorgesehen sind und die sich auf Stichtage beziehen, die vor dem Datum des Inkrafttretens dieser Verordnung liegen, richtet sich nach dem am jeweiligen Stichtag geltenden Recht. Abweichende Regelungen in den Tabellen sind vorbehalten. 2 Die Offenlegung mit Stichtag 31. Dezember 2024 richtet sich nach dem am Stichtag geltenden Recht."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "18",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2025 in Kraft."
+    }
+  ],
+  "definitions": []
+}

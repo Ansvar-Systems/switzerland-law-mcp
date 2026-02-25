@@ -1,0 +1,38 @@
+{
+  "id": "sr-837-023-211",
+  "type": "statute",
+  "title": "Verordnung des WBF vom 26. November 2010 über die Haftungsrisikovergütung an die Träger der Arbeitslosenkassen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2010/792/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Berechnungsgrundlage der Haftungsrisikovergütung",
+      "content": "1 Grundlage für die Berechnung der Haftungsrisikovergütung an die Träger der Arbeitslosenkassen ist die durchschnittliche jährliche Haftungssumme der in den beiden vorangehenden Jahren rechtskräftig verfügten Haftungen. 2 Nicht berücksichtigt werden Haftungen für Schäden, die vorsätzlich oder durch Missachtung einer fallbezogenen Anweisung der Ausgleichsstelle oder durch strafbare Handlungen verursacht worden sind."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Vergütungssumme",
+      "content": "Die Vergütungssumme entspricht 75 Prozent der Haftungssumme nach Artikel 1 Absatz 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Ausrichtung",
+      "content": "1 Die Vergütungssumme wird im Verhältnis der Anzahl Fälle, die im Vorjahr von der Ausgleichsstelle geprüft worden sind (Art. 83 Abs. 1 Bst. d des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982) und der Anzahl eingereichter Gesuche um Befreiung von der Ersatzpflicht aus uneinbringlichen, kasseneigenen Rückforderungen (Art. 115 AVIV) an die einzelnen Kassenträger ausgerichtet, wobei die Zahl der geprüften Fälle doppelt gewichtet wird. 2 Die Vergütung für das Vorjahr wird im zweiten Quartal des laufenden Jahres ausgerichtet. SR 837.0"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2011 in Kraft."
+    }
+  ],
+  "definitions": []
+}

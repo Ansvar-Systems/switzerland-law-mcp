@@ -1,0 +1,705 @@
+{
+  "id": "sr-814-20",
+  "type": "statute",
+  "title": "Bundesgesetz vom 24. Januar 1991 über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG)",
+  "title_en": "Federal Act of 24 January 1991 on the Protection of Waters (Waters Protection Act, WPA)",
+  "short_name": "GSchG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Title 1 General Provisions",
+      "section": "1",
+      "title": "Purpose",
+      "content": "The purpose of this Act is to protect waters against harmful effects. In particular it aims: a. to preserve the health of people, animals and plants; b. to guarantee the supply and economic use of drinking water and water required for other purposes; c. to preserve the natural habitats of indigenous fauna and flora; d. to preserve waters suitable as a habitat for fish; e. to preserve waters as an element of the landscape; f. to ensure the irrigation of agricultural land; g. to permit the use of waters for leisure purposes; h. to ensure the natural functioning of the hydrological cycle."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Title 1 General Provisions",
+      "section": "2",
+      "title": "Scope of application",
+      "content": "This Act applies to all surface and underground waters."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Title 1 General Provisions",
+      "section": "3",
+      "title": "Duty of care",
+      "content": "Everyone is required to take all the care due in the circumstances to avoid any harmful effects to waters."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "Title 1 General Provisions",
+      "section": "3a",
+      "title": "a Polluter pays principle",
+      "content": "Anyone who causes measures to be taken under this Act must bear the costs. Inserted by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Title 1 General Provisions",
+      "section": "4",
+      "title": "Definitions",
+      "content": "In this Act: a. surface waters : means water bodies and their beds including the bottoms and banks, together with the fauna and flora living there; b. underground waters : means groundwater (including spring water), aquifer, lower and upper confining beds; c. detrimental effects: means pollution and any other intervention which harms the character or function of water; d. pollution: means any detrimental physical, chemical or biological change in the nature of water; e. waste water: means water which has been altered by domestic, industrial, commercial, agricultural or other uses, as well as that which flows with such water in sewers, and precipitation water flowing off built-up or sealed area; f. polluted waste water: means waste water which may pollute waters into which it flows; g. farm manure: means liquid manure, stable manure stemming from animal husbandry as well as liquids emitted by fodder silo; h. flow rate Q 347 : means the flow rate which, averaged over ten years, is reached or exceeded on an average of 347 days per year and which is not substantially affected by damming, withdrawal or supply of wate; i. permanent flow: means a flow rate Q 347 which is greater than zero; k. residual flow: means the flow rate of a watercourse which remains after one or several withdrawals of water; l. required water endowment: means the amount of water required to ensure the maintenance of a particular residual flow after withdrawal of water; m. rehabilitation: means the re-establishment by means of civil engineering of the natural functions of channelled, straightened, covered or culverted surface waters. Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Exemptions for reasons of national defence or emergencies",
+      "content": "If required in the interests of national defence or in the event of emergencies, the Federal Council may, by ordinance, provide for exemptions from the provisions of this Act."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Chapter 1 Maintaining the Quality of Waters",
+      "section": "6",
+      "title": "Principle",
+      "content": "1 It is prohibited to introduce into a body of water, either directly or indirectly any substances which may pollute it; the infiltration of such substances is also prohibited. 2 It is also prohibited to store or spread such substances outside a body of water if there is a genuine risk of water pollution."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Chapter 1 Maintaining the Quality of Waters",
+      "section": "7",
+      "title": "Disposal of waste water",
+      "content": "1 Polluted waste water must be treated. It may only be discharged or infiltrated into a body of water with the authorisation of the cantonal authority. 2 Non-polluted waste water must be discharged by infiltration according to the instructions of the cantonal authority. If local conditions do not permit this, such non-polluted water may be discharged into surface waters; in this case retention measures must be taken if possible so as to ensure a steady discharge in the event of high inflow. The discharge of water that is not shown on a communal drainage plan approved by the canton requires the consent of the cantonal authority. 3 The cantons shall arrange the drawing up of communal and, if required, regional drainage plans. Amended by No I 3 of the FA of 21 Dec 2007 on the Abolition and Simplification of Licensing Procedures, in force since 1 June 2008 ( AS 2008 2265 ; BBl 2007 315 ). Inserted by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Chapter 1 Maintaining the Quality of Waters",
+      "section": "8",
+      "title": "",
+      "content": "Repealed by Annex No 2 of the FA of 21 Dec. 1995, with effect from 1 July 1997 ( AS 1997 1155 ; BBl 1993 II 1445 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Chapter 1 Maintaining the Quality of Waters",
+      "section": "9",
+      "title": "Federal Council regulations on the discharge and infiltration of substances",
+      "content": "1 The Federal Council shall specify the water quality requirements for surface and underground waters. 2 It shall enact regulations on: a. the discharge of waste water into bodies of water; b. the infiltration of waste water; c. substances which may according to the method of their use enter into water and which, by reason of their properties or the quantities used, risk polluting waters or impairing the operation of waste water treatment plants. 3 An authorisation for plant protection products and biocidal products (pesticides) must be reviewed if: a. the limit value of 0.1 µg/l for pesticides or their degradation products is repeatedly and widely exceeded in waters used or intended for use for drinking water; or b. the ecotoxicological limit values for pesticides are repeatedly and widely exceeded in surface waters. 4 The new decision on authorisation must ensure compliance with the limit values. 5 If it is not possible to achieve compliance with the limit values by imposing conditions of use, the authorisation for the pesticides in question or , in the case of plant protection products , the approval of their active substances must be withdrawn. 6 If a measure under paragraph 5 would seriously reduce domestic supplies of important agricultural crops, the Federal Council may refrain from withdrawing authorisation or approval for a limited period of time. Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ( AS 2022 263 ; 2023 2 ; BBl 2020 6523 , 6785 ). Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ( AS 2022 263 ; 2023 2 ; BBl 2020 6523 , 6785 ). Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ( AS 2022 263 ; 2023 2 ; BBl 2020 6523 , 6785 ). Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ( AS 2022 263 ; 2023 2 ; BBl 2020 6523 , 6785 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Public sewers and central waste water treatment plants",
+      "content": "1 The cantons shall be responsible for the construction of public sewers and central plants for the treatment of polluted waste water: a. from building zones; b. from existing groups of buildings outside building zones for which the special procedures for the disposal of waste water (Art. 13) provide insufficient protection for waters or are not economically viable. 1bis They shall ensure that these plants are operated economically. 2 In isolated or sparsely inhabited regions, polluted waste water must be treated by systems other than central waste water treatment plants provided that the protection of surface and underground waters is guaranteed. 3 If private sewers also serve the public interest, their status is equal to that of public sewers. 4 … Inserted by No I of the Federal Act of 20 June 1997, in force since 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 ). Repealed by No I of the FA of 20 June 1997, with effect from 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Duty to connect to sewers and to accept polluted waste water",
+      "content": "1 Polluted waste water which originates in an area served by public sewers shall be discharged into such sewers. 2 The areas served by public sewers shall include: a. building zones; b. other zones as soon as they are connected to the public sewers (Art. 10 para. 1, let. b); c. other zones where connection to the public sewers is expedient and reasonable. 3 The person responsible for the sewers is obliged to accept waste water and convey it to the appropriate central waste water treatment plant."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Special cases in areas covered by public sewers",
+      "content": "1 Those responsible for waste water which does not meet the requirements laid down for discharge into the drainage system must subject such waste water to pre-treatment. Such pre-treatment shall be regulated by the cantons. 2 The cantonal authorities shall decide on the appropriate way to dispose of waste water which is not suited for treatment by a central water treatment plant. 3 Non-polluted waste water with permanent flow shall not be passed through a central waste water treatment plant either directly or indirectly. The cantonal authorities may authorise exceptions to this rule. 4 In a farm comprising a substantial stock of cattle or pigs, domestic waste water may be used agriculturally together with the liquid manure (Art. 14) provided that: a. residential or industrial buildings and their adjoining land are situated in an area classified as an agricultural zone or the communal authority is taking the necessary measures, particularly in the field of area planning, to classify the buildings and their adjoining land in an agricultural zone; b. storage capacity is sufficient for domestic waste water too and the waste water is used on land which is either owned or leased by the farm in question. 5 If the residential or industrial buildings and their adjoining land in accordance with Art. 4 are not allocated to an agricultural zone within five years, domestic waste water must be discharged into the public sewers."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Special procedures for the disposal of waste water",
+      "content": "1 Outside areas covered by public sewers, waste water shall be disposed of by state-of-the art methods. 2 The cantons shall ensure that water quality requirements are respected."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Animal husbandry farms",
+      "content": "1 All animal husbandry farms must attempt to balance their use of manure. 2 Farm manure shall be used in agriculture and horticulture in an environmentally compatible way and according to the state-of-the-art. 3 The farm must have storage facilities with a capacity for at least three months. However, the cantonal authorities may require a higher storage capacity for establishments situated in mountain areas or in areas with unfavourable climatic or special crop growing conditions. Lower storage capacities may also be authorised for buildings which are occupied by livestock for only short periods of time. 4 A maximum of three livestock units of manure may be spread on 1 ha of agricultural land. If part of the farm manure is used outside the normal local farming area, the number of animals kept must be such that at least half the manure produced by the farm may be used on the agricultural land owned or leased. 5 Farms that provide manure must record each delivery in the information system in accordance with Article 165 f of the Agriculture Act of 29 April 1998. 6 The cantonal authorities shall reduce the number of livestock units of manure permitted per hectare if the pollutant-bearing capacity of the soil, the altitude and topographical conditions so require. 7 The Federal Council may authorise exceptions to the requirements for agricultural land in cases of: a. poultry and horse-stabling farms, as well as other already existing small or medium-sized animal husbandry farms; b. farms serving the public interest (waste recovery, research, etc.). 8 One livestock unit of manure corresponds to the average annual production of liquid and solid manure by one cow weighing 600 kg. Amended by Annex No 6 of the FA of 22 March 2013, in force since 1 Jan. 2014 ( AS 2013 3463 3863 ; BBl 2012 2075 ). SR 910.1 Amended by Annex No 6 of the FA of 22 March 2013, in force since 1 Jan. 2014 ( AS 2013 3463 3863 ; BBl 2012 2075 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "",
+      "content": "1 The persons responsible for waste water treatment plants, storage facilities and technical processing plants for farm manure and liquid digestate as well as of raw fodder silos shall ensure that these are used, serviced and maintained in an appropriate manner. The correct functioning of waste water treatment plants and processing plants for farm manure must be checked at regular intervals. 2 The cantonal authorities shall ensure that such installations are inspected periodically. Amended by No I of the Federal Act of 24 March 2006, in force since 1 Jan. 2007 ( AS 2006 4287 ; BBl 2005 937 ). Amended by Annex No 6 of the FA of 22 March 2013, in force since 1 Jan. 2014 ( AS 2013 3463 3863 ; BBl 2012 2075 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Federal Council regulations on waste water treatment and the inspection of installations",
+      "content": "The Federal Council shall lay down the requirements for: a. discharge into sewers; b. special releases from production processes; c. residues from waste water treatment plants, their recovery and disposal; d. the inspection of installations and equipment; e. the use of waste water issuing from the processing of farm manure."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Principle",
+      "content": "Building permits for new buildings and building alterations shall be granted only if: a. in areas served by public sewers, polluted waste water is discharged into the sewers (Art. 11 para. 1) or used for agricultural purposes (Art. 12 para. 4); b. outside areas served by public sewers, the appropriate disposal of polluted waste water is ensured through special procedures (Art. 13 para 1); the cantonal water protection agency shall be consulted to this effect; c. there is a guarantee that waste water which is unsuitable for treatment by a central waste water treatment plant may be disposed of in an appropriate manner (Art. 12 para. 2)."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Exceptions",
+      "content": "1 In the case of small buildings and installations in an area served by public sewers but which for overriding reasons cannot be immediately connected to such sewers, a building permit may be granted where it is possible to provide the connection in the short term and that in the meantime the waste water may be disposed of in another satisfactory manner. Before the authority grants a building permit in such circumstances, it shall consult with the cantonal water protection agency. 2 The Federal Council may define the exceptions in greater detail."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Water protection areas",
+      "content": "1 The cantons shall divide their territory into water protection areas according to the risks of pollution to which surface and underground waters are subject. The Federal Council shall enact the required regulations. 2 In areas which are particularly vulnerable, the construction and conversion of buildings and installations as well as operations such as excavations, earthworks and similar works may take place only provided that a cantonal permit has been granted if they may pose a risk to the waters. Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2007 ( AS 2006 4287 ; BBl 2005 937 )."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Groundwater protection zones",
+      "content": "1 The cantons shall determine protection zones for groundwater wells and recharge installations serving the public interest; they shall lay down any limitations on property rights which may be required to this effect. 2 The persons responsible for groundwater wells must: a. carry out the surveys necessary to establish the boundaries of protection zones; b. acquire the necessary rights in rem; c. bear the cost, where applicable, of compensation paid in respect of limitations on property rights."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Groundwater protection areas",
+      "content": "1 The cantons shall determine areas which are of importance for the future use and recharge of groundwater resources. In such areas, no buildings or installations may be constructed, and no works shall be carried out which might adversely affect any future installation built to use or replenish the groundwater. 2 The cantons may transfer responsibility for paying compensation in respect of limitations on property rights to persons subsequently responsible for groundwater wells and recharge installations."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "General Requirements",
+      "content": "1 The persons responsible for installations for handling liquids which may pollute water must ensure that the structures and equipment required for the protection of the waters are provided, regularly inspected and properly operated and maintained. Storage installations that require a permit (Art. 19 para. 2) must be inspected at least every ten years; depending on the risk of pollution to the waters, the Federal Council may stipulate inspection intervals for other installations. 2 Losses of liquid must be prevented at storage installations and transhipment areas and leaks of liquid shall be easily detected and retained. 3 Installations with liquids which may pollute water may only be constructed, modified, inspected, filled, maintained, emptied and decommissioned by persons who due to their training, equipment and experience guarantee compliance with the state of the art. 4 Any person who manufactures parts for installations must test whether these parts correspond to the state of the art and document the results of the test. 5 If installations with liquids which may pollute water are constructed, modified or decommissioned, the persons responsible must report this to the canton in accordance with cantonal regulations. 6 If the person responsible for an installation with liquids which may pollute water or any person entrusted with the operation or maintenance thereof detects a leak, they shall report this immediately to the waters protection inspectorate. They shall, on their own initiative, take all reasonable measures to prevent the related pollution of waters. 7 Paragraphs 2–5 do not apply to installations that do not pose a risk of pollution to waters or only do so to a negligible extent Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2007 ( AS 2006 4287 ; BBl 2005 937 )."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "",
+      "content": "Repealed by No I of the FA of 24 March 2006, with effect from 1 Jan. 2007 ( AS 2006 4287 ; BBl 2005 937 )."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Storage in man-made caverns",
+      "content": "Liquids which may pollute water may not be stored in underground caverns if they come into contact with groundwater as a result of such storage."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Substances which may form liquids which may pollute water",
+      "content": "Articles 22 and 24 apply by analogy to substances which when mixed with liquids may form liquids which may pollute water."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "",
+      "content": "Repealed by No I of the FA of 24 March 2006, with effect from 1 Jan. 2007 ( AS 2006 4287 ; BBl 2005 937 )."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Soil use",
+      "content": "1 Soils shall be used according to the state of the art, in such a way that waters are not adversely affected in any way, in particular avoiding both washing away and leaching of fertilisers and plant treatment products. 1bis In the area of contribution of drinking water wells, only plant protection products whose use does not lead to groundwater concentrations of active substances and degradation products exceeding 0.1 µg/l may be used. 2 The Federal Council may enact the necessary regulations. Inserted by No I 2 of the FA of 19 March 2021 (Amendment of the Chemicals Act, the Waters Protection Act and the Agriculture Act), in force since 1 Feb. 2023 ( AS 2022 263 ; 2023 2 ; BBl 2020 6523 , 6785 )."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Measures applying to waters",
+      "content": "If the measures contained in Articles 7–27 prove insufficient to maintain the water quality requirements (Art. 9 para. 1) for a specific body of water, the cantons shall ensure that additional measures shall be applied to the body of water itself."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Chapter 2 Ensuring appropriate Residual Flow",
+      "section": "29",
+      "title": "Permits",
+      "content": "A permit is required by any person who, over and above normal public use: a. withdraws water from a watercourse with permanent flow; b. withdraws water from lakes or groundwater resources in such a way as to affect substantially the discharge rate of a watercourse with permanent flow."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Chapter 2 Ensuring appropriate Residual Flow",
+      "section": "30",
+      "title": "Conditions for the permit",
+      "content": "Such withdrawal may be permitted provided that: a. the requirements contained in Articles 31–35 are complied with; b. taken together with other withdrawals, the flow rate Q 347 is reduced by at most 20 per cent and total withdrawal amounts to not more than 1,000 litres per second; or c. for the supply of drinking water, at most 80 litres per second from a spring and at most 100 litres per second from groundwater, based on the annual average, is withdrawn."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Chapter 2 Ensuring appropriate Residual Flow",
+      "section": "31",
+      "title": "Minimum residual flow",
+      "content": "1 When withdrawal takes place from a permanently flowing watercourse, the minimum residual flow must be as follows: up to a flow rate Q 347 of 60 l/s 50 l/s and for each further 10 l/s of flow rate Q 347 8 l/s , for a flow rate Q 347 of 160 l/s 130 l/s and for each further 10 l/s of flow rate Q 347 4.4 l/s more, for 500 l/s of flow rate Q 347 280 l/s and for each further 100 l/s of flow rate Q 347 31 l/s more, for 2,500 l/s of flow rate Q 347 900 l/s and for each further 100 l/s of flow rate Q 347 21.3 l/s more, for 10,000 l/s of flow rate Q 347 2,500 l/s and for each further 1000 l/s of flow rate Q 347 150 l/s more, from 60,000 l/s of flow rate Q 347 10,000 l/s . 2 The minimum residual flow calculated according to paragraph 1 above shall be increased if the following requirements are not complied with and cannot be complied with as a result of other measures: a. The prescribed water quality of the surface waters must be maintained in spite of the water withdrawal and existing waste water discharges. b. Groundwater resources must continue to be replenished such that the drinking water supply dependent on them remains available to the required extent and the water balance of soils used for agriculture is not substantially impaired. c. Rare habitats and biocoenoses which depend directly or indirectly on the type and size of a body of water must either be maintained or where possible be replaced by others of a similar value unless overriding reasons prevent this. d. The depth of water necessary for free fish migration must be maintained. e. In the case of watercourses with a flow rate Q 347 of up to 40 litres per second below an altitude of 800 metres above sea level which serve as spawning grounds or habitats for juvenile fish, the continuation of these functions must be guaranteed."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Exceptions",
+      "content": "The cantonal authorities may lay down lower minimum residual flow rates in the following circumstances: a. if the flow rate Q 347 of the body of water is lower than 50 l/s: over a 1,000 m long stretch below a point of withdrawal from a body of water situated at an altitude higher than 1,700 m above sea level or from a body of water not suitable as a habitat for fish and situated at an altitude between 1,500 and 1,700 m above sea level; b. in the case of water withdrawals from bodies of water not suitable as habitats for fish provided that the residual rate of flow represents at least 35 per cent of the flow rate Q 347 ; b bis . on a 1000 m long stretch below a place of withdrawal in sections with negligible ecological potential, provided the natural functions of the body of water are not substantially impaired; c. in the framework of a protection and utilisation planning for a limited area forming a topographical whole, in so far as an appropriate balance can be achieved in the same area by specific measures such as refraining from further withdrawals; such protection and utilisation plan shall require the approval of the Federal Council; d. in cases of necessity, for withdrawals limited in time, in particular for the supply of drinking water, for fire-fighting or for agricultural irrigation. Amended by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 ). Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 )."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Increase of the minimum residual flow",
+      "content": "1 The authorities shall increase the minimum residual flow to the extent which is deemed necessary after weighing up the interests for and against the planned water withdrawal. 2 Interests in favour of a water withdrawal are as follows: a. public interests which may be served by the water withdrawal; b. economic interests of the area in which the water originates; c. economic interests of those wishing to withdraw the water; d. energy supply which may be served by the water withdrawal. 3 Interests against a water withdrawal are as follows: a. the significance of the waters as an element of the landscape; b. the significance of the waters as a natural habitat and for the conservation of the diversity of the dependent fauna and flora, in particular of the fish fauna, the income derived from fishing and the natural reproduction of fish; c. maintaining a rate of flow sufficient to satisfy the quality requirements of waters in the long run; d. maintaining a balanced groundwater regimen which guarantees future supplies of drinking water, land use customary to the area and vegetation suited to the location; e. ensuring agricultural irrigation. 4 Anyone wishing to withdraw water shall provide the authorities with a report on: a. the consequences of the water withdrawal, calculated at various rates of flow, on the interests served by the withdrawal, with particular regard to the production of electric energy and its costs; b. the interests which are likely to be adversely affected by the water withdrawal and measures which might be taken to prevent such impairment."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Water withdrawal from lakes and groundwater resources",
+      "content": "If water is withdrawn from lakes or groundwater resources and the rate of flow of watercourses is thereby substantially affected, the watercourses in question must be protected as provided for in Articles 31–33."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Decision of the authorities",
+      "content": "1 The authorities shall decide in each individual case on the required water endowment and any other measures which may be necessary to protect waters below the point of withdrawal. 2 They may specify temporally variable required water endowments. Residual flows shall not fall below those specified in Articles 31 and 32. 3 The authorities shall consult the competent agencies before making their decision; in cases where the withdrawals in question concern hydropower plants with gross production in excess of 300 kW, they shall also consult the federal government."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Control of the required water endowment",
+      "content": "1 Anyone withdrawing water from any body of water shall be required to prove to the authorities by means of measurements that he will maintain the required water endowment. If the cost of such a procedure is unreasonable, evidence may be provided by a calculation based on the water balance. 2 If he proves that the effective rate of flow is temporarily lower than the required water endowment, he is only obliged to maintain a required water endowment equal of the effective rate of flow during the period in which such a situation exists."
+    },
+    {
+      "provision_ref": "art36a",
+      "chapter": "Chapter 3 Prevention and Remediation of other Detrimental Effects on Waters",
+      "section": "36a",
+      "title": "a Space provided for waters",
+      "content": "1 The cantons, after hearing the parties concerned, shall stipulate the spatial requirements for surface waters (space provided for waters) in order to guarantee the following functions: a. the natural functions of the waters; b. flood protection; c. the use of the waters. 2 The Federal Council shall regulate the details. 3 The cantons shall ensure that that space provided for waters is taken into account in structure and land use planning and that it is developed and exploited extensively. The space provided for waters does not constitute arable land. In the event of a loss of arable land, this must be compensated for as specified in the federal sectoral plan in accordance with Article 13 of the Spatial Planning Act of 22 June 1979. Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 ). SR 700"
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Chapter 3 Prevention and Remediation of other Detrimental Effects on Waters",
+      "section": "37",
+      "title": "The artificial reinforcement and correction of watercourses",
+      "content": "1 Watercourses may be channelled or straightened only provided that: a. the protection of persons or substantial material values requires it (Art. 3 para. 2, of the Federal Act of 21 June 1991 on Hydraulic Engineering); b. it is necessary for the provision of navigable passage or for the use of hydropower in the public interest; b bis . it is necessary for the construction of a landfill that can only be constructed at the planned location and in which only unpolluted excavation material, quarried material or spoil is deposited; c. the condition of an already channelled or straightened watercourse may be improved in terms of this Act. 2 The natural course of the body of water must wherever possible be preserved or restored. Waters and the space provided for waters must be developed in such a manner that: a. they provide habitat for diversified fauna and flora; b. the interactions between surface and underground waters are maintained to the greatest extent possible; c. vegetation suited to the location may grow on the banks. 3 In built-up areas, the authorities may permit exceptions to paragraph 2. 4 Paragraph 2 also applies by analogy to the creation of artificial watercourses. Amended by No I of the FA of 22 March 2013, in force since 1 Aug. 2013 ( AS 2013 2339 ; BBl 2012 9407 9415 ). SR 721.100 Inserted by No I of the FA of 22 March 2013, in force since 1 Aug. 2013 ( AS 2013 2339 ; BBl 2012 9407 9415 ). Amended by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 )."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Covering and culverting of watercourses",
+      "content": "1 Watercourses may not be covered or culverted. 2 The authorities may permit exceptions for: a. flood overflow and irrigation channels; b. passages under traffic ways; c. passages under agricultural or forestry transport routes; d. small drainage channels with intermittent flow; e. the replacement of existing underground passages or coverings, insofar as an open watercourse is not possible or would put substantial disadvantages in the way of agricultural utilisation."
+    },
+    {
+      "provision_ref": "art38a",
+      "section": "38a",
+      "title": "a Rehabilitation of waters",
+      "content": "1 The cantons shall ensure that waters are rehabilitated. In doing so, they take account of the benefits to nature and the landscape as well as the economic consequences of the rehabilitation. 2 They shall plan the rehabilitation measures and specify the time schedule therefor. They shall ensure that these plans are taken into account in the structure and land use planning. In the event of a loss of arable land, this must be compensated for as specified in the federal sectoral plan in accordance with Article 13 of the Spatial Planning Act of 22 June 1979. Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 ). SR 700"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Introduction of solid substances into lakes",
+      "content": "1 The introduction of solid substances into lakes is prohibited even in cases where these substances would not lead to pollution. 2 The cantonal authorities may permit the creation of embankments: a. for the construction of buildings in built-up areas which cannot be located elsewhere if an overriding public interest requires such an embankment and the purpose in view cannot be attained in any other way; b. if a shallow water zone may be thereby improved. 3 The embankments created shall be as natural as possible, and all bank flora destroyed shall be replaced."
+    },
+    {
+      "provision_ref": "art39a",
+      "section": "39a",
+      "title": "a Hydropeaking",
+      "content": "1 Those responsible for hydropower plants must prevent or eliminate by means of civil engineering measures short-term artificial changes in the water flow on a body of water (hydropeaking) that cause serious harm to the indigenous flora and fauna as well as their habitats. At the request of the person responsible for a hydropower plant, the authority may order operational instead of civil engineering measures. 2 The measures are determined by: a. the degree of harm caused to the body of water; b. the ecological potential of the body of water; c. the proportionality of the cost; d. the interests of flood protection; e. the energy policy goals relating to the promotion of renewable energy sources. 3 Within the catchment area of the body of water concerned, the measures must be coordinated with each other after hearing the persons responsible for the hydropower plants concerned. 4 Retention basins constructed in application of paragraph 1 may be used for pumped storage without modification of the licence. Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 )."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Flushing out and emptying of impoundments",
+      "content": "1 The person responsible for a dam shall as far as possible ensure that in flushing or emptying an impoundment or when inspecting drainage and flood overflow structures, downstream fauna and flora are not harmed. 2 Flushing and emptying shall take place only with the authorisation of the cantonal authority. The licensing authority shall consult interested specialist agencies. If periodical flushing and emptying are required in order to maintain operational safety, the authority shall fix only the times and types of such operations. 3 If a person responsible is obliged to lower the water level of a reservoir on safety grounds as a result of exceptional events, he shall immediately inform the responsible authority."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Flotsam at dams",
+      "content": "1 Anyone who dams up a watercourse may not put any flotsam which he may have removed for operational reasons back into the water. The authority may grant exceptions. 2 The person responsible for a dam must periodically collect the flotsam near his installation according to the instructions of the authority."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Withdrawal and discharge of fresh water or used water",
+      "content": "1 If water is withdrawn from or discharged into a natural lake, the stratification and flow conditions in the lake may not be substantially modified, and no water-level fluctuations potentially harmful to the riparian zone may be allowed to occur. 2 In the case of watercourses, the type and location of the discharge of fresh water or waste water must be selected in such a way that as little artificial reinforcement and correction as possible is required."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Conservation of groundwater resources",
+      "content": "1 The cantons shall ensure that over the long term no more water is withdrawn from groundwater resources than flows into them. In the short term, more water may be withdrawn unless this impairs the quality of groundwater or the vegetation. 2 If a groundwater resource is impaired as a result of excessive withdrawal or through reduced recharge, the canton shall ensure that the situation is remedied as far as possible, either through reducing the rate of withdrawal or by artificial recharge or by underground storage of drinking water. 3 Different groundwater resources may not be connected to each other on a permanent basis if such a connection may impair the quantity or quality of the groundwater. 4 Storage volumes and flows of usable groundwater resources may not be substantially reduced on a permanent basis as a result of new installations of any kind. 5 Low dams shall not substantially impair the groundwater nor the vegetation which depends on the groundwater level. The authority may grant exceptions for existing installations. 6 Drainage of a zone which results in a lowering of the groundwater table over a large area shall be permitted only if agricultural utilisation cannot be ensured in any other way."
+    },
+    {
+      "provision_ref": "art43a",
+      "section": "43a",
+      "title": "a Bed load budget",
+      "content": "1 The bed load budget in the body of water may not be changed by installations to the extent that they cause serious harm to the indigenous flora and fauna, their habitats, the groundwater regimen and flood protection. The persons responsible for the installations shall take suitable measures to this end. 2 The measures are determined by: a. the degree of harm caused to the body of water; b. the ecological potential of the body of water; c. the proportionality of the cost; d. the interests of flood protection; e. the energy policy goals relating to the promotion of renewable energy sources. 3 Within the catchment area of the body of water concerned, the measures must be coordinated with each other after hearing the persons responsible for the installations concerned. Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 )."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Extraction of gravel, sand and other materials",
+      "content": "1 Anyone wishing to extract gravel, sand or other materials or to carry out preparatory excavations for such extraction requires a permit. 2 Permits for such work may not be granted: a. in groundwater protection zones; b. below the groundwater table of groundwater resources whose amount and quality are suitable for water supply; c. for watercourses where the bed load budget may be negatively affected. 3 For groundwater resources whose amount and quality are suitable for water supply, extraction may be permitted above groundwater level, provided a protective layer of material is left above the maximum groundwater table possible. The dimension of this protective layer shall be chosen according to the local conditions."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Chapter 1 Enforcement",
+      "section": "45",
+      "title": "",
+      "content": "The cantons shall enforce this Act in all cases where Article 48 does not require enforcement by the Confederation. They shall enact all necessary regulations."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Chapter 1 Enforcement",
+      "section": "46",
+      "title": "Supervision and co-ordination",
+      "content": "1 The Confederation shall oversee the enforcement of this Act. 2 The Federal Council shall regulate co-ordination: a. of the water protection measures of the cantons; b. between federal agencies; c. between federal agencies and the cantons."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Chapter 1 Enforcement",
+      "section": "47",
+      "title": "Implementing regulations",
+      "content": "1 The Federal Council shall enact the implementing regulations. 2 … Repealed by Art. 12 No 3 of the Consultation Procedure Act of 18 March 2005, with effect from 1 Sept. 2005 ( AS 2005 4099 ; BBl 2004 533 )."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Chapter 1 Enforcement",
+      "section": "48",
+      "title": "Enforcement powers of the Confederation",
+      "content": "1 In enforcing any other federal act or any international agreement, the relevant federal authority is at the same time responsible for the enforcement of the Waters Protection Act. Before making its decision, it shall consult the cantons concerned. The Federal Office for the Environment (Federal Office) and the other federal agencies concerned shall participate in the enforcement procedures in accordance with Articles 62 a and 62 b of the Government and Administration Organisation Act of 21 March 1997. 2 If the procedure under paragraph 1 is not suitable for certain tasks, the Federal Council shall regulate enforcement by the federal agencies concerned. 3 The Confederation shall enforce the regulations on substances (Art. 9 para. 2 let. c); it may call on the assistance of the cantons for specific elements of its tasks. 4 The Federal Council shall decide which information obtained in accordance with other federal acts on substances will be made available to the Federal Office. Amended by No I 15 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1 Jan. 2000 ( AS 1999 3071 ; BBl 1998 2591 ). The name of this administrative unit was changed in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ( AS 2004 4937 ). Expression in accordance with Annex No 5 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ( AS 2003 4803 ; BBl 2000 2391 ). This amendment has been taken into account throughout the text. SR 172.010"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Waters protection agencies and waters protection inspectorate",
+      "content": "1 The cantons shall set up waters protection agencies. They shall organise the waters protection inspectorate and an emergency service. 2 The Federal Office is the waters protection agency for the Confederation. 3 The Confederation and the cantons may delegate enforcement duties, in particular with regard to inspection and supervision, to public corporations or private individuals."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Information and advice",
+      "content": "1 The Confederation and the cantons shall examine the effects of the measures taken under this Act and shall keep the public informed about waters protection and the condition of waters; in particular: a. they shall publish studies on the success of measures under this Act; b. they may, provided it is of general interest and having consulted those concerned, publish the results of studies and inspections relating to private and public waters (Art. 52). 2 Overriding private and public interests in confidentiality and manufacturing and business secrecy are reserved in every case. 3 The waters protection agencies shall provide advice to the authorities and to private individuals. The agencies shall recommend measures for the prevention or reduction of detrimental effects on waters. Amended by Art. 2 No 2 of the FD of 27 Sept. 2013 (Aarhus Convention), in force since 1 June 2014 ( AS 2014 1021 ; BBl 2012 4323 )."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Advisory service on fertilisers",
+      "content": "The cantons shall ensure that an advisory service be set up for the enforcement of Articles 14 and 27."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Tolerance and professional secrecy",
+      "content": "1 The federal and cantonal authorities may carry out surveys on private and public bodies of water. They may set up the equipment necessary for this purpose, and they may inspect installations. Owners of land and persons responsible for installations shall ensure that persons entrusted with such duties are allowed access, and they shall provide them with all the information that they may require. 2 Persons entrusted with enforcing this Act, as well as experts and members of commissions and specialised bodies, shall be subject to the rules of professional secrecy. 3 … Repealed by Art. 2 No 2 of the FD of 27 Sept. 2013 (Aarhus Convention), with effect from 1 June 2014 ( AS 2014 1021 ; BBl 2012 4323 )."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Enforcement measures",
+      "content": "The authorities may implement the measures enacted by them by means of enforcement orders. Insofar as cantonal law either contains no regulations or does not contain stricter regulations, Article 41 of the Administrative Procedure Act of 20 December 1968 applies to cantonal procedures. SR 172.021"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Costs of safety and remedial measures",
+      "content": "The costs of measures taken by the authorities to prevent any immediate threat to waters, as well as to ascertain and repair damage, shall be borne by the persons responsible for these measures."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Federal charges",
+      "content": "1 The Confederation shall levy charges for its permits and inspections, as well as for any special services provided under this Act. 2 The Federal Council shall determine the rates for such charges."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Intercantonal waters",
+      "content": "1 If a surface or underground body of water covers territory from more than one canton, each of the cantons concerned shall take all necessary measures to protect that body of water and in the interests of the other cantons. 2 If the cantons in question cannot agree on the measures to be taken, the Federal Council shall decide."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "Chapter 2 Provision of Fundamentals",
+      "section": "57",
+      "title": "Duties of the Confederation",
+      "content": "1 The Confederation shall carry out surveys with relevance to Switzerland as a whole into: a. the hydrological balance; b. the water quality of surface and underground waters; c. the supply of drinking water; d. other matters concerning the protection of waters. 2 It may participate financially in the development of installations and procedures to increase the state of technical knowledge in the general interest of waters protection, with particular respect to measures taken at the source. 3 It shall make the results and interpretation of surveys available to interested parties. 4 The Federal Council shall regulate the implementation of surveys and their evaluation. 5 Federal agencies shall issue specialised technical instructions and shall provide advice to monitoring agencies. They may carry out hydrological work against payment for third parties or make their equipment available for such work."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Chapter 2 Provision of Fundamentals",
+      "section": "58",
+      "title": "Duties of the cantons",
+      "content": "1 The cantons shall carry out any further surveys which may be necessary for the enforcement of this Act. They shall communicate the results of such surveys to the federal agencies concerned. 2 The cantons shall establish an inventory of water supply installations and groundwater resources on their territory. The inventory shall be available to the public unless the interests of national defence require secrecy."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Chapter 2 Provision of Fundamentals",
+      "section": "59",
+      "title": "Evaluation of the flow rate Q 347",
+      "content": "In cases where data for any body of water are insufficient, the flow rate Q 347 shall be evaluated by other methods, such as hydrological observations or mathematical models."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Chapter 2 Provision of Fundamentals",
+      "section": "60",
+      "title": "Notification requirement of authorities",
+      "content": "Before an authority issues a permit for an operation which may have an effect on a body of water in the vicinity of a hydrological or other monitoring station, it shall notify the agency responsible for the station."
+    },
+    {
+      "provision_ref": "art60a",
+      "chapter": "Chapter 3",
+      "section": "60a",
+      "title": "",
+      "content": "1 The cantons shall ensure that the costs of the construction, operation, maintenance, improvement and replacement of waste water treatment plants that serve the public interest are passed on to the persons responsible for the production of the waste water through fees or other charges. In organising the charges, the following factors in particular shall be taken into account: a. the nature and volume of the waste water produced; b. the depreciation required to preserve the value of the installations; c. the interest; d. the planned investment requirements for maintenance, improvements and replacements, for adaptation to statutory requirements and for operational optimisation. 2 If imposing cost-covering charges that comply with the polluter pays principle jeopardises the environmentally compatible disposal of waste water, disposal may be financed differently to the extent required. 3 The persons responsible for the waste water treatment plants must form the required financial reserves. 4 The principles for calculating the charges shall be made public. Inserted by No I of the FA of 21 March 2014, in force since 1 Jan. 2016 ( AS 2014 3327 ; BBl 2013 5549 )."
+    },
+    {
+      "provision_ref": "art60b",
+      "chapter": "Chapter 3",
+      "section": "60b",
+      "title": "b Federal waste water charge",
+      "content": "1 The Confederation shall collect from the persons responsible for central waste water treatment plants a charge to finance the payment for measures to remove organic trace substances in accordance with Article 61 a , including the Confederation’s implementation costs. 2 Persons responsible for central waste water treatment plants who have taken measures under Article 61 a and submitted the related final account for the investment made by 30 September in any calendar year are exempted from paying the charge from the following calendar year onwards. 3 The level of the charge is based on the number of residents connected to the waste water treatment plant. The annual charge rate amounts to a maximum of 9 francs per resident. 4 The Federal Council shall determine the charge rate based on the anticipated costs and regulate the procedure for collecting the charge. The charge shall cease to apply by 31 December 2040 at the latest. 5 The persons responsible for the plants shall pass on the charge to the persons responsible for producing the waste water. Inserted by No I of the FA of 21 March 2014, in force since 1 Jan. 2016 ( AS 2014 3327 ; BBl 2013 5549 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Chapter 4",
+      "section": "61",
+      "title": "",
+      "content": "1 Within the limits of the approved credits and on the basis of programme agreements, the Confederation shall grant the cantons global compensatory payments for the construction and procurement of: a. installations and equipment for nitrogen removal at central waste water treatment plants provided they serve to fulfil agreements under international law or decisions of international organisations that have the aim of maintaining the quality of waters outside Switzerland; b. sewers that are constructed instead of installations and equipment in accordance with letter a. 2 The level of the compensatory payments is determined by the volume of nitrogen that is removed by means of the measures mentioned in paragraph 1. Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ( AS 2007 5779 ; BBl 2005 6029 ). Amended by No I of the FA of 21 March 2014, in force since 1 Jan. 2016 ( AS 2014 3327 ; BBl 2013 5549 )."
+    },
+    {
+      "provision_ref": "art61a",
+      "chapter": "Chapter 4",
+      "section": "61a",
+      "title": "a Removal of organic trace substances in waste water plants",
+      "content": "1 Within the limits of the approved credits and the available resources, the Confederation shall grant the cantons global compensatory payments for the construction and procurement of: a. installations and equipment for removing organic trace substances at central waste water treatment plants where they are required to comply with the regulations on discharging waste water into bodies of water; b. sewers that are constructed instead of installations and equipment in accordance with letter a. 2 The compensatory payments are made if the construction or procurement of the installations, equipment or sewers was begun after 1 January 2012 and within 20 years of the entry into force of the amendment to this Act of 21 March 2014. 3 The payments amount to 75 per cent of the attributable costs. Inserted by No I of the FA of 21 March 2014, in force since 1 Jan. 2016 ( AS 2014 3327 ; BBl 2013 5549 )."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Chapter 4",
+      "section": "62",
+      "title": "Waste disposal installations",
+      "content": "1 Within the limits of the approved credits, the Confederation shall grant the cantons compensatory payments for the construction and procurement of installations and equipment for the disposal of special waste, provided such installations and equipment are of benefit to Switzerland as a whole. 2 Within the limits of the approved credits, the Confederation shall grant the cantons with low or medium financial capacity compensatory payments for the construction and procurement of installations and equipment for the treatment or recovery of municipal waste provided the first instance decision on the construction of the installation was taken before 1 November 1997. The Federal Council may extend this deadline for regions that do not have the required capacities to 31 October 1999 at the latest if the circumstances so require. 2bis The right to federal contributions in accordance with paragraph 2 continues if: a. the first instance decision on the construction of an installation was taken before the extended deadline; b. for technical reasons not due to fault on the part of the canton a new installation must be approved; c. the new first instance decision is taken before 1 November 2005; and d. construction is begun before 1 November 2006. 3 … 4 The compensatory payments shall amount to: a. 25 per cent of the attributable costs for installations and equipment in accordance with paragraphs 1 and 2; b. … Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 ). See also the Final Provision on this Amendment at the end of this text. Inserted by No I of the FA of 8 Oct. 2004, in force since 1 Oct. 2006 ( AS 2006 3859 ; BBl 2003 8025 8043 ). Repealed by No II 33 of the FA of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ( AS 2008 3437 ; BBl 2007 6121 ). Repealed by No II 33 of the FA of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ( AS 2008 3437 ; BBl 2007 6121 )."
+    },
+    {
+      "provision_ref": "art62a",
+      "section": "62a",
+      "title": "a Measures in agriculture",
+      "content": "1 Within the limits of the approved credits, the Confederation shall grant compensatory payments for measures in agriculture to prevent washing away or leaching of substances if: a. the measures are necessary to fulfil the requirements relating to water quality of surface and underground waters; b. the canton concerned has designated the areas in which the measures are required and coordinated the measures required; c. the measures are not economically viable. 2 The level of the compensatory payments is determined by the nature and volume of the substances that are to be prevented from washing away or leaching, and by the costs of the measures that are not covered by contributions under the Agriculture Act of 29 April 1998 or the Federal Act of 1 July 1966 on Nature and Cultural Heritage. 3 … 4 The Federal Office for Agriculture shall grant the compensatory payments as global contributions on the basis of programme agreements entered into with the cantons for each area in which the measures are required. In order to assess whether the programmes guarantee the required protection of waters, it shall consult the Federal Office for the Environment. The cantons shall allocate the compensatory payments to the individuals entitled. Inserted by Annex No 6 of the Agriculture Act of 29 April 1998, in force since 1 Jan. 1999 ( AS 1998 3033 ; BBl 1996 IV 1 ). SR 910.1 SR 451 Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ( AS 2007 5779 ; BBl 2005 6029 ). Repealed by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), with effect from 1 Jan. 2008 ( AS 2007 5779 ; BBl 2005 6029 ). Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ( AS 2007 5779 ; BBl 2005 6029 )."
+    },
+    {
+      "provision_ref": "art62b",
+      "section": "62b",
+      "title": "b Rehabilitation of waters",
+      "content": "1 The Confederation shall, within the limits of the approved credits and on the basis of programme agreements, grant the cantons compensatory payments in the form of global contributions to the planning and implementation of measures for the rehabilitation of waters. 2 In the case of especially complex projects, the cantons may be granted the compensatory payments on a case-by-case basis. 3 The level of the compensatory payments is determined by the relevance of the measures for the re-establishment of the natural functions of the waters as well as by the effectiveness of the measures. 4 No contributions shall be granted for the dismantling of an installation if the person responsible for it is obliged to dismantle it. 5 The managers of the space provided for waters shall be granted compensatory payments in accordance with the Agriculture Act of 29 April 1998 for the extensive use of their lands. The agriculture budget as well as the related spending ceilings shall be increased for this purpose. Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 ). SR 910.1"
+    },
+    {
+      "provision_ref": "art62c",
+      "section": "62c",
+      "title": "c Planning the remediation of hydropeaking and of the bed load budget",
+      "content": "1 The Confederation shall within the limits of the approved credits grant the cantons compensatory payments for planning in accordance with Article 83 b , provided the plans are submitted to the Confederation by 31 December 2014. 2 The compensatory payments shall amount to 35 per cent of the attributable costs. Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 )."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "General requirements for the granting of compensatory payments",
+      "content": "Compensatory payments shall be granted only if the intended solution is based on appropriate plans, guarantees appropriate protection of the waters, corresponds to the state of the art and is economically feasible. Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 )."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Provision of fundamentals, training and information",
+      "content": "1 Within the limits of the approved credits, the Confederation may grant the cantons compensatory payments for ascertaining the causes of inadequate water quality in an important body of water with a view to remedial measures. 2 It may provide financial assistance for the basic and continuing education and training of specialists and for the provision of information to the public. 3 Within the limits of the approved credits, it may provide support for the preparation of cantonal inventories of water supply installations and groundwater resources by means of compensatory payments or through its own work provided: a. the inventories are prepared according to federal guidelines; and b. the applications are submitted before 1 November 2010. 4 The federal payments shall not exceed 40 per cent of the costs. Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ( AS 2007 5779 ; BBl 2005 6029 ). Amended by Annex No 32 of the FA of 20 June 2014 on Continuing Education and Training, in force since 1 Jan. 2017 ( AS 2016 689 ; BBl 2013 3729 ). Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ( AS 2007 5779 ; BBl 2005 6029 ). Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 )."
+    },
+    {
+      "provision_ref": "art64a",
+      "section": "64a",
+      "title": "a Risk guarantee",
+      "content": "The Confederation may provide a risk guarantee in respect of promising new installations and equipment. This may not exceed 60 per cent of the attributable costs. Inserted by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 )."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Financing",
+      "content": "1 The Federal Assembly shall approve by a simple federal decree a temporary guarantee credit to ensure the payment of contributions. 2 It shall approve by simple federal decree for successive four year periods the resources for the payment of compensatory payments that have been guaranteed in principle in application of Article 13 paragraph 6 of the Subsidies Act of 5 October 1990. 3 It shall approve by means of a multi-year guarantee credit the maximum amount for risk guarantee provided by the Confederation under Article 64 a . Amended by No I of the FA of 20 June 1997, in force since 1 Nov. 1997 ( AS 1997 2243 ; BBl 1996 IV 1217 ). Term in accordance with Annex No 8 of the FA of 19 March 2021, in force since 1 Jan. 2022 ( AS 2021 662 ; BBl 2020 349 ). Amended by No II 23 of the FA of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFEA), in force since 1 Jan. 2008 ( AS 2007 5779 ; BBl 2005 6029 ). SR 616.1"
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Reclaiming payments",
+      "content": "1 Federal payments made in error shall be reclaimed. This also applies if an installation or piece of equipment is used for a purpose other than that intended. 2 The Confederation’s right to bring claims prescribes three years after the date on which it learned of its claim and in any event ten years after the date on which the right first arose. 3 If the recipient has committed a criminal offence through his or her conduct, the right to a refund prescribes at the earliest when the right to prosecute the offence prescribes. If the right to prosecute is no longer liable to prescription because a first instance criminal judgment has been issued, the right prescribes at the earliest three years after notice of the judgment is given. Amended by Annex No 18 of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ( AS 2018 5343 ; BBl 2014 235 ). Inserted by Annex No 18 of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ( AS 2018 5343 ; BBl 2014 235 )."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Chapter 5",
+      "section": "67",
+      "title": "Administration of justice",
+      "content": "The appeal procedure is governed by the general provisions on the administration of federal justice. Amended by Annex No 92 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ( AS 2006 2197 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art67a",
+      "chapter": "Chapter 5",
+      "section": "67a",
+      "title": "a Public authority appeal",
+      "content": "1 The Federal Office is entitled to make use of the rights of legal recourse available under federal and cantonal law in respect of decisions of the cantonal authorities in application of this Act and its implementing provisions. 2 … Inserted by No I 15 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1 Jan. 2000 ( AS 1999 3071 3124 ; BBl 1998 2591 ). Repealed by Annex No 92 of the Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ( AS 2006 2197 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Chapter 5",
+      "section": "68",
+      "title": "Land consolidation, compulsory purchase and possession",
+      "content": "1 Insofar as required for the implementation of this Act, and provided private acquisition is not an option, the cantons shall order land consolidation procedures. The Confederation and the cantons may acquire the required rights by means of the compulsory purchase procedure. They may delegate this power to third parties. 2 The compulsory purchase procedure shall only be applied if efforts to secure a private acquisition or for land consolidation are unsuccessful. 3 The cantons may declare the Federal Act of 20 June 1930 on Compulsory Purchase to be applicable in their implementing regulations. They shall specify that the cantonal government decide on objections that remain in dispute. 4 For works that involve the territory of two or more cantons, the federal law on compulsory purchase applies. The Federal Department of the Environment, Transport, Energy and Communications shall decide on compulsory purchase matters. 5 The surfaces in the space provided for waters that are exploited shall wherever possible remain in the possession of the farmers. They are deemed to be areas reserved for promoting biodiversity. Amended by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 ). SR 711 Amended by Annex No 18 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4085 ; BBl 2018 4713 ). Amended by Annex No 6 of the FA of 22 March 2013, in force since 1 Jan. 2014 ( AS 2013 3463 3863 ; BBl 2012 2075 )."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Title 4 …",
+      "section": "69",
+      "title": "",
+      "content": "Repealed by Annex No 2 of the FA of 21 Dec. 1995, with effect from 1 July 1997 ( AS 1997 1155 ; BBl 1993 II 1445 )."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "Title 5 Criminal Provisions",
+      "section": "70",
+      "title": "Misdemeanours",
+      "content": "1 The penalty shall be a custodial sentence of up to three years or a monetary penalty for any person who wilfully: a. unlawfully discharges into waters substances which may pollute water directly or indirectly, allows them to infiltrate or stores or spreads them outside waters in such a way as to create a water pollution risk (Art. 6); b. in his or her capacity as the person responsible for an installation which contains liquids which may pollute water does not take the steps in terms of structures and equipment required by this Act or does not keep these in working condition and thereby pollutes water or creates a pollution risk (Art. 22); c. does not maintain the required water endowment laid down by the authorities or does not take the required measures for water protection below a point of withdrawal (Art. 35); d. unlawfully artificially reinforces or unlawfully corrects watercourses (Art. 37); e. covers or culverts a watercourse without a permit or contrary to the conditions of such a permit (Art. 38); f. introduces solid substances into a lake without a permit from the cantonal authority or contrary to the conditions of such a permit (Art. 39 para. 2); g. extracts or undertakes preparatory excavations for the extraction of gravel, sand or any other materials without a permit or contrary to the conditions of such a permit (Art. 44). 2 In cases of negligence, the offender shall be liable to a monetary penalty of up to 180 daily penalty units. Amended by No II 2 of the FA of 19 March 2010, in force since 1 Aug. 2010 ( AS 2010 3233 ; BBl 2009 5435 ). Amended by No II 2 of the FA of 19 March 2010, in force since 1 Aug. 2010 ( AS 2010 3233 ; BBl 2009 5435 )."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "Title 5 Criminal Provisions",
+      "section": "71",
+      "title": "Contraventions",
+      "content": "1 The penalty shall be a fine of up to 20,000 francs for any person who wilfully: a. contravenes this Act in any other way; b. contravenes an individual order that is communicated to him and includes a specific reference to the penalties mentioned in this Article. 2 In cases of negligence, the penalty shall be a fine. 3 Aiding and abetting is also an offence. 4 … Amended by No II 2 of the FA of 19 March 2010, in force since 1 Aug. 2010 ( AS 2010 3233 ; BBl 2009 5435 ). Repealed by No II 2 of the FA of 19 March 2010, with effect from 1 Aug. 2010 ( AS 2010 3233 ; BBl 2009 5435 )."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "Title 5 Criminal Provisions",
+      "section": "72",
+      "title": "Application of the Criminal Code",
+      "content": "Where a violation of this Act also constitutes an offence under Article 234 of the Swiss Criminal Code, only the latter provision applies. In all other cases, the criminal provisions of this Act apply concomitantly with those of the Criminal Code. SR 311.0"
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Application of administrative criminal law",
+      "content": "Articles 6 and 7 of the Federal Act of 22 March 1974 on Administrative Criminal Law shall apply by analogy to offences under this Act. SR 313.0"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "Chapter 1 Repeal and Amendment of Current Legislation",
+      "section": "74",
+      "title": "Repeal of the Waters Protection Act",
+      "content": "The Federal Act of 8 October 1971 on the Protection of Waters against Pollution (the Waters Protection Act) is repealed. [ AS 1972 950 ; 1979 1573 Art. 38; 1980 1796 ; 1982 1961 ; 1984 1122 Art. 66 No 3; 1985 660 No I 51; 1991 362 No II 402, 857 Annex No 19; 1992 288 Annex No 32]"
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "Chapter 1 Repeal and Amendment of Current Legislation",
+      "section": "75",
+      "title": "Amendments to federal legislation",
+      "content": "… The amendments may be consulted under AS 1992 1860 ."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "Chapter 2 Transitional Provisions",
+      "section": "76",
+      "title": "Disposal of non-polluted waste water",
+      "content": "The cantons shall ensure that at the latest 15 years after this Act comes into force the operation of any water treatment plant is no longer impaired by permanent flows of non-polluted waste water (Art. 12 para. 3). The correction of 8 Sept. 2015 made by the DrC concerns the French text only ( AS 2015 3021 )."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "Chapter 2 Transitional Provisions",
+      "section": "77",
+      "title": "Manure storage facilities",
+      "content": "The cantonal authorities shall lay down the transitional period for the adjustment of manure storage facility capacities according to the urgency of individual cases. They shall ensure that at the latest 15 years after the entry into force of this Act all such storage facilities are improved."
+    },
+    {
+      "provision_ref": "art7879",
+      "chapter": "Chapter 2 Transitional Provisions",
+      "section": "7879",
+      "title": "",
+      "content": "Repealed by No II 33 of the FA of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ( AS 2008 3437 ; BBl 2007 6121 )."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "Chapter 2 Transitional Provisions",
+      "section": "80",
+      "title": "Remediation",
+      "content": "1 In cases where a watercourse is substantially affected by water withdrawals, it shall be remediated below the point of withdrawal according to the instructions of the authorities in so far as is possible without infringing existing water use rights to the extent of justifying a claim for compensation by the user. 2 The authorities shall order more extensive remediation measures in cases which concern watercourses situated in landscapes or including habitats which are listed in national or cantonal inventories, or in cases where overriding public interests require it. The procedures for ascertaining whether compensation must be paid and for fixing their amount shall be based on the procedures contained in the Compulsory Purchase Act of 20 June 1930. 3 If small hydro-electric power plants or other installations on waters of historic value are affected by the order for more extensive remediation measures in areas listed in inventories in terms of paragraph 2, the authority shall weigh up the interests of the protection of cultural heritage versus that of the listed areas. SR 711 Inserted by No I of the FA of 11 Dec. 2009 (Restoration), in force since 1 Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 )."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Transitional periods for remediation",
+      "content": "1 The authorities shall lay down the latest date for the completion of remediation measures according to the urgency of individual cases. 2 They shall ensure that remediation is completed by the end of 2012 at the latest. Amended by No I 11 of the FA of 19 Dec. 2003 on the 2003 Budget Relief Programme, in force since 1 Jan. 2005 ( AS 2004 1633 ; BBl 2003 5615 )."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Basic principles of remediation",
+      "content": "1 The cantons shall establish an inventory of existing water withdrawals according to Article 29, which shall contain information on: a. the amount of water withdrawn; b. the residual flow; c. the required water endowment; d. the legal situation. 2 They shall evaluate the water withdrawals listed in the inventory and adjudicate whether and to what extent remediation is necessary. Their findings shall take the form of a report. As far as possible this shall include the time-spans over which remediation must be completed. 3 They shall present their inventories to the federal authority within two years and their report within five years after this Act comes into force."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Water withdrawals in accordance with licences already granted",
+      "content": "1 In cases of planned water withdrawals for which licences were granted before the entry into force of this Act, the protection of waters below the point of withdrawal shall be guaranteed by the measures required by the law in so far as this is possible without causing infringements of existing water utilisation rights which would require compensation. No right of compensation shall exist in respect of measures taken under Article 31 of this Act in cases where licenses were granted after June 1, 1987. 2 In cases where overriding public interests require more extensive protection, the authorities shall require all necessary measures to be taken in accordance with this Act. The procedures for ascertaining whether compensation must be paid and fixing their amount shall be based on the procedures contained in the Compulsory Purchase Act of 20 June 1930. 3 The authorities shall require such measures to be taken at the latest before the commencement of the building work for the water withdrawal installation in question. SR 711"
+    },
+    {
+      "provision_ref": "art83a",
+      "section": "83a",
+      "title": "a Remediation measures",
+      "content": "The persons responsible for existing hydropower plants and of other installations on waters are obliged, within 20 years of this provision coming into force, to take the appropriate remediation measures in accordance with Articles 39 a and 43 a ."
+    },
+    {
+      "provision_ref": "art83b",
+      "section": "83b",
+      "title": "b Planning and reporting",
+      "content": "1 The cantons shall plan the measures in accordance with Article 83 a and specify the deadlines for their implementation. The planning also includes the measures that must be implemented by persons responsible for hydropower plants in accordance with Article 10 of the Federal Act of 21 June 1991 on Fishing. 2 The cantons shall submit the plans to the Confederation by 31 December 2014. 3 They shall report to the Confederation every four years on the measures that have been implemented. SR 923.0"
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "",
+      "content": "Repealed by No I of the FA of 21 March 2014, with effect from 1 Jan. 2016 ( AS 2014 3327 ; BBl 2013 5549 )."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "Chapter 3 Referendum and Commencement",
+      "section": "85",
+      "title": "",
+      "content": "1 This Act is subject to optional referendum. 2 The Federal Council shall determine the commencement date. Commencement date: 1 November 1992 FCD of 5 Oct. 1992."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "surface waters",
+      "definition": "surface waters : means water bodies and their beds including the bottoms and banks, together with the fauna and flora living there;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "underground waters",
+      "definition": "underground waters : means groundwater (including spring water), aquifer, lower and upper confining beds;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "detrimental effects:",
+      "definition": "detrimental effects: means pollution and any other intervention which harms the character or function of water;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "pollution:",
+      "definition": "pollution: means any detrimental physical, chemical or biological change in the nature of water;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "waste water:",
+      "definition": "waste water: means water which has been altered by domestic, industrial, commercial, agricultural or other uses, as well as that which flows with such water in sewers, and precipitation water flowing off built-up or sealed area;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "polluted waste water:",
+      "definition": "polluted waste water: means waste water which may pollute waters into which it flows;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "farm manure:",
+      "definition": "farm manure: means liquid manure, stable manure stemming from animal husbandry as well as liquids emitted by fodder silo;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "flow rate Q",
+      "definition": "flow rate Q 347 : means the flow rate which, averaged over ten years, is reached or exceeded on an average of 347 days per year and which is not substantially affected by damming, withdrawal or supply of wate;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "permanent flow:",
+      "definition": "permanent flow: means a flow rate Q 347 which is greater than zero;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "residual flow:",
+      "definition": "residual flow: means the flow rate of a watercourse which remains after one or several withdrawals of water;",
+      "source_provision": "art4"
+    },
+    {
+      "term": "required water endowment:",
+      "definition": "required water endowment: means the amount of water required to ensure the maintenance of a particular residual flow after withdrawal of water;",
+      "source_provision": "art4"
+    }
+  ]
+}

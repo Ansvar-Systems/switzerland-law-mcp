@@ -1,0 +1,237 @@
+{
+  "id": "sr-431-021",
+  "type": "statute",
+  "title": "Registerharmonisierungsverordnung vom 21. November 2007 (RHV)",
+  "title_en": "",
+  "short_name": "RHV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt im Rahmen der Registerharmonisierung: a. die Führung der amtlichen Personenregister (Register); b. den Datenaustausch zwischen den Registern; c. die Datenlieferung der Register an das Bundesamt für Statistik (BFS). 2 Sie regelt überdies die zentrale Informatik- und Kommunikationsplattform des Bundes (Sedex). 3 Sie enthält ergänzende Bestimmungen über die AHV-Nummer. Ausdruck gemäss Anhang Ziff. II 14 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ( AS 2021 800 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Privathaushalt: Gesamtheit der Personen, die in derselben Wohnung in demselben Gebäude wohnen; a bis . Kollektivhaushalte: 1. Alters- und Pflegeheime, 2. Wohn- und Erziehungsheime für Kinder und Jugendliche, 3. Internate und Studentenwohnheime, 4. Institutionen für Behinderte, 5. Spitäler, Heilstätten und ähnliche Institutionen im Gesundheitsbereich, 6. Institutionen des Straf- und Massnahmenvollzugs, 7. Gemeinschaftsunterkünfte für Asylsuchende, 8. Klöster und andere Unterkünfte religiöser Vereinigungen; b. Sedex: zentrale Informatik- und Kommunikationsplattform, die der Bund den zuständigen Amtsstellen für die sichere Datenübermittlung zur Verfügung stellt (secure data exchange); c . Token: einmaliges und fälschungssicheres Merkmal zur Identifikation eines Teilnehmers oder einer Teilnehmerin in einem elektronischen Netzwerk (z.B. im Internet). Fassung gemäss Anhang Ziff. 3 der Volkszählungsverordnung vom 19. Dez. 2008, in Kraft seit 1. Febr. 2009 ( AS 2009 241 ). Eingefügt durch Anhang Ziff. 3 der Volkszählungsverordnung vom 19. Dez. 2008, in Kraft seit 1. Febr. 2009 ( AS 2009 241 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Registerführung",
+      "section": "3",
+      "title": "Änderungen",
+      "content": "1 Soll ein Register nach Artikel 2 RHG grundlegend geändert oder aufgehoben werden, so muss das BFS vorgängig informiert werden. 2 Eine grundlegende Änderung liegt vor, wenn die Zwecke der Bundesstatistik betroffen sind, insbesondere wenn die geforderten Identifikatoren oder Merkmale oder der Aktualisierungsrhythmus geändert werden."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Registerführung",
+      "section": "4",
+      "title": "Datenschutz",
+      "content": "Die für die Register nach Artikel 2 RHG zuständigen Stellen (registerführende Stellen) sind für die Einhaltung des Datenschutzes im Rahmen der Registerführung selber verantwortlich."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Datenübermittlung",
+      "section": "5",
+      "title": "Grundsätze",
+      "content": "1 Der Datenaustausch zwischen den Registern nach Artikel 2 RHG und die Datenlieferung an das BFS erfolgen über Sedex oder mittels elektronischen Datenträgers nach den Richtlinien des BFS. 2 Der Datenaustausch innerhalb eines Kantons kann über dafür eingerichtete Systeme der Kantone und Gemeinden erfolgen. 3 Der Bund stellt Sedex den registerführenden Stellen unentgeltlich zur Verfügung. Er trägt die Kosten für dessen Aufbau, Betrieb und Unterhalt. 4 Das BFS ist die beim Bund verantwortliche Stelle für Sedex. Es kann den Betrieb Dritten übertragen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Datenübermittlung",
+      "section": "6",
+      "title": "Datenaustausch zwischen den Einwohnerregistern",
+      "content": "1 Der Datenaustausch zwischen den Einwohnerregistern bei Weg- und Zuzug erfolgt laufend. 2 Der interkantonale Datenaustausch erfolgt verschlüsselt. 3 Das BFS koordiniert die Vorbereitungsarbeiten zur Einführung des Datenaustauschs über Sedex in Absprache mit den Kantonen und dem Verein eCH."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Datenübermittlung",
+      "section": "7",
+      "title": "Datenlieferung der eidgenössischen Register an das BFS",
+      "content": "1 Die Daten aus den Registern nach Artikel 2 Absatz 1 RHG werden dem BFS unentgeltlich geliefert. 2 Das BFS kann die Qualität der gelieferten Daten kontrollieren. Bei unvollständiger oder fehlerhafter Datenlieferung kann es eine erneute Lieferung auf den gleichen Stichtag verlangen; es bestimmt die erneut zu liefernden Daten und den Liefertermin. 3 Inhalt und Periodizität der Datenlieferungen richten sich nach der Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes. SR 431.012.1"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Datenübermittlung",
+      "section": "8",
+      "title": "Datenlieferung der kantonalen Register an das BFS",
+      "content": "1 Die registerführenden Stellen nach Artikel 2 Absatz 2 RHG liefern dem BFS vierteljährlich die Daten nach Artikel 6 RHG. Der Kanton bestimmt die für die Datenlieferung zuständige Stelle. 2 Stichtage für die Datenlieferungen sind der 31. März, der 30. Juni, der 30. September und der 31. Dezember. Die Daten müssen spätestens am letzten Tag des Folgemonats beim BFS eintreffen. Erster Stichtag ist der 31. März 2010. 3 Zu liefern sind jeweils die vollständigen Daten. Sie müssen mindestens die folgenden Informationen enthalten: a. die am Stichtag in der Gemeinde angemeldeten Personen, unabhängig vom Meldeverhältnis gemäss Merkmalskatalog; b. die während den 12 Monaten vor dem Stichtag verstorbenen Personen; c. die während den 12 Monaten vor dem Stichtag weggezogenen Personen. 4 Eine regelmässige Datenlieferung mittels elektronischen Datenträgers muss mindestens drei Monate vor dem ersten Stichtag dem BFS angekündigt werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Datenübermittlung",
+      "section": "9",
+      "title": "Kollektivhaushalte",
+      "content": "Die Kantone stellen sicher, dass die Bewohnerinnen und Bewohner von Kollektivhaushalten in den Registern nach Artikel 2 Absatz 2 RHG geführt werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Datenübermittlung",
+      "section": "10",
+      "title": "Validierung der Daten für die Statistik",
+      "content": "1 Damit die Anforderungen an die Qualität der von den registerführenden Stellen nach Artikel 2 Absatz 2 RHG gelieferten Daten erfüllt werden, betreibt das BFS einen Validierungsservice. 2 Der Validierungsservice kontrolliert: a. die Vollständigkeit der Datenlieferung; b. das Vorhandensein des Registerinhalts nach Artikel 6 RHG; c. die korrekte Anwendung der Identifikatoren und die Einhaltung der Anforderungen des Merkmalskatalogs; d. die Korrektheit des eidgenössischen Gebäudeidentifikators (EGID) und die Plausibilität des eidgenössischen Wohnungsidentifikators (EWID) gemäss Abgleich mit dem eidgenössischen Gebäude- und Wohnungsregister (GWR); e. die Plausibilität der Informationen über eine einzelne Person gemäss den Plausibilisierungsregeln. 3 Das BFS legt die Plausibilisierungsregeln in einer Richtlinie fest und veröffentlicht sie im Internet. 4 Es meldet festgestellte Mängel der für die Datenlieferung zuständigen Stelle nach Artikel 8 Absatz 1. Diese stellt sicher, dass die Mängel behoben werden. 5 Bei unvollständiger oder fehlerhafter Datenlieferung kann das BFS eine erneute Lieferung auf den gleichen Stichtag verlangen; es bestimmt die erneut zu liefernden Daten und den Liefertermin. 6 Der Validierungsservice protokolliert zusätzlich in einer Datei die Anzahl und Art der Fehler, ohne Rückschlüsse auf Personendaten zuzulassen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Verwendung von Sedex",
+      "section": "11",
+      "title": "Anschluss der kantonalen Register",
+      "content": "1 Die Amtsstelle nach Artikel 9 RHG meldet dem BFS, welche im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG an Sedex angeschlossen werden. 2 Die registerführenden Stellen sind für den Anschluss an Sedex selber verantwortlich."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Verwendung von Sedex",
+      "section": "12",
+      "title": "Anschlussadapter",
+      "content": "1 Die Datenübermittlung über Sedex erfolgt ausschliesslich über einen Sedex-Anschlussadapter. 2 Der Bund ist für die Entwicklung und Weiterentwicklung des Anschlussadapters zuständig und trägt dafür die Kosten. Er stellt den Adapter den registerführenden Stellen unentgeltlich zur Verfügung. 3 Die registerführenden Stellen nach Artikel 2 Absatz 2 RHG tragen die Kosten für die Installation und den Betrieb des Anschlussadapters sowie für die Anpassung ihrer Registersoftware und -hardware selber."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Verwendung von Sedex",
+      "section": "13",
+      "title": "Zertifizierung",
+      "content": "1 Die Registersoftware muss für die Verwendung von Sedex zertifiziert werden. 2 Die Zertifizierung erfolgt mittels Selbstdeklaration des Lizenzgebers bei der Zertifizierungsstelle. Mit der Selbstdeklaration bestätigt der Lizenzgeber, dass seine Registersoftware nach den Vorschriften des Bundes über den Sedex-Anschlussadapter mit Sedex kommunizieren kann. 3 Zertifizierungsstelle ist das BFS. Es führt eine Liste der durch Selbstdeklaration zugelassenen Registersoftware."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Verwendung von Sedex",
+      "section": "14",
+      "title": "Datenübermittlung",
+      "content": "1 Die Datenübermittlung über Sedex erfolgt verschlüsselt und in einem elektronischen Umschlag. 2 Jede Übermittlung wird protokolliert. Die übermittelten Daten können einzig von der berechtigten empfangenden Stelle gelesen werden. 3 Jede erfolgreiche Übermittlung wird von Sedex an den Absender quittiert. 4 Wird der Umschlag nicht innert eines Monats von den berechtigten Stellen in Empfang genommen, so wird er samt Inhalt gelöscht."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Verwendung von Sedex",
+      "section": "15",
+      "title": "Nutzung zu weiteren behördlichen Zwecken",
+      "content": "1 Werden Daten zu weiteren behördlichen Zwecken über Sedex übermittelt, so erfolgt die Datenübermittlung nach den Richtlinien des BFS. 2 Die Gebührenerhebung durch das BFS richtet sich nach der Verordnung vom 25. Juni 2003 über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes. SR 431.09"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Verwendung von Sedex",
+      "section": "16",
+      "title": "Datenschutz",
+      "content": "Wird Sedex von weiteren Benutzerinnen und Benutzern verwendet, so müssen diese dieselben Massnahmen des Datenschutzes ergreifen wie die registerführenden Stellen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Verwendung von Sedex",
+      "section": "17",
+      "title": "Digitale Identität",
+      "content": "1 Die registerführenden Stellen, die an Sedex angeschlossen sind, erhalten unentgeltlich eine digitale Identität. 2 Das BFS führt ein Verzeichnis dieser Stellen und ihrer digitalen Identität. 3 Das Bundesamt für Informatik und Telekommunikation erteilt für jede dieser Stellen sowie für jede weitere Benutzerin oder jeden weiteren Benutzer von Sedex ein Zertifikat: a. zur Überprüfung ihrer elektronischen Signatur; b. zu ihrer Authentifizierung; c. zur Verschlüsselung von für sie bestimmten elektronischen Daten. 4 … Fassung gemäss Anhang Ziff. II 7 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ( AS 2016 4667 ). Aufgehoben durch Anhang Ziff. II 7 der V vom 23. Nov. 2016 über die elektronische Signatur, mit Wirkung seit 1. Jan. 2017 ( AS 2016 4667 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: AHV-Nummer",
+      "section": "18",
+      "title": "Meldung der systematischen Verwendung der AHV-Nummer an die ZAS",
+      "content": "Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV (ZAS) die systematische Verwendung der AHV-Nummer nach Artikel 134 ter der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung (AHVV) für alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG als Sammelmeldung. SR 831.101"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: AHV-Nummer",
+      "section": "19",
+      "title": "Aufdatierung der Register im Kanton",
+      "content": "1 Die Amtsstelle nach Artikel 9 RHG stellt sicher, dass alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG die erstmalige und umfassende Zuweisung und Bekanntgabe der AHV-Nummer verlangen. 2 Das Verfahren für die Zuweisung und Bekanntgabe der Nummer richtet sich nach den Artikeln 133 bis und 134 quater AHVV. 3 Das BFS koordiniert die Zuweisung und Bekanntgabe in Absprache mit der ZAS und den Amtsstellen nach Artikel 9 RHG. 4 Es legt in Absprache mit den Amtsstellen nach Artikel 9 RHG fest, auf welche Weise, ab welchem Zeitpunkt und auf welchen Stichtag die für die Zuweisung und Bekanntgabe notwendigen kantonalen Datenlieferungen an die ZAS erfolgen können. 5 Die ZAS gibt die Nummer den registerführenden Stellen bekannt und liefert ihnen gleichzeitig die für die Zuweisung und Bekanntgabe gelieferten Daten zurück. Sie gibt den registerführenden Stellen zusätzlich die entsprechenden Daten aus den Informationssystemen Infostar und ZEMIS bekannt. SR 831.101"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "5. Abschnitt: AHV-Nummer",
+      "section": "20",
+      "title": "Bekanntgabe innerhalb eines Kantons",
+      "content": "1 Die registerführenden Stellen nach Artikel 2 Absatz 2 RHG können die AHV-Nummer denjenigen Stellen und Institutionen bekannt geben, die aufgrund eidgenössischer oder kantonaler Gesetze berechtigt sind, die Nummer zur Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden. 2 Die Erhebung von Gebühren richtet sich nach kantonalem Recht."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "5. Abschnitt: AHV-Nummer",
+      "section": "21",
+      "title": "Aufdatierung der eidgenössischen Register",
+      "content": "1 Die erstmalige und umfassende Zuweisung und Bekanntgabe der AHV-Nummer an die Register nach Artikel 2 Absatz 1 RHG richtet sich nach den Artikeln 133 bis und 134 quater AHVV. 2 Das BFS koordiniert die Bekanntgabe in Absprache mit der ZAS und den registerführenden Stellen. 3 Es legt fest, auf welche Weise, ab welchem Zeitpunkt und auf welchen Stichtag die für die Zuweisung und Bekanntgabe notwendigen Datenlieferungen an die ZAS erfolgen können. SR 831.101"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Abschnitt: AHV-Nummer",
+      "section": "22",
+      "title": "Nachführung der AHV-Nummer",
+      "content": "Die registerführenden Stellen führen die AHV-Nummer laufend nach."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Kantonale Amtsstelle",
+      "section": "23",
+      "title": "",
+      "content": "1 Die Amtsstelle nach Artikel 9 RHG koordiniert das Vorgehen und stellt die Einhaltung der Fristen für die Durchführung der Registerharmonisierung in Absprache mit dem BFS fest. 2 Sie kann für die Kontrolle von Durchführung und Qualität der Harmonisierung im Kanton die Protokollierungsdatei des Validierungsservice nach Artikel 10 Absatz 6 anfordern."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "7. Abschnitt: Adressverzeichnis",
+      "section": "24",
+      "title": "Datenbank",
+      "content": "1 Das BFS betreibt das Adressverzeichnis nach Artikel 16 Absatz 3 RHG als Datenbank. 2 Es aktualisiert die Datenbank vierteljährlich."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "7. Abschnitt: Adressverzeichnis",
+      "section": "25",
+      "title": "Verwendungszweck",
+      "content": "Das BFS verwendet das Adressverzeichnis ausschliesslich für Zwecke der Statistik, der Forschung und der Planung."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "7. Abschnitt: Adressverzeichnis",
+      "section": "26",
+      "title": "Statistische Nutzung durch Kantone und Gemeinden",
+      "content": "1 Die für die Statistik zuständigen Amtsstellen der Kantone und Gemeinden können vom BFS die Lieferung der Daten über ihr Hoheitsgebiet nach Artikel 17 Absatz 2 RHG verlangen. Das Begehren ist schriftlich zu stellen. 2 Das BFS liefert die Daten höchstens vierteljährlich und frühestens einen Monat nach Erhalt der letzten Datenlieferung aus dem Kanton. Die Daten werden verschlüsselt geliefert. 3 Die Daten dürfen ausschliesslich als Stichprobenbasis für eigene statistische Erhebungen der Kantone und Gemeinden genutzt werden."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "7. Abschnitt: Adressverzeichnis",
+      "section": "27",
+      "title": "Bearbeitungsreglement",
+      "content": "1 Das BFS erlässt ein Bearbeitungsreglement über die Nutzung des Adressverzeichnisses. 2 Das Adressverzeichnis darf nicht an Dritte weitergegeben werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "28",
+      "title": "Fristen",
+      "content": "1 Die Harmonisierung der Register und die Aufnahme der AHV-Nummer in die Register nach Artikel 2 RHG ist spätestens am 15. Januar 2010 abgeschlossen. 2 Der EGID wird spätestens ab 15. Januar 2010, der EWID spätestens ab 31. Dezember 2012 in allen Einwohnerregistern geführt. 3 Der Bund stellt den Registerbetreibern Sedex und den Sedex-Anschlussadapter ab 15. Januar 2008 zur Verfügung. 4 Für die Datenübermittlung zwischen den Einwohnerregistern bei Weg- und Zuzug stellt der Bund den zuständigen Amtsstellen Sedex ab 15. Januar 2010 zur Verfügung. 5 Das BFS stellt den Validierungsservice ab 15. Januar 2008 zur Verfügung."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "29",
+      "title": "Vollzug",
+      "content": "Das BFS vollzieht diese Verordnung."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "30",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "31",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2008 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Sedex:",
+      "definition": "Sedex: zentrale Informatik- und Kommunikationsplattform, die der Bund den zuständigen Amtsstellen für die sichere Datenübermittlung zur Verfügung stellt (secure data exchange);",
+      "source_provision": "art2"
+    }
+  ]
+}

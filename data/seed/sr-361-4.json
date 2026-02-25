@@ -1,0 +1,123 @@
+{
+  "id": "sr-361-4",
+  "type": "statute",
+  "title": "Verordnung vom 15. Oktober 2008 über den Nationalen Polizeiindex (Polizeiindex-Verordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/701/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt den Betrieb und die Nutzung des Nationalen Polizeiindexes (Index) nach Artikel 17 BPI."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Betrieb des Indexes und angeschlossene Informationssysteme",
+      "content": "1 Der Index wird vom Bundesamt für Polizei (fedpol) in Zusammenarbeit mit den Strafverfolgungs- und den Polizeibehörden des Bundes und der mitwirkenden Kantone betrieben. 2 Am Index angeschlossen sind die folgenden Informationssysteme: a. das informatisierte Personennachweis-, Aktennachweis- und Verwaltungssystem (IPAS) nach Artikel 12 und 14 BPI; b. das Informationssystem der Bundeskriminalpolizei (JANUS) nach den Artikeln 10, 11 und 13 BPI; c. das automatisierte Polizeifahndungssystem (RIPOL) nach Artikel 15 BPI; d. der Nationale Teil des Schengener Informationssystems nach Artikel 16 BPI. 3 Nicht am Index angeschlossen sind die Datenkategorien nach Artikel 4 Absatz 1 Buchstaben e und f der IPAS-Verordnung vom 15. Oktober 2008. 4 Am Index können zudem die polizeilichen Informationssysteme der Kantone angeschlossen werden. SR 361.2"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Zweck des Indexes",
+      "content": "1 Der Index soll die Suche nach Informationen über natürliche Personen verbessern und die Rechts- und Amtshilfe vereinfachen. 2 Er zeigt an, ob in einem der angeschlossenen polizeilichen Informationssysteme Daten über eine bestimmte Person bearbeitet werden."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "4",
+      "title": "Im Index bearbeitete Personendaten",
+      "content": "1 Der Index enthält: a. Angaben zur vollständigen Identifizierung der Person, deren Daten bearbeitet werden (Name, Allianzname(n), Vorname, Geschlecht, Geburtsdatum und -ort, Heimatort, Staatsangehörigkeit, Alias, Name der Eltern, Prozesskontrollnummer); b. Datum des Eintrags; c. Grund des Eintrags, wenn eine Person erkennungsdienstlich behandelt worden ist; d. die Angabe der Behörde, bei der rechts- und amtshilfeweise um weitere Informationen über die Person ersucht werden kann; e. die Angabe des Informationssystems oder der Systemart aus welchen die Daten stammen. 2 Es dürfen nur Daten erfasst werden über: a. Täterinnen und Täter sowie und Teilnehmerinnen und Teilnehmer; b. strafbare Handlungen, die ein Verbrechen oder ein Vergehen nach dem Schweizerischen Strafgesetzbuch, dem Nebenstrafrecht des Bundes oder dem kantonalen Strafrecht darstellen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "5",
+      "title": "Zugriffsberechtigungen",
+      "content": "1 Zugriff auf die in Artikel 4 aufgeführten Daten mittels eines automatisierten Abrufverfahrens haben die folgenden Organisationseinheiten des Bundes: a. die Bundeskriminalpolizei; b. die Bundesanwaltschaft; c. der Nachrichtendienst des Bundes; d. der Bundessicherheitsdienst; e. die Meldestelle für Geldwäscherei; f. der mit der Führung des RIPOL betraute Dienst; g. das Bundesamt für Justiz, zur Erfüllung der Aufgaben nach dem Rechtshilfegesetz vom 20. März 1981; h. das Grenzwachtkorps und die Zollfahndung; i. die Militärjustizbehörden; j. das Kommando Militärische Sicherheit zur Erfüllung seiner kriminal- und sicherheitspolizeilichen Aufgaben im Armeebereich; k. die Behörden, die nach Artikel 21 Absatz 1 des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit mit der Durchführung von Personensicherheitsprüfungen betraut sind; l. die Datenschutzberaterin, bzw. der Datenschutzberater fedpol; m die Projektleiterin, bzw. der Projektleiter und die Systemadministratoren des vom Eidgenössischen Justiz- und Polizeidepartement beauftragten Informatik-Leistungserbringers für den technischen Unterhalt des Systems; n. die Stelle von fedpol, die für die Erfüllung der Aufgaben nach dem Vorläuferstoffgesetz vom 25. September 2020 zuständig ist. 2 Zugriff auf die in Artikel 4 aufgeführten Daten mittels eines automatisierten Abrufverfahrens haben ausserdem: a. die kantonalen Strafverfolgungsbehörden der mitwirkenden Kantone; b. die Informationszentralen und die Ermittler der Polizeikommandos der mitwirkenden Kantone. 3 Die Zugriffsberechtigungen auf die Daten sind im Anhang geregelt. Fassung gemäss Anhang 4 Ziff. II 17 der V vom 4. Dez. 2009 über den Nachrichtendienst des Bundes, in Kraft seit 1. Jan. 2010 ( AS 2009 6937 ). SR 351.1 Fassung gemäss Anhang 3 Ziff. 5 der V vom 4. März 2011 über die Personensicherheitsprüfungen, in Kraft seit 1. April 2011 ( AS 2011 1031 ). SR 120 Eingefügt durch Anhang 2 Ziff. 8 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 353 ). SR 941.42"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Aufbewahrungsdauer",
+      "content": "Die Aufbewahrungsdauer der Daten richtet sich: a. für Daten aus dem Quellsystem IPAS nach Artikel 9 der IPAS-Verordnung vom 15. Oktober 2008; b. für Daten aus dem Quellsystem JANUS nach Artikel 22 der JANUS-Verordnung vom 15. Oktober 2008; c. für Daten aus dem Quellsystem RIPOL nach Artikel 20 der RIPOL-Verordnung vom 15. Oktober 2008; d. für Daten aus dem Quellsystem N-SIS nach Artikel der 43–45 der N-SIS Verordnung vom 7. Mai 2008; e. für Daten aus den polizeilichen Informationssystemen der mitwirkenden Kantone nach dem anwendbaren kantonalen Recht. SR 361.2 SR 360.2 SR 361.0 [ AS 2008 2229 4943 Ziff. I 21 6305 Anhang Ziff. 17, 2009 6937 Anhang 4 Ziff. II 18. AS 2013 855 Art. 57]. Siehe heute: die V vom 8. März 2013 ( SR 362.0 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Archivierung",
+      "content": "1 Die Ablieferung von Daten aus den Informationssystemen nach Artikel 2 Absatz 2 Buchstabe a–c an das Bundesarchiv richtet sich gemäss Artikel 21 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz nach dem Archivierungsgesetz vom 26. Juni 1998. 2 Die Ablieferung von Daten aus den Informationssystemen nach Artikel 2 Absatz 2 Buchstabe d an das Bundesarchiv richtet sich nach Artikel 47 der N-SIS Verordnung vom 7. Mai 2008. 3 Die Ablieferung von Daten zur Archivierung aus den polizeilichen Informationssystemen der mitwirkenden Kantone richtet sich nach dem anwendbaren kantonalen Recht. SR 235.1 SR 152.1 [ AS 2008 2229 4943 Ziff. I 21 6305 Anhang Ziff. 17, 2009 6937 Anhang 4 Ziff. II 18. AS 2013 855 Art. 57]. Siehe heute: die V vom 8. März 2013 ( SR 362.0 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "8",
+      "title": "Rechte der betroffenen Personen",
+      "content": "1 Das Recht der im Index aufgeführten Personen auf Auskunft, Berichtigung oder Löschung von Daten richtet sich: a. bei Einträgen aus dem Quellsystem JANUS nach Artikel 25 der JANUS-Verordnung vom 15. Oktober 2008; b. bei Einträgen aus dem Quellsystem IPAS nach Artikel 11 der IPAS-Verordnung vom 15. Oktober 2008; c. bei Einträgen aus dem Quellsystem RIPOL nach Artikel 17 der RIPOL-Verordnung 15. Oktober 2008; d. bei Einträgen aus dem Quellsystem N-SIS nach den Artikeln 49–50 der N‑SIS Verordnung vom 7. Mai 2008; e. bei Einträgen aus den polizeilichen Informationssystemen der mitwirkenden Kantone nach dem anwendbaren kantonalen Recht. 2 Personen, über die in den Quellsystemen keine Daten bearbeitet wurden, informiert fedpol drei Jahre nach Eingang ihres Gesuches über diese Tatsache. SR 360.2 SR 361.2 SR 361.0 [ AS 2008 2229 4943 Ziff. I 21 6305 Anhang Ziff. 17, 2009 6937 Anhang 4 Ziff. II 18. AS 2013 855 Art. 57]. Siehe heute: die V vom 8. März 2013 ( SR 362.0 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "9",
+      "title": "Verantwortlichkeit für den Betrieb",
+      "content": "Fedpol trägt die Verantwortung für den Betrieb des Indexes. Es trifft insbesondere die Massnahmen, die zur Gewährleistung des Datenschutzes und der Datensicherheit notwendig sind."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "10",
+      "title": "Sorgfaltspflichten",
+      "content": "Die am Index beteiligten Stellen sind bezüglich der Daten, die sie bearbeiten, verantwortlich für die Einhaltung der massgebenden datenschutzrechtlichen Bestimmungen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "11",
+      "title": "Protokollierung",
+      "content": "1 Jeder Zugriff auf den Index wird in einem Protokoll festgehalten. Das Protokoll ist ausschliesslich der oder dem Datenschutzbeauftragten fedpol zugänglich. 2 Der oder die Datenschutzbeauftragte kann die Protokollierung zu folgenden Zwecken auswerten: a. personenbezogen: zur Feststellung von Datenschutzverletzungen; b. statistisch und anonymisiert: zur Systementwicklung und ‑optimierung. 3 Die Protokollierungen sind während eines Jahres aufzubewahren."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "12",
+      "title": "Datensicherheit",
+      "content": "1 Für die Gewährleistung der Datensicherheit gelten: a. die Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz; b. die Cyberrisikenverordnung vom 27. Mai 2020. 2 Die angeschlossenen Stellen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern. SR 235.11 SR 120.73 Fassung gemäss Anhang Ziff. 21 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ( AS 2021 132 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Bearbeitungsreglement",
+      "content": "Fedpol erlässt ein Bearbeitungsreglement."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Finanzierung",
+      "section": "14",
+      "title": "",
+      "content": "1 Die Kosten für Entwicklung und Betrieb des Informationssystems werden aus Mitteln des Bundes gedeckt. Der Bund finanziert die Erschliessung und den Betrieb der Datenleitungen zu einem zentralen Anschlusspunkt (Hauptverteiler) am Kantonshauptort. 2 Die Kantone übernehmen: a. die Anschaffungs- und Unterhaltskosten ihrer Geräte; b. die Installations- und Betriebskosten für die Feinverteilung innerhalb der Kantone."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "15",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 22. November 2006 über den Pilotbetrieb des Nationalen Polizeiindexes wird aufgehoben. [ AS 2006 4875 ; 2008 3215 ]"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 5. Dezember 2008 in Kraft."
+    }
+  ],
+  "definitions": []
+}

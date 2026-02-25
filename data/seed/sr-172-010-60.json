@@ -1,0 +1,112 @@
+{
+  "id": "sr-172-010-60",
+  "type": "statute",
+  "title": "Verordnung vom 20. Juni 2018 über das Datenbearbeitungssystem des Sprachdienstes EDA",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2018/385/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt den Betrieb und die Benützung des automatisierten Datenbearbeitungssystems (System) des Sprachdienstes des Eidgenössischen Departements für auswärtige Angelegenheiten (Sprachdienst EDA)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Zweck des Systems",
+      "content": "Das System dient dem Sprachdienst EDA zur: a. Entgegennahme und Lieferung von Aufträgen für Sprachdienstleistungen von Kundinnen und Kunden (Art. 5 Abs. 1 Bst. a) über das Online-Portal; b. Erfassung und Verwaltung von Aufträgen; c. Zuteilung von Aufträgen an interne und externe Übersetzerinnen und Übersetzer; d. Ressourcenverwaltung; e. Erstellung von Statistiken und Berichten; f. Auftragsüberwachung; g. Nachvollziehbarkeit der Auftragserteilung und -bearbeitung."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Verantwortliche Behörde",
+      "content": "Der Sprachdienst EDA trägt die Verantwortung für das System."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Struktur",
+      "content": "Das System besteht aus einer Datenbank mit je einem Online-Portal für den Zugriff von innerhalb des EDA und von ausserhalb des EDA."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Daten und Bearbeitungsrechte",
+      "section": "5",
+      "title": "Im System erfasste Personendaten",
+      "content": "1 Das System enthält Daten von folgenden Personen: a. Angestellten des EDA, die Sprachdienstleistungen in Auftrag geben (Kundinnen und Kunden); b. Angestellten des Sprachdienstes EDA; c. mandatierten externen Übersetzerinnen und Übersetzern. 2 Die Daten sind im Anhang aufgeführt."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Daten und Bearbeitungsrechte",
+      "section": "6",
+      "title": "Herkunft der Daten und Bearbeitungsrechte",
+      "content": "1 Für die Kundinnen und Kunden und die Angestellten des Sprachdienstes EDA stammen die E-Mail-Adresse sowie die Angaben zur Organisationseinheit aus dem vom Bundesamt für Informatik und Telekommunikation betriebenen zentralen Identitätsspeicher nach Artikel 13 Absätze 1 und 4 der Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes. Diese Daten können nicht verändert werden. Die Angaben zum Einsatz der Angestellten des Sprachdienstes EDA werden durch den Sprachdienst EDA erfasst. 2 Für die externen Übersetzerinnen und Übersetzer erfolgt die Erfassung der E‑Mail-Adresse sowie der Angaben zum Einsatz durch den Sprachdienst EDA. 3 Die weiteren Daten werden von den Betroffenen selber erfasst; sie können diese jederzeit bearbeiten. 4 Die weiteren Bearbeitungsrechte sind im Anhang aufgeführt. 5 Die Einheit für Informatik des EDA verfügt über diejenigen Bearbeitungsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind. 6 Alle Bearbeitungsrechte werden im Abrufverfahren ausgeübt. SR 172.010.59"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Daten und Bearbeitungsrechte",
+      "section": "7",
+      "title": "Dokumente",
+      "content": "Im System können alle Dokumente zu erfassten Aufträgen gespeichert werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Daten und Bearbeitungsrechte",
+      "section": "8",
+      "title": "Vernichtung von Datensätzen",
+      "content": "1 Die Daten werden unter Vorbehalt von Absatz 2 zwölf Monate nach dem letzten Zugriff vernichtet. 2 Die folgenden Daten werden zehn Jahre nach dem letzten Zugriff vernichtet: a. Name; b. Vorname; c. zweiter Vorname; d. E-Mail-Adresse (Login-Name); e. Angaben zur Organisationseinheit; f. Firmenname."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Zugriffsberechtigungen und Betrieb",
+      "section": "9",
+      "title": "Technischer Betrieb und Systemverwaltung",
+      "content": "1 Die Einheit für Informatik des EDA ist für den technischen Betrieb des Systems verantwortlich. 2 Die Systemadministratorin oder der Systemadministrator verwaltet das Computersystem, die Datenbank und die Anwendungen. 3 Die oder der Anwendungsverantwortliche bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern. Sie oder er gehört dem Sprachdienst EDA an."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Zugriffsberechtigungen und Betrieb",
+      "section": "10",
+      "title": "Erteilung der Zugriffsberechtigung",
+      "content": "1 Die oder der Anwendungsverantwortliche erteilt den Benutzerinnen und Benutzern des Systems die individuellen Zugriffsrechte. 2 Sie oder er überprüft mindestens einmal jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "11",
+      "title": "Sorgfaltspflichten",
+      "content": "1 Der Sprachdienst EDA sorgt dafür, dass die Personendaten im System vorschriftsgemäss bearbeitet werden. 2 Er stellt sicher, dass die Daten richtig, vollständig und nachgeführt sind."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "12",
+      "title": "Bearbeitungsreglement",
+      "content": "Der Sprachdienst EDA erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "13",
+      "title": "Protokollierung",
+      "content": "1 Die Zugriffe auf das System und die Bearbeitungen werden laufend protokolliert. 2 Die Protokolle werden längstens ein Jahr aufbewahrt."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Inkrafttreten",
+      "section": "14",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. August 2018 in Kraft."
+    }
+  ],
+  "definitions": []
+}

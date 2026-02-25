@@ -1,0 +1,238 @@
+{
+  "id": "sr-510-413",
+  "type": "statute",
+  "title": "Verordnung vom 29. August 1990 über das Geheimschutzverfahren bei Aufträgen mit militärisch klassifiziertem Inhalt (Geheimschutzverordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1990/1774_1774_1774/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Geltungsbereich",
+      "section": "1",
+      "title": "",
+      "content": "1 Diese Verordnung gilt für alle Aufträge mit militärisch klassifiziertem Inhalt. 2 Das Geheimschutzverfahren umfasst die personellen, materiellen und administrativen Massnahmen, mit denen die Geheimhaltung sichergestellt wird in den Fällen, in denen ausserhalb des Eidgenössischen Militärdepartements, der Eidgenössischen Drucksachen- und Materialzentrale sowie des Amtes für Bundesbauten militärisch klassifizierte Informationen bearbeitet werden müssen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "2. Abschnitt: Begriffe",
+      "section": "2",
+      "title": "Auftraggeber und Auftragnehmer",
+      "content": "1 Auftraggeber sind Gruppen, Ämter und weitere Verwaltungseinheiten des Eidgenössischen Militärdepartements, die Eidgenössische Drucksachen- und Materialzentrale, das Amt für Bundesbauten und, im aktiven Dienst, das Armeekommando. 2 Auftragnehmer sind öffentliche Stellen ausserhalb des Eidgenössischen Militärdepartementes, der Eidgenössischen Drucksachen- und Materialzentrale und des Amtes für Bundesbauten, private Unternehmen oder Personen, die für den Empfang und die Bearbeitung klassifizierter Informationen vorgesehen sind."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Begriffe",
+      "section": "3",
+      "title": "Geheimschutzbeauftragter",
+      "content": "Der Geheimschutzbeauftragte ist die Kontaktperson des Auftragnehmers zur Zentralstelle des Eidgenössischen Militärdepartementes für Schutz und Sicherheit (ZES) für alle Fragen, die sich auf die vorschriftsgemässe Durchführung der Geheimhaltungs- und Sicherheitsmassnahmen beziehen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Begriffe",
+      "section": "4",
+      "title": "Klassifizierungsliste",
+      "content": "1 Die Klassifizierungsliste weist die schutzwürdigen Informationen den Klassifizierungskategorien GEHEIM und VERTRAULICH zu (Art. 4 und 5 der Informationsschutzverordnung vom 1. Mai 1990). 2 Sie wird vom Auftraggeber nach den Vorschriften des Generalstabschefs über die Klassifizierungskriterien erstellt und dem Auftragnehmer, der zur Offerte eingeladen worden ist, zusammen mit den Unterlagen für die Offertstellung übergeben. 3 Sie wird vom Auftraggeber nach Anhören des Auftragsnehmers bereinigt und mit allfälligen Bemerkungen zur Klassifizierung und Behandlung schutzwürdiger Informationen ergänzt. 4 Der Auftraggeber stellt der ZES eine Kopie jeder Klassifizierungsliste zu. SR 510.411"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Begriffe",
+      "section": "5",
+      "title": "Sicherheitsprotokoll",
+      "content": "Im Sicherheitsprotokoll werden die Sicherheitsmassnahmen festgelegt. Es ist von der ZES und dem Auftragnehmer zu unterzeichnen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Begriffe",
+      "section": "6",
+      "title": "Personensicherheitsüberprüfung",
+      "content": "Die Personensicherheitsüberprüfung nach den Vorschriften der Verordnung vom 9. Mai 1990 über die Personensicherheitsüberprüfung im militärischen Bereich soll Personen, die sich nicht eignen, von der Bearbeitung klassifizierter Informationen ausschliessen. SR 510.418"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Begriffe",
+      "section": "7",
+      "title": "Betriebssicherheitserklärung",
+      "content": "Die Betriebssicherheitserklärung bestätigt, dass ein Auftragnehmer die Voraussetzungen erfüllt, um klassifizierte Informationen zu bearbeiten."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Arten des Geheimschutzverfahrens",
+      "section": "8",
+      "title": "Normalverfahren",
+      "content": "Das Normalverfahren besteht aus der: a. Vorabklärung über einen möglichen Auftragnehmer (Art. 12); b. Auftragsmeldung (Art. 22); c. Erstellung eines Sicherheitsprotokolls (Art. 5); d. Betriebssicherheitserklärung (Art. 7 und 16)."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Arten des Geheimschutzverfahrens",
+      "section": "9",
+      "title": "Abgekürztes Verfahren",
+      "content": "Über einen Auftragnehmer, der bereits im Besitze einer Betriebssicherheitserklärung ist, wird keine Vorabklärung durchgeführt. Das Verfahren beginnt mit der Auftragsmeldung (Art. 22)."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Arten des Geheimschutzverfahrens",
+      "section": "10",
+      "title": "Vereinfachtes Verfahren",
+      "content": "1 Die ZES kann für Arbeiten in militärischen Anlagen der Schutzzonen 2 und 3 im Sinne der Erlasse über den Schutz militärischer Anlagen das Verfahren vereinfachen. 2 Das vereinfachte Verfahren umfasst mindestens die sicherheitsmässige Überprüfung der Personen, die Zutritt erhalten sollen, nach der Verordnung vom 9. Mai 1990 über die Personensicherheitsüberprüfung im militärischen Bereich. Die ZES entscheidet im Einzelfall, ob weitere Massnahmen zu treffen sind. SR 510.418"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "11",
+      "title": "Allgemeines",
+      "content": "1 Die ZES führt das Geheimschutzverfahren durch. Sie regelt mit den fachtechnischen Weisungen den zeitlichen Ablauf des Geheimschutzverfahrens und die Verwendung der einzelnen Formulare und Instruktionsunterlagen. 2 Für Auftragnehmer im Ausland gelten besondere Regelungen. Bevor klassifizierte Informationen ins Ausland abgegeben werden, ist die Bewilligung der ZES einzuholen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "12",
+      "title": "Vorabklärung",
+      "content": "Auf Antrag des Auftraggebers führt die ZES eine Vorabklärung über mögliche Auftragnehmer durch. Sie entscheidet, ob eine Betriebssicherheitserklärung notwendig ist und ob vorgängig Personensicherheitsüberprüfungen durchgeführt werden müssen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "13",
+      "title": "Vorentscheid",
+      "content": "Gestützt auf die Vorabklärung entscheidet die ZES im Einvernehmen mit dem Auftraggeber, ob Dritten im Hinblick auf einen möglichen Vertragsabschluss militärisch klassifizierte Informationen zugänglich gemacht werden dürfen und legt fest, welche Art des Geheimschutzverfahrens durchzuführen ist."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "14",
+      "title": "Personensicherheitsüberprüfung",
+      "content": "1 Gestützt auf die Personenmeldung des Auftragnehmers führt die ZES eine Personensicherheitsüberprüfung durch. 2 Die ZES teilt dem Auftragnehmer mit, welche Personen klassifizierte Informationen bearbeiten dürfen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "15",
+      "title": "Festlegen der Sicherheitsmassnahmen",
+      "content": "1 Die ZES erstellt nach der Auftragsmeldung im Einvernehmen mit dem Auftraggeber und dem Auftragnehmer das Sicherheitsprotokoll. 2 Die ZES kann im Einvernehmen mit dem Auftraggeber und dem Auftragnehmer die Sicherheitsmassnahmen jederzeit anpassen, wenn sich die Verhältnisse wesentlich ändern."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "16",
+      "title": "Betriebssicherheitserklärung",
+      "content": "1 Die ZES stellt die Betriebssicherheitserklärung aus. Diese ist fünf Jahre gültig. Sie kann vor Ablauf dieser Frist auf Antrag des Auftragnehmers durch die ZES erneuert werden. 2 Die ZES kann im Einvernehmen mit dem Auftraggeber und nach Anhören des Auftragnehmers eine Betriebssicherheitserklärung widerrufen, wenn der Auftragnehmer die im Sicherheitsprotokoll vermerkten Pflichten nicht erfüllt. 3 Die ZES führt ein Verzeichnis der gültigen Betriebssicherheitserklärungen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "17",
+      "title": "Sicherheitskontrollen",
+      "content": "Die ZES kann beim Auftraggeber und beim Auftragnehmer jederzeit Sicherheitskontrollen durchführen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "18",
+      "title": "Zusammenarbeit mit dem Geheimschutzbeauftragten",
+      "content": "Die ZES arbeitet in der Regel direkt mit dem Geheimschutzbeauftragten des Auftragnehmers zusammen."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "1. Abschnitt: ZES",
+      "section": "19",
+      "title": "Ausbildung des Geheimschutzbeauftragten",
+      "content": "Der ZES obliegt die Ausbildung der Geheimschutzbeauftragten im Bereich des Geheimschutzverfahrens."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Abschnitt: Auftraggeber",
+      "section": "20",
+      "title": "Antrag zur Vorabklärung, Wirkung des Vorentscheides",
+      "content": "1 Der Auftraggeber reicht der ZES den Antrag zur Vorabklärung mit einer Klassifizierungsliste ein. 2 Jeder Auftraggeber kann bei der ZES abklären, ob ein möglicher Auftragnehmer im Besitz einer gültigen Betriebssicherheitserklärung ist. 3 Erst nach einem zustimmenden Vorentscheid (Art. 13) und nach erfolgter Personensicherheitsüberprüfung dürfen Auftragnehmern, soweit nötig, im Hinblick auf einen allfälligen Vertragsabschluss klassifizierte Informationen abgegeben werden."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Abschnitt: Auftraggeber",
+      "section": "21",
+      "title": "Instruktion",
+      "content": "1 Der Auftraggeber instruiert den Auftragnehmer über den Umfang und den Inhalt der Geheimhaltungspflicht sowie über das Geheimschutzverfahren, bevor er ihm klassifizierte Informationen abgibt. 2 Er erteilt diese Instruktion anhand der erforderlichen Geheimhaltungs- und Sicherheitsvorschriften. Bei Submissionen und Aufträgen grösseren Umfangs kann zusätzlich die ZES zur Instruktion beigezogen werden."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Abschnitt: Auftraggeber",
+      "section": "22",
+      "title": "Auftragsmeldung",
+      "content": "Der Auftraggeber meldet der ZES jeden vorgesehenen Auftrag; er legt der Meldung die Klassifizierungsliste bei."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Abschnitt: Auftraggeber",
+      "section": "23",
+      "title": "Nicht mehr benötigte klassifizierte Informationen",
+      "content": "Der Auftraggeber weist den Auftragnehmer an, wie nicht mehr benötigte klassifizierte Informationen zu behandeln sind."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "3. Abschnitt: Auftragnehmer",
+      "section": "24",
+      "title": "Verfahren",
+      "content": "1 Der Auftragnehmer, der noch keine Betriebssicherheitserklärung besitzt, liefert dem Auftraggeber die für die Durchführung der Vorabklärung notwendigen Angaben. 2 Der Auftragnehmer unterzeichnet eine Geheimhaltungsverpflichtung. 3 Er bezeichnet im Einvernehmen mit der ZES einen Geheimschutzbeauftragten. 4 Er trifft die im Sicherheitsprotokoll festgelegten Massnahmen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "3. Abschnitt: Auftragnehmer",
+      "section": "25",
+      "title": "Ermächtigung zur Bearbeitung klassifizierter Informationen",
+      "content": "Der Auftragnehmer kann eine Person, die er in seinem Betrieb beschäftigt, ermächtigen, klassifizierte Informationen zu bearbeiten, sofern diese Person: a. dem Auftragnehmer als vertrauenswürdig erscheint und für die Sachbearbeitung erforderlich ist; b. mit ihrem Einverständnis sicherheitsmässig überprüft und von der ZES nicht für ungeeignet erachtet wurde, klassifizierte Informationen zu bearbeiten; c. über die sie betreffenden Sicherheitsmassnahmen sowie über den Umfang und den Inhalt der Geheimhaltungspflicht instruiert worden ist; d. gegenüber dem Auftragnehmer eine Geheimhaltungsverpflichtung unterzeichnet hat."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "3. Abschnitt: Auftragnehmer",
+      "section": "26",
+      "title": "Unteraufträge",
+      "content": "Beabsichtigt der Auftragnehmer, zur Bearbeitung seines Auftrages Unterauftragnehmer beizuziehen, so hat er vor der Bekanntgabe klassifizierter Informationen: a. die Bewilligung des Auftraggebers einzuholen; b. den Antrag zur Vorabklärung an die ZES zu stellen; c. den Unterauftragnehmer über Umfang und Inhalt der Geheimhaltungspflicht sowie über das Geheimschutzverfahren zu instruieren; d. die Auftragsmeldung an die ZES zu erstatten."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "3. Abschnitt: Auftragnehmer",
+      "section": "27",
+      "title": "Klassifizierungsfragen",
+      "content": "1 Der Auftragnehmer klassifiziert während der Auftragsausführung neu anfallende Informationen gemäss der Klassifizierungsliste. 2 Ergeben sich Zweifel in bezug auf die Schutzwürdigkeit oder die Klassifizierungskategorie, so klärt der Auftragnehmer unverzüglich mit dem Auftraggeber die Klassifizierung ab."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "3. Abschnitt: Auftragnehmer",
+      "section": "28",
+      "title": "Kontrollmassnahmen",
+      "content": "Der Auftragnehmer überwacht die Einhaltung der Schutz- und Sicherheitsmassnahmen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "3. Abschnitt: Auftragnehmer",
+      "section": "29",
+      "title": "Besondere Vorfälle",
+      "content": "1 Stellt der Auftragnehmer fest, dass klassifizierte Informationen gefährdet sind, so trifft er die ihm notwendig erscheinenden Schutzmassnahmen. 2 Er benachrichtigt unverzüglich den Auftraggeber und die ZES."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "3. Kapitel: Schlussbestimmungen",
+      "section": "30",
+      "title": "Vollzug",
+      "content": "1 Der Generalstabschef vollzieht diese Verordnung. 2 Die ZES erlässt die für die Durchführung des Geheimschutzverfahrens erforderlichen fachtechnischen Anordnungen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "3. Kapitel: Schlussbestimmungen",
+      "section": "31",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung des EMD vom 31. Oktober 1979 über das Geheimschutzverfahren bei Aufträgen mit militärisch klassifiziertem Inhalt wird aufgehoben. [ AS 1980 36 ]"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "3. Kapitel: Schlussbestimmungen",
+      "section": "32",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 1991 in Kraft."
+    }
+  ],
+  "definitions": []
+}

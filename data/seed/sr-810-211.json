@@ -1,0 +1,515 @@
+{
+  "id": "sr-810-211",
+  "type": "statute",
+  "title": "Verordnung vom 16. März 2007 über die Transplantation von menschlichen Organen, Geweben und Zellen (Transplantationsverordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/280/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Gegenstand, Geltungsbereich und Begriffe",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt: a. den Umgang mit menschlichen Organen, Geweben und Zellen, namentlich: 1. die Entnahme bei verstorbenen und bei lebenden Personen, 2. … 3. die Transplantation embryonaler oder fötaler Gewebe oder Zellen; b. die Organisations- und Koordinationsaufgaben der Kantone; c. die Aufgaben im Zusammenhang mit der Führung des Stammzellenregisters. 2 Für den Umgang mit Organen, Geweben und Zellen zur autogenen Transplantation gelten: a. die Artikel 2, 19, 26, 37–44, 48, 49 und 56; b. zusätzlich die Artikel 13, 14 und 15 d , wenn die Organe, Gewebe und Zellen vor der Übertragung aufbereitet werden. 3 Für den Umgang mit Organen, Geweben oder Zellen, die für die Herstellung autogener Transplantatprodukte verwendet werden, gelten die Artikel 2, 48 und 49, für den Umgang mit Organen, Geweben oder Zellen, die für die Herstellung allogener Transplantatprodukte verwendet werden, zusätzlich die Artikel 2–12. Aufgehoben durch Anhang 6 Ziff. 1 der V vom 20. Sept. 2013 über klinische Versuche, mit Wirkung seit 1. Jan. 2014 ( AS 2013 3407 ). Fassung gemäss Anhang 6 Ziff. 1 der V vom 20. Sept. 2013 über klinische Versuche, in Kraft seit 1. Jan. 2014 ( AS 2013 3407 ). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Fassung gemäss Ziff. I 1 der V vom 23. März 2016 über den Vollzug der Transplantationsgesetzgebung, in Kraft seit 1. Mai 2016 ( AS 2016 1171 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Gegenstand, Geltungsbereich und Begriffe",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "1 Im Sinne dieser Verordnung gelten als: a. Umgang: jede Tätigkeit mit Organen, Geweben und Zellen, namentlich deren Entnahme, Testung, Aufbereitung, Ein- und Ausfuhr, Lagerung und Transplantation; b. Aufbereitung: jede Tätigkeit mit Organen, Geweben und Zellen, die dazu dient, sie für eine spätere Transplantation bereitzustellen, ohne dass sie in ihren physiologischen Eigenschaften oder in ihren Funktionen verändert werden; c. Transplantatprodukte: 1. Produkte, die aus menschlichen Organen, Geweben oder Zellen bestehen oder solche enthalten, wobei die Organe, Gewebe oder Zellen: – substanziell bearbeitet wurden oder – nicht dazu bestimmt sind, bei der empfangenden Person dieselbe Funktion wie bei der spendenden Person auszuüben, 2. Produkte, die aus tierischen Organen, Geweben oder Zellen bestehen oder solche enthalten; d. substanzielle Bearbeitung: 1. die Vermehrung von Zellen über eine Zellkultur, 2. die genetische Modifikation von Zellen, 3. die Differenzierung oder Aktivierung von Zellen. 2 Im Übrigen gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung vom 20. September 2013 über klinische Versuche. Fassung gemäss Anhang 6 Ziff. 1 der V vom 20. Sept. 2013 über klinische Versuche, in Kraft seit 1. Jan. 2014 ( AS 2013 3407 ). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Eingefügt durch Ziff. I 1 der V vom 23. März 2016 über den Vollzug der Transplantationsgesetzgebung, in Kraft seit 1. Mai 2016 ( AS 2016 1171 ). Eingefügt durch Ziff. I 1 der V vom 23. März 2016 über den Vollzug der Transplantationsgesetzgebung, in Kraft seit 1. Mai 2016 ( AS 2016 1171 ). SR 810.305"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Einbezug der nächsten Angehörigen oder von Vertrauenspersonen in die Entscheidfindung in die Entscheidfindung",
+      "section": "3",
+      "title": "Nächste Angehörige",
+      "content": "Nächste Angehörige nach Artikel 8 Absatz 8 des Transplantationsgesetzes sind: a. Ehefrau oder Ehemann, eingetragene Partnerin oder eingetragener Partner, Lebenspartnerin oder Lebenspartner; b. Kinder, Eltern und Geschwister; c. Grosseltern und Grosskinder; d. andere Personen, die der verstorbenen Person nahestehen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Einbezug der nächsten Angehörigen oder von Vertrauenspersonen in die Entscheidfindung in die Entscheidfindung",
+      "section": "4",
+      "title": "Fehlen einer dokumentierten Zustimmung oder Ablehnung",
+      "content": "1 Liegt keine dokumentierte Zustimmung oder Ablehnung vor, so muss mindestens eine Person aus dem Kreis der nächsten Angehörigen angefragt werden, ob ihr eine Erklärung der verstorbenen Person zur Spende bekannt ist oder ob sie Personen bezeichnen kann, denen eine solche Erklärung bekannt ist. 2 Werden mehrere nächste Angehörige angefragt und sind ihnen unterschiedliche Erklärungen zur Spende bekannt, so gilt die aktuellste. 3 Eine Erklärung der verstorbenen Person zur Spende kann auch mitteilen, wer das 16. Altersjahr noch nicht vollendet hat."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Einbezug der nächsten Angehörigen oder von Vertrauenspersonen in die Entscheidfindung in die Entscheidfindung",
+      "section": "5",
+      "title": "Entscheid der nächsten Angehörigen",
+      "content": "1 Zum Entscheid befugt ist, wer mit der verstorbenen Person am engsten verbunden war und das 16. Altersjahr vollendet hat. Die anfragende Person hat dies durch Befragung der nächsten Angehörigen festzustellen. 2 Die anfragende Person kann, sofern keine gegenteiligen Anhaltspunkte vorliegen, davon ausgehen, dass die folgenden Personen der Reihe nach mit der verstorbenen Person am engsten verbunden waren, wenn sie mit dieser bis zu deren Tod einen regelmässigen persönlichen Kontakt gepflegt haben: a. Ehefrau oder Ehemann, eingetragene Partnerin oder eingetragener Partner, Lebenspartnerin oder Lebenspartner; b. Kinder; c. Eltern und Geschwister; d. Grosseltern und Grosskinder; e. andere Personen, die der verstorbenen Person nahestehen. 3 Gibt es mehrere nächste Angehörige nach Absatz 1, so ist die Entnahme zulässig wenn: a. alle, die innerhalb angemessener Zeit erreichbar sind, ihr zustimmen; und b. von den nicht erreichbaren Angehörigen kein Widerspruch bekannt wird."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Einbezug der nächsten Angehörigen oder von Vertrauenspersonen in die Entscheidfindung in die Entscheidfindung",
+      "section": "6",
+      "title": "Vertrauensperson",
+      "content": "1 Wer das 16. Lebensjahr vollendet hat, kann eine Vertrauensperson nach Artikel 8 Absatz 6 des Transplantationsgesetzes bestimmen. 2 Hat die verstorbene Person mehrere Personen ihres Vertrauens bestimmt, so ist die Entnahme zulässig, wenn: a. alle, die innerhalb angemessener Zeit erreichbar sind, ihr zustimmen; und b. von den nicht erreichbaren Vertrauenspersonen kein Widerspruch bekannt wird."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Feststellung des Todes und vorbereitende medizinische Massnahmen",
+      "section": "7",
+      "title": "Feststellung des Todes",
+      "content": "Der Tod ist nach den Richtlinien nach Anhang 1 festzustellen. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Feststellung des Todes und vorbereitende medizinische Massnahmen",
+      "section": "8",
+      "title": "Dauer der vorbereitenden medizinischen Massnahmen",
+      "content": "Vorbereitende medizinische Massnahmen dürfen nach dem Tod der Patientin oder des Patienten während längstens 72 Stunden durchgeführt werden. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "2. Abschnitt: Feststellung des Todes und vorbereitende medizinische Massnahmen",
+      "section": "8a",
+      "title": "a Unzulässige vorbereitende medizinische Massnahmen",
+      "content": "Die vorbereitenden medizinischen Massnahmen, die nach Artikel 10 Absatz 4 des Transplantationsgesetzes unzulässig sind, sind in den Richtlinien nach Anhang 1 festgelegt. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Kapitel: Entnahme von Organen, Geweben oder Zellen bei lebenden Personen",
+      "section": "9",
+      "title": "Information der Lebendspenderin oder des Lebendspenders",
+      "content": "1 Ärztinnen oder Ärzte, die Organe, Gewebe oder Zellen entnehmen, müssen die für eine Spende in Frage kommende Person vor der Entnahme in mündlicher und schriftlicher Form umfassend und verständlich informieren. 2 Sie informieren die Person namentlich über: a. Zweck und Ablauf der Vorabklärungen und des Eingriffs; b. die Freiwilligkeit und Unentgeltlichkeit der Spende sowie die Strafbarkeit einer Spende gegen Entgelt; c. die Kurz- und Langzeitrisiken für die Gesundheit der Spenderin oder des Spenders; d. die voraussichtliche Dauer des Spitalaufenthalts und das Ausmass der Arbeitsunfähigkeit oder anderer Einschränkungen für die Spenderin oder den Spender; e. die Notwendigkeit, sich als Spenderin oder Spender einer regelmässigen Überprüfung des Gesundheitszustands zu unterziehen; f. die Pflicht der Lebendspende-Nachsorgestelle, die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders sicherzustellen; g. den Versicherungsschutz nach Artikel 11 und den Aufwandersatz nach Artikel 12; h. die Grundzüge der Datenbearbeitung; i. das Recht, die Spende ohne Angabe von Gründen abzulehnen oder die erteilte Zustimmung formlos zu widerrufen; j. die möglichen psychischen Folgen einer Lebendspende und die Möglichkeit einer psychologischen Betreuung; k. die zu erwartenden Vorteile und die möglichen Nachteile sowie allfällige andere Therapiemöglichkeiten für die Empfängerin oder den Empfänger. 3 Sie müssen der für eine Spende in Frage kommenden Person eine angemessene Bedenkzeit für den Entscheid einräumen. 4 Sie müssen den Ablauf der Information dokumentieren und die Unterlagen während zehn Jahren aufbewahren. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Kapitel: Entnahme von Organen, Geweben oder Zellen bei lebenden Personen",
+      "section": "10",
+      "title": "Abklärung betreffend Freiwilligkeit und Unentgeltlichkeit der Lebendspende",
+      "content": "1 Einer lebenden Person dürfen Organe, Gewebe oder Zellen nur entnommen werden, wenn eine unabhängige und in solchen Abklärungen erfahrene Fachperson sich vergewissert hat, dass die Spende freiwillig und unentgeltlich erfolgt. 2 Die Fachperson muss die Abklärung dokumentieren und die Unterlagen getrennt von der Krankengeschichte während zehn Jahren aufbewahren. 3 Wird die für eine Lebendspende in Frage kommende Person als Spenderin oder als Spender abgelehnt, so hat sie das Recht, eine Zweitmeinung einzuholen."
+    },
+    {
+      "provision_ref": "art10a",
+      "chapter": "3. Kapitel: Entnahme von Organen, Geweben oder Zellen bei lebenden Personen",
+      "section": "10a",
+      "title": "a Nachverfolgung des Gesundheitszustands von Lebendspenderinnen und Lebendspendern",
+      "content": "1 Die Lebendspende-Nachsorgestelle stellt die Nachverfolgung des Gesundheitszustands der Lebendspenderinnen und Lebendspender von Organen und Blut-Stammzellen wie folgt sicher: a. Sie bearbeitet die Daten der Lebendspenderinnen und Lebendspender nach Anhang 2 Ziffern 1, 2 und 3 Buchstaben a und b. b. Sie erhebt namentlich die folgenden Daten zur Nachsorge der Lebendspenderinnen und Lebendspender: 1. aktuelle berufliche Tätigkeit und Selbsteinschätzung der psychischen und physischen Leistungsfähigkeit vor der Lebendspende von Organen, 2. gesundheitliche Probleme, berufliche Einschränkungen in Zusammenhang mit der Spende, Medikation, Selbsteinschätzung der Leistungsfähigkeit nach der Spende. c. Sie bietet den Lebendspenderinnen und Lebendspendern in geeigneten Zeitabständen eine Überprüfung des Gesundheitszustands an. d. Sie informiert und berät die Lebendspenderinnen und Lebendspender, insbesondere wenn aufgrund der Untersuchungsergebnisse Massnahmen angezeigt sind. e. Sie wertet die Untersuchungsergebnisse regelmässig aus, veröffentlicht die Auswertung und stellt sie allen Zentren, die Organe oder Blut-Stammzellen für eine Lebendspende entnehmen, in anonymisierter Form zur Verfügung. f. Sie lässt die gesundheitlich relevanten Erkenntnisse aus der Auswertung der Untersuchungsergebnisse in die Information künftiger Lebendspenderinnen und Lebendspender einfliessen. g. Sie führt und veröffentlicht eine Statistik über alle Lebendspenderinnen und Lebendspender in der Schweiz, deren Gesundheitszustand nachverfolgt wird. Die Statistik wird so veröffentlicht, dass jede Identifizierung ausgeschlossen ist. 2 Sie arbeitet mit ausländischen und internationalen Nachsorgestellen zusammen. Sie kann die erfassten Daten und die Auswertung der Untersuchungsergebnisse ausländischen und internationalen Nachsorgestellen in anonymisierter Form bekannt geben. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Versicherungsschutz",
+      "content": "1 Wer einer lebenden Person Organe, Gewebe oder Zellen entnimmt, muss sicherstellen, dass für diese Person mindestens für die Dauer von 12 Monaten ab der Entnahme ein Versicherungsvertrag nach dem Versicherungsvertragsgesetz vom 2. April 1908 besteht für die Risiken Tod und Invalidität, die als Folge der Entnahme eintreten. 2 Im Todesfall beträgt die Versicherungsleistung 250 000 Franken. Anspruchsberechtigt sind die Hinterbliebenen. 3 Für den Invaliditätsfall ist eine Summe von 250 000 Franken zu versichern. Die Versicherungsleistung ist nach den Bestimmungen über die Bemessung der Integritätsentschädigung nach Anhang 3 der Verordnung vom 20. Dezember 1982 über die Unfallversicherung zu berechnen. SR 221.229.1 SR 832.202"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Aufwandersatz",
+      "content": "Als anderer Aufwand, der nach Artikel 14 Absatz 2 Buchstabe b des Transplantationsgesetzes zu ersetzen ist, gelten alle ausgewiesenen Kosten, die der Spenderin oder dem Spender im Zusammenhang mit der Entnahme von Organen, Geweben oder Zellen entstehen, namentlich: a. Reisekosten; b. die Kosten der Abklärungen betreffend die Eignung als Spenderin oder als Spender; c. … d. die Kosten für den notwendigen Beizug entgeltlicher Hilfen, namentlich Haushalthilfen oder Hilfen für die Betreuung von Personen. Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art12a",
+      "section": "12a",
+      "title": "a Entrichtung der Pauschale für die Nachverfolgung des Gesundheitszustands von Lebendspenderinnen und Lebendspendern",
+      "content": "1 Die Pauschale nach Artikel 15 a Absatz 4 Buchstabe a des Transplantationsgesetzes ist in Anhang 3 festgelegt. 2 Sie ist fällig, sobald die Lebendspende-Nachsorgestelle der gemeinsamen Einrichtung die Lebendspende gemeldet hat. Die gemeinsame Einrichtung fordert die Pauschale beim zuständigen Versicherer ein. 3 Bei Streitigkeiten zwischen dem Versicherer und der gemeinsamen Einrichtung über die Entrichtung der Pauschale entscheidet die gemeinsame Einrichtung in der Form einer Verfügung im Sinne von Artikel 5 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). SR 172.021"
+    },
+    {
+      "provision_ref": "art12b",
+      "section": "12b",
+      "title": "b Lebendspende-Nachsorgefonds",
+      "content": "1 Die gemeinsame Einrichtung informiert das Bundesamt für Gesundheit (BAG): a. rechtzeitig über eine sich abzeichnende Über- oder Unterdeckung des Fonds; b. jeweils bis Ende Juni über den Stand des Fondsvermögens am 31. Dezember des Vorjahrs, die Kosten der Fondsverwaltung im Vorjahr und das Anlageergebnis. 2 Sie entrichtet der Lebendspende-Nachsorgestelle die Ausschüttung nach Artikel 15 b Absatz 3 des Transplantationsgesetzes in zwei Tranchen; die erste Tranche wird per 15. Januar entrichtet, die zweite per 15. Juli. 3 Sie achtet auf die Sicherheit der Anlagen des Fondsvermögens und gewährleistet die erforderliche Liquidität. 4 Sie reicht dem BAG jeweils bis Ende Juni einen Jahresbericht über ihre Tätigkeit ein. Der Bericht ist Teil der Berichterstattung nach Artikel 46 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). SR 832.12"
+    },
+    {
+      "provision_ref": "art12c",
+      "section": "12c",
+      "title": "c Führung der Lebendspende-Nachsorgestelle",
+      "content": "1 Die Führung der Lebendspende-Nachsorgestelle wird übertragen an: a. die Stiftung zur Nachbetreuung von Organ-Lebendspendern: für die Nachverfolgung des Gesundheitszustands der Spenderinnen und Spender von Organen; b. die Blutspende SRK Schweiz AG: für die Nachverfolgung des Gesundheitszustands von Spenderinnen und Spendern von Blut-Stammzellen. 2 Das BAG schliesst zu diesem Zweck mit der Stiftung zur Nachbetreuung von Organ-Lebendspendern und der Blutspende SRK Schweiz AG eine in der Regel auf vier Jahre befristete Vereinbarung ab. Diese legt namentlich die zu erbringenden Leistungen und die finanzielle Abgeltung durch den Bund fest. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art12d",
+      "section": "12d",
+      "title": "d Beitrag des Bundes",
+      "content": "Der Bund entrichtet den Beitrag nach Artikel 15 a Absatz 3 des Transplantationsgesetzes zugunsten der Lebendspende-Nachsorgestelle jeweils in zwei Tranchen. Der Beitrag kann pauschal geleistet werden. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art12e",
+      "section": "12e",
+      "title": "e Kostenplanung und Abrechnung",
+      "content": "1 Die Lebendspende-Nachsorgestelle informiert die gemeinsame Einrichtung und das BAG jeweils bis Ende Oktober über die für das Folgejahr zu erwartenden Kosten für die Nachverfolgung des Gesundheitszustands der Lebendspenderinnen und Lebendspender und begründet sie. 2 Sie legt dem BAG und der gemeinsamen Einrichtung jeweils bis Ende März die Abrechnung über die im Vorjahr entstandenen Kosten vor. Allfällige Differenzen aus dem Vorjahr werden jeweils mit der zweiten Tranche nach Artikel 12 b Absatz 2 beziehungsweise 12 d ausgeglichen. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art12f",
+      "section": "12f",
+      "title": "f Sonderfälle der Kostentragung",
+      "content": "1 Wer einer lebenden Person in der Schweiz ein Organ entnimmt, das für eine Empfängerin oder einen Empfänger bestimmt ist, die oder der bei einem ausländischen Versicherer versichert ist, hat sicherzustellen, dass dieser Versicherer die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders dem Lebendspende-Nachsorgefonds im Voraus bezahlt oder dafür eine Kostengutsprache leistet. 2 Werden einer lebenden Person in der Schweiz Blut-Stammzellen für eine Empfängerin oder einen Empfänger im Ausland entnommen, so fordert die Lebendspende-Nachsorgestelle die Kosten für die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders beim ausländischen Stammzellenregister oder bei der ausländischen Lebendspende-Nachsorgestelle ein und überweist die erhaltenen finanziellen Mittel dem Lebendspende-Nachsorgefonds. 3 Stellt ein anderes Land die Nachverfolgung des Gesundheitszustands der spendenden Person sicher und ist die Empfängerin oder der Empfänger in der Schweiz der obligatorischen Krankenpflegeversicherung unterstellt, so entspricht die Pauschale den von diesem Land für die Nachverfolgung des Gesundheitszustands ausgewiesenen Kosten, höchstens aber dem Betrag für die Pauschale nach Anhang 3. 4 Erfolgt eine Überkreuz-Lebendspende zwischen einem inkompatiblen Paar in der Schweiz und einem inkompatiblen Paar im Ausland und stellt eine ausländische Stelle die Nachverfolgung des Gesundheitszustands der Spenderin oder des Spenders des ausländischen Paars sicher, so entrichtet der Versicherer der Schweizer Empfängerin oder des Schweizer Empfängers die Pauschale für die Nachverfolgung des Gesundheitszustands der spendenden Person, die mit dieser Empfängerin oder diesem Empfänger ein inkompatibles Paar bildet. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "13",
+      "title": "Qualitätssicherung",
+      "content": "1 Wer mit Organen, Geweben oder Zellen umgeht, muss über ein Qualitätssicherungssystem verfügen, das dem Stand von Wissenschaft und Technik entspricht. 2 Der Stand von Wissenschaft und Technik ergibt sich insbesondere aus: a. nationalen und internationalen Richtlinien; b. Empfehlungen von nationalen und internationalen Fachorganisationen; c. Wegleitungen des BAG. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "14",
+      "title": "Sorgfaltspflicht",
+      "content": "1 Der Umgang mit Organen, Geweben und Zellen muss dem Stand von Wissenschaft und Technik entsprechen. 2 Der Stand von Wissenschaft und Technik ergibt sich insbesondere aus: a. nationalen und internationalen Richtlinien; b. Empfehlungen von nationalen und internationalen Fachorganisationen; c. Wegleitungen des BAG. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "2. Abschnitt: Meldepflichten",
+      "section": "15",
+      "title": "Meldung an das BAG von Transplantationen im Ausland",
+      "content": "1 Wurde das Organ im Ausland transplantiert, so meldet die für die medizinische Nachbetreuung zuständige Ärztin oder der für die medizinische Nachbetreuung zuständige Arzt dem BAG innerhalb eines Jahres ab Beginn der Nachbetreuung die folgenden Daten: a. die Angabe, welches Organ transplantiert wurde und ob es funktioniert; b. das Geburtsjahr, das Geschlecht, die Nationalität, das Wohnsitzland und den Vitalstatus der Empfängerin oder des Empfängers; c. das Geburtsjahr und das Geschlecht der Spenderin oder des Spenders; d. die Angabe, ob das Organ einer lebenden oder einer verstorbenen Person entnommen wurde; e. bei einer Lebendspende: die Beziehung zwischen der Spenderin oder dem Spender und der Empfängerin oder dem Empfänger; f. schwerwiegende Komplikationen, die im ersten Jahr nach der Transplantation aufgetreten sind, namentlich die Infektion mit Krankheitserregern; g. den Monat und das Jahr der Transplantation; h. das Land, in dem die Transplantation vorgenommen wurde; i. die Angabe, ob und wenn ja wann die Empfängerin oder der Empfänger in der Schweiz in die Warteliste aufgenommen wurde. 2 Das BAG wertet die Daten regelmässig aus, veröffentlicht die Auswertung und stellt sie den Transplantationszentren für die Information der Personen auf der Warteliste zur Verfügung. 3 Das BAG leitet die Daten in anonymisierter Form regelmässig an das Komitee für Organtransplantationen des Europarats weiter. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art15a",
+      "chapter": "2. Abschnitt: Meldepflichten",
+      "section": "15a",
+      "title": "a Meldung von Lebendspenden an das BAG",
+      "content": "1 Wer einer lebenden Person Organe entnimmt, muss dem BAG die folgenden Daten melden: a. die Nationalität der Spenderin oder des Spenders und der Empfängerin oder des Empfängers; b. das Wohnsitzland der Spenderin oder des Spenders und der Empfängerin oder des Empfängers; ist der Wohnsitz in der Schweiz vor weniger als drei Monaten begründet worden, so muss zudem das vorhergehende Wohnsitzland angegeben werden; c. die Beziehung zwischen der Spenderin oder dem Spender und der Empfängerin oder dem Empfänger; bei einer Überkreuz-Lebendspende die Beziehung zwischen der spendenden und der empfangenden Person des inkompatiblen Paars; d. die Angabe, welches Organ wann entnommen wurde; e. die Angabe, ob und wenn ja wann das entnommene Organ transplantiert wurde; f. die Angabe, ob die Spenderin oder der Spender mit der Nachverfolgung des Gesundheitszustands einverstanden ist, und gegebenenfalls den Grund, warum sie oder er nicht einverstanden ist. [tab] 2 Die Meldung muss bis spätestens eine Woche nach der Entnahme erfolgen. [tab] 3 Sie erfolgt durch einen Online-Eintrag in die Datenbank Swiss Organ Allocation System (SOAS). Eingefügt durch Ziff. I der V vom 10. Sept. 2008 ( AS 2008 4461 ). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art15b",
+      "section": "15b",
+      "title": "b Meldung von Lebendspenden an die Lebendspende-Nachsorgestelle und an die gemeinsame Einrichtung",
+      "content": "1 Wer einer lebenden Person Organe entnimmt, muss den folgenden Stellen die nachstehenden Daten melden: a. der Lebendspende-Nachsorgestelle: die Daten nach Anhang 2 Ziffern 1.1, 2 und 3 Buchstaben a und b; b. der gemeinsamen Einrichtung: die Daten nach Anhang 2 Ziffer 3 Buchstabe c. 2 Wer einer lebenden Person Blut-Stammzellen entnimmt, muss der Lebendspende-Nachsorgestelle die Daten nach Anhang 2 Ziffer 1.2 Buchstaben a–f, h und j sowie Ziffer 2.2 Buchstaben a und c melden. 3 Wer einer Person Blut-Stammzellen transplantiert, muss den folgenden Stellen die nachstehenden Daten melden: a. der Lebendspende-Nachsorgestelle: die Daten nach Anhang 2 Ziffer 1.2 Buchstaben g und i, Ziffer 2.2 Buchstaben b und d sowie Ziffer 3 Buchstaben a und b; b. der gemeinsamen Einrichtung: die Daten nach Anhang 2 Ziffer 3 Buchstabe c. 4 Kommt es nicht zur Entnahme, sind aber bereits medizinische Massnahmen zur Gewinnung von Blut-Stammzellen eingeleitet worden, die eine Nachverfolgung des Gesundheitszustands der Lebendspenderin oder des Lebendspenders erfordern, so muss diejenige Person die Daten nach Absatz 2 melden, welche die Massnahmen eingeleitet hat. Die Person, die die Transplantation durchführen wollte, meldet die Daten nach Absatz 3. 5 Die Daten werden nur gemeldet, wenn die Spenderin oder der Spender damit einverstanden ist. Der Tod der Spenderin oder des Spenders als Folge der Entnahme muss in jedem Fall gemeldet werden. Die Personendaten sind in diesem Fall vor der Übermittlung zu anonymisieren. 6 Die Meldung muss bis spätestens eine Woche nach der Entnahme des Organs oder der Blut-Stammzellen oder der Einleitung der medizinischen Massnahmen erfolgen. Die meldepflichtige Person meldet die Daten nach Anhang 2 Ziffer 1.1 Buchstaben i und j sowie Ziffer 1.2 Buchstaben c und j bis spätestens eine Woche, nachdem sie davon Kenntnis erhalten hat. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art15c",
+      "section": "15c",
+      "title": "c Meldung von Lebendspenden an die gemeinsame Einrichtung",
+      "content": "Die Lebendspende-Nachsorgestelle meldet der gemeinsamen Einrichtung Lebendspenden umgehend und stellt ihr die Daten nach Anhang 2 Ziffern 2 und 3 Buchstaben a und b zu. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art15d",
+      "section": "15d",
+      "title": "d Meldung von Tätigkeiten mit Geweben und Zellen an das Schweizerische Heilmittelinstitut",
+      "content": "Wer Gewebe oder Zellen zur autogenen Transplantation aufbereiten, weitergeben, lagern, ein- oder ausführen will, muss dies dem Schweizerischen Heilmittelinstitut vorgängig melden. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art15e",
+      "section": "15e",
+      "title": "e Summarische Meldung der Entnahme und Transplantation von Organen, Geweben und Zellen an das BAG",
+      "content": "1 Wer Gewebe oder Zellen entnimmt oder transplantiert, muss dies dem BAG bis Ende April des Folgejahres melden und die folgenden Angaben liefern: a. Art und Anzahl der entnommenen Gewebe; b. Art der entnommenen Zellen und Anzahl der entnommenen Zelleinheiten; c. Anzahl der Spenderinnen und Spender von Geweben und Zellen, aufgeteilt nach Art der entnommenen Gewebe und Zellen; d. Anzahl der bearbeiteten Gewebe und Zelleinheiten, aufgeteilt nach Art der Gewebe und Zellen; e. Anzahl der an andere Institutionen in der Schweiz weitergegebenen Gewebe und Zelleinheiten, aufgeteilt nach Art der Gewebe und Zellen; f. Art und Anzahl der transplantierten Gewebe; g. Art der transplantierten Zellen und Anzahl der transplantierten Zelleinheiten; h. Anzahl der transplantierten Personen, aufgeteilt nach Art der transplantierten Gewebe und Zellen; i. Anzahl der durchgeführten Transplantationen, aufgeteilt nach Art der transplantierten Gewebe und Zellen. 2 Wer Organe für die Aufbereitung von Geweben oder Zellen zur Transplantation entnimmt, muss dies dem BAG bis Ende April des Folgejahres melden und die folgenden Angaben liefern: a. Art und Anzahl der entnommenen Organe mit Angabe der Art der aufbereiteten Gewebe oder Zellen; b. Anzahl der Spenderinnen und Spendern der Organe, aufgeteilt nach Art der aufbereiteten Gewebe und Zellen. 3 Wer Organe von verstorbenen Spenderinnen und Spendern entnimmt oder transplantiert, die nicht nach den Artikeln 16–23 des Transplantationsgesetzes zugeteilt werden, muss dies dem BAG bis Ende April des Folgejahres melden und die folgenden Angaben liefern: a. Art und Anzahl der entnommenen Organe; b. Anzahl der Spenderinnen und Spender, aufgeteilt nach Art der entnommenen Organe; c. Art und Anzahl der transplantierten Organe; d. Anzahl der transplantierten Personen, aufgeteilt nach Art der transplantierten Organe. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Abschnitt: Bewilligungspflicht und -voraussetzungen",
+      "section": "16",
+      "title": "Transplantation von Organen",
+      "content": "Die Bewilligung für die Transplantation von Organen wird erteilt, wenn: a. der Betrieb über eine fachtechnisch verantwortliche Person mit der notwendigen Sachkenntnis und Erfahrung verfügt, die in ihrem Tätigkeitsbereich weisungsbefugt ist und die Verantwortung für die Qualität trägt; b. Personen der erforderlichen Fachbereiche nach Anhang 6 Ziffer 1 sowie medizinisches Personal vorhanden sind; c. die räumliche, apparative und technische Infrastruktur dem jeweiligen Eingriff angepasst ist und dem Stand von Wissenschaft und Technik entspricht (Anhang 6 Ziff. 2); d. das Qualitätssicherungssystem dem Stand von Wissenschaft und Technik entspricht; e. … Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Abschnitt: Bewilligungspflicht und -voraussetzungen",
+      "section": "17",
+      "title": "Lagerung von Geweben oder Zellen",
+      "content": "Die Bewilligung für die Lagerung von Geweben oder Zellen wird erteilt, wenn: a. der Betrieb über eine fachtechnisch verantwortliche Person mit der notwendigen Sachkenntnis und Erfahrung verfügt, die in ihrem Tätigkeitsbereich weisungsbefugt ist und die Verantwortung für die Qualität trägt; b. das Qualitätssicherungssystem dem Stand von Wissenschaft und Technik entspricht. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "3. Abschnitt: Bewilligungspflicht und -voraussetzungen",
+      "section": "18",
+      "title": "Ein- und Ausfuhr von Geweben oder Zellen sowie von Organen, die nicht nach den Artikeln 16–23 des Transplantationsgesetzes zugeteilt werden",
+      "content": "Die Bewilligung für die Ein- und Ausfuhr von Geweben oder Zellen sowie von Organen, die nicht nach den Artikeln 16–23 des Transplantationsgesetzes zugeteilt werden, wird erteilt, wenn: a. der Betrieb über eine fachtechnisch verantwortliche Person mit der notwendigen Sachkenntnis und Erfahrung verfügt, die in ihrem Tätigkeitsbereich weisungsbefugt ist und die Verantwortung für die Qualität trägt; b. das Qualitätssicherungssystem dem Stand von Wissenschaft und Technik entspricht. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "3. Abschnitt: Bewilligungspflicht und -voraussetzungen",
+      "section": "19",
+      "title": "Umgang mit gentechnisch veränderten Organen, Geweben oder Zellen",
+      "content": "1 Wer gentechnisch veränderte Organe, Gewebe oder Zellen im Rahmen einer Standardbehandlung transplantieren oder an Dritte abgeben will, braucht eine Bewilligung des BAG. 2 Die Bewilligung wird erteilt, wenn: a. der Betrieb über eine fachtechnisch verantwortliche Person mit der notwendigen Sachkenntnis und Erfahrung verfügt, die in ihrem Tätigkeitsbereich weisungsbefugt ist und die Verantwortung für die Qualität trägt; b. die Qualität und die biologische Sicherheit der gentechnisch veränderten Organe, Gewebe oder Zellen gegenüber der Patientin oder dem Patienten sowie für Mensch, Tier und Umwelt gewährleistet sind; c. das Bundesamt für Umwelt (BAFU) der Standardbehandlung im Hinblick auf den Schutz der Umwelt und den indirekten Schutz des Menschen zugestimmt hat. Fassung gemäss Ziff. I der V vom 10. Sept. 2008, in Kraft seit 15. Okt. 2008 ( AS 2008 4461 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Abschnitt: Pflichten der Inhaberin oder des Inhabers einer Bewilligung",
+      "section": "20",
+      "title": "Pflichten der Transplantationszentren",
+      "content": "1 Die Transplantationszentren müssen die Ergebnisse der Transplantationen des vergangenen Kalenderjahrs jeweils bis Ende Juni veröffentlichen und dem BAG zustellen. 2 Die Ergebnisse müssen namentlich beinhalten: a. Art und Anzahl der Erst- und Retransplantationen sowie die Retransplantationsrate; b. die Überlebensrate der Empfängerinnen und Empfänger nach einem, nach sechs und nach zwölf Monaten, danach jährlich; c. die Überlebensrate der Organe nach einem, nach sechs und nach zwölf Monaten, danach jährlich; d. wichtige Erkenntnisse über die Wirkungen und Nebenwirkungen der immunsuppressiven Therapie; d bis . wichtige Faktoren, die die Überlebensrate der Organe sowie der Empfängerinnen und Empfänger beeinflussen, wie Art der Spende, Gewebemerkmale und Blutgruppe; d ter . Alter und Geschlecht der Spenderinnen und Spender sowie der Empfängerinnen und Empfänger; e. die Anzahl von Patientinnen und Patienten, bei denen nach der Transplantation Krebserkrankungen aufgetreten sind, die Art der Krebserkrankungen und das Zeitintervall ihres Auftretens nach der Transplantation; f. alle weiteren Daten, welche die Transplantationszentren im Rahmen von nationalen und internationalen Studien oder Registern erheben, sowie die dazugehörigen Auswertungen. 3 Das Eidgenössische Departement des Innern kann: a. Kriterien für die Aufzeichnung und Auswertung der Transplantationsergebnisse festlegen; b. vorschreiben, dass die Transplantationszentren dem BAG weitere Daten zustellen müssen, wenn diese für die Beurteilung der Qualität der Transplantationen erforderlich sind. 4 Stellt ein Transplantationszentrum ein Transplantationsprogramm vorübergehend oder dauernd ein, so muss es: a. unverzüglich die erforderlichen Massnahmen treffen, damit die Transplantationen für Patientinnen und Patienten, die das wünschen, in einem anderen Zentrum vorgenommen werden können; b. die betroffenen Patientinnen und Patienten sowie die Nationale Zuteilungsstelle darüber informieren. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Fassung gemäss Ziff. I der V vom 10. Sept. 2008, in Kraft seit 15. Okt. 2008 ( AS 2008 4461 )."
+    },
+    {
+      "provision_ref": "art20a",
+      "chapter": "4. Abschnitt: Pflichten der Inhaberin oder des Inhabers einer Bewilligung",
+      "section": "20a",
+      "title": "a Abgleich von Daten zwischen dem BAG und den Transplantationszentren",
+      "content": "1 Das BAG gibt den Transplantationszentren jährlich die folgenden Daten der im SOAS eingetragenen Spenderinnen und Spender sowie Empfängerinnen und Empfänger bekannt: a. im SOAS generierte Erkennungsnummer; b. Geschlecht; c. Alter; d. Blutgruppe; e. Transplantationszentrum; f. Datum der Transplantation; g. die Angabe, ob es sich um eine Lebendspende handelt oder ob die Spende von einer verstorbenen Person stammt; h. Schweregrad der Erkrankung der Empfängerin oder des Empfängers und allfällige frühere Transplantationen. 2 Die Transplantationszentren gleichen die Daten ab und melden dem BAG kostenlos unvollständige oder falsche Daten. Das BAG leitet die berichtigten Daten an die Nationale Zuteilungsstelle weiter. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Pflichten bei der Lagerung",
+      "content": "1 Die Inhaberin oder der Inhaber einer Bewilligung für die Lagerung von Geweben oder Zellen muss geeignete biologische Proben der Spenderinnen und Spender in genügender Menge so aufbewahren, dass sie bis zwei Jahre nach der Transplantation der Gewebe oder Zellen getestet werden können. 2 Sie oder er muss dem BAG für das vergangene Kalenderjahr jeweils bis Ende April folgende Daten melden: a. Art und Anzahl der gelagerten Gewebe; b. Art der gelagerten Zellen und deren Anzahl in Applikationseinheiten; c. Anzahl der Ein- und Ausgänge der Gewebe und der Zellen in Applikationseinheiten."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Pflichten bei der Ein- und Ausfuhr",
+      "content": "1 Die Inhaberin oder der Inhaber einer Bewilligung für die Ein- und Ausfuhr darf Organe, Gewebe oder Zellen nur von einer ausländischen Stelle einführen oder an eine solche ausführen, die nach der Gesetzgebung des Herkunfts- oder des Bestimmungslandes zum Umgang mit Geweben, Zellen oder Organen berechtigt ist. 2 Sie oder er muss dem BAG für das vergangene Kalenderjahr jeweils bis Ende April folgende Daten melden: a. Art und Anzahl der ein- oder ausgeführten Gewebe oder Organe; b. Art der ein- oder ausgeführten Zellen und deren Anzahl in Applikationseinheiten; c. das Herkunfts- beziehungsweise das Bestimmungsland."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "5. Abschnitt: Sorgfaltspflichten",
+      "section": "23",
+      "title": "Spendetauglichkeit, Testpflicht und Vorgehen bei reaktivem Testergebnis",
+      "content": "1 Die Spendetauglichkeit muss von einer Ärztin oder einem Arzt mit der dafür notwendigen Erfahrung oder von einer für diese Tätigkeit ausgebildeten Person, die unter der Aufsicht einer Ärztin oder eines Arztes steht, beurteilt werden. 2 Für die Beurteilung der Spendetauglichkeit, den Ausschluss von der Spende, die Testpflicht, die durchzuführenden Tests, die Testanforderungen bei Geweben oder Zellen sowie das Vorgehen bei reaktivem Testergebnis gelten die Bestimmungen nach Anhang 5."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "5. Abschnitt: Sorgfaltspflichten",
+      "section": "24",
+      "title": "Mitteilung eines reaktiven Testergebnisses an die spendende Person",
+      "content": "1 Ein reaktives Testergebnis darf der spendenden Person erst mitgeteilt werden, wenn es durch geeignete Methoden bestätigt worden ist. 2 Die Mitteilung ist mit dem Angebot einer angemessenen Beratung und Betreuung zu verbinden. 3 Die spendende Person kann auf die Mitteilung eines reaktiven Testergebnisses nur dann verzichten, wenn von ihr kein Infektionsrisiko für andere Personen ausgeht."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "5. Abschnitt: Sorgfaltspflichten",
+      "section": "25",
+      "title": "Kennzeichnung von gentechnisch veränderten Organen, Geweben oder Zellen",
+      "content": "Organe, Gewebe oder Zellen, die gentechnisch verändert wurden, müssen mit den Worten «gentechnisch verändert» oder «genetisch verändert» gekennzeichnet werden."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "5. Kapitel:",
+      "section": "26",
+      "title": "",
+      "content": "Für klinische Versuche der Transplantation menschlicher Organe, Gewebe und Zellen ist die Verordnung vom 20. September 2013 über klinische Versuche anwendbar. SR 810.305"
+    },
+    {
+      "provision_ref": "art2733",
+      "chapter": "5. Kapitel:",
+      "section": "2733",
+      "title": "",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "6. Kapitel: Umgang mit embryonalen oder fötalen Geweben oder Zellen",
+      "section": "34",
+      "title": "Fachliche und betriebliche Bewilligungsvoraussetzungen",
+      "content": "Die Bewilligung für die Transplantation von embryonalen oder fötalen Geweben oder Zellen wird erteilt, wenn: a. der Betrieb über eine fachtechnisch verantwortliche Person mit der notwendigen Sachkenntnis und Erfahrung verfügt, die in ihrem Tätigkeitsbereich weisungsbefugt ist und die Verantwortung für die Qualität trägt; b. das Qualitätssicherungssystem dem Stand von Wissenschaft und Technik entspricht. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "6. Kapitel: Umgang mit embryonalen oder fötalen Geweben oder Zellen",
+      "section": "35",
+      "title": "Information der Spenderin",
+      "content": "1 Die Spenderin embryonaler oder fötaler Gewebe oder Zellen, die bei einem Schwangerschaftsabbruch oder einem Spontanabort gewonnen wurden, muss von einer ärztlichen Fachperson umfassend und verständlich informiert werden, namentlich über: a. den Zweck und die Art der Verwendung der Gewebe oder Zellen; b. diagnostische Untersuchungen, die an ihr zum Schutz der Empfängerin oder des Empfängers vorgenommen werden. 2 Der Spenderin muss für den Entscheid über die Zustimmung eine angemessene Bedenkzeit eingeräumt werden."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "6. Kapitel: Umgang mit embryonalen oder fötalen Geweben oder Zellen",
+      "section": "36",
+      "title": "Information des betroffenen Paares",
+      "content": "1 Das betroffene Paar nach Artikel 40 des Transplantationsgesetzes muss von einer ärztlichen Fachperson umfassend und verständlich informiert werden, namentlich über: a. den Zweck und die Art der Verwendung der Gewebe oder Zellen des überzähligen Embryos; b. diagnostische Untersuchungen, die am betroffenen Paar oder am überzähligen Embryo zum Schutz der Empfängerin oder des Empfängers vorgenommen werden. 2 Dem betroffenen Paar muss für den Entscheid über die Zustimmung eine angemessene Bedenkzeit eingeräumt werden."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "7. Kapitel: Bewilligungsverfahren",
+      "section": "37",
+      "title": "Gesuch",
+      "content": "1 Das Gesuch um Erteilung einer Bewilligung ist beim BAG einzureichen. 2 … 3 Für die Transplantation gentechnisch veränderter Organe, Gewebe oder Zellen im Rahmen einer Standardbehandlung oder für deren Abgabe an Dritte sind vorzulegen: a. eine wissenschaftliche Dokumentation, welche die Ergebnisse der klinischen und präklinischen Versuche enthält; b. Angaben zu den Risiken der Organe, Gewebe oder Zellen für Mensch, Tier und Umwelt, einschliesslich der im Rahmen der Einschliessungsverordnung vom 25. August 1999 oder in einem ausländischen Verfahren für geschlossene Systeme erstellten Risikoermittlungen; c. eine Bewertung des mit der Transplantation verbundenen Risikos für Mensch, Tier und Umwelt; d. eine Beschreibung der für den Schutz von Mensch, Tier und Umwelt notwendigen Sicherheitsmassnahmen, namentlich zur Verhinderung einer Freisetzung von Mikroorganismen in die Umwelt während und nach der Transplantation, beim Transport, bei der Lagerung und der Entsorgung. 4 … 5 Für die Transplantation embryonaler oder fötaler Gewebe oder Zellen im Rahmen einer Standardbehandlung sind vorzulegen: a. eine wissenschaftliche Dokumentation, welche die Ergebnisse der klinischen und präklinischen Versuche enthält; b. Unterlagen und Formulare betreffend die Information und die Zustimmung der Spenderin oder des betroffenen Paares. Aufgehoben durch Anhang 6 Ziff. 1 der V vom 20. Sept. 2013 über klinische Versuche, mit Wirkung seit 1. Jan. 2014 ( AS 2013 3407 ). SR 814.912 Fassung gemäss Anhang 6 Ziff. 1 der V über klinische Versuche vom 20. Sept. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3407 ). Aufgehoben durch Anhang 6 Ziff. 1 der V vom 20. Sept. 2013 über klinische Versuche, mit Wirkung seit 1. Jan. 2014 ( AS 2013 3407 )."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "7. Kapitel: Bewilligungsverfahren",
+      "section": "38",
+      "title": "Wissenschaftliche Beurteilung von Bewilligungsgesuchen",
+      "content": "1 Das BAG kann für die wissenschaftliche Beurteilung von Bewilligungsgesuchen unabhängige Expertinnen und Experten oder unabhängige Gremien beiziehen. 2 Es bringt Gutachten zu Gesuchen betreffend die Bewilligung klinischer Versuche der zuständigen Ethikkommission zur Kenntnis."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "7. Kapitel: Bewilligungsverfahren",
+      "section": "39",
+      "title": "Konsultationsverfahren",
+      "content": "1 Das BAG entscheidet über Gesuche für die Transplantation und die Abgabe an Dritte von gentechnisch veränderten Organen, Geweben oder Zellen, nachdem es die Stellungnahme des BAFU, der Eidgenössischen Fachkommission für biologische Sicherheit (EFBS) und der Eidgenössischen Ethikkommission für die Biotechnologie im Ausserhumanbereich (EKAH) eingeholt hat. 2 Es stellt seinen Entscheid dem BAFU, der EFBS, der EKAH und bei klinischen Versuchen zudem der zuständigen Ethikkommission zu."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "7. Kapitel: Bewilligungsverfahren",
+      "section": "40",
+      "title": "Inspektion",
+      "content": "1 Das BAG stellt durch eine Inspektion fest, ob die Voraussetzungen für die Erteilung einer Bewilligung erfüllt sind. Es kann auf eine Inspektion verzichten, wenn anderweitig nachgewiesen ist, dass die Bewilligungsvoraussetzungen erfüllt sind. 2 Das BAG kann jederzeit weitere Inspektionen durchführen. Es kann die Kantone oder Dritte mit der Durchführung von Inspektionen beauftragen."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Sachlicher und zeitlicher Umfang der Bewilligung",
+      "content": "1 Die Bewilligung wird auf die Gesuchstellerin oder den Gesuchsteller ausgestellt; sie ist nicht übertragbar. 2 Sie ist längstens fünf Jahre gültig. 3 … Aufgehoben durch Anhang 6 Ziff. 1 der V vom 20. Sept. 2013 über klinische Versuche, mit Wirkung seit 1. Jan. 2014 ( AS 2013 3407 )."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Sistierung und Entzug",
+      "content": "Das BAG kann die Bewilligung sistieren oder entziehen, wenn: a. die Voraussetzungen für die Erteilung nicht oder nicht mehr erfüllt sind; b. die Inhaberin oder der Inhaber der Bewilligung ihre oder seine Pflichten nicht erfüllt; c. neue Informationen hinsichtlich der Unbedenklichkeit oder der wissenschaftlichen Grundlage dies erfordern."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Veröffentlichung",
+      "content": "Das BAG veröffentlicht: a. einmal jährlich die Inhaberinnen und Inhaber von Bewilligungen mit der Umschreibung der bewilligten Tätigkeit; b. innerhalb von 30 Tagen die Entscheide über Erteilung, Entzug oder Sistierung der Bewilligung und die Mitteilungen betreffend das Erlöschen der Bewilligung."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Technische Vorschriften über das Bewilligungs- und Meldewesen",
+      "content": "Das Eidgenössische Departement des Innern kann technische Vorschriften über das Bewilligungs- und Meldewesen und die Unterlagen erlassen; es berücksichtigt dabei die entsprechenden internationalen Normen."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "1. Abschnitt: Aufgaben der Kantone und der für die lokale Koordination zuständigen Personen",
+      "section": "45",
+      "title": "Definition und Sicherstellung von Prozessen",
+      "content": "1 Die Kantone sorgen dafür, dass Spitäler mit einer Intensivpflegestation namentlich die folgenden Prozesse definieren und deren Ablauf rund um die Uhr sicherstellen: a. Erkennung und Betreuung möglicher Spenderinnen und Spender von Organen, Geweben oder Zellen sowie Meldung solcher Personen an die für die lokale Koordination zuständige Person; b. Todesfeststellung; c. Information und Betreuung der nächsten Angehörigen, einschliesslich Einholung der Zustimmung. 2 Sie sorgen dafür, dass Spitäler mit einer Intensivpflegestation die für die lokale Koordination zuständigen Personen der Nationalen Zuteilungsstelle melden."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "1. Abschnitt: Aufgaben der Kantone und der für die lokale Koordination zuständigen Personen",
+      "section": "46",
+      "title": "Aufgaben in Transplantationszentren",
+      "content": "1 Die für die lokale Koordination zuständige Person muss sicherstellen, dass im betreffenden Transplantationszentrum die folgenden Prozesse korrekt eingeleitet und koordiniert werden: a. Meldung von Patientinnen und Patienten, die in die Warteliste aufzunehmen oder daraus zu streichen sind, an die Nationale Zuteilungsstelle; b. Erkennung und Betreuung möglicher Spenderinnen und Spender von Organen, Geweben oder Zellen; c. Todesfeststellung; d. Information und Betreuung der nächsten Angehörigen, einschliesslich Einholung der Zustimmung; e. Meldung von Spenderinnen und Spendern an die Nationale Zuteilungsstelle; f. Meldung von Organtransplantationen an die Nationale Zuteilungsstelle; g. Information von Gewebe- und Zellbanken über Spenderinnen und Spender. 2 Sie ist zuständig für die Qualitätssicherung und Kontrolle der in Absatz 1 aufgeführten Prozesse. 3 Sie arbeitet mit der Nationalen Zuteilungsstelle, anderen Transplantationszentren, den Spitälern sowie mit Gewebe- und Zellbanken zusammen."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "1. Abschnitt: Aufgaben der Kantone und der für die lokale Koordination zuständigen Personen",
+      "section": "47",
+      "title": "Aufgaben in Spitälern",
+      "content": "1 Die für die lokale Koordination zuständige Person muss sicherstellen, dass im betreffenden Spital die folgenden Prozesse korrekt eingeleitet und koordiniert werden: a. Erkennung und Betreuung möglicher Spenderinnen und Spender von Organen, Geweben oder Zellen; b. Todesfeststellung; c. Information und Betreuung der nächsten Angehörigen, einschliesslich Einholung der Zustimmung; d. Meldung von Spenderinnen und Spendern an die Nationale Zuteilungsstelle; e. Information von Gewebe- und Zellbanken über Spenderinnen und Spender; f. Entnahme. 2 Sie ist zuständig für die Qualitätssicherung und Kontrolle der in Absatz 1 aufgeführten Prozesse. 3 Sie arbeitet mit der Nationalen Zuteilungsstelle, den Transplantationszentren sowie mit Gewebe- und Zellbanken zusammen."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "2. Abschnitt: Datenschutz",
+      "section": "48",
+      "title": "Bearbeiten von Personendaten",
+      "content": "1 Die mit dem Vollzug beauftragten Stellen sind befugt, die Personendaten zu bearbeiten, die sie benötigen, um die ihnen nach dem Transplantationsgesetz übertragenen Aufgaben zu erfüllen. 2 Sie dürfen Daten, die nicht vertraulich sind, an ausländische Behörden und Institutionen sowie internationale Organisationen weitergeben. 3 Alle Datenbearbeitungen sowie die Rechte der Personen, deren Daten bearbeitet werden, richten sich nach dem Bundesgesetz vom 19. Juni 1992 über den Datenschutz. SR 235.1"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "2. Abschnitt: Datenschutz",
+      "section": "49",
+      "title": "Datensicherheit",
+      "content": "Die mit dem Vollzug beauftragten Stellen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, um die bearbeiteten Personendaten vor Verlust und unbefugter Bearbeitung, Kenntnisnahme oder Entwendung durch Dritte zu schützen. Sie erstellen namentlich die nach der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz notwendigen Bearbeitungsreglemente. SR 235.11"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "58",
+      "section": "49",
+      "title": "a",
+      "content": "1 Das Schweizerische Heilmittelinstitut übt die Aufsicht über die Aufbereitung, die Weitergabe, die Lagerung sowie die Ein- oder Ausfuhr von Geweben und Zellen zur autogenen Transplantation aus. 2 Die Aufsicht beinhaltet die Kontrolle und die Anordnung von Massnahmen nach den Artikeln 63 und 65 des Transplantationsgesetzes. 3 Das Schweizerische Heilmittelinstitut erhebt die Gebühren für die Aufsicht nach der Heilmittel-Gebührenverordnung vom 2. Dezember 2011. SR 812.214.5"
+    },
+    {
+      "provision_ref": "art49b",
+      "chapter": "60",
+      "section": "49b",
+      "title": "b Zweck und Inhalt des Registers",
+      "content": "1 Das Register der Lebendspende-Nachsorgestelle dient zur Nachverfolgung des Gesundheitszustands der Spenderinnen und Spender. 2 Es enthält Daten zu den Lebendspenderinnen und Lebendspendern, die: a. nach Artikel 15 b gemeldet werden; b. von der Lebendspende-Nachsorgestelle im Rahmen der Nachverfolgung des Gesundheitszustands generiert werden. 3 Die Lebendspende-Nachsorgestelle kann die medizinischen Daten der Spenderinnen und Spender von Blut-Stammzellen in pseudonymisierter Form im Register der Europäischen Gesellschaft für Blut- und Knochenmarktransplantation bearbeiten."
+    },
+    {
+      "provision_ref": "art49c",
+      "chapter": "60",
+      "section": "49c",
+      "title": "c Aufgaben der Lebendspende-Nachsorgestelle",
+      "content": "1 Die Lebendspende-Nachsorgestelle trägt als Inhaberin der Datensammlung die Verantwortung für das Register. Sie ist für die Sicherheit des Registers und die Rechtmässigkeit der Bearbeitung der Personendaten verantwortlich. 2 Sie hat folgende Aufgaben: a. Sie stellt die Programmierung, den Betrieb und die Weiterentwicklung des Registers sicher. b. Sie vergibt die Zugriffsberechtigungen und kontrolliert die Zugriffe der Nutzerinnen und Nutzer. c. Sie unterstützt die Nutzerinnen und Nutzer bei der Lösung von Anwendungsproblemen. d. Sie erstellt Statistiken zur Lebendspende von Organen und Blut-Stammzellen."
+    },
+    {
+      "provision_ref": "art49d",
+      "chapter": "60",
+      "section": "49d",
+      "title": "d Eintragung von Daten",
+      "content": "1 Die folgenden Stellen tragen zur Erfüllung ihrer Aufgaben die nachstehenden Daten zur Lebendspende von Organen online im Register ein: a. die Transplantationszentren: die Daten nach Anhang 2 Ziffern 1.1, 2 und 3 Buchstaben a und b; b. die Lebendspende-Nachsorgestelle: die Daten zur aktuellen beruflichen Tätigkeit und die Selbsteinschätzung der psychischen und physischen Leistungsfähigkeit vor der Entnahme sowie die Daten, die sie im Rahmen der Nachverfolgung des Gesundheitszustands der Spenderinnen und Spender generiert. 2 Die Lebendspende-Nachsorgestelle trägt die Daten zur Lebendspende von Blut-Stammzellen im Register ein."
+    },
+    {
+      "provision_ref": "art49e",
+      "chapter": "60",
+      "section": "49e",
+      "title": "e Einsicht in Daten",
+      "content": "1 Die folgenden Stellen können zur Erfüllung ihrer Aufgaben die nachstehenden Daten zur Lebendspende von Organen online im Register einsehen: a. die Transplantationszentren: 1. die Daten von Spenderinnen und Spendern, die sie selber in das Register eingetragen haben, 2. die medizinischen Daten von Spenderinnen und Spendern, die zur Nachkontrolle bei ihnen erfasst sind, 3. die anonymisierten medizinischen Daten aller anderen Spenderinnen und Spender; b. die Lebendspende-Nachsorgestelle: alle Daten; c. die gemeinsame Einrichtung: die Daten nach Anhang 2 Ziffern 2 und 3; d. das BAG: 1. die anonymisierten Daten aller Spenderinnen und Spender, 2. die Auswertungen und Statistiken. 2 Nur die Lebendspende-Nachsorgestelle hat Einsicht in die Daten zur Lebendspende von Blut-Stammzellen."
+    },
+    {
+      "provision_ref": "art49f",
+      "section": "49f",
+      "title": "f Zugriffsberechtigte Personen",
+      "content": "1 Online-Zugriff auf die im Register erfassten Daten zur Lebendspende von Organen haben: a. bei der Lebendspende-Nachsorgestelle: 1. die Leiterin oder der Leiter, 2. die administrative Leiterin oder der administrative Leiter, 3. die Studienkoordinatorin oder der Studienkoordinator, 4. die medizinische Beraterin oder der medizinische Berater, 5. die Datenmanagerin oder der Datenmanager; b. in den Transplantationszentren: 1. die für die lokale Koordination zuständigen Personen, 2. die für die Organentnahme zuständigen Ärztinnen und Ärzte, 3. die für die Meldung von Daten über die Lebendspende von Organen zuständigen Personen; c. bei der gemeinsamen Einrichtung: die Mitarbeiterinnen und Mitarbeiter, die den Lebendspende-Nachsorgefonds führen; d. im BAG: die für den Vollzug zuständigen Mitarbeiterinnen und Mitarbeiter der Sektion Transplantation und Fortpflanzungsmedizin. 2 Zugriff auf die Daten zur Lebendspende von Blut-Stammzellen haben bei der Lebendspende-Nachsorgestelle: die für die Nachsorge zuständigen Mitarbeiterinnen und Mitarbeiter der Abteilung Swiss Blood Stem Cells."
+    },
+    {
+      "provision_ref": "art49g",
+      "section": "49g",
+      "title": "g Bekanntgabe von Daten",
+      "content": "Sind nach einer Lebendspende aufgrund der Untersuchungsergebnisse Massnahmen angezeigt, so stellt die Lebendspende-Nachsorgestelle der behandelnden Ärztin oder dem behandelnden Arzt die Verlaufsdaten mit einem Therapievorschlag zur Verfügung."
+    },
+    {
+      "provision_ref": "art49h",
+      "section": "49h",
+      "title": "h Auskunfts- und Berichtigungsrecht sowie Bearbeitung der Daten zu Forschungszwecken",
+      "content": "1 Begehren um Auskunft über Personendaten und um Berichtigung sind an die Lebendspende-Nachsorgestelle zu richten. 2 Für die Bearbeitung von Daten zu Forschungszwecken gilt Artikel 34 m der Organzuteilungsverordnung vom 16. März 2007 sinngemäss. SR 810.212.4"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "3. Abschnitt: Stammzellenregister",
+      "section": "50",
+      "title": "Führung des Registers",
+      "content": "1 Die Blutspende SRK Schweiz AG (Blutspende SRK) wird mit der Führung des Stammzellenregisters nach Artikel 62 des Transplantationsgesetzes beauftragt. 2 Das BAG schliesst mit der Blutspende SRK zu diesem Zweck eine Vereinbarung ab, die namentlich auch die finanzielle Abgeltung der übertragenen Aufgaben durch den Bund regelt. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) angepasst. Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "3. Abschnitt: Stammzellenregister",
+      "section": "51",
+      "title": "Aufgaben",
+      "content": "1 Die Blutspende SRK bearbeitet alle Anfragen aus dem In- und Ausland, mit denen für eine Patientin oder einen Patienten gewebeverträgliche Blut-Stammzellen gesucht werden. 2 Sie koordiniert die Entnahme, die Gewebetypisierung und die Transplantation von Blut-Stammzellen. 3 Sie erfüllt ihre Aufgaben nach dem Stand von Wissenschaft und Technik. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "3. Abschnitt: Stammzellenregister",
+      "section": "52",
+      "title": "Meldepflicht",
+      "content": "1 Wer die zur Abklärung der Gewebeübereinstimmung notwendigen Daten bearbeitet, muss diese der Blutspende SRK melden. 2 Die Meldung erfolgt in pseudonymisierter Form und umfasst namentlich: a. den Code der Spenderinnen und Spender; b. das Geburtsdatum; c. das Geschlecht; d. den Infektionsstatus bezüglich des Zytomegalie-Virus; e. die Gewebemerkmale."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "53",
+      "title": "Nachführung der Anhänge",
+      "content": "1 Das Eidgenössische Departement des Innern kann die Anhänge 3 und 6 nachführen. Es berücksichtigt dabei die internationale Entwicklung, die Entwicklung der Technik und der Kosten und die Teuerung. 2 Es nimmt Nachführungen, die sich als technische Handelshemmnisse auswirken können, im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung vor. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "54",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 26. Juni 1996 über die Kontrolle von Transplantaten wird aufgehoben. [ AS 1996 2309 , 1999 1403 , 2001 1508 3294 Ziff. II 10, 2002 82 ]"
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "55",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird in Anhang 7 geregelt."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "56",
+      "title": "Übergangsbestimmungen zur Änderung vom 18. Oktober 2017",
+      "content": "1 Die Lebendspende-Nachsorgestelle meldet der gemeinsamen Einrichtung bis spätestens 14. Februar 2018 die Lebendspenden, die vor dem Inkrafttreten der Änderung vom 18. Oktober 2017 erfolgt sind. Sie legt der Meldung für Lebendspenden von Organen die Daten nach Artikel 15 c bei. 2 Die gemeinsame Einrichtung berechnet für jede Lebendspende eines Organs, die vor dem 1. Januar 2012 erfolgt ist, den Fehlbetrag zur Pauschale nach Artikel 12 a Absatz 1 unter Berücksichtigung der erwarteten verbleibenden Lebenszeit der Lebendspenderin oder des Lebendspenders und der jährlichen Kosten der Nachsorge und fordert ihn ein. Sie berechnet die erwartete verbleibende Lebenszeit nach den Periodensterbetafeln des Bundesamts für Statistik für die Schweiz (1900–2150). 3 Institutionen, die vor dem Inkrafttreten der Änderung vom 18. Oktober 2017 die Nachverfolgung des Gesundheitszustands der Spenderinnen und Spender von Organen oder Blut-Stammzellen sichergestellt haben, überweisen die finanziellen Mittel, die sie von den Versicherern dafür erhalten haben, dem Lebendspende-Nachsorgefonds bis spätestens 14. Februar 2018. 4 Sie legen dem Lebendspende-Nachsorgefonds gleichzeitig eine Abrechnung über die erhaltenen finanziellen Mittel und deren Verwendung vor. Die Abrechnung muss folgende Angaben enthalten: a. Anzahl und Höhe der erhaltenen Pauschalen; b. bisher angefallene Kosten für die Vermögensverwaltung und Erträge aus der Anlage dieser Mittel; c. Angaben zu fälligen, aber bisher nicht entrichteten Pauschalen; d. Höhe der bisher verwendeten finanziellen Mittel, inklusive Angabe des jährlichen Durchschnitts des prozentualen Anteils der medizinischen und administrativen Registerführungskosten. 5 Die gemeinsame Einrichtung überprüft die Abrechnung nach Absatz 4 auf ihre Nachvollziehbarkeit und weist sie gegebenenfalls zur Überarbeitung zurück. 6 Die jährliche Abgeltung des Bundes reduziert sich jeweils um die für das betreffende Jahr bestimmten Zahlungen für die administrativen Registerkosten, die von den Versicherern mit den Pauschalen vor dem Inkrafttreten der Änderung vom 18. Oktober 2017 geleistet wurden. 7 Die gemeinsame Einrichtung entrichtet der Lebendspende-Nachsorgestelle die für das betreffende Jahr bestimmten Zahlungen der Versicherer nach Absatz 6 für die administrativen Registerkosten. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ( AS 2017 5631 ). Die Periodensterbetafeln für die Schweiz (1900–2150) nach Jahr, Geschlecht und Alter können abgerufen werden unter www.bfs.admin.ch ˃ Statistiken finden > Kataloge und Datenbanken > Daten > Thema: Geburten und Todesfälle 01.04."
+    },
+    {
+      "provision_ref": "art56a",
+      "section": "56a",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 10. Sept. 2008 ( AS 2008 4461 ). Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 15. Nov. 2017 ( AS 2017 5631 )."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2007 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Umgang:",
+      "definition": "Umgang: jede Tätigkeit mit Organen, Geweben und Zellen, namentlich deren Entnahme, Testung, Aufbereitung, Ein- und Ausfuhr, Lagerung und Transplantation;",
+      "source_provision": "art2"
+    }
+  ]
+}

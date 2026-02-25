@@ -1,0 +1,32 @@
+{
+  "id": "sr-814-201-81",
+  "type": "statute",
+  "title": "Verordnung des UVEK vom 10. Januar 2000 über die Genehmigung internationaler Beschlüsse und Empfehlungen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2000/184/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Genehmigung",
+      "content": "Die in Anhang 1 aufgeführten internationalen Beschlüsse und die in Anhang 2 aufgeführten internationalen Empfehlungen werden genehmigt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Wirkung der Genehmigung",
+      "content": "1 Die genehmigten Beschlüsse sind für die ganze Schweiz verbindlich. 2 Die genehmigten Empfehlungen sind nicht verbindlich. Den zuständigen Behörden wird empfohlen, sie beim Vollzug von Umweltschutzvorschriften zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. März 2000 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,225 @@
+{
+  "id": "sr-955-01",
+  "type": "statute",
+  "title": "Verordnung vom 11. November 2015 über die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung (Geldwäschereiverordnung, GwV)",
+  "title_en": "Ordinance of 11 November 2015 on Combating Money Laundering and Terrorist Financing (Anti-Money Laundering Ordinance, AMLO)",
+  "short_name": "GwV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/791/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "This Ordinance regulates: a. the requirements for the exercise on a professional basis of the activity as a financial intermediary in accordance with Article 2 paragraph 3 AMLA; a bis . the duties in the event of a suspicion of money laundering (Art. 9–11 AMLA) which financial intermediaries in accordance with Article 2 paragraphs 2 and 3 AMLA must fulfil; b. the due diligence and reporting duties that dealers must fulfil in accordance with Articles 8 a and 9 paragraph 1 bis AMLA; c. supervision of financial intermediaries in accordance with Article 2 paragraph 3 AMLA by recognised self-regulatory organisations. Amended by No I of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ( AS 2022 552 ). Inserted by No I of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ( AS 2022 552 ). Inserted by Annex 1 No II 12 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ( AS 2019 4633 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Scope of application",
+      "content": "1 This Ordinance applies to: a. financial intermediaries in accordance with Article 2 paragraphs 2 and 3 AMLA operating in or from Switzerland; b. dealers in accordance with Article 2 paragraph 1 letter b AMLA operating in or from Switzerland. 2 The following are not financial intermediaries under Article 2 paragraph 3 AMLA: a. Persons engaged in the following activities: 1. the purely physical transport or the purely physical storage of assets, subject to Article 6 paragraph 1 letter c, 2. debt enforcement activities, 3. the transfer of assets as an ancillary service to a main contractual service, 4. the operation of Pillar 3a pension schemes by bank foundations or insurance companies, 5. the provision of services among group companies; b. Auxiliary persons to financial intermediaries who have an authorisation for their activities in Switzerland or who are affiliated to a self-regulatory organisation (SRO), provided they: 1. are carefully selected by the financial intermediary and are subject to its instructions and control, 2. are included in the financial intermediary's organisational measures for the prevention of money laundering and terrorist financing in accordance with Article 8 AMLA and receive appropriate initial and ongoing training, 3. act exclusively in the name of the financial intermediary and for its account, 4. are compensated by the financial intermediary and not by the end client, 5. in the case of money or value transfer business, act only for a single authorised financial intermediary or one affiliated to an SRO, and 6. have concluded a written agreement with the financial intermediary on compliance with the above requirements. Amended by No I of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ( AS 2022 552 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 Activities",
+      "section": "3",
+      "title": "Credit transactions",
+      "content": "In particular, the following are not deemed to be credit transactions pursuant to Article 2 paragraph 3 letter a AMLA: a. borrowing; b. the granting of credit free of interest and fees; c. the granting of credit between a company and a shareholder, provided that the shareholder holds at least 10 per cent of the capital or voting rights in the company; d. the granting of credit between employers and employees, provided that the employer is obliged to pay social security contributions for the employees involved in the credit relationship; e. credit relationships between related parties (Art. 7 para. 5); f. the granting of credit that is accessory to another legal transaction; g. operating leasing; h. contingent liabilities in favour of third parties; i. commercial financing if its repayment is not made by the customer."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 Activities",
+      "section": "4",
+      "title": "Services related to payment transactions",
+      "content": "1 A payment transaction service within the meaning of Article 2 paragraph 3 letter b AMLA exists in particular if the financial intermediary: a. transfers liquid financial assets to a third party on behalf of its customer and thereby takes physical possession of these assets, has them credited to its own account or orders the transfer of the assets in the name and on behalf of the customer; b. assists in the transfer of virtual currencies to a third party, provided that it maintains a permanent business relationship with the customer or that it exercises power of disposal over virtual currencies on behalf of the customer, and it does not provide the service exclusively to appropriately supervised financial intermediaries; c. issues or administers means of payment other than cash which its customer uses to make payments to third parties; d. carries out the money or value transfer transaction. 1bis Means of payment other than cash include in particular: a. credit cards; b. travellers’ cheques; c. virtual currencies that are actually used or are intended to be used by the organiser or issuer as a means of payment for the purchase of goods or services or serve the transfer of money and value. 2 A money or value transfer transaction is the transfer of assets by accepting cash, precious metals, virtual currencies, cheques or other means of payment and: a. the payment of a corresponding sum in cash, precious metals or virtual currencies; or b. a cashless transfer via a payment or settlement system. Amended by No I 8 of the Ordinance of 18 June 2021 on the Adaptation of Federal Law to Developments in the Technology of Distributed Electronic Registers, in force since 1 Aug. 2021 ( AS 2021 400 ). Inserted by No I 8 of the Ordinance of 18 June 2021 on the Adaptation of Federal Law to Developments in the Technology of Distributed Electronic Registers, in force since 1 Aug. 2021 ( AS 2021 400 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 1 Activities",
+      "section": "5",
+      "title": "Trading activity",
+      "content": "1 A trading activity within the meaning of Article 2 paragraph 3 letter c AMLA is deemed to be: a. the purchase and sale for the account of third parties of banknotes, coins, foreign exchange and banking precious metals as well as the exchange of money; b. trading for one’s own account coins and banknotes that are in circulation; c. trading in commodities on an exchange for the account of third parties; d. off-exchange trading in commodities for the account of third parties, provided that the commodities have such a high degree of standardisation that they can be liquidated at any time; e. trading for one’s own account in banking precious metals. 2 Trading in securities is only considered a trading activity if it requires an authorisation in accordance with the Financial Institutions Act of 15 June 2018 (FinIA). 3 Accessory currency exchange is not considered a trading activity. SR 954.1 Amended by Annex 1 No II 12 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ( AS 2019 4633 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Other activities",
+      "content": "1 The following activities are deemed to be activities within the meaning of Article 2 paragraph 3 letters f and g AMLA if they are carried out for the account of a third party: a. the management of securities and financial instruments; b. the execution of investment orders; c. the safekeeping of securities; d. the activity as a governing body of domiciliary companies. 2 For the purposes of this Ordinance, domiciliary companies are legal entities, companies, institutions, foundations, trusts, fiduciary undertakings and similar associations that do not engage in commercial or manufacturing business or other business conducted in a commercial manner. 3 Companies are not deemed to be domiciliary companies if: a. they have as their object the safeguarding of the interests of their members or their beneficiaries by mutual self-help or pursue political, religious, scientific, artistic, charitable, social or similar purposes; b. they hold a majority interest in one or more operationally active companies and their purpose is not primarily the management of third-party assets (holding companies). Amended by Annex 1 No II 12 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ( AS 2019 4633 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Professional Activity",
+      "section": "7",
+      "title": "General criteria",
+      "content": "1 A financial intermediary carries on its business on a professional basis if it: a. thereby achieves gross proceeds of more than 50,000 francs per calendar year; b. enters into business relationships with more than 20 customers per calendar year that are not limited to a one-off activity, or maintains at least 20 such relationships per calendar year; c. has unlimited power of disposal over third-party assets that exceed 5 million francs in value at any given point in time; or d. carries out transactions whose total volume exceeds 2 million francs per calendar year. 2 For the calculation of the transaction volume in accordance with paragraph 1 letter d, inflows of assets and regroupings within the same custody account shall not be taken into account. In the case of bilaterally binding contracts, only the consideration provided by the customer shall be taken into account. 3 Activities for institutions and persons in accordance with Article 2 paragraph 4 AMLA shall not be taken into account for the assessment of whether an intermediary is acting on a professional basis. 4 The activity for related persons shall only be taken into account for the assessment of whether an intermediary is acting on a professional basis if gross proceeds of more than 50,000 francs are achieved in the calendar year. 5 Related parties are defined as: a. relatives by blood or by marriage in direct line; b. relatives up to the third degree of collateral line; c. spouses and registered partners; d. co-heirs until completion of the division of the estate; e. remaindermen in relation to estates and legacies pursuant to Article 488 of the Civil Code; f. persons who live with a financial intermediary in a long-term cohabitation relationship. SR 210"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Professional Activity",
+      "section": "8",
+      "title": "Credit transactions",
+      "content": "1 Credit transactions in accordance with Article 2 paragraph 3 letter a AMLA are carried out on a professional basis if: a. gross proceeds of more than 250,000 francs are generated in the calendar year; and b. a credit volume of more than 5 million francs has been granted at any given point in time. 2 The gross proceeds of the credit transaction shall be deemed to be all income from credit transactions after deduction of the portion which serves as the credit repayment. 3 If a person engages in both credit transactions and another activity that qualifies him or her as a financial intermediary, the issue of a professional basis must be determined separately for each activity. If a professional basis applies to one activity, both activities are deemed to be carried out on a professional basis."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 2 Professional Activity",
+      "section": "9",
+      "title": "Transfer of money or value",
+      "content": "The transfer of money or value is always considered to be carried out on a professional basis, unless the activity is carried out for a related person and gross proceeds of no more than 50,000 francs per calendar year are generated."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 2 Professional Activity",
+      "section": "10",
+      "title": "Trading activity",
+      "content": "For trading activities, the criterion under Article 7 paragraph 1 letter a shall be assessed on the basis of gross profit instead of gross proceeds."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 2 Professional Activity",
+      "section": "11",
+      "title": "Change to an activity on a professional basis",
+      "content": "1 Any person changing from a non-professional activity as a financial intermediary to an activity carried out on a professional basis as a financial intermediary in accordance with Article 2 paragraph 3 AMLA must: a. immediately comply with the duties under Articles 3-11 AMLA; and b. submit an application for affiliation to an SRO within two months of the change. 2 Until it has affiliated to an SRO, such a financial intermediary shall be prohibited from carrying out acts as a financial intermediary that go further than those that are mandatory for the preservation of assets. Amended by No I of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ( AS 2022 552 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Withdrawal and exclusion from an SRO",
+      "content": "1 If a financial intermediary that wishes to continue to act on a professional basis as a financial intermediary withdraws from or is excluded from an SRO, it must submit an application for affiliation to another SRO within two months of withdrawing or after the legally binding exclusion decision. 2 Until receipt of the decision on the application, it may continue to carry on its activity only within the scope of the existing business relationships. 3 If it has not submitted an application to an SRO within the prescribed period or if it is refused affiliation, it shall be prohibited from continuing to act as a financial intermediary. Amended by No I of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ( AS 2022 552 ). Amended by No I of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ( AS 2022 552 )."
+    },
+    {
+      "provision_ref": "art12a",
+      "chapter": "Section 3",
+      "section": "12a",
+      "title": "a Prohibition of termination of the business relationship",
+      "content": "1 A financial intermediary may not terminate a business relationship on its own initiative if the requirements for a report under Article 9 AMLA are met or if it exercises its right to report under Article 305 ter paragraph 2 of the Swiss Criminal Code (SCC). 2 If there are specific indications that freezing measures from an authority are imminent, the financial intermediary shall be prohibited: a. from terminating a business relationship in respect of which it decides not to exercise the right to report under Article 305 ter paragraph 2 SCC, although the requirements are met; b. from allowing the withdrawal of significant assets. SR 311.0"
+    },
+    {
+      "provision_ref": "art12b",
+      "chapter": "Section 3",
+      "section": "12b",
+      "title": "b Termination of the business relationship",
+      "content": "1 Except in the case provided for in Article 9 b paragraph 1 AMLA, the financial intermediary may terminate the business relationship if: a. the Money Laundering Reporting Office Switzerland (MROS) notifies the financial intermediary within 40 working days of a report being made under Article 9 paragraph 1 letter a AMLA or Article 305 ter paragraph 2 SCC that it is transmitting the reported information to a prosecution authority and the financial intermediary does not receive a ruling from the prosecution authority within five working days of this notification; b. it does not receive a ruling from the prosecution authority within five working days of a report under Article 9 paragraph 1 letter c AMLA; c. it is informed of the lifting of a freeze ordered by the prosecution authority on the basis of a report under Article 9 paragraph 1 AMLA or Article 305 ter paragraph 2 SCC, unless a prosecution authority informs it otherwise. 2 If the financial intermediary terminates a business relationship in respect of which it decides not to exercise the right to report under Article 305 ter paragraph 2 SCC, although the requirements are met, it may only permit the withdrawal of significant assets in a form that allows the prosecution authorities to follow their trail. 3 In the cases referred to in paragraph 1, the termination of the business relationship and the date of termination need not be communicated to MROS. SR 311.0"
+    },
+    {
+      "provision_ref": "art12c",
+      "chapter": "Section 3",
+      "section": "12c",
+      "title": "c Information to a financial intermediary",
+      "content": "If a financial intermediary informs another financial intermediary that it has filed a report under Article 9 AMLA or Article 305 ter paragraph 2 SCC, it shall record this fact in an appropriate form. SR 311.0"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 1 General",
+      "section": "13",
+      "title": "Dealers",
+      "content": "Persons who trade commercially in goods on behalf and for the account of third parties and, in doing so, accept cash are also considered to be dealers under Article 2 paragraph 1 letter b AMLA."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 1 General",
+      "section": "14",
+      "title": "Commercial trade",
+      "content": "1 Trade is deemed to be commercial if it constitutes an independent economic activity pursued on a permanent, for-profit basis. 2 It is not decisive whether the trade is carried on as a main or secondary activity."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 1 General",
+      "section": "15",
+      "title": "Goods",
+      "content": "Goods are movable tangible property that may be the subject of a chattel sale under Article 187 of the Code of Obligations (CO) or immovable property that may be the subject of a sale of immovable property under Article 216 CO. SR 220"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 1 General",
+      "section": "16",
+      "title": "Involvement of third parties",
+      "content": "If dealers use a third party to settle the transaction and thereby accept the purchase price in cash, they must ensure, irrespective of their legal relationship with the third party, that the due diligence and reporting duties of Section 2 of this Chapter are complied with."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 2 Due Diligence and Reporting Duties",
+      "section": "17",
+      "title": "Verification of the identity of the customer",
+      "content": "1 The dealer shall identify the customer at the time of conclusion of the contract by means of the following information: a. surname and first name; b. address; c. date of birth; and d. nationality. 2 If the customer originates from a country in which the use of dates of birth or addresses is not customary, this information shall be omitted. 3 The customer shall be identified by the dealer: a. by having the customer present the original of an official identification document containing a photograph of the customer, namely a passport, an identity card or a driving licence; b. by checking whether the identification document pertains to the customer; c. by making a copy of the identification document; and d. by noting on the copy that the original has been consulted. 4 If the customer is represented, its representative shall: a. provide the information referred to in paragraph 1 if the customer is a natural person; b indicate the name and registered office of the customer if it is a legal entity or partnership."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 2 Due Diligence and Reporting Duties",
+      "section": "18",
+      "title": "Establishing the identity of the beneficial owner",
+      "content": "1 The dealer shall establish the identity of the beneficial owner by enquiring of the customer or its representative whether the customer itself is the beneficial owner of the money. 2 If the customer is not the beneficial owner, the dealer shall require the customer or its representative to provide a written declaration as to who the beneficial owner is. Beneficial owners are deemed to be: a. the natural persons for whose account the acquisition is made; b. in the case of an acquisition for the account of a non-listed, operationally active legal entity or partnership: 1. the natural persons who directly or indirectly, alone or in concert with third parties, hold at least 25 per cent of the capital or voting rights, or 2. the natural persons who otherwise exercise control. 3 If no beneficial owners under paragraph 2 letter b can be identified, the identity of the most senior member of the executive body shall be established. 4 The dealer requires the following information to identify the beneficial owners: a. surname and first name; b. address; c. date of birth; and d. nationality. 5 Article 17 paragraph 2 applies mutatis mutandis . 6 For the written declaration in accordance with paragraph 2, it shall be sufficient if the information on the form or document in accordance with Article 21 is signed by the customer or its representative. 7 If a company does not have a beneficial owner in accordance with paragraph 2, in particular because of its legal form as an association or foundation under Swiss law, this shall be recorded accordingly."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 2 Due Diligence and Reporting Duties",
+      "section": "19",
+      "title": "Additional clarifications",
+      "content": "1 The dealer shall verify the background to the transaction, namely the origin of the money, and the purpose of the transaction if it appears unusual or if there are indications of money laundering. 2 There are indications of money laundering in particular if: a. the person pays predominantly with small denomination banknotes; b. easily saleable goods with a high degree of standardisation are the main items purchased; c. the person does not provide any information or provides insufficient information to identify him or herself in accordance with Article 17 or to establish the identity of the beneficial owner in accordance with Article 18; d. the person makes obviously false or misleading statements; e. there are doubts about the authenticity of the identity documents presented. 3 Verification shall be carried out by the dealer asking the customer or its representative about the background and the purpose of the transaction, assessing the plausibility of the information and recording the clarifications in writing."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Duty to report",
+      "content": "1 There are reasonable grounds for suspicion that lead to a duty to report under Article 9 paragraph 1 bis AMLA if specific evidence or several indications lead to the assumption that the means for making a cash payment originate from a criminal offence and the suspicion cannot be dispelled on the basis of additional clarifications under Article 19. 2 A report must also be made even if the dealer is uncertain as to what specific offence the criminal act from which the means for making a cash payment originated constitutes. 3 The transmission of reports is governed by Article 3 a paragraphs 1, 2 and 3 of the Ordinance of 25 August 2004 on the Money Laundering Reporting Office Switzerland. SR 955.23 Amended by No III of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ( AS 2019 4701 )."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Documentation",
+      "content": "1 The dealer shall use the form in Annex 1 or a comparable document to document compliance with the due diligence and reporting duties. 2 The following shall be entered on the form or in the document: a. all information on customers obtained in accordance with Articles 17 and 18; b. the result of the additional clarifications in accordance with Article 19; c. whether a report has been made in accordance with Article 20. 3 The form or document shall be dated as of the date of the transaction and signed by the dealer. 4 It shall be retained for at least ten years."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 3 Appointment of an Auditor",
+      "section": "22",
+      "title": "",
+      "content": "1 The duty of the dealer under Article 15 AMLA to appoint an auditor exists independently of the duty to have the annual and, if applicable, the consolidated financial statements audited. 2 If the dealer does not have an auditor, the most senior management or administrative body shall appoint auditors in accordance with Article 5 or an audit firm in accordance with Article 6 of the Audit Oversight Act of 16 December 2005 (AOA) to conduct the audit. SR 221.302"
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "23",
+      "section": "22a",
+      "title": "a Licensing of audit firms",
+      "content": "1 An audit firm is adequately organised if it: a. has at least two lead auditors who are licensed for AMLA-related activities; b. has at least two audit mandates related to the AMLA no later than three years after being granted a licence; c. complies with the regulations on documentation and retention of records pursuant to Article 730 c CO, irrespective of its legal form. 2 An audit firm shall not be licensed for audits in accordance with Article 24 a AMLA where the following persons or entities carry on an activity for which a licence is required under the financial market legislation in accordance with Article 1 paragraph 1 of the Financial Market Supervision Act of 22 June 2007: a. companies that are under common management with the audit firm; b. natural persons who directly or indirectly hold at least 10 per cent of the capital or voting rights in a company in accordance with letter a or who can significantly influence its business activities in another way; c. the lead auditors. 3 An audit firm is adequately insured for liability risks if it has financial loss insurance or equivalent financial security to cover its liability arising from audits under Article 24 a AMLA. The sum insured available for all claims in one year must be at least 250,000 francs. SR 220 SR 956.1"
+    },
+    {
+      "provision_ref": "art22b",
+      "chapter": "23",
+      "section": "22b",
+      "title": "b Licensing of lead auditors",
+      "content": "1 A lead auditor has the necessary specialist knowledge and practical experience to be licensed for audits in accordance with Article 24 a AMLA if he or she provides proof of the following: a. professional experience of five years in the provision of auditing services related to the AMLA; b. 200 audit hours related to the AMLA; c. four hours of continuing professional development courses related to the AMLA within one year prior to submitting the licence application. 2 A lead auditor shall continue to possess the necessary specialist knowledge and practical experience for auditing in accordance with Article 24 a AMLA after licensing if he or she provides proof of the following: a. 100 audit hours related to the AMLA in the last four years; b. four hours of continuing professional development courses each year related to the AMLA. 3 The licence for auditing in an oversight area in accordance with Article 11 a paragraph 1 letters a-c of the Auditor Oversight Ordinance of 22 August 2007 or granted in accordance with Article 62 FinIA also provides authorisation to conduct audits related to the AMLA. SR 221.302.3 SR 954.1"
+    },
+    {
+      "provision_ref": "art22c",
+      "section": "22c",
+      "title": "c Licence to audit lawyers and notaries in relation to the AMLA",
+      "content": "1 A lead auditor has the relevant AMLA knowledge, the relevant practical experience and the required continuing professional development (Art. 18 para. 4 let. c AMLA) if he or she fulfils the requirements of Article 22 b . 2 A natural person licensed to audit lawyers and notaries under the AMLA may audit independently without being registered as a licensed sole proprietorship in the Commercial Register and without being licensed as an auditor under Article 5 AOA. 3 A person licensed to audit lawyers and notaries under the AMLA is independent of the member to be audited if he or she complies with the requirements of Article 11 AOA and Article 728 CO. SR 221.302 SR 220"
+    },
+    {
+      "provision_ref": "art22d",
+      "section": "22d",
+      "title": "d Continuing professional development",
+      "content": "1 Continuing professional development courses in accordance with Articles 22 b and 22 c , including those using new information technologies and distance learning courses, must meet at least the following criteria: a. the continuing professional development covers the area of the AMLA; b. external and internal education courses last at least one hour; c. at least three persons participate in internal education courses. 2 The effective duration of the continuing professional development course shall be credited. Subject-specific lectures and subject-specific teaching are credited with twice the duration of the lecture or teaching. 3 Self-study does not count as continuing professional development."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Chapter 4 Transitional and Final Provisions",
+      "section": "23",
+      "title": "Repeal and amendment of previous legislation",
+      "content": "The repeal and amendment of other legislation are regulated in Annex 2."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Chapter 4 Transitional and Final Provisions",
+      "section": "24",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 January 2016."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,253 @@
+{
+  "id": "sr-743-011-11",
+  "type": "statute",
+  "title": "Verordnung des UVEK vom 15. Mai 2022 über die Sicherheitsanforderungen an Seile von Seilbahnen zur Personenbeförderung (Seilverordnung, SeilV)",
+  "title_en": "",
+  "short_name": "SeilV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2022/333/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Gegenstand, Geltungsbereich und Grundlagen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt für Seile und Seilverbindungen: a. die Instandhaltung durch das Seilbahnunternehmen; b. den Ersatz; c. die Prüfungen durch Seilprüfstellen; d. die Melde- und Aufzeichnungspflichten. 2 Sie gilt für Seilbahnen, die in den Geltungsbereich von Artikel 2 des Seilbahngesetzes vom 23. Juni 2006 (SebG) fallen. 3 Sie gilt nicht für Seile der Infrastruktur von Seilbahnen. 4 Für das Inverkehrbringen von Seilen und Seilverbindungen gelten die Bestimmungen des SebG und der SebV. SR 743.01"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Gegenstand, Geltungsbereich und Grundlagen",
+      "section": "2",
+      "title": "Anerkannte Regeln der Technik",
+      "content": "Seile und Seilverbindungen auf Seilbahnen müssen die Anforderungen der anerkannten Regeln der Technik erfüllen, die in den technischen Normen nach dem Anhang konkretisiert sind."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Gegenstand, Geltungsbereich und Grundlagen",
+      "section": "3",
+      "title": "Altrechtliche Seilbahnen",
+      "content": "Als altrechtlich gelten Seilbahnen, die nach Bestimmungen bewilligt wurden, die vor dem Inkrafttreten des SebG galten. Sie können auch Teile enthalten, die nach den Bestimmungen des SebG bewilligt wurden. SR 743.01"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Gegenstand, Geltungsbereich und Grundlagen",
+      "section": "4",
+      "title": "Anforderungen beim Ersatz eines Seils oder einer Seilverbindung an altrechtlichen Anlagen",
+      "content": "1 Auf altrechtlichen Seilbahnen dürfen Seile und Seilverbindungen durch konformitätsbewertete und zertifizierte Sicherheitsbauteile ersetzt werden. 2 Beim Ersatz von Seilen und Seilverbindungen auf altrechtlichen Anlagen durch Sicherheitsbauteile desselben Typs ist eine Vergleichsprüfung durchzuführen und die Kompatibilität mit der bestehenden Anlage nachzuweisen. 3 Die Vergleichbarkeit nach Abs. 2 ist nachgewiesen, wenn die sicherheitsrelevanten Eigenschaften gleichwertig sind. Hierzu sind: a. Seildurchmesser, Seilkonstruktion, Seilmasse, Mindestbruchkraft und Drahtfestigkeit zu berücksichtigen; b. die Vorgaben der Berechnungsgrundlagen der Seilbahn zu beachten; c. die Vorgaben der bestehenden Betriebsbewilligung sowie die ihr zugrundeliegenden Vorschriften einzuhalten; d. für Seilverbindungen nachzuweisen, dass die Anforderungen der anerkannten Regeln der Technik erfüllt sind. 4 Wird ein Seilersatz oder der Ersatz einer Seilverbindung auf einer altrechtlichen Seilbahn nicht von der bestehenden Betriebsbewilligung gedeckt, so gilt für den vom Umbau betroffenen Teil der Seilbahn Artikel 5 Absatz 1 SebV."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Anforderungen an die Instandhaltung der Seile und Seilverbindungen von Anlagen ohne Betriebsbewilligung",
+      "content": "1 Anlagen ohne Betriebsbewilligung sind so instand zu halten, dass alle Seile auf der ganzen Länge, inklusive aller Seilbefestigungen, jederzeit geprüft werden können. 2 Die letzten gültigen Prüfintervalle aller Prüfarten dürfen verdoppelt werden. 3 Ausgewiesene fachkundige Drittpersonen nach Artikel 54 SebV können in einem Prüfplan abweichende Vorgaben festlegen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Abweichungen",
+      "content": "Soll von den Vorschriften dieser Verordnung abgewichen werden, so muss mit einer Risikoanalyse belegt werden, dass sich durch die Abweichung das Risiko insgesamt nicht erhöht."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Sicherheitsgrundsätze, Ablegekriterien und Untersuchungen",
+      "section": "7",
+      "title": "Sicherheitsgrundsätze und Ablegekriterien für Seile",
+      "content": "1 Für alle Seile gelten die Sicherheitsgrundsätze und die Ablegekriterien nach Kapitel 9 der Norm SN EN 12927:2020, Sicherheitsanforderungen an Seilbahnen für den Personenverkehr – Seile. 2 Seile, deren Zustand mit den verfügbaren Prüfungsmethoden nicht oder nicht mit ausreichender Aussagekraft erfasst werden kann, gelten als ablegereif. Dasselbe gilt für Seile, deren Zustand eine Seil- oder Spleissöffnung nicht mehr zulässt. 3 Die zuständige Behörde kann den Ersatz eines Seiles verlangen. Die Norm kann kostenlos beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen, eingesehen und gegen Bezahlung bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch bezogen werden."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Sicherheitsgrundsätze, Ablegekriterien und Untersuchungen",
+      "section": "8",
+      "title": "Massnahmen bei ablegereifen Seilen",
+      "content": "1 Ist ein Seil ablegereif, so darf es nur in Betrieb bleiben, wenn eine ausgewiesene fachkundige Drittperson nach Artikel 54 SebV die erforderlichen Massnahmen festgelegt hat und diese umgesetzt sind. 2 Bei der Beurteilung, ob ein Seil ablegereif ist, sind insbesondere die Ablegekriterien für altrechtliche Seilbahnen, die bei der Bemessung der Anlage gemacht wurden, einzubeziehen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Sicherheitsgrundsätze, Ablegekriterien und Untersuchungen",
+      "section": "9",
+      "title": "Aushändigung von abgelegten Seilen, Seilabschnitten und Seilendbefestigungen zu Untersuchungszwecken",
+      "content": "Die zuständigen Behörden können verlangen, dass ihnen abgelegte Seile, Seilabschnitte und Seilendbefestigungen, die aufgrund von Auswertungen magnetinduktiver Prüfungen oder aufgrund anderer Inspektionstätigkeiten ersetzt wurden, zu Untersuchungszwecken ausgehändigt und vom Seilbahnunternehmen bis zur Abholung sorgfältig aufgehoben werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Vorgaben für Hersteller, Seilbahnunternehmen und ausgewiesene fachkundige Drittpersonen",
+      "section": "10",
+      "title": "Herstellervorgaben",
+      "content": "1 Der Hersteller muss die Vorgaben der Instandhaltung in der Betriebs- und Instandhaltungsanleitung festhalten. Diese sind so zu formulieren, dass sie ohne weiteres umgesetzt werden können. 2 Er muss bei seinen Vorgaben die Bestimmungen dieser Verordnung und insbesondere die massgebenden SN EN-Normen im Anhang berücksichtigen. Dabei kann er: a. strengere Vorgaben machen, als in den Normen definiert sind; b. mit entsprechenden Nachweisen von den Vorgaben der Normen abweichen; c. die Vorgaben während der Betriebsphase unter Beachtung der Buchstaben a und b anpassen und ergänzen. 3 Alle Änderungen der Vorgaben sind in die Betriebs- und Instandhaltungsanleitung zu integrieren. 4 Das Seilbahnunternehmen muss für die Instandhaltung die Vorgaben des Herstellers beachten. Liegen mehrere Betriebs- und Instandhaltungsanleitungen vor, so ist es verpflichtet, die jeweils strengere Vorgabe umzusetzen oder eine Bereinigung einzuleiten. 5 Für Ersatzseile auf bestehenden Anlagen ist eine Anpassung der Betriebs- und Instandhaltungsanleitung nur bei wesentlichen Änderungen erforderlich. Ob es sich um wesentliche Änderungen handelt, entscheidet der Hersteller aufgrund der Informationen des Seilbahnunternehmens."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Vorgaben für Hersteller, Seilbahnunternehmen und ausgewiesene fachkundige Drittpersonen",
+      "section": "11",
+      "title": "Intervalle zwischen den Inspektionen und Prüfungen",
+      "content": "1 Das Seilbahnunternehmen muss die Seile und Seilverbindungen in regelmässigen Intervallen Inspektionen oder Prüfungen unterziehen. Die Intervalle ergeben sich aus: a. der Betriebs- und Instandhaltungsanleitung des Herstellers; b. den Empfehlungen der Seilprüfstellen oder ausgewiesenen fachkundigen Drittpersonen nach Artikel 54 SebV; c. der eigenen Betriebserfahrung; d. den anlagespezifischen Gegebenheiten. 2 Massgebend ist jeweils das kürzeste Intervall."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Vorgaben für Hersteller, Seilbahnunternehmen und ausgewiesene fachkundige Drittpersonen",
+      "section": "12",
+      "title": "Erstellung von Seilendbefestigungen",
+      "content": "1 Für die Erstellung von Seilendbefestigungen gelten die Vorgaben des Herstellers. 2 Bei Seilendbefestigungen muss sichergestellt sein, dass sich das Seil nicht drehen kann."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Vorgaben für Hersteller, Seilbahnunternehmen und ausgewiesene fachkundige Drittpersonen",
+      "section": "13",
+      "title": "Instandsetzung von Seilen und Seilverbindungen",
+      "content": "1 Instandsetzungsarbeiten an Seilen und Seilverbindungen müssen von ausgewiesenen fachkundigen Drittpersonen nach Artikel 54 SebV ausgeführt werden. 2 Drittpersonen nach Absatz 1 müssen bei allen Instandsetzungsarbeiten den äusseren und wenn möglich auch den inneren Zustand des Seils beurteilen. 3 Sie legen die Massnahmen für das weitere Vorgehen und wenn erforderlich besondere Prüftätigkeiten in einem Prüfplan fest."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Haftung, Versicherung, Dokumentation und Befugnis",
+      "section": "14",
+      "title": "Haftung und Versicherung für Ersteller von Seilverbindungen",
+      "content": "1 Das Seilbahnunternehmen vereinbart mit den Erstellern den Umfang der Haftung und der erforderlichen Haftpflichtversicherung. 2 Ersteller dürfen ihre Haftung nicht unverhältnismässig einschränken."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Haftung, Versicherung, Dokumentation und Befugnis",
+      "section": "15",
+      "title": "Dokumentation und Anerkennung von Fachpersonen für Arbeiten an Seilen und Seilverbindungen",
+      "content": "1 Wer Seile oder Seilverbindungen erneuert oder instand setzt, muss die Arbeiten dokumentieren und einen Bericht erstellen. Dabei ist zu unterscheiden, ob es sich um Erneuerungen oder einen Ersatz oder um eine Instandsetzung handelt. 2 Werden Spleisse auf altrechtlichen Anlagen von einer vom BAV vor dem 1. April 2011 anerkannten Fachperson erstellt, so ist keine EG-Konformitätsbescheinigung erforderlich. 3 Für kantonal bewilligte Anlagen können die Kantone Spleisserinnen und Spleisser anerkennen und die Voraussetzungen hierfür festlegen. 4 Bei der Erneuerung oder beim Ersatz von Seilverbindungen muss der Ersteller folgende Nachweise beibringen: a. bei Vergussköpfen, Klemmköpfen und Seilschlössern: 1. eine Konformitätserklärung, oder 2. eine vergleichbare Erklärung, ausgestellt durch eine Fachperson, die von einer nach der Norm SN EN ISO / IEC 17024:2012, Konformitätsbewertung – Allgemeine Anforderungen an Stellen, die Personen zertifizieren (ISO/IEC 17024:2012) akkreditierten Stelle zertifiziert ist; b. bei Spleissen: 1. eine Konformitätserklärung, 2. eine vergleichbare Erklärung, wenn er für diese Tätigkeit zertifiziert ist, oder 3. eine vergleichbare Erklärung für Arbeiten an kantonal bewilligten Anlagen, wenn er von den Kantonen für diese Tätigkeit anerkannt ist. 5 Die vergleichbare Erklärung muss namentlich die folgenden Angaben enthalten: a. Firma und vollständige Anschrift sowie Name der ausführenden Person; b. Beschreibung des Bauteils, wie Marke, Typ; c. Nachweis der Zertifizierung oder der kantonalen Anerkennung; d. Datum und Unterschrift. 6 Der Bericht nach Absatz 1 muss namentlich die folgenden Angaben enthalten: a. Firma und vollständige Anschrift sowie Name der ausführenden Person; b. Beschreibung der ausgeführten Arbeiten; c. Beurteilung des aktuellen Zustandes der Seile und Seilverbindungen und Festlegung von Massnahmen; d. Datum und Unterschrift. 7 Die Dokumentation von Instandhaltungsarbeiten müssen die Informationen nach Artikel 32 Absatz 3 enthalten. Die Norm kann kostenlos beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen, eingesehen und gegen Bezahlung bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch bezogen werden."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Markierung von Verguss- und Klemmköpfen",
+      "content": "1 Verguss- und Klemmköpfe sowie Trommelbefestigungen sind nach der Montage zu markieren. 2 Anhand der Markierung muss es möglich sein, die für die Montage verantwortliche Person sowie das Datum der Erstellung zu identifizieren."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Klemmplatten für Montagearbeiten",
+      "section": "17",
+      "title": "",
+      "content": "1 Werden Klemmplatten für die Montage oder für Instandhaltungsarbeiten verwendet, so muss damit die vorhandene Seilzugkraft sicher gehalten werden können. Die eingesetzten Klemmplatten müssen dem gegebenen Seildurchmesser entsprechen; das Seil darf weder durch die dafür nötige Pressung noch durch Gleiten in der Klemmplatte geschädigt werden. Die Montagevorschriften der Hersteller müssen beachtet werden. 2 Um ein Rutschen des Seils feststellen zu können, muss in einem Abstand von ca. 10 mm zur Klemmplatte eine Markierung gesetzt werden. Wird ein Rutschen des Seiles festgestellt, so muss der betroffene Seilbereich markiert und von einer ausgewiesenen fachkundigen Drittperson beurteilt werden."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "6. Abschnitt: Visuelle Seilinspektion (VI) durch das Seilbahnunternehmen",
+      "section": "18",
+      "title": "Visuelle Seilinspektion",
+      "content": "1 Der äussere Zustand der Seile und ihrer Befestigungselemente muss unter der Verantwortung des Technischen Leiters oder der Technischen Leiterin oder des Stellvertreters oder der Stellvertreterin auf der ganzen Seillänge in festgelegten Intervallen visuell inspiziert werden. 2 Für die Durchführung der visuellen Seilinspektion kann der «Abschlussbericht Forschungsprojekt Visuelle Seilinspektion» als Unterstützung dienen. 3 Die Ergebnisse der Inspektion sind in einem Bericht festzuhalten. Der Bericht muss die Informationen nach Artikel 32 Absatz 3 enthalten. Der Abschlussbericht kann im Internet kostenlos abgerufen werden beim Bundesamt für Verkehr unter: www.bav.admin.ch > Verkehrsmittel > Seilbahn > Rechtliche Grundlagen, Richtlinien und Informationen > Informationen > Seiltechnik > Forschungsprojekt Visuelle Seilinspektion (wie OITAF-Empfehlung Nr. 30), oder beim Interkantonalen Konkordat für Seilbahnen und Skilifte unter: www.ikss.ch > Seilprüfstelle > Dienstleistungen, Downloads > Abschlussbericht Forschungsprojekt VI."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "6. Abschnitt: Visuelle Seilinspektion (VI) durch das Seilbahnunternehmen",
+      "section": "19",
+      "title": "Inspektionsintervalle",
+      "content": "Die Intervalle für die Inspektion der Seile und Seilverbindungen richten sich nach Artikel 11."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "6. Abschnitt: Visuelle Seilinspektion (VI) durch das Seilbahnunternehmen",
+      "section": "20",
+      "title": "Vorgehen bei Schadenstellen und Schädigungen",
+      "content": "1 Schadenstellen werden lokalisiert, indem ihr Abstand von einem Fixpunkt, beispielsweise von einer Seilverbindung, festgehalten wird. 2 Bei Anzeichen von Schädigungen bei der Verankerung von Spannseilen auf einer Windentrommel ist das Seil in entlastetem Zustand mindestens zwei ganze Umschlingungen von der Trommel abzuwickeln."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "7. Abschnitt: Zerstörungsfreie Seilprüfung durch eine Seilprüfstelle",
+      "section": "21",
+      "title": "Vorbereitung",
+      "content": "1 Die zerstörungsfreien Seilprüfungen dürfen nur durch Seilprüfstellen durchgeführt werden, die nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996 akkreditiert sind. 2 Das Seilbahnunternehmen hat dafür zu sorgen, dass sich die Seile für die Seilprüfung in einem sauberen Zustand befinden, der eine korrekte Prüfung gewährleistet. Die Anlage ist in Absprache mit der Seilprüfstelle so vorzubereiten, dass die Arbeitssicherheit gewährleistet ist. 3 Es muss der Seilprüfstelle anlässlich der Prüfung alle seilrelevanten Informationen, insbesondere die Aufzeichnungen nach Artikel 32 Absatz 3 zur Verfügung stellen. 4 Bei Tragseilverschiebungen ist sicherzustellen, dass sämtliche Bereiche der Tragseile zwischen den Endbefestigungen von den Prüfungen erfasst werden. Nicht prüfbare Bereiche sind im Prüfbericht auszuweisen und zu beurteilen, und es sind nötigenfalls Massnahmen zu definieren. SR 946.512"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "7. Abschnitt: Zerstörungsfreie Seilprüfung durch eine Seilprüfstelle",
+      "section": "22",
+      "title": "Durchführung",
+      "content": "1 Der Zustand der Seile ist durch eine Seilprüfstelle in den vorgesehenen Zeitabständen zu prüfen. 2 Das Seilbahnunternehmen erteilt den Auftrag zur Seilprüfung. Es ist für die termingerechte Durchführung der Seilprüfung verantwortlich. 3 Die Seilprüfstelle legt das für die Prüfung geeignete Verfahren fest. 4 Sie hat nach der Prüfung einen Prüfbericht zu erstellen nach Art. 24. 5 Sie überwacht das Einhalten der von ihr empfohlenen Fristen für den Vollzug der Massnahmen. Sie macht sowohl das Seilbahnunternehmen als auch die zuständige Behörde rechtzeitig auf Terminüberschreitungen und das Erreichen der zulässigen Schädigungsgrenze aufmerksam. 6 Das Seilbahnunternehmen bestätigt der Seilprüfstelle den Vollzug der empfohlenen Massnahmen schriftlich."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "7. Abschnitt: Zerstörungsfreie Seilprüfung durch eine Seilprüfstelle",
+      "section": "23",
+      "title": "Intervalle",
+      "content": "1 Die Intervalle zwischen den zerstörungsfreien Seilprüfungen richten sich nach Artikel 11. 2 Zudem gilt: a. Bei der Festlegung der Zeitabstände sind die anlagespezifischen Gegebenheiten zu berücksichtigen. b. Weist die Seilprüfstelle auf schwierige Messbedingungen hin, so muss eine ausgewiesene fachkundige Drittperson nach Artikel 54 SeilV im Auftrag der Seilbahnunternehmung einen anlagenbezogenen Prüfplan erstellen, der die Art, den Umfang und die Intervalle der Prüfungen festlegt. c. Seile auf kuppelbaren Skiliften müssen im ersten Betriebsjahr und anschliessend im Intervall von maximal drei Jahren einer magnetinduktiven Seilprüfung unterzogen werden."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "7. Abschnitt: Zerstörungsfreie Seilprüfung durch eine Seilprüfstelle",
+      "section": "24",
+      "title": "Prüfbericht",
+      "content": "1 Die Seilprüfstelle hat das Prüfergebnis in einem Prüfbericht festzuhalten; im Bericht müssen auch allfällige Messunsicherheiten festgehalten sein. Der Bericht muss gestützt auf das Prüfergebnis Empfehlungen mit entsprechenden Massnahmen und Terminen enthalten; insbesondere müssen die Fristen bis zur nächsten Prüfung festgelegt sein. 2 Die Seilprüfstelle hat den Prüfbericht der zuständigen Behörde einzureichen. 3 Die zuständigen Behörden aktualisieren bei Bedarf im Einvernehmen mit den Seilprüfstellen die Richtlinie über die Anforderungen an Seilprüfberichte. Die Technische Richtlinie zu den Anforderungen an Seilprüfberichte kann im Internet beim Bundesamt für Verkehr kostenlos abgerufen werden unter: www.bav.admin.ch > Verkehrsmittel > Seilbahn > Rechtliche Grundlagen > Richtlinien > Technische Richtlinien > Anforderungen an Seilprüfberichte."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Umgang mit den Empfehlungen",
+      "content": "Ist das Seilbahnunternehmen mit den Empfehlungen der Seilprüfstelle nicht einverstanden, so muss es die Seilprüfstelle sowie die zuständige Behörde darüber informieren."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Daten und Aufzeichnungen der Seilprüfung und Austausch von Rohdaten",
+      "content": "1 Die Seilprüfstelle hat alle Daten und Aufzeichnungen der Seilprüfungen mindestens während der Verwendungsdauer der geprüften Seile aufzubewahren. 2 Sie hat der zuständigen Behörde im Rahmen von deren Aufsichtsfunktion Zugang zu allen Daten und Aufzeichnungen der Seilprüfung zu gewähren. 3 Die zuständigen Behörden können für die sichere Aufbewahrung der Daten und Aufzeichnungen, im Einvernehmen mit den Seilprüfstellen, die Anforderungen an die Lagerräume und die Speichermedien sowie an den Austausch von Seil- und Rohdaten festlegen. 4 Der Austausch unter den Seilprüfstellen von analogen und digitalen Rohdaten muss gewährleistet sein. Die Vergleichbarkeit von analogen und digitalen Rohdaten muss sichergestellt sein. Digitale Formate sind von den Seilprüfstellen mit der Akkreditierungsstelle zu validieren und bekannt zu geben."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Erkenntnisse",
+      "content": "1 Die Seilprüfstellen melden der zuständigen Aufsichtsbehörde sicherheitsrelevante Erkenntnisse. 2 Die zuständigen Behörden, die Akkreditierungsstelle, die Prüfstellen, die Seilhersteller und die Seilbahnunternehmen tauschen die Erkenntnisse untereinander aus und prüfen, inwieweit Massnahmen erforderlich sind. Das Bundesamt für Verkehr legt im Einvernehmen mit den kantonalen Behörden die Art und Weise fest, wie der Informationsaustausch vollzogen wird."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "8. Abschnitt: Anforderungen an Seilprüfstellen und Prüfgeräte",
+      "section": "28",
+      "title": "Anforderungen an das Prüfpersonal",
+      "content": "Die Anforderungen an das Prüfpersonal richten sich nach Anhang C der Norm SN EN 12927:2020, Sicherheitsanforderungen an Seilbahnen für den Personenverkehr – Seile. Die Norm kann kostenlos beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen, eingesehen und gegen Bezahlung bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch bezogen werden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "8. Abschnitt: Anforderungen an Seilprüfstellen und Prüfgeräte",
+      "section": "29",
+      "title": "Anforderungen an die prüfverantwortliche Person",
+      "content": "1 Zusätzlich zu den Anforderungen für die Stufen 1 und 2 für das Prüfpersonal nach Anhang C der Norm SN EN 12927:2020, Sicherheitsanforderungen an Seilbahnen für den Personenverkehr – Seile, gelten für die prüfverantwortliche Person im Rahmen ihrer Funktion nachfolgende Anforderungen: a. Sie ist verantwortlich für den gesamten Prüfbetrieb und für die fachliche Qualifikation des Prüfpersonals. b. Sie verfügt insbesondere über die folgenden fachlichen Kompetenzen: 1. Durchführen von zerstörungsfreien Seilprüfungen, 2. Analysieren und Interpretieren von Normen, Spezifikationen, Verfahrensabläufe und Prozeduren, 3. Ausarbeiten und Validieren von Prüfanweisungen, 4. Entwerfen von weiterführenden zerstörungsfreien Prüfungen, 5. Ausbilden von Prüfpersonal der Stufen 1 und 2 und Überwachen von deren Prüftätigkeit, 6. Unterstützen des Prüfpersonals auf allen Stufen bei der täglichen Arbeit. 2 Die prüfverantwortliche Person muss folgende Qualifikationen erfüllen: a. Bachelordiplom oder höherer Abschluss als Ingenieur oder Ingenieurin in technischer Fachrichtung; b. Nachweis der Fachkompetenz im Rahmen der Akkreditierung und der Überwachungen durch die Schweizerische Akkreditierungsstelle; c. Praxisnachweis von mindestens 30 Prüfungen an Litzen- und Tragseilen in den drei vorangegangenen Jahren. Die Norm kann kostenlos beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen, eingesehen und gegen Bezahlung bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch bezogen werden."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "8. Abschnitt: Anforderungen an Seilprüfstellen und Prüfgeräte",
+      "section": "30",
+      "title": "Anforderungen an Prüfgeräte",
+      "content": "Die Magnetisierungseinheit der Prüfgeräte muss den Anforderungen in Anhang B der Norm SN EN 12927:2020, Sicherheitsanforderungen an Seilbahnen für den Personenverkehr – Seile, entsprechen. Die Norm kann kostenlos beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen, eingesehen und gegen Bezahlung bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch bezogen werden."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "9. Abschnitt: Zerstörungsfreie Prüfung von sicherheitsrelevanten Bauteilen der Seilendbefestigung",
+      "section": "31",
+      "title": "",
+      "content": "1 Seilendbefestigungen von Zug-, Trag-, Berge- oder Spannseilen sind nach der Norm SN EN 12927:2020, Sicherheitsanforderungen an Seilbahnen für den Personenverkehr – Seile oder den Vorgaben der Hersteller zu prüfen. 2 Die Zulässigkeitsgrenzen sind durch den Inverkehrbringer festzulegen. 3 Bei Seilhülsen von Trag-, Berge- und Spannseilen ist die Prüfung mindestens einmal durchzuführen. Der Inverkehrbringer kann die Wiederholung der Prüfungen vorgeben. 4 Bei sicherheitsrelevanten Bauteilen der Endbefestigungen von Zugseilen sind die Prüfungen in festgelegten Intervallen durchzuführen. Die Intervalle richten sich nach denjenigen der übrigen Anschlussteile der Endbefestigungen. Dabei sind die Fristen für die Erneuerung der Endbefestigungen zu berücksichtigen. Die Norm kann kostenlos beim Bundesamt für Verkehr, Mühlestrasse 6, 3063 Ittigen, ,eingesehen und gegen Bezahlung bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch bezogen werden."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "10. Abschnitt: Aufzeichnungen, Dokumentation von besonderen Vorkommnissen und Meldungen",
+      "section": "32",
+      "title": "Aufzeichnungen",
+      "content": "1 Die an der Herstellung, der Lagerung, dem Transport und der Montage des Seils Beteiligten müssen dem Seilbahnunternehmen sämtliche für die Sicherheit massgeblichen Informationen zur Verfügung stellen. Diese sind vom Seilbahnunternehmen aufzubewahren. 2 Das Seilbahnunternehmen führt in Anlehnung an Artikel 50 SebV Aufzeichnungen über die Seile und Seilverbindungen. Diese müssen in gesammelter Form jederzeit verfügbar sein. 3 Die Aufzeichnungen müssen mindestens folgende Informationen enthalten: a. die technischen Daten des Seiles, namentlich die Angaben des jeweiligen Herstellers; b. die Aufzeichnungen: 1. nach Absatz 1 über Ereignisse, Merkmale, Beobachtungen und Reparaturen während der Herstellung, der Lagerung, des Transports, des Seilzugs und der Montage, 2. über Ereignisse, Merkmale, Beobachtungen und Reparaturen während des Betriebes, der Seilprüfungen und der Instandhaltung einschliesslich der Inspektionen; c. die ausgeführten Arbeiten an Seilen und Seilverbindungen; d. die Erklärungen und Nachweise für neu aufgelegte Seile; e. die Erklärungen und Berichte nach Artikel 15; f. die Meldungen nach Artikel 33. 4 Den zuständigen Behörden ist im Rahmen ihrer Überwachungstätigkeit Einsicht in die Aufzeichnungen zu gewähren."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "10. Abschnitt: Aufzeichnungen, Dokumentation von besonderen Vorkommnissen und Meldungen",
+      "section": "33",
+      "title": "Dokumentation von besonderen Vorkommnissen und Meldungen",
+      "content": "1 Besondere Vorkommnisse sind durch das Seilbahnunternehmen zu dokumentieren. Die Dokumentationen sind anlässlich der Seilprüfungen der Seilprüfstelle und auf Verlangen den zuständigen Behörden vorzulegen. 2 Der Ersatz von Seilen sowie das Einspleissen von Reparaturstücken ist der zuständigen Behörde zu melden. Mit der Meldung sind die Konformitätsdokumente einzureichen."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "11. Abschnitt: Schlussbestimmungen",
+      "section": "34",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Seilverordnung vom 11. März 2011 wird aufgehoben. [ AS 2011 1077 ; 2017 5847 ]"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "11. Abschnitt: Schlussbestimmungen",
+      "section": "35",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2022 in Kraft."
+    }
+  ],
+  "definitions": []
+}

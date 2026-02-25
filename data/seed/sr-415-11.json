@@ -1,0 +1,259 @@
+{
+  "id": "sr-415-11",
+  "type": "statute",
+  "title": "Verordnung vom 12. Oktober 2016 über die Informationssysteme des Bundes im Bereich Sport (IBSV)",
+  "title_en": "",
+  "short_name": "IBSV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/597/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die Bearbeitung von Personendaten: a. im nationalen Informationssystem für Sport; b. im Informationssystem für medizinische Daten; c. im Informationssystem für leistungsdiagnostische Daten; d. im Teil-Informationssystem für Anthropometrie; e. im Informationssystem der Eidgenössischen Hochschule für Sport Magglingen (EHSM); f. im Informationssystem zur Kursevaluation; g. im Informationssystem der nationalen Agentur zur Bekämpfung von Doping; h. in der zentralen Adressdatenbank des Bundesamts für Sport (BASPO); i. in den Informationssystemen zum Betrieb der Gebäude und Anlagen des BASPO; j. im Informationssystem für elektronische Medien."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Bearbeitungsreglemente",
+      "content": "1 Das BASPO erlässt für die Informationssysteme nach Artikel 1 Buchstaben a–c, e und f ein Bearbeitungsreglement. Es legt darin die technischen und organisatorischen Massnahmen fest, mit denen die Sicherheit und der Schutz der bearbeiteten Daten sichergestellt werden. 2 Die nationale Agentur zur Bekämpfung von Doping erlässt ein Bearbeitungsreglement für das Informationssystem nach Artikel 1 Buchstabe g."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Betrieb",
+      "content": "Das BASPO ist verantwortlich für den sicheren Betrieb der Informationssysteme und die Rechtmässigkeit der Datenbearbeitung. Artikel 31 IBSG bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Erteilung der individuellen Zugriffsberechtigung",
+      "content": "1 Einen individuellen Zugriff zu den Informationssystemen nach Artikel 1 Buchstaben a, e, f und h–j erhalten Mitarbeiterinnen und Mitarbeiter des BASPO insoweit, als der Zugriff zur Erfüllung der jeweiligen Aufgaben notwendig ist. 2 Einen individuellen Zugriff zu den Informationssystemen nach Artikel 1 Buchstaben a–f und h–j erhalten zudem die mit Wartungs-, Unterhalts- oder Programmieraufgaben betrauten Applikationsverantwortlichen, wenn dies zur Erfüllung ihrer Aufgaben erforderlich ist und die Datensicherheit gewährleistet ist. Die Daten dürfen dabei inhaltlich nicht verändert werden."
+    },
+    {
+      "provision_ref": "art4a",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4a",
+      "title": "a Automatischer Austausch mit anderen Informationssystemen",
+      "content": "Der automatische Austausch von Daten ist zulässig: a. zwischen den Informationssystemen nach Artikel 1 Buchstaben a–e, i und j und der zentralen Adressdatenbank des BASPO, zum Zweck der Adressierung und der Aktualisierung der Adressen; b. zwischen den Informationssystemen nach Artikel 1 Buchstaben a–e, i und j und dem vom BASPO benutzten Finanzinformationssystem, zum Zweck der Rechnungsstellung; c. zwischen den Informationssystemen nach Artikel 1 Buchstaben a und e und dem Informationssystem zum Betrieb der Gebäude und Anlagen, zum Zweck der Organisation und Durchführung von Kursen, Trainings, Ausbildungen und Lagern. Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ( AS 2020 1545 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Aufbewahrungsdauer von Daten des nationalen Informationssystems für Sport",
+      "section": "5",
+      "title": "",
+      "content": "1 Die Daten von Personen, die ausschliesslich Teilnehmerinnen und Teilnehmer von Kursen und Lagern des Programms «Jugend und Sport» (J+S) waren, werden aufbewahrt, bis die betroffene Person das 30. Altersjahr vollendet hat. Personendaten, die nicht mehr zur Erfüllung der gesetzlichen Aufgaben benötigt werden, können auf Verlangen der betroffenen Person vorher vernichtet werden. Personendaten, die zu statistischen oder sportwissenschaftlichen Zwecken nach diesem Zeitpunkt noch gebraucht werden, müssen anonymisiert werden. 2 Die Daten der übrigen Personen werden unter Vorbehalt von Absatz 3 so lange aufbewahrt, bis die betroffene Person das 70. Altersjahr vollendet hat und die Daten während fünf Jahren nicht verändert worden sind. 3 Die folgenden Daten werden während folgender verkürzten Dauer aufbewahrt: a. Strafdaten, soweit sie zur Begründung eines Entscheids betreffend Erteilung, Sistierung oder Entzug einer Anerkennung als J+S-Kader erforderlich sind und sofern sie aus dem Strafregister entfernt worden sind: bis die betroffene Person die Vernichtung der Daten verlangt; b. Angaben über Untersuchungen und die Verhängung von Massnahmen im Zusammenhang mit Verstössen gegen Bestimmungen des fairen und sicheren Sports: bis zum unwiderruflichem Verlust der Wettkampflizenz bei Sportarten, bei denen die Teilnahme an Wettkämpfen nur mit Lizenz möglich ist; c. alle übrigen Daten, die während zehn Jahren nicht verändert worden sind: bis die betroffene Person deren Vernichtung verlangt."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Zugriffsberechtigung für das Informationssystem für medizinische Daten und Aufbewahrungsdauer dieser Daten",
+      "section": "6",
+      "title": "Zugriffsberechtigung",
+      "content": "Einen Zugriff auf das Informationssystem für medizinische Daten erhalten ausschliesslich Mitarbeiterinnen und Mitarbeiter der Ressorts Sportmedizin, Sportphysiologie, Sportphysiotherapie und Sportpsychologie des BASPO, soweit der Zugriff zur Erfüllung der jeweiligen Aufgaben notwendig ist. Artikel 4 IBSG bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Zugriffsberechtigung für das Informationssystem für medizinische Daten und Aufbewahrungsdauer dieser Daten",
+      "section": "7",
+      "title": "Aufbewahrungsdauer",
+      "content": "Die Daten werden während zehn Jahren nach der letzten Bearbeitung im Informationssystem für medizinische Daten aufbewahrt, es sei denn, die betroffene Person: a. verlangt die Vernichtung zu einem früheren Zeitpunkt; b. stimmt einer Aufbewahrung und Bearbeitung über die Zeitdauer von zehn Jahren hinaus schriftlich zu."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "4. Abschnitt: Zugriffsberechtigung für das Informationssystem für leistungsdiagnostische Daten und Aufbewahrungsdauer dieser Daten",
+      "section": "8",
+      "title": "Zugriffsberechtigung",
+      "content": "Einen Zugriff auf das Informationssystem für leistungsdiagnostische Daten erhalten ausschliesslich Mitarbeiterinnen und Mitarbeiter der Ressorts Sportmedizin, Sportphysiologie, Sportphysiotherapie und Sportpsychologie des BASPO, soweit der Zugriff zur Erfüllung der jeweiligen Aufgaben notwendig ist. Artikel 4 IBSG bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Abschnitt: Zugriffsberechtigung für das Informationssystem für leistungsdiagnostische Daten und Aufbewahrungsdauer dieser Daten",
+      "section": "9",
+      "title": "Aufbewahrungsdauer",
+      "content": "Die Daten werden während zehn Jahren nach der letzten Bearbeitung im Informationssystem für leistungsdiagnostische Daten aufbewahrt, es sei denn, die betroffene Person: a. verlangt die Vernichtung zu einem früheren Zeitpunkt; b. stimmt einer Aufbewahrung und Bearbeitung über die Zeitdauer von zehn Jahren hinaus schriftlich zu."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "5. Abschnitt: Teil-Informationssystem für Anthropometrie",
+      "section": "10",
+      "title": "Zweck",
+      "content": "Das Teil-Informationssystem für Anthropometrie dient Sportärztinnen und Sportärzten des BASPO sowie Leistungsdiagnostikerinnen und Leistungsdiagnostikern des BASPO dazu, den Sportlerinnen und Sportlern die erforderlichen therapeutischen Massnahmen oder eine individuelle sportwissenschaftliche Beratung, insbesondere in Bezug auf Training und Ernährung, vorschlagen zu können."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "5. Abschnitt: Teil-Informationssystem für Anthropometrie",
+      "section": "11",
+      "title": "Gegenstand",
+      "content": "Das Teil-Informationssystem für Anthropometrie enthält folgende Daten: a. Name und Vorname; b. Körpergrösse; c. Gewicht; d. Alter; e. Geschlecht; f. Körperfettanteil; g. Anteil fettfreie Masse; h. Knochendichte."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Teil-Informationssystem für Anthropometrie",
+      "section": "12",
+      "title": "Datenbeschaffung",
+      "content": "Das BASPO beschafft die Daten mittels eines speziell dafür vorgesehenen Röntgengeräts und einer entsprechenden Software mit Einwilligung der urteilsfähigen betroffenen Person oder bei deren Urteilsunfähigkeit ihrer gesetzlichen Vertretung. Diese wird vorgängig über die Untersuchung informiert, es sei denn, die urteilsfähige betroffene Person ist damit nicht einverstanden."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Teil-Informationssystem für Anthropometrie",
+      "section": "13",
+      "title": "Übertragung der Daten",
+      "content": "Die Daten nach Artikel 11 werden mit Einwilligung der betroffenen Person in das Informationssystem für medizinische Daten und das Informationssystem für leistungsdiagnostische Daten übertragen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Teil-Informationssystem für Anthropometrie",
+      "section": "14",
+      "title": "Zugriffsberechtigung",
+      "content": "Einen Zugriff erhalten ausschliesslich Mitarbeiterinnen und Mitarbeiter der Ressorts Sportmedizin, Sportphysiologie, Sportphysiotherapie und Sportpsychologie des BASPO, soweit der Zugriff zur Erfüllung der jeweiligen Aufgaben notwendig ist. Artikel 4 IBSG bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Teil-Informationssystem für Anthropometrie",
+      "section": "15",
+      "title": "Aufbewahrungsdauer",
+      "content": "1 Die Daten werden nach der Übertragung nach Artikel 13 im Informationssystem für Anthropometrie vernichtet. 2 Nicht übertragene Daten werden nach Ablauf eines Jahres nach der Erfassung vernichtet."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Datenbekanntgabe und Aufbewahrungsdauer für Daten des Informationssystems der EHSM",
+      "section": "16",
+      "title": "Datenbekanntgabe",
+      "content": "Das BASPO kann den Studentinnen und Studenten der EHSM während der Dauer des jeweiligen Studiengangs die Bewertungen ihrer Kompetenznachweise durch ein Abrufverfahren zugänglich machen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Datenbekanntgabe und Aufbewahrungsdauer für Daten des Informationssystems der EHSM",
+      "section": "17",
+      "title": "Aufbewahrungsdauer",
+      "content": "1 Die Personen- und Adressdaten sowie die Daten über Ausbildungsabschlüsse werden im Informationssystem der EHSM aufbewahrt, bis die betroffene Person das 65. Altersjahr vollendet hat. 2 Die übrigen Daten werden während fünf Jahren nach der letzten Bearbeitung im Informationssystem der EHSM aufbewahrt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "7. Abschnitt: Aufbewahrungsdauer für Daten des Informationssystems zur Kursevaluation",
+      "section": "18",
+      "title": "",
+      "content": "Die Personen- und Adressdaten werden während fünf Jahren nach der letzten Bearbeitung im Informationssystem zur Kursevaluation aufbewahrt."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "8. Abschnitt: Zugriffsberechtigung für das Informationssystem der nationalen Agentur zur Bekämpfung von Doping",
+      "section": "19",
+      "title": "",
+      "content": "Einen Zugriff auf das Informationssystem der nationalen Agentur zur Bekämpfung von Doping erhalten Mitarbeiterinnen und Mitarbeiter der nationalen Agentur zur Bekämpfung von Doping aus den Bereichen Kontrollen, Ermittlungen, Wissenschaft, Prävention, Recht, Leitung, medizinische Kommission, Rechtskommission und zentrale Dienste, soweit der Zugriff zur Erfüllung der jeweiligen Aufgaben notwendig ist."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "9. Abschnitt: Zentrale Adressdatenbank des BASPO",
+      "section": "20",
+      "title": "Zweck",
+      "content": "Die zentrale Adressdatenbank dient dem BASPO zur Abwicklung des Schriftverkehrs."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "9. Abschnitt: Zentrale Adressdatenbank des BASPO",
+      "section": "21",
+      "title": "Gegenstand",
+      "content": "1 Die zentrale Adressdatenbank enthält die Adressdaten von Personen: a. die zum BASPO in einem verwaltungsrechtlichen Verhältnis stehen; b. die an der Tätigkeit des BASPO interessiert sind. 2 Erfasst werden folgende Personendaten: a. Name und Vorname; b. Funktion, akademischer Titel und Institution; c. Wohn- oder Geschäftsadresse; d. Telefonnummern; e. Adressen der elektronischen Kommunikation; f. Korrespondenzsprache; g. Verweis auf erstellte und versendete Dokumente."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "9. Abschnitt: Zentrale Adressdatenbank des BASPO",
+      "section": "22",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. Juli 2020 ( AS 2020 1545 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "9. Abschnitt: Zentrale Adressdatenbank des BASPO",
+      "section": "23",
+      "title": "Aufbewahrungsdauer",
+      "content": "Die Personen- und Adressdaten werden während fünf Jahren nach der letzten Bearbeitung in der zentralen Adressdatenbank aufbewahrt."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "10. Abschnitt: Informationssysteme für Gebäude und Anlagen",
+      "section": "24",
+      "title": "Zweck",
+      "content": "1 Das BASPO betreibt ein Informationssystem für die Gebäude und Anlagen in Magglingen, Biel und Ipsach sowie ein Informationssystem für die Gebäude und Anlagen in Tenero. 2 Die Informationssysteme für Gebäude und Anlagen dienen dem BASPO zur: a. Aufrechterhaltung der Informations- und Dienstleistungssicherheit; b. Reservation und Bewirtschaftung der Gebäude und Anlagen; c. Erfassung von kostenpflichtigen Leistungen; d. Bewirtschaftung der Arbeitszeit des Personals; e. Kontrolle des Zutritts im Interesse der Sicherheit; f. Information der Anlagebenutzerinnen und Anlagebenutzer."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "10. Abschnitt: Informationssysteme für Gebäude und Anlagen",
+      "section": "25",
+      "title": "Gegenstand",
+      "content": "Die Informationssysteme für Gebäude und Anlagen enthalten alle Personendaten und Informationen, die für den Betrieb und die Sicherheit der Anlagen notwendig sind, insbesondere: a. die Personalien von Personen, die Gebäude und Anlagen reservieren oder nutzen; b. die Zuordnung von Ausweis- und Schlüsselnummern zu Personen; c. die Reservationen und Nutzungen von Gebäuden und Anlagen; d. die Daten über die Berechtigung, Gebäude und Anlagen zeitlich beschränkt oder unbeschränkt zu benutzen; e. die Daten über den effektiv erfolgten Ein- und Austritt von Personen in und aus Gebäuden und Anlagen; f. die Daten der an Verkaufsstationen bezogenen Leistungen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "10. Abschnitt: Informationssysteme für Gebäude und Anlagen",
+      "section": "26",
+      "title": "Datenbekanntgabe",
+      "content": "Informationen zu Reservationen und Nutzungen von Gebäuden und Anlagen können auf dem Gelände des BASPO auf öffentlich zugänglichen elektronischen Informationstafeln publiziert werden."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "10. Abschnitt: Informationssysteme für Gebäude und Anlagen",
+      "section": "27",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. Juli 2020 ( AS 2020 1545 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "10. Abschnitt: Informationssysteme für Gebäude und Anlagen",
+      "section": "28",
+      "title": "Aufbewahrungsdauer",
+      "content": "Die Daten nach Artikel 25 werden während fünf Jahren nach deren Erfassung in den Informationssystemen für Gebäude und Anlagen aufbewahrt."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "11. Abschnitt: Informationssystem für elektronische Medien",
+      "section": "29",
+      "title": "Zweck",
+      "content": "Das Informationssystem für elektronische Medien dient der Dokumentation der Entwicklung des Sports und der Herstellung von Lehr- und Lernmedien."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "11. Abschnitt: Informationssystem für elektronische Medien",
+      "section": "30",
+      "title": "Gegenstand",
+      "content": "1 Das Informationssystem für elektronische Medien enthält folgende Daten: a. Fotodateien; b. Videodateien; c. Tondateien; d. elektronische Lehr- und Lernmedien. 2 Die Daten können für die Archivierung in einem strukturierten Ordnersystem insbesondere mit folgenden Metadaten versehen werden: a. Aufnahmeort; b. Aufnahmedatum; c. Beschreibung; d. Personennamen; e. Schlagwort; f. Information, ob eine Einwilligung zur Veröffentlichung vorliegt."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "11. Abschnitt: Informationssystem für elektronische Medien",
+      "section": "31",
+      "title": "Aufbewahrungsdauer",
+      "content": "1 Die Daten nach Artikel 30 werden so lange aufbewahrt, wie sie für die bestimmungsgemässe Verwendung benötigt werden. 2 Sofern sich aus dem Verwendungszweck nicht eine bestimmte Aufbewahrungsdauer ergibt, kann die betroffene Person nach Ablauf von zehn Jahren nach Erfassung der elektronischen Daten deren Löschung verlangen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "12. Abschnitt: Kostenbeteiligung",
+      "section": "32",
+      "title": "",
+      "content": "1 Behörden und Organisationen, denen Daten des nationalen Informationssystems für Sport durch ein Abrufverfahren zugänglich gemacht werden, müssen eine Pauschalgebühr von 4000 Franken pro Jahr entrichten. 2 Zuzüglich zur Pauschalgebühr müssen entrichten: a. die Kantone und das Fürstentum Liechtenstein: 1 Franken für jeden J+S-Kurs oder jedes J+S-Lager, das unter ihrer Aufsicht durchgeführt wird; b. die Kantone, das Fürstentum Liechtenstein und private Organisationen: 1 Franken für jedes unter ihrer Aufsicht durchgeführte Angebot der Kaderbildung in J+S und ESA. 3 Keine Gebühren werden erhoben von Sport- und Jugendverbänden, die nach dem Sportförderungsgesetz vom 17. Juni 2011 unterstützt werden. 4 Behörden und Organisationen, denen Daten des nationalen Informationssystems für Sport durch ein Abrufverfahren zugänglich gemacht werden, tragen die Anschaffungs- und Betriebskosten ihrer Informatikinfrastrukturen, wie Geräte, Netzwerke und Programme, die sie zur Nutzung des Informationssystems benötigen. SR 415.0"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "13. Abschnitt: Schlussbestimmungen",
+      "section": "33",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung vom 5. September 2012 über die Informationssysteme des Bundes im Bereich Sport wird aufgehoben. [ AS 2012 4645 ]"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "13. Abschnitt: Schlussbestimmungen",
+      "section": "34",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. November 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

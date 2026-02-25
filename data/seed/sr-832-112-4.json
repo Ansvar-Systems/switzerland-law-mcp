@@ -1,0 +1,216 @@
+{
+  "id": "sr-832-112-4",
+  "type": "statute",
+  "title": "Verordnung vom 12. September 2025 über die Beiträge der Kantone und des Bundes zur Prämienverbilligung in der Krankenversicherung (VPVK)",
+  "title_en": "",
+  "short_name": "VPVK",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2025/581/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Ermittlung der Mindestbeiträge der Kantone entsprechend ihrem Mindest-anteil nach Artikel 65 Absätze 1 quater –1 octies KVG; b. die Ermittlung des Bundesbeitrags nach Artikel 66 KVG und dessen Aufteilung auf die Kantone."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Durchführungsjahr: Kalenderjahr, für welches die Mindestbeiträge der Kantone und deren Anteile am Bundesbeitrag berechnet werden, in den Formeln durch t ausgedrückt; b. Vorjahr: Kalenderjahr, das dem Durchführungsjahr vorangeht; c. Vor-Vorjahr: Kalenderjahr, das dem Vorjahr vorangeht, in den Formeln durch t-2 ausgedrückt."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Daten",
+      "content": "Das Eidgenössische Departement des Inneren (EDI) kann regeln, welche Daten für die Berechnung der Mindestbeiträge der Kantone und die Berechnung und Aufteilung des Bundesbeitrags zu verwenden sind."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Information und Veröffentlichung",
+      "content": "1 Das Bundesamt für Gesundheit (BAG) nimmt bis Ende April des Vorjahres eine unverbindliche Schätzung der kantonalen Mindestbeiträge und der Aufteilung des Bundesbeitrags auf die Kantone für das Durchführungsjahr vor und teilt diese den Kantonen mit. 2 Es nimmt bis Ende Juli des Vorjahres eine erneute unverbindliche Schätzung vor und teilt diese den Kantonen mit. 3 Es veröffentlicht spätestens im Oktober des Vorjahres die Mindestbeiträge der Kantone sowie die Aufteilung des Bundesbeitrags auf die Kantone für das Durchführungsjahr."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Kantonale Zuständigkeit",
+      "content": "1 Wechseln Versicherte ihren Wohnsitz von einem Kanton in einen anderen, so besteht ihr Anspruch auf Prämienverbilligung für die ganze Dauer des Kalenderjahrs nach dem Recht des Kantons, in dem sie am 1. Januar ihren Wohnsitz hatten. Dieser Kanton verbilligt die Prämien. 2 Absatz 1 gilt sinngemäss für Versicherte nach Artikel 65 a Buchstaben a und b KVG, deren Anknüpfungspunkt an einen bestimmten Kanton auf einen anderen Kanton übergeht."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Berechnung der Mindestbeiträge der Kantone",
+      "section": "6",
+      "title": "",
+      "content": "1 Der Mindestbeitrag in Franken (Min_CHF t ), welcher der Kanton für die Prämienverbilligung aufwendet, wird mit folgender Formel berechnet: M i n _ C H F t = M i n _ % t × B K _ e s t t In dieser Formel bedeuten: Min_% t = prozentualer Mindestanteil BK_est t = geschätzte Bruttokosten 2 Der prozentuale Mindestanteil (Min_% t ) wird nach Artikel 65 Absatz 1 quinquies KVG berechnet. Dazu wird auf die prozentuale Prämienbelastung der 40 Prozent einkommensschwächsten Versicherten des Vor-Vorjahrs abgestellt. 3 Die prozentuale Prämienbelastung der 40 Prozent einkommensschwächsten Versicherten des Vor-Vorjahrs (PB_40 % t–2 ) wird mit folgender Formel berechnet: P B _ 40 % t − 2 = s k a l _ P S _ 40 % t − 2 − P V t − 2 s k a l _ E i n k _ 40 % t − 2 In dieser Formel bedeuten: skal_PS_40 % t–2 = skaliertes Prämiensoll der 40 Prozent einkommensschwächsten Versicherten des Vor-Vorjahres PV t–2 = Summe der im Vor-Vorjahr geleisteten Kantons- und Bundesbeiträge für die Prämienverbilligung skal_Eink_40 % t–2 = skaliertes Einkommen der 40 Prozent einkommensschwächsten Versicherten des Vor-Vorjahres 4 Für die Ermittlung der geleisteten Kantons- und Bundesbeiträge für die Prämienverbilligung stellt das BAG auf die Abrechnungen der Kantone nach Artikel 21 ab. 5 Für die Ermittlung der Mindestbeiträge der Kantone wird auf die Masszahlen der Kantone abgestellt."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Geschätzte Bruttokosten",
+      "section": "7",
+      "title": "Berechnung der geschätzten Bruttokosten",
+      "content": "Die Bruttokosten nach Artikel 65 Absatz 1 quater KVG für das Durchführungsjahr (BK_est t ) werden mit folgender Formel geschätzt: B K _ e s t t = P S _ e s t t + K B _ e s t t In dieser Formel bedeuten: PS_est t = geschätztes Prämiensoll KB_est t = geschätzte Kostenbeteiligung"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Geschätzte Bruttokosten",
+      "section": "8",
+      "title": "Geschätztes Prämiensoll",
+      "content": "1 Das geschätzte Prämiensoll (PS_est t ) wird mit folgender Formel berechnet: P S _ e s t t = m P _ e s t t × V _ e s t t In dieser Formel bedeuten: mP_est t = geschätzte mittlere Prämie V_est t = geschätzter Versichertenbestand 2 Die geschätzte mittlere Prämie (mP_est t ) entspricht der mittleren Prämie a priori nach Artikel 92 Absatz 2 der Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV). 3 Der geschätzte Versichertenbestand (V_est t ) wird mit folgender Formel berechnet: V e s t t = V t − 2 × V t − 2 V t − 4 In dieser Formel bedeuten: V t–2 = Versichertenbestand des Vor-Vorjahres V t–4 = Versichertenbestand vor vier Jahren 4 Der Versichertenbestand (V) entspricht dem durchschnittlichen Bestand der Versicherten mit Wohnsitz oder Aufenthalt im Kanton während des jeweiligen Jahres. Nicht in den Versichertenbestand eingerechnet werden die Versicherungspflichtigen mit Wohnsitz in einem Mitgliedstaat der Europäischen Union oder der Europäischen Freihandelsassoziation oder im Vereinigten Königreich. 5 Für die Ermittlung des Versichertenbestandes stellt das BAG auf die Angaben der Versicherer ab. SR 832.102"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Geschätzte Kostenbeteiligung",
+      "content": "1 Die geschätzte Kostenbeteiligung (KB_est t ) wird mit folgender Formel berechnet: K B _ e s t t = P S _ e s t t × K B t − 2 P S t − 2 In dieser Formel bedeuten: PS_est t = geschätztes Prämiensoll KB t–2 = Kostenbeteiligung des Vor-Vorjahres PS t–2 = Prämiensoll des Vor-Vorjahres 2 Die Kostenbeteiligung (KB) entspricht der Summe der Kosten, an denen sich die Versicherten des Versichertenbestands beteiligt haben. 3 Das Prämiensoll (PS) entspricht der Summe der in Rechnung gestellten Prämien für den Versichertenbestand. 4 Für die Ermittlung der Kostenbeteiligung und des Prämiensolls stellt das BAG auf die Angaben der Versicherer ab."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Ermittlung der 40 Prozent einkommensschwächsten Versicherten",
+      "section": "10",
+      "title": "",
+      "content": "1 Die Eidgenössische Steuerverwaltung (ESTV) liefert dem BAG jährlich die aktuellsten steuerbaren Einkommen nach dem Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer aller steuerpflichtigen Personen. Sie liefert sie in anonymisierter Form nach Einkommensklassen und Haushaltstypen geordnet. Anhand dieser Daten berechnet das BAG, wie viel die Prämien im Verhältnis zum Einkommen ausmachen. 2 Das BAG ermittelt für jeden Kanton das Einkommen der 40 Prozent einkommensschwächsten Versicherten mit Wohnort im Kanton, indem es jeder steuerpflichtigen Person ein Äquivalenzeinkommen zuweist. Es ermittelt das Äquivalenzeinkommen aus dem steuerbaren Einkommen des Haushalts und dessen Grösse. Diese entspricht der Anzahl der steuerpflichtigen Personen eines Haushalts gemäss der folgenden Gewichtung: a. für die erste erwachsene Person: 1; b. für jede weitere erwachsene Person: 0,5; c. für jedes Kind: 0,3. 3 Das BAG sortiert für jeden Kanton die steuerpflichtigen Personen nach der Höhe ihrer Äquivalenzeinkommen. Es leitet daraus die Anzahl der Personen ab, die zu den 40 Prozent einkommensschwächsten Versicherten gehören. SR 642.11"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Skaliertes Prämiensoll",
+      "section": "11",
+      "title": "Berechnung des skalierten Prämiensolls",
+      "content": "Das skalierte Prämiensoll der 40 Prozent einkommensschwächsten Versicherten des Vor-Vorjahres (skal_PS_40 % t–2 ) wird mit folgender Formel berechnet: s k a l _ P S _ 40 % t − 2 = P S _ 40 % t _ a k t × S F _ P S In dieser Formel bedeuten: PS_40 % t_akt = Prämiensoll der 40 Prozent einkommensschwächsten Versicherten gemäss dem Jahr der aktuellsten Daten der ESTV SF_PS = Skalierungsfaktor Prämiensoll"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Skaliertes Prämiensoll",
+      "section": "12",
+      "title": "Prämiensoll der 40 Prozent einkommensschwächsten Versicherten",
+      "content": "1 Das Prämiensoll der 40 Prozent einkommensschwächsten Versicherten gemäss dem Jahr der aktuellsten Daten der ESTV (PS_40 % t_akt ) wird mit folgender Formel berechnet: P S _ 40 % t _ a k t = ∑ n = 1 n _ 40 % P r ä m i e n s o l l p r o s t e u e r p f l i c h t i g e P e r s o n ( n ) In dieser Formel bedeuten: n_40 % = Anzahl der Personen, die zu den 40 Prozent einkommensschwächsten Versicherten gehören 2 Die Summe des Prämiensolls der 40 Prozent einkommensschwächsten Versicherten wird berechnet, indem den Kindern die mittlere Kinderprämie und den Erwachsenen die mittlere Erwachsenenprämie des Vor-Vorjahres zugewiesen wird. 3 Die mittleren Prämien der Erwachsenen und der Kinder entsprechen der mittleren Prämie a posteriori nach Artikel 92 Absatz 3 KVV. 4 Für die Ermittlung der Anzahl der Erwachsenen und Kinder stellt das BAG auf die aktuellsten Daten der ESTV und ihre Zuordnung als Erwachsene und als Kinder ab. SR 832.102"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Skalierungsfaktor Prämiensoll",
+      "content": "Der Skalierungsfaktor Prämiensoll (SF_PS) wird mit folgender Formel berechnet: S F _ P S = P S t − 2 P S t _ a k t In dieser Formel bedeuten: PS t–2 = Prämiensoll des Vor-Vorjahres aller Versicherten gemäss Angaben der Versicherer PS t_akt = Prämiensoll sämtlicher steuerpflichtigen Personen gemäss dem Jahr der aktuellsten Daten der ESTV"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Skaliertes Einkommen",
+      "section": "14",
+      "title": "Berechnung des skalierten Einkommens",
+      "content": "Das skalierte Einkommen der 40 Prozent einkommensschwächsten Versicherten des Vor-Vorjahres (skal_Eink_40 % t–2 ) wird mit folgender Formel berechnet: s k a l _ E i n k _ 40 % t − 2 = E i n k _ 40 % t _ a k t × S F _ E i n k In dieser Formel bedeuten: Eink_40 % t_akt = Summe der steuerbaren Einkommen der 40 Prozent einkommensschwächsten steuerpflichtigen Personen gemäss dem Jahr der aktuellsten Daten der ESTV SF_Eink = Skalierungsfaktor Einkommen"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Skaliertes Einkommen",
+      "section": "15",
+      "title": "15 Summe der steuerbaren Einkommen der 40 Prozent einkommensschwächsten steuerpflichtigen Personen",
+      "content": "Die Summe der steuerbaren Einkommen der 40 Prozent einkommensschwächsten steuerpflichtigen Personen gemäss dem Jahr der aktuellsten Daten der ESTV (Eink_40 % t_akt ) wird mit folgender Formel berechnet: E i n k _ 40 % t _ a k t = ∑ n = 1 n _ 40 % s t e u e r b a r e s E i n k o m m e n p r o s t e u e r p f l i c h t i g e P e r s o n ( n ) In dieser Formel bedeuten: n_40 % = Anzahl der Personen, die zu den 40 Prozent einkommensschwächsten steuerpflichtigen Personen gehören"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Skaliertes Einkommen",
+      "section": "16",
+      "title": "16 Skalierungsfaktor Einkommen",
+      "content": "1 Der Skalierungsfaktor Einkommen (SF_Eink) wird mit folgender Formel berechnet: S F _ E i n k = V t − 2 A n z a h l s t e u e r p f l i c h t i g e P e r s o n e n t _ a k t In dieser Formel bedeuten: V t–2 = Versichertenbestand des Vor-Vorjahres Anzahl steuerpflichtige Personen t_akt = Anzahl steuerpflichtiger Personen gemäss dem Jahr der aktuellsten Daten der ESTV 2 Die Anzahl steuerpflichtiger Personen gemäss dem Jahr der aktuellsten Daten der ESTV wird auf Grundlage des Jahres der aktuellsten Daten der ESTV zur Anzahl Personen pro Haushalt und zur Anzahl der Haushalte berechnet."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Kapitel: Bundesbeitrag",
+      "section": "17",
+      "title": "Bruttokosten zur Berechnung des Bundesbeitrags",
+      "content": "Die Bruttokosten zur Berechnung des Bundesbeitrags nach Artikel 66 KVG entsprechen der Summe aller kantonalen Bruttokosten nach Artikel 7. Hinzu kommen die Bruttokosten der Versicherten nach den Artikeln 4 und 5 KVV mit Wohnsitz oder Aufenthalt ausserhalb der Europäischen Union, der Europäischen Freihandelsassoziation oder des Vereinigten Königreichs. SR 832.102"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "3. Kapitel: Bundesbeitrag",
+      "section": "18",
+      "title": "Aufteilung des Bundesbeitrags auf die Kantone",
+      "content": "1 Der an den Kanton ausgerichtete Bundesbeitrag in Franken (AK_CHF t ) wird mit folgender Formel berechnet: A K _ C H F t = B u n d e s b e i t r a g t × A K _ % t In dieser Formel bedeuten: Bundesbeitrag t = Bundesbeitrag nach Artikel 66 Absatz 2 KVG für das Durchführungsjahr AK_% t = Anteil des Kantons am Bundesbeitrag im Durchführungsjahr 2 Der Bundesbeitrag entspricht 7,5 Prozent der Bruttokosten nach Artikel 17. 3 Der Anteil des Kantons am Bundesbeitrag für das Durchführungsjahr (AK_% t ) wird mit folgender Formel berechnet: A K _ % t = B e v K t − 2 + G r K t − 2 B e v C H t − 2 + G r C H t − 2 In dieser Formel bedeuten: BevK t–2 = Wohnbevölkerung des Kantons im Vor-Vorjahr BevCH t–2 = Wohnbevölkerung der Schweiz im Vor-Vorjahr GrK t–2 = Anzahl der versicherten Grenzgänger und Grenzgängerinnen und ihrer Familienangehörigen nach Artikel 65 a Buchstabe a KVG im Kanton im Vor-Vorjahr GrCH t–2 = Anzahl der versicherten Grenzgänger und Grenzgängerinnen und ihrer Familienangehörigen nach Artikel 65 a Buchstabe a KVG in der Schweiz im Vor-Vorjahr 4 Für die Ermittlung der Wohnbevölkerung sind die Zahlen der letzten Erhebung der Bevölkerungsstatistik des Bundesamtes für Statistik über die mittlere Wohnbevölkerung massgebend. 5 Für die Ermittlung der Anzahl versicherter Grenzgänger und Grenzgängerinnen und ihrer Familienangehörigen stellt das BAG auf die Angaben der Versicherer ab."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Auszahlung",
+      "content": "Der Bundesbeitrag wird im Durchführungsjahr in drei Raten ausbezahlt."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Kapitel: Abrechnung und Kontrolle",
+      "section": "20",
+      "title": "Erfüllung des kantonalen Mindestanteils",
+      "content": "Für die Beurteilung, ob ein Kanton seinen Mindestanteil erfüllt, gelten als Beträge im Sinne von Artikel 65 Absatz 1 septies KVG die im Durchführungsjahr geleisteten Beiträge der Kantone, unabhängig davon, welches Jahr die Auszahlung betrifft."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "4. Kapitel: Abrechnung und Kontrolle",
+      "section": "21",
+      "title": "Abrechnung der Kantone",
+      "content": "1 Die Kantone erstellen für das Durchführungsjahr eine Abrechnung der Kantonsbeiträge und des Bundesbeitrags und reichen diese dem BAG bis zum 30. Juni des Folgejahres ein. Die Abrechnung enthält insbesondere Angaben zu Anzahl, Geschlecht, Alter, Einkommen und Zusammensetzung der Haushalte der Begünstigten. 2 Das BAG erstellt nach Anhören der Kantone ein Formular für die Abrechnung. 3 Kantone, welche die Festsetzung und die Auszahlung von Verbilligungsbeiträgen den Gemeinden überlassen, überprüfen die Abrechnungen der Gemeinden und fassen diese zuhanden des BAG zusammen. Das BAG kann dazu Weisungen erlassen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "4. Kapitel: Abrechnung und Kontrolle",
+      "section": "22",
+      "title": "Kontrolle",
+      "content": "1 Die Kantone lassen die Abrechnung der Kantonsbeiträge und des Bundesbeitrags revidieren. 2 Sie reichen gleichzeitig mit der Abrechnung einen Bericht ein, der Auskunft gibt über: a. den Zeitpunkt und den Umfang der Revision; b. die Feststellungen, zu denen die Revision geführt hat; c. die aus den Feststellungen zu ziehenden Schlüsse. 3 Das BAG prüft, ob der Bundesbeitrag gesetzeskonform verwendet wird. Es richtet sich dabei nach Artikel 25 des Subventionsgesetzes vom 5. Oktober 1990 (SuG). SR 616.1"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "4. Kapitel: Abrechnung und Kontrolle",
+      "section": "23",
+      "title": "Rückerstattung, Kürzung und Aufschub von Beitragszahlungen",
+      "content": "1 Zu Unrecht ausbezahlte Beiträge sind nach den Artikeln 28 und 30 SuG zurückzuerstatten. 2 Ist eine Abrechnung unvollständig oder fehlerhaft oder wurden die Vorschriften der Gesetzgebung über die soziale Krankenversicherung, namentlich dieser Verordnung oder der darauf gestützten Weisungen, nicht beachtet, so können bis zur Behebung der Mängel Beiträge nach Artikel 28 Absatz 2 SuG gekürzt oder teilweise zurückgefordert werden. SR 616.1"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "24",
+      "title": "Vollzug",
+      "content": "Das BAG vollzieht diese Verordnung."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "25",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung vom 7. November 2007 über den Bundesbeitrag zur Prämienverbilligung in der Krankenversicherung wird aufgehoben. [ AS 2007 6071 ; 2015 5165 Anhang Ziff. 5; 2022 658 Ziff. I 4]"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "26",
+      "title": "Änderung anderer Erlasse",
+      "content": "Die nachstehenden Erlasse werden wie folgt geändert: ... Die Änderungen können unter AS 20 25 581 konsultiert werden."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "27",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2026 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Durchführungsjahr:",
+      "definition": "Durchführungsjahr: Kalenderjahr, für welches die Mindestbeiträge der Kantone und deren Anteile am Bundesbeitrag berechnet werden, in den Formeln durch t ausgedrückt;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vorjahr:",
+      "definition": "Vorjahr: Kalenderjahr, das dem Durchführungsjahr vorangeht;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vor-Vorjahr:",
+      "definition": "Vor-Vorjahr: Kalenderjahr, das dem Vorjahr vorangeht, in den Formeln durch t-2 ausgedrückt.",
+      "source_provision": "art2"
+    }
+  ]
+}

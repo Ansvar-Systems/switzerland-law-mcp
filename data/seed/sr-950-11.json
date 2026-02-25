@@ -1,0 +1,725 @@
+{
+  "id": "sr-950-11",
+  "type": "statute",
+  "title": "Verordnung vom 6. November 2019 über die Finanzdienstleistungen (Finanzdienstleistungsverordnung, FIDLEV)",
+  "title_en": "Ordinance of 6 November 2019 on Financial Services (Financial Services Ordinance, FINSO)",
+  "short_name": "FIDLEV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2019/759/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Title 1 General Provisions",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "This Ordinance governs the requirements: a. for honesty, diligence and transparency in the provision of financial services; b. for the offering of securities and other financial instruments."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Title 1 General Provisions",
+      "section": "2",
+      "title": "Territorial scope of application with regard to financial services",
+      "content": "(Art. 3 let. c and d FinSA) 1 This Ordinance applies to persons who provide financial services on a professional basis in Switzerland or for clients in Switzerland. 2 The following are deemed not to be provided in Switzerland: a. financial services provided by foreign financial service providers under a client relationship entered into at the express initiative of a client; b. individual financial services requested of a foreign financial service provider at the express initiative of clients."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Title 1 General Provisions",
+      "section": "3",
+      "title": "Definitions",
+      "content": "(Art. 3 let. a, b, c, d, g and h and 93 FinSA) 1 Claims arising from an account or custody agreement for payment or physical delivery of foreign currencies, fixed-term deposits or precious metals are not deemed to be financial instruments within the meaning of Article 3 letter a FinSA. 2 The acquisition or disposal of financial instruments within the meaning of Article 3 letter c item 1 FinSA is deemed to be any activity addressed directly at certain clients that is specifically aimed at the acquisition or disposal of a financial instrument. 3 The following in particular are not deemed to be a financial service within the meaning of Article 3 letter c FinSA: a. consultation on structuring or raising capital as well as on business combinations and the acquisition or disposal of participations and the services associated with such consultation; b. the placement of financial instruments with or without a firm commitment as well as the associated services; c. financing within the scope of services provided in accordance with letters a and b; d. the granting of loans to finance transactions with financial instruments within the meaning of Article 3 letter c item 5 FinSA if the credit-granting financial service provider is not participating in these transactions, unless they are aware that the loan is used solely for financing such transactions. 4 Companies or units of a group which provide financial services for other companies or units of the same group are not deemed to be financial service providers within the meaning of Article 3 letter d FinSA. 5 An offer within the meaning of Article 3 letter g FinSA exists if a communication of any kind is made which: a. contains sufficient information on the terms of the offer and the financial instrument; and b. is customarily intended to draw attention to a certain financial instrument and to sell it. 6 The following in particular are not deemed to be an offer within the meaning of Article 3 letter g FinSA: a. the making available of information at the request or initiative of the client, which information was not preceded by advertising within the meaning of Article 68 FinSA provided by the offerer or an agent of the latter relating to the concrete financial instrument; b. the mentioning by name of financial instruments without or in conjunction with factual, general information, such as ISINs, net asset values, prices, risk information, price performance or tax figures; c. the mere making available of factual information; d. the preparation and making available of legally or contractually required information and documents on financial instruments to existing clients or financial intermediaries, such as corporate action information, invitations to general meetings and the associated requests to issue instructions, as well as the forwarding of such to this group of persons and the publication thereof. 7 The offer is deemed to be aimed at the public within the meaning of Article 3 letter h FinSA if it is aimed at an unlimited number of persons. 8 A company, or a private investment structure created for high-net-worth retail clients is deemed to have professional treasury operations if, within or outside the company or the private investment structure, it entrusts, on a permanent basis, the management of its funds to a professionally qualified person with experience in the financial sector. 9 Paper and any other medium which allows the storage and unaltered forwarding of information are deemed to be a durable data medium within the meaning of this Ordinance."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Client segmentation",
+      "content": "(Art. 4 FinSA) 1 Where several clients are entitled to assets, they are to be assigned jointly for these assets to the respective client segment affording the greatest client protection. 2 Clients acting through an authorised person may agree with the financial service provider in writing or in another form demonstrable via text that they be assigned to a segment in accordance with the knowledge and experience of this person."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Assets eligible for opting out",
+      "content": "(Art. 5 para. 2 FinSA) 1 Eligible assets within the meaning of Article 5 paragraph 2 FinSA are financial investments held directly or indirectly by the retail client, specifically: a. sight or time deposits with banks and securities firms; b. certificated and uncertificated securities, including collective investment schemes and structured products; c. derivatives; d. precious metals; e. life insurance policies with a surrender value; f. restitution claims from other assets held in trust specified in this paragraph. 2 Direct investments in real estate and claims from social insurance schemes as well as occupational pension assets do not qualify as financial investments within the meaning of paragraph 1. 3 Retail clients jointly holding assets which reach the values stipulated in Article 5 paragraph 2 FinSA can only jointly declare their wish to opt out. 4 The necessary knowledge and experience in accordance with Article 5 paragraph 2 letter a FinSA must be possessed by at least one person with a share in the jointly held assets."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Chapter 1 Code of Conduct",
+      "section": "6",
+      "title": "Information on the financial service provider",
+      "content": "(Art. 8 para. 1 FinSA) 1 Financial service providers state the necessary contact details, in particular their address. 2 Supervised financial service providers shall also state: a. the name and address of the authority supervising them; b. whether they have authorisation as a bank, portfolio manager, manager of collective assets, fund management company or securities firm. 3 Portfolio managers shall also state the name and address of the supervisory organisation to which they are subordinated. 4 Branches and representations of foreign financial service providers in Switzerland shall state their address in Switzerland or provide other necessary contact details."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Chapter 1 Code of Conduct",
+      "section": "7",
+      "title": "Information on the financial service and the financial instruments",
+      "content": "(Art. 8 para. 1 and 2 let. a FinSA) 1 The information on the financial service shall contain details of: a. the nature of the financial service, its essential features and functionalities; and b. the fundamental rights and obligations which arise from it for the clients. 2 The information on the risks associated with the financial service shall contain: a. in respect of investment advice for individual transactions: details of financial instruments to be acquired or sold; b. in respect of portfolio management and investment advice taking account of the client portfolio: a description of the risks arising from the investment strategy for the client assets. 3 The information on the general risks associated with the financial instrument shall contain details of: a. the essential features and functionalities of the financial instruments; b. the risks of loss and any obligations arising from the financial instruments for the client. 4 Where the details specified in paragraphs 1–3 are contained in the key information document or the prospectus, the information may be provided by making the corresponding document available."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Chapter 1 Code of Conduct",
+      "section": "8",
+      "title": "Information on costs",
+      "content": "(Art. 8 para. 2 let. a FinSA) 1 Information on costs shall contain in particular details of the one-time and running costs of the financial service and the costs incurred in connection with the acquisition or disposal of the respective financial instrument. 2 Where these details are contained in the key information document or the prospectus, reference can be made to the respective document. 3 Approximate details or bandwidth indications are to be provided of costs which can not be accurately determined in advance or only with a disproportionate amount of effort. If such information can also not be provided or only with a disproportionate amount of effort, this fact must be disclosed and reference made to the risk of additional fees, taxes or other costs. 4 If several financial service providers are involved in the provision of services, they may agree that one of their number shall provide information on all costs. If no such agreement is made, each financial service provider will provide information on the costs incurred by them individually."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Chapter 1 Code of Conduct",
+      "section": "9",
+      "title": "Information on business affiliations",
+      "content": "(Art. 8 para. 2 let. b FinSA) 1 Financial service providers shall provide information on business associations with third parties insofar as these associations may lead to a conflict of interest in connection with the financial service. 2 The information shall include details of: a. the circumstances giving rise to the conflict of interest; b. the risks which the client faces as a result; c. the precautions taken by the financial service provider to reduce the risks. 3 Companies of the group which the financial service provider belongs to are deemed to be third parties for the financial service provider."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Information on the market offer taken into account",
+      "content": "(Art. 8 para. 2 let. c FinSA) 1 Financial service providers shall inform their client in particular whether the market offer taken into account when selecting the financial instruments comprises only their own or also other financial instruments. 2 A financial instrument also qualifies as the financial service provider's own if it is issued or offered by companies closely associated with it. 3 The status of close association is deemed to be met in particular if: a. a financial service provider directly or indirectly holds a majority of the shares or voting rights of the offerer or issuer of the financial instrument or otherwise controls the offerer or issuer; or b. the majority of the shares or voting rights of the financial service provider are directly or indirectly held by the offerer or issuer of the financial instrument or the latter otherwise control the financial service provider."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Execution and transmission of client orders",
+      "content": "(Art. 8 para. 4 and 13 FinSA) 1 A financial service does not consist solely of executing or transmitting a client order if prior consultation took place. 2 A key information document is deemed to be available if it can be found with reasonable effort. 3 With regard to the execution and transmission of client orders, the retail client may generally consent to the key information document only being made available after conclusion of the transaction. This consent must be given in writing or in another form demonstrable via text separately from the consent given to the general terms and conditions."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Form of information",
+      "content": "(Art. 8 para. 3, 9 para. 2 and 3 and 63 let. c FinSA) 1 The information in accordance with Articles 6–11 shall be made available to the retail client on a durable data medium or via a website. 2 If the information is made available via a website, the financial service provider shall: a. ensure that it can at any time be called up, downloaded and recorded on a durable data medium; b. provide the retail client with the website address and the place on this website where the information can be inspected."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Timing of information",
+      "content": "(Art. 9 para. 1 FinSA) Clients shall be informed in such a way that they have sufficient time to understand the information regarding the signing of the contract or the provision of the financial service."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Timing of the information on risks and costs",
+      "content": "(Art. 9 para. 1 FinSA) Financial service providers shall provide information on risks and costs: a. on conclusion of the contract to establish a client relationship; or b. prior to the first-time provision of the financial service."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Consultation without the client being physically present",
+      "content": "(Art. 9 para. 2 and 63 let. c FinSA) 1 Consultation is deemed to take place without the client being physically present within the meaning of Article 9 paragraph 2 FinSA if: a. the parties are not at the same location; and b. on account of the communication medium used, it is not feasible with a reasonable amount of effort to make the key information document available to the retail client before the signing or conclusion of the contract. 2 In the case of consultation without the client being physically present, the retail client may generally consent to the key information document only being made available after conclusion of the transaction. This consent must be given in writing or in another form demonstrable via text separately from the consent given to the general terms and conditions. 3 Consent pursuant to paragraph 2 may be revoked in the same form at any time."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Representative relationships",
+      "content": "(Art. 11 and 12 FinSA) In the case of clients acting through an authorised person, the financial service provider will take account of the knowledge and experience of this person for the purpose of the assessment of appropriateness."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Assessment of suitability and exemption from the duty to review",
+      "content": "(Art. 12 and 13 FinSA) 1 When enquiring about the client's financial situation, the financial service provider will take account of the nature and amount of their regular income, their assets as well as their current and future financial obligations. 2 When enquiring about the client's investment objectives, the financial service provider shall take into account the details they give in particular on the timeframe and purpose of the investment, their capacity and willingness to take risks as well as any investment restrictions. 3 Based on the information obtained, the financial service provider will draw up a risk profile for every client. Where portfolio management mandates and a continuing consultation relationship are in place, the financial service provider will agree an investment strategy with the client based on these. 4 The financial service provider may rely on the details given by the client insofar as there are no indications that they do not correspond to the facts. 5 Financial service providers who inform their clients only once of the non-performance of the appropriateness and suitability assessment within the meaning of Article 13 paragraph 2 FinSA must expressly refer to this in the information they provide."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Documentation",
+      "content": "(Art. 15 FinSA) The financial service provider must structure the documentation such that they are able as a rule within ten working days to render account to the client about the financial services provided."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Rendering of account",
+      "content": "(Art. 16 FinSA) 1 Rendering of account to the client encompasses the documentation: a. on the orders received and executed; b. on the composition, valuation and development of the portfolio in respect of the management of client assets; c. on the development of the portfolio in respect of the management of client custody accounts; d. on the specific costs which the financial service provider was required to provide details of pursuant to Article 8. 2 A durable data medium must be used for rendering of account: a. at the intervals agreed with the client; b. at the latter's request."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Handling of client orders",
+      "content": "(Art. 17 FinSA) 1 For the purpose of handling client orders, financial service providers must have in place processes and systems which: a. are appropriate with regard to their size, complexity and business activity; and b. safeguard the interests and equal treatment of clients. 2 Specifically, they must guarantee that: a. client orders are registered and allocated immediately and correctly; b. comparable client orders are executed immediately in the sequence they are received, except when this is not possible owing to the nature of the order or market conditions or is not in the interest of the client; c. when pooling orders from different clients or pooling client orders with their own transactions and allocating associated trades, the interests of the respective clients are safeguarded and not impaired; d. their retail clients will be informed immediately of any material difficulties arising which could impair the correct execution of the order."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Best execution of client orders",
+      "content": "(Art. 18 FinSA) 1 To ensure the best possible outcome for the client, financial service providers shall define for the execution of client orders the necessary criteria for selecting the place of execution, i.e. the price, costs, speed and likelihood of execution and settlement. 2 If the client has issued an express directive, the client order must be executed accordingly. 3 At the request of the client, the financial service provider will furnish proof that they have executed the client's orders in accordance with the criteria specified in paragraph 1. 4 Financial service providers shall review the effectiveness of the criteria at least once a year."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "",
+      "content": "Professional clients may release financial service providers from applying the code of conduct set out in Articles 8, 9, 15 and 16 FinSA only in writing or in another form demonstrable via text and only in a document which is separate from the general terms and conditions."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Chapter 2 Organisation",
+      "section": "23",
+      "title": "",
+      "content": "1 Insofar as they are not subject to special statutory provisions, financial service providers are deemed to satisfy the obligations of the FinSA if they: a. define internal guidelines which are appropriate to their size, complexity and legal form and the financial services offered by them and which are commensurate with the associated risks; b. carefully select staff and ensure that they receive basic training and continuing professional development in respect of the code of conduct and the specific specialised knowledge which they require to perform their concrete tasks; 2 If a business unit consists of several persons: a. the financial service provider shall ensure effective monitoring of the duties in accordance with paragraph 1, in particular by means of appropriate internal controls; b. shall define binding work and business processes."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Chapter 2 Organisation",
+      "section": "24",
+      "title": "Conflicts of interest",
+      "content": "(Art. 25 FinSA) Conflicts of interest within the meaning of the FinSA are deemed to exist in particular if the financial service provider: a. in breach of the principle of good faith and to the detriment of clients, can achieve a financial advantage for themselves or avoid a financial loss; b. has an interest in the outcome of a financial service provided for clients which is inconsistent with the clients' interest; c. in the provision of financial services, has a financial or other incentive to place the interests of specific clients above those of other clients; d. in breach of the principle of good faith, accepts from a third party with regard to a financial service provided for the client an incentive in the form of financial or non-financial advantages or services."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Chapter 2 Organisation",
+      "section": "25",
+      "title": "Organisational precautions",
+      "content": "(Art. 25 para. 1 FinSA) In order to prevent conflicts of interest, financial service providers must take the following risk-adequate precautions appropriate to their size, complexity and legal form as well as to the financial services provided by them: a. They shall take measures to identify conflicts of interest. b. They shall take the necessary measures to prevent the exchange of information insofar as it could be contrary to the interest of clients, i.e. an exchange between staff whose activities could result in a conflict of interest; if the exchange can not be prevented, they shall monitor it. c. They shall keep the organisation and management of staff functionally separate insofar as their main activities could cause a conflict of interest among clients or between clients' interests and those of the financial service provider. d. They shall take the measures necessary to prevent staff involved simultaneously or in immediate succession in different financial services from being assigned tasks which could be detrimental to a proper handling of conflicts of interest. e. Their remuneration system shall create no incentives for staff to disregard statutory duties or to conduct themselves in a manner detrimental to clients. They shall define it in such a way that: 1. variable remuneration elements do not diminish the quality of the financial service rendered to clients; 2. there can be no mutual direct relationship between remuneration levels if a conflict of interest might arise between the activities of business units. f. They shall issue internal directives which facilitate identification of conflicts of interest between clients and staff and contain measures to prevent or resolve such conflicts. They shall review these directives regularly. g. They shall issue rules for the acquisition and disposal of financial instruments for own account by staff."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Disclosure",
+      "content": "(Art. 25 para. 2 FinSA) 1 If precautions in accordance with Article 25 paragraph 1 FinSA cannot prevent disadvantages for clients or only with a disproportionate amount of effort, the financial service provider shall disclose this in an appropriate manner. 2 To this end, the financial service provider shall describe the conflicts of interest arising in the provision of the respective financial service. The following are to be explained to the clients in general terms: a. the circumstances behind the conflict of interest; b. the resultant risks for them; c. the precautions taken by the financial service provider to reduce the risks. 3 Disclosure may be in standardised or electronic form. The client must be able to record it on a durable data medium."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Impermissible forms of conduct",
+      "content": "(Art. 25 para. 3 FinSA) The following forms of conduct are always impermissible: a. the restructuring of client custody accounts with no economic justification in the client's interest; b. the exploitation of information, in particular the exploitation of knowledge of client orders by executing beforehand, in parallel or afterwards identical transactions for the account of staff or the financial service provider; c. the manipulation of services provided in connection with issues and placements of financial instruments; d. the invoicing of a price at variance with the effective closing price when processing client orders."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Documentation",
+      "content": "(Art. 25 FinSA) Financial service providers must document those of its financial services where conflicts of interest have arisen or may arise."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Compensation from third parties",
+      "content": "(Art. 26 para. 1 let. a FinSA) 1 Compensation accepted from third parties in association with the provision of financial services and which by its very nature cannot be passed on to clients must be disclosed in accordance with Article 26 as a conflict of interest. 2 Companies of the group which the financial service provider belongs to are deemed to be third parties for the financial service provider."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Staff transactions",
+      "content": "(Art. 27 para. 1 FinSA) Members of the body responsible for governance, supervision and control, the body responsible for management, partners with unlimited liability as well as persons with comparable functions are deemed to be staff of the financial service provider."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Chapter 3 Register of Advisers",
+      "section": "31",
+      "title": "Exemption from the duty to register",
+      "content": "(Art. 28 FinSA) Client advisers of foreign financial service providers which are prudentially supervised abroad are exempted from the duty to register if the services they provide in Switzerland are exclusively for professional or institutional clients."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Chapter 3 Register of Advisers",
+      "section": "32",
+      "title": "Professional indemnity insurance",
+      "content": "(Art. 29 para. 1 let. b FinSA) 1 Professional indemnity insurance is taken out to cover the statutory liability arising from pecuniary losses resulting from the activity as financial service provider or client adviser as a consequence of a violation of professional duties to exercise due care. 2 The financial service provider will take out professional liability insurance for those client advisers who are working for a financial service provider and are required to be entered in the register. 3 The amount insured available for all losses within one year must be at least CHF 500,000. Where the insurance is taken out by a financial service provider which employs several client advisers, the minimum amount insured must be at least: a. where there are two to four client advisers: CHF 1.5 million; b. where there are five to eight client advisers: CHF 3 million; c. where there are more than eight client advisers: CHF 10 million. 4 The professional indemnity insurance must have an ordinary notice period of at least three months 5 It must also cover losses claimed within one year of expiry of the insurance contract provided they were caused during the term of the contract and insofar as no liability exists under another insurance contract."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Chapter 3 Register of Advisers",
+      "section": "33",
+      "title": "Equivalent collateral",
+      "content": "(Art. 29 para. 1 let. b FinSA) 1 A deposit in the amount of the insurance sum placed with a bank within the meaning of Article 1 a of the Banking Act of 8 November 1934 qualifies as collateral equivalent to professional indemnity insurance. The deposit requires the consent of the registration body. 2 For foreign financial service providers subject to prudential supervision abroad, minimum capital corresponding to an amount of CHF 10 million qualifies as equivalent collateral. SR 952.0"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Chapter 3 Register of Advisers",
+      "section": "34",
+      "title": "Application for a licence",
+      "content": "(Art. 31 para. 1 FinSA) 1 The registration body shall submit an application for a licence to the Swiss Financial Market Supervisory Authority (FINMA). The application shall contain all details required to assess it, specifically, details of: a. the place of management; b. the organisation; c. corporate governance and the planned controls; d. the guarantee; e. any activities assigned to third parties. 2 In respect of the persons entrusted with management of the registration body, the application shall contain: a. details of nationality, place of residence, qualified participations in other companies and pending court and administrative proceedings; b. a curriculum vitae signed by the respective person; c. references; d. a judicial record extract; e. an extract from the debt collection register. 3 FINMA may demand further information and details insofar as these are necessary for the assessment of the application."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Supervision by FINMA",
+      "content": "(Art. 31 para. 1 FinSA) 1 The registration body shall draw up an annual activity report for submission to FINMA. This report shall also contain, in particular, details of coordination with other registration bodies. 2 FINMA must be given prior notice of the following changes: a. a change in membership of the management board; b. changes to the organisational basis. 3 These changes do not require approval from FINMA. 4 If FINMA grants a licence to several registration bodies, it will ensure appropriate coordination of their practice."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Place of management",
+      "content": "(Art. 31 para. 4 FinSA) 1 The registration body must be domiciled in Switzerland and effectively be managed from Switzerland. 2 If it is integrated into an existing legal person, the latter must be domiciled in Switzerland and effectively be managed from Switzerland. 3 The body charged with management of the registration body must be made up of at least two professionally qualified persons. Their place of residence must be at a location from where they can effectively perform their management duties."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Organisation",
+      "content": "(Art. 31 para. 3 FinSA) 1 The registration body must have an operational organisation which guarantees the independent fulfilment of its tasks. 2 Operations must: a. be set out in organisational regulations; b. ensure that the registration body has the necessary professionally qualified personnel to perform its task; c. include an internal control system (ICS) and ensure that laws and regulatory requirements are followed (compliance); d. be such as to avoid conflicts of interest, in particular with other revenue-based business units; e. permit public consultation online; and f. provide for an appropriate strategy which allows business operations to be maintained or restored as quickly as possible if damaging events occur."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Delegation of tasks",
+      "content": "(Art. 31 para. 3 FinSA) 1 The registration body may only delegate activities of minor significance to third parties. 2 The third parties must have the necessary skills, knowledge and experience to perform the delegated activities. 3 The registration body shall carefully instruct and monitor the appointed third parties. 4 Delegation must be agreed in writing or in another form demonstrable via text."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Licence costs",
+      "content": "(Art. 31 para. 1 FinSA) In accordance with the FINMA Ordinance on the Levying of Supervisory Fees and Duties of 15 October 2008, the registration body shall bear the costs of: a. the licensing procedure; b. the procedure for instigating the necessary measures to remedy deficiencies; c. the procedure leading to revocation of the licence. SR 956.122"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Retention period",
+      "content": "(Art. 31 para. 4 FinSA) The registration body shall retain registration documents and records for a period of ten years."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Notification duty",
+      "content": "(Art. 32 para. 2 and 3 FinSA) 1 Client advisers shall report to the registration body within 14 days: a. any change in name; b. any change in the name or address of the financial service provider for which they work; c. any change in their function and position within the organisation; d. any change in their areas of activity; e. basic training and continuing professional development completed; f. any change in ombudsman's office; g. the complete or partial termination of professional indemnity insurance cover; h. termination of activity as a client adviser; i. convictions for criminal offences under the financial market acts in accordance with Article 1 of the Financial Market Supervision Act of 22 June 2007 (FINMASA) or for criminal offences against property under Articles 137–172 ter of the Swiss Criminal Code; j. a prohibition imposed on them from performing an activity in accordance with Article 33 a FINMASA or a prohibition from practising a profession in accordance with Article 33 FINMASA; k. convictions or decisions comparable to those under letters i and j handed down by foreign authorities. 2 Client advisers must renew their registration after 24 months at the latest. Failure to do so will result in cancellation of the entry in the register. SR 956.1 SR 311.0"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Fees",
+      "content": "(Art. 33 FinSA) 1 Anyone who occasions a ruling by the registration body or requests a service from the registration body is liable to a fee. The registration body may levy an annual fee to cover annually recurring expenses. 2 The fee for first-time entry in the register of advisers is CHF 500–2500 and for renewal of the entry CHF 200–1000. It is set within these ranges on the basis of the average time required for the performance of similar functions. 3 In the case of exceptionally voluminous or particularly difficult entries, the fee stipulated in paragraph 2 may be based on time spent. 4 The fee for all other rulings and services is based on time spent. 5 The hourly fee rate is CHF 100–500, depending on the functional level of the person at the registration body carrying out the task. 6 A surcharge of up to 50 percent of the ordinary fee can be levied for rulings and services provided, on request, urgently or outside normal working hours by the registration body. 7 In all other respects, the General Fees Ordinance of 8 September 2004 applies. SR 172.041.1"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Chapter 1 Prospectus for Securities",
+      "section": "43",
+      "title": "Definition of prospectus",
+      "content": "(Art. 35 FinSA) 1 A prospectus within the meaning of Article 35 FinSA is a document which satisfies the requirements set out in Articles 40–49 FinSA and: a. has been approved by a reviewing body or in accordance with Article 51 paragraph 3 FinSA is exempt from the approval requirement; b. in accordance with Article 51 paragraph 2 FinSA is required to be reviewed and approved after publication; or c. in accordance with Article 54 paragraph 2 FinSA is considered approved. 2 Documents included in the prospectus by reference in accordance with Article 42 FinSA are also regarded as part of the prospectus 3 Information documents not deemed to be a prospectus in accordance with paragraph 1 may not contain a designation as «Prospectus in accordance with FinSA» or comparable designations."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Chapter 1 Prospectus for Securities",
+      "section": "44",
+      "title": "Determination of the type of offer",
+      "content": "(Art. 36 para. 1 FinSA) 1 The calculation of the value of the securities in accordance with Article 36 paragraph 1 letter c and the calculation of the total value in accordance with Article 36 paragraph 1 letter e FinSA shall be based on the value provided by investors as a consideration to the offerer of the securities. 2 The point in time relevant for determining the values of the securities in Swiss francs in accordance with Article 36 paragraph 1 letters c–e FinSA is the commencement of the respective offer. If at this time no details of the issue volume or issue price are available or they cannot be ascertained in bandwidths, the time that the issue volume or issue price is stipulated is relevant. 3 The period indicated in Article 36 paragraph 1 letter e FinSA commences with the first public offer. 4 The exchange rate published by the Swiss National Bank is applied for values or denominations in currencies other than the Swiss franc. If this exchange rate is not available, the exchange rate applied by a Swiss bank significantly engaged in foreign exchange trading can be used."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Chapter 1 Prospectus for Securities",
+      "section": "45",
+      "title": "Consent to use the prospectus",
+      "content": "(Art. 36 para. 4 let. b FinSA) Consent to use a valid prospectus in accordance with Article 36 paragraph 4 letter b FinSA must be given in writing or in another form demonstrable via text insofar as it is not contained in the prospectus."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Chapter 1 Prospectus for Securities",
+      "section": "46",
+      "title": "Equivalence of information and preliminary ruling",
+      "content": "(Art. 37 para. 1 let. d and e FinSA) 1 Information is deemed equivalent in terms of content if it guarantees the investor a level of transparency comparable with the prospectus. 2 A preliminary ruling by the reviewing body can be obtained to clarify the question of equivalence. The application for a preliminary ruling must be submitted to the reviewing body in good time prior to the envisaged admission to trading. 3 In the case of public conversion offers, information in an offer prospectus produced in accordance with Article 127 of the Financial Market Infrastructure Act of 19 June 2015 (FinMIA) is deemed equivalent. In order to ensure equivalence, the reviewing body may require that, insofar as circumstances permit, the issuer provide pro-forma financial information detailing any structural changes. SR 958.1"
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Exemption for securities admitted to trading on Swiss trading venues or DLT trading facilities",
+      "content": "(Art. 37 para. 2 and 38 para. 2 FinSA) No further prospectus needs to be published for the admission to trading of securities which have already been admitted to trading on another Swiss trading venue or another Swiss trading facility for distributed ledger technology securities (DLT trading facility). Amended by No I 4 of the O of 18 June on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ( AS 2021 400 )."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "",
+      "content": "(Art. 38 para. 1 let. c and 47 para. 2 let. c FinSA) 1 For the purposes of this Ordinance and Title 3 FinSA, a recognised foreign trading venue or DLT trading facility is deemed to be any foreign trading venue or foreign DLT trading facility whose regulation, supervision and transparency have been recognised as appropriate: a. for the purposes of admission to trading: by the Swiss trading venue or Swiss DLT trading facility; or b. for the purposes of a public offer without admission to trading: by a Swiss trading venue, a Swiss DLT trading facility or a reviewing body. 2 Recognition in accordance with paragraph 1 may be limited to specific trading segments. 3 Swiss trading venues, Swiss DLT trading facilities and reviewing bodies shall maintain and publish a list of foreign trading venues or DLT trading facilities recognised by them or of the recognised trading segments of such foreign trading venues or DLT trading facilities. Term in accordance with No I 4 of the O of 18 June on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ( AS 2021 400 ). This amendment has been made throughout the text."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Analogous application of exemptions for admission to trading",
+      "content": "(Art. 38 para. 2 FinSA) The following exemptions from the duty to publish a prospectus also apply to admission to trading: a. Article 37 paragraph 1 letters a–g FinSA, insofar as securities of the same type are already admitted for trading on a Swiss trading venue or Swiss DLT trading facility or a recognised foreign trading venue or DLT trading facility; b. Article 37 paragraph 1 letters h and l FinSA."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Contents of prospectus",
+      "content": "(Art. 40 as well as 46 let. b and c FinSA) 1 The prospectus for securities must contain the minimum information stipulated in Annexes 1–5. The contents of the prospectus for collective investment schemes are governed exclusively by Annex 6. 2 The sequence of sections indicated in the Annexes and the sequence within the sections are not binding. 3 The valuations contained in the prospectus are to be made in accordance with methods generally recognised in the relevant market. Any change in the method is to be indicated in the prospectus and is only permitted where there are legitimate grounds for so doing."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Accounting requirements",
+      "content": "(Art. 40 para. 1 let. a item 2 FinSA) 1 The issuer or guarantor and security provider must apply an accounting standard which is recognised: a. for the purposes of admission to trading: by the respective Swiss trading venue or Swiss DLT trading facility; or b. for the purposes of a public offer without admission to trading: by a Swiss trading venue or Swiss DLT trading facility or the reviewing body dealing with the review. 2 Swiss trading venues, DLT trading facilities and reviewing bodies shall maintain and publish a list of accounting standards generally recognised by them. 3 Trading venues, DLT trading facilities and reviewing bodies may in individual cases recognise other accounting standards. Recognition may be made dependent on including in the prospectus an explanation of the significant differences between the accounting standard recognised in an individual case and a generally recognised accounting standard in accordance with paragraph 1."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Further exemptions relating to the contents of the prospectus",
+      "content": "(Art. 41 para. 2 FinSA) 1 Where there are legitimate grounds for so doing, the reviewing body may to a limited degree depart from the requirements shown in the schemes contained in Annexes 1–5. 2 It may make the granting of further exemptions in accordance with Article 41 paragraph 2 FinSA dependent on conditions, including the incorporation of further or additional details."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Inclusion by reference",
+      "content": "(Art. 42 and 46 let. d FinSA) 1 The prospectus may refer to the following reference documents: a. interim financial statements to be presented periodically; b. reports of the auditors and domestic or foreign annual financial statements drawn up in accordance with the applicable accounting standard; c. documents drawn up in the course of a specific adjustment of legal structures, such as a merger or demerger; d. prospectuses previously approved by a reviewing body and published; e. prospectuses recognised in accordance with Article 54 FinSA; f. other documents or information published previously or at the same time, in particular articles of association, ad hoc communications and comparable foreign documents, press communiqués, foreign registration documents or annual reports. 2 Reference documents must be accessible at the same time as the publication of the prospectus. 3 If only a specific part of a reference document is being referred to, this must be precisely indicated. 4 References in the summary to other sections of the prospectus containing more detailed or further information do not qualify as a reference within the meaning of Article 42 FinSA."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Summary",
+      "content": "(Art. 43 and 46 let. b FinSA) 1 In addition to the information in accordance with Article 43 paragraph 2 FinSA, the summary shall contain key information: a. on the issuer, namely, its company name, legal form, registered office and head office; b. on the securities; c. on the public offer or admission to trading. 2 The summary is to be designated as such and must be separate from the other parts of the prospectus. 3 The contents of the summary in accordance with paragraph 1 letters a–c shall be shown in tabular form. Where there are legitimate grounds for so doing, the sequence of information in accordance with paragraph 1 and the requirement to keep the summary separate from the prospectus in accordance with paragraph 2 may be departed from."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Contents of the base prospectus",
+      "content": "(Art. 45 FinSA) 1 The base prospectus shall contain in minimum: a. a summary; b. general information on the issuer and any guarantors or security providers; c. general information on the securities; as well as d. a sample of the final terms, which shall supplement the general information in individual cases. 2 The contents of the base prospectus are determined depending on the securities category in accordance with Annexes 1–5. 3 The summary of a base prospectus shall contain only the information in accordance with Article 43 paragraph 2 FinSA, the information in accordance with Article 54 paragraph 1 letter a as well as a general description of those securities categories for which it was produced. 4 If the categories issued depart from any categories of securities described in the base prospectus, a supplement must be added to the latter. 5 With regard to the securities in accordance with Annex 7, Article 51 paragraph 2 FinSA applies by analogy for the supplement to a base prospectus."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "The final terms contained in the base prospectus",
+      "content": "(Art. 45 para. 3 FinSA) 1 Final terms must be drawn up for every public offer or every admission to trading of securities issued under a base prospectus and must be published in minimum in a version with indicative information. 2 The information in the summary in accordance with Article 54 paragraph 1 letters b and c for a specific public offer or a specific admission to trading of securities shall be supplemented in the final terms or be appended to the final terms. 3 When using a base prospectus, in particular the product-specific conditions, the product-specific description of the securities and the information on product-specific risks can also be included in the final terms. 4 The final terms are to be published and filed with the reviewing body as soon as possible after the final information is available. In the case of an admission to trading, this shall be by no later than the time that the securities in question are admitted to trading. 5 Information on issuers is not to be updated in the final terms, but in a supplement."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "",
+      "content": "1 Relaxations of requirements as well as options for abridging the information in the prospectus are indicated in Annexes 1–5. If a relaxation of requirements is granted, the respective information may be dispensed with. 2 Issuers within the meaning of Article 47 paragraph 2 letter c FinSA are issuers that at the time of the public offer or admission to trading of the securities in question: a. have been listed with their equity securities on the Swiss benchmark index for at least two years; and b. accordingly have debt instruments outstanding with a total par value of at least one billion Swiss francs. 3 In place of the issuer, a guarantor or security provider may, provided they satisfy the conditions set out in paragraph 2, request relaxations of requirements as well as options for abridging in accordance with the present Article. 4 If the issuer is repeatedly sanctioned for a serious violation of obligations to maintain admission to trading, the reviewing body may deny the invocation of relaxations of requirements as well as options for abridging."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "",
+      "content": "1 The fund management company and the investment company with variable capital (SICAV) shall state in the prospectus all information material to the assessment of the collective investment scheme (Annex 6). 2 Special product-specific legislative requirements are reserved. 3 The fund company and the SICAV shall date the prospectus and submit it, together with any change, to FINMA by no later than the time of publication. 4 They shall update it immediately in the event of any material changes. One update per year is sufficient in the event of other changes."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Check for completeness",
+      "content": "(Art. 51 para. 1 FinSA) 1 The check for completeness of the prospectus in accordance with Article 51 paragraph 1 FinSA is limited to formal compliance with the guidelines in accordance with schemes contained in Annexes 1–5. 2 The name of the reviewing body and the date of the review are to be prominently placed on the approved documents."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Prospectuses to be reviewed after publication",
+      "content": "(Art. 51 para. 2 FinSA) 1 Securities whose prospectus must, in accordance with Article 51 paragraph 2 FinSA, be reviewed only after publication are designated in Annex 7. Where securities provide for a conversion into other securities or for an acquisition of other securities, this is conditional on these other securities already being admitted for trading on a Swiss trading venue, Swiss DLT trading facility or a recognised foreign trading venue or recognised foreign DLT trading facility. 2 The mention in accordance with Article 40 paragraph 5 FinSA must appear on the cover page of the prospectus. 3 Subject to paragraphs 4 and 5, the prospectus must be submitted to a reviewing body for review within 60 calendar days after commencement of the public offer or admission to trading. 4 In the case of products with a term of 90–180 calendar days, the prospectus must be submitted to a reviewing body for review within ten calendar days after commencement of the public offer or admission to trading. 5 In the case of products with a term of 30–89 calendar days, the prospectus must be submitted to a reviewing body for review within five calendar days after commencement of the public offer or admission to trading."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Reviewing body responsible for filing",
+      "content": "(Art. 51 para. 1 FinSA) 1 The approved prospectus is to be filed with the reviewing body which approved the prospectus. 2 It may be filed in electronic form. Individual documents and reference documents referred to are to be filed with the same reviewing body and in the same form as the prospectus. 3 Filing must occur by no later than the time of publication. 4 The base prospectus, the final terms relating to securities issued under the base prospectus and any supplements to the prospectus must be filed with the same reviewing body as the approved prospectus."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Confirmation that the most important information is known",
+      "content": "(Art. 51 para. 2 FinSA) 1 Confirmation that the most important information is known in accordance with Article 51 paragraph 2 FinSA is to be sent in writing or in another form demonstrable via text to the offerer or the person requesting admission to trading. 2 The most important information is deemed to be the information stipulated in Annexes 1–5 and any other information of significance to investors when making the investment decision. This information is considered to be known when it is or can be made publicly accessible. 3 In the case of issuers or guarantors or security providers whose equity securities or debt instruments are admitted to trading on a Swiss trading venue, Swiss DLT trading facility or a recognised foreign trading venue or recognised foreign DLT trading facility, the most important information relating to the issuers is assumed to be known. Swiss trading venues or DLT trading facilities may rule that this assumption does not apply to individual trading segments of theirs with low transparency. 4 Confirmation pursuant to the present Article is to be submitted to the reviewing body together with the prospectus to be reviewed."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Duty",
+      "content": "(Art. 56 FinSA) 1 A duty to publish a supplement is triggered by facts which, owing to the concrete circumstances of the particular case, are capable of materially influencing the average market participant in their investment decision. 2 Events included in the prospectus or in the final terms, such as approvals under company law or by the authorities, the stipulation of the price or volume of the securities offered or possible alternatives to a capital increase, do not trigger a duty to publish a supplement. 3 The time of final completion of an offer in accordance with Article 56 paragraph 1 FinSA is determined by the schedule of the offerer and the banks and securities firms participating directly in the offer. 4 Notifications of facts which, according to the rules of the respective Swiss or foreign trading venue or DLT trading facility are made public and are possibly price-sensitive, may be reported in accordance with Article 64 letter b as a supplement. Such a supplement has to be published at the same time as the report is made to the reviewing body. 5 Instead of extending the offer period, the offerer may, under the terms of the offer, also grant investors the option to withdraw subscriptions and acquisition pledges within two days after the final completion of the public offer."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Reporting",
+      "content": "(Art. 56 para. 2 FinSA) Modalities for reporting to the reviewing body: a. supplements which are required to be reviewed by a reviewing body: by submitting a request for review of the supplement to the reviewing body which approved the prospectus, together with the complete supplement to be reviewed; b. supplements which are not required to be reviewed by a reviewing body: by filing the supplement in accordance with Article 64 paragraph 1 letter a FinSA with the reviewing body with which the prospectus is filed."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Rectification",
+      "content": "(Art. 56 para. 3 FinSA) 1 If the competent reviewing body establishes that a supplement in accordance with Article 64 letter a does not satisfy legal requirements, it will set an appropriate period for rectification. 2 The period for rectification shall be no more than three calendar days in the case of a public offer, and no more than seven calendar days in the case of an admission to trading. 3 The reviewing body will decide on the rectified supplement within the same period that was set for rectification."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Publication",
+      "content": "(Art. 56 para. 3 FinSA) 1 Article 64 paragraphs 3–7 FinSA apply by analogy to the publication of supplements. The reviewing body shall add the supplements to the list of approved prospectuses. 2 Supplements are to be published in the same form as the prospectus was published."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Addendum to the summary",
+      "content": "(Art. 56 para. 3 FinSA) The information contained in the supplement must only be added to a summary if such information relates to details contained in the summary, and only if said summary would be misleading, inaccurate or inconsistent when read together with the supplemented prospectus without an addendum."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Initiation of the review period",
+      "content": "(Art. 53 para. 1 FinSA) The period commences on receipt of the application for review of the complete prospectus."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "New issuers",
+      "content": "(Art. 53 para. 5 FinSA) 1 In respect of the review of their prospectus (Article 51 paragraph 1 FinSA), an issuer is not deemed to be a new issuer if: a. within the last three years they submitted to the reviewing body, from which approval is being sought, a prospectus for securities issued or guaranteed by them; or b. at the time of submitting the application, securities issued or guaranteed by them are admitted for trading on a Swiss trading venue or Swiss DLT trading facility. 2 If obligations arising from securities are guaranteed by a third party, the requirements stipulated in paragraph 1 may also be satisfied by this third party. 3 For the purpose of determining the period stipulated in paragraph 1 letter a, the time when the full prospectus is first submitted for review is relevant."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Review and recognition of foreign prospectuses",
+      "content": "(Art. 54 FinSA) 1 The procedure for reviewing foreign prospectuses in accordance with Article 54 paragraph 1 FinSA is based on Article 53 FinSA as well as on Articles 59–62 and 77–79. 2 In its list of legal systems in accordance with Article 54 paragraph 3 FinSA, the reviewing body may stipulate by which authority the foreign approval needs to be issued in order for the prospectus to be deemed approved in Switzerland. 3 If the requirements are met for a prospectus to be deemed approved in accordance with Article 54 paragraph 2 FinSA, a prospectus published in an official language or in English and the supplements to it are accordingly deemed approved within the meaning of the FinSA. 4 If a foreign prospectus within the meaning of paragraph 3 is deemed approved, by no later than commencement of the public offer in Switzerland or by no later than admission of the respective securities to trading on a Swiss trading venue or Swiss DLT trading facility it must be: a. registered with a reviewing body for inclusion on the list in accordance with Article 64 paragraph 5 FinSA; b. filed with a reviewing body; c. published; and d. made available on request free of charge in paper form."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Application for a licence",
+      "content": "(Art. 52 para. 1 FinSA) 1 The reviewing body shall submit an application for a licence to FINMA. The application shall contain all details required to assess it, specifically, information on: a. the place of management; b. the organisation; c. company management and the planned controls; d. the guarantee; e. any activities assigned to third parties. 2 In respect of the persons entrusted with management of the registration body, the application shall contain: a. nationality, place of residence, qualified participations in companies and pending court and administrative proceedings; b. a signed curriculum vitae; c. references; d. a judicial record extract; e. an extract from the debt collection register. 3 FINMA may demand further information and details insofar as these are necessary for the assessment of the application."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Supervision by FINMA",
+      "content": "(Art. 52 para. 1 FinSA) 1 The reviewing body shall draw up an annual activity report for submission to FINMA. 2 The activity report must contain the following information insofar as it has not already been made known to FINMA under other supervisory reporting obligations: a. details of the organisation of the reviewing body; b. details of the balance sheet and income statement; c. details of coordination with any other reviewing bodies; d. statistics on reviewed prospectuses according to type of financial instruments; e. details of the challenges facing the reviewing body. 3 FINMA must be given prior notice of the following changes: a. a change in membership of the management; b. changes to the organisational basis. 4 Changes in accordance with paragraph 3 do not require approval from FINMA. 5 If FINMA grants a licence to several reviewing bodies, it will ensure appropriate coordination of their practice."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Place of management",
+      "content": "(Art. 52 para. 2 FinSA) 1 The reviewing body must be domiciled in Switzerland and effectively be managed from Switzerland. 2 If the reviewing body is integrated into an existing legal person, the latter must be domiciled in Switzerland and effectively be managed from Switzerland. 3 The body charged with management of the reviewing body must be made up of at least two professionally qualified persons. Their place of residence must be at a location from where they can effectively perform their management duties."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Organisation",
+      "content": "(Art. 52 para. 2 FinSA) 1 The reviewing body must have an appropriate operational organisation which guarantees the independent fulfilment of its tasks. 2 Operations must: a. be set out in organisational regulations; b. ensure that the reviewing body has the necessary professionally qualified personnel to perform its task; c. include an internal control system (ICS) and ensure that compliance is achieved; d. be such as to avoid conflicts of interest, in particular with other revenue-based business units; e. permit public consultation online; and f. provide for an appropriate strategy which allows business operations to be maintained or restored as quickly as possible in particular if damaging events occur."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Delegation of tasks",
+      "content": "(Art. 52 para. 2 FinSA) 1 The reviewing body may only delegate activities of minor significance to third parties. 2 The third parties must have the necessary skills, knowledge and experience to perform the delegated activities. 3 The reviewing body shall carefully instruct and monitor the appointed third parties. 4 Delegation must be agreed in writing or in another form demonstrable via text. The contract must define in particular: a. the access and audit rights of the reviewing body and FINMA; b. the permanent availability of data and readiness to deliver them to the reviewing body; c. the person responsible for the outsourced function at the audit body."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Licence costs",
+      "content": "(Art. 52 FinSA) In accordance with the FINMA Ordinance on the Levying of Supervisory Fees and Duties of 15 October 2008, the reviewing body shall bear the costs of: a. the licensing procedure; b. the procedure for instigating the necessary measures to remedy deficiencies; c. the procedure leading to revocation of the licence. SR 956.122"
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Retention period",
+      "content": "(Art. 52 FinSA) The reviewing body shall retain review documents and records for a period of ten years."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Liability to pay fees",
+      "content": "(Art. 57 para. 1 FinSA) 1 Anyone who occasions a ruling by the reviewing body or requires a service from the reviewing body is liable to a fee. 2 Insofar as the present Ordinance does not contain any special regulations, the provisions of the General Fees Ordinance of 8 September 2004 apply. SR 172.041.1"
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Fee rates",
+      "content": "(Art. 57 para. 2 FinSA) 1 Fees are determined according to the rates under Annex 8. 2 If a range is stipulated in the Annex, the reviewing body will set the fee to be paid within this range on the basis of the average time required for the performance of similar functions 3 For rulings and services for which no fee is stipulated in the Annex, the fee will be determined on the basis of time required. 4 The hourly fee rate is CHF 100–500, depending on the functional level of the person at the reviewing body carrying out the task. 5 In the case of exceptionally voluminous or particularly difficult rulings, the fee may be based on the time actually spent instead of in accordance with the rate stipulated in the Annex. 6 A surcharge of up to 50 percent of the ordinary fee can be levied for rulings and services provided, on request, urgently or outside normal working hours by the reviewing body."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "Chapter 2 Key Information Document for Financial Instruments",
+      "section": "80",
+      "title": "Principle",
+      "content": "(Art. 58 para. 1 FinSA) 1 The duty to produce a key information document arises as soon as a financial instrument is offered to retail clients in Switzerland. 2 A key information document does not need to be produced for a financial instrument created specifically for an individual counterparty."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "Chapter 2 Key Information Document for Financial Instruments",
+      "section": "81",
+      "title": "Collective investment schemes with several subfunds",
+      "content": "(Art. 58 para. 1 FinSA) For collective investment schemes comprising several subfunds a key information document must be produced for each subfund."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "Chapter 2 Key Information Document for Financial Instruments",
+      "section": "82",
+      "title": "Collective investment schemes with several unit classes",
+      "content": "(Art. 58 para. 1 FinSA) 1 If a collective investment scheme comprises several unit classes, a key information document must be produced for each unit class. Provided the requirements under Annex 9 are satisfied, in particular in respect of the length of the document, one key information document may also be compiled for several unit classes. 2 The fund management company and the SICAV may select a representative unit class for one unit class or several other unit classes provided this selection is not misleading for retail clients in the other unit classes. In such cases, the main risk which applies to each of the unit classes represented must be described in the key information document. 3 Different unit classes may not be pooled into one representative unit class in accordance with paragraph 2. The fund management company and the SICAV shall keep a record of the unit classes represented by the representative unit class in accordance with paragraph 2 and the reasons for this selection."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "Chapter 2 Key Information Document for Financial Instruments",
+      "section": "83",
+      "title": "Portfolio management agreements",
+      "content": "(Art. 58 para. 2 FinSA) The portfolio management agreement within the meaning of Article 58 paragraph 2 FinSA must be concluded for an unlimited number of transactions and in writing or in another form demonstrable via text, and it must provide for remuneration."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "Chapter 2 Key Information Document for Financial Instruments",
+      "section": "84",
+      "title": "Qualified third parties",
+      "content": "(Art. 58 para. 3 and 62 para. 2 FinSA) 1 A qualified third party is a person who can guarantee that the key information document will be produced to professional standards. 2 The producer is responsible for verifying qualification."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "Chapter 2 Key Information Document for Financial Instruments",
+      "section": "85",
+      "title": "Draft version",
+      "content": "(Art. 58 para. 4 FinSA) If a key information document contains indicative details, retail clients must be notified accordingly in the key information document. The indicative details must be recognisable as such."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Financial instruments",
+      "content": "(Art. 59 para. 1 FinSA) 1 In addition to those stipulated in Article 59 paragraph 1 FinSA, share-like securities include: a. convertible bonds that can be exchanged for equity securities, where the convertible bonds and the equity securities are issued by the same issuer or the same corporate group; b. tradable pre-emptive and preferential subscription rights allocated to existing shareholders under a capital increase or through the issue of convertible bonds; c. employee options on equity securities of the employer or a company associated with the latter; d. dividend distributions in the form of claims to shares. 2 Derivative debt instruments are derivatives and debt instruments whose payoff profile is structured in the same manner as that of a derivative in accordance with Article 2 letter c FinMIA. 3 Non-derivative debt instruments are: a. bonds with interest rates based on reference rates; b. inflation-hedged bonds; c. bonds with early redemption or purchase rights; d. zero coupon bonds. SR 958.1"
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Equivalence of documents pursuant to foreign legislation",
+      "content": "(Art. 59 para. 2 and 63 let. d FinSA) The documents in accordance with Annex 10 are deemed to be documents pursuant to foreign legislation which are equivalent to the key information document and can be used in its place."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Contents",
+      "content": "(Art. 60 para. 2 and 63 let. a FinSA) 1 The contents of the key information document must satisfy the requirements of Annex–9. 2 Special product-specific legislative requirements are reserved."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Language",
+      "content": "(Art. 63 let. b FinSA) 1 The key information document is to be produced in: a. an official language; b. English; or c. the retail client's language of correspondence. 2 The key information document for collective investment schemes must be made available in at least one official language or in English."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Layout and scope",
+      "content": "(Art. 63 let. b FinSA) 1 The layout and scope of the key information document must follow the template contained in Annex 9. 2 Clearly legible letters must be used."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "",
+      "content": "1 The information contained in the key information document is to be checked regularly, but at least once a year for as long as the financial instrument is offered to retail clients. 2 The key information document that was produced for collective investment schemes and any changes to it are to be submitted immediately to FINMA."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "Chapter 3 Publication of the prospectus",
+      "section": "92",
+      "title": "Prospectuses",
+      "content": "(Art. 64 para. 1 let. b and 3–7 FinSA) 1 Electronically published prospectuses and reference documents referred to shall remain accessible in the same form during the period of validity of the prospectus. During this period a paper version must also be made available free of charge upon request. 2 In the case of an electronic publication, mention of a website, a postal or e-mail address or a telephone number is deemed to be a sufficient indication of where individual documents or reference documents referred to are available. 3 The list of prospectuses and the supplements to them in accordance with Article 64 paragraph 5 FinSA must be structured in such a way that the individual prospectus and the supplement to it can be assigned to the respective offer or the respective admission to trading. The following must be indicated: a. the issuer, the offerer or the person requesting admission to trading; b. the date of approval and filing; c. the designation of the securities. 4 The prospectuses and the supplements to them must remain on the list for a period of 12 months after approval of the prospectus. In the case of a foreign prospectus deemed to be approved in accordance with Article 54 paragraph 2 FinSA, this period shall begin from the time of its filing."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "Chapter 3 Publication of the prospectus",
+      "section": "93",
+      "title": "Prospectuses of collective investment schemes",
+      "content": "(Art. 64 para. 3 and 65 para. 2 FinSA) 1 In the case of collective investment schemes, the registered office of the fund management company, the SICAV, the limited partnership for collective investment, the investment company with fixed capital (SICAF) or the representative is deemed to be the registered office of the issuer. 2 Prospectuses of collective investment schemes are always to be published in one single document."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "Chapter 3 Publication of the prospectus",
+      "section": "94",
+      "title": "Changes to the rights associated with securities",
+      "content": "(Art. 67 FinSA) 1 If the conditions at the time of issue of securities which are offered publicly in Switzerland on the basis of a prospectus and which are not admitted to trading on a Swiss or a recognised foreign trading venue or a Swiss DLT trading facility or a recognised foreign DLT trading facility do not provide for any regulation with respect to the announcement of changes to the rights associated with these securities, then such changes are to be published in the same form as the prospectus was published. 2 The announcement periods in accordance with paragraph 1 shall be based on the conditions of the respective securities."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "Chapter 4 Advertising",
+      "section": "95",
+      "title": "",
+      "content": "1 Advertising in accordance with Article 68 FinSA is deemed to be any communication which is aimed at investors and serves to draw attention to specific financial services or financial instruments. 2 In and of themselves alone, the following do not constitute advertising: a. the mentioning by name of financial instruments without or in conjunction with the publication of prices or net asset values, price lists or trends, tax figures; b. notifications on issuers or transactions, in particular if they are stipulated by law, by the supervisory authorities or under trading venue or DLT trading facility rules; c. the provision or forwarding of communications from an issuer to existing clients through financial service providers; d. reports in the trade press."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "Chapter 5 Offering of Structured Products and Creation of In-House Funds",
+      "section": "96",
+      "title": "",
+      "content": "1 A portfolio management or investment advice relationship within the meaning of Article 70 paragraph 1 and Article 71 paragraph 1 letter a FinSA must be concluded for an unlimited number of transactions and in writing or in another form demonstrable via text and it must provide for remuneration. 2 A special purpose entity is a legal person whose main purpose is the issue of financial instruments. This entity may also carry out secondary activities directly connected with the issue of financial instruments. 3 The following in particular are deemed to constitute security in accordance with Article 70 paragraph 1 FinSA: a. any legally enforceable guarantee from a supervised financial intermediary in accordance with Article 70 paragraph 1 FinSA: 1. to vouch for performance of the obligations of the issuer of a structured product, 2. to provide the issuer with sufficient financial resources to be able to satisfy investors' claims; b. to provide legally enforceable real security in favour of the investors."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "Title 4 Provision of Documents",
+      "section": "97",
+      "title": "",
+      "content": "1 If a client requests a copy of their file in accordance with Article 72 FinSA, it will be provided to them on a durable data medium. 2 If the client demands this copy a further time without sufficient reason, the financial service provider can demand compensation."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "Title 5 Ombudsman's Offices",
+      "section": "98",
+      "title": "Competence",
+      "content": "(Art. 74 FinSA) Mediation proceedings shall be conducted by the ombudsman's office to which the client's financial service provider is affiliated."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "Title 5 Ombudsman's Offices",
+      "section": "99",
+      "title": "Financing",
+      "content": "(Art. 80 FinSA) 1 The ombudsman's office or an industry organisation designated by it shall levy from the financial service providers affiliated to it fees to cover all costs incurred by it in the execution of its statutory task. 2 The fees may be levied in the form of a fixed basic fee plus supplementary case-by-case fees in accordance with the ombudsman's office's schedule of fees and costs."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "Title 5 Ombudsman's Offices",
+      "section": "100",
+      "title": "Admission",
+      "content": "(Art. 81 and 84 para. 4 FinSA) 1 The organisational regulations of the ombudsman's office may provide that financial service providers are affiliated individually or, by virtue of their membership of an industry organisation, as a group. 2 The ombudsman's office is not obligated to readmit a financial service provider excluded in accordance with Article 82 FinSA insofar as the latter cannot guarantee that they will comply with the duties in accordance with Articles 78–80 FinSA. 3 If an individual financial service provider does not satisfy the affiliation conditions of a recognised ombudsman's office and it is neither possible nor reasonable for said provider to implement the changes required to satisfy the affiliation conditions, the Federal Department of Finance (FDF) can compel the best suited ombudsman's office to admit said financial service provider."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "Title 5 Ombudsman's Offices",
+      "section": "101",
+      "title": "Requirements for recognition",
+      "content": "(Art. 84 FinSA) 1 Ombudsman's offices must have sufficient financing to perform their task. This financing should cover their total costs and secure the creation of appropriate reserves. 2 Ombudsman's offices that are not legally independent must have sufficient separate and ring-fenced financing at their disposal. 3 The requirements for admission must be based on objective criteria. The following are deemed to be objective criteria: a. the nature of the authorisation held by the financial service provider; b. the nature of their supervision; c. their business model; d. their size; e. their industry affiliation; f. their membership of an industry or self-regulatory organisation."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "Chapter 1 Amendment of Other Legislative Instruments",
+      "section": "102",
+      "title": "",
+      "content": "The amendment of other legislative instruments is set out in Annex 11."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "Chapter 2 Transitional Provisions",
+      "section": "103",
+      "title": "Client segmentation",
+      "content": "(Art. 4 FinSA) 1 Financial service providers have a duty in connection with client segmentation to implement the present Ordinance within two years of its entry into force. 2 Portfolio managers who are members of a self-regulatory organisation in accordance with Article 24 of the Anti-Money Laundering Act of 10 October 1997 and are entered in the commercial register can be classified as professional clients in accordance with Article 4 paragraph 3 letter a FinSA, even if they do not have authorisation from FINMA in accordance with Article 5 paragraph 1 of the Financial Institutions Act of 15 June 2018. SR 955.0 SR 954.1"
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "Chapter 2 Transitional Provisions",
+      "section": "104",
+      "title": "Required knowledge",
+      "content": "(Art. 6 FinSA) Client advisers must possess the required knowledge within two years of entry into force of the present Ordinance."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "Chapter 2 Transitional Provisions",
+      "section": "105",
+      "title": "Code of conduct",
+      "content": "(Art. 7–18 FinSA) 1 Financial service providers must satisfy the duty to provide information, review, document and render account as well as the duty to ensure transparency and care in client orders in accordance with Articles 7–18 FinSA within two years of entry into force of the present Ordinance. 2 Financial service providers who wish to satisfy the duties in accordance with Articles 7–18 FinSA prior to expiration of the two-year period after entry into force of the present Ordinance must notify their audit company of this irrevocably in writing, indicating the chosen time. 3 Until the time indicated in accordance with paragraph 2, the relevant financial service providers are subject to the codes of conduct in accordance with: a. Article 11 of the Stock Exchange Act of 24 March 1995; b. Article 20 of the Collective Investment Schemes Act of 23 June 2006; (CISA) in the version of 1 March 2013; c. Articles 21–23 CISA d. Article 24 CISA in the version of 1 January 2014; e. Article 120 paragraph 4 CISA in the version of 1 March 2013; f. the minimum standard of self-regulation recognised by FINMA in accordance with Article 7 paragraphs 1 und 3 FINMASA for financial services and offers of collective investment schemes. 4 For financial services and offers which in accordance with Article 3 paragraphs 1 and 2 letters a–c CISA in the version of 1 March 2013 were not deemed to be distribution, no additional duties arise due to the continued application of Article 24 paragraph 2 and Article 120 paragraph 4 CISA in accordance with paragraph 3 of the present Article. 5 Entry into force of the present Article does not nullify existing distribution agreements pursuant to CISA. 6 Uncovered transactions with the financial instruments of clients with a written portfolio management agreement as well as of high-net-worth clients who in accordance with Article 10 paragraph 3 bis CISA in the version of 1 June 2013 have declared in writing that they wish to be deemed qualified investors is no longer permitted two years after entry into force of the present Ordinance. AS 1997 68 SR 951.31 AS 2013 585 AS 2013 585 AS 2013 585 SR 956.1 AS 2013 585 AS 2013 585"
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Organisation",
+      "content": "(Art. 21–27 FinSA) 1 Financial service providers must satisfy the organisational requirements in accordance with Articles 21–27 FinSA within two years of entry into force of the present Ordinance. 2 Financial service providers who wish to satisfy the duties in accordance with Articles 21–27 FinSA prior to expiration of the two-year period after entry into force of the present Ordinance must notify their audit company of this irrevocably in writing, indicating the chosen time. 3 Until the time indicated in accordance with paragraph 2, the relevant financial service providers are subject to the organisational provisions in accordance with: a. Article 11 of the Stock Exchange Act of 24 March 1995; b. Article 20 CISA in the version of 1 March 2013; c. Articles 21–23 CISA; d. Article 24 CISA in the version of 1 January 2014; e. Article 120 paragraph 4 CISA in the version of 1 March 2013; f. the minimum standard of self-regulation recognised by FINMA in accordance with Article 7 paragraphs 1 und 3 FINMASA for financial services and offers of collective investment schemes. 4 For financial services and offers which in accordance with Article 3 paragraphs 1 and 2 letters a–c CISA in the version of 1 March 2013 were not deemed to be distribution, no additional duties arise due to the continued application of Article 24 paragraph 2 and Article 120 paragraph 4 CISA in accordance with paragraph 3 of the present Article. 5 Entry into force of the present Article does not nullify existing distribution agreements in accordance with CISA. AS 1997 68 SR 951.31 AS 2013 585 AS 2013 585 AS 2013 585 RS 956.1 AS 2013 585"
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Registration body",
+      "content": "(Art. 31 and 95 para. 2 FinSA) If on entry into force of the FinSA there is no corresponding registration body in place, the period for registration with the registration body will commence only after licensing of a registration office by FINMA or after designation of a registration body by the Federal Council. The period is deemed to be observed on submission of the application."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Ombudsman's offices",
+      "content": "(Art. 77 and 95 para. 3 FinSA) If on entry into force of the FinSA there is no corresponding ombudsman's office in place, the period for affiliation will commence after recognition of the ombudsman's office by the FDF or after establishment of an ombudsman's office by the Federal Council. The period is deemed met on submission of the application."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Prospectus for securities",
+      "content": "(Art. 95 FinSA) 1 In the case of securities for which a public offer was made or a request was made for admission to trading on a trading venue or DLT trading facility, the duty to publish an approved prospectus shall take effect six months after licensing of a reviewing body by FINMA, but by no earlier than from 1 October 2020. 2 Until such time, insofar as no prospectus in accordance with FinSA is produced, the following apply: a. for public offers in Switzerland: the provisions of the Code of Obligations on issue prospectuses in the version of 16 December 2005 (Article 652 a ) and in the version of 1 January1912 (Article 1156); b. for admission to trading: the prospectus provisions in accordance with the regulations of the respective trading venues or DLT trading facilities. SR 220 AS 2007 4791 AS 27 317"
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Key information document for real estate funds, securities funds and other funds for traditional investments",
+      "content": "(Art. 95 FinSA) For two years after the entry into force of the FinSA: a. for real estate funds offered to retail clients after entry into force of the FinSA, in place of a key information document according to Annex 9 a simplified prospectus according to Annex 2 of the Collective Investment Schemes Act of 22 November 2006 (CISO) in the version of 1 March 2013 may be produced and published; b. for securities funds and other funds for traditional investments offered to retail clients after entry into force of the FinSA, in place of a key information document according to Annex 9 the simplified prospectus (key investor information) according to Annex 3 CISO in the version of 15 July 2011 may be produced and published. SR 951.311 AS 2013 607 AS 2011 3177"
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Key information document for structured products and other financial instruments",
+      "content": "(Art. 95 FinSA) 1 For structured products offered to retail clients after entry into force of the FinSA, during a period of two years after entry into force of the FinSA, in place of a key information document according to Annex 9 a simplified prospectus according to Article 5 paragraph 2 CISA in the version of 1 March 2013 may be produced and published. 2 For the other financial instruments offered after entry into force of the FinSA, the duty to produce a key information document shall take effect two years after entry into force of the present Ordinance. SR 951.31 AS 2013 585"
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "Chapter 3 Commencement",
+      "section": "112",
+      "title": "",
+      "content": "This Ordinance enters into force on 1 January 2020."
+    }
+  ],
+  "definitions": []
+}

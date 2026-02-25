@@ -1,0 +1,356 @@
+{
+  "id": "sr-742-120",
+  "type": "statute",
+  "title": "Verordnung vom 14. Oktober 2015 über die Konzessionierung, Planung und Finanzierung der Bahninfrastruktur (KPFV)",
+  "title_en": "",
+  "short_name": "KPFV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/697/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Trennung von Verkehr und Infrastruktur sowie die Abgrenzung zwischen Substanzerhalt und Ausbau der Infrastruktur; b. die Erteilung, Änderung, Erneuerung und Übertragung sowie den Widerruf von Infrastrukturkonzessionen; c. die Planung des Substanzerhalts der Infrastruktur; d. die Planung des Ausbaus der Infrastruktur; e. die Finanzierung von Betrieb, Substanzerhalt und Ausbau der Infrastruktur; f. die Finanzierung der Investitionen in Seilbahnen; g. die Gewährung von Finanzhilfen bei grossen Schäden durch Naturereignisse; h. die Finanzierung von Forschung. Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Trennung von Verkehr und Infrastruktur: Umfang der Trennung",
+      "content": "1 Die Anlagen der Infrastruktur und die dazugehörende Finanzierung sind in der Bilanz der Infrastrukturbetreiberin von den anderen Bereichen getrennt auszuweisen. 2 Das Bundesamt für Verkehr (BAV) kann die Infrastrukturbetreiberin verpflichten, die Investitionsmittel der Infrastruktur von den übrigen flüssigen Mitteln zu trennen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Trennung von Verkehr und Infrastruktur: Spartenrechnung",
+      "content": "1 Das BAV kann die Infrastrukturbetreiberin verpflichten, die Sparte Infrastruktur nach Strecken und Knoten zu gliedern. 2 Entgelte für Leistungen ausserhalb des Netzzugangs, die mit Personal und Anlagen der Infrastruktur erbracht werden, gelten als Nebenerlöse. Sie müssen mindestens die Grenzkosten decken. Ebenfalls als Nebenerlöse der Infrastruktur gelten die Entgelte für die Benützung von Bauten, Anlagen, insbesondere Landflächen, und Einrichtungen im Sinne der Artikel 34 und 35 EBG. 3 Lassen sich die Anforderungen nach den Absätzen 1 und 2 nicht anders darstellen, so muss die Infrastrukturbetreiberin eine Betriebskosten- und Leistungsrechnung führen. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) regelt die Einzelheiten der Rechnungsführung. 4 Das BAV kann ausländische Infrastrukturbetreiberinnen von der Pflicht zur Führung der Spartenrechnung befreien, wenn sich die ungedeckten Kosten der betreffenden Strecken auf andere Weise nachweisen lassen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Ausnahme von der Pflicht zur Trennung",
+      "content": "Infrastrukturbetreiberinnen, die keine Abgeltung des Bundes nach Artikel 49 EBG erhalten, sind von der Pflicht ausgenommen, die Infrastruktur in der Bilanz von den anderen Bereichen getrennt auszuweisen sowie eine Spartenrechnung zu führen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Abgrenzung zwischen den Investitionsbereichen Substanzerhalt und Ausbau",
+      "content": "1 Investitionen in den Substanzerhalt dienen: a. der planmässigen Erneuerung der Infrastruktur; b. der Einhaltung der massgebenden Vorschriften und Standards; c. der Sicherung der bestehenden Leistungsfähigkeit, Fahrplanstabilität und Unterhaltseffizienz; d. der Bewältigung der Nachfrageentwicklung ohne zusätzliche Zugskilometer im Personenverkehr und im Gütertransport; e. der Anpassung der Stromversorgung, der Informationssysteme und der Kommunikationseinrichtungen an die Erfordernisse des Verkehrs. 2 Investitionen in den Ausbau dienen: a. der Erhöhung der Kapazität für zusätzliche Zugskilometer im Personenverkehr und im Gütertransport; b. der Verkürzung der Fahrzeit. 3 Führen Massnahmen für den Personenfluss in einem Bahnhof nach Anhang zu Investitionen von mehr als 10 Millionen Franken, so gelten sie als Ausbau. Ausdruck gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Steuerung",
+      "content": "1 Das BAV steuert die Infrastrukturfinanzierung. 2 Der Steuerungsprozess umfasst insbesondere: a. die Planung der zu erbringenden Leistungen und zu vereinbarenden Ziele sowie die Verhandlung mit den Infrastrukturbetreiberinnen oder den mit der Umsetzung der Massnahmen betrauten Dritten (Erstellergesellschaften); b. die regelmässige Überprüfung der Leistungserbringung und Zielerreichung der Infrastrukturbetreiberinnen und Erstellergesellschaften (Monitoring); c. die Verfügung angemessener technischer, finanzieller oder organisatorischer Massnahmen, wenn die Zielerreichung gefährdet ist; d. gegebenenfalls die Anpassung der zu erbringenden Leistungen oder der vereinbarten Zielvorgaben oder die Änderung der Finanzierungsvereinbarung. 3 Das BAV legt im Einzelfall die Fristen für die Phasen des Prozesses fest und teilt sie den Infrastrukturbetreiberinnen, den Erstellergesellschaften und weiteren für die Planung verantwortlichen Stellen (Art. 15 Abs. 2) frühzeitig mit."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Öffentliche Unterlagen",
+      "content": "1 Die Leistungsvereinbarungen, die Netzzustandsberichte sowie die Investitionspläne der Infrastrukturbetreiberinnen und Erstellergesellschaften sind öffentlich. 2 Das BAV macht diese Unterlagen in geeigneter Form zugänglich. Es koordiniert sich mit der Trassenvergabestelle hinsichtlich der Veröffentlichung der Investitionspläne der Infrastrukturbetreiberinnen. 3 Es kann die Dokumente und Unterlagen nach den Artikeln 27 und 31 veröffentlichen. Zweiter Satz eingefügt durch Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Konzessionierung",
+      "section": "8",
+      "title": "Gesuch",
+      "content": "1 Konzessionsgesuche sind dem BAV einzureichen. 2 Die Gesuche um Erteilung oder Ausdehnung der Konzession müssen enthalten: a. einen Grundlagenbericht mit folgenden Angaben: 1. Name, Sitz und Adresse der Gesuchstellerin, 2. Projektbeschreibung, 3. Begründung des Gesuchs (Zweck, Bedeutung der Eisenbahn, bestehendes Angebot, erwartete Nachfrage, Linienwahl, Bahnart, Standort der Stationen usw.), 4. Anschluss an bestehende Eisenbahnen und dessen Finanzierung, 5. Zeitplan der Projektrealisierung, 6. Betriebs- und Unterhaltsorganisation, 7. Koordination mit anderen Bewilligungsverfahren, 8. Sicherheitskonzept, 9. Berücksichtigung der Anliegen mobilitätsbehinderter Menschen; b. folgende technische Unterlagen: 1. eine topografische Karte im Massstab 1:25 000 mit Streckenführung und Standort der Stationen, 2. ein Längenprofil im Massstab 1:25 000 mit Stationen und Kilometrierung, 3. Angaben über die Spurweite, die Spurzahl, die Steigungsverhältnisse, den Minimalradius, die Traktionsart und das Stromsystem; c. Angaben über das Verhältnis des Projekts zu den Sachplänen und Konzepten des Bundes, den kantonalen Richtplänen und den kommunalen Nutzungs- und Richtplänen sowie gegebenenfalls zu den regionalen Entwicklungskonzepten; d. einen Bericht über die Auswirkungen der Anlage auf die Umwelt nach den Artikeln 7–11 der Verordnung vom 19. Oktober 1988 über die Umweltverträglichkeitsprüfung (1. Stufe); e. eine Wirtschaftlichkeitsrechnung mit: 1. Investitionsplan, 2. Finanzierungsplan und Finanzierungsnachweis, 3. Planerfolgsrechnung. 3 Für Gesuche um Erneuerung, Änderung, mit Ausnahme der Ausdehnung, oder Übertragung der Konzession bestimmt das BAV im Einzelfall, welche Unterlagen das Gesuch enthalten muss. 4 Das BAV teilt der Gesuchstellerin die erforderliche Anzahl Gesuchskopien, einschliesslich der Unterlagen, mit. 5 Werden Gesuche mit unvollständigen oder mangelhaften Unterlagen eingereicht, so setzt das BAV eine Frist für deren Ergänzung. Wird diese Frist nicht genutzt, so tritt das BAV auf das Gesuch nicht ein. SR 814.011"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Konzessionierung",
+      "section": "9",
+      "title": "Anhörung",
+      "content": "1 Das BAV hört die betroffenen Kantone, Transportunternehmen mit einer Personenbeförderungskonzession und Infrastrukturbetreiberinnen an. 2 Die Kantone machen die Gesuche um Erteilung oder Änderung von Konzessionen in geeigneter Weise öffentlich zugänglich. Sie setzen das BAV über die eingegangenen Stellungnahmen Dritter in Kenntnis. 3 Die Frist beträgt bei neu zu erstellenden Strecken drei Monate. In den übrigen Fällen beträgt sie einen Monat."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Konzessionierung",
+      "section": "10",
+      "title": "Inhalt",
+      "content": "Die Konzession enthält: a. den Namen, den Sitz und die Adresse der Infrastrukturbetreiberin; b. den Anfangs- und den Endpunkt der Infrastruktur sowie die wichtigsten Knotenpunkte; c. die Spurweite, gegebenenfalls das Zahnradsystem; d. die Traktionsart, bei elektrischer Traktion auch das Stromsystem; e. die Konzessionsdauer; f. Auflagen und Bedingungen; g. bei neu zu erstellenden Strecken die Fristen zur Einreichung der Pläne, zum Baubeginn und zur Vollendung des Baus; h. den Umfang der Betriebspflicht und allfällige Einschränkungen des Verkehrs und der Betriebszeiten."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Konzessionsverzeichnis",
+      "content": "1 Das BAV führt ein elektronisches Verzeichnis der Konzessionen. Das Verzeichnis ist öffentlich zugänglich. 2 Das Verzeichnis enthält den Namen, den Sitz und die Adresse der Infrastrukturbetreiberinnen sowie den Inhalt der Konzessionen."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Statistik",
+      "content": "1 Die Infrastrukturbetreiberin muss dem BAV jährlich statistische Unterlagen über ihre Geschäftstätigkeit im konzessionierten Bereich vorlegen. Das BAV legt die Inhalte der Statistik in einer Richtlinie fest. 2 Produktions- und Leistungsdaten sowie finanzielle Werte können im Rahmen der Statistik über den öffentlichen Verkehr pro Strecke oder Konzession publiziert werden. 3 Die Infrastrukturbetreiberin sorgt dafür, dass die auf die Strecke entfallenden Angaben über Verkehrsleistungen der Eisenbahnverkehrsunternehmen (Personenkilometer, Tonnenkilometer) rechtzeitig und in genügender Qualität zur Verfügung stehen. 4 Halter nach Artikel 17 a Absatz 2 EBG können die sie betreffenden Daten der Eisenbahnunternehmen einsehen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Planung des Substanzerhalts",
+      "section": "13",
+      "title": "Substanzerhalt der Infrastruktur",
+      "content": "1 Die Infrastrukturbetreiberinnen planen den Substanzerhalt ihrer Infrastruktur. Sie berücksichtigen dabei die Planungsgrundsätze nach Artikel 15 Absatz 1 und stimmen die wichtigsten Planungsinhalte mit dem BAV ab. 2 Das BAV informiert die Infrastrukturbetreiberinnen mindestens zwei Jahre im Voraus über die Rahmenbedingungen für die Leistungsvereinbarungen nach Artikel 51 EBG. 3 Die Infrastrukturbetreiberinnen stellen die Abstimmung zwischen den Projekten des Substanzerhalts und den Massnahmen der Ausbauschritte nach Artikel 48 c EBG sicher."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Abschnitt: Planung des Substanzerhalts",
+      "section": "14",
+      "title": "Prüfung alternativer Angebote",
+      "content": "1 Vor grösseren Investitionen in den Substanzerhalt von Strecken, die vorwiegend dem regionalen Personenverkehr dienen, beauftragt das BAV die betroffenen Unternehmen, unter Einbezug der betroffenen Kantone und Planungsregionen Alternativen zu prüfen, die ein besseres Kosten-Nutzen-Verhältnis aufweisen. 2 Massgeblich sind insbesondere: a. die Kosten und Erlöse der Infrastruktur; b. die Kosten und Erlöse des Verkehrs; c. die Kriterien nach Artikel 31 a Absatz 3 des Personenbeförderungsgesetzes vom 20. März 2009 ( PBG); d. die Auslastung der Linien während den Hauptverkehrszeiten; e. die Auswirkungen auf die Qualität der Erschliessung im Personenverkehr und im Gütertransport. SR 745.1"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Planung des Ausbaus",
+      "section": "15",
+      "title": "Planungsgrundsätze",
+      "content": "1 Das BAV legt die Planungsgrundsätze, insbesondere die Bewertungskriterien für die einzelnen Ausbauschritte nach Artikel 48 c EBG, fest. Es stützt sich dabei auf die beschlossenen Ausbauten und leitet auf der Grundlage der nationalen Verkehrsmodelle eine Bedarfsanalyse für den jeweiligen Ausbauschritt ab. Es berücksichtigt insbesondere die raumordnungs- und umweltpolitischen, verkehrlichen und finanziellen Vorgaben sowie die Belange des Rollmaterials. 2 Es informiert die Kantone, die Vertreter der Gütertransportbranche und die Eisenbahnunternehmen über die Planungsgrundsätze, die Vorgehensweise und den Terminplan."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Planung des Ausbaus",
+      "section": "16",
+      "title": "Ablauf der Planung",
+      "content": "1 Die Kantone erarbeiten und priorisieren in den Planungsregionen nach Artikel 48 d Absatz 2 EBG die Angebotskonzepte für den regionalen Personenverkehr und stimmen diese untereinander ab. Sie können sich zu den Angebotskonzepten nach den Absätzen 2 und 3 äussern. 2 Das BAV erarbeitet das Angebotskonzept für den Gütertransport. Es bezieht dabei Vertreter der Gütertransportbranche mit ein und berücksichtigt die Anliegen der betroffenen Kantone. 3 Es beauftragt die Eisenbahnverkehrsunternehmen des Personenfernverkehrs oder Dritte, das Angebotskonzept für den Fernverkehr zu erstellen. Die Beauftragten haben die Anliegen der betroffenen Kantone zu berücksichtigen. 4 Das BAV koordiniert die Angebotskonzepte, passt diese soweit notwendig an und beauftragt die Eisenbahnunternehmen, die dazu erforderlichen Massnahmen für die Infrastruktur und das Rollmaterial zu entwickeln. Es bewertet die einzelnen Massnahmen, priorisiert sie und teilt sie in Dringlichkeitsstufen ein. 5 Es erarbeitet aus ausgewählten Massnahmen der ersten Dringlichkeitsstufe ein Angebotskonzept für den Personenverkehr und den Gütertransport. Die dafür erforderlichen Infrastrukturmassnahmen bilden den jeweiligen Ausbauschritt. Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Planung des Ausbaus",
+      "section": "17",
+      "title": "Änderung von Massnahmen",
+      "content": "Bereits beschlossene, aber noch nicht ausgeführte Massnahmen können mit einem späteren Ausbauschritt geändert werden, wenn sich die Rahmenbedingungen geändert haben oder ein neues Angebotskonzept eine betriebswirtschaftlich und volkswirtschaftlich vorteilhaftere Verkehrsabwicklung erlaubt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Planung des Ausbaus",
+      "section": "18",
+      "title": "Bericht zum nächsten geplanten Ausbauschritt",
+      "content": "Der Bericht zum nächsten geplanten Ausbauschritt enthält insbesondere: a. das Angebotskonzept nach Artikel 16 Absatz 5, einschliesslich einer grafischen Darstellung der geplanten Nutzung des Eisenbahnnetzes in den Stunden mit der grössten Trassenzahl im Tages- und Wochenverlauf und der massgebenden Zusatzinformationen pro Strecke; b. Angaben zu den verkehrlichen Rahmenbedingungen, insbesondere Bevölkerungsszenarien, Verkehrsprognosen, Eignungs- und Bewertungskriterien; c. Angaben zur Entwicklung des Fern- und des Regionalverkehrs und des Güter Gütertransports; d. eine Liste der Massnahmen für den Ausbau der Infrastruktur mit Angaben zu Kosten und Nutzen. Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "10",
+      "section": "19",
+      "title": "Grundlage",
+      "content": "Das Netznutzungskonzept nach Artikel 9 b EBG stützt sich auf die beschlossenen Ausbauschritte. Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 )."
+    },
+    {
+      "provision_ref": "art19a",
+      "chapter": "10",
+      "section": "19a",
+      "title": "a Inhalt",
+      "content": "1 Das Netznutzungskonzept legt für einen Ausbauschritt die geplante Trassennutzung pro Modellstunde fest. 2 Es kann festlegen, dass ausgewählte Trassen wechselweise durch verschiedene Verkehrsarten genutzt werden können. 3 Es hält Kapazitäten für nicht längerfristig planbaren Verkehr frei. 4 Es unterscheidet die Trassennutzung durch folgende Verkehrsarten: a. Personenfernverkehr; b. regionaler Personenverkehr; c. Gütertransport; d. weitere Verkehrsarten, insbesondere den Transport begleiteter Motorfahrzeuge (Autoverlad). 5 Es kann zusätzlich streckenspezifische Angaben enthalten, die für die Nutzung einer Trasse von Bedeutung sind. Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 )."
+    },
+    {
+      "provision_ref": "art19b",
+      "chapter": "10",
+      "section": "19b",
+      "title": "b Verbindlichkeit",
+      "content": "Das Netznutzungskonzept ist für die Infrastrukturbetreiberinnen und die Behörden verbindlich. Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 )."
+    },
+    {
+      "provision_ref": "art19c",
+      "chapter": "10",
+      "section": "19c",
+      "title": "c Anpassungen von beschränkter Tragweite",
+      "content": "Das BAV kann Anpassungen von beschränkter Tragweite am Netznutzungskonzept vornehmen. Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 )."
+    },
+    {
+      "provision_ref": "art19d",
+      "chapter": "10",
+      "section": "19d",
+      "title": "d Publikation",
+      "content": "Das BAV publiziert das Netznutzungskonzept elektronisch. Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "5. Abschnitt: Grundsätze der Finanzierung",
+      "section": "20",
+      "title": "Gegenstand der Finanzierung",
+      "content": "1 Gegenstand der Finanzierung sind die Bauten, Anlagen und Einrichtungen nach Artikel 62 Absatz 1 EBG sowie die Fahrzeuge, die für den Betrieb und Substanzerhalt dieser Infrastruktur notwendig sind. 2 Ebenfalls Gegenstand der Finanzierung können sein: a. Bauten und Anlagen, die für den Betrieb der Infrastruktur nicht mehr notwendig sind, wenn ihr Substanzerhalt im öffentlichen Interesse liegt und sie nicht anders finanziert werden können; b. gemischt genutzte Bauten, Anlagen, Einrichtungen und Fahrzeuge von Infrastrukturbetreiberinnen, einschliesslich vereinbarter Fremdfinanzierungskosten."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "5. Abschnitt: Grundsätze der Finanzierung",
+      "section": "21",
+      "title": "Finanzierungsinstrumente",
+      "content": "1 Die Finanzierung des Betriebs und des Substanzerhalts wird durch Leistungsvereinbarungen nach Artikel 51 EBG geregelt. 2 Die Finanzierung des Ausbaus wird durch Umsetzungsvereinbarungen nach Artikel 48 f EBG geregelt. Diese sind bis zum Abschluss der jeweiligen Projekte gültig. 3 Die Mittel werden dem Bahninfrastrukturfonds nach dem Bahninfrastrukturfondsgesetz vom 21. Juni 2013 entnommen. Bereits begonnene Projekte haben Vorrang vor neuen Projekten. SR 742.140"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Abschnitt: Grundsätze der Finanzierung",
+      "section": "22",
+      "title": "Strecken für die Feinerschliessung",
+      "content": "1 Als Strecken für die Feinerschliessung, die nach Artikel 49 EBG keine Bundesleistungen erhalten, gelten Strecken: a. mit mehrheitlichen Angeboten nach Artikel 3 oder 7 Absatz 7 der Verordnung vom 11. November 2009 über die Abgeltung des regionalen Personenverkehrs; b. mit mehrheitlichen Haltestellen, die nicht weiter als 1,5 km voneinander entfernt sind und keine zusätzlichen Ortschaften erschliessen. 2 Ob es sich um eine Strecke für die Feinerschliessung handelt, wird bei der Erteilung der Konzession oder auf Gesuch eines Kantons vor Abschluss der Leistungsvereinbarung geprüft. SR 745.16"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "5. Abschnitt: Grundsätze der Finanzierung",
+      "section": "23",
+      "title": "Mitfinanzierung durch die Kantone",
+      "content": "1 Der Schlüssel zur Berechnung der kantonalen Beteiligungen an der Einlage nach Artikel 57 Absatz 1 EBG gewichtet die gemeinsam von Bund und Kantonen im regionalen Personenverkehr bestellten Personen- und Zugskilometer je zur Hälfte. 2 Das BAV berechnet jährlich die Beteiligungen für das nachfolgende Beitragsjahr anhand der Plandaten der für das Vorjahr abgeschlossenen Angebotsvereinbarungen nach Artikel 31 a PBG. Dabei berücksichtigt es die Angebote auf Strecken und Streckenabschnitten, für die Infrastrukturbeiträge aus dem Bahninfrastrukturfonds ausgerichtet werden. Es teilt den Kantonen das Ergebnis der Berechnung für das nachfolgende Beitragsjahr jeweils Ende Februar mit. 3 Die Einlage wird dem Kanton quartalsweise seinem Kontokorrent bei der Schweizerischen Nationalbank belastet. SR 745.1"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "5. Abschnitt: Grundsätze der Finanzierung",
+      "section": "24",
+      "title": "",
+      "content": "1 Die Infrastrukturbetreiberin legt dem BAV jährlich den aktualisierten und mit den Eisenbahnverkehrsunternehmen abgestimmten Investitionsplan vor. Dieser enthält die Informationen für mindestens die fünf folgenden Jahre. 2 Der Investitionsplan enthält alle geplanten Projekte für Investitionen in den Substanzerhalt und den Ausbau sowie deren Finanzierung, einschliesslich einer Finanzierung durch Dritte. 3 Die Projektkosten sind für die normierten Anlagegattungen auszuweisen. Das BAV kann Vereinfachungen zulassen. 4 Die Infrastrukturbetreiberin erteilt Unternehmen, die ihr Mitwirkungsrecht nach Artikel 37 a EBG ausüben wollen, die notwendigen Auskünfte über Projekte, die im Investitionsplan figurieren. Sie erläutert ihnen auf Anfrage, weshalb bestimmte Investitionen nicht in den Investitionsplan aufgenommen wurden. 5 Die Unternehmen können ihre von der Infrastrukturbetreiberin nicht berücksichtigten Anliegen dem BAV zum Entscheid unterbreiten. Das BAV entscheidet endgültig. 6 Bei Streitigkeiten betreffend Verletzungen des Mitwirkungsrechts ist die inhaltliche Prüfung der Investitionsvorhaben ausgeschlossen. Die Kommission für den Eisenbahnverkehr (RailCom) entscheidet endgültig. Fassung gemäss Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 ). Eingefügt durch Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 ). Eingefügt durch Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 ). Eingefügt durch Ziff. I 3 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ( AS 2020 1915 )."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Formen der Finanzierung",
+      "content": "1 Zum Ende jedes Jahres wird der Teil der Investitionsmittel nach den Artikeln 51 b und 58 a EBG, der den effektiven Abschreibungen einschliesslich Direktabschreibungen entspricht, als Abgeltung verbucht. Die restlichen Mittel werden per 31. Dezember in zinslose, bedingt rückzahlbare Darlehen umgewandelt. 2 In den nach Artikel 51 b Absatz 2 EBG und Artikel 29 des Subventionsgesetzes vom 5. Oktober 1990 vorgesehenen Fällen fordert das BAV die Rückzahlung der Darlehen. 3 Das BAV entscheidet über den Verzicht auf die Rückzahlung von Darlehen oder deren Umwandlung in Eigenkapital nach Artikel 51 b Absatz 3 EBG. Bei Beträgen über 10 Millionen Franken handelt es im Einvernehmen mit der Eidgenössischen Finanzverwaltung (EFV). SR 616.1"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Vereinbarungen über die Zusammenarbeit zwischen Transportunternehmen",
+      "content": "1 Die Transportunternehmen berücksichtigen bei Vereinbarungen über die Vergütung für die Benützung von Bauten, Anlagen und Einrichtungen (Art. 34 Abs. 2 und 35 EBG), insbesondere von Landflächen und Verkaufsstellen, die Interessen der Besteller von Verkehrsangeboten nach Artikel 28 PBG. 2 Sie vereinbaren insbesondere Vergütungen, die neben der Anlastung der pagatorischen Kosten eine kalkulatorische Verzinsung vorsehen. Diese darf in der Regel nicht mehr als fünf Franken pro Quadratmeter und Jahr betragen. SR 745.1"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "6. Abschnitt: Finanzierung des Betriebs und des Substanzerhalts",
+      "section": "27",
+      "title": "Offerte",
+      "content": "1 Die Infrastrukturbetreiberinnen unterbreiten dem BAV eine verbindliche und rechtsgültig unterzeichnete Offerte, die den finanziellen und funktionalen Vorgaben entspricht. 2 Der Offerte sind insbesondere folgende Unterlagen beizulegen: a. eine qualitative und quantitative Umschreibung des Leistungsangebots unter Berücksichtigung der übergeordneten Infrastrukturplanung; b. die Mittelfristplanung und der Investitionsplan; c. die vorgeschlagenen Zielwerte für die Indikatoren zur Leistungsmessung; d. gegebenenfalls Begründungen für Abweichungen gegenüber bisherigen Planungen und der letzten Jahresrechnung; e. der jährliche Netzzustandsbericht; f. eine Aufstellung der geplanten Kosten; g. eine Bestätigung, dass die finanziellen und funktionalen Vorgaben eingehalten werden. 3 Die Unterlagen sind in elektronischer, maschinenlesbarer Form einzureichen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "6. Abschnitt: Finanzierung des Betriebs und des Substanzerhalts",
+      "section": "28",
+      "title": "Inhalt der Leistungsvereinbarung",
+      "content": "Die Leistungsvereinbarung nach Artikel 51 EBG enthält: a. die Umschreibung grundlegender Annahmen; b. die Zielvorgaben; c. die Umschreibung der zu erbringenden Leistungen, insbesondere der zu tätigenden Investitionen und deren Finanzierung; d. die Zusicherung der Jahresbetreffnisse der Betriebsabgeltungen und Investitionsbeiträge des Bundes; e. die Indikatoren und die entsprechenden Zielwerte zur Messung der Zielerreichung; f. die Vorgaben für die Berichterstattung (Art. 31)."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "6. Abschnitt: Finanzierung des Betriebs und des Substanzerhalts",
+      "section": "29",
+      "title": "Änderung der Leistungsvereinbarung",
+      "content": "1 Ergeben sich während der Geltungsdauer einer Leistungsvereinbarung ausserhalb des Verantwortungsbereichs der Infrastrukturbetreiberin wesentliche Abweichungen von den zugrunde gelegten Annahmen, so nehmen die Vertragsparteien Verhandlungen zur Anpassung der Leistungsvereinbarung auf. 2 Im Rahmen des Budgetprozesses des Bundes sind innerhalb einer Leistungsvereinbarung Verschiebungen zwischen Betriebsabgeltungen und Investitionsbeiträgen möglich. Wird in diesem Rahmen eine Kürzung des Zahlungsrahmens beschlossen, so überprüft das BAV in Abstimmung mit den Infrastrukturbetreiberinnen die Leistungsvereinbarungen auf ihre Erfüllbarkeit. 3 Änderungen der Leistungsvereinbarung sind schriftlich festzulegen."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "6. Abschnitt: Finanzierung des Betriebs und des Substanzerhalts",
+      "section": "30",
+      "title": "Finanzierung zeitlich vorgezogener Massnahmen des Substanzerhalts",
+      "content": "Kantone oder Dritte können mit einem Eisenbahnunternehmen vereinbaren, eine Massnahme des Substanzerhalts zeitlich vorzuziehen, wenn sie einen nicht rückzahlbaren Beitrag leisten, der die Mehrkosten der Vorzeitigkeit deckt. Die Grundsätze nach Artikel 35 Absatz 2 sind sinngemäss anwendbar."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "6. Abschnitt: Finanzierung des Betriebs und des Substanzerhalts",
+      "section": "31",
+      "title": "Berichterstattung und Überprüfung der Zielerreichung",
+      "content": "1 Das BAV kann die Dokumente und Daten der Infrastrukturbetreiberinnen zur Sparte Infrastruktur einsehen. 2 Die Infrastrukturbetreiberinnen legen dem BAV periodisch einen Bericht über die Erreichung der Ziele, den Netzzustand, die Belastung und Auslastung der Infrastruktur sowie den Stand der Investitionen und des Einbezugs der Eisenbahnverkehrsunternehmen vor. Das BAV regelt die Einzelheiten der Berichterstattung. 3 Das BAV kann die Berichte veröffentlichen. 4 Werden die bestellten Leistungen nicht wie vereinbart erbracht, Zielvorgaben nicht erreicht oder festgelegte Fristen nicht eingehalten, so kann das BAV entsprechende Massnahmen anordnen oder finanzielle Leistungen zurückfordern. 5 Ist ein Projekt mit erheblichen, insbesondere geologischen Risiken verbunden, so kann das BAV eine Berichterstattung nach Artikel 37 Absatz 1 verlangen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "7. Abschnitt: Finanzierung des Ausbaus",
+      "section": "32",
+      "title": "Steuerung",
+      "content": "1 Das BAV plant, steuert und überwacht die Finanzierung des Ausbaus. 2 Es macht Vorgaben zur Umsetzung der einzelnen Ausbaumassnahmen. Es bezieht dabei die betroffenen Unternehmen mit ein. 3 Es informiert die Kantone über den Stand des Ausbaus."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "7. Abschnitt: Finanzierung des Ausbaus",
+      "section": "33",
+      "title": "Umsetzungsvereinbarungen",
+      "content": "1 Das UVEK schliesst nach Rücksprache mit dem Eidgenössischen Finanzdepartement (EFD) mit den Infrastrukturbetreiberinnen oder den Erstellergesellschaften Umsetzungsvereinbarungen nach Artikel 48 f EBG über den Ausbau der Infrastruktur ab. Die Phasen Projektierung und Realisierung werden in der Regel in separaten Umsetzungsvereinbarungen geregelt. 2 Die Umsetzungsvereinbarungen enthalten: a. die grundlegenden Annahmen; b. die Zielvorgaben bezüglich der Funktionalität, der Kosten und der Inbetriebnahme; c. die Umschreibung der Leistungen für die Projektierung und die Realisierung; d. Termin- und Kostenvorgaben für Teilleistungen; e. spezifische technische Anforderungen; f. die Projektorganisation für die Umsetzung und die Zusammenarbeit mit dem BAV; g. die Angaben über die zugesicherten Investitionsbeiträge des Bundes, allfällige Beiträge der Kantone oder Dritter sowie über die Berücksichtigung der ausgewiesenen Teuerung."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "7. Abschnitt: Finanzierung des Ausbaus",
+      "section": "34",
+      "title": "Änderung der Umsetzungsvereinbarung",
+      "content": "1 Ergeben sich während der Geltungsdauer einer Umsetzungsvereinbarung wesentliche Abweichungen von den zugrunde gelegten Annahmen oder den Zielvorgaben, so nehmen die Vertragsparteien Verhandlungen zur Anpassung der Umsetzungsvereinbarung auf. 2 Geringfügige Abweichungen vom Vorgehen, von der Organisation oder den technischen Regelungen der Umsetzungsvereinbarung (Art. 33 Abs. 2 Bst. d–f) können durch das BAV mit den Infrastrukturbetreiberinnen oder den Erstellergesellschaften vereinbart werden. 3 Änderungen der Umsetzungsvereinbarung sind schriftlich festzulegen."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "7. Abschnitt: Finanzierung des Ausbaus",
+      "section": "35",
+      "title": "Finanzierung zusätzlicher oder alternativer Massnahmen durch Dritte",
+      "content": "1 Wollen Kantone und weitere Dritte zusätzliche oder alternative Massnahmen finanzieren, so prüft das BAV, ob diese in die Ausbauplanung oder als untergeordnete Ausbaumassnahmen (Art. 51 Abs. 2 EBG) in die Substanzerhaltungsplanung aufgenommen werden können. 2 Ist die Umsetzung der Massnahme möglich, so legt das BAV deren Finanzierung in der Vereinbarung so fest, dass dem Bund weder in der Bau- noch in der Betriebsphase Mehrkosten entstehen. Es berücksichtigt dabei folgende Grundsätze: a. Die durch die Massnahme ausgelösten Mehr- oder Minderkosten für Betrieb und Substanzerhalt werden für einen Zeitraum von maximal 40 Jahren ab Inbetriebnahme berechnet. b. Die Berechnung erfolgt in Form einer dynamischen Wirtschaftlichkeitsberechnung. c. Die Beiträge Dritter erfolgen à fonds perdu. 3 Die Beiträge Dritter werden direkt an die Infrastrukturbetreiberinnen ausbezahlt. Deckt der Beitrag auch Folgekosten, so stellt die Infrastrukturbetreiberin die vertragsgemässe Verwendung über den gesamten Zeitraum sicher. 4 Durch die Massnahme vermiedene Investitionen werden angerechnet, wenn sie in funktionaler, zeitlicher und räumlicher Nähe zu ihr liegen. 5 Die Absätze 1–4 sind auf bahnfremde Baumassnahmen Dritter, welche die Bahninfrastruktur berühren, sinngemäss anwendbar. 6 Das BAV publiziert periodisch die Vorgabewerte für Anpassungen an die Teuerung und den Kalkulationszinssatz aufgrund der konjunkturellen Entwicklung."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Vorfinanzierung",
+      "content": "1 Vereinbarungen über die Vorfinanzierung beschlossener Massnahmen müssen folgenden Grundsätzen entsprechen: a. Der Bund zahlt die vorfinanzierten Kosten zurück. Auf den vorfinanzierten Kosten ist kein Zins geschuldet. b. Die Rückzahlung der vorfinanzierten Kosten erfolgt zu dem Zeitpunkt, für den die Umsetzung der Massnahme ursprünglich geplant war. c. Die vorfinanzierten Massnahmen dürfen keine anderen Erhaltungs- und Ausbaumassnahmen beeinträchtigen. 2 Für vorfinanzierte Massnahmen schliesst das UVEK mit den beteiligten Infrastrukturbetreiberinnen oder Erstellergesellschaften Umsetzungsvereinbarungen ab. 3 Hat die Bundesversammlung nur die Projektierung einer Massnahme beschlossen, so beschränkt sich die Vorfinanzierung auf die Projektierungskosten."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Berichterstattung und Überwachung des Ausbaus",
+      "content": "1 Die Infrastrukturbetreiberin oder die Erstellergesellschaft erstattet dem BAV periodisch Bericht über die Ausbauten. Sie gibt darin Auskunft zu den Leistungen, Kosten, Finanzen, Terminen und Risiken. Das UVEK regelt die Einzelheiten der Berichterstattung. 2 Das BAV überwacht die korrekte Leistungserbringung im Rahmen der Umsetzungsvereinbarungen. 3 Es erstellt jährlich einen Bericht über den Stand des Ausbaus."
+    },
+    {
+      "provision_ref": "art37a",
+      "chapter": "25",
+      "section": "37a",
+      "title": "a",
+      "content": "Der Vertrag über Systemaufgaben nach Artikel 37 EBG ist unbefristet. Er kann mit einer Frist von zwölf Monaten auf das Ende eines Kalenderjahres gekündigt werden."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "8. Abschnitt: Investitionen in Seilbahnen",
+      "section": "38",
+      "title": "",
+      "content": "1 Für Investitionen in Seilbahnen, die von Bund und Kantonen Abgeltungen nach den Artikeln 28–31 c PBG erhalten, können Finanzierungsvereinbarungen abgeschlossen werden. Diese sind bis zum Abschluss des Projekts gültig. 2 Als Investitionen in die Infrastruktur der Seilbahnen im Sinne von Artikel 18 a Buchstabe b des Seilbahngesetzes vom 23. Juni 2006 gelten 50 Prozent der Gesamtinvestition. Die Investitionsbeiträge werden à fonds perdu gewährt. SR 745.1 SR 743.01"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "9. Abschnitt: Schäden durch Naturereignisse",
+      "section": "39",
+      "title": "Voraussetzungen",
+      "content": "Finanzhilfen nach Artikel 59 EBG können ausgerichtet werden, wenn die Schadensbehebung die finanziellen Möglichkeiten der Infrastrukturbetreiberinnen übersteigt, insbesondere wenn sie in der Jahresrechnung zu ungedeckten Kosten von mehr als 20 Prozent der jährlichen Betriebsabgeltung oder mehr als 1 Million Franken führen würde."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "9. Abschnitt: Schäden durch Naturereignisse",
+      "section": "40",
+      "title": "Anrechnung anderer Leistungen",
+      "content": "Die Beiträge, die der Bund aufgrund anderer Erlasse leistet, und die Leistungen öffentlicher und privater Versicherungen werden bei der Bemessung der Finanzhilfe berücksichtigt."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "9. Abschnitt: Schäden durch Naturereignisse",
+      "section": "41",
+      "title": "Verfahren",
+      "content": "1 Die Infrastrukturbetreiberinnen reichen dem BAV innert Jahresfrist nach Eintritt der Schäden ein Gesuch mit den nötigen Nachweisen ein. 2 Das BAV bestimmt die Höhe der Finanzhilfe aufgrund der eingereichten Unterlagen und den Zeitpunkt der Auszahlung aufgrund der verfügbaren Kredite. 3 Es wacht über die bestimmungsgemässe Verwendung des Bundesbeitrags und prüft und genehmigt die Abrechnungen. Es kann in dringenden Fällen Vorschüsse gewähren."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "10. Abschnitt: Forschung",
+      "section": "42",
+      "title": "",
+      "content": "1 Über Gesuche um Finanzierung von Forschung entscheidet das BAV. Es berücksichtigt dabei den Nutzen für den Werterhalt und den effizienten und sicheren Betrieb der Bahninfrastruktur sowie die Abgrenzung zu anderen Förderinstrumenten. 2 Die Planungs- und Projektierungsarbeiten nach den Artikeln 48 a– 48 e EBG gelten nicht als Forschung. 3 Die allgemeinen Fördergrundsätze nach Artikel 9 des Bundesgesetzes vom 14. Dezember 2012 über die Förderung der Forschung und der Innovation sind anwendbar. Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4159 ). SR 420.1"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "11. Abschnitt: Schlussbestimmungen",
+      "section": "43",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung vom 4. November 2009 über die Konzessionierung und Finanzierung der Eisenbahninfrastruktur wird aufgehoben. [ AS 2009 5981 , 2013 1649 ]"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "11. Abschnitt: Schlussbestimmungen",
+      "section": "44",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Bestehende Finanzierungsvereinbarungen, aufgrund deren Mittel aus dem Fonds für Eisenbahngrossprojekte gewährt werden, bleiben in Kraft und werden ab dem 1. Januar 2016 aus dem Bahninfrastrukturfonds finanziert. 2 Die Leistungsvereinbarungen 2013–16 nach EBG bleiben in Kraft. Dabei wird der für 2016 vorgesehene Beitrag des Bundes und der beteiligten Kantone aus dem Bahninfrastrukturfonds gewährt. 3 Ausbauprojekte aus den Leistungsvereinbarungen 2013–16, die am 31. Dezember 2016 nicht fertiggestellt sind, werden im vorgesehenen Ausmass bis zu ihrem Abschluss weiterhin über Leistungsvereinbarungen finanziert. 4 Bei Bauten, Anlagen, Einrichtungen und Fahrzeugen von Infrastrukturbetreiberinnen bleiben die Folgekosten von Fremdfinanzierungen, die vor dem 1. Januar 2016 vereinbart wurden, nach bisherigem Recht abgeltungsberechtigt."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "11. Abschnitt: Schlussbestimmungen",
+      "section": "45",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sr-0-232-142-25",
+  "type": "statute",
+  "title": "Protokoll vom 29. November 2000 über die Auslegung des Artikels 69 des Europäischen Patentübereinkommens",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/852/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 Allgemeine Grundsätze",
+      "content": "Artikel 69 ist nicht in der Weise auszulegen, dass unter dem Schutzbereich des europäischen Patents der Schutzbereich zu verstehen ist, der sich aus dem genauen Wortlaut der Patentansprüche ergibt, und dass die Beschreibung sowie die Zeichnungen nur zur Behebung etwaiger Unklarheiten in den Patentansprüchen anzuwenden sind. Ebenso wenig ist Artikel 69 dahingehend auszulegen, dass die Patentansprüche lediglich als Richtlinie dienen und der Schutzbereich sich auch auf das erstreckt, was sich dem Fachmann nach Prüfung der Beschreibung und der Zeichnungen als Schutzbegehren des Patentinhabers darstellt. Die Auslegung soll vielmehr zwischen diesen extremen Auffassungen liegen und einen angemessenen Schutz für den Patentinhaber mit ausreichender Rechtssicherheit für Dritte verbinden."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 Äquivalente",
+      "content": "Bei der Bestimmung des Schutzbereichs des europäischen Patents ist solchen Elementen gebührend Rechnung zu tragen, die Äquivalente der in den Patentansprüchen genannten Elemente sind."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,604 @@
+{
+  "id": "sr-822-111",
+  "type": "statute",
+  "title": "Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 1)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2000/243/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Begriffe",
+      "section": "1",
+      "title": "Arbeitnehmer",
+      "content": "(Art. 1 ArG) 1 Arbeitnehmer oder Arbeitnehmerin ist jede Person, die in einem unter das Gesetz fallenden Betrieb dauernd oder vorübergehend während der ganzen Arbeitszeit oder eines Teils davon beschäftigt wird. 2 Arbeitnehmer oder Arbeitnehmerinnen sind auch Lehrlinge, Praktikanten, Praktikantinnen, Volontäre, Volontärinnen und andere Personen, die hauptsächlich zur Ausbildung oder zur Vorbereitung der Berufswahl im Betrieb tätig sind."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Begriffe",
+      "section": "2",
+      "title": "Grossbetriebe des Detailhandels",
+      "content": "(Art. 9 Abs. 1 Bst. a ArG) Grossbetriebe des Detailhandels sind Betriebe, die im gleichen Gebäude oder in benachbarten Gebäuden insgesamt mehr als 50 Arbeitnehmer oder Arbeitnehmerinnen, einschliesslich das Kassenpersonal, im Detailverkauf beschäftigen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Betrieblicher Geltungsbereich",
+      "section": "3",
+      "title": "",
+      "content": "Aufgehoben durch Art. 22 der Jugendarbeitsschutzverordnung vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ( AS 2007 4959 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Betrieblicher Geltungsbereich",
+      "section": "4",
+      "title": "Betriebe des Bundes, der Kantone und der Gemeinden",
+      "content": "(Art. 2 Abs. 2 ArG) Das Gesetz ist insbesondere anwendbar auf Betriebe des Bundes, der Kantone und der Gemeinden: a. zur Herstellung, Verarbeitung oder Behandlung von Gütern sowie zur Erzeugung, Umwandlung oder Übertragung von Energie, unter Vorbehalt von Artikel 2 Absatz 1 Buchstabe b des Gesetzes; b. zur Beförderung von Personen oder Gütern, unter Vorbehalt von Artikel 2 Absatz 1 Buchstabe b des Gesetzes; c. für die Abfuhr, für die Verbrennung oder Verarbeitung von Kehricht, Betriebe der Wasserversorgung und der Abwasserreinigung."
+    },
+    {
+      "provision_ref": "art4a",
+      "chapter": "2. Abschnitt: Betrieblicher Geltungsbereich",
+      "section": "4a",
+      "title": "a Öffentliche Krankenanstalten und Kliniken",
+      "content": "1 Das Gesetz ist anwendbar auf öffentliche Krankenanstalten und Kliniken im Rahmen von Arbeitsverhältnissen mit Assistenzärztinnen und Assistenzärzten. 2 Öffentliche Krankenanstalten und Kliniken sind Krankenanstalten und Kliniken der Kantone und der Gemeinden, die Bestandteil einer öffentlichen Verwaltung sind oder als öffentlich-rechtliche Anstalten ohne Rechtspersönlichkeit oder als öffentlich-rechtliche Körperschaften organisiert sind. 3 Assistenzärztinnen und Assistenzärzte sind Ärztinnen und Ärzte der Human-, Zahn- oder Tiermedizin, die nach erworbenem Staatsexamen eine Weiterbildung absolvieren: a. zur Erlangung des ersten Facharzttitels; oder b. für die Zulassung zur Eröffnung einer eigenen Praxis. Eingefügt durch Ziff. I der V vom 7. April 2004, in Kraft seit 1. Jan. 2005 ( AS 2004 2411 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Ausnahmen vom betrieblichen Geltungsbereich",
+      "section": "5",
+      "title": "Landwirtschaftsbetriebe",
+      "content": "(Art. 2 Abs. 1 Bst. d ArG) 1 Als Betriebe der landwirtschaftlichen Urproduktion gelten Betriebe des Acker-, Wiesen-, Obst-, Wein- und Gemüsebaues, der Beerenkultur, der Zucht- und Nutztierhaltung sowie die zu einem Landwirtschaftsbetrieb gehörenden privaten Waldungen. 2 Als örtliche Milchsammelstellen gelten Betriebe, die Verkehrsmilch aus einem örtlich beschränkten Einzugsgebiet unmittelbar von landwirtschaftlichen Betrieben übernehmen und sie ganz oder teilweise in damit verbundenen Räumlichkeiten verarbeiten oder an andere Betriebe zur Verarbeitung oder zum Verkauf weitergeben. 3 Ein Nebenbetrieb liegt vor, wenn die darin verarbeiteten oder verwerteten Erzeugnisse des Hauptbetriebes für den Eigengebrauch oder den lokalen Markt bestimmt sind."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Ausnahmen vom betrieblichen Geltungsbereich",
+      "section": "6",
+      "title": "Gartenbaubetriebe",
+      "content": "(Art. 2 Abs. 1 Bst. e und Abs. 3 ArG) 1 Als Betriebe mit überwiegend gärtnerischer Pflanzenproduktion gelten Gartenbaubetriebe, in denen die Mehrzahl der Arbeitnehmer und Arbeitnehmerinnen in einer oder mehreren der folgenden Betriebsarten beschäftigt werden: a. Gemüsebau; b. Topfpflanzen- und Schnittblumenkultur; c. Baumschulen und Obstbau, einschliesslich Stauden und Kleingehölze. 2 … Aufgehoben durch Art. 22 der Jugendarbeitsschutzverordnung vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ( AS 2007 4959 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Ausnahmen vom betrieblichen Geltungsbereich",
+      "section": "7",
+      "title": "Öffentliche Anstalten und Körperschaften",
+      "content": "(Art. 2 Abs. 2 und 71 Bst. b ArG) 1 Die Arbeits- und Ruhezeitbestimmungen sind nicht anwendbar auf öffentlich-rechtliche Anstalten ohne Rechtspersönlichkeit sowie Körperschaften des öffentlichen Rechts, sofern die Mehrzahl der in ihnen beschäftigten Arbeitnehmer und Arbeitnehmerinnen in einem öffentlich-rechtlichen Arbeitsverhältnis stehen. 2 Beschäftigt ein Betrieb nach Absatz 1 Arbeitnehmer oder Arbeitnehmerinnen, die in einem privatrechtlichen Arbeitsverhältnis stehen, dann ist auf diese Arbeitnehmer und Arbeitnehmerinnen das Gesetz auch bezüglich der Arbeits- und Ruhezeiten anwendbar, soweit das öffentliche Dienstrecht für den Arbeitnehmer oder die Arbeitnehmerin nicht günstigere Bestimmungen vorsieht. 3 Die Artikel 4 und 4 a bleiben vorbehalten. Eingefügt durch Ziff. I der V vom 7. April 2004, in Kraft seit 1. Jan. 2005 ( AS 2004 2411 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "4. Abschnitt: Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "8",
+      "title": "Personal internationaler Organisationen und öffentlicher Verwaltungen ausländischer Staaten",
+      "content": "(Art. 3 Bst. b ArG) 1 Zum Personal internationaler Organisationen und öffentlicher Verwaltungen ausländischer Staaten gehören: a. das Personal der diplomatischen Missionen und der konsularischen Posten ausländischer Staaten in der Schweiz, sofern dieses hoheitliche Funktionen ausübt oder in einem öffentlich-rechtlichen Anstellungsverhältnis zum Entsendestaat steht; b. das Personal der ständigen Missionen bei internationalen Organisationen, mit denen die Schweiz ein Sitzabkommen abgeschlossen hat, sofern dieses hoheitliche Funktionen ausübt oder in einem öffentlich-rechtlichen Anstellungsverhältnis zum Entsendestaat steht; c. das Personal internationaler Organisationen, mit denen die Schweiz ein Sitzabkommen abgeschlossen hat; d. das Personal der ausländischen öffentlichen Verwaltungen und der ausländischen Betriebe des konzessionierten Eisenbahn-, Schifffahrts- und Luftverkehrs, unter Vorbehalt abweichender zwischenstaatlicher Vereinbarungen. 2 Das Staatssekretariat für Wirtschaft (SECO) stellt im Einvernehmen mit der Direktion für Völkerrecht des Eidgenössischen Departementes für auswärtige Angelegenheiten fest, welche Organisationen die Voraussetzungen nach Absatz 1 Buchstaben b und c erfüllen. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) angepasst. Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Abschnitt: Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "9",
+      "title": "Höhere leitende Tätigkeit",
+      "content": "(Art. 3 Bst. d ArG) Eine höhere leitende Tätigkeit übt aus, wer auf Grund seiner Stellung und Verantwortung sowie in Abhängigkeit von der Grösse des Betriebes über weitreichende Entscheidungsbefugnisse verfügt oder Entscheide von grosser Tragweite massgeblich beeinflussen und dadurch auf die Struktur, den Geschäftsgang und die Entwicklung eines Betriebes oder Betriebsteils einen nachhaltigen Einfluss nehmen kann."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "10",
+      "title": "Wissenschaftliche Tätigkeit",
+      "content": "(Art. 3 Bst. d ArG) 1 Zur wissenschaftlichen Tätigkeit gehören Forschung und Lehre. Eine wissenschaftliche Tätigkeit liegt vor, wenn dem Arbeitnehmer oder der Arbeitnehmerin in Bezug auf die Zielsetzung der Arbeit, deren Ausführung und Einteilung eine grosse Freiheit zukommt. 2 Die Forschung umfasst neben der Grundlagenforschung auch die angewandte Forschung, nicht aber deren Umsetzung in die Praxis wie die Entwicklung und die Produktion. 3 Auf das technische und das administrative Personal in der Forschung sind die Arbeits- und Ruhezeitbestimmungen des Gesetzes und seiner Verordnungen anwendbar."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "11",
+      "title": "Selbstständige künstlerische Tätigkeit",
+      "content": "(Art. 3 Bst. d ArG) Eine selbstständige künstlerische Tätigkeit liegt vor, wenn dem künstlerisch tätigen Arbeitnehmer oder der Arbeitnehmerin in Bezug auf die Gestaltung der Arbeit, bei deren Ausführung und Einteilung eine grosse Freiheit zukommt."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Ausnahmen vom persönlichen Geltungsbereich",
+      "section": "12",
+      "title": "",
+      "content": "(Art. 3 Bst. e ArG) 1 … 2 Erzieher und Erzieherinnen sind Personen mit einer anerkannten pädagogischen Fachausbildung oder einer gleichwertigen Aus- und Weiterbildung. 3 Fürsorger und Fürsorgerinnen sind Personen mit einer anerkannten Fachausbildung sozial-pädagogischer oder sozial-psychologischer Richtung oder einer gleichwertigen Aus- und Weiterbildung. Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ( AS 2020 4135 ). Aufgehoben durch Ziff. I der V vom 7. April 2004, mit Wirkung seit 1. Jan. 2005 ( AS 2004 2411 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "13",
+      "title": "Begriff der Arbeitszeit",
+      "content": "(Art. 6 Abs. 2, 9–31 ArG) 1 Als Arbeitszeit im Sinne des Gesetzes gilt die Zeit, während der sich der Arbeitnehmer oder die Arbeitnehmerin zur Verfügung des Arbeitgebers zu halten hat; die Zeit, die für den Weg zu und von der Arbeit eingesetzt wird, gilt nicht als Arbeitszeit. Vorbehalten bleiben die Bestimmungen über die Beschäftigung von schwangeren Frauen und stillenden Müttern sowie Artikel 15 Absatz 2. 2 Ist die Arbeit ausserhalb des Arbeitsortes zu leisten, an dem der Arbeitnehmer normalerweise seine Arbeit verrichtet, und fällt dadurch die Wegzeit länger als üblich aus, so stellt die zeitliche Differenz zur normalen Wegzeit Arbeitszeit dar. 3 Durch die Rückreise von einem auswärtigen Arbeitsort im Sinn von Absatz 2 darf der Zeitraum der täglichen Arbeitszeit oder die wöchentliche Höchstarbeitszeit überschritten werden; dabei beginnt die tägliche Ruhezeit von 11 Stunden erst nach dem Eintreffen des Arbeitnehmers oder der Arbeitnehmerin an seinem bzw. ihrem Wohnort zu laufen. 3bis Begibt sich der Arbeitnehmer oder die Arbeitnehmerin im Rahmen seiner bzw. ihrer Tätigkeit ins Ausland, so gilt die Zeit, die für die in der Schweiz zurückgelegte Hin- und Rückreise eingesetzt wird, mindestens im Umfang von Absatz 2 als Arbeitszeit. Findet die Hin- oder Rückreise ganz oder teilweise in der Nacht oder an einem Sonntag statt, so bedarf die Beschäftigung des Arbeitnehmers oder der Arbeitnehmerin während dieser Arbeitszeit keiner Bewilligung. Die Ruhezeit von 11 Stunden ist unmittelbar nach der Rückreise zu gewähren; sie beginnt mit dem Eintreffen des Arbeitnehmers oder der Arbeitnehmerin an seinem bzw. ihrem Wohnort zu laufen. 4 Muss sich ein Arbeitnehmer oder eine Arbeitnehmerin auf Anordnung des Arbeitgebers oder auf Grund seiner bzw. ihrer beruflichen Tätigkeit von Gesetzes wegen weiter- oder fortbilden, dann stellt die dafür aufgewendete Ausbildungszeit Arbeitszeit dar. Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ( AS 2020 4135 ). Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ( AS 2020 4135 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "14",
+      "title": "Pikettdienst a. Grundsatz",
+      "content": "(Art. 6, 9–31 und 36 ArG) 1 Beim Pikettdienst hält sich der Arbeitnehmer oder die Arbeitnehmerin neben der normalen Arbeit für allfällige Arbeitseinsätze bereit für die Behebung von Störungen, die Hilfeleistung in Notsituationen, für Kontrollgänge oder für ähnliche Sonderereignisse. 2 Der einzelne Arbeitnehmer oder die einzelne Arbeitnehmerin darf im Zeitraum von vier Wochen an höchstens sieben Tagen auf Pikett sein oder Piketteinsätze leisten. Nach Beendigung des letzten Pikettdienstes darf der Arbeitnehmer oder die Arbeitnehmerin während den zwei darauf folgenden Wochen nicht mehr zum Pikettdienst aufgeboten werden. 3 Ausnahmsweise kann ein Arbeitnehmer oder eine Arbeitnehmerin im Zeitraum von vier Wochen an höchstens 14 Tagen auf Pikett sein, sofern: a. auf Grund der betrieblichen Grösse und Struktur keine genügenden Personalressourcen für einen Pikettdienst nach Absatz 2 zur Verfügung stehen; und b. die Anzahl der tatsächlichen Piketteinsätze im Durchschnitt eines Kalenderjahres nicht mehr als fünf Einsätze pro Monat ausmacht. 4 Kurzfristige Änderungen in der Pikettplanung und -einteilung und sich daraus ergebende Einsätze dürfen für Arbeitnehmer und Arbeitnehmerinnen mit Familienpflichten nur mit deren Einverständnis vorgenommen werden und soweit eine andere Lösung für den Betrieb nicht zumutbar ist."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "b. Anrechnung an die Arbeitszeit",
+      "content": "(Art. 6 und 9–31 ArG) 1 Wird der Pikettdienst im Betrieb geleistet, stellt die gesamte zur Verfügung gestellte Zeit Arbeitszeit dar. 2 Wird der Pikettdienst ausserhalb des Betriebes geleistet, so ist die zur Verfügung gestellte Zeit soweit an die Arbeitszeit anzurechnen, als der Arbeitnehmer oder die Arbeitnehmerin tatsächlich zur Arbeit herangezogen wird. Die Wegzeit zu und von der Arbeit ist in diesem Fall an die Arbeitszeit anzurechnen."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Verteilung der Arbeitszeit",
+      "content": "(Art. 9–15 a , 18–21, 25 Abs. 2, 31 ArG) 1 Die Woche im Sinne des Gesetzes (Arbeitswoche) beginnt mit dem Montag um 0 Uhr und endet mit dem Sonntag um 24 Uhr. 2 Für den einzelnen Arbeitnehmer oder die einzelne Arbeitnehmerin darf die Arbeitswoche höchstens 5½ Arbeitstage umfassen. Sie kann auf sechs Arbeitstage ausgedehnt werden, sofern die wöchentlichen freien Halbtage im Einverständnis mit dem Arbeitnehmer oder der Arbeitnehmerin für längstens vier Wochen zusammengelegt werden. 3 Die wöchentliche Arbeitszeit kann auf die einzelnen Arbeitstage und die einzelnen Arbeitnehmer oder Arbeitnehmerinnen oder Gruppen von Arbeitnehmern und Arbeitnehmerinnen gleichmässig oder zeitlich verschieden verteilt werden. Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ( AS 2020 4135 )."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Entschädigung für Ruhe- und Ausgleichsruhezeiten",
+      "content": "(Art. 22 ArG) Werden bei Beendigung des Arbeitsverhältnisses die gesetzlichen Ruhe- und Ausgleichsruhezeiten durch eine Geldleistung abgegolten, so ist für deren Bemessung Artikel 33 anwendbar."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. Abschnitt: Pausen und Ruhezeit",
+      "section": "18",
+      "title": "Pausen",
+      "content": "(Art. 15 und 6 Abs. 2 ArG) 1 Die Pausen können für einzelne Arbeitnehmer oder Arbeitnehmerinnen oder Gruppen von Arbeitnehmern und Arbeitnehmerinnen gleichmässig oder zeitlich verschieden angesetzt werden. 2 Die Pausen sind um die Mitte der Arbeitszeit anzusetzen. Entsteht vor oder nach einer Pause eine Teilarbeitszeit von mehr als 5½ Stunden, so ist für diese eine zusätzliche Pause gemäss Artikel 15 des Gesetzes zu gewähren. 3 Pausen von mehr als einer halben Stunde dürfen aufgeteilt werden. 4 Bei flexiblen Arbeitszeiten, wie etwa bei der gleitenden Arbeitszeit, ist für die Bemessung der Pausen die durchschnittliche tägliche Arbeitszeit massgebend. 5 Arbeitsplatz im Sinne von Artikel 15 Absatz 2 des Gesetzes ist jeder Ort im Betrieb oder ausserhalb des Betriebes, an dem sich der Arbeitnehmer oder die Arbeitnehmerin zur Ausführung der ihm bzw. ihr zugewiesenen Arbeit aufzuhalten hat."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "2. Abschnitt: Pausen und Ruhezeit",
+      "section": "19",
+      "title": "Tägliche Ruhezeit",
+      "content": "(Art. 15 a , 20 und 6 Abs. 2 ArG) 1 Fallen zwei oder mehrere Ruhetage oder gesetzliche Feiertage in eine Woche, so kann die zusammenhängende Ruhezeit von 35 Stunden nach Artikel 21 Absatz 2 einmal auf 24 Stunden verkürzt werden. 2 Wird die tägliche Ruhezeit nach Artikel 15 a Absatz 2 des Gesetzes verkürzt, so darf der Arbeitnehmer beim darauf folgenden Arbeitseinsatz nicht zu Überzeiteinsätzen nach Artikel 25 herangezogen werden. 3 Durch Piketteinsätze nach Artikel 14 darf die tägliche Ruhezeit unterbrochen werden, sie muss jedoch im Anschluss an den Piketteinsatz im restlichen Umfang nachgewährt werden. Kann durch die Piketteinsätze eine minimale Ruhezeit von vier aufeinander folgenden Stunden nicht erreicht werden, so muss im Anschluss an den letzten Einsatz die tägliche Ruhezeit von 11 Stunden nachgewährt werden."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Abschnitt: Pausen und Ruhezeit",
+      "section": "20",
+      "title": "Wöchentlicher freier Halbtag",
+      "content": "(Art. 21 ArG) 1 Der wöchentliche freie Halbtag umfasst 8 Stunden, die unmittelbar vor oder nach der täglichen Ruhezeit an einem Werktag zu gewähren sind. 2 Der wöchentliche freie Halbtag gilt als gewährt, wenn: a. der ganze Vormittag von 6 Uhr bis 14 Uhr arbeitsfrei bleibt; b. der ganze Nachmittag von 12 Uhr bis 20 Uhr arbeitsfrei bleibt; c. bei zweischichtiger Arbeit der Schichtwechsel zwischen 12 Uhr und 14 Uhr erfolgt; oder d. bei Nachtarbeit die alternierende Fünf-Tage-Woche oder im Zeitraum von vier Wochen zwei Kompensationstage eingeräumt werden. 3 An wöchentlichen freien Halbtagen darf der Arbeitnehmer oder die Arbeitnehmerin nicht zur Leistung von Arbeit herangezogen werden; vorbehalten bleibt die Leistung von Arbeit in Sonderfällen nach Artikel 26. In diesen Fällen ist der wöchentliche freie Halbtag innert vier Wochen nachzugewähren. 4 Vom Gesetz vorgeschriebene Ruhezeiten können nicht an den wöchentlichen freien Halbtag angerechnet werden. Der wöchentliche freie Halbtag gilt jedoch als bezogen, wenn der Werktag, an dem er üblicherweise gewährt wird, mit einem arbeitsfreien Feiertag im Sinne von Artikel 20 a Absatz 1 des Gesetzes zusammenfällt."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Abschnitt: Pausen und Ruhezeit",
+      "section": "21",
+      "title": "Wöchentlicher Ruhetag sowie Ersatzruhetag für Sonn- und Feiertagsarbeit",
+      "content": "(Art. 18–20 ArG) 1 Wöchentlicher Ruhetag ist grundsätzlich der Sonntag. 2 Der wöchentliche Ruhetag und die tägliche Ruhezeit müssen zusammen mindestens 35 aufeinanderfolgende Stunden ergeben. 3 Muss am Sonntag gearbeitet werden, darf der Arbeitnehmer oder die Arbeitnehmerin nicht mehr als an sechs aufeinanderfolgenden Tagen beschäftigt werden. Vorbehalten bleiben die Bestimmungen über den ununterbrochenen Betrieb. 4 Arbeitnehmern und Arbeitnehmerinnen, die sonntags arbeiten, dürfen Sonntage, die in ihre Ferienzeit fallen, nicht an die gesetzlich vorgeschriebenen freien Sonntage angerechnet werden. 5 Der Ersatzruhetag im Sinn des Artikels 20 Absatz 2 des Gesetzes weist zusammen mit der täglichen Ruhezeit 35 aufeinanderfolgende Stunden auf; er hat in jedem Fall den Zeitraum von 6 Uhr bis 20 Uhr zu umfassen. 6 Der Ersatzruhetag darf nicht auf einen Tag fallen, an dem der Arbeitnehmer oder die Arbeitnehmerin üblicherweise seinen bzw. ihren Ruhetag oder freien Tag bezieht. 7 Der Freizeitausgleich für geleistete Sonntagsarbeit von bis zu 5 Stunden ist innert vier Wochen vorzunehmen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "3. Abschnitt: Wöchentliche Höchstarbeitszeit",
+      "section": "22",
+      "title": "Verlängerung mit Ausgleich",
+      "content": "(Art. 9 Abs. 3 ArG) 1 Die wöchentliche Höchstarbeitszeit von 45 bzw. 50 Stunden kann, sofern sie im Durchschnitt eines halben Jahres nicht überschritten wird, um höchstens 4 Stunden verlängert werden: a. bei Tätigkeiten mit witterungsbedingtem Arbeitsausfall; oder b. in Betrieben mit erheblichen saisonalen Schwankungen des Arbeitsanfalles. 2 Die wöchentliche Höchstarbeitszeit von 45 Stunden kann für Arbeitnehmer und Arbeitnehmerinnen mit einer im Durchschnitt des Kalenderjahres gewährten Fünf-Tage-Woche verlängert werden: a. um 2 Stunden, sofern sie im Durchschnitt von acht Wochen nicht überschritten wird; oder b. um 4 Stunden, sofern sie im Durchschnitt von vier Wochen nicht überschritten wird. 3 Der Arbeitgeber darf die Verlängerung der wöchentlichen Höchstarbeitszeit nach Absatz 1 oder 2 ohne Bewilligung anordnen, wenn nicht nach einem bewilligungspflichtigen Stundenplan gearbeitet wird. 4 Ist ein Arbeitsverhältnis befristet, so ist die durchschnittliche wöchentliche Höchstarbeitszeit nach Absatz 1 oder 2 während der Dauer des Arbeitsverhältnisses einzuhalten, sofern dieses weniger lang als die in den Absätzen 1 und 2 genannten Ausgleichszeiträume dauert."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "3. Abschnitt: Wöchentliche Höchstarbeitszeit",
+      "section": "23",
+      "title": "Verkürzung der wöchentlichen Höchstarbeitszeit",
+      "content": "(Art. 9 und 11 i.V.m. Art. 20 und 20 a ArG) 1 In Wochen, in denen ein oder mehrere den Sonntagen gleichgestellte gesetzliche Feiertage auf einen Werktag fallen, an dem der Arbeitnehmer oder die Arbeitnehmerin üblicherweise zu arbeiten hat, wird die wöchentliche Höchstarbeitszeit anteilsmässig verkürzt. 2 Arbeitnehmern und Arbeitnehmerinnen, die an einem den Sonntagen gleichgestellten gesetzlichen Feiertag arbeiten, ist die anteilsmässige Verkürzung der wöchentlichen Höchstarbeitszeit in der Woche anzurechnen, in welcher der Ersatzruhetag für den Feiertag gewährt wird."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "3. Abschnitt: Wöchentliche Höchstarbeitszeit",
+      "section": "24",
+      "title": "Ausgleich ausfallender Arbeitszeit",
+      "content": "(Art. 11 i.V.m. 15, 15 a , 18, 20 und 20 a ArG) 1 Der Ausgleich ausfallender Arbeitszeit nach Artikel 11 des Gesetzes ist unmittelbar vor oder nach dem Arbeitsausfall innerhalb von höchstens 14 Wochen vorzunehmen, sofern Arbeitgeber und Arbeitnehmer nicht eine längere Frist vereinbaren, die aber zwölf Monate nicht überschreiten darf. Die Arbeitsausfälle über Weihnachten und Neujahr gelten als eine Ausfallperiode. 2 Ausfallende Arbeitszeit darf nur soweit ausgeglichen werden, als dadurch die zulässige tägliche Arbeitsdauer nicht überschritten wird. 3 Gesetzliche Ruhezeiten und Ausgleichsruhezeiten stellen keine ausfallende Arbeitszeit dar; diese dürfen weder vor- noch nachgeholt werden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. Abschnitt: Überzeitarbeit",
+      "section": "25",
+      "title": "Grundsatz",
+      "content": "(Art. 12 und 26 ArG) 1 Unter Vorbehalt von Artikel 26 ist Überzeitarbeit nach Artikel 12 Absatz 1 Buchstaben a und b des Gesetzes nur als Tages- und Abendarbeit nach Artikel 10 des Gesetzes und nur an Werktagen zulässig. 2 Der Ausgleich von Überzeitarbeit durch Freizeit nach Artikel 13 Absatz 2 des Gesetzes ist innert 14 Wochen vorzunehmen, sofern Arbeitgeber und Arbeitnehmer oder Arbeitnehmerin nicht eine längere Frist vereinbaren, die aber zwölf Monate nicht überschreiten darf."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "4. Abschnitt: Überzeitarbeit",
+      "section": "26",
+      "title": "Sonderfälle",
+      "content": "(Art. 12 Abs. 2 und 26 Abs. 1 ArG) 1 Überzeitarbeit darf auch in der Nacht und an Sonntagen sowie in Überschreitung der zulässigen täglichen Arbeitsdauer geleistet werden, wenn es sich um vorübergehende Arbeiten in Notfällen handelt, die unabhängig vom Willen der Betroffenen eintreten und deren Folgen nicht auf andere zumutbare Weise beseitigt werden können, besonders wenn: a. Arbeitsergebnisse gefährdet sind und dadurch unverhältnismässiger Schaden droht; b. Piketteinsätze für die Schadensvorbeugung oder -behebung notwendig sind; c. Arbeitsmaschinen, Geräte, Transporteinrichtungen und Fahrzeuge, die für die Aufrechterhaltung des Betriebes unabdingbar sind, wegen schwerwiegender Störungen oder erlittener Schäden in Stand gestellt werden müssen; d. Betriebsstörungen infolge unmittelbarer Einwirkung höherer Gewalt vermieden oder behoben werden müssen; e. Störungen bei der Versorgung mit Energie und Wasser sowie Störungen des öffentlichen oder privaten Verkehrs vermieden oder behoben werden müssen; f. dem unvermeidlichen Verderb von Gütern, namentlich Rohstoffen oder Lebensmitteln, vorgebeugt werden muss, und damit keine Steigerung der Produktion verbunden ist; g. unaufschiebbare Verrichtungen zur Erhaltung des Lebens und der Gesundheit von Mensch und Tier sowie zur Vermeidung von Umweltschäden vorgenommen werden müssen. 2 Überzeitarbeit, die in Überschreitung der zulässigen täglichen Arbeitsdauer geleistet wird, ist innerhalb von sechs Wochen durch Freizeit von gleicher Dauer auszugleichen. Vorbehalten bleibt Artikel 20 Absatz 3 des Gesetzes."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "5. Abschnitt: Voraussetzungen für Nacht- und Sonntagsarbeit und den ununterbrochenen Betrieb und den ununterbrochenen Betrieb",
+      "section": "27",
+      "title": "Dringendes Bedürfnis",
+      "content": "(Art. 17, 19 und 24 ArG) 1 Ein dringendes Bedürfnis für Nacht- oder Sonntagsarbeit im Sinne von Artikel 17 Absatz 3, 19 Absatz 3 und 24 Absatz 3 des Gesetzes liegt vor, wenn: a. es weder mit planerischen Mitteln noch mit organisatorischen Massnahmen möglich ist, die Arbeiten tagsüber oder abends an Werktagen durchzuführen; und b. die Arbeiten: 1. zusätzlich anfallen und zeitlich nicht aufschiebbar sind, oder 2. aus Gründen der Gesundheit oder der Sicherheit der Arbeitnehmer und Arbeitnehmerinnen oder aus anderen Gründen des öffentlichen Interesses in der Nacht oder am Sonntag erledigt werden müssen. 1bis Ein dringendes Bedürfnis nach Absatz 1 liegt insbesondere vor, wenn eine Behörde Massnahmen zur Verhinderung oder Bewältigung einer Energiemangellage angeordnet hat. 2 Ein dringendes Bedürfnis liegt zudem vor, wenn zeitlich begrenzte Arbeitseinsätze in der Nacht oder am Sonntag erforderlich sind im Rahmen von: a. besonderen Firmenanlässen, wie Jubiläen, die der Öffentlichkeit zugänglich sind; oder b. Veranstaltungen, die auf lokale Besonderheiten zugeschnitten sind. 3 Ein dringendes Bedürfnis für Nachtarbeit im Sinne von Artikel 17 Absatz 4 des Gesetzes liegt vor, wenn Betriebe mit einem zweischichtigen Arbeitszeitsystem: a. aus Gründen der täglichen Auslastung regelmässig auf eine Betriebszeit von 18 Stunden angewiesen sind; b. nicht mehr als eine Randstunde in Anspruch nehmen; und c. dadurch die Leistung von weiterer Nachtarbeit zwischen 24 Uhr und 5 Uhr vermieden werden kann. Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ( AS 2022 100 ). Eingefügt durch Ziff. I der V vom 21. Febr. 2024, in Kraft seit 1. April 2024 ( AS 2024 105 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "5. Abschnitt: Voraussetzungen für Nacht- und Sonntagsarbeit und den ununterbrochenen Betrieb und den ununterbrochenen Betrieb",
+      "section": "28",
+      "title": "Unentbehrlichkeit von Nacht- und Sonntagsarbeit",
+      "content": "(Art. 17, 19 und 24 ArG) 1 Technische Unentbehrlichkeit von Nacht- oder Sonntagsarbeit im Sinne von Artikel 17 Absatz 2, 19 Absatz 2 und 24 Absatz 2 liegt insbesondere vor, wenn ein Arbeitsverfahren oder Arbeiten nicht unterbrochen, aufgeschoben oder anders organisiert werden können, weil damit: a. erhebliche und unzumutbare Nachteile für die Produktion und das Arbeitsergebnis oder die Betriebseinrichtungen verbunden wären; b. die Gesundheit oder Sicherheit der Arbeitnehmer und Arbeitnehmerinnen oder die Umgebung des Betriebes gefährdet würde; oder c. die Lieferkette oder der Warenfluss zwischen oder innerhalb von Betrieben unterbrochen würde oder die Versorgung der Bevölkerung mit Gütern des täglichen Bedarfs nicht sichergestellt wäre. 2 Wirtschaftliche Unentbehrlichkeit von Nacht- oder Sonntagsarbeit im Sinne von Artikel 17 Absatz 2, 19 Absatz 2 und 24 Absatz 2 des Gesetzes liegt vor, wenn: a. das angewandte Arbeitsverfahren mit unvermeidlich hohen Investitionskosten verbunden ist, die ohne die Leistung von Nacht- oder Sonntagsarbeit nicht amortisiert werden können; oder b. die Unterbrechung eines Arbeitsverfahrens und dessen Wiederingangsetzung hohe Zusatzkosten verursachen, die ohne die Leistung von Nacht- oder Sonntagsarbeit eine merkliche Schwächung der Wettbewerbsfähigkeit des Betriebes gegenüber seinen Konkurrenten zur Folge haben könnte. 3 Der wirtschaftlichen Unentbehrlichkeit gleichgestellt sind besondere Konsumbedürfnisse, deren Befriedigung: a. angesichts der Unentbehrlichkeit der Waren und Dienstleistungen für die betroffenen Konsumentinnen und Konsumenten im öffentlichen Interesse liegt; und b. ohne die Leistung von Nacht- oder Sonntagsarbeit nicht sichergestellt werden kann. 4 Die Unentbehrlichkeit von Nacht- und Sonntagsarbeit wird für die im Anhang aufgeführten Arbeitsverfahren sowie die untrennbar damit verbundenen Arbeitsverfahren, insbesondere Vorbereitungsarbeiten, Qualitätskontrollen und Logistikarbeiten, vermutet. Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ( AS 2022 100 )."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "6. Abschnitt: Besondere Formen der Nachtarbeit",
+      "section": "29",
+      "title": "Verlängerte Dauer der Nachtarbeit",
+      "content": "(Art. 17 a Abs. 2 ArG) 1 Bei dauernd und regelmässig wiederkehrender Nachtarbeit ist eine Arbeitszeit von 10 Stunden im Zeitraum von 12 Stunden zulässig, sofern: a. für den Arbeitnehmer oder die Arbeitnehmerin keine erhöhten Risiken bezüglich chemischer, biologischer und physikalischer Einwirkungen bestehen; b. der Arbeitnehmer oder die Arbeitnehmerin keinen ausserordentlichen physischen, psychischen und mentalen Belastungen ausgesetzt ist; c. der Arbeitseinsatz so organisiert ist, dass die Leistungsfähigkeit des Arbeitnehmers oder der Arbeitnehmerin erhalten bleibt und dadurch die Entstehung von Gefahrensituationen vermieden werden kann; d. in einer medizinischen Untersuchung die Eignung des Arbeitnehmers oder der Arbeitnehmerin festgestellt worden ist; und e. die effektiv zu leistende Arbeitszeit innert 24 Stunden 10 Stunden nicht überschreitet. 2 Bei vorübergehender Nachtarbeit ist eine Arbeitszeit von 10 Stunden im Zeitraum von 12 Stunden gemäss Artikel 17 a Absatz 2 des Gesetzes zulässig, sofern: a. der Arbeitseinsatz so organisiert ist, dass die Leistungsfähigkeit des Arbeitnehmers oder der Arbeitnehmerin erhalten bleibt und dadurch die Entstehung von Gefahrensituationen vermieden werden kann; b. die effektiv zu leistende Arbeitszeit innert 24 Stunden 10 Stunden nicht überschreitet; und c. der Arbeitnehmer oder die Arbeitnehmerin einverstanden ist."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "6. Abschnitt: Besondere Formen der Nachtarbeit",
+      "section": "30",
+      "title": "Nachtarbeit ohne Wechsel mit Tagesarbeit",
+      "content": "(Art. 25 und 26 ArG) 1 Nachtarbeit von mehr als sechs Wochen bis höchstens zwölf Wochen ohne Wechsel mit Tagesarbeit nach Artikel 25 Absatz 3 des Gesetzes ist zulässig, sofern: a. sie aus betrieblichen Gründen unentbehrlich ist oder die Mehrheit der betroffenen Arbeitnehmer und Arbeitnehmerinnen schriftlich um einen Verzicht auf den Wechsel zwischen Tages- und Nachtarbeit ersucht, weil ihnen der Wechsel insbesondere aus persönlichen oder familiären Gründen nicht zumutbar ist; b. der Arbeitnehmer oder die Arbeitnehmerin schriftlich sein bzw. ihr Einverständnis erklärt hat; und c. innert 24 Wochen die Tagesarbeits-Perioden insgesamt mindestens gleich lang sind wie die Nachtarbeits-Perioden. 2 Nachtarbeit von mehr als zwölf Wochen ohne Wechsel mit Tagesarbeit nach Artikel 25 Absatz 3 des Gesetzes ist zulässig, sofern: a. sie aus betrieblichen Gründen unentbehrlich ist oder die Mehrheit der betroffenen Arbeitnehmer und Arbeitnehmerinnen schriftlich um einen Verzicht auf den Wechsel zwischen Tages- und Nachtarbeit ersucht, weil ihnen der Wechsel insbesondere aus persönlichen oder familiären Gründen nicht zumutbar ist; b. der Arbeitnehmer oder die Arbeitnehmerin schriftlich sein bzw. ihr Einverständnis erklärt hat; und c. die Voraussetzungen nach Artikel 29 Absatz 1 Buchstaben a–d erfüllt sind. 2bis Betriebliche Unentbehrlichkeit nach den Absätzen 1 Buchstabe a und 2 Buchstabe a liegt vor, wenn: a. es sich um Nachtarbeit handelt, für die es keine entsprechende Arbeit im Tages- und Abendzeitraum gibt; oder b. auf dem üblichen Arbeitsmarkt nicht genügend qualifiziertes Personal für Wechselschichten rekrutiert werden kann. 3 Arbeitnehmer und Arbeitnehmerinnen in Nachtarbeit nach Absatz 2 dürfen: a. höchstens eingesetzt werden: 1. in fünf von sieben aufeinander folgenden Nächten; oder 2. in sechs von neun aufeinander folgenden Nächten; und b. an ihren freien Tagen keine Überzeitarbeit nach Artikel 25 leisten. 4 Auf Arbeitnehmer und Arbeitnehmerinnen, die höchstens für eine Randstunde zwischen 5 Uhr und 6 Uhr oder 23 Uhr und 24 Uhr dauernd Nachtarbeit leisten, sind die Voraussetzungen und die Bedingungen nach den Absätzen 1–3 nicht anwendbar. Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ( AS 2010 3111 ). Fassung gemäss Ziff. I derV vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ( AS 2010 3111 ). Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ( AS 2010 3111 ). Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ( AS 2010 3111 )."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "7. Abschnitt: Lohn- und Zeitzuschlag",
+      "section": "31",
+      "title": "Lohn- und Zeitzuschlag bei Nachtarbeit",
+      "content": "(Art. 17 b Abs. 2 ArG) 1 Dauernde oder regelmässig wiederkehrende Nachtarbeit leistet ein Arbeitnehmer, der in 25 und mehr Nächten pro Kalenderjahr zum Einsatz gelangt. 2 Der Zeitzuschlag ist ab dem ersten Nachteinsatz zu gewähren. Er berechnet sich auf Grund der tatsächlich geleisteten Arbeitszeit. 3 Stellt sich erst im Verlaufe eines Kalenderjahres heraus, dass ein Arbeitnehmer wider Erwarten Nachtarbeit in mehr als 25 Nächten pro Kalenderjahr zu leisten hat, so muss der Lohnzuschlag von 25 Prozent für die ersten 25 Nächte nicht in den Zeitzuschlag umgewandelt werden."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "7. Abschnitt: Lohn- und Zeitzuschlag",
+      "section": "32",
+      "title": "Ausnahmen vom Zeitzuschlag",
+      "content": "(Art. 17 b Abs. 3 und 4, Art. 26 ArG) 1 Der Zeitzuschlag nach Artikel 17 b Absatz 3 Buchstaben a und b des Gesetzes ist nicht geschuldet, wenn ein Betrieb ein betriebliches Arbeitszeitsystem aufweist, dessen wöchentliche Arbeitszeit für einen vollzeitlich beschäftigten Arbeitnehmer folgende Dauer nicht übersteigt: a. 35 Stunden, Pausen eingeschlossen, bei der auf 7 Stunden im Durchschnitt verkürzten Schichtdauer; b. 36 Stunden, Pausen abgezogen, im Fall der Vier-Tage-Woche. 2 Betrieblich ist ein Arbeitszeitsystem, wenn dieses für den ganzen Betrieb oder einen klar davon abgrenzbaren Betriebsteil integral Anwendung findet. 3 Die Gleichwertigkeit anderer Ausgleichsruhezeiten im Rahmen von Gesamtarbeitsverträgen oder öffentlich-rechtlicher Vorschriften nach Artikel 17 b Absatz 3 Buchstabe c des Gesetzes liegt vor, wenn der entsprechende Gesamtarbeitsvertrag oder der zur Anwendung gelangende öffentlich-rechtliche Erlass Ausgleichsregeln aufweist: a. die speziell den Nachtarbeit leistenden Arbeitnehmern für die dafür geleistete Arbeit zusätzliche Freizeit einräumen; und b. die in ihrem Umfang insgesamt mit dem Zeitzuschlag von 10 Prozent gleichwertig ist."
+    },
+    {
+      "provision_ref": "art32a",
+      "chapter": "7. Abschnitt: Lohn- und Zeitzuschlag",
+      "section": "32a",
+      "title": "a Lohnzuschlag und Ersatzruhe bei Sonntags- und Feiertagsarbeit",
+      "content": "(Art. 19 Abs. 3 ArG) 1 Vorübergehende Sonntagsarbeit leistet ein Arbeitnehmer oder eine Arbeitnehmerin, der oder die in einem Kalenderjahr an höchstens 6 Sonntagen, gesetzliche Feiertage inbegriffen, zum Einsatz gelangt. 2 Dauernd oder regelmässig wiederkehrend ist Sonntagsarbeit, wenn diese die in Absatz 1 genannte Bedingung vom zeitlichen Umfang her überschreitet. 3 Stellt sich erst im Verlaufe eines Kalenderjahres heraus, dass ein Arbeitnehmer oder eine Arbeitnehmerin wider Erwarten Sonntagsarbeit an mehr als 6 Sonntagen, gesetzliche Feiertage inbegriffen, zu leisten hat, so bleibt der Lohnzuschlag von 50 Prozent für die ersten 6 Sonntage, gesetzliche Feiertage inbegriffen, geschuldet. Eingefügt durch Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ( AS 2020 4135 )."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "7. Abschnitt: Lohn- und Zeitzuschlag",
+      "section": "33",
+      "title": "Berechnung des Lohnzuschlages",
+      "content": "(Art. 13 Abs. 1, 17 b Abs. 1 und 2, 19 Abs. 3 und 24 Abs. 6 ArG) 1 Der Lohnzuschlag für Überzeitarbeit, Nachtarbeit und Sonntagsarbeit ist bei Zeitlohn nach dem auf die Stunde berechneten Lohn, ohne Orts-, Haushaltungs- und Kinderzulagen, zu bemessen. 2 Bei Akkordarbeit ist der Lohnzuschlag in der Regel nach dem in der Zahltagsperiode durchschnittlich erzielten Lohn, ohne Orts-, Haushaltungs- und Kinderzulagen, zu bemessen. 3 Für die Bewertung des Naturallohnes sowie der Bedienungs- und Trinkgelder sind die Vorschriften der Bundesgesetzgebung über die Alters- und Hinterlassenenversicherung sinngemäss anwendbar. 4 Sind für die gleiche Zeitspanne verschiedene Vorschriften des Gesetzes über die Ausrichtung von Lohnzuschlägen anwendbar, so ist der für den Arbeitnehmer oder die Arbeitnehmerin günstigste Zuschlag auszurichten."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "8. Abschnitt: Schichtarbeit",
+      "section": "34",
+      "title": "Schichtarbeit und Schichtwechsel",
+      "content": "(Art. 25, 6 Abs. 2 und 26 ArG) 1 Schichtarbeit liegt vor, wenn zwei oder mehrere Gruppen von Arbeitnehmern und Arbeitnehmerinnen nach einem bestimmten Zeitplan gestaffelt und wechselweise am gleichen Arbeitsplatz zum Einsatz gelangen. 2 Bei der Gestaltung von Schichtarbeit sind die arbeitsmedizinischen und arbeitswissenschaftlichen Erkenntnisse zu beachten. 3 Bei zweischichtiger Tagesarbeit, die nicht in den Nachtzeitraum fällt, darf die einzelne Schichtdauer, Pausen inbegriffen, 11 Stunden nicht überschreiten. Die Leistung von Überzeitarbeit nach Artikel 25 ist nur an sonst arbeitsfreien Werktagen zulässig und soweit, als an diesen Tagen nicht gesetzliche Ruhe- oder Ausgleichsruhezeiten bezogen werden. 4 Bei drei- und mehrschichtigen Arbeitszeitsystemen, bei denen der Arbeitnehmer oder die Arbeitnehmerin alle Schichten durchläuft, gilt Folgendes: a. die einzelne Schichtdauer darf 10 Stunden, Pausen inbegriffen, nicht überschreiten; b. der Schichtwechsel hat von der Früh- zur Spät- und von dieser zur Nachtschicht (Vorwärtsrotation) zu erfolgen; eine Rückwärtsrotation ist ausnahmsweise zulässig, wenn die Mehrheit der betroffenen Arbeitnehmer oder Arbeitnehmerinnen schriftlich darum ersucht; c. die Leistung von Überzeitarbeit nach Artikel 25 ist nur an sonst arbeitsfreien Werktagen zulässig und soweit, als an diesen Tagen nicht gesetzliche Ruhe- oder Ausgleichsruhezeiten bezogen werden. Fassung gemäss Ziff. I der V vom 29. Okt. 2008, in Kraft seit 1. Dez. 2008 ( AS 2008 5181 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "8. Abschnitt: Schichtarbeit",
+      "section": "35",
+      "title": "Verzicht auf den Schichtwechsel bei Tages- und Abendarbeit",
+      "content": "(Art. 25 Abs. 3 ArG) Auf den Schichtwechsel kann verzichtet werden, sofern: a. Arbeitnehmer aus besonderen persönlichen Gründen nur am Morgen oder am Abend arbeiten können; oder b. eine der beiden Schichten wesentlich kürzer ist und nicht mehr als 5 Stunden beträgt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "9. Abschnitt: Ununterbrochener Betrieb",
+      "section": "36",
+      "title": "Begriff",
+      "content": "(Art. 24 ArG) Als ununterbrochener Betrieb gilt ein Arbeitszeitsystem: a. bei dem während 24 Stunden und an sieben Tage der Woche Schichtarbeit geleistet wird; und b. das aus mehreren Schichten besteht, wobei der einzelne Arbeitnehmer oder die einzelne Arbeitnehmerin grundsätzlich alle Schichten durchläuft."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "9. Abschnitt: Ununterbrochener Betrieb",
+      "section": "37",
+      "title": "Ruhetage",
+      "content": "(Art. 24 Abs. 5 ArG) 1 Bei ununterbrochenem Betrieb sind den Arbeitnehmern und Arbeitnehmerinnen im Kalenderjahr wenigstens 61 wöchentliche Ruhetage zu gewähren, die zusammen mit der täglichen Ruhezeit mindestens 35 aufeinander folgende Stunden umfassen. Davon müssen wenigstens 26 Ruhetage auf einen Sonntag fallen und mindestens die Zeit von 6–16 Uhr umfassen. 2 Unter der Voraussetzung, dass der Sonntag die Zeit von Samstag 23 Uhr bis Sonntag 23 Uhr umfasst, kann die Zahl der auf einen Sonntag fallenden Ruhetage wie folgt herabgesetzt werden: a. auf 17, wenn die tägliche Arbeitszeit des einzelnen Arbeitnehmers oder der einzelnen Arbeitnehmerin 8 Stunden nicht übersteigt; b. auf 13, wenn zusätzlich zu der in Buchstabe a genannten Voraussetzung die durchschnittliche wöchentliche Arbeitszeit einschliesslich der Pausen nicht mehr als 42 Stunden beträgt. 3 Kann aus betrieblichen oder organisatorischen Gründen nicht in jeder Woche ein wöchentlicher Ruhetag gewährt werden, so ist dieser spätestens in der dritten Folgewoche zu gewähren. Dieser Ruhetag kann mit anderen wöchentlichen Ruhetagen zusammengelegt werden. 4 Nach spätestens sieben Tagen ist dem Arbeitnehmer oder der Arbeitnehmerin eine tägliche Ruhezeit von 24 Stunden zu gewähren."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "9. Abschnitt: Ununterbrochener Betrieb",
+      "section": "38",
+      "title": "Arbeitszeit",
+      "content": "(Art. 24 Abs. 5 ArG) 1 Die wöchentliche Höchstarbeitszeit nach Artikel 9 des Gesetzes ist beim ununterbrochenen Betrieb im Durchschnitt von 16 Wochen einzuhalten. Diese Zeitspanne kann ausnahmsweise bis auf 20 Wochen verlängert werden. 2 Die wöchentliche Höchstarbeitszeit kann für einzelne Zeiträume von sieben aufeinander folgenden Tagen auf 52 Stunden verlängert werden. Ausnahmsweise kann sie auf 60 Stunden verlängert werden, wenn ein grosser Teil der Arbeitszeit aus reiner Präsenzzeit besteht und der Arbeitnehmer oder die Arbeitnehmerin keinen physisch, psychisch und mental belastenden Tätigkeiten ausgesetzt ist. Die wöchentliche Höchstarbeitszeit ist dann im Durchschnitt von 16 Wochen einzuhalten. 3 Für den einzelnen Arbeitnehmer oder die einzelne Arbeitnehmerin darf die Arbeitszeit innert 24 Stunden nicht mehr als 9 Stunden betragen und muss, mit Einschluss der Pausen, innert eines Zeitraumes von 10 Stunden liegen. Wird zwischen Freitagabend und Montagmorgen in zwei Schichten gearbeitet, so kann die Arbeitszeit bis auf 12 Stunden verlängert werden, doch ist in diesem Falle eine Pause von 2 Stunden zu gewähren, die innerhalb der Schicht hälftig geteilt und gestaffelt angeordnet werden kann. 4 Auf den ununterbrochenen Betrieb sind im Übrigen die Vorschriften dieser Verordnung über die Nacht- und Sonntagsarbeit sowie über die Schichtarbeit anwendbar, sofern die Artikel 37 und 38 nichts anderes bestimmen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "9. Abschnitt: Ununterbrochener Betrieb",
+      "section": "39",
+      "title": "Zusammengesetzter ununterbrochener Betrieb",
+      "content": "(Art. 10, 17, 19, 25 und 24 Abs. 5 i.V.m. 26 ArG) 1 Auf Arbeitnehmer oder Arbeitnehmerinnen, die im Rahmen eines ununterbrochenen Betriebssystems nur in einzelnen Schichten oder an bestimmten Tagen eingesetzt werden, sind die Artikel 37 und 38 nicht anwendbar. 2 Die Beschäftigung von Arbeitnehmern oder Arbeitnehmerinnen in Wochenendschichten zwischen Donnerstagabend (20 Uhr) und Montagmorgen (5 Uhr bis 7 Uhr) ist zulässig, sofern: a. die Arbeitnehmer oder die Arbeitnehmerinnen – abgesehen von Ausnahmefällen wie Ferienablösungen – in der übrigen Zeit der Woche keiner weiteren Erwerbstätigkeit als Arbeitnehmer oder Arbeitnehmerin nachgehen; b. die Arbeitnehmer oder Arbeitnehmerinnen in keiner Schicht mehr als 10 Stunden Arbeitszeit innerhalb von 12 Stunden leisten müssen; ein Arbeitnehmer oder eine Arbeitnehmerin, der oder die in einer Nacht 10 Stunden Arbeitszeit innerhalb von 12 Stunden leistet, darf maximal 3 Nächte beschäftigt werden; c. die tägliche Ruhezeit von 11 Stunden nicht verkürzt wird; d. die Arbeitnehmer oder die Arbeitnehmerinnen nicht zu Überzeitarbeit nach Artikel 25 herangezogen werden; und e. die Arbeitnehmer oder Arbeitnehmerinnen mindestens fünf auf einen Sonntag fallende Ruhetage pro Kalenderjahr haben. Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ( AS 2020 4135 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "10. Abschnitt: Arbeitszeitbewilligungen",
+      "section": "40",
+      "title": "Abgrenzungskriterien für die Bewilligungszuständigkeit",
+      "content": "(Art. 17, 19 und 24 ArG) 1 Vorübergehend ist Nacht- oder Sonntagsarbeit im Sinne von Artikel 17 beziehungsweise Artikel 19 des Gesetzes, wenn es sich um zeitlich befristete Einsätze von nicht mehr als sechs Monaten pro Einsatz handelt. Dauert ein Einsatz unerwartet länger als sechs Monate und ist die Verzögerung nicht dem Betrieb zuzuschreiben, so kann die kantonale Behörde die Bewilligung um höchstens drei Monate verlängern. 2 Dauernd oder regelmässig wiederkehrend ist Nacht- oder Sonntagsarbeit, wenn sie: a. den Umfang von Absatz 1 überschreitet; oder b. in regelmässigen Einsätzen geleistet wird, die sich während mehreren Kalenderjahren aus dem gleichen Grund wiederholen; davon ausgenommen ist Nacht- oder Sonntagsarbeit, die für Arbeitseinsätze nach Artikel 27 Absatz 2 geleistet wird. Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ( AS 2022 100 )."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "10. Abschnitt: Arbeitszeitbewilligungen",
+      "section": "41",
+      "title": "Gesuch",
+      "content": "(Art. 49 ArG) 1 Gesuche um Arbeitszeitbewilligungen sind einzureichen: a. für vorübergehende Nacht- oder Sonntagsarbeit: bei der kantonalen Behörde, sobald die Planung der Arbeiten bekannt ist, jedoch spätestens eine Woche vor dem geplanten Arbeitsbeginn; Artikel 49 Absatz 2 des Gesetzes bleibt vorbehalten; b. für dauernde oder regelmässig wiederkehrende Nacht- oder Sonntagsarbeit: beim SECO spätestens acht Wochen vor dem geplanten Arbeitsbeginn. 2 Die Gesuche sind schriftlich einzureichen und hinreichend zu begründen. Sie müssen folgende Angaben enthalten: a. die Bezeichnung des Betriebes oder der Betriebsteile, für welche um die Bewilligung nachgesucht wird; b. die Zahl der beteiligten erwachsenen Arbeitnehmer und Arbeitnehmerinnen und, im Fall eines Gesuchs um eine Arbeitszeitbewilligung für die Beschäftigung von Jugendlichen, die Zahl der Arbeitnehmer und Arbeitnehmerinnen, die das 18. Altersjahr noch nicht vollendet haben; c. den vorgesehenen Stundenplan, einschliesslich der Ruhezeit und Pausen sowie der Schichtwechsel und allfälliger Abweichungen; für die Nachtarbeit, für die drei- und mehrschichtige Arbeit sowie für den ununterbrochenen Betrieb kann auf grafische Darstellungen von Stunden- und Schichtenplänen verwiesen werden; d. die beantragte Dauer der Bewilligung; e. die Bestätigung, dass das Einverständnis des Arbeitnehmers oder der Arbeitnehmerin eingeholt worden ist; f. die Bestätigung, dass eine medizinische Untersuchung hinsichtlich der Eignung des betroffenen Arbeitnehmers oder der betroffenen Arbeitnehmerin durchgeführt worden ist oder noch durchgeführt werden wird, wenn die Untersuchung von Gesetz oder Verordnung vorgesehen ist; g. den Nachweis des dringenden Bedürfnisses oder der Unentbehrlichkeit und, im Fall eines Gesuchs um eine Arbeitszeitbewilligung für die Beschäftigung von Jugendlichen, den Nachweis, dass die Voraussetzungen nach den Artikeln 12 Absatz 1 und 13 Absatz 1 der Jugendarbeitsschutzverordnung vom 28. September 2007 erfüllt sind; h. die Zustimmung Dritter, wenn von Gesetz oder Verordnung vorgesehen. Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ( AS 2022 100 ). SR 822.115"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Bewilligungserteilung",
+      "content": "(Art. 49 ArG) 1 In den Arbeitszeitbewilligungen sind anzuführen: a. die Rechtsgrundlage; b. der Betrieb oder der Betriebsteil oder die Art der Tätigkeit; c. die Begründung der Bewilligung; d. die Zahl der im Ganzen und, bei Schichtarbeit und ununterbrochenem Betrieb, der an den einzelnen Schichten beteiligten Arbeitnehmer und Arbeitnehmerinnen; e. die bewilligten Tage, Nächte oder Stunden, der bewilligte Stundenplan, die einzuhaltenden Ruhezeiten und Pausen, der Schichtwechsel sowie allfällige Abweichungen; f. allfällige Auflagen und Bedingungen zum Schutze der Arbeitnehmer; g. der räumliche Geltungsbereich, wenn mehrere Kantone von der Bewilligung betroffen sind. 2 Die Arbeitszeitbewilligungen sind nach ihrem Zweck zeitlich zu befristen. 3 Für vorübergehende Arbeitszeitbewilligungen, die kantonsübergreifende Tatbestände regeln, ist der Kanton zuständig, in dem der Betrieb seinen Sitz hat. 4 Die Bewilligung darf nur von den im Gesetz oder in einer Verordnung vorgesehenen Voraussetzungen abhängig gemacht werden. Sie darf auch keine anderen Auflagen enthalten, als im Gesetz oder in einer Verordnung vorgesehen sind. 5 Das SECO stellt seine Bewilligungen den Standortkantonen der Betriebe zu; gleich verfahren die Kantone bei Bewilligungen, die kantonsübergreifende Tatbestände regeln. Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ( AS 2020 4135 )."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "1. Abschnitt: Medizinische Untersuchung und Beratung",
+      "section": "43",
+      "title": "Begriff der medizinischen Untersuchung und Beratung",
+      "content": "(Art. 17 c und 42 Abs. 4 ArG) 1 Die medizinische Untersuchung beinhaltet eine Basiskontrolle des Gesundheitszustandes des betroffenen Arbeitnehmers oder der Arbeitnehmerin. Der Umfang richtet sich nach der Art der auszuübenden Tätigkeit und den Gefährdungen am Arbeitsplatz. Das SECO gibt für die medizinische Untersuchung und Beratung einen Leitfaden heraus. 2 Die medizinische Untersuchung nach den Artikeln 29, 30 und 45 ist von einem Arzt oder einer Ärztin vorzunehmen, der oder die sich mit dem Arbeitsprozess, den Arbeitsverhältnissen und den arbeitsmedizinischen Grundlagen vertraut gemacht hat. Frauen haben Anspruch auf medizinische Untersuchung und Beratung bei einer Ärztin. 3 Die Beratung nach Artikel 17 c des Gesetzes umfasst spezifische Gesichtspunkte, die im Zusammenhang mit der Nachtarbeit stehen. Das können Fragen familiärer und sozialer Art oder Ernährungsprobleme sein, soweit diese einen Einfluss auf die Gesundheit des in der Nacht beschäftigten Arbeitnehmers oder der Arbeitnehmerin haben können. 4 Die im Rahmen des Obligatoriums beigezogenen Ärzte oder Ärztinnen und anderen beigezogenen medizinischen Fachkräfte sind Sachverständige nach Artikel 42 Absatz 4 des Gesetzes."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "1. Abschnitt: Medizinische Untersuchung und Beratung",
+      "section": "44",
+      "title": "Anspruch auf medizinische Untersuchung und Beratung",
+      "content": "(Art. 17 c ArG) 1 Arbeitnehmer und Arbeitnehmerinnen, die 25 und mehr Nachteinsätze pro Jahr leisten, haben auf Verlangen Anspruch auf medizinische Untersuchung und Beratung. 2 Der Anspruch auf medizinische Untersuchung und Beratung kann in regelmässigen Abständen von zwei Jahren geltend gemacht werden. Nach Vollendung des 45. Lebensjahres steht den Arbeitnehmern und Arbeitnehmerinnen dieses Recht in Zeitabständen von einem Jahr zu."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "1. Abschnitt: Medizinische Untersuchung und Beratung",
+      "section": "45",
+      "title": "Obligatorische medizinische Untersuchung und Beratung",
+      "content": "(Art. 6 Abs. 2 und 17 c Abs. 2 und 3 ArG) 1 Die medizinische Untersuchung und Beratung ist obligatorisch für Jugendliche, die dauernd oder regelmässig wiederkehrende Nachtarbeit leisten, und für Arbeitnehmer oder Arbeitnehmerinnen, die dauernd oder regelmässig wiederkehrende Nachtarbeit leisten und dabei in erhöhtem Ausmass belastende oder gefährliche Tätigkeiten verrichten oder belastenden oder gefährlichen Situationen ausgesetzt sind. Belastende und gefährliche Tätigkeiten oder Situationen sind: a. gehörschädigender Lärm, starke Erschütterungen und Arbeit in Hitze oder in Kälte; b. Luftschadstoffe, wenn deren Konzentration mehr als 50 Prozent der maximalen Arbeitsplatz-Konzentration gesundheitsgefährdender Stoffe gemäss den Richtlinien beträgt, die die Schweizerische Unfallversicherungsanstalt gestützt auf Artikel 50 Absatz 3 der Verordnung vom 19. Dezember 1983 über die Unfallverhütung erlassen hat; c. ausserordentliche physische, psychische und mentale Belastungen; d. Arbeit als allein arbeitende Person in einem Betrieb oder Betriebsteil; e. verlängerte Dauer der Nachtarbeit und Nachtarbeit ohne Wechsel mit Tagesarbeit. 2 Die medizinische Untersuchung und Beratung erfolgt erstmals vor Antritt zu einer in Absatz 1 genannten Tätigkeit und danach alle zwei Jahre. Sie kann mit der verkehrsmedizinischen Untersuchung nach Artikel 27 der Verkehrszulassungsverordnung vom 27. Oktober 1976 koordiniert werden, wenn diese die für die Beurteilung der Eignung zur Nachtarbeit massgeblichen Aspekte berücksichtigt. In diesem Fall kann der Abstand zwischen den einzelnen medizinischen Untersuchungen und Beratungen um bis zu einem Jahr verlängert werden. 3 Der untersuchende Arzt oder die untersuchende Ärztin teilt dem betroffenen Arbeitnehmer oder der betroffenen Arbeitnehmerin und dem Arbeitgeber die Schlussfolgerungen hinsichtlich der Eignung oder Nichteignung mit. 4 Arbeitnehmer und Arbeitnehmerinnen, die nach Feststellung des Arztes oder der Ärztin nicht geeignet sind oder die sich nicht untersuchen lassen, dürfen für Arbeiten nach Absatz 1 nicht in der Nacht eingesetzt werden. Eignet sich ein Arbeitnehmer oder eine Arbeitnehmerin nur bedingt, so kann der untersuchende Arzt oder die untersuchende Ärztin die Beschäftigung des betroffenen Arbeitnehmers oder der betroffenen Arbeitnehmerin ganz oder teilweise in der Nacht an die Bedingung knüpfen, dass der Betrieb die als notwendig erachteten Massnahmen für die Erhaltung der Gesundheit ergreift. 5 Bei bedingter Eignung werden die untersuchenden Ärzte und Ärztinnen von ihrem ärztlichen Berufsgeheimnis gegenüber dem Arbeitgeber soweit entbunden, als der betroffene Arbeitnehmer oder die betroffene Arbeitnehmerin, nachdem sie oder er über das Ergebnis der Untersuchung informiert wurde, in die Weiterleitung von Informationen einwilligt und es für das Treffen von Massnahmen im Betrieb notwendig ist. Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ( AS 2020 4135 ). SR 832.30 SR 741.51"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "2. Abschnitt: Weitere Massnahmen",
+      "section": "46",
+      "title": "",
+      "content": "(Art. 17 e ArG) Der Arbeitgeber hat als weitere Massnahmen bei Nachtarbeit insbesondere: a. ein sicheres Transportmittel zur Verfügung zu stellen, wenn die persönliche Sicherheit eines Arbeitnehmers oder einer Arbeitnehmerin auf dem Weg zum und vom Arbeitsplatz gefährdet sein könnte; b. Transportmöglichkeiten beim Fehlen öffentlicher Verkehrsmittel bereitzustellen; c. Kochgelegenheiten für die Zubereitung warmer Mahlzeiten in einem geeigneten Raum bereitzustellen oder warme Mahlzeiten abzugeben; d. Arbeitnehmer und Arbeitnehmerinnen mit Erziehungs- oder Betreuungspflichten nach Artikel 36 des Gesetzes zu unterstützen, damit sie diese Aufgaben selber oder durch Dritte wahrnehmen können."
+    },
+    {
+      "provision_ref": "art4759",
+      "chapter": "2. Abschnitt: Weitere Massnahmen",
+      "section": "4759",
+      "title": "",
+      "content": "Aufgehoben durch Art. 22 der Jugendarbeitsschutzverordnung vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ( AS 2007 4959 )."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "1. Abschnitt: Beschäftigung bei Mutterschaft",
+      "section": "60",
+      "title": "Arbeitszeit und Stillzeit bei Schwangerschaft und Mutterschaft",
+      "content": "(Art. 35 und 35 a ArG) 1 Schwangere Frauen und stillende Mütter dürfen nicht über die vereinbarte ordentliche Dauer der täglichen Arbeit hinaus beschäftigt werden, jedoch keinesfalls über 9 Stunden hinaus. 2 Stillenden Müttern sind die für das Stillen oder für das Abpumpen von Milch erforderlichen Zeiten freizugeben. Davon wird im ersten Lebensjahr des Kindes als bezahlte Arbeitszeit angerechnet: a. bei einer täglichen Arbeitszeit von bis zu 4 Stunden: mindestens 30 Minuten; b. bei einer täglichen Arbeitszeit von mehr als 4 Stunden: mindestens 60 Minuten; c. bei einer täglichen Arbeitszeit von mehr als 7 Stunden: mindestens 90 Minuten. Fassung gemäss Ziff. I der V vom 30. April 2014, in Kraft seit 1. Juni 2014 ( AS 2014 999 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "1. Abschnitt: Beschäftigung bei Mutterschaft",
+      "section": "61",
+      "title": "Beschäftigungserleichterung",
+      "content": "(Art. 35 ArG) 1 Bei hauptsächlich stehend zu verrichtender Tätigkeit sind schwangeren Frauen ab dem vierten Schwangerschaftsmonat eine tägliche Ruhezeit von 12 Stunden und nach jeder zweiten Stunde zusätzlich zu den Pausen nach Artikel 15 des Gesetzes eine Kurzpause von 10 Minuten zu gewähren. 2 Ab dem sechsten Schwangerschaftsmonat sind stehende Tätigkeiten auf insgesamt 4 Stunden pro Tag zu beschränken."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "2. Abschnitt: Gesundheitsschutz bei Mutterschaft",
+      "section": "62",
+      "title": "Gefährliche und beschwerliche Arbeiten bei Schwangerschaft und Mutterschaft",
+      "content": "(Art. 35 ArG) 1 Der Arbeitgeber darf schwangere Frauen und stillende Mütter zu gefährlichen und beschwerlichen Arbeiten nur beschäftigen, wenn auf Grund einer Risikobeurteilung feststeht, dass dabei keine konkrete gesundheitliche Belastung für Mutter und Kind vorliegt, oder wenn eine solche durch geeignete Schutzmassnahmen ausgeschaltet werden kann. Vorbehalten bleiben weitere Ausschlussgründe nach Absatz 4. 2 Kann eine gefährliche gesundheitliche Belastung für Mutter und Kind nur durch das Ergreifen geeigneter Schutzmassnahmen ausgeschaltet werden, ist deren Wirksamkeit periodisch, mindestens vierteljährlich zu überprüfen. Stellt sich dabei heraus, dass das Schutzziel nicht erreicht wird, ist nach Artikel 64 Absatz 3 beziehungsweise nach Artikel 65 zu verfahren. 3 Als gefährliche und beschwerliche Arbeiten für schwangere Frauen und stillende Mütter gelten alle Arbeiten, die sich erfahrungsgemäss nachteilig auf die Gesundheit dieser Frauen und ihrer Kinder auswirken. Dazu gehören namentlich: a. das Bewegen schwerer Lasten von Hand; b. Bewegungen und Körperhaltungen, die zu vorzeitiger Ermüdung führen; c. Arbeiten, die mit Einwirkungen wie Stössen, Erschütterungen oder Vibrationen verbunden sind; d. Arbeiten bei Überdruck, z.B. in Druckkammern, beim Tauchen usw.; e. Arbeiten bei Kälte oder Hitze oder bei Nässe; f. Arbeiten unter Einwirkung schädlicher Strahlen oder Lärm; g. Arbeiten unter Einwirkung schädlicher Stoffe oder Mikroorganismen; h. Arbeiten in Arbeitszeitsystemen, die erfahrungsgemäss zu einer starken Belastung führen. 4 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) legt in einer Verordnung fest, wie die in Absatz 3 aufgeführten gefährlichen und beschwerlichen Arbeiten zu beurteilen sind. Überdies definiert es Stoffe, Mikroorganismen und Arbeiten, die auf Grund der Erfahrung und dem Stand der Wissenschaft mit einem besonderen hohen Gefahrenpotenzial für Mutter und Kind verbunden sind und die bei jeder Beschäftigung von schwangeren Frauen und stillenden Müttern verboten sind. Fassung gemäss Ziff. I der V vom 30. April 2014, in Kraft seit 1. Juni 2014 ( AS 2014 999 ). Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "2. Abschnitt: Gesundheitsschutz bei Mutterschaft",
+      "section": "63",
+      "title": "Risikobeurteilung und Unterrichtung",
+      "content": "(Art. 35 und 48 ArG) 1 Ein Betrieb mit gefährlichen und beschwerlichen Arbeiten für Mutter und Kind nach Artikel 62 hat die Risikobeurteilung durch eine fachlich kompetente Person nach den Grundsätzen der Artikel 11 a ff. der Verordnung vom 19. Dezember 1983 über die Verhütung von Unfällen und Berufskrankheiten und den spezifischen Vorschriften über den Beizug von fachlich kompetenten Personen bei Mutterschaft vorzunehmen. 2 Die Risikobeurteilung erfolgt erstmals vor Beginn der Beschäftigung von Frauen in einem Betrieb oder Betriebsteil nach Artikel 62 und bei jeder bedeutenden Änderung der Arbeitsbedingungen. 3 Das Ergebnis der Risikobeurteilung ist schriftlich festzuhalten, ebenso die vom Spezialisten der Arbeitssicherheit vorgeschlagenen Schutzmassnahmen. Bei der Risikobeurteilung sind zu beachten: a. die Vorschriften nach Artikel 62 Absatz 4; b. die Vorschriften der Verordnung 3 vom 18. August 1993 zum Arbeitsgesetz; und c. die Verordnung vom 19. Dezember 1983 über die Verhütung von Unfällen und Berufskrankheiten. 4 Der Arbeitgeber hat dafür zu sorgen, dass Frauen mit beschwerlichen und gefährlichen Arbeiten über die mit der Schwangerschaft und der Mutterschaft in Zusammenhang stehenden Gefahren und Massnahmen rechtzeitig, umfassend und angemessen informiert sowie angeleitet werden. SR 832.30 SR 822.113"
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "3. Abschnitt: Beschäftigungseinschränkungen und -verbote",
+      "section": "64",
+      "title": "Arbeitsbefreiung und Versetzung",
+      "content": "(Art. 35 und 35 a ArG) 1 Schwangere Frauen und stillende Mütter sind auf ihr Verlangen von Arbeiten zu befreien, die für sie beschwerlich sind. 2 Frauen, die gemäss ärztlichem Zeugnis in den ersten Monaten nach der Entbindung nicht voll leistungsfähig sind, dürfen nicht zu Arbeiten herangezogen werden, die ihre Leistungsfähigkeit übersteigen. 3 Der Arbeitgeber hat eine schwangere Frau oder eine stillende Mutter an einen für sie ungefährlichen und gleichwertigen Arbeitsplatz zu versetzen, wenn: a. die Risikobeurteilung eine Gefahr für die Sicherheit und Gesundheit von Mutter oder Kind ergibt und keine geeignete Schutzmassnahme getroffen werden kann; oder b. feststeht, dass die betroffene Frau Umgang hat mit Stoffen, Mikroorganismen oder Arbeiten ausführt, die mit einem hohen Gefahrenpotenzial nach Artikel 62 Absatz 4 verbunden sind."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "3. Abschnitt: Beschäftigungseinschränkungen und -verbote",
+      "section": "65",
+      "title": "Verbotene Arbeiten während der Mutterschaft",
+      "content": "(Art. 35 ArG) Ist eine Versetzung nach Artikel 64 Absatz 3 nicht möglich, darf die betroffene Frau im von der Gefahr betroffenen Betrieb oder Betriebsteil nicht mehr beschäftigt werden. Fassung gemäss Ziff. I der V vom 30. April 2014, in Kraft seit 1. Juni 2014 ( AS 2014 999 )."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "3. Abschnitt: Beschäftigungseinschränkungen und -verbote",
+      "section": "66",
+      "title": "",
+      "content": "(Art. 36 a ArG) Frauen dürfen nicht für Untertagearbeiten in Bergwerken beschäftigt werden, ausser für: a. wissenschaftliche Tätigkeiten; b. Dienstleistungen der ersten Hilfe und der medizinischen Erstversorgung; c. kurzfristige Tätigkeiten im Rahmen einer geregelten Berufsausbildung; oder d. kurzfristige Tätigkeiten nicht handwerklicher Art. Fassung gemäss Ziff. I der V vom 30. April 2014, in Kraft seit 1. Juni 2014 ( AS 2014 999 ). Fassung gemäss Ziff. I der V vom 30. April 2014, in Kraft seit 1. Juni 2014 ( AS 2014 999 )."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "1. Abschnitt: Betriebsordnung",
+      "section": "67",
+      "title": "Vereinbarte oder erlassene Betriebsordnung",
+      "content": "(Art. 37 ArG) 1 Als frei gewählt gilt die Arbeitnehmervertretung, wenn die Wahl nach den Grundsätzen der Artikel 5–7 des Mitwirkungsgesetzes vom 17. Dezember 1993 erfolgt ist. 2 Wird die Betriebsordnung vom Arbeitgeber erlassen, so ist der Entwurf im Betrieb gut sichtbar anzuschlagen oder den Arbeitnehmern und Arbeitnehmerinnen auszuhändigen. Innert vier Wochen können die Arbeitnehmer oder Arbeitnehmerinnen schriftlich dazu Stellung nehmen oder sie sind vom Arbeitgeber mündlich anzuhören. SR 822.14"
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "1. Abschnitt: Betriebsordnung",
+      "section": "68",
+      "title": "Bekanntmachung der Betriebsordnung",
+      "content": "(Art. 39 ArG) 1 Die Betriebsordnung ist im Betrieb gut sichtbar anzuschlagen oder den Arbeitnehmern oder Arbeitnehmerinnen auszuhändigen. 2 Die Betriebsordnung ist der kantonalen Behörde zuzustellen. Fassung gemäss Ziff. I der V vom 24. April 2002, in Kraft seit 1. Juni 2002 ( AS 2002 1347 )."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "2. Abschnitt: Weitere Pflichten gegenüber Arbeitnehmern und Arbeitnehmerinnen",
+      "section": "69",
+      "title": "Bekanntgabe der Arbeitszeiten und der Schutzvorschriften",
+      "content": "(Art. 47 Abs. 1 ArG) 1 Bei der Planung für die im Betrieb massgeblichen Arbeitszeiten, wie Rahmeneinsatzzeiten, Pikettdienst, Einsatzpläne, bewilligte Stundenpläne und deren Änderungen sind die Arbeitnehmer und Arbeitnehmerinnen beizuziehen. Über den Zeitpunkt der konkreten Einführung der massgeblichen Arbeitszeiten sind die Arbeit-nehmer und Arbeitnehmerinnen möglichst frühzeitig zu informieren, in der Regel zwei Wochen vor einem geplanten Einsatz mit neuen Arbeitszeiten. 2 Besondere Schutzvorschriften nach Artikel 47 Absatz 1 Buchstabe b des Gesetzes sind die Vorschriften des Gesetzes und dieser Verordnung über den Jugendschutz, die Mutterschaft und die zu gewährenden Ausgleichsruhezeiten für geleistete Nachtarbeit."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "2. Abschnitt: Weitere Pflichten gegenüber Arbeitnehmern und Arbeitnehmerinnen",
+      "section": "70",
+      "title": "Information und Anleitung der Arbeitnehmer",
+      "content": "(Art. 48 ArG) 1 Der Arbeitgeber muss dafür sorgen, dass alle in seinem Betrieb beschäftigten Arbeitnehmer und Arbeitnehmerinnen, einschliesslich der dort tätigen Arbeitnehmer und Arbeitnehmerinnen eines andern Betriebes, ausreichend und angemessen informiert und angeleitet werden über die Organisation der Arbeitszeit, die Gestaltung der Stundenpläne und die bei Nachtarbeit vorgesehenen Massnahmen im Sinne von Artikel 17 e des Gesetzes. Diese Anleitung hat im Zeitpunkt des Stellenantritts und bei jeder Änderung der Arbeitsbedingungen zu erfolgen und ist nötigenfalls zu wiederholen. 2 Die Information und die Anleitung müssen während der Arbeitszeit erfolgen und dürfen nicht zu Lasten der Arbeitnehmer und Arbeitnehmerinnen gehen."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "2. Abschnitt: Weitere Pflichten gegenüber Arbeitnehmern und Arbeitnehmerinnen",
+      "section": "71",
+      "title": "Beizug der Arbeitnehmer",
+      "content": "(Art. 48 und 6 Abs. 3 ArG) 1 Die Arbeitnehmer und Arbeitnehmerinnen oder ihre Vertretung im Betrieb sind vorgängig über Besuche der Vollzugsbehörde zu informieren und auf ihren Wunsch in geeigneter Form zu Abklärungen und Betriebsbesuchen derselben beizuziehen. Bei unangemeldeten Betriebsbesuchen sind die Arbeitnehmer und Arbeitnehmerinnen ebenfalls beizuziehen. 2 Der Arbeitgeber hat den Arbeitnehmern und Arbeitnehmerinnen oder deren Vertretung im Betrieb von Anordnungen der Vollzugsbehörde Kenntnis zu geben."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "3. Abschnitt: Pflichten gegenüber Vollzugs- und Aufsichtsorganen",
+      "section": "72",
+      "title": "Zutritt zum Betrieb",
+      "content": "(Art. 45 ArG) 1 Der Arbeitgeber hat den Vollzugs- und Aufsichtsorganen Zutritt zu allen Räumen des Betriebes, mit Einschluss der Ess-, Aufenthalts- und Unterkunftsräume, zu gewähren. 2 Die Vollzugs- und Aufsichtsorgane sind befugt, im Rahmen ihrer Aufgaben den Arbeitgeber und, ohne Anwesenheit von Drittpersonen, die im Betrieb beschäftigten Arbeitnehmer und Arbeitnehmerinnen über die Durchführung des Gesetzes, der Verordnungen und der Verfügungen zu befragen."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "3. Abschnitt: Pflichten gegenüber Vollzugs- und Aufsichtsorganen",
+      "section": "73",
+      "title": "Verzeichnisse und andere Unterlagen",
+      "content": "(Art. 46 ArG) 1 Die Verzeichnisse und Unterlagen haben alle Angaben zu enthalten, die für den Vollzug des Gesetzes notwendig sind, namentlich müssen daraus ersichtlich sein: a. die Personalien der Arbeitnehmer und der Arbeitnehmerinnen; b. die Art der Beschäftigung sowie Ein- und Austritt der Arbeitnehmer oder der Arbeitnehmerinnen; c. die geleistete (tägliche und wöchentliche) Arbeitszeit inkl. Ausgleichs- und Überzeitarbeit sowie ihre Lage; d. die gewährten wöchentlichen Ruhe- oder Ersatzruhetage, soweit diese nicht regelmässig auf einen Sonntag fallen; e. die Lage und Dauer der Pausen von einer halben Stunde und mehr; f. die betrieblichen Abweichungen von der Tag-, Nacht- und Sonntagsdefinition nach den Artikeln 10, 16 und 18 des Gesetzes; g. Regelungen über den Zeitzuschlag nach Artikel 17 b Absätze 2 und 3 des Gesetzes; h. die nach Gesetz geschuldeten Lohn- und/oder Zeitzuschläge; i. die Ergebnisse der medizinischen Abklärungen hinsichtlich der Eignung oder Nichteignung bei Nachtarbeit oder Mutterschaft;. j. das Vorliegen von Ausschlussgründen oder die Ergebnisse der Risikobeurteilung bei Mutterschaft und gestützt darauf getroffene betriebliche Massnahmen. 2 Verzeichnisse und andere Unterlagen sind nach Ablauf ihrer Gültigkeit für mindestens fünf Jahre aufzubewahren. 3 Die Vollzugs- und Aufsichtsorgane können Einsicht nehmen in weitere Verzeichnisse und Unterlagen, soweit das für die Erfüllung ihrer Aufgaben notwendig ist. Sofern es für die Ermittlung notwendig ist, kann die zuständige Behörde diese Unterlagen und Verzeichnisse mitnehmen. Nach Abschluss der Ermittlungen sind diese dem Arbeitgeber zurückzugeben."
+    },
+    {
+      "provision_ref": "art73a",
+      "chapter": "3. Abschnitt: Pflichten gegenüber Vollzugs- und Aufsichtsorganen",
+      "section": "73a",
+      "title": "a Verzicht auf die Arbeitszeiterfassung",
+      "content": "(Art. 46 ArG) 1 Die Sozialpartner können in einem Gesamtarbeitsvertrag vorsehen, dass in den Verzeichnissen und Unterlagen die Angaben nach Artikel 73 Absatz 1 Buchstaben c–e und h nicht enthalten sein müssen, sofern die betroffenen Arbeitnehmer und Arbeitnehmerinnen: a. bei ihrer Arbeit über eine grosse Autonomie verfügen und ihre Arbeitszeiten mehrheitlich selber festsetzen können; b. über ein Bruttojahreseinkommen, einschliesslich Boni, von mehr als 120 000 Franken verfügen, wobei sich dieser Betrag bei Teilzeitanstellung anteilsmässig reduziert; und c. schriftlich individuell vereinbart haben, dass sie auf die Arbeitszeiterfassung verzichten. 2 Die Höhe des Betrags nach Absatz 1 Buchstabe b wird an die Entwicklung des Höchstbetrags des versicherten Verdiensts nach dem UVG angepasst. 3 Der Arbeitnehmer oder die Arbeitnehmerin oder der Arbeitgeber kann die Vereinbarung nach Absatz 1 Buchstabe c jährlich widerrufen. 4 Der Gesamtarbeitsvertrag muss von der Mehrheit der repräsentativen Arbeitnehmerorganisationen, insbesondere der Branche oder des Betriebs, unterzeichnet sein und muss Folgendes vorsehen: a. besondere Massnahmen für den Gesundheitsschutz und die Einhaltung der gesetzlich festgeschriebenen Ruhezeiten; b. die Verpflichtung des Arbeitgebers zur Bezeichnung einer internen Anlaufstelle für Fragen zu den Arbeitszeiten. 5 Der Arbeitgeber hat den Gesamtarbeitsvertrag und die individuellen Verzichtsvereinbarungen sowie ein Verzeichnis der Arbeitnehmer und Arbeitnehmerinnen, die auf die Arbeitszeiterfassung verzichtet haben, mit der Angabe ihrer Bruttojahreseinkommen den Vollzugs- und Aufsichtsorganen zur Verfügung zu halten. Eingefügt durch Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4809 )."
+    },
+    {
+      "provision_ref": "art73b",
+      "section": "73b",
+      "title": "b Vereinfachte Arbeitszeiterfassung",
+      "content": "(Art. 46 ArG) 1 Die Arbeitnehmervertretung einer Branche oder eines Betriebs oder, wo eine solche nicht besteht, die Mehrheit der Arbeitnehmer und Arbeitnehmerinnen eines Betriebs kann mit dem Arbeitgeber vereinbaren, dass für Arbeitnehmer und Arbeitnehmerinnen, die ihre Arbeitszeiten zu einem namhaften Teil selber festsetzen können, einzig die geleistete tägliche Arbeitszeit erfasst werden muss. Bei Nacht- und Sonntagsarbeit sind zusätzlich Anfang und Ende dieser Arbeitseinsätze zu dokumentieren. 2 Die Vereinbarung muss Folgendes festlegen: a. die Arbeitnehmerkategorien, für welche die vereinfachte Arbeitszeiterfassung gilt; b. besondere Bestimmungen zur Einhaltung der Arbeitszeit- und Ruhezeitbestimmungen; c. ein paritätisches Verfahren, mit dem die Einhaltung der Vereinbarung überprüft wird. 3 In Betrieben mit weniger als 50 Arbeitnehmern und Arbeitnehmerinnen kann die vereinfachte Arbeitszeiterfassung nach Absatz 1 auch individuell zwischen dem Arbeitgeber und dem Arbeitnehmer oder der Arbeitnehmerin schriftlich vereinbart werden. In der Vereinbarung ist auf die geltenden Arbeits- und Ruhezeitbestimmungen hinzuweisen. Zusätzlich muss jährlich ein Endjahresgespräch zur Arbeitsbelastung geführt und dokumentiert werden. 4 Den betroffenen Arbeitnehmern und Arbeitnehmerinnen steht es frei, trotz Vorliegens einer Vereinbarung die Angaben nach Artikel 73 Absatz 1 Buchstaben c–e aufzuzeichnen. Der Arbeitgeber hat dafür ein geeignetes Instrument zur Verfügung zu stellen. Eingefügt durch Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4809 )."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Altersausweis",
+      "content": "(Art. 29 Abs. 4 ArG) 1 Für alle Jugendlichen hat der Arbeitgeber einen Altersausweis zur Verfügung der Vollzugs- und Aufsichtsbehörden zu halten. 2 Der Altersausweis wird vom Zivilstandsbeamten des Geburts- oder Heimatortes, für nicht in der Schweiz geborene Ausländer und Ausländerinnen von der zuständigen Polizeibehörde unentgeltlich ausgestellt."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "1. Abschnitt: Bund",
+      "section": "75",
+      "title": "SECO",
+      "content": "(Art. 42 Abs. 3 ArG) 1 Das SECO ist die Fachstelle des Bundes für den Arbeitnehmerschutz. Es hat namentlich folgende Aufgaben: a. Es beaufsichtigt und koordiniert die Durchführung des Gesetzes durch die Kantone und sorgt für eine einheitliche Rechtsanwendung. b. Es stellt die Weiter- und Fortbildung der Vollzugsbehörden sicher. c. Es berät und informiert die kantonalen Vollzugsbehörden sowie die Arbeitgeber- und Arbeitnehmerverbände bei der Anwendung des Gesetzes und der Verordnungen sowie in allgemeinen Belangen des Arbeitnehmerschutzes auch andere interessierte oder betroffene Organisationen. d. Es beschafft Informationen auf dem Gebiet des Arbeitnehmerschutzes. e. Es stellt Fachleute und nötige Infrastrukturen für die Beurteilung und Lösung komplexer Fragen, Probleme und Vorfälle bereit. f. Es untersucht Grundsatz- und Spezialfragen aus dem Bereich des Arbeitnehmerschutzes und klärt Fälle ab, die von allgemeiner Bedeutung sind. g. Es unterstützt die Bemühungen zur Förderung des Gesundheitsschutzes am Arbeitsplatz und es initiiert und fördert Forschungsvorhaben zum Thema Arbeit und Gesundheit. h. Es nimmt im Bereich des Arbeitnehmerschutzes die Aufgaben der Öffentlichkeitsarbeit sowie die internationalen Kontakte wahr. i. Es vollzieht das Gesetz und seine Verordnungen in den Betrieben und Verwaltungen des Bundes. j. Es führt das Plangenehmigungsverfahren nach den Artikeln 7 und 8 des Gesetzes im koordinierten Bundesverfahren nach Artikel 62 a –62 c des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 durch. 2 Soweit es die Aufgaben nach Absatz 1 erfordern, hat das SECO Zutritt zu allen Betrieben. 3 Das SECO kann auf Gesuch hin gegen Ersatz der Kosten ganz oder teilweise Aufgaben eines Kantons übernehmen, wenn dieser mangels personeller, fachlicher oder sachlicher Mittel seine Aufgaben nicht erfüllen kann. 4 Für Gesuche, Bewilligungen und Genehmigungen kann das SECO einheitliche Formulare vorschreiben. Fassung gemäss Ziff. I der V vom 24. April 2002, in Kraft seit 1. Juni 2002 ( AS 2002 1347 ). SR 172.010"
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "1. Abschnitt: Bund",
+      "section": "76",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 6. Juli 2011, mit Wirkung seit 1. Aug. 2011 ( AS 2011 3381 )."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "1. Abschnitt: Bund",
+      "section": "77",
+      "title": "Verfügungen des SECO und Ersatzmassnahmen",
+      "content": "(Art. 42, 50, 51 und 53 ArG) 1 Das SECO kann in seinem Aufgabenbereich gegenüber dem Arbeitgeber Verfügungen erlassen und ihn auffordern, die notwendigen Massnahmen zur Herbeiführung des gesetzmässigen Zustandes zu treffen. Ist Gefahr im Verzug, können Verfügungen im Sinne vorsorglicher Massnahmen getroffen werden. 2 Die in Absatz 1 genannten Verfügungen sind schriftlich zu eröffnen; vorsorgliche Massnahmen sind nachträglich zu bestätigen und zu begründen. Dem Arbeitgeber ist eine Frist anzusetzen, innert der er den gesetzmässigen Zustand herbeizuführen und darüber Bericht zu erstatten hat. 3 Kommt der Arbeitgeber nicht innert der gesetzten Frist den Verfügungen und angeordneten Massnahmen nach, so ergreift das SECO die zur Durchsetzung notwendigen Massnahmen unter Kosten- und Straffolge für den Arbeitgeber. 4 … Aufgehoben durch Ziff. IV 37 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ( AS 2007 4477 )."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Massnahmen der Oberaufsicht",
+      "content": "(Art. 42 ArG) Unterlässt die kantonale Vollzugsbehörde eine notwendige Amtshandlung oder widersprechen Verfügungen ganz oder teilweise dem Gesetz, so erteilt das SECO die nötigen Weisungen. Ist Gefahr im Verzug oder liegen erhebliche Rechtsgüterverletzungen vor, trifft das SECO von sich aus die nötigen Massnahmen zur Herbeiführung des gesetzmässigen Zustandes."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "2. Abschnitt: Kantone",
+      "section": "79",
+      "title": "Aufgaben",
+      "content": "(Art. 41 ArG) 1 Soweit der Vollzug des Gesetzes und der Verordnungen nicht dem Bunde vorbehalten ist, nehmen die kantonalen Behörden diesen wahr; insbesondere haben sie: a. Kontrollen in den Betrieben über die Einhaltung der Vorschriften des Gesetzes und der Verordnungen durchzuführen; b. Arbeitgeber und Arbeitnehmer, Bauherren, Planer und andere mit Aufgaben des Arbeitsgesetzes betraute Personen in Fragen der Anwendung des Gesetzes und der Verordnungen zu beraten; c. Arbeitgeber, Arbeitnehmer, deren Organisationen sowie weitere Fachorganisationen und andere interessierte Stellen über aktuelle Fragen und Entwicklungen zu informieren. 2 Die Kantone sorgen dafür, dass: a. gut ausgebildete Aufsichtspersonen in einer für die Erfüllung der gesetzlichen Aufgaben genügenden Zahl eingesetzt werden; b. weibliches Aufsichtspersonal für spezifische Frauenanliegen eingesetzt wird oder beigezogen werden kann; c. den Aufsichtspersonen die nötigen Kompetenzen und Sachmittel eingeräumt werden; und d. das Anstellungsverhältnis der Aufsichtspersonen diesen die nötige Stetigkeit bei ihrer Beschäftigung erlaubt und die Wahrung ihrer Unabhängigkeit gewährleistet. 3 Das SECO erlässt Richtlinien hinsichtlich des Aus- und Weiterbildungsstandards und der Anzahl der zu beschäftigenden Aufsichtspersonen pro Kanton in Abhängigkeit der Anzahl Betriebe und der zu erfüllenden gesetzlichen Aufgaben sowie ihrer Komplexität."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "2. Abschnitt: Kantone",
+      "section": "80",
+      "title": "Mitteilungen und Berichterstattung",
+      "content": "(Art. 41 ArG) 1 Die Kantone haben dem SECO mitzuteilen: a. die nach Artikel 41 Absatz 1 des Gesetzes bezeichneten Vollzugsbehörden sowie die kantonalen Rekursbehörden; b. die nach Artikel 20 a Absatz 1 des Gesetzes den Sonntagen gleichgestellten Feiertage; c. die gestützt auf das Gesetz erlassenen kantonalen Vollzugserlasse wie jede Änderung derselben; d. Entscheide über Verwaltungsmassnahmen, Strafurteile und Einstellungsbeschlüsse in vollständiger und begründeter Ausfertigung. 2 Die Kantone liefern dem SECO jährlich die für die Berichterstattung an das internationale Arbeitsamt sowie die zur Wahrnehmung der Oberaufsicht nötigen Angaben. 3 Die vom SECO verlangten Angaben sind diesem innert drei Monaten nach Ablauf des Berichtsjahres einzureichen. 4 Die kantonale Behörde hat dem SECO eine Ausfertigung der erteilten Arbeitszeitbewilligungen zuzustellen und ihm Kenntnis zu geben von ihren Verfügungen und Massnahmen, die sie nach den Artikeln 51 Absätze 2 und 3 sowie 52 und 53 des Gesetzes getroffen hat. Fassung gemäss Ziff. I der V vom 24. April 2002, in Kraft seit 1. Juni 2002 ( AS 2002 1347 )."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "3. Abschnitt: Eidgenössische Arbeitskommission",
+      "section": "81",
+      "title": "",
+      "content": "(Art. 43 ArG) 1 Die Eidgenössische Arbeitskommission besteht aus 19 Mitgliedern. In der Kommission sind vertreten: a. die Kantone mit zwei Mitgliedern; b. die Wissenschaft mit zwei Mitgliedern; c. die Arbeitgeberverbände und die Arbeitnehmerverbände mit je sieben Mitgliedern; d. die Frauenorganisationen mit einem Mitglied. 2 Den Vorsitz führt der Direktor oder die Direktorin für Arbeit im Staatssekretariat für Wirtschaft oder der Stellvertreter oder die Stellvertreterin. 3 Die Mitglieder werden für die jeweilige Dauer der für die Bundesbehörden geltenden Amtsperiode gewählt. 4 Die Kommission kann für die Behandlung bestimmter Fragen Ausschüsse bestellen und Sachverständige beiziehen. 5 Das Geschäftsreglement der Kommission wird in ihrem Einvernehmen vom WBF erlassen. Fassung gemäss Ziff. I der V vom 6. Juli 2011, in Kraft seit 1. Aug. 2011 ( AS 2011 3381 )."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "1. Abschnitt: Schweigepflicht, Datenbekanntgabe und Auskunftsrecht",
+      "section": "82",
+      "title": "Schweigepflicht",
+      "content": "(Art. 44 ArG ) 1 Die Schweigepflicht nach Artikel 44 des Gesetzes erstreckt sich auf die Aufsichts- und Vollzugsbehörden des Gesetzes, die Mitglieder der Eidgenössischen Arbeitskommission, beigezogene Sachverständige und Fachinspektoren. 2 Werden Sachverständige und Fachinspektoren beigezogen, sind diese auf die Schweigepflicht gegenüber Dritten schriftlich aufmerksam zu machen."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "1. Abschnitt: Schweigepflicht, Datenbekanntgabe und Auskunftsrecht",
+      "section": "83",
+      "title": "Bekanntgabe von besonders schützenswerten Personendaten",
+      "content": "(Art. 44 a ArG) 1 Soweit die Datenbekanntgabe der betroffenen Person nicht ausdrücklich mitgeteilt wurde oder ihr nicht aus den Umständen ersichtlich ist, muss die betroffene Person über die Bekanntgabe und den tatsächlichen Umfang der Personendaten informiert werden und es ist ihr Gelegenheit einzuräumen, sich dazu zu äussern. 2 Auf die Einräumung des rechtlichen Gehörs vor der Datenbekanntgabe kann verzichtet werden, wenn die Gefahr besteht, dass Rechtsansprüche oder wichtige Interessen Dritter beeinträchtigt oder die Erfüllung gesetzlicher Aufgaben vereitelt werden, oder wenn der Betroffene innert Frist nicht reagiert oder unauffindbar ist. 3 Eine generelle Datenbekanntgabe besonders schützenswerter Personendaten erfolgt allein zu statistischen Zwecken des Bundesamtes für Statistik, sofern sich dieses für die nachgefragten Informationen auf eine gesetzliche Grundlage mit klar umschriebenem Aufgabenprofil berufen kann, und die Datenweitergabe an Dritte nicht oder nur in anonymisierter Form möglich ist. 4 Die Einwilligung der betroffenen Person nach Artikel 44 a Absatz 2 des Gesetzes wird vorausgesetzt, wenn die Datenbekanntgabe von grosser Dringlichkeit für den Adressaten ist, diese im Interesse der betroffenen Person erfolgt und eine Stellungnahme der betroffenen Person nicht innert nützlicher Frist erfolgen kann."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "1. Abschnitt: Schweigepflicht, Datenbekanntgabe und Auskunftsrecht",
+      "section": "84",
+      "title": "Bekanntgabe bei nicht besonders schützenswerten Personendaten",
+      "content": "(Art. 44 a ArG) 1 Die generelle Bekanntgabe von nicht besonders schützenswerten Personendaten erfolgt an die Vollzugs- und Aufsichtsbehörden des Arbeits- und Unfallversicherungsgesetzes. 2 Im Einzelfall können auf begründetes Gesuch hin auch an Dritte nicht besonders schützenswerte Personendaten bekannt gegeben werden, wenn ein öffentliches oder ein erhebliches privates Interesse geltend gemacht werden kann."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "2. Abschnitt: Informations- und Dokumentationssysteme",
+      "section": "85",
+      "title": "Informations- und Dokumentationssystem des Bundes",
+      "content": "(Art. 44 b ArG, Art. 96 UVG) 1 Das SECO führt im Rahmen seiner Aufsichts- und Vollzugstätigkeiten ein automatisiertes Informations- und Dokumentationssystem für: a. die Arbeitszeitbewilligungen; b. die Plangenehmigungsverfahren nach Artikel 7 Absatz 4 des Gesetzes; c. die arbeitsrechtliche Datenbank, die allgemeine Informationen zum öffentlichen und privaten Arbeitsrecht enthält; d. die Vollzugsdatenbank der Eidgenössischen Koordinationskommission für Arbeitssicherheit (EKAS), die Daten aus der Inspektionstätigkeit der Durchführungsorgane des Gesetzes und des UVG enthält; e. die Betriebsbesuche; f. die Adressverwaltung; g. die Erfüllung der Aufgaben nach Artikel 24 a der Verordnung 3 vom 18. August 1993 zum Arbeitsgesetz. 2 Das System enthält zu jedem Betrieb: a. den Namen, die Adresse und die Identifikationsnummer; b. den Status (industriell oder nicht industriell); c. die Art der wirtschaftlichen Tätigkeit; d. das Datum der Aufnahme in das System sowie das Datum der Löschung. 3 Das System kann außerdem enthalten: a. Pläne, Planbeschreibungen, Plangenehmigungen und Betriebsbewilligungen im Rahmen der Verfahren nach Artikel 7 Absatz 4 des Gesetzes; b. Protokolle über Betriebsbesuche; c. den Grund des Eintrags; d. Verfügungen, Risikobeurteilungen, Gutachten, Anzeigen und Strafurteile; e. im Zusammenhang mit Stoffen und Zubereitungen (Chemikalien) nach dem Chemikaliengesetz vom 15. Dezember 2000 (ChemG): 1. eine Liste der im Betrieb gelagerten und verwendeten Chemikalien, einschliesslich der damit ausgeführten Tätigkeiten, sowie die Namen der Arbeitnehmer und Arbeitnehmerinnen, welche diese Tätigkeiten ausführen, 2. Informationen zu den Vorgaben für den Umgang mit den im Betrieb verwendeten Chemikalien, zu den von ihnen ausgehenden Gefährdungen und Risiken sowie zu Expositionen gegenüber diesen Chemikalien, zu den zu treffenden und getroffenen Schutzmassnahmen, insbesondere betreffend meldepflichtige Chemikalien nach Artikel 48 der Chemikalienverordnung vom 5. Juni 2015 (ChemV) sowie betreffend Verbote nach Anhang 1.17 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005, 3. die folgenden nicht vertraulichen Daten aus dem Register über Stoffe und Zubereitungen nach Artikel 27 ChemG, die automatisiert abgerufen werden können: – Daten nach Artikel 73 Absatz 5 ChemV – Daten nach Artikel 34 Absatz 1 der Biozidprodukteverordnung vom 18. Mai 2005 – Daten nach Artikel 52 Absatz 3 der Pflanzenschutzmittelverordnung vom 12. Mai 2010. Fassung gemäss Ziff. I der V vom 6. Mai 2009, in Kraft seit 1. Juni 2009 ( AS 2009 2399 ). Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Sept. 2024 ( AS 2024 316 ). SR 822.113 Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Sept. 2024 ( AS 2024 316 ). SR 813.1 SR 813.11 SR 814.81 SR 813.12 SR 916.161"
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Informations- und Dokumentationssysteme der Kantone",
+      "content": "(Art. 44 b ArG) 1 Die kantonale Behörde führt im Rahmen ihrer Aufsichts- und Vollzugstätigkeiten ein Informations- und Dokumentationssystem für industrielle Betriebe. 2 Das System enthält zu jedem industriellen Betrieb: a. die Daten nach Artikel 85 Absatz 2; b. die Angabe, nach welchem Buchstaben von Artikel 5 Absatz 2 des Gesetzes der Betrieb unterstellt wurde; c. Pläne, Planbeschreibungen, Plangenehmigungen und Betriebsbewilligungen. Fassung gemäss Ziff. I der V vom 6. Mai 2009, in Kraft seit 1. Juni 2009 ( AS 2009 2399 )"
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Datenaustausch und -sicherheit",
+      "content": "(Art. 44 Abs. 2, 44 a und 44 b ArG) 1 Die Behörden des Bundes und der Kantone, die für den Vollzug des Gesetzes oder des UVG zuständig sind, tauschen ihre Daten gegenseitig aus, soweit es für die Erfüllung ihrer Aufgaben nötig ist. Die kantonale Behörde teilt dem SECO insbesondere die Daten nach Artikel 86 Absatz 2 Buchstaben a und b umgehend mit. 2 Die Behörden des Bundes und der Kantone können ihre automatisierten Informations- und Dokumentationssysteme verknüpfen. 3 Sie gewähren einander, wo eine solche Verknüpfung besteht, den Zugriff im Abrufverfahren auf alle nicht besonders schützenswerten Personendaten. 4 Das SECO und die Kantone ergreifen die erforderlichen Massnahmen, damit unbefugte Dritte nicht auf die Daten zugreifen können. Fassung gemäss Ziff. I der V vom 6. Mai 2009, in Kraft seit 1. Juni 2009 ( AS 2009 2399 )."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Eingabe, Mutation und Archivierung von Daten",
+      "content": "(Art. 44 b ArG) 1 Die Daten werden für den Bund vom SECO zentral verwaltet; für den Kanton erfolgt die Verwaltung durch die zuständige Behörde. 2 Daten, die Personen betreffen, sind fünf Jahre nach Ablauf ihrer Gültigkeit zu vernichten, sofern sie nicht dem Bundesarchiv übergeben werden müssen. Für anonymisierte Daten, die zu Zwecken der Planung, Forschung oder Statistik erarbeitet worden sind, gilt diese Frist nicht."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Datenschutz",
+      "content": "(Art. 33 DSG, Art. 44–46 ArG) Die Rechte der Betroffenen, insbesondere das Auskunfts-, Berichtigungs- und Vernichtungsrecht, richten sich nach den Bestimmungen des DSG, soweit das Gesetz (ArG) keine abweichenden Bestimmungen kennt. Fassung gemäss Anhang 2 Ziff. II 110 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Strafbestimmung",
+      "content": "Die Strafverfolgung für Verletzungen des Datenschutzes und der Auskunftspflicht richtet sich nach dem DSG. Fassung gemäss Anhang 2 Ziff. II 110 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "1. Abschnitt: Aufhebung bisherigen Rechts",
+      "section": "91",
+      "title": "",
+      "content": "Die Verordnung 1 vom 14. Januar 1966 zum Arbeitsgesetz wird aufgehoben. [ AS 1966 86 ; 1969 77 Ziff. II Bst. E Ziff. 1, 368; 1972 868; 1974 1817; 1977 2367; 1978 1707; 1979 643; 1989 2483; 2000 187 Art. 22 Abs. 1 Ziff. 8]"
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "2. Abschnitt: Übergangsbestimmungen",
+      "section": "92",
+      "title": "Unter altem Recht erlassene Arbeitszeitbewilligungen",
+      "content": "Arbeitszeitbewilligungen, die gestützt auf das bisherige Gesetz erlassen worden sind, bleiben bis zu ihrem Ablauf in Kraft, jedoch längstens bis am 31. März 2003."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "2. Abschnitt: Übergangsbestimmungen",
+      "section": "93",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. IV 37 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ( AS 2007 4477 )."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "3. Abschnitt: Inkrafttreten",
+      "section": "94",
+      "title": "",
+      "content": "1 Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. August 2000 in Kraft. 2 Die Bestimmungen des 8. Kapitels über den Datenschutz und die Datenverwaltung (Art. 83–91) treten gleichzeitig mit dem Bundesgesetz vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten in Kraft. AS 2000 1891 . Dieses BG ist am 1. Sept. 2000 in Kraft getreten."
+    }
+  ],
+  "definitions": []
+}

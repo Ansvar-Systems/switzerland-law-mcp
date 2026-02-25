@@ -1,0 +1,50 @@
+{
+  "id": "sr-832-105-1",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 20. März 2008 über die technischen und grafischen Anforderungen an die Versichertenkarte für die obligatorische Krankenpflegeversicherung (VVK-EDI)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/228/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Daten für die Rechnungstellung",
+      "content": "Die Spezifikation der Daten für die Rechnungstellung ist in Anhang 1 festgelegt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Daten nach Artikel 6 VVK",
+      "content": "Die Spezifikation der Daten nach Artikel 6 VVK ist in Anhang 2 festgelegt."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Daten für die Abfrage im Online-Verfahren",
+      "content": "Die Spezifikation der Daten für die Abfrage im Online-Verfahren nach Artikel 15 VVK ist in Anhang 3 festgelegt."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Grafische Anforderungen an die Versichertenkarte",
+      "content": "Die grafischen Anforderungen an die Versichertenkarte sind in Anhang 4 festgelegt."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Standard eCH-0064",
+      "content": "Der Standard eCH-0064 «Spezifikationen für das System Versichertenkarte» vom 4. Februar 2008 ist anzuwenden. Er definiert: a. die technischen Anforderungen und die Kommunikationsanforderungen an die Versichertenkarte; b. die Anforderungen an das Betriebs- und das Dateisystem der Versichertenkarte; c. die Anforderungen an den elektronischen Leistungserbringernachweis nach Artikel 8 VVK; d. die Spezifikation des Authentisierungs- und des Autorisierungsverfahrens zwischen der Versichertenkarte und dem elektronischen Leistungserbringernachweis nach Artikel 8 VVK; e. die Anforderungen an das PIN-Management der Versichertenkarte; f. die Anforderungen an das Online-Verfahren nach Artikel 15 VVK; g. die Anforderungen an die Versichertenkarte für deren Nutzung im Rahmen kantonaler Modellversuche nach Artikel 16 VVK. Der Standard eCH-0064 «Spezifikationen für das System Versichertenkarte» vom 4. Februar 2008 kann beim Verein eCH, Mainaustrasse 30, 8008 Zürich oder beim Bundesamt für Gesundheit, Kranken- und Unfallversicherung, 3003 Bern bestellt werden oder unter www.ech.ch eingesehen werden."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. April 2008 in Kraft."
+    }
+  ],
+  "definitions": []
+}

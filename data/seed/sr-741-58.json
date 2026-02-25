@@ -1,0 +1,185 @@
+{
+  "id": "sr-741-58",
+  "type": "statute",
+  "title": "Verordnung vom 30. November 2018 über das Informationssystem Verkehrszulassung (IVZV)",
+  "title_en": "",
+  "short_name": "IVZV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2018/783/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die Organisation, den Betrieb und die Nutzung des Informationssystems Verkehrszulassung (IVZ)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Aufbau und Zweck des Informationssystems",
+      "content": "Das IVZ besteht aus vier Subsystemen, die die beteiligten Behörden des Bundes und der Kantone bei der Erfüllung ihrer jeweiligen Aufgaben nach Artikel 89 b SVG unterstützen: a. Das IVZ-Fahrzeuge dient der Zulassung von Fahrzeugen zum Strassenverkehr und weiteren fahrzeugbezogenen Aufgaben. b. Das IVZ-Personen dient der Zulassung von Personen zum Strassenverkehr sowie der Erteilung von Fahrtschreiberkarten. c. Das IVZ-Massnahmen dient der Durchführung von Administrativ- und Strafverfahren gegen Fahrzeugführer und Fahrzeugführerinnen. d. Das IVZ-Auswertung dient der Auswertung von im IVZ gespeicherten Daten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Zuständigkeiten des Bundesamtes für Strassen",
+      "content": "1 Das Bundesamt für Strassen (ASTRA) führt das IVZ und trägt die Verantwortung für das Informationssystem. 2 Es ist verantwortlich für die rechtmässige Datenbearbeitung und die rechtmässige Nutzung des Informationssystems und gewährleistet die Informatiksicherheit. 3 Es ist zuständig für die Erteilung, die Änderung und den Entzug von Zugriffsberechtigungen. 4 Es koordiniert seine Tätigkeiten mit den am IVZ beteiligten Behörden. 5 Es erlässt ein Bearbeitungsreglement und definiert darin insbesondere die technischen Schnittstellen und die Verfahren zum Datenabgleich."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Subsystem IVZ-Fahrzeuge",
+      "section": "4",
+      "title": "Inhalt",
+      "content": "Das Subsystem IVZ-Fahrzeuge enthält folgende Daten zu den von schweizerischen Behörden zugelassenen Fahrzeugen: a. Daten zum Fahrzeug nach Anhang 1 Ziffer 1; b. Daten zum Halter oder zur Halterin nach Anhang 1 Ziffer 2; c. Daten zum Kontrollschild nach Anhang 1 Ziffer 3."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Subsystem IVZ-Fahrzeuge",
+      "section": "5",
+      "title": "Zuständigkeit für die Übermittlung der Daten",
+      "content": "1 Die für die Erteilung und den Entzug der Fahrzeugausweise zuständigen Behörden des Bundes und der Kantone übermitteln dem IVZ die in ihrem Zuständigkeitsbereich befindlichen Daten nach Artikel 4 sowie Änderungen dieser Daten. 2 Die Fahrzeughersteller und Fahrzeugimporteure übermitteln dem IVZ die Fahrzeugdaten nach Anhang 1 Ziffern 11–14. 3 Die Polizeiorgane sowie die mit verkehrspolizeilichen Aufgaben betrauten Zollorgane übermitteln dem IVZ die Daten zur Sperrung und Entsperrung von Fahrzeugen und Kontrollschildern, die zur Fahndung ausgeschrieben sind, aus dem automatisierten Polizeifahndungssystem (RIPOL) nach der RIPOL-Verordnung vom 26. Oktober 2016. 4 Die Eidgenössische Zollverwaltung (EZV) übermittelt dem IVZ die für die Kontrolle der Verzollung und Versteuerung nach dem Automobilsteuergesetz vom 21. Juni 1996 (AstG) erforderlichen Daten. Sie kann auch die für die Erteilung und den Entzug der Fahrzeugausweise zuständigen Behörden damit beauftragen. 5 Die zuständige Behörde im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport übermittelt dem IVZ die für die Treibstoffrationierung sowie die Belegung und Einmietung von Fahrzeugen für die Armee, den Zivilschutz und die wirtschaftliche Landesversorgung erforderlichen Daten. 6 Die Versicherer übermitteln dem IVZ die Daten nach Anhang 1 Kapitel A Ziffer 2 der Verkehrsversicherungsverordnung vom 20. November 1959 sowie die Daten über das Aussetzen oder Aufhören der Versicherung. SR 361.0 SR 641.51 SR 741.31"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Subsystem IVZ-Personen",
+      "section": "6",
+      "title": "Inhalt",
+      "content": "Das Subsystem IVZ-Personen enthält folgende Daten: a. zu den von schweizerischen oder ausländischen Behörden für Personen mit Wohnsitz in der Schweiz erteilten Fahrberechtigungen: 1. Inhaberdaten nach Anhang 2 Ziffer 11, 2. Ausweisdaten nach Anhang 2 Ziffer 12, 3. Kategoriendaten nach Anhang 2 Ziffer 13; b. zu den Fahrtschreiberkarten: 1. Daten zur Fahrerkarte nach Anhang 2 Ziffer 21, 2. Daten zur Werkstattkarte nach Anhang 2 Ziffer 22, 3. Daten zur Unternehmenskarte nach Anhang 2 Ziffer 23, 4. Daten zur Kontrollkarte nach Anhang 2 Ziffer 24."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Subsystem IVZ-Personen",
+      "section": "7",
+      "title": "Zuständigkeit für die Übermittlung der Daten zu den Fahrberechtigungen",
+      "content": "1 Die für die Erteilung und den Entzug von Fahrberechtigungen zuständigen Behörden des Bundes und der Kantone übermitteln dem IVZ die in ihrem Zuständigkeitsbereich befindlichen Daten zu den Fahrberechtigungen nach Artikel 6 Buchstabe a sowie Änderungen dieser Daten. 2 Die Polizeiorgane sowie die mit verkehrspolizeilichen Aufgaben betrauten Zollorgane übermitteln dem IVZ die Daten über die Abnahme eines Führerausweises sowie an Ort und Stelle ausgesprochene Fahrverbote. Der Eintrag im IVZ erlischt automatisch nach 10 Tagen, sofern die für den Entzug zuständige Behörde dem IVZ keine Änderung der Daten übermittelt hat."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Subsystem IVZ-Personen",
+      "section": "8",
+      "title": "Zuständigkeit für die Erfassung und Übermittlung der Daten zu den Fahrtschreiberkarten",
+      "content": "1 Das ASTRA erfasst die Daten zu den Fahrerkarten und zu den Unternehmenskarten nach Anhang 2 Ziffern 21 und 23 sowie Änderungen dieser Daten im IVZ. 2 Die kantonal zuständigen Behörden (Art. 23 Abs. 1 der Chauffeurverordnung vom 19. Juni 1995, ARV 1) übermitteln dem IVZ die Daten zu den Kontrollkarten nach Anhang 2 Ziffer 24 sowie Änderungen dieser Daten. 3 Die EZV übermittelt dem IVZ die Daten zu den Werkstattkarten nach Anhang 2 Ziffer 22 sowie Änderungen dieser Daten. SR 822.221"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Abschnitt: Subsystem IVZ-Massnahmen",
+      "section": "9",
+      "title": "Inhalt",
+      "content": "Das Subsystem IVZ-Massnahmen enthält zu den Administrativmassnahmen nach Artikel 89 c Buchstabe d SVG die Daten nach Anhang 3 für Personen mit Wohnsitz in der Schweiz und Personen mit Wohnsitz im Ausland."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Subsystem IVZ-Massnahmen",
+      "section": "10",
+      "title": "Zuständigkeit für die Übermittlung der Daten",
+      "content": "Die für den Entzug von Fahrberechtigungen zuständigen Behörden des Bundes und der Kantone übermitteln dem IVZ die in ihrem Zuständigkeitsbereich befindlichen Daten nach Artikel 9."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "5. Abschnitt: Subsystem IVZ-Auswertung",
+      "section": "11",
+      "title": "Inhalt",
+      "content": "1 Das Subsystem IVZ-Auswertung enthält die Daten der Subsysteme IVZ-Fahrzeuge, IVZ-Personen und IVZ-Massnahmen in pseudonymisierter oder anonymisierter Form. 2 Die persönliche Identifikationsnummer (PIN IVZ-Personen) und die Stammnummer sind bei der Datenbearbeitung im IVZ-Auswertung nicht sichtbar."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Subsystem IVZ-Auswertung",
+      "section": "12",
+      "title": "Übernahme der Daten",
+      "content": "1 Die Daten werden in pseudonymisierter oder anonymisierter Form aus den Subsystemen IVZ-Fahrzeuge, IVZ-Personen und IVZ-Massnahmen ins Subsystem IVZ-Auswertung übernommen. 2 Die Pseudonymisierung erfolgt: a. für Personendaten: unter Verwendung der jeweiligen PIN IVZ-Personen; b. für Fahrzeugdaten: unter Verwendung der jeweiligen Stammnummer."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Subsystem IVZ-Auswertung",
+      "section": "13",
+      "title": "Auswertung und Verknüpfung mit Daten aus anderen Datenquellen",
+      "content": "1 Das ASTRA kann zu den Zwecken nach Artikel 89 b Buchstaben h und i SVG: a. die Daten im IVZ-Auswertung verknüpfen und auswerten; b. die Daten im IVZ-Auswertung mit Daten aus dem Auswertungssystem des Informationssystems Strassenverkehrsunfälle verknüpfen und auswerten; c. die Daten im IVZ-Auswertung mit Sachdaten aus anderen Datenquellen verknüpfen und auswerten. 2 Für Verknüpfungen mit Daten des Bundesamtes für Statistik (BFS) oder mit Daten, die im Rahmen des Bundesstatistikgesetzes vom 9. Oktober 1992 (BStatG) erhoben worden sind, gilt Artikel 14 a BStatG. SR 431.01"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "6. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "14",
+      "title": "Datenqualität und Datenberichtigung",
+      "content": "1 Für die Richtigkeit und Vollständigkeit der Daten im IVZ ist diejenige Behörde verantwortlich, welche die Daten erfasst oder übermittelt. Stellt eine Behörde unvollständige oder fehlerhafte Daten fest, so veranlasst sie deren Berichtigung. 2 Das ASTRA kontrolliert die Daten im IVZ auf Vollständigkeit und Plausibilität. Bei unvollständigen oder fehlerhaften Daten veranlasst es deren Berichtigung."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "6. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "15",
+      "title": "Übermittlung von Daten",
+      "content": "Die Übermittlung von Daten ans IVZ muss über die vom ASTRA definierten Schnittstellen und Verfahren zum Datenabgleich erfolgen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "16",
+      "title": "Datenbearbeitung und Zugriff im Abrufverfahren",
+      "content": "1 Die EZV kann neben den Behörden nach Artikel 89 d SVG die Daten bearbeiten, die erforderlich sind für: a. die Kontrolle der Verzollung und Versteuerung nach dem AstG; b. die Erhebung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997. 2 Die Stellen, die nach Artikel 89 e SVG durch ein Abrufverfahren Einsicht in Daten des IVZ nehmen können, bezeichnen die Personen, die zur Einsicht berechtigt sind. SR 641.51 SR 641.81"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "17",
+      "title": "Statistiken und Verzeichnisse",
+      "content": "1 Das ASTRA veröffentlicht jährlich: a. eine Statistik über die Fahrberechtigungen; b. eine Statistik über die Administrativmassnahmen. 2 Es erstellt jährlich ein Verzeichnis der bewilligten Werkstätten und der zugehörigen Werkstattkarten. Im Verzeichnis aufgeführt sind die zum Einbau, zur Nachprüfung und zur Reparatur von Fahrtschreibern zugelassenen Werkstätten nach Artikel 101 der Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge. 3 Das BFS veröffentlicht die Fahrzeugstatistik nach Artikel 127 der Verkehrszulassungsverordnung vom 27. Oktober 1976. SR 741.41 SR 741.51"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "6. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "18",
+      "title": "Datenbekanntgabe",
+      "content": "1 Das ASTRA stellt dem Schadenzentrum VBS die Daten des IVZ-Fahrzeuge, die das Schadenzentrum VBS zur Erfüllung seiner gesetzlichen Aufgaben benötigt, gestützt auf eine Leistungs- und Datenschutzvereinbarung zur Verfügung. 2 Das ASTRA kann Behörden, Organisationen und Privaten Fahrzeughalter-, Fahrberechtigungs- und Sachdaten aus dem IVZ zur Verfügung stellen. Davon ausgenommen sind besonders schützenswerte Personendaten. Es schliesst dafür Leistungs- und Datenschutzvereinbarungen ab. Darin kann es Zugriffsberechtigungen auf das IVZ-Auswertung erteilen. 3 Auf eine entsprechende Vereinbarung kann verzichtet werden, wenn ausschliesslich anonymisierte Daten oder Sachdaten zur Verfügung gestellt werden. 4 Das ASTRA kann anonymisierte Daten oder Sachdaten auch der Öffentlichkeit zugänglich machen. 5 Die Bekanntgabe von Daten zu Statistik- oder Forschungszwecken richtet sich nach dem DSG und der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz sowie nach dem BStatG und der Statistikerhebungsverordnung vom 30. Juni 1993. SR 235.11 SR 431.01 SR 431.012.1"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Datenaustausch mit ausländischen Behörden",
+      "content": "1 An ausländische Behörden dürfen Daten aus dem IVZ bekannt gegeben werden, soweit ein völkerrechtlicher Vertrag dies vorsieht. 2 Zur Prüfung der Einmaligkeit der Fahrerkarte nach Artikel 13 b Absatz 4 ARV 1 ist der Datenaustausch mit den entsprechenden ausländischen Behörden zulässig. SR 822.221"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Datensicherheit",
+      "content": "1 Die zugriffsberechtigten Stellen treffen in ihrem Bereich die nach den datenschutzrechtlichen Bestimmungen des Bundes erforderlichen organisatorischen und technischen Massnahmen, damit ihre Daten vor Verlust und gegen jegliche unbefugte Bearbeitung, unbefugte Kenntnisnahme oder Entwendung geschützt sind. 2 Im Rahmen der Datenbearbeitung ist automatisch zu protokollieren, welcher Benutzer oder welche Benutzerin wann welche Daten bearbeitet hat."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Kennzeichnung nicht mehr aktueller Datensätze",
+      "content": "1 Nach der Ausserverkehrsetzung eines Fahrzeugs ist der zugehörige Datensatz im IVZ-Fahrzeuge entsprechend zu kennzeichnen. 2 Verzichtet eine Person auf eine Fahrberechtigung oder meldet die zuständige Behörde den Tod einer Person, so ist der zugehörige Datensatz im IVZ-Personen entsprechend zu kennzeichnen. 3 Nach Ablauf einer Fahrtschreiberkarte ist der zugehörige Datensatz im IVZ-Personen entsprechend zu kennzeichnen. 4 Verzichtet eine Person oder ein Unternehmen auf eine Fahrtschreiberkarte oder meldet die zuständige Behörde die Auflösung eines Unternehmens, so ist der zugehörige Datensatz im IVZ-Personen entsprechend zu kennzeichnen."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Vernichtung und Archivierung von Daten",
+      "content": "1 Nicht mehr aktuelle Datensätze zu Fahrberechtigungen oder Fahrtschreiberkarten (Art. 21 Abs. 2–4) werden spätestens zehn Jahre nach ihrer Kennzeichnung im IVZ-Personen vernichtet. 2 Daten zu Verweigerungen, Entzügen und Aberkennungen von Fahrberechtigungen sowie zu Fahrverboten werden zehn Jahre nach ihrem Ablauf oder ihrer Aufhebung im IVZ-Massnahmen vernichtet, Daten zu anderen Massnahmen fünf Jahre nach Eintreten der Rechtskraft. 3 Daten zur Annullierung des Führerausweises auf Probe werden zehn Jahre nach der Wiedererteilung eines Führerausweises im IVZ-Massnahmen vernichtet. 4 Wird zu einer Person eine neue Massnahme eingetragen, so werden die Daten zu allen gegen diese Person angeordneten Massnahmen erst nach Ablauf der letzten Aufbewahrungsfristen vernichtet. 5 Meldet die zuständige Behörde den Tod einer Person, so werden sämtliche Massnahmedaten zur betroffenen Person im IVZ-Massnahmen vernichtet. 6 Die Daten des IVZ-Fahrzeuge und des IVZ-Auswertung werden vernichtet, sobald sie nicht mehr benötigt werden. 7 Nicht mehr benötigte und zur Vernichtung bestimmte Daten bietet das ASTRA dem Bundesarchiv zur Archivierung an."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "23",
+      "title": "Anpassung der Anhänge 1 und 2",
+      "content": "Das ASTRA kann die Variablen in den Anhängen 1 und 2 anpassen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "24",
+      "title": "Aufhebung und Änderung anderer Erlasse",
+      "content": "Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 4 geregelt."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "25",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2019 in Kraft."
+    }
+  ],
+  "definitions": []
+}

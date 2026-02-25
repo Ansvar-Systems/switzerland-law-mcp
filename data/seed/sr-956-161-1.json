@@ -1,0 +1,358 @@
+{
+  "id": "sr-956-161-1",
+  "type": "statute",
+  "title": "Verordnung der FINMA vom 31. Oktober 2024 über die Aufsichtsprüfung (Aufsichtsprüfverordnung FINMA)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2024/643/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Gegenstand",
+      "section": "1",
+      "title": "",
+      "content": "Diese Verordnung regelt, wie die Prüfgesellschaften nach Artikel 24 Absatz 1 Buchstabe a des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007 (FINMAG) die Beaufsichtigten prüfen müssen. Sie regelt zu diesem Zweck: a. für jeden Aufsichtsbereich die im Rahmen der Basisprüfung zu prüfenden Gebiete; b. die Ermittlung der Risiken, die sich aus der Geschäftstätigkeit der oder des Beaufsichtigten ergeben; c. für die zu prüfenden Gebiete die Prüfperiodizität und die Prüftiefe; d. die Einzelheiten der Prüfgrundsätze; e. die Anforderungen an den Prüfbericht und die Fristen für die Einreichung. SR 956.1"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Prüfgebiete",
+      "section": "2",
+      "title": "",
+      "content": "1 Die FINMA gibt für jeden Aufsichtsbereich vor, in welchen der folgenden Prüfgebiete die Aufsichtsprüfung durchzuführen ist: a. interne Organisation und Corporate Governance; b. Kapital- und Eigenmittelanforderungen; c. Risikomanagement und Risikokonzentrationen; d. Liquiditätsanforderungen; e. Verhaltensregeln. 2 Sie gibt zudem vor, in welchen Prüffeldern innerhalb eines Prüfgebiets die Aufsichtsprüfung durchzuführen ist."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Risikoanalyse",
+      "section": "3",
+      "title": "Grundsatz",
+      "content": "1 Die Prüfgesellschaft muss zu Beginn jeder Aufsichtsprüfung eine Risikoanalyse durchführen. 2 Sie ermittelt dazu, welche Risiken sich aus der Geschäftstätigkeit der oder des Beaufsichtigten ergeben (inhärente Risiken). 3 Sie ermittelt die Kontrollrisiken. 4 Basierend auf den inhärenten Risiken und den Kontrollrisiken ermittelt sie das Nettorisiko. 5 Sie bringt die inhärenten Risiken und die Nettorisiken in eine Rangordnung. 6 Für Versicherungsunternehmen nach Artikel 47 ist ausschliesslich Absatz 1 anwendbar."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Risikoanalyse",
+      "section": "4",
+      "title": "Erstellung der Risikoanalyse",
+      "content": "1 Die Prüfgesellschaft berücksichtigt bei der Erstellung der Risikoanalyse insbesondere wesentliche Entwicklungen und Neuerungen bei der oder dem Beaufsichtigten und in dessen Umfeld. 2 Sie kann sich auch auf Arbeiten der internen Revision der oder des Beaufsichtigten stützen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Risikoanalyse",
+      "section": "5",
+      "title": "Einreichung der Risikoanalyse",
+      "content": "1 Die Risikoanalyse ist der FINMA einzureichen und der oder dem Beaufsichtigten zur Kenntnis zu bringen. 2 Die Fristen für die Einreichung richten sich nach dem 3. Kapitel."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Risikoanalyse",
+      "section": "6",
+      "title": "Ermittlung des inhärenten Risikos, des Kontrollrisikos und des Nettorisikos",
+      "content": "1 Die Höhe des inhärenten Risikos wird nach Anhang 1 bestimmt; es wird ermittelt anhand: a. des Ausmasses des Schadens, der entsteht, wenn das Risikoereignis eintritt; und b. der Wahrscheinlichkeit, dass das Risikoereignis eintritt. 2 Die Höhe des Kontrollrisikos wird nach Anhang 2 bestimmt; es wird ermittelt anhand der Frage, ob die oder der Beaufsichtigte Massnahmen zur Minderung des inhärenten Risikos getroffen hat und falls ja, ob die Massnahmen wirksam sind. 3 Die Höhe des Nettorisikos wird nach Anhang 3 bestimmt. 4 Für Versicherungsunternehmen nach Artikel 47 sind die Absätze 2 und 3 nicht anwendbar."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Risikoanalyse",
+      "section": "7",
+      "title": "Ermittlung des Kontrollrisikos im Falle eines Mandatswechsels",
+      "content": "1 Beim Wechsel eines Prüfmandats kann sich die neue Prüfgesellschaft für die Ermittlung des Kontrollrisikos auf die Prüfergebnisse der vorhergehenden Prüfgesellschaft abstützen, sofern sie die Prüfergebenisse kritisch würdigt. 2 Für Versicherungsunternehmen nach Artikel 47 ist Absatz 1 nicht anwendbar."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Risikoanalyse",
+      "section": "8",
+      "title": "Vorlagen für die Erstellung der Risikoanalyse",
+      "content": "1 Für die Risikoanalyse sind die Vorlagen der FINMA zu verwenden. 2 Nimmt die FINMA an den Vorlagen wesentliche Anpassungen vor, so konsultiert sie vorgängig die Betroffenen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Institutsspezifische Prüfstrategie",
+      "section": "9",
+      "title": "",
+      "content": "Die Prüfhandlungen müssen auf der Grundlage einer institutsspezifischen Prüfstrategie durchgeführt werden. Deren Erstellung richtet sich nach dem 3. Kapitel."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Prüfperiodizität und Prüftiefe",
+      "section": "10",
+      "title": "",
+      "content": "1 Die Prüfperiodizität und die Prüftiefe richten sich nach dem 3. Kapitel. 2 Ist die Prüftiefe «Prüfung» vorgegeben, so ist die Aufsichtsprüfung so vorzunehmen, dass über die Einhaltung der aufsichtsrechtlichen Bestimmungen ein eindeutiges Prüfurteil ( positive assurance ) abgegeben wird. 3 Ist die Prüftiefe «kritische Beurteilung» vorgegeben, so ist die Aufsichtsprüfung so vorzunehmen, dass eine Stellungnahme dazu abgegeben wird, ob sich im Rahmen der vorgenommenen Prüfhandlung Sachverhalte ergeben haben, aus denen geschlossen werden kann, dass die aufsichtsrechtlichen Bestimmungen nicht eingehalten werden ( negative assurance )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "5. Abschnitt: Prüfgrundsätze",
+      "section": "11",
+      "title": "Allgemeine Vorgehensweise",
+      "content": "1 Die Prüfgesellschaft muss die Aufsichtsprüfung mit einer kritischen Grundhaltung vorbereiten und durchführen. Sie muss dabei sicherstellen, dass die Beurteilungen objektiv sind. 2 Sie muss die möglichen Auswirkungen aktueller aufsichtsrechtlich relevanter Entwicklungen auf die Beaufsichtigte oder den Beaufsichtigten sowie auf deren oder dessen Umfeld berücksichtigen, insbesondere hinsichtlich der künftigen Einhaltung aufsichtsrechtlicher Bestimmungen. 3 Wird im Rahmen der Aufsichtsprüfung ein Verstoss gegen gesetzliche oder andere Vorschriften, Statuten, Reglemente und Weisungen festgestellt, so ist zu beurteilen, ob dadurch die Integrität der Unternehmensleitung oder der Mitarbeitenden in Frage gestellt ist."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Prüfgrundsätze",
+      "section": "12",
+      "title": "Qualitätssicherung",
+      "content": "1 Die Prüfgesellschaft muss Grundsätze zur Qualitätssicherung für die Aufsichtsprüfung festlegen und sicherstellen, dass sie diese Grundsätze dauerhaft einhält. 2 Sie muss für jede Aufsichtsprüfung die erforderlichen Massnahmen ergreifen, um die Einhaltung dieser Grundsätze sicherzustellen. 3 Sie zieht Fachspezialistinnen und Fachspezialisten bei, wenn die Aufsichtsprüfung dies aus ihrer Sicht erfordert."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Prüfgrundsätze",
+      "section": "13",
+      "title": "Prüfnachweis",
+      "content": "1 Im Rahmen der Aufsichtsprüfung müssen hinreichende und angemessene Prüfnachweise erbracht werden. Die daraus gezogenen Schlüsse bilden die Grundlage für die Prüfbestätigungen und die Berichterstattung. 2 Prüfnachweise werden mit Funktionsprüfungen, aussagebezogenen Einzelfallprüfungen (Stichprobenprüfungen) und mit aussagebezogenen analytischen Prüfhandlungen erbracht. 3 Werden als Prüfnachweise von der oder dem Beaufsichtigten erstellte Unterlagen verwendet, so müssen diese auf ihre korrekte Erstellung hin kritisch hinterfragt werden. 4 Werden nach Abschluss der Aufsichtsprüfung und vor der Abgabe des Prüfberichts für die Aufsichtsprüfung relevante Ereignisse identifiziert, so sind auch dazu hinreichende Prüfhandlungen vorzunehmen und angemessene Prüfnachweise zu erbringen. Die daraus gezogenen Schlüsse sind im Prüfbericht aufzuführen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Prüfgrundsätze",
+      "section": "14",
+      "title": "Stichprobenprüfungen",
+      "content": "1 Werden Prüfnachweise mittels Stichprobenprüfungen erbracht, so müssen die Stichproben so ausgewählt werden, dass: a. sie eine hinreichende Grundlage bieten, damit daraus Schlüsse über den zu prüfenden Sachverhalt gezogen werden können; und b. das Risiko, dass die Interpretation einer Stichprobe zu einem falschen Schluss führt (Stichprobenrisiko), auf ein vertretbar niedriges Mass reduziert werden kann. 2 Bei der Auswahl der Stichproben sind der Zweck der Prüfhandlung, die Relevanz des betroffenen Prüfgebiets und Prüffelds sowie die Merkmale der Grundgesamtheit zu berücksichtigen. Die Auswahl ist nach einem risikoorientierten Ansatz nach Artikel 24 Absatz 2 FINMAG zu treffen. 3 Werden aufgrund der Stichprobenprüfung Mängel bei der oder dem Beaufsichtigen festgestellt, so sind Art und Ursache der Mängel sowie die Auswirkungen zu beurteilen, die die Mängel auf andere Bereiche haben könnten. Die Mängel sind, soweit möglich, auf die Grundgesamtheit hochzurechnen. SR 956.1"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Nachprüfung",
+      "content": "Hat die Prüfgesellschaft der oder dem Beaufsichtigten eine Frist zur Herstellung des ordnungsgemässen Zustandes nach Artikel 27 Absatz 2 FINMAG gesetzt, so prüft sie innerhalb eines angemessenen Zeitraumes nach Ablauf der Frist, ob dies erfolgt ist (Nachprüfung). SR 956.1"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Prüfpunkte",
+      "content": "Die FINMA kann Prüfhandlungen vorgeben (Prüfpunkte)."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Prüfdokumentation",
+      "content": "1 Die Prüfgesellschaft muss die Aufsichtsprüfung zeitgerecht, umfassend und in der notwendigen Tiefe dokumentieren. 2 Die Prüfdokumentation muss für sachkundige Dritte verständlich und nachvollziehbar sein und die folgenden Angaben enthalten: a. Informationen zur Planung und Durchführung der Aufsichtsprüfung; b. Art, Zeitpunkt und Umfang der durchgeführten Prüfhandlungen; c. die Begründungen und Schlussfolgerungen zu den geprüften Sachverhalten; d. die Prüfbestätigungen im Prüfbericht. 3 Werden in der Prüfdokumentation von der oder dem Beaufsichtigten erstellte Unterlagen verwendet, so sind diese zu kennzeichnen, und es ist festzuhalten, dass ihre korrekte Erstellung kritisch hinterfragt wurde. 4 Die Prüfgesellschaft muss die Prüfdokumentation innerhalb angemessener Frist nach Abgabe des Prüfberichts abschliessen. Nach Abschluss dürfen an der Prüfdokumentation keine Veränderungen mehr vorgenommen werden. 5 Die Prüfgesellschaft muss sicherstellen, dass die Prüfdokumentation sicher und von den Dokumenten der Rechnungsprüfung getrennt aufbewahrt wird. 6 Die Prüfdokumentation ist so aufzubewahren, dass die Vertraulichkeit gewahrt bleibt."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Trennung der Aufsichtsprüfung und der Rechnungsprüfung",
+      "content": "In Ausnahmefällen kann die FINMA verlangen, dass die Aufsichtsprüfung nicht von der leitenden Prüferin oder vom leitenden Prüfer und nicht vom Prüfteam durchgeführt wird, die die Rechnungsprüfung durchführen."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "19 Abstützung auf die interne Revision",
+      "content": "1 Stützt sich die Prüfgesellschaft im Rahmen ihrer Prüfhandlungen auf Arbeiten der internen Revision, so ist im Prüfbericht auszuweisen: a. in welchem Prüfgebiet oder Prüffeld und in welchem Umfang die interne Revision die Arbeiten, auf die sich die Prüfgesellschaft stützt, durchgeführt hat; und b. zu welchem Ergebnis die interne Revision im Rahmen ihrer Arbeiten gekommen ist. 2 Entsprechen die Arbeiten der internen Revision nicht den Anforderungen nach Artikel 5 Absatz 3 FINMA-PV, so darf sich die Prüfgesellschaft nur dann auf diese Arbeiten stützen, wenn sie ergänzende Prüfhandlungen vornimmt."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Aufsichtsprüfung bei grenzüberschreitend tätigen Finanzgruppen und Finanzkonglomeraten",
+      "content": "1 Die Prüfgesellschaft kann die Aufsichtsprüfung von im Ausland ansässigen Unternehmen einer Finanzgruppe oder eines Finanzkonglomerats, die im Rahmen einer Konzernprüfung vorzunehmen ist, selbst vornehmen oder von einer dem gleichen Netzwerk angehörenden Prüfgesellschaft vornehmen lassen. 2 Wird die Aufsichtsprüfung von einer mit der Prüfgesellschaft verbundenen Gesellschaft durchgeführt, so muss die Prüfgesellschaft: a. die verbundene Prüfgesellschaft instruieren und deren Prüfhandlungen überwachen; b. die von der verbundenen Prüfgesellschaft erstellte Prüfdokumentation periodisch einer Qualitätskontrolle unterziehen; c. die von der verbundenen Prüfgesellschaft durchgeführten Arbeiten beurteilen. 3 Wird im Rahmen der Aufsichtsprüfung festgestellt, dass schweizerische aufsichtsrechtliche Bestimmungen infolge eines Widerspruchs mit ausländischem Recht nicht eingehalten werden können, so muss die Prüfgesellschaft dies im Prüfbericht festhalten."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Prüfhandlungen im Rahmen von Bewilligungsverfahren",
+      "content": "Für Prüfhandlungen im Rahmen eines Bewilligungsverfahrens nach Artikel 2 Absatz 2 FINMA-PV gelangen die Prüfgrundsätze sinngemäss zur Anwendung."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "6. Abschnitt: Berichterstattung",
+      "section": "22",
+      "title": "Grundsatz",
+      "content": "1 Im Prüfbericht ist der Schwerpunkt auf die Darstellung der bei der oder dem Beaufsichtigten vorhandenen Schwachstellen und auf das Verbesserungspotenzial zu legen. 2 Die Prüfgesellschaft berücksichtigt bei der Erstellung des Berichts im Übrigen das für die Beaufsichtigte oder den Beaufsichtigten massgebende Umfeld sowie aktuelle und absehbare Entwicklungen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Berichterstattung",
+      "section": "23",
+      "title": "Mindestinhalt",
+      "content": "1 Der Prüfbericht muss mindestens die folgenden Angaben und Unterlagen enthalten: a. Übersicht über die Rahmenbedingungen der Aufsichtsprüfung; b. Bestätigung der Unabhängigkeit der Prüfgesellschaft; c. Angabe allfälliger weiterer Mandate der Prüfgesellschaft bei der oder dem Beaufsichtigten; d. für die abgedeckten Prüfgebiete oder Prüffelder: 1. Zusammenfassung der vorgenommenen Prüfhandlungen, 2. Prüfbestätigungen; e. allfällige Beanstandungen und Empfehlungen (Art. 11 FINMA-PV); f. allfällige wesentliche Schwachstellen, auf die Dritte hingewiesen haben; g. allfällige bedeutende Änderungen bei der oder dem Beaufsichtigten sowie Hinweise auf künftige Herausforderungen für die Beaufsichtigte oder den Beaufsichtigten; h. Bestätigung, dass die Anordnungen der FINMA von der oder dem Beaufsichtigen eingehalten wurden; i. die von der FINMA in den Vorlagen für die Erstellung des Berichts verlangten Beilagen. 2 Der Prüfbericht für Versicherungsunternehmen nach Artikel 47 muss die Angaben und Unterlagen nach Absatz 1 Buchstaben d und h nicht enthalten."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "6. Abschnitt: Berichterstattung",
+      "section": "24",
+      "title": "Beanstandungen und Empfehlungen",
+      "content": "1 Beanstandungen und Empfehlungen sind zu klassifizieren. 2 Ist die oder der Beaufsichtigte mit einer Beanstandung oder Empfehlung nicht einverstanden, so ist dies im Prüfbericht auszuweisen. 3 Wird eine Beanstandung oder Empfehlung wiederholt festgehalten, so ist dies im Prüfbericht auszuweisen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "6. Abschnitt: Berichterstattung",
+      "section": "25",
+      "title": "Klassifizierung der Beanstandungen",
+      "content": "1 Eine Beanstandung ist als hoch zu klassifizieren, wenn mindestens eines der folgenden Kriterien zutrifft: a. die Verletzung aufsichtsrechtlicher Bestimmungen stellt ein nach Artikel 27 Absatz 3 FINMAG meldepflichtiges Ereignis dar; b. Elemente der Organisation, Funktionen, Prozesse oder Kontrollen, die gemäss Aufsichtsrecht, Statuten, Reglementen und Weisungen erforderlich sind, sind überwiegend nicht vorhanden oder deren Wirksamkeit ist stark beeinträchtigt; c. die Verletzung aufsichtsrechtlicher Bestimmungen hat eine erhebliche Erhöhung des inhärenten Risikos oder des Kontrollrisikos (Risikolage) zur Folge; d. es liegt eine systematische Verletzung aufsichtsrechtlicher Bestimmungen vor. 2 Eine Beanstandung ist als mittel zu klassifizieren, wenn mindestens eines der folgenden Kriterien zutrifft: a. Elemente der Organisation, Funktionen, Prozesse oder Kontrollen, die gemäss Aufsichtsrecht, Statuten, Reglementen und Weisungen erforderlich sind, sind teilweise nicht vorhanden oder deren Wirksamkeit ist beeinträchtigt; b. die Verletzung aufsichtsrechtlicher Bestimmungen hat eine moderate Erhöhung der Risikolage zur Folge. 3 Eine Beanstandung ist als tief zu klassifizieren, wenn mindestens eines der folgenden Kriterien zutrifft: a. Elemente der Organisation, Funktionen, Prozesse oder Kontrollen, die gemäss Aufsichtsrecht, Statuten, Reglementen und Weisungen erforderlich sind, sind nicht ausreichend dokumentiert oder nicht formell verabschiedet, wobei deren Wirksamkeit dadurch nicht beeinträchtigt ist; b. die Verletzung aufsichtsrechtlicher Bestimmungen hat keine Auswirkung auf die Risikolage. SR 956.1"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Klassifizierung der Empfehlungen",
+      "content": "1 Eine Empfehlung ist als hoch zu klassifizieren, wenn mindestens eines der folgenden Kriterien zutrifft: a. es besteht die Gefahr einer erheblichen Erhöhung der Risikolage oder die Gefahr einer schwerwiegenden Verletzung aufsichtsrechtlicher Bestimmungen; b. die Empfehlung muss umgehend umgesetzt werden. 2 Eine Empfehlung ist als mittel zu klassifizieren, wenn mindestens eines der folgenden Kriterien zutrifft: a. es besteht die Gefahr einer Erhöhung der Risikolage oder die Gefahr einer Verletzung von aufsichtsrechtlichen Bestimmungen; b. die Empfehlung muss innerhalb der nächsten Prüfperiode umgesetzt werden. 3 Eine Empfehlung ist als tief zu klassifizieren, wenn mindestens eines der folgenden Kriterien zutrifft: a. es besteht die Möglichkeit, dass aufsichtsrechtliche Bestimmungen mittel- bis langfristig nicht eingehalten werden, und die entsprechende Anpassung ist nicht dringend vorzunehmen; b. es besteht die Möglichkeit, dass die Organisation oder Prozesse verbessert werden, und diese Verbesserung ist nicht dringend vorzunehmen."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Berichterstattung bei konsolidiert beaufsichtigten Finanzgruppen und Finanzkonglomeraten",
+      "content": "Bei Finanzgruppen und Finanzkonglomeraten, die der konsolidierten Aufsicht nach den Artikeln 3 b –3 g des Bankengesetzes vom 8. November 1934 (BankG) oder nach den Artikeln 65 und 73 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004 unterstehen, ist ein Prüfbericht für jedes von der FINMA bewilligte Einzelinstitut sowie ein Prüfbericht für die Finanzgruppe beziehungsweise das Finanzkonglomerat zu erstellen. SR 952.0 SR 961.01"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Vorlagen für die Erstellung des Prüfberichts",
+      "content": "1 Für die Berichterstattung sind die Vorlagen der FINMA zu verwenden. 2 Nimmt die FINMA an den Vorlagen wesentliche Anpassungen vor, so konsultiert sie vorgängig die Betroffenen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "3. Kapitel: Besondere Anforderungen an die Aufsichtsprüfung in den einzelnen Aufsichtsbereichen",
+      "section": "29",
+      "title": "Geltungsbereich",
+      "content": "Dieser Abschnitt gilt für die Aufsichtsprüfung von: a. Banken; b. Wertpapierhäusern; c. Pfandbriefzentralen; d. Finanzmarktinfrastrukturen; e. Personen nach Artikel 1 b BankG. SR 952.0"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Prüfperiodizität und Prüftiefe",
+      "content": "Die Prüfperiodizität und die Prüftiefe bestimmen sich wie folgt: Nettorisiko Prüfperiodizität Prüftiefe sehr hoch jährlich «Prüfung» hoch alle drei Jahre abwechslungsweise «Prüfung» und «kritische Beurteilung» mittel alle sechs Jahre «Prüfung» tief keine Aufsichtsprüfung"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "8",
+      "section": "31",
+      "title": "Reduzierte Prüfkadenz",
+      "content": "1 Die FINMA kann auf Antrag des Oberleitungsorgans einer oder eines Beaufsichtigten der Aufsichtskategorie 4 oder 5 eine reduzierte Prüfkadenz genehmigen, wenn bei der oder dem Beaufsichtigten keine erhöhte Risikolage und keine erheblichen Schwachstellen bestehen. 2 Bei einer reduzierten Prüfkadenz werden die Prüfhandlungen aufgeschoben um: a. zwei Jahre für Beaufsichtigte der Aufsichtskategorie 4; b. höchstens drei Jahre für Beaufsichtigte der Aufsichtskategorie 5. 3 In den Zwischenjahren muss keine institutsspezifische Prüfstrategie erstellt und eingereicht, keine Aufsichtsprüfung durchgeführt und kein Prüfbericht eingereicht werden. Die Aufsichtsprüfung und allfällige Nachprüfungen sind im Rahmen des nächsten Prüfjahres vorzunehmen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "8",
+      "section": "32",
+      "title": "Erstellung der institutsspezifischen Prüfstrategie",
+      "content": "1 Für Beaufsichtigte der Aufsichtskategorien 1 und 2 wird die institutsspezifische Prüfstrategie von der FINMA im Austausch mit der Prüfgesellschaft erstellt. 2 Für Beaufsichtigte der Aufsichtskategorien 3–5 wird die institutsspezifische Prüfstrategie von der Prüfgesellschaft erstellt. Die FINMA gibt eine Standardprüfstrategie vor; es ist die entsprechende Vorlage zu verwenden. 3 Erachtet die Prüfgesellschaft die Standardprüfstrategie für die Prüfung einer oder eines Beaufsichtigten als nicht ausreichend, so schlägt sie der FINMA eine Abweichung vor und begründet diese. 4 Die FINMA kann in der Standardprüfstrategie für einzelne Prüfgebiete oder Prüffelder basierend auf ihrer Risikoeinschätzung festlegen: a. eine von Artikel 30 abweichende Prüfperiodizität oder Prüftiefe; b. ein Abdecken von einzelnen Elementen eines Prüfgebiets oder Prüffelds über mehrere Jahre (graduelle Abdeckung). 5 Nimmt die FINMA an den Vorlagen wesentliche Anpassungen vor, so konsultiert sie vorgängig die Betroffenen."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Einreichung der institutsspezifischen Prüfstrategie",
+      "content": "1 Die institutsspezifische Prüfstrategie ist der FINMA einzureichen und der oder dem Beaufsichtigten zur Kenntnis zu bringen. 2 Mit der Prüfstrategie ist eine Kostenschätzung für die geplanten Prüfhandlungen einzureichen. 3 Passt die Prüfgesellschaft die Prüfstrategie nach der Einreichung an, so muss sie die Prüfstrategie der FINMA erneut einreichen."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Fristen für Risikoanalyse, Prüfstrategie und Prüfbericht",
+      "content": "1 Die Risikoanalyse ist der FINMA innerhalb von vier Monaten nach Beginn des Geschäftsjahres einzureichen. 2 Die Prüfstrategie ist innerhalb folgender Frist einzureichen: a. für Beaufsichtigte der Aufsichtskategorien 1 und 2: innerhalb von sechs Monaten nach Beginn des Geschäftsjahres; b. für Beaufsichtigte der Aufsichtskategorien 3–5: innerhalb von vier Monaten nach Beginn des Geschäftsjahres. 3 Die Prüfberichte sind der FINMA innerhalb von vier Monaten nach Abschluss des Geschäftsjahres einzureichen."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Genehmigung der institutsspezifischen Prüfstrategie",
+      "content": "1 Die institutsspezifische Prüfstrategie für Beaufsichtigte der Aufsichtskategorien 3–5 bedarf der Genehmigung durch die FINMA. Sie gilt als genehmigt, wenn die FINMA nicht innerhalb von zwei Monaten nach der Einreichung Anpassungen verlangt. 2 Die FINMA kann verlangen, dass die genehmigte institutsspezifische Prüfstrategie angepasst wird."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Rechnungsprüfung von Banken, Wertpapierhäusern, Pfandbriefzentralen und Finanzmarktinfrastrukturen",
+      "content": "1 Die Prüfgesellschaft hat bei der Rechnungsprüfung von Banken, Wertpapierhäusern, Pfandbriefzentralen und Finanzmarktinfrastrukturen die Vorgaben der Eidgenössischen Revisionsaufsichtsbehörde (RAB) zum umfassenden Revisionsbericht nach Artikel 728 b des Obligationenrechts (OR) einzuhalten und die von der FINMA verlangten ergänzenden Angaben anzubringen. 2 Sie hat den umfassenden Revisionsbericht nach Artikel 728 b OR der FINMA auch bei einer reduzierten Prüfkadenz jährlich einzureichen. 3 Der umfassende Revisionsbericht ist auch für die folgenden Einheiten zu erstellen: a. Beaufsichtigte, die keine Aktiengesellschaft sind; b. Zweigniederlassungen ausländischer Einheiten; c. Finanzgruppen und Finanzkonglomerate, die als solche der konsolidierten Aufsicht der FINMA unterstellt sind. SR 220"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Rechnungsprüfung von Personen nach Artikel 1 b BankG",
+      "content": "1 Die Prüfgesellschaft hat bei der Rechnungsprüfung von Personen nach Artikel 1 b BankG die Vorgaben der RAB zum Revisionsbericht nach dem OR einzuhalten und die von der FINMA verlangten ergänzenden Angaben anzubringen. 2 Sie hat den Revisionsbericht der FINMA auch bei einer reduzierten Prüfkadenz jährlich einzureichen. 3 Der Revisionsbericht muss auch für folgende Einheiten erstellt werden: a. Beaufsichtigte, die keine Aktiengesellschaft sind; b. Zweigniederlassungen ausländischer Einheiten; c. Finanzgruppen und Finanzkonglomerate, die als solche der Aufsicht der FINMA unterstellt sind. SR 952.0 SR 220"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "2. Abschnitt: Fondsleitungen, Verwalter von Kollektivvermögen, SICAV, KmGK, SICAF, Depotbanken und Vertreter ausländischer kollektiver Kapitalanlagen",
+      "section": "38",
+      "title": "Geltungsbereich",
+      "content": "Dieser Abschnitt gilt für die Aufsichtsprüfung von: a. Fondsleitungen; b. Verwalter von Kollektivvermögen; c. Investmentgesellschaften mit variablem Kapital (SICAV); d. Kommanditgesellschaften für kollektive Kapitalanlagen (KmGK); e. Investmentgesellschaften mit festem Kapital (SICAF); f. Depotbanken; g. Vertreter ausländischer kollektiver Kapitalanlagen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "2. Abschnitt: Fondsleitungen, Verwalter von Kollektivvermögen, SICAV, KmGK, SICAF, Depotbanken und Vertreter ausländischer kollektiver Kapitalanlagen",
+      "section": "39",
+      "title": "Erstellung der Risikoanalyse",
+      "content": "Bei der Ermittlung der Risiken im Rahmen der Risikoanalyse sind auch die von den Bewilligungsträgern nach dem Finanzinstitutsgesetz vom 15. Juni 2018 und dem Kollektivanlagengesetz vom 23. Juni 2006 verwalteten kollektiven Kapitalanlagen zu berücksichtigen. SR 954.1 SR 951.31"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "2. Abschnitt: Fondsleitungen, Verwalter von Kollektivvermögen, SICAV, KmGK, SICAF, Depotbanken und Vertreter ausländischer kollektiver Kapitalanlagen",
+      "section": "40",
+      "title": "Prüfperiodizität und Prüftiefe",
+      "content": "Die Prüfperiodizität und die Prüftiefe bestimmen sich wie folgt: Nettorisiko Prüfperiodizität Prüftiefe sehr hoch jährlich «Prüfung» hoch alle zwei Jahre abwechslungsweise «Prüfung» und «kritische Beurteilung» mittel alle vier Jahre abwechslungsweise «Prüfung» und «kritische Beurteilung» tief alle sechs Jahre «kritische Beurteilung»"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "2. Abschnitt: Fondsleitungen, Verwalter von Kollektivvermögen, SICAV, KmGK, SICAF, Depotbanken und Vertreter ausländischer kollektiver Kapitalanlagen",
+      "section": "41",
+      "title": "Reduzierte Prüfkadenz",
+      "content": "1 Die FINMA kann auf Antrag des Oberleitungsorgans einer oder eines Beaufsichtigten der Aufsichtskategorie 5 eine reduzierte Prüfkadenz genehmigen, wenn bei der oder dem Beaufsichtigten keine erhöhte Risikolage und keine erheblichen Schwachstellen bestehen. 2 Bei einer reduzierten Prüfkadenz werden die Prüfhandlungen um zwei Jahre aufgeschoben. 3 In den Zwischenjahren müssen keine Risikoanalyse und keine institutsspezifische Prüfstrategie erstellt und eingereicht, keine Aufsichtsprüfung durchgeführt und kein Prüfbericht eingereicht werden. Die Aufsichtsprüfung und allfällige Nachprüfungen sind im Rahmen des nächsten Prüfjahrs vorzunehmen."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Erstellung der institutsspezifischen Prüfstrategie",
+      "content": "1 Für Beaufsichtigte der Aufsichtskategorien 3 und 4 wird die institutsspezifische Prüfstrategie von der FINMA im Austausch mit der Prüfgesellschaft erstellt. 2 Für Beaufsichtigte der Aufsichtskategorie 5 wird die institutsspezifische Prüfstrategie von der Prüfgesellschaft erstellt. Die FINMA gibt eine Standardprüfstrategie vor; es ist die entsprechende Vorlage zu verwenden. 3 Erachtet die Prüfgesellschaft die Standardprüfstrategie für die Prüfung einer oder eines Beaufsichtigten als nicht ausreichend, so schlägt sie der FINMA eine Abweichung vor und begründet diese. 4 Die FINMA kann in der Standardprüfstrategie für einzelne Prüfgebiete oder Prüffelder basierend auf ihrer Risikoeinschätzung festlegen: a. eine von Artikel 40 abweichende Prüfperiodizität oder Prüftiefe; b. ein Abdecken von einzelnen Elementen eines Prüfgebiets oder Prüffelds über mehrere Jahre (graduelle Abdeckung). 5 Nimmt die FINMA an den Vorlagen wesentliche Anpassungen vor, so konsultiert sie vorgängig die Betroffenen."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Einreichung der institutsspezifischen Prüfstrategie",
+      "content": "1 Die institutsspezifische Prüfstrategie ist der FINMA einzureichen und der oder dem Beaufsichtigten zur Kenntnis zu bringen. 2 Mit der Prüfstrategie ist eine Kostenschätzung für die geplanten Prüfhandlungen einzureichen. 3 Passt die Prüfgesellschaft die Prüfstrategie nach der Einreichung an, so muss sie die Prüfstrategie der FINMA erneut einreichen."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Fristen für Risikoanalyse, Prüfstrategie und Prüfbericht",
+      "content": "1 Die Risikoanalyse ist der FINMA innerhalb von sechs Monaten nach Beginn des Geschäftsjahres einzureichen. Bei Depotbanken ist sie innerhalb von vier Monaten nach Beginn des Geschäftsjahres der Bank einzureichen. Bei neu bewilligten Instituten ist sie innerhalb von drei Monaten, nachdem die Bewilligung rechtskräftig geworden ist, einzureichen. 2 Die Prüfstrategie ist der FINMA innerhalb von sechs Monaten nach Beginn des Geschäftsjahres einzureichen. Bei Depotbanken ist sie innerhalb von vier Monaten nach Beginn des Geschäftsjahres der Bank einzureichen. Bei neu bewilligten Instituten ist sie innerhalb von drei Monaten, nachdem die Bewilligung rechtskräftig geworden ist, einzureichen. 3 Die Prüfberichte sind der FINMA innerhalb von sechs Monaten nach Abschluss des Geschäftsjahres einzureichen. Bei Depotbanken sind sie innerhalb von vier Monaten nach Abschluss des Geschäftsjahres der Bank einzureichen."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Genehmigung der institutsspezifischen Prüfstrategie",
+      "content": "1 Die institutsspezifische Prüfstrategie für die Aufsichtskategorie 5 bedarf der Genehmigung durch die FINMA. Sie gilt als genehmigt, wenn die FINMA nicht innerhalb von drei Monaten nach der Einreichung Anpassungen verlangt. 2 Die FINMA kann verlangen, dass die genehmigte institutsspezifische Prüfstrategie angepasst wird."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Rechnungsprüfung",
+      "content": "1 Die Prüfgesellschaft hat bei der Rechnungsprüfung die Vorgaben der RAB zum umfassenden Revisionsbericht nach Artikel 728 b OR einzuhalten und die von der FINMA verlangten ergänzenden Angaben anzubringen. 2 Für SICAV und für KmGK hat die Prüfgesellschaft der FINMA den umfassenden Revisionsbericht nach Artikel 728 b OR auch bei einer reduzierten Prüfkadenz jährlich einzureichen. 3 Fondsleitungen und Verwalter von Kollektivvermögen haben der FINMA den umfassenden Revisionsbericht nach Artikel 728 b OR auch bei einer reduzierten Prüfkadenz jährlich einzureichen. SR 220"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "3. Abschnitt: Versicherungsunternehmen",
+      "section": "47",
+      "title": "Geltungsbereich",
+      "content": "Dieser Abschnitt gilt für die Aufsichtsprüfung von Versicherungsunternehmen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004. SR 961.01"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "3. Abschnitt: Versicherungsunternehmen",
+      "section": "48",
+      "title": "Erstellung der Risikoanalyse",
+      "content": "1 Bei der Erstellung der Risikoanalyse beschreibt die Prüfgesellschaft bei identifizierten Risiken auch die funktionierenden risikomindernden Massnahmen, welche vom Versicherungsunternehmen, der Versicherungsgruppe oder vom Versicherungskonglomerat bereits getroffen wurden. Es werden auch Massnahmen berücksichtigt, die im Laufe der kommenden sechs Monate mit Sicherheit getroffen werden. 2 Fehlen für die ermittelten Risiken risikomindernde Massnahmen, so ist dies in der Risikoanalyse festzuhalten. 3 Die FINMA kann die Prüfgesellschaft von der Pflicht zur Durchführung der Risikoanalyse entbinden oder Abweichungen gewähren, wenn die Risikoeinschätzung der FINMA dies erlaubt."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "3. Abschnitt: Versicherungsunternehmen",
+      "section": "49",
+      "title": "Erstellung der institutsspezifischen Prüfstrategie",
+      "content": "Die institutsspezifische Prüfstrategie wird von der FINMA erstellt."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "3. Abschnitt: Versicherungsunternehmen",
+      "section": "50",
+      "title": "Fristen für Risikoanalyse und Prüfbericht",
+      "content": "1 Die Risikoanalyse ist der FINMA innerhalb von vier Monaten nach Beginn des Geschäftsjahres einzureichen. 2 Die Prüfberichte sind der FINMA innerhalb von vier Monaten nach Abschluss des Geschäftsjahres einzureichen."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "3. Abschnitt: Versicherungsunternehmen",
+      "section": "51",
+      "title": "Rechnungsprüfung",
+      "content": "1 Die Prüfgesellschaft hat bei der Rechnungsprüfung die Vorgaben der RAB zum umfassenden Revisionsbericht nach Artikel 728 b OR einzuhalten und die von der FINMA verlangten ergänzenden Angaben anzubringen. 2 Für Zweigniederlassungen ausländischer Versicherungsunternehmen, welche der Aufsicht der FINMA unterstellt sind, hat die Prüfgesellschaft die von der FINMA verlangten ergänzenden Angaben anzubringen. Sie muss: a. die Jahresrechnung nach den Grundsätzen der ordentlichen Revision nach Artikel 727 OR prüfen; und b. einen zusammenfassenden Bericht zur Prüfung der Jahresrechnung erstellen. SR 220"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "4. Kapitel: Inkrafttreten",
+      "section": "52",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. Januar 2025 in Kraft."
+    }
+  ],
+  "definitions": []
+}

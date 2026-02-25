@@ -1,0 +1,463 @@
+{
+  "id": "sr-748-132-1",
+  "type": "statute",
+  "title": "Verordnung vom 18. Dezember 1995 über den Flugsicherungsdienst (VFSD)",
+  "title_en": "",
+  "short_name": "VFSD",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Flugsicherungsaufgaben",
+      "section": "1",
+      "title": "Flugsicherungsdienst",
+      "content": "Der Flugsicherungsdienst umfasst die folgenden Dienste: a. Flugverkehrs-Management (Air Traffic Management; ATM) Luftraum-Management (Bst. b), Verkehrsfluss- und Verkehrskapazitäts-Management (Bst. c) und Flugverkehrsdienste (Bst. d). b. Luftraum-Management (Airspace Management; ASM) Bewirtschaftung der Lufträume, der Routen der Flugverkehrsdienste (ATS-Routen) , der Flugbeschränkungs-, Gefahren- und Luftsperrgebiete, der Gebiete mit Transponder- oder Funkkommunikationspflicht sowie der temporär reservierten und temporär segregierten Gebiete. c. Verkehrsfluss- und Verkehrskapazitäts-Management (Air Traffic Flow and Capacity Management; ATFCM) Regelung der Verkehrsflüsse und Verkehrskapazitäten in Absprache mit den Erbringern der Dienste nach den Buchstaben e und f sowie der Europäischen Verkehrsflusssteuerungszentrale. d. Flugverkehrsdienste (Air Traffic Services; ATS) Flugverkehrskontrolldienste (Bst. e), Fluginformationsdienste (Bst. f) und Alarmdienst (Bst. g). e. Flugverkehrskontrolldienste (Air Traffic Control Services; ATC) Streckenflug-, An- und Abflug- sowie Platzverkehrskontrolldienst. f. Fluginformationsdienst (Flight Information Service; FIS) Angebot von Fluginformation für den gesamten Luftverkehr einschliesslich Flugplatz-Fluginformationsdienst (AFIS; Aerodrome Flight Information Service ). g. Flugalarmdienst (Alerting Service; ALS) Alarmierung und Unterstützung der zuständigen Stellen über Luftfahrzeuge, die die Hilfe des Such- und Rettungsdienstes benötigen. h. Kommunikations- Navigations- und Überwachungsdienste (Communication, Navigation and Surveillance Services; CNS) i. Kommunikationsdienst Sicherstellung von Boden/Boden- und Boden/Bord-Kommunikationsverbindungen für den Flugverkehrskontrolldienst. j. Navigationsdienst Versorgung von Luftfahrzeugen mit Positionsinformationen. k. Überwachungsdienst Ermittlung der Position von Luftfahrzeugen. l. Luftfahrtinformationsdienst Entgegennahme, Speicherung, Verarbeitung, Nachführung, Übertragung, Bereitstellung, Übermittlung, Historisierung und Archivierung von Luftfahrtdaten und -informationen einschliesslich die Herstellung von Luftfahrtkarten, sowie Bereitstellung und Betrieb einer internetbasierten Anwendung zur Flugvorbereitung. m. Flugwetterdienst Entgegennahme, Speicherung, Verarbeitung, Nachführung, Übertragung, Bereitstellung und Übermittlung, Historisierung und Archivierung von Flugwetterdaten und ‑informationen erbringt."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "1. Abschnitt: Flugsicherungsaufgaben",
+      "section": "1a",
+      "title": "a Unterstützende Leistungen",
+      "content": "Die folgenden unterstützenden Leistungen sind Bestandteil der Dienste nach Artikel 1: a. die Installation, der Betrieb und die Wartung der zur Erbringung der Dienste erforderlichen Infrastruktur; b. Flugvermessungen; c. Erstabklärungen bezüglich Abschattungen, Spiegelungen und elektromagnetische Störungen von Flugsicherungsanlagen durch Luftfahrthindernisse."
+    },
+    {
+      "provision_ref": "art1b",
+      "chapter": "1. Abschnitt: Flugsicherungsaufgaben",
+      "section": "1b",
+      "title": "b Flugverfahrensberechnungsdienst",
+      "content": "Der Flugverfahrensberechnungsdienst umfasst die Erarbeitung und Änderung sowie die Prüfung von Flugstrecken sowie von An- und Abflugverfahren nach Instrumentenflugregeln."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "2. Abschnitt: Betrieb",
+      "section": "2",
+      "title": "Luftraumstruktur und Benutzungsprioritäten",
+      "content": "1 Das Bundesamt für Zivilluftfahrt (BAZL) legt nach Anhörung der Luftwaffe und der «Skyguide Schweizerische Aktiengesellschaft für zivile und militärische Flugsicherung» (Skyguide) sowie weiterer betroffener Flugsicherungsdienstleistungserbringer (Leistungserbringer) die Luftraumstruktur und die Zuordnung der Luftraumklassen fest und sorgt für deren Veröffentlichung im Luftfahrthandbuch (Aeronautical Information Publication; AIP). 2 Den nationalen zivilen und militärischen Interessen bei der Benutzung des Luftraumes ist gleichermassen Rechnung zu tragen. 3 Zur Regelung von Interessenskonflikten erlässt das BAZL im Einvernehmen mit der Luftwaffe und nach Anhörung der Skyguide und weiterer betroffener Leistungserbringer Weisungen über das Luftraum-Management, insbesondere betreffend die Benutzungsprioritäten. Diese Dokumente können bei Skyguide (aipversand@skyguide.ch) gegen Bezahlung bezogen und beim Bundesamt für Zivilluftfahrt (BAZL), 3003 Bern kostenlos eingesehen werden"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Betrieb",
+      "section": "3",
+      "title": "Betriebsvorschriften",
+      "content": "1 Für die Durchführung der Flugsicherungsdienste und deren Gebührenregelung sind die Normen und Empfehlungen der Internationalen Zivilluftfahrt-Organisation (ICAO) in den Anhängen 1–4, 6 und 7, 10–15, 17 und 19 zum Chicago-Übereinkommen sowie die zugehörigen ergänzenden Verfahren unmittelbar anwendbar. Vorbehalten sind die im AIP publizierten Abweichungen. 2 Das BAZL erlässt im Einvernehmen mit der Luftwaffe ergänzende technische oder betriebliche Weisungen. Für rein militärische Bereiche kann die Luftwaffe im Einvernehmen mit dem BAZL zusätzliche Weisungen erlassen. 3 Vor dem Erlass, der Änderung oder der Aufhebung luftrechtlicher Vorschriften, die den Flugsicherungsdienst betreffen, sind die betroffenen Leistungserbringer anzuhören. Sie können dem BAZL entsprechende Vorschläge oder Anregungen unterbreiten."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "2. Abschnitt: Betrieb",
+      "section": "3a",
+      "title": "a Leistungsvereinbarungen",
+      "content": "Die Einzelheiten der zu erbringenden Dienste sind im Rahmen der nationalen und internationalen Vorschriften zwischen den Leistungserbringern und der Kundschaft abzusprechen; das BAZL und die Luftwaffe werden zu den Verhandlungen beigezogen. Können sich die Parteien nicht einigen, entscheidet das BAZL im Einvernehmen mit der Luftwaffe und nach Anhörung der Beteiligten."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Betrieb",
+      "section": "4",
+      "title": "Meldepflichten",
+      "content": "1 Die Leistungserbringer melden folgende Ereignisse unverzüglich dem BAZL: a. Ereignisse, die gemäss den Vorgaben der EU zu melden sind, insbesondere gemäss der Verordnungen (EU) Nr. 376/2014 und der Durchführungsverordnung (EU) 2015/1018 in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr jeweils verbindlichen Fassung; b. Widerhandlungen gegen Anordnungen der Leistungserbringer von Flugverkehrskontrolldiensten; c. technische oder betriebliche Unregelmässigkeiten, welche auf die Erfüllung der zugeteilten Aufgaben einen massgeblichen Einfluss haben können; d. Ereignisse, die die Sicherheit der Flugsicherungsdienste beeinträchtigen. 2 Sind militärische Luftfahrzeuge beteiligt, informiert das BAZL die Luftwaffe. 3 Zu Umfang, Form, Inhalt und Prozess der Meldungen erlässt das BAZL ergänzende technische Weisungen. Verordnung (EU) Nr. 376/2014 des Europäischen Parlaments und des Rates vom 3. April 2014 über die Meldung, Analyse und Weiterverfolgung von Ereignissen in der Zivilluftfahrt, zur Änderung der Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2003/42/EG des Europäischen Parlaments und des Rates und der Verordnungen (EG) Nr. 1321/2007 und (EG) Nr. 1330/2007 der Kommission. Durchführungsverordnung (EU) 2015/1018 der Kommission vom 29. Juni 2015 zur Festlegung einer Liste zur Einstufung von Ereignissen in der Zivilluftfahrt, die gemäss der Verordnung (EU) Nr. 376/2014 des Europäischen Parlaments und des Rates meldepflichtig sind."
+    },
+    {
+      "provision_ref": "art4a",
+      "section": "4a",
+      "title": "a Militärische Flüge",
+      "content": "1 Die Luftwaffe nimmt die taktische Führung von militärischen Missionen wahr und überträgt deren Durchführung der Skyguide. 2 Die Luftwaffe und die Skyguide regeln im Einvernehmen die Eigentumsverhältnisse an den zur Erfüllung der Aufgaben im Bereich militärischer Flüge notwendigen Anlagen und Bauten."
+    },
+    {
+      "provision_ref": "art4b",
+      "section": "4b",
+      "title": "b Besondere und ausserordentliche Lagen",
+      "content": "1 In besonderen oder ausserordentlichen Lagen werden Flugsicherungsdienste zu Handen der Zivilluftfahrt solange erbracht, als dies nötig ist. 2 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) trifft im Einvernehmen mit dem Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) die notwendigen Massnahmen."
+    },
+    {
+      "provision_ref": "art4c",
+      "section": "4c",
+      "title": "c Zusammenarbeit mit in- und ausländischen Behörden",
+      "content": "1 Das BAZL führt die Verhandlungen mit in- oder ausländischen Behörden oder Organisationen, soweit nicht nur rein militärische Interessen verhandelt werden; die Skyguide kann an diesen Verhandlungen teilnehmen. Das BAZL kann die Skyguide im Einzelfall auch mit der Verhandlungsführung beauftragen. 2 Es kann einzelne Dienste zugunsten grenznaher schweizerischer Flugplätze ausländischen Leistungserbringern übertragen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Sprache der Radiotelefonie",
+      "section": "5",
+      "title": "Sprache der Radiotelefonie in grenznahen Gebieten",
+      "content": "1 Abweichungen vom Grundsatz gemäss Artikel 10 a LFG, wonach die Radiotelefonie mit dem Flugsicherungsdienst im Luftraum über der Schweiz auf Englisch stattfindet, kann das BAZL bewilligen: a. in Gebieten, in welchen Skyguide grenzüberschreitende Dienstleistungen erbringt, auf Antrag von Skyguide, des Flugplatzhalters oder der betroffenen Luftfahrtverbände; b. in Gebieten, in welchen Flugsicherungsdienstleistungen im schweizerischen Luftraum an eine ausländische Behörde oder ausländische Leistungserbringer übertragen sind, auf Antrag des Flugplatzhalters und nach Anhörung der betroffenen ausländischen Leistungserbringer. 2 Es bewilligt eine beantragte Abweichung, wenn die Umsetzung des Grundsatzes innerhalb eines Flugsicherungssektors zu einem Sprachwechsel in der Kommunikation zwischen Besatzung und Flugsicherung führen und dies die Flugsicherheit beeinträchtigen würde. 3 Das BAZL entscheidet mit einer Allgemeinverfügung und lässt diese im Bundesblatt sowie in der AIP publizieren."
+    },
+    {
+      "provision_ref": "art5a",
+      "chapter": "3. Abschnitt: Sprache der Radiotelefonie",
+      "section": "5a",
+      "title": "a Sprache der Radiotelefonie für Fluginformationsdienste",
+      "content": "Vom Grundsatz gemäss Artikel 10 a LFG, wonach die Radiotelefonie mit dem Fluginformationsdienst im Luftraum über der Schweiz auf Englisch stattfindet, kann im Interesse der Flugsicherheit abgewichen werden, wenn der Flug ausserhalb der folgenden Gebiete durchgeführt wird: a. Lufträume der Klasse C und D; b. Gebiete mit Funkkommunikationspflicht (Radio Mandatory Zone, RMZ; Flugbeschränkungsgebiete mit Funkpflicht); c . Fluginformationszonen (Flight Information Zone, FIZ) gemäss Artikel 15 der Verordnung des UVEK vom 20. Mai 2015 über die Verkehrsregeln für Luftfahrzeuge. SR 748.121.11"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Skyguide",
+      "section": "6",
+      "title": "Aufgaben",
+      "content": "1 Die Skyguide erbringt, unter Vorbehalt der Aufgabenübertragung nach den Artikeln 40 b und 40 b bis LFG, die Flugsicherungsaufgaben nach Anhang 1. Sie ist zudem ATS-Authority im Sinne der Anhänge 2 und 11 des Chicago-Übereinkommens. 2 Das BAZL kann im Einvernehmen mit der Luftwaffe die Skyguide nach Anhörung und unter gleichzeitiger Bestimmung des Kostenträgers verpflichten, in Einzelfällen und vorübergehend weitere Dienstleistungen auf dem Gebiet der Flugsicherung zu erbringen. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3869 ). Diese Dokumente können bei der ICAO bestellt oder abonniert werden."
+    },
+    {
+      "provision_ref": "art6a",
+      "chapter": "1. Abschnitt: Skyguide",
+      "section": "6a",
+      "title": "a Einschränkungen der Zusammenarbeit nach Artikel 40 b Absatz 3 LFG",
+      "content": "1 Als untragbare Einschränkungen der Flugsicherung im Sinn von Artikel 40 b Absatz 3 LFG gelten: a. Unterbrüche oder andere Einschränkungen der Kontinuität der Dienste; b. Beeinträchtigungen der Qualität oder Wirtschaftlichkeit der Flugsicherungsdienste gemäss Anhang 1. 2 Als Flugsicherungsdienstleistungen von nationaler Bedeutung im Sinn von Artikel 40 b Absatz 4 LFG gelten: a. Flugsicherungsdienste und die taktische Führung für die Militärluftfahrt; b. Platzverkehrskontrolldienste der Landesflughäfen; c. An- und Abflugverkehrskontrolldienste der Landesflughäfen; d. Streckenflugkontrolldienste, soweit sie für Flüge von und nach der Schweiz erforderlich sind; e. Kommunikations-, Navigations- und Überwachungsdienste, die zur Erbringung der Flugsicherungsdienste gemäss Buchstaben a–d erforderlich sind; f. Luftfahrtinformationsdienste, die zur Erbringung der Flugsicherungsdienste gemäss Buchstaben a–e und für die Durchführung von Flügen nach Instrumentenflugregeln erforderlich sind; g. Installation, Betrieb und Wartung der zur Erbringung der Flugsicherungsdienste gemäss Buchstaben a–f erforderlichen Infrastruktur. Eingefügt durch Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3869 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "1. Abschnitt: Skyguide",
+      "section": "7",
+      "title": "Ausbildung",
+      "content": "1 Die Skyguide sorgt für die Ausbildung ihres Personals. Sie kann Flugverkehrsleiterinnen und Flugverkehrsleiter nach den gesetzlichen Vorschriften ausbilden und ihre Dienste für die Ausbildung von Flugsicherungspersonal auch Dritten zur Verfügung stellen. 2 Das BAZL und die Luftwaffe können die Skyguide verpflichten, Flugsicherungspersonal von Dritten gegen Entschädigung auszubilden. Fassung gemäss Ziff. I der V vom 24. Jan. 2001, in Kraft seit 1. Jan. 2001 ( AS 2001 514 ). Fassung gemäss Ziff. I der V vom 24. Jan. 2001, in Kraft seit 1. Jan. 2001 ( AS 2001 514 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Gesamtarbeitsverträge",
+      "content": "Die Skyguide ist dafür besorgt, dass der Flugsicherungsbetrieb nicht durch Streik, Aussperrung, Boykott oder andere Kampfmassnahmen beeinträchtigt wird. Sie schliesst mit ihrem Personal nach Möglichkeit Gesamtarbeitsverträge ab. Fassung gemäss Ziff. I der V vom 19. Mai 1999, in Kraft seit 1. Juni 1999 ( AS 1999 1722 ). Fassung gemäss Ziff. I der V vom 24. Jan. 2001, in Kraft seit 1. Jan. 2001 ( AS 2001 514 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Finanzierung",
+      "content": "Die Skyguide finanziert ihre Aufgaben insbesondere durch: a. die Erhebung von Gebühren (Art. 49 LFG); b. die Abgeltung aus zwischenstaatlichen Vereinbarungen; c. Beiträge des Bundes für Ertragsausfälle im Ausland (Art. 12): d. die Abgeltung des Bundes für gebührenbefreite Flüge (Art. 34); e. die Abgeltung des Bundes für militärische Flüge (Art. 37); f. Einnahmen aus weiteren Dienstleistungen. Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Aug. 2011 ( AS 2011 3503 )."
+    },
+    {
+      "provision_ref": "art9a",
+      "chapter": "2. Abschnitt:",
+      "section": "9a",
+      "title": "a Lokale Flugsicherungsdienste",
+      "content": "1 Die Flugplatzhalter und die Skyguide können folgende lokale Flugsicherungsdienste selber erbringen oder unter ihrer Verantwortung durch Dritte erbringen lassen: a. Platzverkehrskontrolldienste (Anhang 1 Ziff. 2.3.2 und 2.3.3); b. AFIS (Anhang 1 Ziff. 3.2); c. flugplatzbezogene Kommunikations- und Navigationsdienste (Anhang 1 Ziff. 5.1 und 5.2). 2 Der Flugplatzhalter sorgt dafür, dass die Information über die übertragenen Flugsicherungsdienstleistungen in der AIP publiziert wird."
+    },
+    {
+      "provision_ref": "art9b",
+      "chapter": "2. Abschnitt:",
+      "section": "9b",
+      "title": "b Bewilligung des BAZL",
+      "content": "1 Das BAZL bewilligt die Übertragung der lokalen Flugsicherungsdienste auf den Flugplatzhalter oder den Beizug eines Dritten, wenn: a. die Erbringung der Flugsicherungsdienste von nationaler Bedeutung gemäss Artikel 6 a Absatz 2 keine untragbaren Einschränkungen im Sinne von Artikel 6 a Absatz 1 erfahren; b. die Machbarkeit und Wirtschaftlichkeit der Übertragung nachgewiesen ist; c. die massgeblichen Zertifizierungsanforderungen vom geplanten Leistungserbringer nachgewiesen sind; d. der Nachweis vorliegt, dass die Flugsicherheit während und nach der Übertragung gewährleistet ist; e. nach Anhörung der Eidgenössischen Finanzverwaltung die Einwilligung des UVEK im Einvernehmen mit dem VBS vorliegt. 2 Der Antrag des Flugplatzhalters oder der Skyguide muss folgende Angaben beinhalten: a. Nachweise, dass die Voraussetzungen gemäss Absatz 1 erfüllt sind; b. einen Umsetzungsplan mit zeitlichen Meilensteinen und dem beabsichtigten Zeitpunkt der Inbetriebnahme; c. einen Beschrieb über den Umfang und das Angebot der Flugsicherungsdienstleistungen und -infrastruktur nach der Übernahme."
+    },
+    {
+      "provision_ref": "art9c",
+      "chapter": "3. Abschnitt:",
+      "section": "9c",
+      "title": "c MeteoSchweiz",
+      "content": "Das Bundesamt für Meteorologie und Klimatologie (MeteoSchweiz) erbringt den zivilen Flugwetterdienst nach Artikel 1 Buchstabe m und ist Meteorological Authority im Sinne des Anhangs 3 des Chicago-Übereinkommens. Das UVEK regelt im Einvernehmen mit dem Eidgenössischen Departement des Innern die Einzelheiten. Diese Dokumente können bei der ICAO bestellt oder abonniert werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "1. Abschnitt: Allgemeine Vorschriften",
+      "section": "10",
+      "title": "Einschränkung des Geltungsbereichs der Durchführungsverordnung (EU) Nr. 391/2013",
+      "content": "In Ausführung von Artikel 1 Absatz 5 der Durchführungsverordnung (EU) Nr. 391/2013 gilt die Durchführungsverordnung (EU) Nr. 391/2013 nicht für Flugplätze der Kategorie II nach Artikel 25. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Abschnitt: Allgemeine Vorschriften",
+      "section": "11",
+      "title": "Einschränkung von Quersubventionierungen",
+      "content": "1 Die Einnahmen aus Streckenflugsicherungsgebühren sowie die Abgeltungen des Bundes für Streckenflugsicherungsdienste dürfen nicht zur Finanzierung der Kosten für die Erbringung von An- und Abflugsicherungsdiensten verwendet werden. 2 Die Einnahmen aus Gebühren für die An- und Abflugsicherung sowie Abgeltungen des Bundes für die An- und Abflugsicherungsdienste einer bestimmten Flugplatzkategorie dürfen nicht zur Finanzierung der Kosten für die Erbringung von Streckenflugsicherungsdiensten oder von An- und Abflugsicherungsdiensten einer anderen Flugplatzkategorie verwendet werden. 3 Die Einnahmen aus Flugsicherungsgebühren sowie Abgeltungen des Bundes innerhalb einer Gebührenzone nach Artikel 13 dürfen nicht zur Finanzierung der Kosten für die Erbringung von Flugsicherungsdiensten einer anderen Gebührenzone verwendet werden."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "1. Abschnitt: Allgemeine Vorschriften",
+      "section": "12",
+      "title": "Deckung von Ertragsausfällen der Skyguide im Ausland durch den Bund",
+      "content": "1 Der Bund kann die jährlichen Ertragsausfälle der Skyguide, die ihr aufgrund der Erbringung von Flugsicherungsdiensten im Ausland entstehen, im Rahmen der bewilligten Kredite übernehmen. Für die Erstellung des Voranschlages übermittelt die Skyguide dem BAZL eine Schätzung der voraussichtlichen Ertragsausfälle. 2 Ein staatlich beaufsichtigtes Revisionsunternehmen nach Artikel 7 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 und das BAZL prüfen die effektive Höhe der Ertragsausfälle am Ende eines Rechnungsjahres. Die Skyguide trägt die Kosten für die Überprüfung. 3 Zeigt die Überprüfung, dass im betreffenden Jahr die Zahlungen des Bundes höher ausgefallen sind als die effektiven Ertragsausfälle, wird die Differenz der Skyguide im Folgejahr angerechnet. 4 Die Skyguide übermittelt dem BAZL auf Anfrage sämtliche für die Überprüfung des zu leistenden Betrages erforderlichen Informationen. 5 Das BAZL schliesst mit der Skyguide jährlich eine Abgeltungsvereinbarung. Diese regelt insbesondere die im betreffenden Jahr durch den Bund zu leistenden Beiträge und die Zahlungsmodalitäten. SR 221.302"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "1. Abschnitt: Allgemeine Vorschriften",
+      "section": "13",
+      "title": "Allgemeine Bestimmungen zu Gebührenzonen",
+      "content": "Der schweizerische Luftraum wird in verschiedene Gebührenzonen für den Streckenflugsicherungsdienst sowie für den An- und Abflugsicherungsdienst aufgeteilt. Innerhalb jeder Gebührenzone: a. gilt ein einheitlicher Gebührentarif; b. dient die Summe der Kosten aller in der Zone erbrachten Flugsicherungsdienste als Bemessungsgrundlage; und c. ist für die An- und Abflugsicherung der gleiche Erbringer der Flugverkehrsdienste zuständig."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Bemessungsgrundlage",
+      "content": "1 Die Flugsicherungsgebühren sind auf der Grundlage der periodisch im Voraus geschätzten Kosten der Dienste und Anlagen, abzüglich allfälliger Beiträge und Zuwendungen seitens des Bundes oder Dritter nach den Artikeln 12, 29, 31 und 34 zu bemessen. Unter- oder Überdeckungen aus der vorangehenden Gebührenperiode werden berücksichtigt. 2 Vorbehalten bleiben die Bestimmungen in europäischen Rechtsvorschriften über die Erstellung von Leistungsplänen sowie über die Verkehrsrisiko- und Kostenrisikoteilung im Bereich der Flugsicherungsdienste. Maßgebend sind insbesondere die die Artikel 7, 13 und 14 der Durchführungsverordnung (EU) Nr. 391/2013. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Abstufung der Gebührentarife",
+      "content": "Die Gebührentarife werden abgestuft: a. für Streckenflugsicherungsgebühren: nach dem höchstzulässigen Abfluggewicht der Luftfahrzeuge und der Flugstrecke; und b. für An- und Abflugsicherungsgebühren: nach dem höchstzulässigen Abfluggewicht der Luftfahrzeuge."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Schuldner von Flugsicherungsgebühren",
+      "content": "1 Die Halterin oder der Halter des Luftfahrzeuges schuldet die Flugsicherungsgebühren. 2 Ist die Halterin oder der Halter nicht bekannt, so schuldet die Eigentümerin oder der Eigentümer des Luftfahrzeuges die Gebühren."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Massnahmen bei Nichtbezahlung der Gebühren",
+      "content": "1 Begleicht die Schuldnerin oder der Schuldner die fakturierten Flugsicherungsgebühren auch nach Ablauf der erstmaligen Mahnfrist nicht, kann die für die Finanzierung der Flugsicherungsdienste verantwortliche Stelle im Einvernehmen mit dem BAZL veranlassen, die Erbringung von Flugsicherungsdiensten an diese Schuldnerin oder diesen Schuldner zu verweigern. 2 Die Skyguide kann auf Antrag der Eurocontrol Leistungen gegenüber den Halterinnen und Haltern von Luftfahrzeugen verweigern, sofern diese von der Eurocontrol fakturierte Flugsicherungsgebühren nach Ablauf der erstmaligen Mahnfrist nicht beglichen haben. 3 Die Skyguide schliesst zu diesem Zweck mit der Eurocontrol eine Vereinbarung zur Regelung insbesondere der haftungsrechtlichen Verantwortlichkeiten, datenschutzrechtlicher Aspekte sowie des Informationsaustausches. 4 Die Halterinnen und Halter sind vor dem Abflug über eine bevorstehende Leistungsverweigerung nach den Absätzen 1 und 2 zu informieren."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Veröffentlichung der Gebührentarife",
+      "content": "Die Flugsicherungsgebührentarife werden vom BAZL im AIP veröffentlicht. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3869 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "2. Abschnitt: Finanzierung der Streckenflugsicherungsdienste",
+      "section": "19",
+      "title": "Gebührenzone",
+      "content": "Das Fluginformationsgebiet Schweiz (Flight Information Region, FIR und Upper Flight Information Region, UIR), in dem Streckenflugsicherungsdienste erbracht werden, bildet die einzige Gebührenzone für Streckenflugsicherungsgebühren."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Abschnitt: Finanzierung der Streckenflugsicherungsdienste",
+      "section": "20",
+      "title": "Zuständigkeit für die Finanzierung",
+      "content": "Für die Finanzierung der Streckenflugsicherungsdienste ist die Skyguide verantwortlich."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Abschnitt: Finanzierung der Streckenflugsicherungsdienste",
+      "section": "21",
+      "title": "Streckenflugsicherungsgebühren",
+      "content": "1 Für die Benützung der im Luftraum unter der Verantwortung der Schweiz für den Streckenflug zur Verfügung gestellten Dienste und Anlagen erhebt die Skyguide pro Flug eine Streckenflugsicherungsgebühr. 2 Sie legt den Gebührentarif fest. 3 Zur Berechnung der Kosten, die den Flugsicherungsgebühren für die Streckenflüge zugrunde liegen, erstellt die Skyguide die konsolidierten Berichtstabellen nach Anlage III der Grundsätze der Eurocontrol zur Festsetzung der Erhebungsgrundlage für Streckengebühren und zur Berechnung der Gebührensätze und übermittelt sie dem BAZL. 4 Erbringer einzelner Flugsicherungsdienste innerhalb der Gebührenzone nach Artikel 19 übermitteln der Skyguide mindestens die erforderlichen Informationen in Form der Berichtstabellen nach Absatz 3. Sie halten sich an die von der Skyguide festgelegten Fristen. Die Grundsätze können bei Eurocontrol (Rue de la Fusée 96, 1130 Brüssel, Belgien, www.eurocontrol.com) bezogen oder beim BAZL gratis eingesehen werden. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "3. Abschnitt: Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie I (Landesflughäfen)",
+      "section": "22",
+      "title": "Gebührenzone in der Flugplatzkategorie I",
+      "content": "Die Flugplätze der Kategorie I nach Anhang 2 (Landesflughäfen) bilden in Bezug auf Finanzierung der An- und Abflugsicherungsdienste eine Gebührenzone."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "3. Abschnitt: Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie I (Landesflughäfen)",
+      "section": "23",
+      "title": "Zuständigkeit für die Finanzierung",
+      "content": "Für die Finanzierung der Flugsicherungsdienste auf den Flughäfen der Kategorie I ist der Erbringer des Flugverkehrsdienstes verantwortlich."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "3. Abschnitt: Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie I (Landesflughäfen)",
+      "section": "24",
+      "title": "Gebühren für die An- und Abflugsicherung",
+      "content": "1 Für die Benützung der für den An- und Abflug auf Flughäfen der Kategorie I zur Verfügung gestellten Dienste und Anlagen der Flugsicherung wird pro Anflug eine Gebühr erhoben. 2 Zur Berechnung der Kosten, die den Flugsicherungsgebühren für die An- und Abflugsicherung zugrunde liegen, erstellt der Erbringer der Flugverkehrsdienste die konsolidierten Berichtstabellen nach den Anhängen II, V, VI und VII der Durchführungsverordnung (EU) Nr. 391/2013 und übermittelt sie dem BAZL. 3 Erbringer einzelner Flugsicherungsdienste auf Flugplätzen der Kategorie I übermitteln dem Erbringer der Flugverkehrsdienste mindestens die erforderlichen Informationen in Form der Berichtstabellen nach Absatz 2. Sie halten sich an die von ihm festgelegten Fristen. 4 Die Gebühren für die An- und Abflugsicherung werden vom Erbringer der Flugverkehrsdienste festgelegt und erhoben. Er kann einen Dritten mit dem Inkasso beauftragen. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 ). Fassung gemäss Ziff. I der V vom 2. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4169 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. Abschnitt: Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie II",
+      "section": "25",
+      "title": "Gebührenzonen in der Flugplatzkategorie II",
+      "content": "Jeder Flugplatz der Flugplatzkategorie II nach Anhang 2 bildet in Bezug auf die Finanzierung der An- und Abflugsicherung eine eigene Gebührenzone."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "4. Abschnitt: Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie II",
+      "section": "26",
+      "title": "Bildung gemeinsamer Gebührenzonen",
+      "content": "1 Auf Antrag eines Flugplatzhalters kann das UVEK mehrere Flugplätze der Kategorie II zu einer gemeinsamen An- und Abfluggebührenzone zusammenfassen (Art. 49 Abs. 5 LFG ). Für die Aufhebung einer gemeinsamen Gebührenzone ist dem UVEK ebenfalls Antrag zu stellen. 2 Wer beim UVEK Änderungen an Gebührenzonen beantragt, muss vorab bei den betroffenen Kreisen eine Anhörung durchführen und deren Ergebnisse dem Antrag beilegen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "4. Abschnitt: Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie II",
+      "section": "27",
+      "title": "Zuständigkeit für die Finanzierung",
+      "content": "Für die Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie II ist der jeweilige Flugplatzhalter verantwortlich. Die Berichtigung vom 23. Juni 2015 betrifft nur den italienischen Text ( AS 2015 2045 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "4. Abschnitt: Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie II",
+      "section": "28",
+      "title": "Gebühren für die An- und Abflugsicherung",
+      "content": "1 Für die Benützung der für den An- und Abflug auf Flugplätzen der Kategorie II zur Verfügung gestellten Dienste und Anlagen der Flugsicherung wird pro Anflug eine Gebühr erhoben. 2 Für die Bemessung der Gebühren gelten die Bestimmungen in Kapitel III Absätze 44, 45 Ziffer iii, 46, 47 Ziffern iii–iv und vi–viii und 48 von Dokument 9082 «ICAO’s Policies on Charges for Airports and Air Navigations Services» (achte Auflage, 2009). 3 Für Ausbildungsflüge und Flüge mit vermindertem Flugsicherungsaufwand können reduzierte Gebühren für die An- und Abflugsicherung vorgesehen werden. 4 Die Gebühren werden von der nach Artikel 27 für die Finanzierung verantwortlichen Stelle festgelegt und erhoben. Sie kann Dritte mit dem Inkasso beauftragen. Das Dokument kann bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7, www.icao.int) bezogen oder beim BAZL gratis eingesehen werden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "4. Abschnitt: Finanzierung der An- und Abflugsicherungsdienste auf den Flugplätzen der Kategorie II",
+      "section": "29",
+      "title": "Finanzhilfen des Bundes für die An- und Abflugsicherung: Grundsatz und Bemessung",
+      "content": "1 Der Bund leistet auf Antrag jährlich Finanzhilfen für die An- und Abflugsicherung auf den Flugplätzen der Kategorie II. 2 Der Gesamtbetrag der nach diesem Artikel gewährten Finanzhilfen darf die im Bereich des An- und Abflugsicherungsdienstes bewilligten Kredite aus der Mineralölbesteuerung für das betreffende Jahr nicht übersteigen. 3 Anträge auf Finanzhilfen sind dem BAZL spätestens am 30. November für das nachfolgende Jahr einzureichen. Dem Antrag beizulegen sind die prognostizierten Kosten und Erträge, einschließlich der Beiträge nach den Artikeln 31 und 34. 4 Auf Flugplätzen, denen Finanzhilfen nach diesem Artikel gewährt werden, sind die Gebühren für die An- und Abflugsicherung mindestens auf dem Niveau des letzten Jahres vor deren Erhalt festzulegen. Der Mindestbetrag wird mindestens alle 5 Jahre an den Landesindex der Konsumentenpreise angepasst, sofern dieser sich im entsprechenden Zeitraum erhöht hat. Gebührensenkungen sind nur bei einer Beteiligung anderer öffentlicher Körperschaften oder Privater nach Artikel 31 zulässig. 5 Das BAZL legt die Finanzhilfen jeweils pro Gebührenzone mittels Verfügung fest. Es gewährt die Beiträge für jede Gebührenzone gestützt auf das Mehrjahresprogramm gemäss Artikel 5 der Verordnung vom 29. Juni 2011 über die Verwendung der zweckgebundenen Mineralölsteuer für Massnahmen im Luftverkehr. 6 Es übt die Aufsicht über die Entschädigung aus, welche der Erbringer der An- und Abflugsicherungsdienste den für die Finanzierung verantwortlichen Stellen in Rechnung stellt. Im Fall eines Streits zwischen dem Erbringer der An- und Abflugsicherungsdienste und der für die Finanzierung verantwortlichen Stelle legt es auf Antrag einer der beiden Parteien den vom Flugplatzhalter geschuldeten Betrag fest. 7 Ein staatlich beaufsichtigtes Revisionsunternehmen nach Artikel 7 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 prüft im Auftrag der für die Finanzierung nach Artikel 27 verantwortlichen Stelle die Flugsicherungsrechnung der entsprechenden Gebührenzone. 8 Zeigt die Abrechnung nach Absatz 7, dass die Finanzhilfe für ein Jahr höher ausgefallen ist als die in diesem Jahr nicht durch Gebühren oder Beiträge nach den Artikeln 31 und 34 gedeckten Kosten, ist der Differenzbetrag dem Bund zurückzuerstatten. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 ). Fassung gemäss Ziff. I der V vom 2. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4169 ). SR 725.116.22 Fassung gemäss Ziff. I der V vom 2. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4169 ). Fassung gemäss Ziff. I der V vom 2. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4169 ). SR 221.302"
+    },
+    {
+      "provision_ref": "art29a",
+      "section": "29a",
+      "title": "a Finanzhilfe des Bundes für die An- und Abflugsicherung: Mehrjahresprogramm",
+      "content": "1 Das Mehrjahresprogramm sieht für jeden Flugplatz der Kategorie II die Höhe der Finanzhilfe des Bundes für die An- und Abflugsicherung nach Artikel 29 vor. Vorgängig hört das UVEK die interessierten Kreise an, insbesondere Skyguide und die Halter von Flugplätzen der Kategorie II, und holt die Zustimmung des Eidgenössischen Finanzdepartements ein. 2 Die Gewährung der Finanzhilfen des Bundes stützt sich auf folgende Kriterien: a. das technische Sparpotenzial; b. die Produktivitätssteigerungen oder die Sparanstrengungen; c. die Anzahl Flugbewegungen des Linien- oder Charterverkehrs; d. die Anzahl Flugbewegungen zur Pilotenausbildung. 3 An- und Abflugsicherungsdienste, die einzig privaten oder lokalen Bedürfnissen dienen, sind privat oder lokal zu finanzieren. Eingefügt durch Ziff. I der V vom 2. Nov. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 4169 )."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Finanzhilfen des Bundes für die An- und Abflugsicherung: Zahlungsempfänger",
+      "content": "1 Zahlungsempfänger ist der jeweilige Flugplatzhalter. 2 Er stellt dem BAZL auf Verlangen sämtliche für die Festlegung der Finanzhilfe erforderlichen Angaben zu."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Beteiligung anderer öffentlicher Körperschaften sowie Privater an den Kosten für die An- und Abflugsicherung",
+      "content": "1 Die Flugplatzhalter führen in ihrem Einflussbereich Verhandlungen mit Privaten und mit öffentlichen Körperschaften über eine Mitfinanzierung der An- und Abflugsicherungsdienste auf den jeweiligen Flugplätzen. 2 Die Flugplatzhalter informieren das BAZL über das Ergebnis der Verhandlungen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "5. Abschnitt: Befreiung von den Flugsicherungsgebühren",
+      "section": "32",
+      "title": "Befreiung von den Streckenflugsicherungsgebühren",
+      "content": "1 Für folgende Flüge müssen keine Streckenflugsicherungsgebühren entrichtet werden: a. Flüge nach Artikel 10 Absatz 1 der Durchführungsverordnung (EU) Nr. 391/2013; diese Gebührenbefreiung beschränkt sich für Such- und Rettungsflüge auf Flüge gemäss der Verordnung vom 7. November 2001 über den Such- und Rettungsdienst der zivilen Luftfahrt (VSRL); b. Flüge, die ausschliesslich zum Zweck der Kontrolle oder Vermessung von Bodenausrüstungen durchgeführt werden, die als Flugnavigationshilfen verwendet werden oder verwendet werden sollen; für Flüge des betreffenden Luftfahrzeuges zu einem bestimmten Einsatzort müssen jedoch Gebühren entrichtet werden; c. Flüge, die ausschliesslich nach Sichtflugregeln (VFR) innerhalb dieser Gebührenzone durchgeführt werden. 2 Das BAZL befreit im Einvernehmen mit dem Departement für auswärtige Angelegenheiten und der Luftwaffe Flüge von ausländischen Militärluftfahrzeugen auf Antrag des Herkunftsstaates von den Streckenflugsicherungsgebühren, soweit die Schweiz Gegenrecht erhält. 3 Das BAZL befreit Flüge für humanitäre Zwecke von den Streckenflugsicherungsgebühren. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 ). SR 748.126.1"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "5. Abschnitt: Befreiung von den Flugsicherungsgebühren",
+      "section": "33",
+      "title": "Befreiung von den An- und Abflugsicherungsgebühren",
+      "content": "Für die folgenden Flüge müssen keine An- und Abflugsicherungsgebühren entrichtet werden: a. Flüge, die ausschliesslich zur Beförderung folgender Personen in offizieller Mission durchgeführt werden, wenn der entsprechende Status im Flugplan vermerkt ist: 1. herrschende Monarchinnen und Monarchen und ihre unmittelbaren Familienangehörige, 2. Staatschefinnen und -chefs, Regierungschefinnen und -chefs und zur Regierung gehörende Ministerinnen und Minister; b. Such- und Rettungsflüge gemäss der VSRL; c. Flüge, die ausschliesslich zum Zweck der Kontrolle oder Vermessung von Bodenausrüstungen durchgeführt werden, die als Flugnavigationshilfen verwendet werden oder verwendet werden sollen; für Flüge des betreffenden Luftfahrzeuges zu einem bestimmten Einsatzort müssen jedoch Gebühren entrichtet werden. SR 748.126.1"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "5. Abschnitt: Befreiung von den Flugsicherungsgebühren",
+      "section": "34",
+      "title": "Kostenübernahme durch den Bund",
+      "content": "1 Die Aufwendungen für gebührenbefreite Flüge gemäss den Artikeln 32 und 33 werden, soweit sie nicht in der Kostengrundlage für die Gebührenberechnung enthalten sind, in den Voranschlag des BAZL aufgenommen und den Leistungserbringern abgegolten. 2 Die Abgeltung basiert auf den Gesamtkosten, die bei der Erbringung der Flugsicherungsdienste für diese Flüge anfallen. 3 Flugsicherungsdienste für Flüge nach Sichtflugregeln, die nach Artikel 32 Absatz 1 Buchstabe c von den Streckenflugsicherungsgebühren befreit sind, werden auf der Basis der anfallenden Grenzkosten abgegolten. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3869 )."
+    },
+    {
+      "provision_ref": "art34a",
+      "chapter": "6. Abschnitt: Festlegung und Genehmigung der Gebührentarife",
+      "section": "34a",
+      "title": "a Flugplätze der Kategorie I",
+      "content": "Die Festlegung und die Genehmigung der Gebührentarife für Flugplätze der Kategorie I richten sich nach der Durchführungsverordnung (EU) Nr. 391/2013. Eingefügt durch Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "6. Abschnitt: Festlegung und Genehmigung der Gebührentarife",
+      "section": "35",
+      "title": "",
+      "content": "1 Die für die Festlegung der Gebühr für Flugplätze der Kategorie II zuständige Stelle hört die direkt betroffenen Flugplatznutzer oder deren Verbände mündlich oder schriftlich zu den Gebührentarifen für die An- und Abflugsicherung an. 2 Sie informiert die Flugplatznutzer spätestens vier Monate vor dem geplanten Inkrafttreten im Informations-Zirkular für die Luftfahrt (Aeronautical Information Circular, AIC) über die beabsichtigte Gebühr, die Modalitäten der Anhörung und die Bezugsquelle des Anhörungsdossiers. 3 Das Anhörungsdossier beinhaltet mindestens Angaben zu den Kostengrundlagen für die Gebührenberechnung sowie zu den relevanten Flugverkehrsprognosen. 4 Bei einer schriftlichen Anhörung ist für die Eingabe von Stellungnahmen eine Frist von mindestens einem Monat nach AIC-Publikationsdatum zu gewähren. Bei einer mündlichen Anhörung ist das Anhörungsdossier spätestens zwei Wochen vor der Anhörungsveranstaltung zur Verfügung zu stellen. Den Teilnehmenden ist ein Protokoll zur Verfügung zu stellen. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 ). Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 ). Das AIC kann bei der Skyguide bezogen werden (www.skyguide.ch oder Postfach 23, 8602 Wangen bei Dübendorf)"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "6. Abschnitt: Festlegung und Genehmigung der Gebührentarife",
+      "section": "36",
+      "title": "",
+      "content": "1 Das UVEK wendet bei der Genehmigung der Gebührentarife für die Flugplätze der Kategorie II sinngemäss Artikel 15 des Preisüberwachungsgesetzes vom 20. Dezember 1985 an. 2 Die für die Festlegung der Gebühr zuständige Stelle reicht den Antrag mit Begründung spätestens zweieinhalb Monate vor dem geplanten Inkrafttreten beim BAZL zuhanden des UVEK ein. 3 Der Antrag muss sämtliche Angaben und Unterlagen enthalten, die für eine Beurteilung der Gebührenhöhe erforderlich sind, insbesondere: a. die Nachweise der Kosten und Erträge der Flugsicherungsdienste; b. das geplante Verkehrsvolumen; c. die Stellungnahmen der angehörten Anspruchsgruppen. 4 In Bezug auf die Stellungnahmen der von den Gebühren betroffenen Kreise ist begründet darzulegen, welche Anträge berücksichtigt und welche abgelehnt werden. 5 Der Entscheid des UVEK und der Zeitpunkt des Inkrafttretens des Gebührentarifs werden im Bundesblatt veröffentlicht. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 ). SR 942.20 Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "7. Abschnitt: Finanzierung der Flugsicherung für militärische Flüge",
+      "section": "37",
+      "title": "",
+      "content": "1 Die Erbringer der Flugsicherungsdienste und der Erbringer des militärischen Flugwetterdienstes stellen der Luftwaffe für ihre Leistungen für militärische Flüge Rechnung. 2 Sie ermitteln ihre voraussichtlichen Aufwendungen für die Leistungen für militärische Flüge und geben sie der Luftwaffe rechtzeitig vor der Erstellung des Voranschlages bekannt. 3 Die Kosten für die Erbringung des militärischen Flugwetterdienstes werden der Luftwaffe ausschliesslich vom Erbringer dieser Dienste in Rechnung gestellt."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "8. Abschnitt: Rechnungsstellung für die Flugsicherungsdienste",
+      "section": "38",
+      "title": "Erbringer des Flugwetterdienstes und BAZL",
+      "content": "1 Der Erbringer des zivilen Flugwetterdienstes stellt dem Erbringer des Flugverkehrsdienstes für seine Leistungen Rechnung. 2 Das BAZL stellt dem Erbringer des Flugverkehrsdienstes Rechnung für seine Aufwendungen im Bereich der Aufsicht und im Bereich der Organisation des Flugsicherungsdienstes einschliesslich der Festlegung der Luftraumstruktur, soweit diese Aufwendungen nicht über Gebühren nach der Verordnung vom 28. September 2007 über die Gebühren des Bundesamtes für Zivilluftfahrt abgedeckt sind. 3 Der Erbringer des zivilen Flugwetterdienstes sowie das BAZL geben dem Erbringer des Flugverkehrsdienstes innerhalb der von ihm festgelegten Frist die voraussichtlichen Kosten für ihre Leistungen bekannt. 4 Sie legen im Rahmen der für die Festlegung der Gebühren vorgeschriebenen Anhörungsverfahren Rechenschaft über ihre Kosten ab. SR 748.112.11"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "8. Abschnitt: Rechnungsstellung für die Flugsicherungsdienste",
+      "section": "39",
+      "title": "Erbringer des Flugverkehrsdienstes",
+      "content": "1 Der Erbringer des Flugverkehrsdienstes stellt der für die Finanzierung verantwortlichen Stelle für seine Leistungen Rechnung. Im Streitfall erlässt Skyguide für ihre Leistungen eine Verfügung. 2 Er gibt der für die Finanzierung verantwortlichen Stellen innerhalb der von ihr festgelegten Frist die voraussichtlichen Kosten für seine Leistungen bekannt. 3 Er legt im Rahmen der für die Festlegung der Gebühren vorgeschriebenen Anhörungsverfahren Rechenschaft über seine Kosten ab. Fassung des zweiten Satzes gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3869 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "9. Abschnitt: Schweizerische Flugsicherungsrechnung",
+      "section": "40",
+      "title": "",
+      "content": "Das BAZL erstellt jährlich die schweizerische Flugsicherungsrechnung. Diese bietet eine Übersicht über die gesamten Kosten und Erträge der im schweizerischen Luftraum angebotenen Flugsicherungsdienste. Die für die Finanzierung der Flugsicherungsdienste verantwortlichen Stellen übermitteln dem BAZL die nötigen Informationen."
+    },
+    {
+      "provision_ref": "art40a",
+      "chapter": "4. Kapitel:",
+      "section": "40a",
+      "title": "a Verantwortung und Einsatzgebiet",
+      "content": "1 Die Erbringer der Flugverkehrskontrolldienste für den zivilen Verkehr zeichnen für die Zwecke der Untersuchung von Flugunfällen und schweren Vorfällen nach den Artikeln 3 und 4 der Verordnung vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen mit einem dafür geeigneten System (Ambient Voice Recording Equipment; AVRE) bei den Flugverkehrskontrollstellen Hintergrundgespräche und ‑geräusche auf. 2 Er führt die mit dem AVRE erstellte Datensammlung und ist das für den Datenschutz verantwortliche Organ. 3 Er darf das AVRE einzig an Arbeitsplätzen von Personen einsetzen, die Flugverkehrskontrolldienste erbringen (betroffene Fluglotsinnen und Fluglotsen). 4 Er stellt sicher, dass den betroffenen Fluglotsinnen und Fluglotsen nebst diesen Arbeitsplätzen unüberwachte Büro- und Pausenräume zur Verfügung stehen. SR 742.161 Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3869 )."
+    },
+    {
+      "provision_ref": "art40b",
+      "chapter": "4. Kapitel:",
+      "section": "40b",
+      "title": "b Informationspflicht",
+      "content": "1 Der Erbringer der Flugverkehrsdienste muss seine Mitarbeiterinnen und Mitarbeiter über den Einsatz eines AVRE vor dessen Inbetriebnahme und vor Antritt einer Stelle als betroffene Fluglotsin oder betroffener Fluglotse in Kenntnis setzen. 2 Er informiert seine Mitarbeiterinnen und Mitarbeiter über Änderungen des Anwendungsbereichs des Aufzeichnungssystems."
+    },
+    {
+      "provision_ref": "art40c",
+      "chapter": "4. Kapitel:",
+      "section": "40c",
+      "title": "c Verfügbarkeit und Aufbewahrungsdauer der Aufzeichnungen",
+      "content": "1 Der Erbringer der Flugverkehrsdienste sorgt für die lückenlose Verfügbarkeit der Aufzeichnungen des AVRE im Falle eines Flugunfalls oder eines schweren Vorfalls. 2 Er ist verpflichtet, die Aufzeichnungen während 30 Tagen aufzubewahren. 3 Nach Ablauf der Aufbewahrungsdauer löscht er die Aufzeichnungen ohne Verzug. Geschieht ein Flugunfall oder ein schwerer Vorfall, so dürfen die Aufzeichnungen, die möglicherweise im Zusammenhang mit dem Ereignis stehen, erst nach der Freigabe durch die Schweizerische Unfalluntersuchungsstelle (SUST) gelöscht werden."
+    },
+    {
+      "provision_ref": "art40d",
+      "chapter": "4. Kapitel:",
+      "section": "40d",
+      "title": "d Zugriff auf die Aufzeichnungen",
+      "content": "1 Der Erbringer der Flugverkehrsdienste darf auf die Aufzeichnungen und die dazugehörigen Randdaten des AVRE nur zugreifen: a. um sie der SUST für die in Artikel 40 a Absatz 1 genannten Zwecke zugänglich zu machen; b. wenn es zu Wartungszwecken unumgänglich ist. 2 Handelt es sich um Aufzeichnungen aus einer militärischen Anlage, so macht der Erbringer der Flugverkehrsdienste die Daten nach erfolgter Freigabe durch die Luftwaffe der SUST so weit zugänglich, als dies aus Gründen der militärischen Geheimhaltung möglich ist."
+    },
+    {
+      "provision_ref": "art40e",
+      "section": "40e",
+      "title": "e Vertrauensstelle",
+      "content": "1 Der Erbringer der Flugverkehrsdienste bezeichnet eine Vertrauensstelle. Dazu hört er vorgängig die Personalverbände der betroffenen Fluglotsinnen und Fluglotsen an. Er gibt die Stelle dem BAZL und der SUST bekannt. 2 Die Vertrauensstelle ist eine neutrale Ansprech- und Vermittlungsstelle für Fragen zum AVRE. 3 Sie vermittelt im Falle eines Auswertungsverfahrens zwischen dem Erbringer der Flugverkehrsdienste und den betroffenen Fluglotsinnen und Fluglotsen."
+    },
+    {
+      "provision_ref": "art40f",
+      "section": "40f",
+      "title": "f Auswertung",
+      "content": "1 Die Aufzeichnungen des AVRE dürfen nur von der SUST ausgewertet werden. Diese wertet die Aufzeichnungen nur so weit aus, wie es zur Untersuchung eines Flugunfalls oder schweren Vorfalls nötig ist. 2 Der Erbringer der Flugverkehrsdienste, die betroffenen Fluglotsinnen und Fluglotsen und die Vertrauensstelle haben das Recht, am Verfahren der Auswertung der Aufzeichnungen beteiligt zu sein. Gleiches gilt für die Luftwaffe, sofern militärische Flugzeuge oder Stellen vom Flugunfall oder schweren Vorfall betroffen sind. 3 Die betroffenen Fluglotsinnen und Fluglotsen können sich bei Verfahrenshandlungen von einem Vertreter ihres Personalverbandes begleiten lassen. 4 Der Erbringer der Flugverkehrsdienste ist verpflichtet, die Auswertungsarbeiten der SUST in technischer Hinsicht zu unterstützen. Er stellt dazu bei Bedarf und im Rahmen der betrieblichen Möglichkeiten seine Infrastruktur zur Verfügung, insbesondere für das Abhören der Aufzeichnungen. 5 Die im Rahmen des Auswertungsverfahrens gewonnenen Informationen und Erkenntnisse dürfen einzig für Massnahmen zur Verbesserung der Flug- oder Betriebssicherheit verwendet werden. Informationen, die nicht solchen Zwecken dienen, insbesondere solche über das Arbeits- und das Privatleben, die nicht mit dem untersuchten Ereignis in Zusammenhang stehen, sowie Informationen, die der militärischen Geheimhaltung unterliegen, dürfen in keinem Fall verwendet werden."
+    },
+    {
+      "provision_ref": "art40g",
+      "section": "40g",
+      "title": "g Technische und organisatorische Schutzmassnahmen",
+      "content": "1 Der Erbringer der Flugverkehrsdienste sorgt dafür, dass das AVRE während der gesamten Betriebszeit gemäss dem Stand der Technik die Verfügbarkeit, Integrität, Vollständigkeit und Vertraulichkeit gewährleistet. Entwicklungs- und Unterhaltsarbeiten dürfen dessen Betrieb nur kurzfristig beeinträchtigen. 2 Der Erbringer der Flugverkehrsdienste schützt die Aufzeichnungen des AVRE vor Verlust, vor dem Zugriff Unberechtigter und vor Manipulationen. 3 Er legt die organisatorischen und die technischen Bedingungen des AVRE vor dessen Inbetriebnahme in einem Reglement fest. Dazu hört er vorgängig die Personalverbände der betroffenen Fluglotsinnen und Fluglotsen an. 4 Im Reglement werden insbesondere geregelt: a. die Arbeitsplätze und Funktionsbereiche, bei denen das AVRE installiert wird; b. die Berechtigungen zur Installation und zur Wartung des Systems; c. die Berechtigungen zur Löschung der Aufzeichnungen; d. das Führen von Protokollen zur Nachvollziehbarkeit sämtlicher Veränderungen am System sowie an dessen Aufzeichnungen; e. die Zugriffsberechtigungen im Falle eines Flugunfalls oder schweren Vorfalls; f. die Bezeichnung und die Finanzierung der Vertrauensstelle; g. die Koordination mit der SUST im Auswertungsverfahren. 5 Berechtigungen nach Absatz 4 Buchstaben b, c und e können nur Angestellten des Erbringers der Flugverkehrsdienste verliehen werden."
+    },
+    {
+      "provision_ref": "art40h",
+      "section": "40h",
+      "title": "h Vertraulichkeit",
+      "content": "Personen, die mit der Installation, der Wartung, dem Betrieb, der Auswertung und der Löschung von Aufzeichnungen des AVRE befasst sind, haben alle daraus gewonnenen Informationen und Randdaten, insbesondere Aussagen und Inhalte aus Abhörungen, vertraulich zu behandeln."
+    },
+    {
+      "provision_ref": "art40i",
+      "section": "40i",
+      "title": "i Berichterstattung",
+      "content": "Der Erbringer der Flugverkehrsdienste reicht dem BAZL jährlich einen Bericht über den Einsatz des AVRE ein."
+    },
+    {
+      "provision_ref": "art40j",
+      "section": "40j",
+      "title": "j Vorbehalt gesetzlicher Regelungen zu Herausgabe, Auswertung und Aufbewahrung von Aufzeichnungen",
+      "content": "Abweichend von den Bestimmungen dieses Kapitels können die zuständigen Behörden insbesondere die Herausgabe, Auswertung oder Aufbewahrung von Aufzeichnungen des AVRE anordnen, soweit ein Gesetz dies vorsieht."
+    },
+    {
+      "provision_ref": "art40k",
+      "section": "40k",
+      "title": "k Strafbestimmungen",
+      "content": "Nach Artikel 91 Absatz 1 Buchstabe i LFG wird bestraft, wer: a. Aufzeichnungen manipuliert; b. Vorschriften zur Aufbewahrungsdauer und zur Löschung missachtet; c. unbefugt auf Aufzeichnungen zugreift oder Aufzeichnungen, Informationen oder Randdaten unbefugt verwendet oder weitergibt oder die Pflicht zur vertraulichen Behandlung derselben verletzt; d. die Vorschriften zu den technischen oder den organisatorischen Schutzmassnahmen missachtet."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "5. Kapitel:",
+      "section": "41",
+      "title": "",
+      "content": "1 Sämtliche Flugplätze der Kategorie II, auf denen für die An- und Abflugsicherung die Skyguide oder eine unter ihrer Verantwortung operierende Gesellschaft zuständig ist, bilden bis am 31. Dezember 2016 eine gemeinsame Gebührenzone. In Abweichung von Artikel 27 ist innerhalb dieser Gebührenzone die Skyguide für die Finanzierung der An- und Abflugsicherungsdienste verantwortlich. In Abweichung von Artikel 30 werden bis am 31. Dezember 2016 die dieser Gebührenzone zugewiesenen Beträge nach Artikel 29 als Abgeltung der Skyguide ausbezahlt. Das BAZL schließt zu diesem Zweck mit der Skyguide eine Abgeltungsvereinbarung. 2 Bis am 31. Dezember 2015 kann das UVEK auf Antrag der Skyguide in Abweichung von Artikel 11 Quersubventionierungen von der Flugplatzkategorie I zugunsten der gemeinsamen Gebührenzone nach Absatz 1 zulassen. Vor Antragstellung sind die auf den Landesflughäfen betroffenen Nutzer oder deren Interessenvertretungen zu konsultieren. 3 Die Skyguide kann bis am 31. Dezember 2025 die An- und Abflugsicherungsgebühren auf den Flugplätzen der Kategorie I für Flugzeuge bis zu einem maximalen Abfluggewicht von 30 Tonnen in Abweichung von Anhang V der Durchführungsverordnung (EU) Nr. 391/2013 festlegen. 4 Das BAZL erstellt die schweizerische Flugsicherungsrechnung (Art. 40) erstmals für das Jahr 2017. Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 ). Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 ). Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft seit 1. Febr. 2016 ( AS 2016 313 )."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "5. Kapitel:",
+      "section": "42",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben: a. die Verordnung vom 18. Mai 1988 über den Flugsicherungsdienst; b. die Verordnung vom 10. September 1986 über die Erhebung der Eidgenössischen Flugsicherungsgebühr; c. die Verordnung vom 23. August 1989 über die Errichtung von Flugbeschränkungsgebieten um Militärflugplätze. [ AS 1988 940 , 1992 2399 ] [ AS 1986 1683 ] [ AS 1989 1761 ]"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "5. Kapitel:",
+      "section": "43",
+      "title": "Inkrafttreten",
+      "content": "1 Diese Verordnung tritt am 1. Januar 1996 in Kraft. 2 … Aufgehoben durch Ziff. I der V vom 17. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ( AS 2018 3869 )."
+    }
+  ],
+  "definitions": []
+}

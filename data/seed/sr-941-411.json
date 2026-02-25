@@ -1,0 +1,1007 @@
+{
+  "id": "sr-941-411",
+  "type": "statute",
+  "title": "Sprengstoffverordnung vom 27. November 2000 (SprstV)",
+  "title_en": "",
+  "short_name": "SprstV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2001/78/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Titel: Geltungsbereich und Begriffe",
+      "section": "1",
+      "title": "Verhältnis zur Chemikalien- und Umweltschutzgesetzgebung",
+      "content": "1 Sprengmittel und pyrotechnische Gegenstände sind ungeachtet der gesundheitsgefährdenden oder umweltgefährlichen Eigenschaften der in ihnen enthaltenen Stoffe, ausschliesslich nach den Vorschriften dieser Verordnung zu verpacken und zu kennzeichnen; ausgenommen sind pyrotechnische Gegenstände zur Erzeugung giftiger Gase, Nebel oder Stäube. Die Vernichtung und die Entsorgung richten sich nach den Artikeln 107–109 dieser Verordnung. 2 Die Vorschriften der Chemikalienverordnung vom 5. Juni 2015 und der Störfallverordnung vom 27. Februar 1991 bleiben vorbehalten. Fassung gemäss Ziff. II 22 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes, in Kraft seit 1. Aug. 2005 ( AS 2005 2695 ). SR 813.11 SR 814.012 Fassung gemäss Anhang 6 Ziff. 8 der Chemikalienverordnung vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ( AS 2015 1903 )."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "1. Titel: Geltungsbereich und Begriffe",
+      "section": "1a",
+      "title": "a Begriffe",
+      "content": "1 In dieser Verordnung bedeuten: a. Betriebssicherheit : die Sicherheit, die bei bestimmungsgemässer Verwendung von Sprengmitteln den Schutz von Leben und Gut sowie die Begrenzung allfälliger Unfallfolgen gewährleistet; b. Explosivstoffe : Sprengmittel und Schiesspulver im Sinne der Artikel 4 und 7 a SprstG; c. Feuerwerkskörper: pyrotechnische Gegenstände zu Vergnügungszwecken (Kategorien F1–F4); d. Feuerwerkskörper im gewerblichen Gebrauch: Feuerwerkskörper der Kategorie F4; e. Bereitstellung auf dem Markt: jede entgeltliche oder unentgeltliche Abgabe eines Sprengmittels oder pyrotechnischen Gegenstands auf dem Schweizer Markt zum Vertrieb oder zur Verwendung im Rahmen einer Geschäftstätigkeit; Feuerwerkskörper, die von einem Hersteller mit einer entsprechenden Herstellungsbewilligung für den Eigengebrauch hergestellt wurden, gelten nicht als auf dem Schweizer Markt bereitgestellt; e bis . Inverkehrbringen: die erstmalige Bereitstellung eines Sprengmittels oder pyrotechnischen Gegenstands auf dem Schweizer Markt; f. Detailhandel: offener Verkauf von Feuerwerkskörpern der Kategorien F1–F3 an die Verbraucherinnen und Verbraucher; g. Person mit Fachkenntnissen: Person, die über einen Ausweis nach Artikel 14 Absatz 2 SprstG verfügt. 2 Im Übrigen gelten die Begriffsbestimmungen nach Artikel 2 der Richtlinie 2014/28/EU, Artikel 3 der Richtlinie 2013/29/EU und Artikel 2 der Richtlinie 2008/43/EG. Anstelle der Begriffsbestimmungen nach Artikel 2 Ziffern 15–17 der Richtlinie 2014/28/EU und Artikel 3 Ziffern 14–16 der Richtlinie 2013/29/EU gelten die Begriffsbestimmungen nach der Gesetzgebung über die Produktesicherheit und die Akkreditierung. Zudem gelten die Ausdrucksentsprechungen nach Anhang 15. Eingefügt durch gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Ausdruck gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Diese Änd. wurde im ganzen Erlass berücksichtigt. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Richtlinie 2014/28/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung auf dem Markt und die Kontrolle von Explosivstoffen für zivile Zwecke (Neufassung), Fassung gemäss ABl. L 96 vom 29.3.2014, S. 1. Richtlinie 2013/29/EU des Europäischen Parlaments und des Rates vom 12. Juni 2013 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung pyrotechnischer Gegenstände auf dem Markt (Neufassung), Fassung gemäss ABl. L 178 vom 28.6.2013, S. 27. Richtlinie 2008/43/EG der Kommission vom 4. April 2008 zur Einführung eines Verfahrens zur Kennzeichnung und Rückverfolgung von Explosivstoffen für zivile Zwecke gemäss der Richtlinie 93/15/EWG des Rates, ABl. L 94 vom 5.4.2008, S. 8; zuletzt geändert durch Richtlinie 2012/4/EU, ABl. L 50 vom 23.2.2012, S. 18. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Sprengstoffe",
+      "content": "Als Sprengstoffe gelten insbesondere: a. einheitliche Stoffe, wie Nitropenta, Trinitrotoluol und Hexogen; b. Mischungen, wie Schwarzpulver zu Sprengzwecken (Sprengpulver), nitroglycerin- oder nitroglykolhaltige Sprengstoffe, Ammoniumnitrat-Sprengstoffe, Sprengschlämme und Emulsionssprengstoffe; c. Initialsprengstoffe, wie Bleiazid und Bleitrizinat; d. Sprengschnüre."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Zündmittel zu Sprengzwecken",
+      "content": "1 Als Zündmittel gelten insbesondere Sprengkapseln, Sprengzünder (wie elektrische, elektronische und nichtelektrische), Sprengverzögerer, Sicherheitsanzündschnüre und Zündschläuche. 2 Sprengschnüre dürfen auch als Zündmittel verwendet werden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Nicht zu Sprengzwecken auf dem Markt bereitgestellte Stoffe und Zündmittel",
+      "content": "Für Stoffe nach Artikel 2 und Zündmittel, die nicht zu Sprengzwecken auf dem Markt bereitgestellt werden, gelten die Anforderungen nach den Artikeln 8–23 nicht. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Pyrotechnische Gegenstände",
+      "content": "1 Pyrotechnische Gegenstände enthalten mindestens einen Zünd- oder Explosivsatz. Ihre Energie ist dazu bestimmt, Licht, Wärme, Schall, Rauch, Gas, Druck, eine Bewegung oder ähnliche Wirkungen zu erzeugen. 2 Zündsätze brennen ab, Explosivsätze erzeugen eine mit einem Knall verbundene Druck- oder Stosswelle. 3 Als pyrotechnische Gegenstände gelten auch solche, die mit einer Abschussvorrichtung verwendet werden. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Pyrotechnische Gegenstände zu gewerblichen Zwecken",
+      "content": "1 Als pyrotechnische Gegenstände zu gewerblichen Zwecken gelten die pyrotechnischen Gegenstände nach Artikel 7 Buchstabe a SprstG. Sie werden vom Hersteller nach den Kriterien von Anhang 1 Ziffer 1 in die Kategorien T1, T2, P1, P2 oder P3 eingeteilt. 2 Pyrotechnische Gegenstände der Kategorien T1 und P1 dürfen nicht an Personen unter 18 Jahren abgegeben werden. 3 Pyrotechnische Gegenstände der Kategorien T2 und P2 dürfen nur an Personen mit Fachkenntnissen abgegeben werden. 4 Für pyrotechnische Gegenstände der Kategorie P3 ist nur für die Herstellung und die Einfuhr eine Bewilligung erforderlich. Die übrigen Vorschriften für pyrotechnische Gegenstände gelten für sie nicht. 5 Die Zentralstelle Explosivstoffe (ZSE) kann in besonderen Fällen einen pyrotechnischen Gegenstand einer anderen Kategorie zuweisen, wenn es aus Gründen der Ordnung, der Sicherheit oder des Umweltschutzes erforderlich ist. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Ausdruck gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 353 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Feuerwerkskörper",
+      "content": "1 Die Feuerwerkskörper werden vom Hersteller nach den Kriterien von Anhang 1 Ziffer 2 in die Kategorien F1–F4 eingeteilt. 2 Feuerwerkskörper der Kategorie F1 dürfen nicht an Personen unter zwölf Jahren abgegeben werden. Für sie ist nur für die Herstellung und die Einfuhr eine Bewilligung erforderlich. Die übrigen Vorschriften für pyrotechnische Gegenstände gelten für sie nicht. 3 Feuerwerkskörper der Kategorie F2 dürfen nicht an Personen unter 16 Jahren abgegeben werden. 4 Feuerwerkskörper der Kategorie F3 dürfen nicht an Personen unter 18 Jahren abgegeben werden. 5 Feuerwerkskörper der Kategorie F4 sind dem gewerblichen Gebrauch vorbehalten. Sie dürfen nur von Personen mit Fachkenntnissen verwendet werden. Sie dürfen nicht in den Detailhandel gebracht werden. 6 Die ZSE kann in besonderen Fällen einen pyrotechnischen Gegenstand einer anderen Kategorie zuweisen, wenn es aus Gründen der der Ordnung, der Sicherheit oder des Umweltschutzes erforderlich ist. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "a Pflichten",
+      "content": "1 Die Pflichten der Wirtschaftsakteure richten sich, soweit sie sich nicht aus dieser Verordnung ergeben, nach den Artikeln 5–8 und den darin genannten Anhängen II und III der Richtlinie 2014/28/EU sowie nach den Artikeln 8, 12 und 13 und den darin genannten Anhängen I und II der Richtlinie 2013/29/EU. Die ZSE ist die zuständige nationale Behörde. 2 Die Pflicht, die CE-Kennzeichnung anzubringen, gilt nicht. Sind CE-Kennzeichnungen bereits angebracht, so können sie belassen werden, sofern sie den Vorschriften der EU entsprechen. 3 Ein Importeur oder ein Händler gilt als Hersteller im Sinne dieser Verordnung und unterliegt den Pflichten eines Herstellers, wenn er: a. Sprengmittel oder pyrotechnische Gegenstände unter seinem Namen oder seiner Handelsmarke in Verkehr bringt; oder b. bereits in Verkehr gebrachte Sprengmittel oder pyrotechnische Gegenstände so verändert, dass deren Konformität mit den Anforderungen nach dieser Verordnung beeinträchtigt werden kann. Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Siehe Fussnote zu Art. 1 a Abs. 2. Siehe Fussnote zu Art. 1 a Abs. 2."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Kapitel: Sprengmittel",
+      "section": "8",
+      "title": "",
+      "content": "1 Sprengmittel dürfen auf dem Markt bereitgestellt werden, wenn sie: a. den grundlegenden Sicherheitsanforderungen nach Anhang II der Richtlinie 2014/28/EU entsprechen; b. die Anforderungen an die Kennzeichnung und Rückverfolgbarkeit nach Anhang 14 erfüllen; c. die Anforderungen nach den Artikeln 18–23 erfüllen. 2 Die Bestimmungen dieses Kapitels gelten nicht: a. für Sprengmittel, die in geringen Mengen Zwecken der Wissenschaft, Forschung oder Entwicklung oder für Prüfungen dienen; b. mit Ausnahme von Artikel 19 für Sprengmittel, die für den Umgang bei der Polizei oder der Armee oder bei den eidgenössischen und kantonalen Militärverwaltungen oder ihren Betrieben bestimmt sind; c. … Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Siehe Fussnote zu Art. 1 a Abs. 2. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 353 ). Aufgehoben durch Ziff. I der V vom 12. Mai 2010, mit Wirkung seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "1. Kapitel: Sprengmittel",
+      "section": "9",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 12. Mai 2010, mit Wirkung seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "1. Kapitel: Sprengmittel",
+      "section": "10",
+      "title": "Technische Normen",
+      "content": "Die Bezeichnung der technischen Normen, die geeignet sind, die grundlegenden Anforderungen nach Anhang II der Richtlinie 2014/28/EU zu konkretisieren, richtet sich nach Artikel 6 des Bundesgesetzes vom 12. Juni 2009 über die Produktesicherheit. Die ZSE bezeichnet die Normen im Einvernehmen mit dem Staatssekretariat für Wirtschaft (SECO). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Siehe Fussnote zu Art. 1 a Abs. 2. SR 930.11"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Konformitätserklärung",
+      "content": "1 Wer Sprengmittel auf dem Markt bereitstellt, muss eine Konformitätserklärung vorlegen können, aus der hervorgeht, dass die Sprengmittel den grundlegenden Anforderungen nach Anhang II der Richtlinie 2014/28/EU entsprechen. 2 Die Konformitätserklärung muss in einer schweizerischen Amtssprache oder in Englisch abgefasst sein und folgende Angaben enthalten: a. Namen oder Identifikationszeichen und Adresse des Herstellers sowie Namen und Adresse des Importeurs; b. eine vollständige Beschreibung der Sprengmittel mit Identifizierungsdaten einschliesslich Identifikationsnummer der Vereinten Nationen; c. die angewandten technischen Vorschriften, Normen oder anderen Spezifikationen; d. gegebenenfalls die Übereinstimmung mit der Baumusterprüfbescheinigung im Sinne von Artikel 14 Buchstabe a; e. Namen und Adresse der Person, welche die Konformitätserklärung für den Hersteller oder Importeur unterzeichnet. 3 Fallen die Sprengmittel unter mehrere Regelungen, die eine Konformitätserklärung verlangen, so kann eine einzige Erklärung ausgestellt werden. 4 Die Konformitätserklärung muss während zehn Jahren ab dem Inverkehrbringen des Produkts vorgelegt werden können. Siehe Fussnote zu Art. 1 a Abs. 2. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Enthalten in Anlage A des Europäischen Übereink. vom 30. Sept. 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR – SR 0.741.621 ). Die Anlage A des ADR wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Erfüllung der Anforderungen",
+      "content": "1 Der Nachweis der Konformität mit den grundlegenden Anforderungen nach Anhang II der Richtlinie 2014/28/EU gilt als erbracht, wenn die Sprengmittel von einer Konformitätsbewertungsstelle nach Artikel 15 als konform bescheinigt worden sind. 2 Werden Sprengmittel nach Massgabe der technischen Normen im Sinne von Artikel 10 hergestellt, so wird vermutet, dass sie den grundlegenden Anforderungen entsprechen. 3 Stimmen die Sprengmittel nicht oder nur teilweise mit den technischen Normen überein, ist nachzuweisen, dass die grundlegenden Anforderungen auf andere Weise eingehalten werden. 4 Hersteller und Importeure müssen den Bewilligungs- und Vollzugsbehörden auf Verlangen technische Unterlagen vorlegen können, die es erlauben, die Einhaltung der grundlegenden Anforderungen zu überprüfen. 5 Die Tatsache der Konformität entbindet nicht von der Verpflichtung, die erforderlichen Bewilligungen zur Herstellung, Einfuhr oder Ausfuhr einzuholen. Auf Verlangen der Bewilligungsbehörde muss die Konformitätsbescheinigung einer Konformitätsbewertungsstelle (Art. 15) vorgelegt werden können. Siehe Fussnote zu Art. 1 a Abs. 2. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Technische Unterlagen",
+      "content": "1 Die technischen Unterlagen müssen in einer schweizerischen Amtssprache oder in Englisch abgefasst sein und folgende Angaben enthalten: a. eine allgemeine Beschreibung des Produktetyps bzw. des Baumusters; b. Entwürfe, Fertigungszeichnungen und -pläne von Bauteilen, Baugruppen, Schaltkreisen usw.; c. Beschreibungen und Erläuterungen, die zum Verständnis der genannten Zeichnungen und Pläne sowie der Funktionsweise des Produkts erforderlich sind; d. eine Liste der nach Artikel 10 bezeichneten, ganz oder teilweise angewandten Normen sowie eine Beschreibung der zur Erfüllung der grundlegenden Anforderungen gewählten Lösungen, soweit diese Normen nicht angewandt worden sind; e. die Ergebnisse der Konstruktionsberechnungen, Prüfungen usw.; f. Prüfberichte. 2 Die Verwendung einer anderen Sprache ist zulässig, wenn die zur Beurteilung der Unterlagen angeforderten Auskünfte in einer schweizerischen Amtssprache oder in Englisch erteilt werden. 3 Die technischen Unterlagen sind mindestens zehn Jahre nach Herstellung des letzten Produktes aufzubewahren."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Konformitätsbewertungsverfahren",
+      "content": "Für den Nachweis der Konformität der Sprengmittel mit den grundlegenden Anforderungen muss eines der folgenden Verfahren nach Anhang III der Richtlinie 2014/28/EU durchgeführt werden: a. die EU-Baumusterprüfung (Modul B) in Verbindung mit einem der folgenden Verfahren: 1. Konformität mit der Bauart auf der Grundlage einer internen Fertigungskontrolle mit überwachten Produktprüfungen in unregelmässigen Abständen (Modul C2), 2. Konformität mit der Bauart auf der Grundlage einer Qualitätssicherung bezogen auf den Produktionsprozess (Modul D), 3. Konformität mit der Bauart auf der Grundlage der Qualitätssicherung bezogen auf das Produkt (Modul E), 4. Konformität mit der Bauart auf der Grundlage einer Produktprüfung (Modul F); oder b. Konformität auf der Grundlage einer Einzelprüfung (Modul G). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Siehe Fussnote zu Art. 1 a Abs. 2."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Prüf- und Konformitätsbewertungsstellen",
+      "content": "1 Prüf- oder Konformitätsbewertungsstellen, die Berichte oder Bescheinigungen auf Grund der Verfahren nach Artikel 14 ausstellen, müssen: a. nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996 akkreditiert; b. von der Schweiz im Rahmen von internationalen Übereinkommen anerkannt; oder c. durch das Bundesrecht anderweitig ermächtigt sein. 2 Wer sich auf die Unterlagen einer anderen als der in Absatz 1 erwähnten Stellen beruft, muss glaubhaft darlegen, dass die angewandten Verfahren und die Qualifikation dieser Stelle den schweizerischen Anforderungen nach Massgabe von Artikel 18 THG genügen. SR 946.512"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Nachträgliche Kontrolle",
+      "content": "1 Die ZSE kontrolliert stichprobenweise, ob die auf dem Markt bereitgestellten Sprengmittel den Konformitätsanforderungen nach dieser Verordnung entsprechen. Zu diesem Zweck arbeitet sie mit den kantonalen Vollzugsorganen zusammen und kann geeignete Fachinstanzen beiziehen. 2 Die kantonalen Vollzugsorgane erstatten der ZSE unverzüglich Meldung, wenn sie auf nicht konforme Sprengmittel stossen. 3 Zur Überprüfung der Konformität sind die Kontrollorgane befugt, während der üblichen Arbeitszeit unangemeldet Betriebs- und Lagerräume zu betreten und zu besichtigen, Unterlagen einzusehen, Auskünfte einzuholen, Prüfungen zu veranlassen sowie Proben zu fordern oder zu entnehmen. 4 Die ZSE kann vom Bundesamt für Zoll und Grenzsicherheit für eine festgesetzte Dauer Meldungen über die Einfuhr von Sprengmittelsendungen verlangen. Sie muss die Sendungen genau bezeichnen. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ( SR 170.512.1 ) auf den 1. Jan. 2022 angepasst ( AS 2021 589 )."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "",
+      "content": "1 Gelangt die ZSE aufgrund der ihr zugegangenen Erkenntnisse zum Ergebnis, dass auf dem Markt bereitgestellte Sprengmittel den Konformitätsanforderungen nach dieser Verordnung nicht entsprechen, so weist sie den Hersteller oder Importeur an, die Sprengmittel in Einklang mit den Vorschriften zu bringen, unter der Androhung, dass sie andernfalls aus dem Verkehr zu gezogen würden. 2 Können nicht konforme Sprengmittel bei bestimmungsgemässer Verwendung Leben oder Gut gefährden, trifft die ZSE die gebotenen Massnahmen, um die fraglichen Sprengmittel sicherzustellen, aus dem Verkehr zu ziehen und ihr weiteres Inverkehrbringen zu unterbinden. 3 Die ZSE ist zuständig für die Gewährung der internationalen Amtshilfe. Sie informiert insbesondere die Europäische Kommission und die Mitgliedstaaten der EU über die gestützt auf diesen Artikel getroffenen Massnahmen. Es gelten die Einschränkungen nach Artikel 22 THG. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Identifikationsmarkierung",
+      "content": "1 Der Sprengstoff muss eine homogen verteilte Markiersubstanz enthalten, über die sich seine Herkunft und der Herstellungszeitraum auch nach der Explosion sicher feststellen lässt. 2 Die Markiersubstanz und deren mengenmässiger Anteil im Sprengstoff bedürfen der Genehmigung der ZSE. 3 Die ZSE legt den Markiermodus fest, führt Kontrollen durch und trägt geänderten Verhältnissen Rechnung."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Markierung zum Zwecke des Aufspürens",
+      "content": "Sprengstoffen im Sinne des internationalen Übereinkommens vom 1. März 1991 über die Markierung von Plastiksprengstoffen zum Zweck des Aufspürens muss Markierungsstoff mindestens in der dort vorgeschriebenen Konzentration homogen beigemischt sein."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Kennzeichnung von Sicherheitsanzünd- und Sprengschnüren",
+      "content": "1 Sicherheitsanzünd- und Sprengschnüre sind auf der ganzen Länge mit einem Kennzeichen zu versehen, das über den Hersteller sowie über Ort, Jahr und Monat der Herstellung Auskunft gibt. 2 Das Kennzeichen der Sicherheitsanzündschnüre muss auch nach der Verwendung erhalten bleiben. 3 Das Kennzeichen muss zudem die Anforderungen nach Anhang 14 erfüllen. Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "",
+      "content": "1 Versandpackungen von Sprengmitteln müssen den Vorschriften des Europäischen bereinkommens vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR) entsprechen und gekennzeichnet sein. Sie müssen zudem die Angaben nach Artikel 19 Absatz 3 SprstG und nach Anhang 14 aufweisen. 2 Zusätzlich zu den Angaben nach Absatz 1 muss jede weitere Verpackungseinheit mindestens folgende Angaben und Bezeichnungen aufweisen: a. bei Sprengstoffen den allfälligen Anteil Nitroglyzerin oder Nitroglykol und die kritische Gefriergrenze; b. bei Sprengzündern die Kenndaten, aus denen die wesentlichen Eigenschaften hervorgehen; c. bei Sprengverzögerern die mittlere Verzögerungszeit in Millisekunden; d. bei Sicherheitsanzündschnüren die Brenndauer in s/m. 3 Auf Sprengstoffpatronen müssen der Sprengstoffname und der Hersteller sowie Ort, Jahr und Monat der Herstellung aufgeführt sein. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). SR 0.741.621 Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Sprengzünder",
+      "content": "1 Sprengzünder müssen so beschaffen sein, dass eine ungewollte Auslösung durch Streuströme, elektrostatische oder induktive Belastung ausgeschlossen ist. 2 An Verbraucherinnen und Verbraucher dürfen grundsätzlich nur elektrische Sprengzünder abgegeben werden, die den Anforderungen für elektrische Brückensprengzünder nach dem Anhang 3 entsprechen oder mindestens die gleiche Sicherheit bieten. Für andere elektrische Sprengzünder bedarf es einer schriftlichen Bewilligung der Schweizerischen Unfallversicherungsanstalt (SUVA)."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Kennzeichnung der Sprengzünder und Sprengkapseln",
+      "content": "1 Die Zünderdrähte elektrischer Sprengzünder müssen verschiedenfarbig isoliert sein. Bei elektrischen Brückensprengzündern, die den Anforderungen nach Anhang 3 entsprechen, muss einer dieser Drähte blau isoliert sein. 2 Bei Sprengzündern muss auf der Hülse das Herstellerzeichen und die Zeitstufe angebracht werden. An der Zünderleitung muss zudem das Verzögerungsintervall beziehungsweise die Gesamtverzögerung ersichtlich sein. Ist die Zeitstufe oder das Verzögerungsintervall beziehungsweise die Gesamtverzögerung nicht definiert, so ist die Zündleitung entsprechend zu kennzeichnen. 3 Bei Sprengkapseln muss auf der Hülse das Herstellerzeichen angebracht werden. 4 Die Kennzeichnung von Sprengzündern und Sprengkapseln muss zudem die Anforderungen an die technischen Normen nach Anhang 14 erfüllen. Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "2. Kapitel: Pyrotechnische Gegenstände",
+      "section": "24",
+      "title": "",
+      "content": "1 Pyrotechnische Gegenstände dürfen auf dem Markt bereitgestellt werden, wenn sie: a. den grundlegenden Sicherheitsanforderungen nach Anhang I der Richtlinie 2013/29/EU entsprechen; b. einer der Kategorien nach den Artikeln 6 und 7 angehören; c. die Anforderungen von Artikel 26 erfüllen. 2 Feuerwerkskörper der Kategorien F1–F3 müssen zusätzlich mit einer CH-Identifikationsnummer versehen sein. Wurde keine solche Nummer zugewiesen, so muss sie bei der ZSE beantragt werden. 3 Die Bestimmungen dieses Kapitels gelten nicht für: a. pyrotechnische Gegenstände, die in geringen Mengen für Wissenschaft, Forschung oder Entwicklung oder für Prüfungen verwendet werden; b. pyrotechnische Gegenstände, die für den Umgang bei der Polizei oder der Armee oder bei den eidgenössischen und kantonalen Militärverwaltungen oder ihren Betrieben bestimmt sind. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Siehe Fussnote zu Art. 1 a Abs. 2. Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 353 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "2. Kapitel: Pyrotechnische Gegenstände",
+      "section": "25",
+      "title": "Technische Normen",
+      "content": "Die Bezeichnung der technischen Normen, die geeignet sind, die grundlegenden Anforderungen nach Anhang I der Richtlinie 2013/29/EU zu konkretisieren, richtet sich nach Artikel 6 des Bundesgesetzes vom 12. Juni 2009 über die Produktesicherheit. Die ZSE bezeichnet die Normen im Einvernehmen mit dem SECO. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Siehe Fussnote zu Art. 1 a Abs. 2. SR 930.11"
+    },
+    {
+      "provision_ref": "art25a",
+      "chapter": "2. Kapitel: Pyrotechnische Gegenstände",
+      "section": "25a",
+      "title": "a Konformitätsbewertungsverfahren",
+      "content": "Für den Nachweis der Konformität pyrotechnischer Gegenstände mit den grundlegenden Anforderungen muss eines der folgenden Verfahren nach Anhang II der Richtlinie 2013/29/EU durchgeführt werden: a. die EU-Baumusterprüfung (Modul B) in Verbindung mit einem der folgenden Verfahren: 1. Konformität mit der Bauart auf der Grundlage einer internen Fertigungskontrolle mit überwachten Produktprüfungen in unregelmässigen Abständen (Modul C2), 2. Konformität mit der Bauart auf der Grundlage einer Qualitätssicherung bezogen auf den Produktionsprozess (Modul D), 3. Konformität mit der Bauart auf der Grundlage der Qualitätssicherung bezogen auf das Produkt (Modul E); b. Konformität auf der Grundlage einer Einzelprüfung (Modul G); oder c. Konformität auf der Grundlage einer umfassenden Qualitätssicherung (Modul H), soweit es Feuerwerkskörper der Kategorie F4 betrifft. Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Siehe Fussnote zu Art. 1 a Abs. 2."
+    },
+    {
+      "provision_ref": "art25b",
+      "section": "25b",
+      "title": "b Weitere anwendbare Bestimmungen",
+      "content": "Die Artikel 11–13 und 15–17 gelten sinngemäss. Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Verpackung, Angaben und Bezeichnungen",
+      "content": "1 Versandpackungen von pyrotechnischen Gegenständen müssen den Vorschriften des ADR entsprechen und gekennzeichnet sein. 2 Auf der kleinsten für den Verkauf bestimmten Verpackungseinheit (Einzel- oder Sortimentverpackung) und wenn möglich auf jedem pyrotechnischen Gegenstand sind mindestens anzugeben: a. die Bezeichnung, der Typ und die Kategorie des Gegenstandes sowie die Altersbeschränkung; b. die Gebrauchanweisung und gegebenenfalls der minimale Sicherheitsabstand; c. der Name und die Adresse des Herstellers oder, wenn der Hersteller nicht im Europäischen Wirtschaftsraum niedergelassen ist, des Importeurs; d. das Herstellungsjahr; e. das Bruttogewicht und die Nettomenge an aktivem Explosivstoff; f. die entsprechenden Angaben nach Anhang 2; g. bei pyrotechnischen Gegenständen zu gewerblichen Zwecken: der Verwendungszweck und das vom Hersteller festgelegte Verfalldatum; h. bei Feuerwerkskörpern der Kategorien F1–F3: die von ZSE zugewiesene CH-Identifikationsnummer. 3 Die Angaben müssen in übersichtlicher Form in den drei Amtssprachen aufgeführt werden. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). SR 0.741.621"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "1. Kapitel: Herstellung und Einfuhr",
+      "section": "27",
+      "title": "Bewilligung",
+      "content": "1 Bewilligungen zur Herstellung von Sprengmitteln, von pyrotechnischen Gegenständen sowie von Schiesspulver werden von der ZSE erteilt. 2 Einer Bewilligung zur Herstellung bedarf auch, wer die Mittel oder Gegenstände erst auf der Verwendungsstelle anfertigt. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "1. Kapitel: Herstellung und Einfuhr",
+      "section": "28",
+      "title": "Gesuch um Herstellungsbewilligung",
+      "content": "1 Im Gesuch um eine Herstellungsbewilligung sind anzugeben: a. Art der geplanten Produkte und voraussichtliche jährliche Produktionsmengen; b. Anordnung und Bauart von Betriebs- und Lagergebäuden sowie deren Abstände zu öffentlichen Verkehrswegen, Wohngebäuden und anderen schutzbedürftigen Bauten; für Neubauten sind Pläne und Beschreibung beizulegen; c. Rechtsform und Leitung des Unternehmens. 2 Für Sprengmittel muss das Gesuch zudem enthalten: a. eine vollständige Beschreibung mit Identifizierungsdaten einschliesslich der Identifikationsnummer der Vereinten Nationen; b. gegebenenfalls die Konformitätsbescheinigung. Enthalten in Anlage A des Europäischen Übereink. vom 30. Sept. 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR – SR 0.741.621 ). Die Anlage A des ADR wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "1. Kapitel: Herstellung und Einfuhr",
+      "section": "29",
+      "title": "Bewilligung zur Herstellung neuer Produkte",
+      "content": "1 Wer als Inhaber einer Herstellungsbewilligung noch nicht bewilligte Produkte herstellen will, muss dafür ein neues Gesuch stellen. 2 Im Gesuch sind die Angaben nach Artikel 28 zu machen. Zu Anordnung und Bauart der Betriebs- und Lagergebäude und zu Rechtsform und Leitung des Unternehmens sind nur die Änderungen aufzuführen, die seit der Erteilung der letzten Bewilligung eingetreten sind."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "1. Kapitel: Herstellung und Einfuhr",
+      "section": "30",
+      "title": "Ausnahmebewilligungen",
+      "content": "In begründeten Einzelfällen kann die ZSE für die Herstellung von Produkten, die den Anforderungen der Artikel 8–25 nicht entsprechen, eine Ausnahmebewilligung erteilen, wenn die Sicherheit auf andere Weise gewährleistet ist."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "1. Kapitel: Herstellung und Einfuhr",
+      "section": "31",
+      "title": "Einfuhrbewilligung",
+      "content": "1 Bewilligungen zur Einfuhr von Sprengmitteln, von pyrotechnischen Gegenständen sowie von Schiesspulver werden von der ZSE erteilt. 2 Ohne Bewilligung eingeführt werden dürfen: a. im Reiseverkehr Feuerwerkskörper der Kategorien F1– F3, ausgenommen am Boden knallende Feuerwerkskörper, mit einem Bruttogesamtgewicht von höchstens 2,5 kg; b. pyrotechnische Gegenstände, die in Produkte verbaut sind, die ihrerseits einer anerkannten Prüfungspflicht unterliegen. 3 Dem Kanton, in dem sich die geschäftliche Niederlassung des Importeurs befindet, ist eine Kopie der Einfuhrbewilligung zuzustellen. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Gesuch um Einfuhrbewilligung",
+      "content": "1 Im Gesuch um Einfuhrbewilligung sind anzugeben: a. Art und Menge der Produkte; b. Name und Adresse des Herstellers, gegebenenfalls mit dessen Identifikationszeichen; c. Name und Adresse des Importeurs; d. Bestimmungslager in der Schweiz; e. Transportart. 2 Dem Gesuch beizulegen sind: a. eine vollständige Beschreibung mit Identifizierungsdaten einschliesslich der Identifikationsnummer der Vereinten Nationen; b. die Konformitätserklärung, gegebenenfalls die Konformitätsbescheinigung; 3 Für Sprengmittel sind zusätzlich der Code der Markiersubstanz nach Artikel 18 anzugeben. 4 Für pyrotechnische Gegenstände der Kategorien F1–F3 ist zusätzlich die CH-Identifikationsnummer anzugeben. Ist diese noch nicht zugewiesen worden, ist eine Originaletikette beizulegen. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Enthalten in Anlage A des ADR ( SR 0.741.621 ). Diese wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern bezogen werden."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Ausnahmebewilligungen",
+      "content": "Artikel 30 gilt auch für die Einfuhr."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ( AS 2002 347 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "2. Kapitel: Verkauf",
+      "section": "35",
+      "title": "Verkaufsbewilligung",
+      "content": "1 Die Bewilligung zum Verkauf von Produkten im Sinne von Artikel 27 Absatz 1 im Inland setzt voraus, dass der Verkäufer und die für ihn handelnden Personen: a. handlungsfähig und vertrauenswürdig sind; und b. genügende Erfahrung und ausreichende technische und rechtliche Kenntnisse im Umgang mit explosionsgefährlichen Stoffen haben. 2 Der Verkäufer muss zudem in der Schweiz Wohnsitz haben oder, wenn es sich um ein Unternehmen handelt, im Handelsregister eingetragen sein. 3 Wer eine Herstellungsbewilligung hat, braucht für den Verkauf der hergestellten Produkte im Inland keine zusätzliche Bewilligung. 4 Die Verkaufsbewilligung kann inhaltlich beschränkt werden."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "2. Kapitel: Verkauf",
+      "section": "36",
+      "title": "Zuständige Behörde",
+      "content": "1 Ein Verkäuferlager gilt als geschäftliche Niederlassung im Sinne von Artikel 10 Absatz 2 SprstG. Bei Niederlassungen in mehreren Kantonen holt der Kanton, der die Bewilligung erteilt, die Zustimmung der anderen Kantone ein. Stimmt ein Kanton nicht zu, so wird die Bewilligung nicht erteilt oder entsprechend beschränkt. 2 Nach Erteilung der Bewilligung informiert der Kanton die ZSE mittels einer Kopie. Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "2. Kapitel: Verkauf",
+      "section": "37",
+      "title": "",
+      "content": "Aufgehoben durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, mit Wirkung seit 1. Jan. 2023 ( AS 2022 353 )."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "2. Kapitel: Verkauf",
+      "section": "38",
+      "title": "Sprengmittellager der Verkäufer",
+      "content": "Das Eidgenössische Justiz- und Polizeidepartement bestimmt nach Anhören der Kantone, wie viele Sprengmittellager errichtet werden dürfen und wie diese regional zu verteilen sind."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "3. Kapitel: Gemeinsame Bewilligungsbestimmungen",
+      "section": "39",
+      "title": "Abklärungen",
+      "content": "1 Zur Prüfung von Gesuchen können Fachinstanzen beigezogen und Muster von Ware und Verpackung verlangt werden. 2 Die ZSE kann zur Beurteilung der Übereinstimmung der Produkte mit den Anforderungen nach den Artikeln 8–25 b von den Gesuchstellern weitere Informationen und technische Unterlagen einfordern. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "3. Kapitel: Gemeinsame Bewilligungsbestimmungen",
+      "section": "40",
+      "title": "Befristung, Auflagen und übertragbarkeit",
+      "content": "1 Die Bewilligungen können befristet und mit Auflagen verbunden werden. 2 Sie sind nicht übertragbar."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "3. Kapitel: Gemeinsame Bewilligungsbestimmungen",
+      "section": "41",
+      "title": "Widerruf und Entzug",
+      "content": "1 Die Bewilligung wird widerrufen, wenn sie durch falsche Angaben erwirkt worden ist oder die Voraussetzungen für ihre Erteilung nicht mehr erfüllt sind. 2 Sie kann dauernd oder vorübergehend entzogen werden, wenn ihr Inhaber oder eine für ihn handelnde Person wegen grober Verletzung von Schutz- oder Sicherheitsvorschriften bestraft worden ist."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "3. Kapitel: Gemeinsame Bewilligungsbestimmungen",
+      "section": "42",
+      "title": "Erlöschen der Bewilligung",
+      "content": "Die Bewilligung erlischt, wenn: a. sie während eines Jahres nicht benützt wird; b. keine für die bewilligte Tätigkeit verantwortliche Person mehr vorhanden ist; c. das Unternehmen aufgelöst wird oder den Besitzer wechselt."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "3. Kapitel: Gemeinsame Bewilligungsbestimmungen",
+      "section": "43",
+      "title": "Sicherstellung der Produkte bei Wegfall der Bewilligung",
+      "content": "Fällt die Bewilligung weg, so stellt die zuständige Behörde die Produkte sicher und entscheidet, was damit zu geschehen hat."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "3. Kapitel: Gemeinsame Bewilligungsbestimmungen",
+      "section": "44",
+      "title": "Amtsgeheimnis",
+      "content": "Die Angaben in den Gesuchen unterliegen dem Amtsgeheimnis."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "4. Kapitel: Erwerb",
+      "section": "45",
+      "title": "Erwerbsschein für Sprengmittel",
+      "content": "1 Wer einen Erwerbsschein für Sprengmittel erhalten will, hat die in Anhang 4 vorgesehenen Angaben zu machen und mit seiner Unterschrift zu bestätigen. Das Gesuch um einen Erwerbsschein ist bei der vom Kanton bezeichneten Behörde einzureichen. 2 Der Erwerbsschein enthält alle für seine Erteilung erforderlichen Angaben. 3 Der Erwerbsschein ist ein Jahr gültig. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "4. Kapitel: Erwerb",
+      "section": "46",
+      "title": "Besondere Bestimmungen für Kleinverbraucher",
+      "content": "1 Kleinverbraucher ist, wer in drei Monaten höchstens 25 kg Sprengstoff und 100 Sprengkapseln oder Sprengzünder bezieht. Er muss die Sprengmittel vorschriftsgemäss aufbewahren können. 2 Im Erwerbsschein werden ihm die voraussichtlich benötigten Sprengmittel, höchstens aber die Menge nach Absatz 1 bewilligt. 3 Der Erwerbsschein für Kleinverbraucher ist drei Monate gültig."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "4. Kapitel: Erwerb",
+      "section": "47",
+      "title": "Erwerbsschein für pyrotechnische Gegenstände",
+      "content": "1 Ein Erwerbsschein ist für den Erwerb von pyrotechnischen Gegenständen der Kategorien T2, P2 und F4 erforderlich. 2 Wer einen Erwerbsschein für pyrotechnische Gegenstände erhalten will, hat die in Anhang 4 vorgesehenen Angaben zu machen und mit seiner Unterschrift zu bestätigen. Das Gesuch ist bei der vom Kanton bezeichneten Behörde einzureichen. 3 Der Erwerbsschein muss alle für seine Erteilung erforderlichen Angaben enthalten. 4 Der Erwerbsschein ist höchstens ein Jahr gültig. 5 Liegt eine vom Kanton oder von der Gemeinde ausgestellte und diesem Artikel entsprechende Bewilligung zum Abbrennen (Abbrandbewilligung) von pyrotechnischen Gegenständen der Kategorien T2 und F4 vor, so ist für eine Verwendung im Rahmen dieser Bewilligung kein Erwerbsschein nötig. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "4. Kapitel: Erwerb",
+      "section": "48",
+      "title": "Ausstellung",
+      "content": "1 Der Erwerbsschein wird von der Behörde in einem Original und mindestens zwei Kopien ausgestellt. 2 Sollen die bewilligten Sprengmittel in andern Kantonen verwendet werden, so ist diesen auch eine Kopie zuzustellen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "4. Kapitel: Erwerb",
+      "section": "49",
+      "title": "Widerruf des Erwerbsscheins",
+      "content": "1 Der Erwerbsschein wird widerrufen, wenn er durch falsche Angaben erwirkt worden ist oder die Voraussetzungen für seine Abgabe nicht mehr erfüllt sind. 2 Die zuständige Behörde stellt bei einem Widerruf die Sprengmittel und pyrotechnischen Gegenstände sicher und entscheidet, was damit zu geschehen hat."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "4. Kapitel: Erwerb",
+      "section": "50",
+      "title": "Bezug der Produkte",
+      "content": "1 Der Empfänger hat sich vor Abgabe der Produkte über seine Befugnis auszuweisen, die Ware für den laut Erwerbsschein Berechtigten zu beziehen. 2 Die im Erwerbsschein bewilligten Sprengmittel oder pyrotechnischen Gegenstände sind unter Abgabe des Originals beim gleichen Verkäufer zu beziehen. 3 Sie können sukzessive bezogen werden."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "5. Kapitel: Ausweis",
+      "section": "51",
+      "title": "Grundsätze",
+      "content": "1 In den Ausweis wird eingetragen, zu welchen Arbeiten dessen Inhaber berechtigt ist. 2 Die Berechtigungen werden auf Grund einer Prüfung erteilt."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "5. Kapitel: Ausweis",
+      "section": "52",
+      "title": "",
+      "content": "1 Der Eintrag A berechtigt, allgemeine Sprengarbeiten mit geringem Schadenrisiko unter folgenden Einschränkungen selbstständig auszuführen: a. Je Sprengung dürfen höchstens 5 kg Sprengstoff verwendet werden. b. Bei pyrotechnischer Zündung ist je Sprengung maximal eine Sicherheitsanzündschnur erlaubt. 2 Der Eintrag B berechtigt, allgemeine Sprengarbeiten mit erhöhtem Schadenrisiko unter folgenden Einschränkungen selbstständig auszuführen: a. mit bis zu 25 kg Sprengstoff je Sprengung selbstständig; b. mit grösserer Sprengstoffmenge nach den erforderlichen schriftlichen Anweisungen (Sprengplan usw.) einer Person mit dem Eintrag C und unter deren fachkundiger Überwachung. 3 Der Eintrag C berechtigt: a. allgemeine Sprengarbeiten mit erhöhtem Schadenrisiko selbstständig zu planen und auszuführen; b. allgemeine Sprengarbeiten mit hohem Schadenrisiko nach den schriftlichen Anweisungen (Projektunterlagen usw.) ausgewiesener Fachpersonen zu planen und unter deren projektbezogenen Überwachung auszuführen. 4 Der Eintrag für besondere Sprengarbeiten berechtigt zur Ausführung der entsprechenden Sprengarbeit. Unter Vorbehalt von Absatz 5 setzt die Berechtigung einen Eintrag A, B oder C voraus und richtet sich bezüglich des zulässigen Schadenrisikos nach diesen Einträgen. 5 Die Berechtigung für das Lawinensprengen setzt keinen anderen Eintrag voraus. 6 Der Verwendungsausweis für pyrotechnische Gegenstände berechtigt zur selbstständigen Verwendung der bezeichneten pyrotechnischen Gegenstände der Kategorien T2, P2 und F4. 6bis Für die Verwendung eines pyrotechnischen Gegenstands der Kategorie P2 bedarf es keines Verwendungsausweises, wenn es sich um ein gebrauchsfertiges Produkt handelt. 7 Keinen Ausweis für pyrotechnische Gegenstände benötigen Personen, die: a. in der Automobil- oder Luftfahrtindustrie tätig sind und im Rahmen ihrer beruflichen Tätigkeit pyrotechnische Gegenstände der Kategorie P2 einbauen, bearbeiten, instand setzen oder ausbauen; und b. aufgrund ihrer beruflichen Ausbildung die notwendigen Fachkenntnisse haben. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ( AS 2002 347 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Eingefügt durch Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ( AS 2017 2627 ). Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Begriffe",
+      "content": "1 Allgemeine Sprengarbeiten erfordern allgemeine Sprengkenntnisse. Als allgemeine Sprengarbeiten gelten Sprengungen wie Graben-, Abtrags-, Einzelstein-, Holz- und Wurzelstocksprengungen. 2 Besondere Sprengarbeiten erfordern spezifische Fachkenntnisse. Als besondere Sprengarbeiten gelten Sprengungen wie Lawinen-, Bauwerk- und Unterwassersprengungen oder das Vernichten grösserer Mengen Sprengmittel. 3 Das Schadenrisiko wird in die Bereiche «gering» «erhöht» und «hoch» aufgeteilt. Die Grenzen der Bereiche werden in Form eines Planungsbehelfs vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) festgelegt. Dieser berücksichtigt dabei die Anforderungen an die Ausbildung für die einzelnen Berechtigungen. 4 Eine Sprengung umfasst das gleichzeitige oder verzögerte Zünden einer oder mehrerer Ladungen. 5 Als ausgewiesene Fachperson gilt, wer auf Grund eines überdurchschnittlichen, besonderen Wissens und Könnens sowie auf Grund eigener Erfahrung ein hohes Risiko beurteilen und seinen Projektteil einer Sprengung entsprechend planen kann. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Ausbildung",
+      "content": "Die für die Prüfungen erforderlichen theoretischen und praktischen Kenntnisse können durch Kurse vermittelt werden."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Zulassung zu Ausbildungskursen und Prüfungen",
+      "content": "1 Zu den Kursen und den Prüfungen wird zugelassen, wer: a. mündig ist; b. eine Zuverlässigkeitsbescheinigung der Polizei seines Wohnortes beibringt, die zur Annahme berechtigt, dass er Gewähr für eine zulässige und fachgemässe Verwendung der Sprengmittel oder pyrotechnischen Gegenstände bietet. 2 Die Zulassung kann vom Nachweis einer praktischen Tätigkeit, eines Studiums oder eines Lehrabschlusses in einem bestimmten Beruf abhängig gemacht werden."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Prüfungen",
+      "content": "1 Jede Prüfung ist auf nur eine Berechtigung ausgerichtet. 2 Geprüft werden: a. die Kenntnis der gesetzlichen Vorschriften; b. die Kenntnis der gebräuchlichen Sprengmittel oder pyrotechnischen Gegenstände und der Hilfsmittel sowie deren Handhabung und Anwendung."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Abgabe des Ausweises",
+      "content": "1 Wer die Prüfung bestanden hat, erhält ein Zeugnis und den Ausweis. 2 Der Ausweis wird vom SBFI ausgestellt. Er ist von der Präsidentin oder vom Präsidenten eines Kreises der Prüfungskommission und von einer Vertreterin oder einem Vertreter des SBFI unterzeichnet. 3 … Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Aufgehoben durch Ziff. I der V vom 12. Mai 2010, mit Wirkung seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art57a",
+      "section": "57a",
+      "title": "a Ausweisregister",
+      "content": "1 Das SBFI führt ein Verzeichnis der abgegebenen Ausweise mit folgenden Daten: a. Name; b. Vorname; c. Geburtsdatum; d. Heimatort; e. AHV-Nummer; f. Prüfungsdatum; g. Art des Ausweises. 2 Die folgenden Stellen können zur Wahrnehmung ihrer gesetzlichen Aufgaben das Ausweisverzeichnis online einsehen: a. die ZSE; b. die Fachstellen der Kantone. 3 Die Daten werden nach dem 99. Altersjahr der Ausweisinhaberin oder des Ausweisinhabers gelöscht. Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Geltungsdauer und ergänzende Schulung",
+      "content": "1 Der Ausweis ist unbefristet gültig. 2 Sind mehr als fünf Jahre verstrichen, seitdem der Ausweisinhaber oder die Ausweisinhaberin das letzte Mal eine Berechtigung erlangt oder eine ergänzende Schulung absolviert hat, so hat er oder sie vor der nächsten Verwendung von Sprengmitteln oder pyrotechnischen Gegenständen an einer ergänzenden Schulung teilzunehmen. 3 Das SBFI regelt mittels Weisungen den Inhalt der ergänzenden Schulung. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art58a",
+      "section": "58a",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 27. Jan. 2021 ( AS 2020 1829 )."
+    },
+    {
+      "provision_ref": "art58b",
+      "section": "58b",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 13. Jan. 2021, in Kraft vom 28. Jan. 2021 bis zum 31. Dez. 2022 ( AS 2021 25 )."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Anerkennung anderer Ausweise",
+      "content": "1 Die Prüfungskommission entscheidet im Einzelfall: a. wieweit Ausweise, die nicht Gegenstand dieser Verordnung sind, anerkannt werden; b. ob der Inhaber eines solchen Ausweises eine ergänzende Prüfung ablegen muss. 2 Das SBFI erlässt für die Anerkennung anderer Ausweise Richtlinien. 3 Das Gesuch um Anerkennung ist beim SBFI einzureichen. Ausdruck gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Entzug des Ausweises",
+      "content": "1 Der Wohnortskanton entzieht grundsätzlich den Ausweis, wenn dessen Inhaber wegen grober Missachtung von Schutz- oder Sicherheitsvorschriften verurteilt worden ist oder ein Hinderungsgrund nach Artikel 14 a Absatz 1 SprstG besteht. 2 Er kann den Ausweis entziehen, wenn Anhaltspunkte dafür vorliegen, dass der Inhaber für eine zulässige und fachgemässe Verwendung der Sprengmittel oder pyrotechnischen Gegenstände nicht mehr Gewähr bietet. 3 Der Ausweis wird auf unbestimmte Zeit entzogen. Auf Grund der Umstände, namentlich unter Berücksichtigung des Verschuldens und des bisherigen Verhaltens des Inhabers, kann jedoch die Entzugsbehörde die Dauer des Entzugs beschränken oder an dessen Stelle eine Verwarnung aussprechen. 4 Im Hinblick auf ein allfälliges Entzugsverfahren stellen die Vollzugsorgane den Ausweis sicher. Dieser bleibt bis zum Abschluss des Verfahrens beschlagnahmt. Während dieser Zeit sind die Spreng- und Verwendungsberechtigungen entzogen. 5 Die ZSE gibt der Entzugsbehörde Kenntnis von Strafentscheiden, die zu einem Ausweisentzug führen können. 6 Der Kanton teilt Ausweisentzüge dem SBFI schriftlich und ohne Verzug mit. Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 353 )."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Trägerschaften und Prüfungskommissionen",
+      "content": "1 Trägerschaften der Kurse und Prüfungen können von einem Berufsverband oder interessierten Wirtschaftskreis alleine oder von mehreren gemeinsam gebildet werden. Je Spreng- oder Verwendungsberechtigung im Sinne von Artikel 52 wird gesamtschweizerisch nur eine Trägerschaft gebildet. Für den Vollzug setzt die Trägerschaft eine Prüfungskommission ein. Die Prüfungskommission kann für einzelne Aufgaben Kreise bilden. 2 Bestehen in der betreffenden Berechtigung neben dem sich um die Durchführung der Kurse oder Prüfungen Bewerbenden noch andere Verbände oder Wirtschaftskreise, so sind diese auf Gesuch hin in die Trägerschaft aufzunehmen. Es ist ihnen eine angemessene Vertretung in der Prüfungskommission einzuräumen."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Reglemente",
+      "content": "1 Die Trägerschaften der Kurse und Prüfungen erstellen für die Berechtigung, für die sie zuständig sind, ein Ausbildungs- und ein Prüfungsreglement. 2 Sie regeln darin insbesondere: a. den Ausbildungs-, beziehungsweise den Prüfungsstoff, aufgeteilt in Fächer; b. Art und Dauer der Fächer; c. die Voraussetzungen für die Zulassung zu Kursen und Prüfungen; d. das Anmeldeverfahren; e. die Zusammensetzung der Prüfungskommission."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Genehmigung der Ausbildungs- und der Prüfungsreglemente",
+      "content": "1 Die Trägerschaften reichen die Ausbildungs- und die Prüfungsreglemente dem SBFI zur Genehmigung ein. 2 Entspricht das Reglement den Vorschriften, so gibt das SBFI dessen Einreichung im Bundesblatt bekannt. 3 Gegen das Reglement kann innerhalb von 30 Tagen ab der Bekanntgabe schriftlich beim SBFI Einsprache erhoben werden."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Anpassung der Reglemente und Widerruf der Genehmigung",
+      "content": "1 Das SBFI kann von den Trägerschaften die Anpassung des Reglements verlangen, wenn dies die Entwicklung erfordert, namentlich wenn sich die allgemein anerkannten Regeln der Technik geändert haben. 2 Das SBFI kann die Genehmigung des Reglements widerrufen, wenn die Trägerschaft Kurse oder Prüfungen nicht den Vorschriften entsprechend durchführt. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Ausbildungs- und Prüfungsunterlagen",
+      "content": "1 Die Kursteilnehmer und Prüfungskandidaten erhalten die Ausbildungs- beziehungsweise Prüfungsunterlagen von der zuständigen Prüfungskommission. 2 Die Unterlagen müssen den allgemein anerkannten Regeln der Technik sowie dem Inhalt der Berechtigung der Reglemente entsprechen und von einem entsprechenden Fachausschuss geprüft sein. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "",
+      "content": "1 Die Fachausschüsse sind Ad-hoc-Organe und beraten das SBFI insbesondere in folgenden Bereichen: a. Koordinierung von Ausbildungs- und Prüfungsvorschriften; b. Prüfung der Ausbildungs- und Prüfungsunterlagen; c. Festlegung der besonderen Sprengarbeiten und der Schadenrisikobereiche sowie deren Regelung; d. Zuordnung der Sprengarbeiten und der pyrotechnischen Gegenstände zu den einzelnen Berechtigungen; e. Anerkennung von Ausweisen. 2 Das SBFI entscheidet je nach Aufgabe und Sachgebiet über die Einberufung und Zusammensetzung eines Fachausschusses. Es führt den Vorsitz sowie das Sekretariat. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "",
+      "content": "In den Fällen, da Sprengmittel oder pyrotechnische Gegenstände in geringen Mengen für die Wissenschaft, Forschung oder Entwicklung oder für Prüfungen im Sinne der Artikel 8 Absatz 2 und 24 Absatz 3 dienen, gelten die nachfolgenden Bestimmungen: a. Einfuhrbewilligungen dürfen auch für Sprengmittel, die den Zulassungsbestimmungen der Artikel 8–23 nicht entsprechen, erteilt werden. a bis . Einfuhrbewilligungen dürfen auch für pyrotechnische Gegenstände erteilt werden, die den Bestimmungen nach den Artikeln 24–26 nicht entsprechen. b. Die Ausstellung des Erwerbsscheines darf nicht vom Vorliegen eines Ausweises abhängig gemacht werden. c. Dem Bezüger von Sprengmitteln ist es gestattet, diese ohne zeitliche Beschränkung nach den gültigen Lagervorschriften dieser Verordnung aufzubewahren. d. Der Bezüger unterliegt der Buchführungspflicht, analog derjenigen für Grossverbraucher. e. Für die zweckgebundene Verwendung von Sprengmitteln oder pyrotechnischen Gegenständen bedarf es keines Ausweises. Deren Handhabung ist jedoch nur Personen oder unter Aufsicht von Personen gestattet, die sich über ausreichende technische Kenntnisse im Umgang mit explosionsgefährlichen Stoffen ausweisen können. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "4. Titel: Allgemeine Verhaltensvorschriften",
+      "section": "68",
+      "title": "Massnahmen gegen ungewollte Zündungen",
+      "content": "1 Wer mit Sprengmitteln oder pyrotechnischen Gegenständen umgeht, hat dabei das Rauchen zu unterlassen. 2 Er darf in ihrer Nähe auch kein Feuer oder offenes Licht unterhalten oder dulden. 3 Leicht entzündliche Flüssigkeiten und Stoffe sind von Sprengmitteln und pyrotechnischen Gegenständen fernzuhalten."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "4. Titel: Allgemeine Verhaltensvorschriften",
+      "section": "69",
+      "title": "Massnahmen gegen Vergiftungen",
+      "content": "1 Warnungen der Hersteller auf Verpackungen, Gegenständen und in Gebrauchsanweisungen, dass Sprengmittel oder pyrotechnische Gegenstände giftige Substanzen enthalten oder bei Verwendung giftige Rückstände erzeugen oder hinterlassen, sind unbedingt zu beachten. 2 Giftigen Gasen ist insbesondere in geschlossenen Räumen, Stollen, Schächten und Gräben Rechnung zu tragen. 3 Nicht mehr verwendbare Sprengmittel und pyrotechnische Gegenstände dürfen weder zurückgelassen noch weggeworfen werden. Es sind die Vorschriften von Artikel 26 SprstG und 107 dieser Verordnung zu beachten."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "5. Titel: Herstellung",
+      "section": "70",
+      "title": "",
+      "content": "Bauart, Einrichtung und Betrieb von Anlagen und Gebäuden, in denen Sprengmittel, pyrotechnische Gegenstände oder Schiesspulver hergestellt werden, richten sich nach dem Arbeitsgesetz und den zugehörigen Verordnungen 3 und 4 vom 18. August 1993. SR 822.113 /.114"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "1. Kapitel: Fabrikationsbetriebe",
+      "section": "71",
+      "title": "",
+      "content": "1 Sprengmittellager der Hersteller müssen den baulichen Mindestanforderungen dieser Verordnung entsprechen. Weist der Hersteller, zum Beispiel anhand einer dem Stand der Wissenschaft und der Technik entsprechenden Berechnung und Beurteilung des Risikos, nach, dass die Sicherheit auf andere Weise gewährleistet ist, so kann die nach der Arbeitsgesetzgebung zuständige Plangenehmigungsbehörde geringere als die im Anhang 5 genannten Mindestabstände bewilligen. 2 Sprengmittel, die nicht aus eigener Produktion stammen, dürfen in Herstellerlagern aufbewahrt werden. 3 Bei Inkrafttreten des SprstG bestehende Lager dürfen weiter benutzt werden, wenn: a. Wände und Decken nicht aus Leichtbaustoffen bestehen; b. die Türen mit eingebauten Sicherheitsschlössern versehen sind: c. mangelnde bauliche Sicherheitsmassnahmen gegen Einbruch und Feuer durch ständige Überwachung oder automatische Meldeanlagen ersetzt sind. 4 Bestehende Lager sind den für Verkäufer geltenden Vorschriften dieser Verordnung anzupassen, wenn: a. sie erweitert oder wesentlich verändert werden; b. Angestellte oder Dritte gefährdet sind; oder c. sich die Anpassung zum Schutz von sonstigen erheblichen Gefahren für die öffentliche Sicherheit als notwendig erweist."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "1. Kapitel: Fabrikationsbetriebe",
+      "section": "72",
+      "title": "Herstellerlager für pyrotechnische Gegenstände zu gewerblichen Zwecken",
+      "content": "1 Hersteller pyrotechnischer Gegenstände der Kategorie P2 müssen diese nach den Vorschriften für die Sprengmittellager der Hersteller lagern. 2 Pyrotechnische Gegenstände der Kategorien T1, T2 und P1 dürfen nach den Lagervorschriften für Feuerwerkskörper aufbewahrt werden. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "1. Kapitel: Fabrikationsbetriebe",
+      "section": "73",
+      "title": "Lagerung von Feuerwerkskörpern in Fabrikationsbetrieben",
+      "content": "1 Hersteller von Feuerwerkskörpern haben Fertigfabrikate in eingeschossigen, allein stehenden Bauten zu lagern, die vom gefährlichen Betriebsteil mindestens 15 m und von Nachbargrundstücken mindestens 20 m entfernt sind. Zwischen Lagergebäuden darf der gegenseitige Abstand auf 7,5 m verkürzt werden, sofern die Brandschutzvorschriften der Vereinigung Kantonaler Feuerversicherungen (VKF) eingehalten werden. 2 Türen und Fenster der Lagerräume dürfen nicht auf Türen oder Fenster anderer Gebäude gerichtet sein. 3 Wo die Mindestabstände nicht eingehalten werden können, sind die Lagergebäude mit hinreichend hohen und starken Schutzwällen oder -wänden abzuschirmen. 4 Die Lagerräume müssen aus nicht brennbaren Baustoffen bestehen und ausreichend belüftet sein. Ihre Türen müssen nach aussen aufschlagen. Im Übrigen sind sie nach den für Verkäufer geltenden Vorschriften dieser Verordnung (Art. 87 und 88) einzurichten und zu betreiben. 5 In einem Lagergebäude dürfen bei leichter Bauart brutto höchstens 2000 kg, bei massiver Bauweise mit Erdüberschüttung und/oder Ausblasewand höchstens 5000 kg Feuerwerkskörper aufbewahrt werden. 6 Bei Inkrafttreten des SprstG bestehende Lager sind anzupassen, wenn sie erweitert oder wesentlich verändert werden oder wenn Angestellte oder Dritte gefährdet sind. Der Text dieser Vorschriften kann bestellt werden bei der Vereinigung Kantonaler Feuerversicherungen, Bundesgasse 20, 3001 Bern; www.vkf.ch Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "2. Kapitel: Verkauf, Import und Verbrauch",
+      "section": "74",
+      "title": "Mindestabstände",
+      "content": "1 Beim Bau von Lagern und Magazinen sind die im Anhang 5 vorgeschriebenen Abstände zu öffentlichen Verkehrswegen, Wohngebäuden und andern schutzbedürftigen Bauten einzuhalten. 2 Bei unterirdischer Lagerung oder Aufbewahrung in trockenem und standfestem Fels kann davon abgewichen werden, wenn der Zugangsstollen (L) und die allseitige Überdeckung (R) den Mindestanforderungen nach Anhang 6 genügen und auf dem Gelände über der Kaverne gegenüber Bauten ein Sicherheitsabstand entsprechend der Skizze in Anhang 6 besteht, der mindestens gleich R ist. 3 Gegenüber unterirdischen Einrichtungen, wie Tankanlagen, Rohrleitungen, Kabeln, sind in jedem Fall angemessene Abstände zu wahren. 4 Werden mehrere Lager- oder Magazingebäude errichtet, so muss deren gegenseitiger Abstand mindestens dem Kraterradius (siehe Anhang 7) entsprechen; die Gebäude sind unter sich durch einen Schutzwall zu trennen, der keinen Durchgang haben darf. 5 Können die Distanzen nach den Anhängen 5 und 6 nicht eingehalten werden, so kann die zuständige Bewilligungsbehörde im Einvernehmen mit der ZSE Abweichungen zulassen, sofern die Gesuchstellerin oder der Gesuchsteller, zum Beispiel anhand einer dem Stand der Wissenschaft und der Technik entsprechenden Berechnung und Beurteilung des Risikos, nachweist, dass die Sicherheit von Menschen und fremdem Eigentum auf andere Weise hinreichend gewährleistet ist."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "2. Kapitel: Verkauf, Import und Verbrauch",
+      "section": "75",
+      "title": "Bauliche Mindestanforderungen; Belüftung",
+      "content": "1 Lager- und Magazingebäude dürfen nur eingeschossig ausgeführt werden. Sie dürfen ausser der Eingangstüre und den Lüftungskanälen keine Öffnung aufweisen. 2 Sie müssen belüftet sein. Lüftungskanäle sind Z-förmig und nach innen ansteigend anzulegen. Sie sind aussen und beim bergang zum steigenden Schenkel fest zu vergittern; die äussere ffnung ist zudem mit einer Schutzkappe zu versehen (siehe Anhänge 8.2 und 9.1). 3 Lager aus Stahlbeton müssen mindestens 15 cm starke Aussenwände, Decken und Sohlen sowie 10 cm starke Trennwände aufweisen. 4 Bei Magazinen darf die Betonstärke um 5 cm vermindert werden; die Trennwände können aus anderen feuerwiderständigen Baustoffen von mindestens 4 cm Stärke bestehen. Für Magazine ortsgebundener Betriebe, wie z. B. Kieswerke, Steinbrüche und Zementfabriken gilt Absatz 3. 5 Die im Anhang 8.1 angegebene Betonqualität und Mindestarmierung gilt auch bei unterirdischen oder eingegrabenen Lagern und Magazinen. In standfestem Fels muss nur die Stirnwand aus Stahlbeton bestehen. 6 Lager und Magazine dürfen aus vorfabrizierten Betonelementen erstellt werden, wenn die einzelnen Elemente die vorgeschriebene Qualität, Stärke und Armierung aufweisen und nicht kleiner sind als 2 × 2 m; sie müssen innen miteinander fest verschraubbar sein. 7 Andere Bauarten sind nur zulässig, wenn sie die Sprengmittel gegen Diebstahl, Feuer, Witterungs- und elektrostatische Einflüsse ebenso zu sichern vermögen wie Bauten aus Stahlbeton."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "2. Kapitel: Verkauf, Import und Verbrauch",
+      "section": "76",
+      "title": "Zugänge",
+      "content": "1 Zugänge sind so anzulegen, dass im Explosionsfall mit möglichst geringen Auswirkungen auf die Umgebung zu rechnen ist. 2 Der Durchgang im frei stehenden Schutzwall zu oberirdischen Lagern oder Magazinen ist quer zur Eingangstüre anzubringen (siehe Anhang 9.2). Bei einem an die Aussenwand geschütteten Wall ist vor dem Durchgang ein Vorwall aufzuschütten (siehe Anhang 9.1). 3 Der Eingang zu unterirdischen Lagern oder Magazinen ist auf der von schutzbedürftigen Bauten und Anlagen abgekehrten Seite anzubringen. Wo dies nicht möglich ist, muss vor dem Eingang ein Schutzwall aufgeschüttet werden, der die Aussentüre überragt. 4 Über den Zugangsstollen (L) dürfen Lager und Magazine mit unterirdischen Verkehrswegen oder Arbeitsstellen verbunden werden, wenn der Verbindungsgang durch einen Explosionsverschluss, der dem im Ereignisfall zu erwartenden dynamischen Druck stand hält, gesichert ist (siehe Anhang 6)."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Schutzwall",
+      "content": "1 Lager und Magazine sind mit einem Schutzwall zu umgeben oder einzugraben, wenn sie nicht durch natürliche Geländeerhebungen, die über die Sichtlinie reichen, nach aussen abgeschirmt sind. 2 Ein frei stehender Wall ist nach den Anhängen 5 und 9.2 auszuführen. Innenböschung und Wallkrone, die mindestens 1 m breit sein muss, sind mit einer 30 cm dicken Schutzschicht aus Feinmaterial abzudecken und gleichmässig zu planieren. 3 Ein angeschütteter Wall muss mindestens bis zur Dachkante des Bauwerks reichen und an der Krone mindestens 1 m breit sein (siehe Anhänge 9.1 und 9.2). 4 Krone und Böschungen des Schutzwalls sind nach Möglichkeit zu begrünen."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Türen",
+      "content": "1 Alle Türen von Lager- und Magazingebäuden müssen nach aussen aufschlagen. 2 Die Aussentüren müssen mindestens der Einbruch-Widerstandsklasse 5 nach europäischer Vornorm (ENV) 1627 und der Anforderung EI60 gemäss den Brandschutzvorschriften der VKF entsprechen und vierseitig einen verdeckten Anschlag haben. 3 Innentüren zwischen der Zünderkammer, einem allfälligen Vorraum und dem eigentlichen Sprengstofflager sind je nach ihrer Grösse aus Stahlblech mit 2–4 mm Wandstärke und aus Profilstahl oder aus anderem feuerhemmenden Material von mindestens 4 cm Stärke herzustellen und mit einem Verschlussriegel oder Kastenschloss auszustatten. Der Text dieser Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch. Der Text dieser Vorschriften kann bestellt werden bei der Vereinigung Kantonaler Feuerversicherungen, Bundesgasse 20, 3001 Bern; www.vkf.ch Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Türschliessungen",
+      "content": "1 Die Türe ist mit einem starken 2-Riegel-Stangenschloss zu versehen. Sie kann mit einem innen liegenden Doppelbartschloss, einem nach aussen verlängerten, ausreichend gepanzerten Doppelzylinderschloss oder einem Schloss der neuen Generation mit gleichwertigem Sicherheitsschutz versehen werden. Die Vorrichtung zur Betätigung der Stangen (Riegelantrieb) muss abnehmbar sein oder eine Sollbruchstelle aufweisen. 2 Zum Doppelbartschloss gehört ein Doppelbartschlüssel, der mindestens 9 präzise Zuhaltungen bewegt und einen verlängerten Schaft aufweisen muss. 3 Zum Doppelzylinderschloss gehört ein handelsüblich verlängerter Zylinderschlüssel. Die Zylinderpanzerung ist aussen anzubringen, und deren Schlitz muss so geformt sein, dass der Zylinder nur mit dem verlängerten Zylinderschlüssel bedient werden kann. 4 Die Türschliessung ist aussen mit einer Vorsicherung zu versehen, welche die Schlüsselführung oder die Zylinderpanzerung und den Riegelantrieb des Hauptschlosses abdeckt. Die Schliessvorrichtung der Vorsicherung selbst muss möglichst angriffsicher eingebaut sein. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Elektrische Einrichtungen",
+      "content": "1 Elektrische Einrichtungen sind nach den anerkannten Regeln der Technik für feuergefährdete Räume zu erstellen. Als anerkannte Regeln der Technik gelten insbesondere die Normen von IEC und CENELEC. Wo international harmonisierte Normen fehlen, gelten die schweizerischen Normen. 2 Als Beleuchtung ist nur die elektrische zulässig. 3 Zum Heizen dürfen nur Einrichtungen verwendet werden, welche das Lagergut weder entzünden noch zersetzen können. 4 Alle metallischen Konstruktionsteile der Lager- und Magazingebäude und deren Einrichtungen sind gegen elektrostatische Einflüsse untereinander gut elektrisch leitend zu verbinden und gemeinsam zu erden. Der Blitzschutz ist nach den Leitsätzen des Schweizerischen Elektrotechnischen Vereins (SEV) zu erstellen. International Electrotechnical Commission; der Text dieser Normen kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch. Comité Européen de Normalisation Electrotechnique; der Text dieser Normen kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch. Die Leitsätze können bezogen werden beim Schweizerischen Elektrotechnischen Verein, Luppmenstrasse 1, 8320 Fehraltorf, www.electrosuisse.ch."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Besondere Einrichtungen und Aufschriften",
+      "content": "1 Lager- und Magazingebäude sind mit einsatzbereiten, dem Lagergut angepassten Löschgeräten und mit Thermometern zu versehen. 2 Auf der Innenseite der Aussentüre ist deutlich lesbar anzuzeigen, dass Rauchen und Umgang mit offenem Licht oder Feuer verboten sind und dass Unbefugte keinen Zutritt haben."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Betriebsvorschriften",
+      "content": "1 Lager und Magazine sind abzuschliessen. Die Schlüssel sind an einem sicheren Ort aufzubewahren. 2 Lager- und Magazingebäude dürfen nur Sprengmittel sowie das zum Sprengen notwendige Zubehör enthalten. Es dürfen darin bloss Lagerarbeiten verrichtet werden. 3 Lager- und Magazingebäude dürfen nur von Personen betreten werden, die mit der Handhabung und dem Transport des Lagergutes vertraut sind und damit zu tun haben. 4 In unterirdischen Lagern und Magazinen ist ein allseitiger Minimalabstand von 30 cm zwischen dem Lagergut und Decke/Wänden einzuhalten."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Schrankmagazine",
+      "content": "1 Schrankmagazine dürfen höchstens 1000 kg Sprengstoff und 5000 Sprengkapseln, Sprengverzögerer oder Sprengzünder aufnehmen. Sie müssen den baulichen Mindestanforderungen (Art. 75) von Magazingebäuden entsprechen, mit der dafür vorgeschriebenen Aussentüre (Art. 78 und 79) ausgerüstet sein und die Mindestabstände nach Artikel 74 wahren; das Zündmittelfach muss gesondert verschliessbar sein (siehe Anhang 10.1). 2 Sie sind mit einer festen Unterlage zu verbinden und gemäss Artikel 80 Absatz 4 zu erden, über Tag in standfestem Boden einzubauen und mit einer mindestens 50 cm dicken Schutzschicht aus Feinmaterial zu überdecken. Bei Einbau in festen Fels sind sie mit diesem zu verankern (siehe Anhang 10.2). 3 Fabrikmässig hergestellte Schrankmagazine mit Stahlmantel von 5 mm Wandstärke sind zulässig: a. wenn sie mit Ausnahme des Zugangs allseits mit armiertem Beton von mindestens 10 cm Stärke umgeben oder bei Einbau in festen Fels mit diesem verankert werden können; b. wenn Türe und Schloss gleichwertige Sicherheitsmerkmale aufweisen, wie die für Magazingebäude (Art. 78 und 79) vorgeschriebenen. 4 Schrankmagazine für höchstens 100 kg Sprengstoff und 1000 Sprengkapseln, Sprengverzögerer oder Sprengzünder dürfen auch in einem unbewohnten Erdgeschossraum eines Werkhofgebäudes erstellt werden, wenn in den angrenzenden Räumen sich weder dauernd noch vorübergehend viele Personen aufhalten. Der Raum ist mit Löschgeräten auszurüsten; brennbare Flüssigkeiten und Stoffe mit einem Flammpunkt unter 100 °C dürfen dort nicht aufbewahrt werden."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Sprengmittelbehälter",
+      "content": "1 Kleinverbraucher dürfen höchstens 25 kg Sprengstoff und 100 Sprengkapseln, Sprengverzögerer oder Sprengzünder in einem verschliessbaren und widerstandsfähigen Behälter mit getrennten Fächern aufbewahren (siehe Anhänge 11.1 und 11.2). Grossverbrauchern kann in begründeten Fällen die Aufbewahrung von Sprengmitteln in einem Sprengmittelbehälter unter den für Kleinverbraucher geltenden Beschränkungen bewilligt werden. 2 Das Innere des Zündmittelfaches muss mit dämpfendem Material ausgestattet sein, das elektrische Aufladungen ausschliesst und bei Reibung keine Funken bildet. 3 Die Sprengmittelbehälter dürfen nur in unbewohnten, verschlossenen Erdgeschossräumen, die von leicht brennbaren Stoffen jeder Art frei sind, untergebracht werden. Die Sprengmittelbehälter und ihr Inhalt sind auch auf der VerwendungssteIle gegen jede unbefugte Wegnahme zu sichern."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Zulässige Mengen auf Bau- und anderen Verwendungsstellen",
+      "content": "Auf Bau- und andern Verwendungsstellen dürfen die Vorräte einen Monatsbedarf nicht übersteigen. Höhere Mengen können für Grossprojekte oder bei gefährdeten Nachschubwegen (z. B. im Winter) bewilligt werden."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Pyrotechnische Gegenstände zu gewerblichen Zwecken",
+      "content": "1 Pyrotechnische Gegenstände der Kategorie P2 sind wie pyrotechnische Gegenstände zu lagern und aufzubewahren (Art. 87–89). 1bis Die ZSE kann auch verlangen, dass bestimmte Gegenstände wie Sprengmittel gelagert und aufbewahrt werden (Art. 74–84). Sie kann die Aufbewahrung in Sprengmittelbehältern (Art. 84) bis maximal 25 kg Nettoinhalt an Spreng- oder Explosivstoffen gegebenenfalls ohne zeitliche Beschränkung bewilligen. 2 Pyrotechnische Gegenstände der Kategorien T1, T2 und P1 dürfen wie Feuerwerkskörper (Art. 87–89) gelagert und aufbewahrt werden. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 ). Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Lagerung von Feuerwerkskörpern durch Importeure und Verkäufer",
+      "content": "1 Räume zum Lagern von Feuerwerkskörpern im Bruttogewicht von mehr als 300 kg gelten als Grosslager; sie sind nach Möglichkeit in allein stehenden Bauten einzurichten und ausschliesslich für solche Erzeugnisse zu verwenden. 2 Lagerräume in Gebäuden, die noch anderen Zwecken dienen, müssen feuersicher und mit einer Druckentlastungsöffnung versehen sein. Die Gebäude dürfen nicht in einer Wohnzone liegen, und es dürfen sich weder dauernd noch vorübergehend viele Personen darin aufhalten. 3 Die Lager müssen mindestens eine in Fluchtrichtung aufschlagende Türe haben, die als Notausgang gekennzeichnet ist. 4 Elektrische Einrichtungen sind nach den anerkannten Regeln der Technik für feuergefährdete Räume zu erstellen. Als anerkannte Regeln der Technik gelten insbesondere die Normen von IEC und CENELEC. Wo international harmonisierte Normen fehlen, gelten die schweizerischen Normen. Die Bauten sind mit einem Blitzschutz nach den Leitsätzen des SEV auszusrüsten. 5 Räume zum Aufbewahren von Feuerwerkskörpern bis zu 300 kg Bruttogewicht gelten als Kleinlager. Sie dürfen in einer Wohnzone liegen, müssen jedoch feuerbeständig und frei von andern feuergefährlichen Waren oder Stoffen sein. 6 Räume, in denen Feuerwerkskörper bis zu 50 kg Bruttogewicht vorübergehend aufbewahrt werden, müssen lediglich feuerhemmend ausgebaut sein und dürfen, sofern das Brandrisiko gering ist, auch anderen Zwecken dienen. 7 Für die kurzfristige Aufbewahrung oder die Vorbereitung von Grossfeuerwerk vor dem Abbrennen genügt es, wenn die Räume gleichzeitig keinen anderen Zwecken dienen. International Electrotechnical Commission; die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch. Comité Européen de Normalisation Electrotechnique; die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch. Die Leitsätze können bezogen werden beim Schweizerischen Elektrotechnischen Verein, Luppmenstrasse 1, 8320 Fehraltorf, www.electrosuisse.ch."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Betriebsvorschriften für Gross- und Kleinlager",
+      "content": "1 In den Lagerräumen dürfen nur allgemeine Lager- und Speditionsarbeiten ausgeführt werden. Auf das Verbot des Rauchens und der Verwendung von Feuer und offener Flamme ist durch nicht zu übersehende Anschläge hinzuweisen. Pyrotechnische Gegenstände sind kühl und trocken und soweit als möglich in den Versand- beziehungsweise Verpackungseinheiten zu lagern. 2 Der Zutritt zu den Räumen ist nur Personen gestattet, die darin nach Weisung der verantwortlichen Aufsichtspersonen beschäftigt sind. Beim Verlassen der Räume sind diese abzuschliessen. 3 Zum Heizen dürfen nur Einrichtungen verwendet werden, die weder zu einer Entzündung noch zu einer Zersetzung des Lagergutes führen. Die Räume sind mit Feuerlöschern auszurüsten, deren Zahl und Grösse den örtlichen Verhältnissen angepasst sein muss. 4 Polizei und Feuerwehr sind über Standort und Art des Lagergutes zu verständigen. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Aufbewahrung in Verkaufsräumen",
+      "content": "1 In Verkaufsräumen darf der Vorrat an Feuerwerkskörpern ein Bruttogewicht von 30 kg nicht übersteigen. Die Ware ist getrennt von andern feuergefährlichen Stoffen und Gegenständen in geschlossenen Behältern oder Schubladen, die den Kunden nicht zugänglich sind, unterzubringen. 2 Direkt zum Verkauf gelangende Feuerwerkskörper müssen in der kleinsten Verpackungseinheit oder hinter Glas aufgelegt werden. In Schaufenstern und Schaukästen (Vitrinen) dürfen nur Attrappen ausgestellt werden. Attrappen sind entsprechend zu beschriften. 3 Beim Verkauf im Freien darf die Verkaufsmenge den voraussichtlichen Tagesbedarf nicht übersteigen und muss von entsprechend instruiertem Personal überwacht werden. 4 An Ein- und Ausgängen sowie an Durchgängen, die als Rettungswege in Frage kommen, dürfen keine Verkaufsstände für Feuerwerkskörper aufgestellt werden. Im Innern von Warenhäusern, welche eine Verkaufsfläche von über 1000 m 2 aufweisen, ist der Verkauf verboten. 5 An Verkaufsstellen ist das Rauchen durch eine deutlich lesbare Anschrift zu verbieten. Werden die Feuerwerkskörper in einem besonderen Raum feilgeboten, so ist das Rauchverbot mit einem Hinweis auf die Ware bereits an der Eingangstüre anzubringen. Der Verkäufer muss für die Einhaltung des Rauchverbotes sorgen."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Verantwortliche Personen",
+      "content": "Inhaber von Handelsbetrieben und Geschäften haben für das Lagern, den Versand und Verkauf pyrotechnischer Gegenstände verantwortliche Aufsichtspersonen zu bezeichnen, die im Umgang mit explosionsgefährlichen Stoffen Erfahrung haben, die gesetzlichen Vorschriften kennen und im Falle einer Explosion oder eines Brandes die notwendigen Sicherheitsvorkehrungen treffen können."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "7. Titel: Transport von Sprengmitteln",
+      "section": "91",
+      "title": "",
+      "content": "1 Auf Strassen und Wegen, die ausschliesslich dem privaten Gebrauch dienen, dürfen Sprengstoffe und Zündmittel auf dem gleichen Fahrzeug befördert werden. Sie sind in den Versandverpackungen in getrennten Abteilen des Fahrzeuges unterzubringen. 2 Fehlen die Versandpackungen, so sind die Sprengmittel in geschlossenen Behältern mitzuführen. Es darf hierzu auch ein Behälter verwendet werden, der je ein Fach für die Sprengstoffe und die Zündmittel aufweist und mit einer Tragvorrichtung versehen ist (siehe Anhang 11.2). 3 Behälter für den Transport von Sprengmitteln müssen aus Material bestehen, das elektrische Aufladungen ausschliesst und bei Reibung keine Funken bildet. Die Deckel von Behältern, in denen Sprengstoffe in loser Körnerform befördert werden, müssen dicht schliessen. 4 Auch beim Transport geringer Mengen und beim Handtransport auf die Verwendungsstelle ist die Beförderung von Sprengmitteln nur in geschlossenen, widerstandsfähigen Verpackungen oder Behältern gestattet. Eingefügt durch Ziff. I der V vom 21. Sept. 2012 ( AS 2012 5315 ). Fassung gemäss Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 6781 )."
+    },
+    {
+      "provision_ref": "art91a",
+      "chapter": "7. Titel: Transport von Sprengmitteln",
+      "section": "91a",
+      "title": "",
+      "content": "1 Die beförderten Sprengmittel müssen von dem in der Entscheidung 2004/388/EG vorgesehenen «Begleitformular für die innergemeinschaftliche Verbringung von Explosivstoffen» ausschliesslich der EU-Hoheitszeichen begleitet sein. 2 Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden. Eingefügt durch Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Okt. 2012 ( AS 2012 5315 ). Fassung gemäss Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 6781 ). Entscheidung 2004/388/EG der Kommission vom 15. April 2004 über ein Begleitformular für die innergemeinschaftliche Verbringung von Explosivstoffen, ABl. L 120 vom 24.4.2004, S. 43; zuletzt geändert durch Beschluss 2010/347/EU, ABl. L 155 vom 22.6.2010, S. 54."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "1. Kapitel: Allgemeine Schutz- und Sicherheitsvorschriften",
+      "section": "92",
+      "title": "Gemeinsame Bestimmung",
+      "content": "1 Wo die Sprengstoffgesetzgebung für die Verwendung und die Vernichtung von Sprengmitteln und pyrotechnischen Gegenständen keine Vorschriften enthält, sind die allgemein anerkannten Regeln der Technik zu beachten. 2 Zur Bestimmung dieser Regeln sind namentlich die Ausbildungs- und Prüfungsunterlagen sowie die Herstellerangaben und die Gebrauchsanweisungen heranzuziehen."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "1. Kapitel: Allgemeine Schutz- und Sicherheitsvorschriften",
+      "section": "93",
+      "title": "",
+      "content": "1 Sprengarbeiten und Arbeiten, bei denen pyrotechnische Gegenstände der Kategorien T2, P2 oder F4 verwendet werden, sind, unter Vorbehalt von Artikel 52 Absätze 6 bis und 7, von einer Ausweisinhaberin oder einem Ausweisinhaber zu leiten. Diese oder dieser ist verantwortlich für die Einhaltung der Vorschriften und der allgemein anerkannten Regeln der Technik. 2 Werden ausgewiesene Fachleute beigezogen, sind diese dafür verantwortlich, dass die Arbeiten ihres Projektteils nach ihren Vorgaben ausgeführt werden. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ( AS 2017 2627 )."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "1. Kapitel: Allgemeine Schutz- und Sicherheitsvorschriften",
+      "section": "94",
+      "title": "Verwendbare Sprengmittel",
+      "content": "1 Je Sprengung sind Sicherheitsanzündschnüre des gleichen Fabrikates und der gleichen Brenndauer zu verwenden. Diese ist zu überprüfen . 2 Je Sprengung sind die Sprengladungen mit gleichartigen Sprengzündern des gleichen Fabrikates zu versehen. Geeignete Kombinationen verschiedener Zündsysteme sind zulässig. 3 Sprengmittel, die Mängel aufweisen, dürfen nicht verwendet werden. 4 Gefrorene Sprengmittel dürfen nicht bearbeitet werden. Das Vorbereiten von Ladungen und das Laden bei Umgebungstemperaturen unter der kritischen Gefriergrenze müssen so vorgenommen werden, dass die Sprengmittel nicht gefrieren."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "2. Kapitel: Bohren und Laden",
+      "section": "95",
+      "title": "Bohren",
+      "content": "1 Das Bohrloch ist so vorzubereiten, dass fachgerecht geladen werden kann. 2 Mit dem Laden der Bohrlöcher darf erst dann begonnen werden, wenn ausgeschlossen werden kann, dass der Bohrvorgang eine Sprengladung auslöst. 3 Das Nachbohren eines stehen gebliebenen oder ausgeblasenen Bohrloches ist verboten. Dessen Richtung ist mit einem eingeschobenen Ladestock zu kennzeichnen, bevor in der Nähe gebohrt wird."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "2. Kapitel: Bohren und Laden",
+      "section": "96",
+      "title": "Laden",
+      "content": "1 Zum Laden dürfen namentlich nur Ladestöcke, Laderohre und Ladetrichter verwendet werden, die sich elektrostatisch nicht aufladen können und keine Funken bilden. 2 Arbeitsstellen, auf welchen mechanisch oder pneumatisch angetriebene Ladegeräte eingesetzt werden sollen, sind der SUVA im Voraus zu melden."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "3. Kapitel: Zündung",
+      "section": "97",
+      "title": "Sicherheitsanzündschnur",
+      "content": "1 Die Sicherheitsanzündschnur muss so lang sein, dass sie gefahrlos angezündet werden kann und der Zündmannschaft genügend Zeit bleibt, um ungefährdet in Deckung zu gehen. Sicherheitsanzündschnüre von weniger als 90 Sekunden Brenndauer dürfen nicht verwendet werden. 2 Je Sprengung dürfen höchstens 10 Sicherheitsanzündschnüre angezündet werden. Davon abweichen darf nur, wer eine ausdrückliche, schriftliche Bewilligung der SUVA besitzt. 3 Die Verbindung der Sprengkapsel mit der Sicherheitsanzündschnur ist gegen Eintritt von Wasser zu schützen."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "3. Kapitel: Zündung",
+      "section": "98",
+      "title": "Auslöse- und Prüfgeräte",
+      "content": "1 Auslösegeräte (Zündmaschinen, Zündauslöseapparate usw.) müssen einen sicheren Zündvorgang gewährleisten und so beschaffen sein, dass eine unbefugte Betätigung verhindert werden kann. 2 Für die Prüfung der Sprengzünder und Zündkreise dürfen nur Messgeräte verwendet werden, die ausschliesslich diesem Zweck dienen. Sie müssen so gebaut sein, dass kein Auslösen der Sprengzünder möglich ist. 3 Auf den Geräten müssen die technischen Daten angegeben sein, die für eine sichere Anwendung erforderlich sind. 4 Die Geräte müssen ausserdem den grundlegenden Anforderungen an die Betriebssicherheit gemäss dem Bundesgesetz vom 12. Juni 2009 über die Produktesicherheit und der Verordnung vom 19. Mai 2010 über die Produktesicherheit entsprechen. SR 930.11 SR 930.111 Fassung gemäss Anhang 4 Ziff. II 12 der V vom 19. Mai 2010 über die Produktesicherheit, in Kraft seit 1. Juli 2010 ( AS 2010 2583 )."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "3. Kapitel: Zündung",
+      "section": "99",
+      "title": "Sicherheitsabstände zu elektrischen Energieanlagen",
+      "content": "Bei elektrischer Zündung sind die vom Hersteller angegebenen minimalen Sicherheitsabstände zu elektrischen Energieanlagen (wie Sende-, Radar- und stromführende Anlagen) einzuhalten."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "3. Kapitel: Zündung",
+      "section": "100",
+      "title": "Kontrolle und Zündung",
+      "content": "1 Zur Auslösung von elektrischen Sprengzündern dürfen nur zugelassene und dafür vorgesehene Geräte verwendet werden. 2 Vor der Zündung ist die fertig erstellte Zündanlage zu überprüfen. 3 Das Auslösegerät ist erst nach dem zweiten Sprengsignal (Art. 104) mit der Zündanlage zu verbinden. Es ist sofort nach der Zündung so zu sichern, dass in keinem Moment eine weitere, ungewollte Zündung erfolgen kann. Dies gilt auch, wenn die Zündung erfolglos geblieben ist."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "3. Kapitel: Zündung",
+      "section": "101",
+      "title": "Sicherheitsmassnahmen bei Gewittern",
+      "content": "1 Besteht die Gefahr einer ungewollten Zündung durch Blitzschlag, sind entsprechende Sicherheitsmassnahmen, wie Wahl des Zündsystems oder Einsatz eines Warndienstes, zu ergreifen. 2 Bereits fertige und mit elektrischen Sprengzündern versehene Ladungen sind unter Beachtung der Absperr- und Warnvorschriften schnellstens zu zünden. Ist das nicht mehr möglich, so muss die Sprengstelle verlassen und abgesperrt werden, bis das Gewitter vorüber ist. 3 Bei Untertagbauten sind der Entfernung der Sprengstelle zum Portal und ihrer Gebirgsüberdeckung sowie den Stolleneinrichtungen, wie Leitungen für Luft und Wasser, Ventilations- und Geleiseanlagen, Rechnung zu tragen."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "4. Kapitel: Sicherheitsmassnahmen vor und nach der Zündung",
+      "section": "102",
+      "title": "Absprachen",
+      "content": "Sprengarbeiten im Bereiche öffentlicher Verkehrs- oder Versorgungsanlagen, wie Strassen, Eisenbahnen, Luft- und Standseilbahnen, Starkstrom- und Rohrleitungen sowie Fernmeldeanlagen, sind mit den zuständigen Stellen abzusprechen."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "4. Kapitel: Sicherheitsmassnahmen vor und nach der Zündung",
+      "section": "103",
+      "title": "Sicherheits- und Schutzmassnahmen",
+      "content": "1 Die Sprengleiterin oder der Sprengleiter muss dafür sorgen dass: a. durch die Sprengung weder Personen noch fremdes Eigentum oder die Umwelt gefährdet werden können; b. alle in den Gefahrenbereich der Sprengung führenden Strassen und Zugänge für die Dauer der Gefahr gesperrt und bewacht werden; für die Absperrung öffentlicher Verkehrswege gelten die Vorschriften der Verkehrsregelnverordnung vom 13. November 1962; c. die Sprengmittel auf der Sprengstelle gesichert sind und nach Arbeitsschluss zurückgeschafft werden; d. die Zündung nur unter ihrer oder seiner Aufsicht erfolgen kann. 2 Sie oder er weist den im Gefahrenbereich befindlichen Personen vor dem ersten Sprengsignal einen sicheren Standort zu. SR 741.11"
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "4. Kapitel: Sicherheitsmassnahmen vor und nach der Zündung",
+      "section": "104",
+      "title": "Sprengsignale",
+      "content": "1 Die Sprengleiterin oder der Sprengleiter hat folgende Sprengsignale zu geben: a. erstes Signal, Ankündigung der Sprengung: mindestens 5 lange Töne; b. zweites Signal, Zündung: drei kurze Töne; c. drittes Signal, Ende der Sprengung: ein langer Ton. 2 Auf das erste Signal haben sich alle Personen an ihren von der Sprengleiterin oder vom Sprengleiter zugewiesenen Standort zu begeben. Nach dem zweiten Signal darf gezündet werden. Nach dem dritten Signal dürfen die Absperrungen aufgehoben werden. 3 Die Sprengleiterin oder der Sprengleiter hat alle Betroffenen über die Bedeutung der Signale zu unterrichten. 4 Die Signale sind mit deutlich hörbaren Hörnern zu geben. Reichen Hörner nicht aus, sind andere geeignete Mittel einzusetzen. 5 Auf akustische Signale kann verzichtet werden, wenn zwischen der Zündmannschaft und den übrigen Betroffenen eine sichere Verbindung besteht und die Sicherheit gewährleistet bleibt."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "4. Kapitel: Sicherheitsmassnahmen vor und nach der Zündung",
+      "section": "105",
+      "title": "Wartezeiten",
+      "content": "1 Bei pyrotechnischer Zündung kontrolliert die Sprengleiterin oder der Sprengleiter die Brenndauer der Sicherheitsanzündschnur mit der Uhr und zählt die Detonationen. 2 Haben nicht alle Ladungen detoniert oder bestehen Zweifel darüber, so darf während 15 Minuten nach der Anzündung der letzten Sicherheitsanzündschnur niemand die Deckung verlassen. Dies gilt auch, wenn eine Sicherheitsanzündschnur scheinbar erfolglos angezündet wurde. Bei Verwendung von Sicherheitsanzündschnüren mit einer Brenndauer von mehr als 7 Minuten, ist die Wartezeit angemessen zu verlängern. 3 Bei Zündsystemen, wie den elektrischen oder der Schlauchzündung, beschränkt sich die Wartezeit nach der Zündung und bei Versagern auf die Verzögerungszeit der verwendeten Sprengzünder. 4 Nach dem Zünden von Versagern, die mit einer Sicherheitsanzündschnur versehen waren, ist in jedem Fall eine Wartezeit von 15 Minuten einzuhalten, unabhängig des eingesetzten Zündsystems. 5 Bei Kessel- oder Schmierschüssen darf erst nach erfolgter Abkühlung wieder geladen werden. 6 Stellen, wo sich Sprengschwaden befinden, dürfen erst wieder betreten werden, wenn die Schwaden entfernt oder auf ein ungefährliches Mass verdünnt worden sind."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Kontrolle der Sprengstelle",
+      "content": "1 Nach erfolgter Sprengung beziehungsweise Ablauf der Wartezeit verlässt der Sprengleiter allein die Deckung und vergewissert sich, ob keine Gefahr mehr vorhanden ist. 2 Festgestellte Versager sind umgehend fachgemäss unschädlich zu machen. Der Sprengleiter hat seine Mannschaft über ihr Verhalten, auch bei späterem Auffinden von Versagern, ausführlich zu instruieren. 3 Der Sprengleiter darf die Arbeitsstelle erst verlassen, wenn alle Versager vernichtet oder auffällig gekennzeichnet sind und er persönlich seinen Nachfolger über Anzahl und Lage der zu vernichtenden Versager genau unterrichtet sowie ihm die Verantwortung übertragen hat. 4 Kann der Sprengleiter bei Lawinensprengeinsätzen auf Grund äusserer Umstände wie Wetterlage, Schneedeckenverhältnisse oder Lawinengefahr Versager nicht sofort vernichten, hat er den Standort des Versagers in einem Protokoll mit Lageskizze genau festzuhalten, das gefährdete Gebiet zu sichern und die Vernichtung sobald wie möglich auszuführen."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "5. Kapitel: Vernichten und Entsorgen",
+      "section": "107",
+      "title": "Grundsatz",
+      "content": "1 Unbrauchbar gewordene Sprengmittel und pyrotechnische Gegenstände dürfen im Rahmen von Artikel 108 fachgemäss vernichtet werden. 2 Als unbrauchbar gelten Sprengmittel und pyrotechnische Gegenstände, deren Beschaffenheit sich durch mechanische Einwirkungen, durch Feuchtigkeit oder durch lange Lagerung verändert hat oder deren Frist für den Verbrauch abgelaufen ist. 3 Bei pyrotechnischen Gegenständen gelten auch Versager als unbrauchbar gewordene Gegenstände."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "5. Kapitel: Vernichten und Entsorgen",
+      "section": "108",
+      "title": "Vernichtung",
+      "content": "1 Kleine Mengen von Sprengmitteln, wie einzelne Sprengstoffpatronen oder einzelne Sprengzünder, dürfen von Ausweisinhaberinnen oder Ausweisinhabern auch ohne ausdrückliche Berechtigung im Ausweis durch Sprengen vernichtet werden. 2 Das Vernichten grösserer Mengen Sprengmittel gilt als besondere Sprengarbeit und muss gemäss Anleitung der SUVA durchgeführt werden. 3 Pyrotechnische Gegenstände dürfen nur vom Hersteller oder von einer dafür ausgebildeten Person vernichtet werden. Die Wirtschaftsakteure sind verpflichtet, pyrotechnische Gegenstände zurückzunehmen und sie zur Vernichtung einer sachverständigen Person im Sinne dieses Absatzes zu übergeben. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "5. Kapitel: Vernichten und Entsorgen",
+      "section": "109",
+      "title": "Entsorgung oder Rückgabe",
+      "content": "Sprengmittel und pyrotechnische Gegenstände, die nicht nach Artikel 108 vernichtet werden dürfen, sind von der Inhaberin oder vom Inhaber umweltverträglich zu entsorgen oder zur Entsorgung dem Hersteller zurückzugeben."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "1. Kapitel: Buchführung",
+      "section": "110",
+      "title": "",
+      "content": "1 Als Verbraucherin oder Verbraucher von Sprengmitteln ist buchführungspflichtig, wer mehr als die in Artikel 46 Absatz 1 genannten Mengen an Sprengstoff und Sprengkapseln oder Sprengzündern bezieht. 2 Aus den Verzeichnissen der Hersteller, Importeure, Verkäufer und buchführungspflichtigen Verbraucherinnen und Verbraucher von Sprengmitteln müssen ersichtlich sein: a. die Eingänge, Ausgänge und Lagerbestände; b. die Namen und Adressen der Lieferanten und Bezügerinnen oder Bezüger sowie die Daten der Geschäfte; c. die Angaben nach Anhang 14. 2bis Die Verzeichnisse müssen die Anforderungen von Anhang 14 erfüllen. 3 Die Verzeichnisse geben Auskunft über die täglichen Mutationen und über den Monatsabschluss. 4 Zur Ergänzung der Buchführung müssen die Rechnungen und Erwerbsscheine jederzeit vorgewiesen werden können. Die Verbraucherinnen und Verbraucher müssen zudem die von einer Person mit Fachkenntnissen unterzeichneten Bestätigungen über die täglichen Lieferungen an die Sprengstelle vorweisen können. 5 Werden Sprengstoffe erst an der Verwendungsstelle in Mischladegeräten hergestellt, so ist über die Art und Menge ihrer Bestandteile ein Verzeichnis zu führen. 6 Hersteller, Importeure und Verkäufer von pyrotechnischen Gegenständen und von Schiesspulver haben über alle Arten pyrotechnischer Gegenstände, mit Ausnahme der für den Detailhandel bestimmten Feuerwerkskörper der Kategorien F1–F3, ein Verzeichnis zu führen; Verbraucherinnen und Verbraucher müssen ein solches Verzeichnis nur über pyrotechnische Gegenstände der Kategorien T2, P2 und F4 führen. Die Verzeichnisse, die Erwerbsscheine und die Abbrandbewilligung sind zehn Jahre geordnet aufzubewahren. Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "1. Kapitel: Buchführung",
+      "section": "111",
+      "title": "Kontrolle durch die Kantone",
+      "content": "1 Die Kantone überwachen den Verkehr mit Sprengmitteln und pyrotechnischen Gegenständen, insbesondere deren Herstellung, Verkauf, Lagerung, Sicherung und Verwendung. 2 Sie unterrichten unverzüglich die ZSE, wenn sie nicht zugelassene oder nicht mehr brauchbare Sprengmittel oder pyrotechnische Gegenstände feststellen. Sie können der ZSE Proben zur Prüfung einreichen. 3 Sie prüfen mindestens alle zwei Jahre unangekündigt die Verzeichnisse der Hersteller, Händler und buchführungspflichtigen Verbraucherinnen oder Verbraucher. Die Prüfung ist im Verzeichnis unter Angabe des Datums zu vermerken. 4 Die Überwachung des Verkehrs mit Sprengmitteln und pyrotechnischen Gegenständen durch Bundesorgane gestützt auf andere Gesetze bleibt vorbehalten. Diese Organe haben ihre Tätigkeit mit derjenigen der kantonalen Kontrollorgane zu koordinieren."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Kontrolle durch die Zollorgane",
+      "content": "1 Die Kontrolle an der Grenze ist Sache der Zollorgane. 2 Sendungen, für die keine Einfuhrbewilligung vorliegt, sind anzuhalten und der ZSE zu melden. 3 Sendungen sind anzuhalten und dem SECO zu melden wenn: a. dafür keine Ausfuhrbewilligung vorliegt; b. für die Durchfuhr kein Nachweis über den rechtmässigen Versand (Art. 25 der Güterkontrollverordnung vom 25. Juni 1977) vorliegt. [ AS 1997 1704 ; 1999 2471 ; 2000 187 Art. 21 Ziff. 11; 2002 349 Ziff. II; 2005 601 Anhang 7 Ziff. 4, 3537 ; 2007 1469 Anhang 4 Ziff. 63; 2008 5525 Anhang 4 Ziff. II 3; 2009 6937 Anhang 4 Ziff. II 22; 2011 3981 ; 2012 1703 Anhang 6 Ziff. II 1, 1773 , 6781 Beilage 2 Ziff. 4; 2014 2507 4553; 2016 493. AS 2016 2195 Art. 30]. S. heute: die V vom 3. Juni 2016 ( SR 946.202.1 )."
+    },
+    {
+      "provision_ref": "art112a",
+      "chapter": "3. Kapitel: Gebühren",
+      "section": "112a",
+      "title": "a Anwendbarkeit der Allgemeinen Gebührenverordnung",
+      "content": "Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004. Eingefügt durch Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 6781 ). SR 172.041.1"
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "3. Kapitel: Gebühren",
+      "section": "113",
+      "title": "Für Bewilligungen",
+      "content": "1 Für die Erteilung von Bewilligungen werden folgende Gebühren erhoben: Franken a. Herstellungsbewilligungen (Art. 27) 50–1000 b. Einfuhrbewilligungen (Art. 31) 50–1000 c. Verkaufsbewilligungen (Art. 35) 50– 500 d. Erwerbsscheine (Art. 45) 20– 200 [tab] e. Erwerbsscheine für Kleinverbraucher (Art. 46) 5– 200 f. Erwerbsscheine für die Kategorien T2, P2 und F4 5– 200 g. Ausnahmebewilligungen im Sinne von Art. 30 und 33 100– 500 2 Die Gebühren für Ausweise (Art. 57) richten sich nach der Gebührenverordnung SBFI vom 16. Juni 2006. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). SR 412.109.3 Eingefügt durch Anhang Ziff. 5 der Gebührenverordnung SBFI vom 16. Juni 2006 ( AS 2006 2639 ). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "3. Kapitel: Gebühren",
+      "section": "114",
+      "title": "Für kantonale Fähigkeitsprüfungen",
+      "content": "Für Prüfungen, die zur Erlangung von Ausweisen durch die Kantone abgenommen werden, beträgt die Gebühr 300–1000 Franken. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Für Kontrollen",
+      "content": "1 Für Verfügungen betreffend Massnahmen wegen nicht konformer Sprengmittel oder pyrotechnischer Gegenstände (Art. 17 und 25 b ) beträgt die Gebühr 100–5000 Franken. 2 Für nachträgliche Kontrollen im Sinne von Artikel 16 können Gebühren von 50–5000 Franken erhoben werden, wenn die Sprengmittel als nicht konform oder die Konformitätserklärung bzw. -bescheinigung als nicht genügend befunden wird. 3 Für besondere Kontrollen können Gebühren von 100–10 000 Franken erhoben werden. Als besondere Kontrollen gelten solche, die wegen Widerhandlungen gegen das SprstG oder die Verordnung vorgenommen werden müssen oder zu denen der Inhaber einer Bewilligung durch sein Verhalten Anlass gibt. Fassung gemäss Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 6781 ). Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Auslagen",
+      "content": "Zu den Gebühren werden Auslagen hinzugeschlagen, die als Kosten zusätzlich anfallen, namentlich: a. Kosten, die durch Beweiserhebungen, wissenschaftliche Untersuchungen, besondere Prüfungen oder durch die Beschaffung von Unterlagen verursacht werden; b. Reise- und Transportkosten; c. Kosten für Arbeiten, welche die zuständige Behörde durch Dritte erstellen lässt."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "4. Kapitel: Wissenschaftlich-technische Zusammenarbeit",
+      "section": "117",
+      "title": "",
+      "content": "Die ZSE kann mit wissenschaftlich-technisch tätigen Stellen zusammenarbeiten, insbesondere mit dem Wissenschaftlichen Forschungsdienst des Forensischen Institutes Zürich. Die Zusammenarbeit wird vertraglich geregelt. Fassung gemäss Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 6781 )."
+    },
+    {
+      "provision_ref": "art117a",
+      "chapter": "158",
+      "section": "117a",
+      "title": "a Zweck",
+      "content": "Die Datenbank BARBARA dient dazu, Strafdelikte im Zusammenhang mit dem Verkehr von Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver zu bekämpfen. Sie dient ausserdem der administrativen Abwicklung des Verkehrs mit diesen Gegenständen."
+    },
+    {
+      "provision_ref": "art117b",
+      "chapter": "158",
+      "section": "117b",
+      "title": "b Zuständigkeit",
+      "content": "Für den Betrieb von BARBARA ist das Bundesamt für Polizei (fedpol) zuständig."
+    },
+    {
+      "provision_ref": "art117c",
+      "chapter": "158",
+      "section": "117c",
+      "title": "c Struktur",
+      "content": "BARBARA besteht aus: a. Daten zu Bewilligungen; b. Daten über den Austausch von Mitteilungen und Informationen; c. … d. Fachdokumentation. Aufgehoben durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, mit Wirkung seit 1. Jan. 2023 ( AS 2022 353 )."
+    },
+    {
+      "provision_ref": "art117d",
+      "chapter": "158",
+      "section": "117d",
+      "title": "d Inhalt",
+      "content": "1 Die ZSE bearbeitet in BARBARA folgende personenbezogene Angaben: a. zugewiesene Identifikationsnummern (Art. 24); b. erteilte Herstellungsbewilligungen (Art. 27); c. erteilte Ausnahmebewilligungen (Art. 30); d. erteilte Einfuhrbewilligungen (Art. 31); e. erteilte Verkaufsbewilligungen (Art. 35); f. die Verwaltung von Schriftverkehr und Geschäften. 2 … Aufgehoben durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, mit Wirkung seit 1. Jan. 2023 ( AS 2022 353 )."
+    },
+    {
+      "provision_ref": "art117e",
+      "chapter": "158",
+      "section": "117e",
+      "title": "e Zugriffsrechte",
+      "content": "1 Folgende Behörden können im Abrufverfahren auf die Daten in BARBARA zugreifen: a. die ZSE; b. die Bundeskriminalpolizei zur Erfüllung der Aufgaben nach dem Bundesgesetz vom 7. Oktober 1994 über kriminalpolizeiliche Zentralstellen des Bundes, der Strafprozessordnung und dem Bundesgesetz vom 23. Dezember 2011 über den ausserprozessualen Zeugenschutz. c. die Datenschutzberaterinnen und Datenschutzberater von fedpol zur Erfüllung ihrer Kontrollaufgaben; d. die mit Wartungs- und Programmieraufgaben betrauten Personen zur Erfüllung ihrer Aufgaben. 2 Die Einzelheiten der Zugriffsrechte sind in Anhang 17 geregelt. Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 353 ). SR 360 SR 312.0 SR 312.2"
+    },
+    {
+      "provision_ref": "art117f",
+      "section": "117f",
+      "title": "f Datenweitergabe",
+      "content": "1 Die ZSE kann Daten an Dritte weitergeben, soweit diese die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen und sie die Berechtigung zur Bearbeitung haben. 2 Sie kann auf Anfrage in der Datenbank gespeicherte Daten insbesondere an die folgenden Behörden weitergeben, soweit diese die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen und sie die Berechtigung zur Bearbeitung haben: a. den eidgenössischen und kantonalen Strafverfolgungsbehörden; b. dem Forensischen Institut Zürich; c. der SUVA; d. dem SBFI. Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art117g",
+      "section": "117g",
+      "title": "g Protokollierung",
+      "content": "Die Bearbeitung von Daten in BARBARA wird protokolliert. Die Protokolle werden ein Jahr aufbewahrt."
+    },
+    {
+      "provision_ref": "art117h",
+      "section": "117h",
+      "title": "h Aufbewahrungsdauer und Vernichtung der Daten",
+      "content": "1 Die Daten nach Artikel 117 c Absatz 1 Buchstaben a und b werden nach deren Erfassung während zehn Jahren aufbewahrt. 2 Nach Ablauf der Aufbewahrungsdauer werden die Daten vernichtet, sofern sie nicht dem Bundesarchiv abzuliefern sind."
+    },
+    {
+      "provision_ref": "art117i",
+      "section": "117i",
+      "title": "i Archivierung",
+      "content": "Das Anbieten der Daten an das Bundesarchiv richtet sich nach Artikel 21 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz und nach Artikel 6 des Archivierungsgesetzes vom 26. Juni 1998. SR 235.1 SR 152.1"
+    },
+    {
+      "provision_ref": "art117j",
+      "section": "117j",
+      "title": "j Datensicherheit",
+      "content": "1 Für die Gewährleistung der Datensicherheit gelten: a. Artikel 7 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz; b. die Cyberrisikenverordnung vom 27. Mai 2020. 2 Die ZSE trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern. SR 235.1 SR 120.73 Fassung gemäss Anhang Ziff. 37 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ( AS 2021 132 )."
+    },
+    {
+      "provision_ref": "art117k",
+      "section": "117k",
+      "title": "k Auskunftsrecht",
+      "content": "Das Recht auf Auskunft, Berichtigung und Vernichtung von Daten richtet sich nach den Bestimmungen des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz. SR 235.1"
+    },
+    {
+      "provision_ref": "art117l",
+      "section": "117l",
+      "title": "l Bearbeitungsreglement",
+      "content": "Fedpol erlässt ein Reglement für die Bearbeitung der Daten in Barbara."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "10. Titel: Schlussbestimmungen",
+      "section": "118",
+      "title": "Anhänge",
+      "content": "Das Eidgenössische Justiz- und Polizeidepartement kann die Anhänge 1–16 neuen Verhältnissen anpassen. Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "10. Titel: Schlussbestimmungen",
+      "section": "119",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 12. Mai 2010, mit Wirkung seit 1. Juli 2010 ( AS 2010 2229 )."
+    },
+    {
+      "provision_ref": "art119a",
+      "chapter": "10. Titel: Schlussbestimmungen",
+      "section": "119a",
+      "title": "a Übergangsbestimmungen zur Änderung vom 12. Mai 2010",
+      "content": "1 und 2 … 3 Beim Inkrafttreten der Änderung vom 12. Mai 2010 muss für pyrotechnische Gegenstände, deren Zulassung nach bisherigem Recht erteilt wurde und noch nicht abgelaufen ist, keine Konformitätserklärung vorgelegt werden. Die Befreiung von dieser Pflicht gilt bis zum Ablauf der Zulassung, längstens jedoch bis zum 3. Juli 2017. 4 … 5 Gibt es für einen pyrotechnischen Gegenstand die für das Konformitätsbewertungsverfahren nach Artikel 25 erforderlichen Normen noch nicht, so ist die ZSE für die Zulassung nach Anhang 16 zuständig . 6 Pyrotechnische Gegenstände der Kategorie T2 dürfen ohne Ausweis an die Verbraucherin oder den Verbraucher abgegeben werden, solange keine entsprechenden Verwendungsausweise für pyrotechnische Gegenstände und der Erwerbsschein erhältlich sind, längstens jedoch bis zum 1. Januar 2014. 7 Pyrotechnische Gegenstände der Kategorie F4 dürfen nach der entsprechenden Information über die Handhabung und die Sicherheitsvorkehrungen durch die Verkäuferin oder den Verkäufer an die Käuferin oder den Käufer abgegeben werden, solange keine entsprechenden Verwendungsausweise für pyrotechnische Gegen stände und kein Erwerbsschein für diese Kategorie erhältlich sind, längstens jedoch bis zum 1. Januar 2014. 8 Ausweise im Sinne von Artikel 14 SprstG, die vor dem Inkrafttreten der Änderung vom 12. Mai 2010 abgegeben worden sind, bleiben gültig. Die Ausweiseinträge richten sich jedoch nach den Bestimmungen dieser Änderung. 9 Ausweiseinträge A, die mit einem Prüfungsdatum vor dem 1. Januar 1991 ausgestellt worden sind, und der Eintrag für besondere Sprengarbeiten zum Auslösen von Lawinen, bei dem das Prüfungsdatum vor dem 1. Januar 1988 liegt, berechtigen ausschliesslich zur Verwendung der Sprengmittel im bisherigen Umfang. Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ( AS 2010 2229 ). Aufgehoben durch Ziff. I der V vom 12. April 2017, mit Wirkung seit 1. Mai 2017 ( AS 2017 2627 ). Aufgehoben durch Ziff. I der V vom 21. März 2012, mit Wirkung seit 4. April 2012 ( AS 2012 1485 )."
+    },
+    {
+      "provision_ref": "art119b",
+      "chapter": "10. Titel: Schlussbestimmungen",
+      "section": "119b",
+      "title": "b Übergangsbestimmung zur Kennzeichnung und Rückverfolgbarkeit von Sprengstoffen",
+      "content": "Die Anforderungen an die Kennzeichnung und die Rückverfolgbarkeit von Sprengstoffen nach den Artikeln 20, 21 und 23 und nach Anhang 14 müssen ab dem 5. April 2013 erfüllt sein. Die Anforderungen nach Anhang 14 Ziffer 2 Absatz 10 sowie Ziffern 12 und 13 müssen jedoch erst ab dem 5. April 2015 erfüllt sein. Eingefügt durch Ziff. I der V vom 21. März 2012, in Kraft seit 4. April 2012 ( AS 2012 1485 ). Fassung des zweiten Satzes gemäss Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Okt. 2012 ( AS 2012 5315 )."
+    },
+    {
+      "provision_ref": "art119c",
+      "section": "119c",
+      "title": "c Übergangsbestimmung zu Etiketten pyrotechnischer Gegenstände",
+      "content": "Etiketten pyrotechnischer Gegenstände, die die bisherige Bezeichnung der Kategorien (1–4) tragen, bleiben auf dem Markt bis spätestens 31. Januar 2026 zugelassen. Eingefügt durch Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ( AS 2016 247 )."
+    },
+    {
+      "provision_ref": "art119d",
+      "section": "119d",
+      "title": "d Übergangsbestimmungen zur Änderung vom 12. April 2017",
+      "content": "1 Bewilligungen für die Herstellung und die Einfuhr von pyrotechnischen Gegenständen der Kategorien F4, T1, T2, P1 und P2 dürfen bis zum 3. Juli 2017 erteilt werden, wenn für den pyrotechnischen Gegenstand: a. bereits vor Inkrafttreten der Änderung vom 12. Mai 2010 eine Herstellungs- oder Einfuhrbewilligung erteilt wurde; und b. noch keine Konformitätserklärung vorliegt. 2 Vor dem 3. Juli 2017 erteilte Herstellungs- und Einfuhrbewilligungen bleiben bis zum Ablauf ihrer Gültigkeit gültig. 3 … Eingefügt durch Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ( AS 2017 2627 ). Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 1. Febr. 2021 ( AS 2020 5763 )."
+    },
+    {
+      "provision_ref": "art119e",
+      "section": "119e",
+      "title": "e Übergangsbestimmung zur Änderung vom 18. November 2020",
+      "content": "Pyrotechnische Gegenstände, für die eine Herstellungs- oder Einfuhrbewilligung nach Artikel 119 d Absätze 1 und 2 erteilt wurde, dürfen bis zum 31. Januar 2023 auf dem Markt bereitgestellt werden. Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Febr. 2021 ( AS 2020 5763 )."
+    },
+    {
+      "provision_ref": "art119f",
+      "section": "119f",
+      "title": "f Übergangsbestimmung zur Änderung vom 25. Mai 2022",
+      "content": "Die Daten nach den Artikeln 117 c Buchtstabe c und 117 d Absatz 2, die bei Inkrafttreten der Änderung vom 25. Mai 2022 in BARBARA enthalten sind, werden ins Informationssystem nach Artikel 21 des Vorläuferstoffgesetzes vom 25. September 2020 (VSG) überführt (Art. 22 Bst. f VSG). Eingefügt durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 353 ). SR 941.42"
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Sprengstoffverordnung vom 26. März 1980 wird aufgehoben. [ AS 1980 536 ; 1990 1982 ; 1998 993 ; 2000 187 Art. 21 Ziff. 9, 291 Anhang Ziff. II 8]"
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Februar 2001 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Betriebssicherheit",
+      "definition": "Betriebssicherheit : die Sicherheit, die bei bestimmungsgemässer Verwendung von Sprengmitteln den Schutz von Leben und Gut sowie die Begrenzung allfälliger Unfallfolgen gewährleistet;",
+      "source_provision": "art1a"
+    },
+    {
+      "term": "Explosivstoffe",
+      "definition": "Explosivstoffe : Sprengmittel und Schiesspulver im Sinne der Artikel 4 und 7 a SprstG;",
+      "source_provision": "art1a"
+    },
+    {
+      "term": "Feuerwerkskörper:",
+      "definition": "Feuerwerkskörper: pyrotechnische Gegenstände zu Vergnügungszwecken (Kategorien F1–F4);",
+      "source_provision": "art1a"
+    },
+    {
+      "term": "Feuerwerkskörper im gewerblichen Gebrauch:",
+      "definition": "Feuerwerkskörper im gewerblichen Gebrauch: Feuerwerkskörper der Kategorie F4;",
+      "source_provision": "art1a"
+    },
+    {
+      "term": "Detailhandel:",
+      "definition": "Detailhandel: offener Verkauf von Feuerwerkskörpern der Kategorien F1–F3 an die Verbraucherinnen und Verbraucher;",
+      "source_provision": "art1a"
+    },
+    {
+      "term": "Person mit Fachkenntnissen:",
+      "definition": "Person mit Fachkenntnissen: Person, die über einen Ausweis nach Artikel 14 Absatz 2 SprstG verfügt.",
+      "source_provision": "art1a"
+    }
+  ]
+}

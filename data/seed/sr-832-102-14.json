@@ -1,0 +1,26 @@
+{
+  "id": "sr-832-102-14",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 20. November 2012 über die Datensätze für die Datenweitergabe zwischen Leistungserbringern und Versicherern",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/867/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "",
+      "content": "Die Struktur der Datensätze nach Artikel 59 a Absatz 1 KVV ist im Anhang festgelegt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. Januar 2013 in Kraft."
+    }
+  ],
+  "definitions": []
+}

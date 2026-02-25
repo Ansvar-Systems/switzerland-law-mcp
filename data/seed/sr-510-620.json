@@ -1,0 +1,489 @@
+{
+  "id": "sr-510-620",
+  "type": "statute",
+  "title": "Verordnung vom 21. Mai 2008 über Geoinformation (Geoinformationsverordnung, GeoIV)",
+  "title_en": "",
+  "short_name": "GeoIV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/389/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Geltungsbereich",
+      "content": "1 Diese Verordnung gilt für die Geobasisdaten des Bundesrechts (Geobasisdaten). 2 Der Anhang 1 enthält den Katalog der Geobasisdaten. 3 Besondere fachgesetzliche Regelungen des Bundesrechts bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Nachführung: laufende oder periodische Anpassung der Geobasisdaten an Veränderungen von Standort, Ausdehnung und Eigenschaften der erfassten Räume und Objekte; b. Historisierung: Festhalten von Art, Umfang und Zeitpunkt einer Änderung von Geobasisdaten; c. Archivierung: periodisches Erstellen von Kopien des Datenbestands und deren dauerhafte und sichere Aufbewahrung; d. Eigengebrauch: Nutzung von Geobasisdaten: 1. im persönlichen Bereich und im Kreis von Personen, die unter sich eng verbunden sind, wie Verwandte oder Freunde, 2. durch Lehrpersonen für den Unterricht in der Klasse, 3. in Betrieben, öffentlichen Verwaltungen, Instituten, Kommissionen und ähnlichen Einrichtungen für die interne Information oder Dokumentation; e. gewerbliche Nutzung: jede Nutzung von Geobasisdaten, die keine Nutzung zum Eigengebrauch ist; f. Intensität der Nutzung: Ausmass der parallelen und wiederholten Nutzung durch die Nutzerin oder den Nutzer. g. gewerbliche Leistungen: Dienstleistungen, Produkte und ähnliche Leistungen, die von Organisationseinheiten der öffentlichen Verwaltung ausserhalb ihrer amtlichen Tätigkeit im Wettbewerb zu privaten Anbieterinnen und Anbietern erbracht werden; h. Suchdienst: Internetdienst, mit dem nach Geodiensten und, auf der Grundlage entsprechender Geometadaten, nach Geodatensätzen gesucht werden kann; i. Darstellungsdienst: Internetdienst, mit dem darstellbare Geodatensätze angezeigt, vergrössert, verkleinert und verschoben, Daten überlagert und die für die Daten relevanten Inhalte von Geometadaten angezeigt werden können und der ein Navigieren in den Geodaten ermöglicht; j. Download-Dienst: Internetdienst, der das Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon und, wenn durchführbar, den direkten Zugriff darauf ermöglicht; k. Transformationsdienst: Internetdienst zur Umwandlung von Geodatensätzen; l. offene Verwaltungsdaten: Geobasisdaten, die frei zugänglich sind und bei denen für Zugang und Nutzung keine Gebühren erhoben werden. Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Datenqualität",
+      "content": "1 Das Bundesamt für Landestopografie bezeichnet unter Mitwirkung der übrigen zuständigen Fachstellen des Bundes die für Geobasisdaten und Geometadaten verbindlichen Normen. Es berücksichtigt dabei den Stand der Technik und die Normierung auf internationaler Ebene. 2 Andere Qualitätsanforderungen dürfen nur dann ausschliesslich an Geobasisdaten und Geometadaten gestellt werden, wenn eine Verordnung des Bundesrates dies vorsieht."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Geodätische Bezugssysteme und Bezugsrahmen",
+      "section": "4",
+      "title": "Amtlicher Lagebezug",
+      "content": "1 Der Lagebezug der Geobasisdaten richtet sich unter Berücksichtigung der in Artikel 53 Absatz 2 festgelegten Übergangsfristen nach einer der folgenden amtlichen geodätischen Beschreibungen: a. Lagebezugssystem CH1903 mit Lagebezugsrahmen LV03; oder b. Lagebezugssystem CH1903+ mit Lagebezugsrahmen LV95. 2 Das Bundesamt für Landestopografie legt die geodätischen Definitionen fest und regelt die technischen Einzelheiten."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Geodätische Bezugssysteme und Bezugsrahmen",
+      "section": "5",
+      "title": "Amtlicher Höhenbezug",
+      "content": "1 Der amtliche Höhenbezug der Geobasisdaten richtet sich nach dem Landesnivellement 1902 (LN02). Dieses besteht in den Gebrauchshöhen LN02 der Höhenfixpunkte der Landesvermessung. 2 Ausgangspunkt der Höhenmessung ist der «Repère Pierre du Niton» in Genf. Seine Höhe wird mit 373.60 m festgelegt. 3 Das Bundesamt für Landestopografie regelt die technischen Einzelheiten."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Geodätische Bezugssysteme und Bezugsrahmen",
+      "section": "6",
+      "title": "Andere geodätische Bezugssysteme und Bezugsrahmen",
+      "content": "1 Werden für bestimmte Geobasisdaten oder für bestimmte Formen der Erfassung, Nachführung und Verwaltung von Geobasisdaten andere, insbesondere global gelagerte oder kinematische, geodätische Bezugssysteme und Bezugsrahmen definiert oder zugelassen, so muss die Transformation in die Bezugssysteme und Bezugsrahmen nach den Artikeln 4 und 5 gewährleistet sein. 2 Das Bundesamt für Landestopografie legt die geodätischen Definitionen fest und regelt die technischen Einzelheiten."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Geodätische Bezugssysteme und Bezugsrahmen",
+      "section": "7",
+      "title": "Transformation anderer Bezugssysteme",
+      "content": "Wer für Geobasisdaten andere räumliche Bezugssysteme verwendet, muss die Transformation in die Bezugssysteme und Bezugsrahmen nach den Artikeln 4 und 5 gewährleisten."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Geodatenmodelle",
+      "section": "8",
+      "title": "Grundsatz",
+      "content": "Den Geobasisdaten ist mindestens ein Geodatenmodell zugeordnet."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Geodatenmodelle",
+      "section": "9",
+      "title": "Zuständigkeit für die Modellierung",
+      "content": "1 Die jeweils zuständige Fachstelle des Bundes gibt ein minimales Geodatenmodell vor. Sie legt darin die Struktur und den Detaillierungsgrad des Inhaltes fest. 2 Ein Geodatenmodell wird innerhalb des fachgesetzlichen Rahmens bestimmt durch: a. die fachlichen Anforderungen; b. den Stand der Technik."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Geodatenmodelle",
+      "section": "10",
+      "title": "Beschreibungssprache",
+      "content": "1 Die Beschreibungssprache für Geodatenmodelle muss einer anerkannten Norm entsprechen. 2 Das Bundesamt für Landestopografie legt die allgemeine Beschreibungssprache für Geobasisdaten fest. Es berücksichtigt dabei den Stand der Technik und die Normierung auf internationaler Ebene. 3 Eine andere Beschreibungssprache darf nur dann ausschliesslich verwendet werden, wenn eine Verordnung des Bundesrates dies vorsieht."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Darstellungsmodelle",
+      "section": "11",
+      "title": "",
+      "content": "1 Die jeweils zuständige Fachstelle des Bundes kann in ihrem Fachbereich ein oder mehrere Darstellungsmodelle vorgeben und beschreibt diese. Die Beschreibung legt insbesondere den Detaillierungsgrad, die Signaturen und die Legenden fest. 2 Ein Darstellungsmodell wird innerhalb des fachgesetzlichen Rahmens bestimmt durch: a. das Geodatenmodell; b. die fachlichen Anforderungen; c. den Stand der Technik."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Nachführung, Historisierung",
+      "section": "12",
+      "title": "Nachführung",
+      "content": "Enthalten die fachgesetzlichen Vorschriften keine Bestimmungen über Zeitpunkt und Art der Nachführung, so gibt die jeweils zuständige Fachstelle des Bundes ein minimales Nachführungskonzept vor. Dieses berücksichtigt: a. die fachlichen Anforderungen; b. die Bedürfnisse der Nutzerinnen und Nutzer; c. den Stand der Technik; d. die Kosten der Nachführung."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Nachführung, Historisierung",
+      "section": "13",
+      "title": "Historisierung",
+      "content": "1 Geobasisdaten, die eigentümer- oder behördenverbindliche Beschlüsse abbilden, werden so historisiert, dass jeder Rechtszustand mit hinreichender Sicherheit und vertretbarem Aufwand innert nützlicher Frist rekonstruiert werden kann. 2 Die Methode der Historisierung wird dokumentiert."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "6. Abschnitt: Gewährleistung der Verfügbarkeit",
+      "section": "14",
+      "title": "Nachhaltige Verfügbarkeit",
+      "content": "1 Die Stelle nach Artikel 8 Absatz 1 GeoIG bewahrt Geobasisdaten so auf, dass sie in Bestand und Qualität erhalten bleiben. 2 Sie sichert die Geobasisdaten nach anerkannten Normen und nach dem Stand der Technik. Insbesondere lagert sie die Daten periodisch in geeignete Datenformate aus und bewahrt die ausgelagerten Daten sicher auf. 3 Das Bundesamt für Landestopografie kann die Mindestdauer der Verwaltung der Geobasisdaten durch die Stelle nach Artikel 8 Absatz 1 GeoIG festlegen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "6. Abschnitt: Gewährleistung der Verfügbarkeit",
+      "section": "15",
+      "title": "Archivierung",
+      "content": "1 Liegt die Zuständigkeit nach Artikel 8 Absatz 1 GeoIG bei einer Stelle des Bundes, richtet sich die Archivierung nach dem Archivierungsgesetz vom 26. Juni 1998 und den zugehörigen Ausführungsvorschriften. 2 Liegt die Zuständigkeit beim Kanton, bezeichnet dieser durch Rechtssatz die für die Archivierung zuständige Stelle. 3 Das Bundesamt für Landestopografie kann die Mindestdauer der Aufbewahrung festlegen. SR 152.1"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Gewährleistung der Verfügbarkeit",
+      "section": "16",
+      "title": "Archivierungskonzept",
+      "content": "1 Liegt die Zuständigkeit nach Artikel 8 Absatz 1 GeoIG bei einer Stelle des Bundes, richtet sich die Archivierung nach dem Archivierungsgesetz vom 26. Juni 1998 und den zugehörigen Ausführungsvorschriften. 2 Liegt die Zuständigkeit beim Kanton, erstellt die für die Archivierung zuständige Stelle für alle betroffenen Geobasisdaten ein Archivierungskonzept. Dieses hält mindestens Folgendes verbindlich fest: a. den Zeitpunkt der Archivierung; b. den Ort der Archivierung; c. die Modalitäten des Datentransfers zur Archivierungsstelle; d. die Dauer der Aufbewahrung; e. die Methode und Periodizität der Datensicherung; f. die periodische Auslagerung in geeignete Datenformate; g. die Nutzungs- und Verwertungsrechte an den Daten; h. die Modalitäten der Löschung und Vernichtung von Daten. SR 152.1"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "7. Abschnitt: Geometadaten",
+      "section": "17",
+      "title": "Grundsatz",
+      "content": "1 Alle Geobasisdaten werden durch Geometadaten beschrieben. 2 Das Bundesamt für Landestopografie legt die Norm für die Geometadaten der Geobasisdaten fest. Es berücksichtigt dabei den Stand der Technik und die Normierung auf internationaler Ebene. 3 Eine andere Norm darf nur dann ausschliesslich verwendet werden, wenn eine Verordnung des Bundesrates dies vorsieht."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "7. Abschnitt: Geometadaten",
+      "section": "18",
+      "title": "Zugang",
+      "content": "1 Geometadaten werden zusammen mit den Geobasisdaten, die sie beschreiben, öffentlich zugänglich gemacht. 2 Der Zugang kann nur beschränkt werden, wenn eine Verordnung des Bundesrates dies vorsieht. 3 Die jeweils zuständige Fachstelle gewährleistet den Zugriff auf die Geometadaten. 4 Das Bundesamt für Landestopografie gewährleistet die Vernetzung der Geometadaten."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "7. Abschnitt: Geometadaten",
+      "section": "19",
+      "title": "Nachführung, Archivierung",
+      "content": "Die Geometadaten werden zusammen mit den Geobasisdaten, die sie beschreiben, nachgeführt und archiviert."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "8. Abschnitt: Zugang und Nutzung",
+      "section": "20",
+      "title": "Geltungsbereich des Abschnitts",
+      "content": "Dieser Abschnitt gilt nicht für den Austausch unter Behörden nach Artikel 14 GeoIG und für die Nutzung durch Behörden im Rahmen ihres gesetzlichen Auftrags. Vorbehalten bleibt Artikel 41."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "8. Abschnitt: Zugang und Nutzung",
+      "section": "21",
+      "title": "Zugangsberechtigungsstufen",
+      "content": "1 Die Geobasisdaten werden folgenden Zugangsberechtigungsstufen zugewiesen: a. öffentlich zugängliche Geobasisdaten: Zugangsberechtigungsstufe A; b. beschränkt öffentlich zugängliche Geobasisdaten: Zugangsberechtigungsstufe B; c. nicht öffentlich zugängliche Geobasisdaten: Zugangsberechtigungsstufe C. 2 Die Zugangsberechtigungsstufen der Geobasisdaten sind im Anhang 1 festgelegt."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "8. Abschnitt: Zugang und Nutzung",
+      "section": "22",
+      "title": "Zugang zu Geobasisdaten der Stufe A",
+      "content": "1 Zu Geobasisdaten der Zugangsberechtigungsstufe A wird Zugang gewährt. 2 Der Zugang wird im Einzelfall oder generell für Teile des Datensatzes eingeschränkt, aufgeschoben oder verweigert, wenn: a. die zielkonforme Durchführung konkreter behördlicher Massnahmen beeinträchtigt würde; b. die innere oder äussere Sicherheit der Schweiz gefährdet werden kann; c. aussenpolitische Interessen oder die internationalen Beziehungen der Schweiz oder eines Kantons beeinträchtigt werden können; d. die Beziehungen zwischen dem Bund und den Kantonen oder zwischen Kantonen beeinträchtigt werden können; e. die wirtschafts-, geld- und währungspolitischen Interessen der Schweiz gefährdet werden können; f. Berufs-, Geschäfts- oder Fabrikationsgeheimnisse offenbart werden können; g. spezialgesetzliche Geheimhaltungspflichten verletzt werden können."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "8. Abschnitt: Zugang und Nutzung",
+      "section": "23",
+      "title": "Zugang zu Geobasisdaten der Stufe B",
+      "content": "1 Zu Geobasisdaten der Zugangsberechtigungsstufe B wird kein Zugang gewährt. 2 Der Zugang wird im Einzelfall oder generell ganz oder für Teile des Datensatzes gewährt, wenn: a. er den Geheimhaltungsinteressen nicht widerspricht; oder b. die Geheimhaltungsinteressen durch rechtliche, organisatorische oder technische Massnahmen gewahrt werden können."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "8. Abschnitt: Zugang und Nutzung",
+      "section": "24",
+      "title": "Zugang zu Geobasisdaten der Stufe C",
+      "content": "Zu Geobasisdaten der Zugangsberechtigungsstufe C wird kein Zugang gewährt."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "8. Abschnitt: Zugang und Nutzung",
+      "section": "25",
+      "title": "Einwilligung zur Nutzung",
+      "content": "1 Die Einwilligung zur Nutzung zum Eigengebrauch wird erteilt, wenn: a. der Zugang gewährt werden kann; b. die Nutzerin oder der Nutzer deklariert hat, dass die Nutzung ausschliesslich dem Eigengebrauch dient; c. die Gebühr durch Verfügung oder Vertrag festgelegt oder vorab bezogen wird. 2 Die Einwilligung zur gewerblichen Nutzung wird erteilt, wenn: a. der Zugang gewährt werden kann; b. die Nutzerin oder der Nutzer registriert ist; c. die Nutzerin oder der Nutzer Zweck, Intensität und Dauer der gewerblichen Nutzung deklariert hat; d. die Gebühr durch Verfügung oder Vertrag festgelegt oder vorab bezogen wird; e. Daten der Zugangsberechtigungsstufe B auch den Dritten zugänglich gemacht werden dürfen, an welche die Weitergabe vorgesehen ist. 3 Die Einwilligung zur Nutzung kann befristet werden, wenn der Verlust der Aktualität der Daten zu einer Gefährdung führen kann. 4 Die Einwilligung kann hinsichtlich Zweck, Intensität oder Dauer der Nutzung beschränkt werden, wenn die Höhe der Gebühr von diesen Faktoren abhängt. 5 Die jeweils zuständige Fachstelle kann für bestimmte Geobasisdaten die Nutzung ohne Einwilligung zulassen."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Verweigerung der Einwilligung",
+      "content": "1 Die Einwilligung wird durch Verfügung verweigert. 2 Wird der Vertragsabschluss oder die Einwilligung mittels organisatorischer oder technischer Zugangskontrollen verweigert, so kann die betroffene Person eine Verfügung verlangen."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Nachträgliche Einwilligung",
+      "content": "Werden Geobasisdaten widerrechtlich genutzt, so wird das Verfahren zur Erteilung der Einwilligung nachträglich von Amtes wegen durchgeführt."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Nutzung zum Eigengebrauch",
+      "content": "Für die Nutzung zum Eigengebrauch gelten die entsprechenden Bestimmungen des Urheberrechtsgesetzes vom 9. Oktober 1992 sinngemäss. SR 231.1"
+    },
+    {
+      "provision_ref": "art28a",
+      "section": "28a",
+      "title": "a Offene Verwaltungsdaten",
+      "content": "1 Die nach Artikel 8 Absatz 1 GeoIG zuständige Stelle kann Geobasisdaten der Zugangsberechtigungsstufe A durch Geodienste als offene Verwaltungsdaten zugänglich machen. 2 Bei offenen Verwaltungsdaten gilt die Einwilligung zur Nutzung als erteilt. 3 Bei übermässiger, unangemessener oder missbräuchlicher Nutzung kann der Zugang eingeschränkt oder verweigert werden. 4 Zur Verhinderung von übermässiger, unangemessener und missbräuchlicher Nutzung kann die zuständige Stelle den freien Zugang durch geeignete Instrumente, einschliesslich der Erfassung von IP-Adressen, überwachen. Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Datenschutz",
+      "content": "1 Die Nutzerinnen und Nutzer sind für die Einhaltung der Vorschriften über den Datenschutz verantwortlich. 2 Sie sind verpflichtet, der Stelle nach Artikel 8 Absatz 1 GeoIG sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten jederzeit Auskunft über die zur Einhaltung der Vorschriften über den Datenschutz getroffenen Massnahmen zu erteilen."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Quellenangabe",
+      "content": "Geobasisdaten dürfen nur mit der Angabe der Quelle wiedergegeben werden."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Nutzung durch Dritte",
+      "content": "Werden Geobasisdaten weitergegeben, so gelten die Pflichten der Nutzerinnen und Nutzer auch für die empfangenden Dritten."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Vertragliche Regelungen",
+      "content": "Vertragliche Regelungen des Zugangs zu Geobasisdaten sowie von deren Nutzung und Weitergabe dürfen von den Bestimmungen der Artikel 28–31 abweichen, wenn sie: a. Schutzvorschriften enthalten, die mindestens gleichwertig sind; und b. die Gleichbehandlung der Wettbewerbsteilnehmerinnen und -teilnehmer gewährleisten."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Vernichtung widerrechtlich genutzter Daten",
+      "content": "1 Werden Geobasisdaten widerrechtlich genutzt und kann die nachträgliche Einwilligung nicht erteilt werden, so ordnet die Stelle nach Artikel 8 Absatz 1 GeoIG die Vernichtung der Daten oder die Einziehung der Datenträger bei der Nutzerin oder dem Nutzer an. 2 Sie verfügt die Vernichtung oder Einziehung unabhängig von einer allfälligen strafrechtlichen Verfolgung."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "9. Abschnitt: Geodienste",
+      "section": "34",
+      "title": "Dienste für Geobasisdaten",
+      "content": "1 Die Geobasisdaten werden durch folgende Geodienste zugänglich und nutzbar gemacht: a. durch Darstellungsdienste: alle Geobasisdaten der Zugangsberechtigungsstufe A; b. durch Download-Dienste: die im Anhang 1 entsprechend bezeichneten Geobasisdaten. 2 Das Bundesamt für Landestopografie kann für diese Geodienste Vorschriften über die qualitativen und technischen Anforderungen im Hinblick auf eine optimale Vernetzung erlassen. Es berücksichtigt dabei den Stand der Technik und die Normierung auf internationaler Ebene. 3 Die jeweils zuständige Fachstelle des Bundes kann in ihrem Fachbereich ergänzende Weisungen erlassen."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "9. Abschnitt: Geodienste",
+      "section": "35",
+      "title": "Dienste für Geometadaten",
+      "content": "1 Die Geometadaten der Geobasisdaten werden durch Suchdienste zugänglich gemacht. 2 Das Bundesamt für Landestopografie kann für diese Geodienste Vorschriften über die qualitativen und technischen Anforderungen im Hinblick auf eine optimale Vernetzung erlassen. Es berücksichtigt dabei den Stand der Technik und die Normierung auf internationaler Ebene."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "9. Abschnitt: Geodienste",
+      "section": "36",
+      "title": "Sachbereichsübergreifende Geodienste",
+      "content": "Das Bundesamt für Landestopografie betreibt folgende sachbereichsübergreifende Geodienste: a. vernetzter Suchdienst für die Geometadaten aller Geobasisdaten; b. vernetzter Suchdienst für Geodienste im Sinne nach Artikel 34; c. Dienst für die Transformation zwischen den amtlichen Bezugsrahmen (Art. 4); d. Dienst für die Transformation zwischen den amtlichen Bezugssystemen und ‑rahmen (Art. 4 und 5) und anderen geodätischen Bezugssystemen und ‑rahmen (Art. 6); e. vernetzter Zugang zu den Geobasisdaten; f. Adressdienste. Eingefügt durch Anhang 2 Ziff. II 2 der V vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister, in Kraft seit 1. Juli 2017 ( AS 2017 3459 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "10. Abschnitt: Datenaustausch unter Behörden",
+      "section": "37",
+      "title": "Gewährung des Zugangs",
+      "content": "1 Die Stelle nach Artikel 8 Absatz 1 GeoIG gewährt anderen Stellen von Bund oder Kantonen auf Anfrage hin Zugang zu Geobasisdaten. 2 Sie stellt den Zugang durch einen Download-Dienst sicher. Wo dies nicht möglich ist, übermittelt sie die Daten in einer anderen Form."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "10. Abschnitt: Datenaustausch unter Behörden",
+      "section": "38",
+      "title": "Verweigerung des Zugangs",
+      "content": "Die Stelle nach Artikel 8 Absatz 1 GeoIG verweigert den Zugang zu Geobasisdaten, wenn: a. die Geobasisdaten der Zugangsberechtigungsstufe B oder C zugewiesen sind und die anfragende Stelle kein öffentliches Interesse am Zugang geltend machen kann; b. die Zugangsgewährung die innere oder äussere Sicherheit gefährden könnte."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "10. Abschnitt: Datenaustausch unter Behörden",
+      "section": "39",
+      "title": "Datenschutz, Geheimhaltung",
+      "content": "1 Die empfangende Stelle ist für die Einhaltung der Vorschriften über den Datenschutz und die Geheimhaltung verantwortlich. 2 Die abgebende Stelle weist die empfangende Stelle auf das Bestehen besonderer Vorschriften hin."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "10. Abschnitt: Datenaustausch unter Behörden",
+      "section": "40",
+      "title": "Weitergabe an Dritte",
+      "content": "1 Eine Behörde kann für Geobasisdaten, zu denen sie nach dem 8. Abschnitt Zugang hat, unabhängig davon, ob diese bearbeitet werden, Dritten Zugang gewähren und die Nutzung erlauben, wenn sie: a. für die Regelung von Zugang und Nutzung die gleichen Vorschriften anwendet, wie die nach Artikel 8 Absatz 1 GeoIG zuständige Stelle; b. auf den Stand der Aktualität hinweist; c. die vorgeschriebenen Gebühren erhebt und an die Stelle nach Artikel 8 Absatz 1 GeoIG weiterleitet. 2 Gibt sie die Geobasisdaten kostenlos weiter, so trägt sie die vorgeschriebenen Gebühren selber."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "10. Abschnitt: Datenaustausch unter Behörden",
+      "section": "41",
+      "title": "Gewerbliche Leistungen von Behörden und Verwaltungen",
+      "content": "Eigene gewerbliche Leistungen von Behörden fallen unter den 8. und den 11. Abschnitt, auch wenn sie auf einem gesetzlichen Auftrag beruhen."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "10. Abschnitt: Datenaustausch unter Behörden",
+      "section": "42",
+      "title": "Pauschale Abgeltung",
+      "content": "Die pauschale Abgeltung wird unter Berücksichtigung folgender Elemente festgelegt: a. geschätzte Zahl und Art der ausgetauschten Informationseinheiten; b. gewährte Abgeltungen und Finanzhilfen des Bundes; c. geschätzte Gebühreneinnahmen."
+    },
+    {
+      "provision_ref": "art42a",
+      "chapter": "10. Abschnitt: Datenaustausch unter Behörden",
+      "section": "42a",
+      "title": "a Internationale Organisationen",
+      "content": "1 Der Datenaustausch mit internationalen Organisationen auf der Grundlage völkerrechtlicher Verpflichtungen gilt als Datenaustausch unter Behörden. 2 Er ist kostenfrei, sofern das Völkerrecht nicht eine Abgeltung vorsieht. Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ( AS 2009 6189 )."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "11. Abschnitt: Grundsätze für die Gebührenregelungen des Bundes",
+      "section": "43",
+      "title": "Geltungsbereich des Abschnitts",
+      "content": "1 Dieser Abschnitt findet auf alle Verfügungen und Dienstleistungen Anwendung, für die nach dieser Verordnung Gebühren erhoben werden. 2 Er gilt nicht für den Austausch unter Behörden und die Nutzung durch Behörden im Rahmen ihres gesetzlichen Auftrags, wenn eine vertragliche Regelung nach Artikel 14 Absatz 3 GeoIG besteht. Vorbehalten bleibt Artikel 41. Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ( AS 2009 6189 ). Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6653 )."
+    },
+    {
+      "provision_ref": "art43a",
+      "chapter": "11. Abschnitt: Grundsätze für die Gebührenregelungen des Bundes",
+      "section": "43a",
+      "title": "a Anwendbarkeit der Allgemeinen Gebührenverordnung",
+      "content": "Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004. Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ( AS 2009 6189 ). SR 172.041.1"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "11. Abschnitt: Grundsätze für die Gebührenregelungen des Bundes",
+      "section": "44",
+      "title": "Gebühren",
+      "content": "1 Keine Gebühren werden erhoben für: a. den Zugang zu den offenen Verwaltungsdaten nach Artikel 28 a ; b. den Zugang zu den Geodiensten nach den Artikeln 35 und 36 und deren Nutzung; c. die Nutzung von Geobasisdaten, unabhängig von der Art des Zugangs und der Art der Nutzung; d. die Nutzung von digitalen amtlichen Produkten, zu denen freier Zugang im Sinne von Artikel 28 a gewährt wird. 2 Gebühren können erhoben werden bei übermässiger Nutzung dieser Daten, Dienste und Produkte. Sie entsprechen einem angemessenen Beitrag an die Infrastrukturkosten für die übermässige Anzahl Abfragen oder das übermässige Datenvolumen. 3 Gebühren werden erhoben für: a. den Zugang zu Geobasisdaten, die nicht als offene Verwaltungsdaten nach Artikel 28 a gelten; b. den Zugang zu Geobasisdaten, der nicht über Geodienste möglich ist; c. besondere Dienstleistungen; d. die Produkte, Dienste und Leistungen nach Artikel 46 Absatz 1. 4 Soweit diese Verordnung und der Gebührentarif des zuständigen Departements keine anderen Regelungen enthalten und keine vertraglichen Regelungen bestehen, wird eine Gebühr nach Zeitaufwand erhoben. 5 Bereitstellungs- und Transportkosten können zusätzlich zu den Gebühren nach den Absätzen 3 und 4 in Rechnung gestellt werden. Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art44a",
+      "chapter": "11. Abschnitt: Grundsätze für die Gebührenregelungen des Bundes",
+      "section": "44a",
+      "title": "a Bereitstellungskosten",
+      "content": "1 Zur Abgeltung des Aufwands für die Bereitstellung ausserhalb des Zugangs nach Artikel 28 a wird eine Gebühr nach dem Gebührentarif des Departements erhoben. 2 Für die Bereitstellung werden zusätzlich die folgenden Kosten in Rechnung gestellt: a. Datenträger: Einstandspreis pro Einheit; b. Verpackung und Versand: 0–25 Franken pro Versandeinheit. Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Mehrwertsteuer",
+      "content": "Für die amtlichen Leistungen, die der Mehrwertsteuer unterliegen, wird die Steuer zusätzlich zu den Gebühren erhoben. Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art45a45e",
+      "section": "45a45e",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ( AS 2009 6189 ). Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art45f",
+      "section": "45f",
+      "title": "f Transportkosten",
+      "content": "1 Das Porto wird entsprechend den Tarifen der Schweizerischen Post in Rechnung gestellt. 2 Erfolgt der Transport aus technischen Gründen oder auf Wunsch der Bestellerin oder des Bestellers mit anderen Anbieterinnen und Anbietern von Transportdiensten, so werden die effektiven Transportkosten in Rechnung gestellt. Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ( AS 2009 6189 )."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Pauschalgebühren",
+      "content": "1 Pauschalgebühren werden erhoben für: a. analoge Karten und Atlanten; b. die Nutzung besonderer Dienste und Leistungen; c. Software; d. Berichte und Studien; e. und f. … g. Änderungen von Einwilligungen und Lizenzen; h. das Verfahren der nachträglichen Einwilligung (Art. 27); i. die Verfügung der Vernichtung oder Einziehung (Art. 33). 2 Zusätzlich zur Pauschalgebühr können die Bereitstellungskosten und die Transportkosten erhoben werden. 3 … Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ( AS 2009 6189 ). Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ( AS 2021 37 ). Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ( AS 2021 37 ). Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ( AS 2021 37 ). Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art46a",
+      "section": "46a",
+      "title": "a Gebührentarif",
+      "content": "1 Das zuständige Departement erlässt einen Gebührentarif. Darin legt es die Ansätze für die Gebühren nach Artikel 44 Absätze 2–4, die Bereitstellungskosten und die Pauschalgebühren fest. 2 Es kann im Gebührentarif Ausnahmen von der Gebührenerhebung oder Gebührenreduktionen vorsehen, wenn: a. dies im Interesse des Bundes liegt; b. die Nutzung für Bildungs- und Forschungszwecke erfolgt. Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ( AS 2009 6189 ). Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ( AS 2021 37 )."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "12. Abschnitt: Koordination, Mitwirkung",
+      "section": "48",
+      "title": "Koordinationsorgan",
+      "content": "1 Für die Koordination im Bereich der Geoinformation des Bundes wird ein Koordinationsorgan nach Artikel 55 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 eingesetzt. 2 Das Koordinationsorgan hat folgende Aufgaben: a. Koordination der Tätigkeiten der Bundesverwaltung; b. Entwicklung von Strategien des Bundes; c. Mitwirkung bei der Entwicklung von technischen Normen; d. Betrieb eines Kompetenzzentrums; e. Beratung von kantonalen Stellen. 3 Es ist gegenüber den Stellen des Bundes weisungsberechtigt. 4 Das Koordinationsorgan setzt sich zusammen aus mindestens je einer Vertreterin oder einem Vertreter jedes Departements und der Bundeskanzlei sowie aus dem Bereich der Eidgenössischen Technischen Hochschulen und des Bundesamtes für Landestopografie. Jede Behörde bezeichnet ihre Vertretung selber. 5 Es ist administrativ dem Bundesamt für Landestopografie zugeordnet und verfügt über eine eigene Geschäftsstelle. SR 172.010"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "12. Abschnitt: Koordination, Mitwirkung",
+      "section": "49",
+      "title": "Identifikator",
+      "content": "Allen Geobasisdaten wird ein eindeutiger numerischer Identifikator zugeordnet. Der Identifikator wird im Anhang 1 festgehalten."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "12. Abschnitt: Koordination, Mitwirkung",
+      "section": "50",
+      "title": "Mitwirkung der Kantone, Anhörung der Organisationen",
+      "content": "Bei der Vorbereitung von technischen Normen und anderen Vorgaben des Bundes im Geltungsbereich dieser Verordnung, die nicht ausschliesslich die Bundesverwaltung betreffen, stellt der Bund die Mitwirkung der Kantone und die Anhörung der Partnerorganisationen auf geeignete Weise sicher."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "13. Abschnitt: Ordnungswidrigkeiten",
+      "section": "51",
+      "title": "Widerhandlungen, Strafverfolgung",
+      "content": "1 Mit Busse bis zu 5000 Franken wird bestraft, wer: a. sich oder Dritten widerrechtlich Zugang zu Geobasisdaten verschafft; b. Geobasisdaten oder Geodienste ohne Einwilligung nutzt; c. Geobasisdaten ohne Einwilligung weitergibt; d. Vorschriften über die Nutzung, namentlich über die Quellenangabe, missachtet. 2 Die Strafverfolgung obliegt den Kantonen."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "14. Abschnitt: Schlussbestimmungen",
+      "section": "52",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang 2 geregelt."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "14. Abschnitt: Schlussbestimmungen",
+      "section": "53",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Für die Umsetzung der Artikel 3, 8–19 und 34–36 wird den Kantonen eine Frist von fünf Jahren ab dem Inkrafttreten dieser Verordnung gewährt. Verweist die Verordnung auf technische Normen und Vorgaben, die beim Inkrafttreten noch nicht bestehen, so gilt die Übergangsfrist ab dem Zeitpunkt, in dem diese den Kantonen mitgeteilt werden. 1bis Für die Geobasisdaten, die öffentlich-rechtliche Eigentumsbeschränkungen abbilden, gelten die Artikel 25–30 der Verordnung vom 2. September 2009 über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen. 2 Für den Wechsel des Lagebezugssystems und -rahmens von CH1903/LV03 zu CH1903+/LV95 werden folgende Übergangsfristen festgelegt: a. für den Wechsel bei den Referenzdaten bis zum 31. Dezember 2016; b. für den Wechsel bei den übrigen Geobasisdaten bis zum 31. Dezember 2020. 3 Artikel 4 Absatz 1 Buchstabe a tritt am 1. Januar 2021 ausser Kraft. SR 510.622.4 Eingefügt durch Anhang Ziff. 2 der V vom 2. Sept. 2009 über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen, in Kraft seit 1. Okt. 2009 ( AS 2009 4723 )."
+    },
+    {
+      "provision_ref": "art53a",
+      "chapter": "14. Abschnitt: Schlussbestimmungen",
+      "section": "53a",
+      "title": "a Übergangsbestimmungen zur Änderung vom 18. November 2009",
+      "content": "1 Für hängige Einwilligungsverfahren gelten die vor dem Inkrafttreten der Änderung geltenden Gebührenregelungen. 2 Die übrigen im Zeitpunkt des Inkrafttretens der Änderung bestehenden Verträge über die Nutzung von Geobasisdaten und Geodiensten und über die dafür zu entrichtenden Gebühren bleiben bis zum Ende der vereinbarten Dauer, längstens aber bis zum 31. Dezember 2014 in Kraft. Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ( AS 2009 6189 )."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "14. Abschnitt: Schlussbestimmungen",
+      "section": "54",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2008 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nachführung:",
+      "definition": "Nachführung: laufende oder periodische Anpassung der Geobasisdaten an Veränderungen von Standort, Ausdehnung und Eigenschaften der erfassten Räume und Objekte;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Historisierung:",
+      "definition": "Historisierung: Festhalten von Art, Umfang und Zeitpunkt einer Änderung von Geobasisdaten;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Archivierung:",
+      "definition": "Archivierung: periodisches Erstellen von Kopien des Datenbestands und deren dauerhafte und sichere Aufbewahrung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eigengebrauch:",
+      "definition": "Eigengebrauch: Nutzung von Geobasisdaten: 1. im persönlichen Bereich und im Kreis von Personen, die unter sich eng verbunden sind, wie Verwandte oder Freunde,",
+      "source_provision": "art2"
+    },
+    {
+      "term": "gewerbliche Nutzung:",
+      "definition": "gewerbliche Nutzung: jede Nutzung von Geobasisdaten, die keine Nutzung zum Eigengebrauch ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Intensität der Nutzung:",
+      "definition": "Intensität der Nutzung: Ausmass der parallelen und wiederholten Nutzung durch die Nutzerin oder den Nutzer.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "gewerbliche Leistungen:",
+      "definition": "gewerbliche Leistungen: Dienstleistungen, Produkte und ähnliche Leistungen, die von Organisationseinheiten der öffentlichen Verwaltung ausserhalb ihrer amtlichen Tätigkeit im Wettbewerb zu privaten Anbieterinnen und Anbietern erbracht werden;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Suchdienst:",
+      "definition": "Suchdienst: Internetdienst, mit dem nach Geodiensten und, auf der Grundlage entsprechender Geometadaten, nach Geodatensätzen gesucht werden kann;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Darstellungsdienst:",
+      "definition": "Darstellungsdienst: Internetdienst, mit dem darstellbare Geodatensätze angezeigt, vergrössert, verkleinert und verschoben, Daten überlagert und die für die Daten relevanten Inhalte von Geometadaten angezeigt werden können und der ein Navigieren in den Geodaten ermöglicht;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Download-Dienst:",
+      "definition": "Download-Dienst: Internetdienst, der das Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon und, wenn durchführbar, den direkten Zugriff darauf ermöglicht;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transformationsdienst:",
+      "definition": "Transformationsdienst: Internetdienst zur Umwandlung von Geodatensätzen;",
+      "source_provision": "art2"
+    }
+  ]
+}

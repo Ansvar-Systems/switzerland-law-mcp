@@ -1,0 +1,755 @@
+{
+  "id": "sr-131-216-2",
+  "type": "statute",
+  "title": "Verfassung des Kantons Nidwalden, vom 10. Oktober 1965",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1965/3_619_631_611_fga/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "A. Grundrechte",
+      "section": "1",
+      "title": "",
+      "content": "1 Die Freiheit und die Würde des Menschen sind unverletzlich. 2 In den Schranken des Bundesrechts und der zur Wahrung der öffentlichen Ordnung erlassenen kantonalen Gesetze sind insbesondere gewährleistet: 1. die Freiheit des Glaubens und des Gewissens sowie die freie Ausübung gottesdienstlicher Handlungen; 2. die freie Meinungsbildung, Meinungsäusserung und Meinungsverbreitung, im besondern die Freiheit der Presse; 3. die Vereinsfreiheit und die Versammlungsfreiheit; 4. die Niederlassungsfreiheit für alle Schweizer Bürger; 5. die körperliche Unversehrtheit; 6. die Bewegungsfreiheit des Menschen sowie die Unverletzlichkeit der Wohnung; 7. die privaten Rechte und die unentziehbaren Ansprüche unter Vorbehalt einer im öffentlichen Interesse durchzuführenden Enteignung; 8. die Handels- und Gewerbefreiheit."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "A. Grundrechte",
+      "section": "2",
+      "title": "",
+      "content": "1 Alle Menschen sind vor dem Gesetze gleich. 2 Niemand darf wegen seines Geschlechts, seiner Herkunft, seiner Sprache, seiner Rasse, seiner sozialen Stellung, seiner weltanschaulichen, politischen oder religiösen Überzeugung benachteiligt oder bevorzugt werden. 3 Kanton und Gemeinden fördern die tatsächliche Gleichstellung von Mann und Frau. Angenommen in der Volksabstimmung vom 22. Sept. 1996, in Kraft seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "A. Grundrechte",
+      "section": "3",
+      "title": "",
+      "content": "1 Niemand kann dem verfassungsmässigen Richter entzogen werden. 2 Das rechtliche Gehör ist gewährleistet. 3 Bei Mittellosigkeit ist im Rahmen der Gesetzgebung der Anspruch auf unentgeltliche Rechtspflege gewährleistet. 4 … Aufgehoben in der Volksabstimmung vom 2. Mai 2010, mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 2. Mai 2010, mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "Rückwirkende Gesetze, die den Privaten neue Belastungen auferlegen, sind unzulässig."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": "Öffentlichrechtliche Körperschaften und Anstalten haben im Rahmen des Gesetzes den Schaden zu ersetzen, den ihre Behörden, Beamten und Angestellten in Ausübung einer nichtgewerblichen dienstlichen Verrichtung Dritten zufügen."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "Der Entzug und die ähnlich einem Entzug wirkende Beschränkung eines privaten Eigentumsrechts oder eines vermögenswerten Anspruchs verpflichtet zu vollem Ersatz."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "B. Politische Rechte",
+      "section": "8",
+      "title": "",
+      "content": "Das Aktivbürgerrecht können alle Personen ausüben, die das Schweizerbürgerrecht besitzen, im Kanton rechtlich niedergelassen sind, das 18. Altersjahr zurückgelegt haben und denen nicht durch die Gesetzgebung das Aktivbürgerrecht entzogen ist. Angenommen in der Volksabstimmung vom 22. Sept. 1996, in Kraft seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "B. Politische Rechte",
+      "section": "9",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 22. Sept. 1996, mit Wirkung seit 22. Sept. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "B. Politische Rechte",
+      "section": "10",
+      "title": "",
+      "content": "Der Aktivbürger kann im Kanton und in seiner Wohnsitzgemeinde: 1. an Wahlen und Abstimmungen teilnehmen; 2. vom Recht der Initiative und des Referendums Gebrauch machen; 3. in eine Behörde oder in ein öffentliches Amt gewählt werden; die Gesetzgebung bestimmt, in welchen Fällen für die Wahlfähigkeit von Beamten ein Befähigungsausweis notwendig ist oder das Aktivbürgerrecht nicht vorliegen muss."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "B. Politische Rechte",
+      "section": "11",
+      "title": "",
+      "content": "Jedermann ist berechtigt, an die Behörden Petitionen zu richten."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "B. Politische Rechte",
+      "section": "12",
+      "title": "",
+      "content": "Der Erwerb und der Verlust des Kantons- und Gemeindebürgerrechts wird durch das Gesetz geregelt."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "C. Pflichten",
+      "section": "13",
+      "title": "",
+      "content": "1 Jede Person hat die Pflichten zu erfüllen, die ihr durch die Kantons- und Gemeindegesetzgebung übertragen sind. 2 Die Teilnahme an den kantonalen und kommunalen Wahlen und Abstimmungen ist Bürgerpflicht. 3 Jede Person, die das Aktivbürgerrecht besitzt, ist verpflichtet, das ihr verfassungsgemäss übertragene Amt für eine Amtsdauer zu übernehmen, soweit es sich um ein Nebenamt handelt; Ausnahmen bestimmt das Gesetz. Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "A. Schule",
+      "section": "14",
+      "title": "",
+      "content": "1 Der Schulbesuch ist innerhalb der gesetzlichen Altersgrenzen obligatorisch. 2 In den öffentlichen Schulen ist der Unterricht unentgeltlich, sofern die Gesetzgebung unter Wahrung des Bundesrechts nichts anderes bestimmt. 3 Die öffentlichen Schulen sind in vaterländischem und christlichem Geiste zu führen; sie müssen von den Angehörigen aller Bekenntnisse ohne Beeinträchtigung ihrer Glaubens- und Gewissensfreiheit besucht werden können."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "A. Schule",
+      "section": "15",
+      "title": "",
+      "content": "1 Der Volksschulunterricht obliegt im Rahmen der Gesetzgebung den Gemeinden. 2 Der Kanton übt die Aufsicht über den Volksschulunterricht aus und unterstützt ihn durch Beiträge."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "A. Schule",
+      "section": "16",
+      "title": "",
+      "content": "Dem Kanton obliegt die Führung und Förderung von Berufsschulen; Aufgaben der Berufsbildung können Wirtschaftsverbänden übertragen werden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "A. Schule",
+      "section": "17",
+      "title": "",
+      "content": "1 Der Kanton kann höhere Unterrichtsanstalten führen oder mit Beiträgen unterstützen. 2 Er kann zu diesem Zweck mit andern Kantonen Konkordate abschliessen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "A. Schule",
+      "section": "18",
+      "title": "",
+      "content": "1 Benachteiligten Kindern ist eine besondere Erziehung und Ausbildung zu geben. 2 Zu diesem Zweck führt oder unterstützt der Kanton Sonderschulen und Erziehungsheime."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "A. Schule",
+      "section": "19",
+      "title": "",
+      "content": "Der Kanton fördert im Rahmen der Gesetzgebung die wissenschaftliche und berufliche Ausbildung und Weiterbildung durch Beiträge."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "",
+      "content": "1 Das Recht zur Errichtung und Führung von Privatschulen ist im Rahmen der Gesetzgebung gewährleistet. 2 Privatschulen stehen unter der Aufsicht des Kantons. 3 Sie können im Rahmen der Gesetzgebung aus öffentlichen Mitteln unterstützt werden."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "B. Heimat und Kultur",
+      "section": "21",
+      "title": "",
+      "content": "1 Der Kanton schützt die natürlichen Reichtümer des Landes. 2 Er fördert insbesondere die Massnahmen zur Reinerhaltung der Gewässer und der Luft, zur Erhaltung und Bewirtschaftung der Waldungen, zum Schutz der Bergwelt sowie die Bestrebungen der Landes- und Ortsplanung."
+    },
+    {
+      "provision_ref": "art21a",
+      "chapter": "B. Heimat und Kultur",
+      "section": "21a",
+      "title": "",
+      "content": "1 Kanton und Gemeinden setzen sich für die Begrenzung des Klimawandels und dessen Auswirkungen ein; sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen und richten ihre Massnahmen unter anderem darauf aus, die Treibhausgasemissionen bis zur Treibhausgasneutralität zu vermindern. 2 Sie können die Entwicklung und Anwendung von Technologien, Materialien und Prozessen fördern, die zum Klimaschutz und zur Anpassung an den Klimawandel beitragen. Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 13. März 2023. Gewährleistungsbeschluss vom 14. März 2024 ( BBl 2024 665 Art. 2; 2023 2671 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "B. Heimat und Kultur",
+      "section": "22",
+      "title": "",
+      "content": "1 Der Kanton fördert die Bestrebungen des Heimatschutzes und der Denkmalpflege. 2 Er hat das heimatliche Landschafts- und Ortsbild, geschichtliche Stätten sowie Natur- und Kulturdenkmäler zu schonen und, wo das allgemeine Interesse überwiegt, zu erhalten."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "B. Heimat und Kultur",
+      "section": "23",
+      "title": "",
+      "content": "1 Der Kanton fördert das wissenschaftliche und künstlerische Schaffen sowie die Bestrebungen der Volkskultur. 2 Er kann Institutionen unterhalten oder unterstützen, die wesentliche kulturelle Aufgaben im Kanton erfüllen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "B. Heimat und Kultur",
+      "section": "24",
+      "title": "",
+      "content": "Der Kanton ist bestrebt, die Erkenntnisse und die Leistungen von Wissenschaft und Kunst jedermann zugänglich zu machen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "C. Fürsorge und Sozialversicherung",
+      "section": "25",
+      "title": "",
+      "content": "Die Armenfürsorge wird durch das Gesetz geregelt."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "C. Fürsorge und Sozialversicherung",
+      "section": "26",
+      "title": "",
+      "content": "Der Kanton und die Gemeinden können in Ergänzung der Sozialversicherungen des Bundes und in den Bereichen, die nicht bundesrechtlich geordnet sind, besondere Versicherungen und Fürsorgeeinrichtungen schaffen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "C. Fürsorge und Sozialversicherung",
+      "section": "27",
+      "title": "",
+      "content": "1 Für das Wohnungswesen sind die Gemeinden zuständig. 2 Der Kanton kann für die Förderung des Wohnungsbaus einheitliche gesetzliche Bestimmungen erlassen und ihn mit Beiträgen unterstützen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "C. Fürsorge und Sozialversicherung",
+      "section": "28",
+      "title": "",
+      "content": "1 Der Kanton ist bestrebt, die Volksgesundheit zu heben. 2 Er regelt das Medizinalwesen. 3 Er kann die Krankenfürsorge gesetzlich ordnen und durch Beiträge unterstützen; er kann Spitäler und Heime führen oder unterstützen."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "D. Schutz der Familie",
+      "section": "29",
+      "title": "",
+      "content": "In der Erfüllung ihrer Aufgaben sind Kanton und Gemeinden bestrebt, die Familie als Grundlage des Gemeinschaftslebens zu festigen."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "E. Wirschaftsordnung",
+      "section": "30",
+      "title": "",
+      "content": "1 Der Kanton erlässt im Rahmen des Bundesrechts und dieser Verfassung die zur Förderung von Industrie, Gewerbe und Handel erforderlichen Vorschriften. 2 Er kann Anstalten und Werke, die der wirtschaftlichen Entwicklung des Kantons dienen, unterhalten oder unterstützen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "E. Wirschaftsordnung",
+      "section": "31",
+      "title": "",
+      "content": "1 Der Kanton trifft die in seiner Befugnis liegenden Massnahmen zur Erhaltung eines leistungfähigen Bauernstandes. 2 Er kann insbesondere die Erhaltung des bäuerlichen Grundbesitzes, Güterzusammenlegungen und Bodenverbesserungen, die Beschaffung landwirtschaftlicher Kredite, die Qualitätsverbesserung der Produkte sowie das bäuerliche Bildungs- und Beratungswesen fördern."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "F. Finanzordnung",
+      "section": "32",
+      "title": "",
+      "content": "1 Kanton und Gemeinden besteuern nach Massgabe der Gesetzgebung das Einkommen und das Vermögen der natürlichen Personen sowie den Ertrag und das Kapital der juristischen Personen. 2 Die kantonale Gesetzgebung bestimmt die weitern Steuern, die von Kanton oder Gemeinden erhoben werden können."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "F. Finanzordnung",
+      "section": "33",
+      "title": "",
+      "content": "Der Finanzausgleich zugunsten von Gemeinden wird durch die Gesetzgebung geregelt. Angenommen an der Landsgemeinde vom 30. April 1972, in Kraft seit 30. April 1972. Gewährleistungsbeschluss vom 11. Dez. 1972 ( BBl 1972 II 1596 Art. 1 Ziff. 3 1397 )."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "III. Staat und Kirche",
+      "section": "34",
+      "title": "",
+      "content": "1 Die römisch-katholische Kirche ist Landeskirche. 2 Der Landrat ist zuständig, den Kanton im Rahmen des Bundesrechts beim Abschluss der für das Verhältnis zum Bistum notwendigen Übereinkommen mit der Kurie zu vertreten."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "III. Staat und Kirche",
+      "section": "35",
+      "title": "",
+      "content": "Die evangelisch-reformierte Kirche ist öffentlichrechtlich anerkannt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "III. Staat und Kirche",
+      "section": "36",
+      "title": "",
+      "content": "Alle übrigen Religionsgemeinschaften stehen unter den Grundsätzen des Privatrechts, soweit sie nicht durch das Gesetz öffentlichrechtlich anerkannt werden."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "III. Staat und Kirche",
+      "section": "37",
+      "title": "",
+      "content": "1 Die öffentlichrechtlich anerkannten Kirchen ordnen im Rahmen der Gesetzgebung ihre Angelegenheiten selbständig. 2 Wird durch die stimmberechtigten Kirchenglieder eine Kirchenverfassung erlassen, bedarf sie der Genehmigung durch den Landrat."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "III. Staat und Kirche",
+      "section": "38",
+      "title": "",
+      "content": "Die Kantonseinwohner sind Glieder einer öffentlichrechtlich anerkannten Kirche, sofern sie deren Konfession angehören; Übertritt und Austritt haben durch schriftliche Erklärung an den Präsidenten der Kirchgemeinde oder Kapellgemeinde zu erfolgen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "III. Staat und Kirche",
+      "section": "39",
+      "title": "",
+      "content": "1 Der Religionsunterricht ist Schulfach auf allen Schulstufen. 2 Er wird von den öffentlichrechtlich anerkannten Kirchen erteilt; mit deren Einverständnis können die Schulen den Bibelunterricht durch ihre Lehrkräfte erteilen lassen."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "III. Staat und Kirche",
+      "section": "40",
+      "title": "",
+      "content": "Der Kanton gewährleistet den Fortbestand der Klöster und kirchlichen Stiftungen."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "41",
+      "title": "",
+      "content": "1 Die rechtsetzende, die vollziehende und die rechtsprechende Gewalt sind getrennt; keine Gewalt darf in den Wirkungsbereich der andern eingreifen. 2 Die Mitglieder des Landrates dürfen keinem kantonalen Gericht angehören. 3 Die Mitglieder des Regierungsrates dürfen weder dem Landrat noch einem Gericht noch einer Gemeindebehörde oder einem Korporationsrat angehören. 4 Die Mitglieder einer höhern Gerichtsinstanz dürfen nicht gleichzeitig einer ihr untergeordneten angehören. 5 Das Gesetz kann weitere Unvereinbarkeiten für die Mitgliedschaft in kantonalen oder kommunalen Behörden bestimmen. Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 ). Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "42",
+      "title": "",
+      "content": "Die Wahlen sind als Mehrheitswahlen durchzuführen, soweit durch das Gesetz nicht die Verhältniswahl eingeführt wird."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "43",
+      "title": "",
+      "content": "Die kantonalen und kommunalen Behörden sind einzuberufen: 1. wenn es die Geschäftsordnung vorsieht; 2. wenn es die Behörde beschliesst oder der Präsident anordnet; 3. wenn mindestens ein Viertel der Ratsmitglieder die Einberufung unter Nennung der zu behandelnden Gegenstände schriftlich verlangt."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "A. Allgemeine Vorschriften",
+      "section": "44",
+      "title": "",
+      "content": "1 Die kantonalen und kommunalen Behörden sind beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend ist. 2 Die Beschlussfähigkeit der Gerichte wird durch die Gesetzgebung geregelt."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "",
+      "content": "Die Amtsdauer der Behörden beträgt vier Jahre. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "",
+      "content": "Die Einstellung im Amt und die Amtsenthebung von Behördemitgliedern und Beamten wird durch das Gesetz geregelt."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "",
+      "content": "1 Die Akten können vom Aktivbürger, der für das betreffende Geschäft stimmberechtigt ist, eingesehen werden. 2 Die Beratungen des Landrates und der Volksvertretung in der Gemeinde sind im Rahmen der Gesetzgebung öffentlich. 3 Die Öffentlichkeit der Verhandlungen der Gerichte und der Gemeindeversammlung wird durch die Gesetzgebung umschrieben."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "",
+      "content": "1 Dem Regierungsrat oder einem Gericht dürfen nicht gleichzeitig angehören: 1. Ehegatten und eingetragene Partnerinnen oder Partner; 2. Verwandte und Verschwägerte in gerader Linie sowie bis und mit dem dritten Grad der Seitenlinie; 3. die Ehegatten und eingetragenen Partnerinnen oder Partner von Geschwistern. 2 Einer anderen kantonalen oder kommunalen Behörde dürfen nicht gleichzeitig angehören: 1. Ehegatten und eingetragene Partnerinnen oder Partner; 2. Verwandte und Verschwägerte in gerader Linie; 3. Geschwister. 3 Personen in dauernder Lebensgemeinschaft sind den Ehegatten beziehungsweise den eingetragenen Partnerinnen und Partnern gleichgestellt. 4 Über den durch die Unvereinbarkeit gebotenen Rücktritt entscheidet das Los. 5 Diese Bestimmungen gelten nicht für den Landrat und die Gemeindeparlamente. Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "",
+      "content": "Stans ist Hauptort des Kantons und Sitz der kantonalen Behörden."
+    },
+    {
+      "provision_ref": "art49a",
+      "section": "49a",
+      "title": "",
+      "content": "Das Gesetz kann für den Fall von Katastrophen und kriegerischen Ereignissen dem Landrat, dem Regierungsrat und den administrativen Räten die Befugnis einräumen, für beschränkte Zeit in Abweichung von den Zuständigkeitsvorschriften dieser Verfassung Massnahmen zum Schutze der Bevölkerung anzuordnen. Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ( BBl 1974 II 1527 Art. 1 Ziff. 1, 973 )."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "B. Die kantonalen Gewalten",
+      "section": "50",
+      "title": "",
+      "content": "1 Die Aktivbürgerinnen und Aktivbürger üben ihr Stimm- und Wahlrecht in den Politischen Gemeinden aus. 2 … Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "B. Die kantonalen Gewalten",
+      "section": "51",
+      "title": "",
+      "content": "1 Die Stimmberechtigten wählen: 1. den Landrat; 2. den Regierungsrat; 3. die Abordnung in den Ständerat; 4. … 2 … Aufgehoben in der Volksabstimmung vom 28. Nov. 1999, mit Wirkung seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ( BBl 2000 5158 Art. 1 Ziff. 1 3529 ). Angenommen in der Volksabstimmung vom 8. Juni 1997, in Kraft seit 8. Juni 1997. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 ). Aufgehoben in der Volksabstimmung vom 28. Nov. 1999, mit Wirkung seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ( BBl 2000 5158 Art. 1 Ziff. 1 3529 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "B. Die kantonalen Gewalten",
+      "section": "52",
+      "title": "",
+      "content": "Der obligatorischen Abstimmung unterliegen: 1. der Erlass und die Änderung der Kantonsverfassung sowie der Beschluss der Gesamtrevision der Kantonsverfassung; 2. Anträge gemäss Artikel 54, denen der Landrat nicht zustimmt; 3. vom Landrat erlassene oder abgeänderte Gesetze, denen die Aktivbürgerschaft einen Gegenantrag gemäss Artikel 54 a Absatz 3 gegenüberstellt; 4. unter Vorbehalt von Artikel 61 Ziffer 4 die Beschlüsse über einmalige Ausgaben, die 5 000 000 Franken, und über jährlich wiederkehrende Aufgaben, die 500 000 Franken übersteigen; 5. die Verabschiedung von Vernehmlassungen des Regierungsrates zuhanden des Bundes, soweit sie sich auf Atomanlagen, insbesondere Lagerstätten für radioaktive Abfälle, und sie vorbereitende Handlungen auf dem Gebiete des Kantons beziehen; 6. die Genehmigung von Verleihungen zur Benützung des Untergrundes für Ausbeutung, Produktion und Lagerung sowie deren vorbereitende Handlungen mit Ausnahme der Grundwasser- und Erdwärmenutzung. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art52a",
+      "section": "52a",
+      "title": "a",
+      "content": "1 Der Abstimmung unterliegen, wenn es binnen zweier Monate seit Veröffentlichung des Erlasses oder Beschlusses von 250 Aktivbürgerinnen und Aktivbürgern verlangt oder vom Landrat beschlossen wird: 1. die vom Landrat erlassenen Gesetze und die von ihm genehmigten interkantonalen Verträge; 2. die Beschlüsse des Landrates, die frei bestimmbare einmalige Ausgaben von mehr als 250 000 Franken oder jährlich wiederkehrende Ausgaben von mehr als 50 000 Franken zur Folge haben; 3. die Beschlüsse des Landrates über die Festsetzung des Kantonssteuerfusses und des Kirchensteuerfusses für juristische Personen. 2 Die Abstimmung ist binnen eines Jahres seit Veröffentlichung des Erlasses oder Beschlusses durchzuführen. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 ). Angenommen in der Volksabstimmung vom 24. Sept. 2000, in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ( BBl 2001 6542 Art. 1 Ziff. 2 4879 )."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "",
+      "content": "1 Der Landrat ist befugt, die Aktivbürgerschaft über die Aufnahme einzelner Grundsätze in die Gesetzgebung abstimmen zu lassen. 2 Das Ergebnis der konsultativen Abstimmung bindet den Landrat bei der Ausarbeitung der Gesetzgebung. 3 Die Bindung erstreckt sich nicht auf spätere Erlasse, in denen die gleiche Frage aufgegriffen wird."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "",
+      "content": "1 Anträge können als allgemeine Anregung oder, wenn sie nicht die Gesamtrevision der Verfassung verlangen, als ausgearbeitete Vorlage eingereicht werden. 2 Die Anträge dürfen sich nur auf einen einzigen Gegenstand beziehen und müssen eine Begründung enthalten. 3 Die Anträge dürfen nichts enthalten, was dem Bundesrecht oder, sofern sie nicht die Verfassungsrevision verlangen, der Kantonsverfassung widerspricht. 4 Anträge können stellen: 1. 1000 Aktivbürgerinnen und Aktivbürger sowie der Landrat, wenn die Gesamtrevision der Kantonsverfassung verlangt wird, 2. 500 Aktivbürgerinnen und Aktivbürger sowie der Landrat, wenn die Teilrevision der Kantonsverfassung verlangt wird; 3. 250 Aktivbürgerinnen und Aktivbürger sowie die in dieser Verfassung genannten Kantons- und Gemeindebehörden, wenn der Erlass, die Aufhebung oder die Abänderung eines Gesetzes oder eines Finanzbeschlusses verlangt wird; handelt es sich um einen Finanzbeschluss zugunsten eines gemeinnützigen oder genossenschaftlichen Zwecks, sind auch juristische Personen des privaten und öffentlichen Rechts antragsberechtigt, die im Kanton ihren Sitz haben. 5 Bei Anträgen der Aktivbürgerschaft sind die Unterschriften binnen zweier Monate seit der Hinterlegung des Antrages auf der Standeskanzlei einzureichen."
+    },
+    {
+      "provision_ref": "art54a",
+      "section": "54a",
+      "title": "a",
+      "content": "1 Der Landrat kann einem Antrag einen Gegenvorschlag gegenüberstellen. 2 500 Aktivbürgerinnen und Aktivbürger können einem Antrag des Landrates betreffend Teilrevision der Verfassung einen Gegenvorschlag gegenüberstellen. 3 250 Aktivbürgerinnen und Aktivbürger können vom Landrat erlassenen oder abgeänderten Gesetzen einen Gegenvorschlag gegenüberstellen. 4 Bei Gegenvorschlägen der Aktivbürgerschaft sind die Unterschriften binnen zweier Monate seit der Hinterlegung des Gegenvorschlages auf der Standeskanzlei einzureichen; die Hinterlegung hat binnen zweier Monate seit Veröffentlichung der Vorlage des Landrates zu erfolgen. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "",
+      "content": "1 Anträge, die der Abstimmung unterliegen, und Gegenvorschläge der Aktivbürgerschaft sind binnen eines Jahres seit der Einreichung zur Abstimmung zu bringen. 2 Wird eine allgemeine Anregung zum Beschluss erhoben, ist die ausgearbeitete Vorlage binnen zweier Jahre zu verabschieden. 3 Anträge und Gegenvorschläge können von den bevollmächtigten Antragstellenden bis zur Veröffentlichung des Abstimmungstages zurückgezogen werden. 4 Der Gegenvorschlag ist gleichzeitig mit dem Antrag, beziehungsweise der Vorlage des Landrates, zur Abstimmung zu bringen; bei Rückzug des Antrages ist nur der Gegenvorschlag zur Abstimmung zu bringen. 5 Bei einem Gegenvorschlag können die Aktivbürgerinnen und Aktivbürger sowohl dem Antrag, beziehungsweise der Vorlage des Landrates, als auch dem Gegenvorschlag zustimmen oder beide ablehnen; stimmen sie beiden Vorlagen zu, ist jene angenommen, für welche in der gleichzeitig stattfindenden Eventualabstimmung mehr Stimmen abgegeben werden. 6 Das Verfahren bei mehreren Gegenvorschlägen regelt das Gesetz."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "",
+      "content": "1 Für die gesetzliche Regelung des Mitanteils und der Nutzung an Korporationsgütern sind nur jene Personen stimmberechtigt, die das Aktivbürgerrecht sowie im Kanton ein Korporationsbürgerrecht besitzen. 2 Das Antragsrecht steht neben den gemäss Absatz 1 stimmberechtigten Personen dem Landrat und den Korporationsräten zu."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "",
+      "content": "Der Landrat besteht aus 60 Mitgliedern."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "",
+      "content": "1 Für die Wahlen in den Landrat bildet jede politische Gemeinde einen Wahlkreis. 2 Jeder Wahlkreis wählt nach den Vorschriften des Gesetzes die Mitglieder, die ihm aufgrund der Einwohnerzahl zukommen; massgebend ist die kantonale Einwohnerstatistik vom 31. Dezember des zweiten der Wahl vorausgehenden Kalenderjahres. 3 Jeder Wahlkreis hat Anspruch auf mindestens zwei Sitze. Angenommen an der Landsgemeinde vom 24. April 1988, in Kraft seit 24. April 1988. Gewährleistungsbeschluss vom 21. Juni 1989 ( BBl 1989 II 954 Art. 1 Ziff. 3 I 565 ). Angenommen an der Landsgemeinde vom 24. April 1988, in Kraft seit 24. April 1988. Gewährleistungsbeschluss vom 21. Juni 1989 ( BBl 1989 II 954 Art. 1 Ziff. 3 I 565 )."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "",
+      "content": "1 Der Landrat wählt auf die Dauer von einem Jahr die Präsidentin oder den Präsidenten, die Vizepräsidentin oder den Vizepräsidenten und die übrigen Mitglieder des Landratsbüros. 2 Die Präsidentin oder der Präsident ist für eine nächste einjährige Amtsdauer nicht wieder wählbar. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art59a",
+      "section": "59a",
+      "title": "",
+      "content": "1 Der Landrat wählt: 1. den Landammann und die Landesstatthalterin oder den Landesstatthalter auf die Amtsdauer von einem Jahr aus der Mitte des Regierungsrates; für die nächste einjährige Amtsdauer ist die bisherige Amtsinhaberin oder der bisherige Amtsinhaber als Landammann nicht wieder wählbar; 2. die Präsidentin oder den Präsidenten und die weiteren Mitglieder des Obergerichts; 3. die Präsidentinnen oder die Präsidenten und die weiteren Mitglieder des Kantonsgerichts; 4. die Präsidentin oder den Präsidenten und die weiteren Mitglieder des Verwaltungsgerichts; 5. die weiteren Behörden sowie die Beamtinnen und Beamten nach Massgabe der Gesetzgebung. 2 Die Wahlen von Richterinnen und Richtern sowie die Besetzung der Gerichtspräsidien sind jeweils zwei Jahre nach den Wahlen des Landrates und des Regierungsrates durchzuführen. Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 ). Angenommen in der Volksabstimmung vom 28. Nov. 1999, in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ( BBl 2000 5158 Art. 1 Ziff. 1 3529 ). Angenommen in der Volksabstimmung vom 28. Nov. 1999, in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ( BBl 2000 5158 Art. 1 Ziff. 1 3529 ). Angenommen in der Volksabstimmung vom 28. Nov. 1999, in Kraft seit 28. Nov. 1999. Gewährleistungsbeschluss vom 27. Sept. 2000 ( BBl 2000 5158 Art. 1 Ziff. 1 3529 ). Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "",
+      "content": "1 Der Landrat erlässt in Form des Gesetzes: 1. alle allgemeinverbindlichen Vorschriften, welche Rechte und Pflichten der natürlichen und juristischen Personen bestimmen; 2. alle grundlegenden Bestimmungen über Zuständigkeit, Organisation und Verfahren der öffentlichen Gewalten; 3. Einführungsbestimmungen zu bundesrechtlichen Erlassen, unter Vorbehalt von Artikel 64 Absatz 1 Ziffer 2. 2 Er genehmigt interkantonale Verträge mit rechtsetzendem Inhalt gemäss Absatz 1 Ziffer 1 und 2. 3 Er erlässt das für seine Tätigkeit notwendige Geschäftsreglement. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "",
+      "content": "In die Zuständigkeit des Landrates fallen weiter: 1. die Ausübung der dem Kanton zustehenden Rechte der Initiative und des Referendums in der Eidgenossenschaft; 2. der Entscheid über die verfassungsmässige Zulässigkeit der Anträge und Gegenvorschläge gemäss Artikel 54 und 54 a ; 3. die Erläuterung der Kantonsverfassung und der Gesetze, jedoch nie in einem vor dem Gericht anhängigen Fall; 4. die Beschlussfassung über alle Ausgaben, die durch das Bundesrecht dem Kanton verbindlich vorgeschrieben sind, über alle ausgaben, für die dem Landrat durch das Gesetz Vollmacht erteilt ist, sowie über alle frei bestimmbaren einmaligen Ausgaben bis 5 000 000 Franken und jährlich wiederkehrenden Ausgaben bis 500 000 Franken; 5. das Verfügungsrecht über das Finanzvermögen sowie im Rahmen von Ziffer 4 über das Verwaltungsvermögen, unter Vorbehalt von Artikel 65 Absatz 2 Ziffer 10; 6. die Beschlussfassung über den Unterhalt der im Besitz des Kantons stehenden Gebäude und Anlagen ohne Rücksicht auf Ziffer 4, jedoch unter Vorbehalt von Artikel 65 Absatz 2 Ziffer 9; 7. der Beschluss über die Festsetzung des Kantonssteuerfusses und des Kirchensteuerfusses für juristische Personen; 8. die Festsetzung des jährlichen Voranschlags und die Genehmigung der Staatsrechnung; 9. die Genehmigung von interkantonalen Verträgen im Rahmen von Ziffer 4, unter Vorbehalt von Artikel 65 Absatz 2 Ziffer 9; 10. die Beurteilung von Kompetenzkonflikten, in denen das Verfassungsgericht Partei ist; 11. das Recht der Begnadigung für Freiheitsstrafen; 12. die Oberaufsicht über die kantonale Verwaltung und die selbständigen Anstalten, insbesondere die Genehmigung der jährlichen Rechenschaftsberichte; 13. die Oberaufsicht über den Geschäftsgang der Gerichte, insbesondere die Genehmigung der jährlichen Rechenschaftsberichte; 14. alle übrigen durch die Gesetzgebung dem Landrat übertragenen Aufgaben. Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 ). Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 ). Angenommen in der Volksabstimmung vom 24. Sept. 2000, in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ( BBl 2001 6542 Art. 1 Ziff. 2 4879 ). Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "",
+      "content": "1 Das Recht, dem Landrat Anträge zu stellen, haben jedes Mitglied des Landrates, jede Kommission des Landrates sowie der Regierungsrat und dessen Mitglieder. 2 Die Kommissionen des Landrates sind befugt, Mitglieder der Verwaltungsbehörden, Beamte und Angestellte zur Auskunftserteilung vorzuladen sowie der Verwaltung nicht angehörende Personen beizuziehen."
+    },
+    {
+      "provision_ref": "art62a",
+      "section": "62a",
+      "title": "",
+      "content": "Der Regierungsrat besteht aus sieben Mitgliedern. Angenommen in der Volksabstimmung vom 8. Juni 1997, in Kraft seit 8. Juni 1997. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "",
+      "content": "1 Jedes Mitglied des Regierungsrates leitet ein Departement. 2 Jedes Departement umfasst eine oder mehrere Direktionen, deren Geschäftsbereich durch die Gesetzgebung bestimmt wird. 3 Der Regierungsrat nimmt die Zuteilung der Direktionen vor."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "",
+      "content": "1 Der Regierungsrat erlässt: 1. Vollzugsverordnungen, soweit ihn das Gesetz dazu ermächtigt; 2. Einführungsverordnungen zu bundesrechtlichen Erlassen, sofern sie allein Verfahren und Zuständigkeiten regeln. 2 Er erlässt zeitlich befristete Noterlasse; diese sind sobald als möglich dem Landrat zu unterbreiten, der über ihre weitere Geltung und Befristung entscheidet. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "",
+      "content": "1 Der Regierungsrat ist, unter Vorbehalt der Befugnisse des Landrates, die verwaltende Behörde des Kantons; er vertritt den Kanton nach aussen. 2 Er ist namentlich befugt und beauftragt: 1. die Erlasse durch eigene Verfügungen und durch Anweisungen an die ihm unterstellte Verwaltung zu vollziehen; 2. die Beschlüsse und die Entscheidungen anderer kantonaler Behörden zu vollstrecken, soweit diese Befugnis nicht besondern Organen vorbehalten ist; 3. die Beamtinnen und Beamten sowie die Angestellten der kantonalen Verwaltung zu wählen, soweit deren Wahl nicht durch die Gesetzgebung einer anderen Behörde übertragen ist; 4. unter Vorbehalt von Artikel 52 Ziffer 5 Vernehmlassungen zu erstatten, zu denen der Bund den Kanton auffordert; 5. die gesamte Staatsverwaltung zu überwachen und die sich selbst verwaltenden Anstalten nach Massgabe der Gesetzgebung zu beaufsichtigen; 6. die Gemeinden und Korporationen nach Massgabe der Gesetzgebung zu beaufsichtigen und bei schwerer Pflichtverletzung die notwendigen Massnahmen unter Vorbehalt der Beschwerde an den Landrat anzuordnen; 7. die Beschwerden gegen die Gemeinden und Korporationen sowie gegen die Departemente zu beurteilen, soweit nicht ein Gericht zuständig ist; 8. unter Vorbehalt von Artikel 52 Ziffer 6 die kantonalen Bewilligungen, Konzessionen und Verleihungen zu erteilen, soweit diese Aufgabe nicht nach Gesetz einer anderen Behörde übertragen ist; 9. unter Vorbehalt weitergehender ihm durch die Gesetzgebung oder durch Beschluss des Landrates übertragenen Vollmachten frei bestimmbare einmalige Ausgaben bis 200 000 Franken und jährlich wiederkehrende Ausgaben bis 40 000 Franken zu beschliessen; 10. das Kantonsvermögen zu verwalten und im Rahmen von Ziffer 9 darüber zu verfügen; 11. alle weitern durch die Gesetzgebung ihm übertragenen Aufgaben zu erfüllen. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 ). Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 ). Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 ). Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 ). Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 ). Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "",
+      "content": "1 Die Gerichte sind unabhängig und nur der Gesetzgebung unterworfen. 2 Gesetze, die gegen diese Verfassung verstossen oder bundesrechtswidrig sind, und ebenso verfassungs- und gesetzwidrige Erlasse sind für die Gerichte unverbindlich. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 )."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "",
+      "content": "1 Die Zivilgerichtsbarkeit wird ausgeübt durch: 1. das Kantonsgericht; 2. das Obergericht. 2 Die Gesetzgebung regelt die Organisation der Schlichtungsbehörden. Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art67a",
+      "section": "67a",
+      "title": "",
+      "content": "1 Die Strafgerichtsbarkeit wird ausgeübt durch: 1. das Kantonsgericht; 2. das Obergericht. 2 Die Gesetzgebung: 1. regelt die Organisation der Strafverfolgungsbehörden; 2. kann den Verwaltungsbehörden des Kantons und der Gemeinden unter Vorbehalt der richterlichen Überprüfung Verwaltungsstrafbefugnisse übertragen. Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "",
+      "content": "Die Gerichtsbarkeit bei verwaltungs- und sozialversicherungsrechtlichen Streitigkeiten wird durch das Verwaltungsgericht ausgeübt. Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "",
+      "content": "1 Verfassungsgericht ist das Obergericht. 2 Das Verfassungsgericht beurteilt: 1. Streitigkeiten über die Ausübung der politischen Rechte und über die Gültigkeit von Wahlen und Abstimmungen im Kanton sowie, nach Beurteilung durch den Regierungsrat gemäss Artikel 65 Ziffer 7, in den Gemeinden und Korporationen; 2. Streitigkeiten über die Rechtmässigkeit von Gesetzen und Verordnungen des Kantons, der Gemeinden und Korporationen; 3. Kompetenzkonflikte zwischen kantonalen Instanzen, sofern da Verfassungsgericht nicht Partei ist; 4. Streitigkeiten über die Selbständigkeit der Gemeinden, Korporationen und öffentlichrechtlich anerkannten Kirchen; 5. Beschwerden gegen Entscheide des Landrates oder des administrativen Rates über die verfassungsmässige Zulässigkeit der Anträge und Gegenvorschläge gemäss Artikel 61 Ziffer 2 oder Artikel 83 Absatz 2 Ziffer 5; 6. die weitern durch Gesetz dem Verfassungsgericht zugewiesenen Angelegenheiten. Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art69a",
+      "section": "69a",
+      "title": "",
+      "content": "1 Die Gesetzgebung regelt die Organisation und die Zuständigkeiten der Gerichte. 2 Die Gerichte können als Kollegial- und als Einzelgericht tätig sein. 3 Die Gesetzgebung kann: 1. für spezielle Streitigkeiten besondere richterliche Behörden einsetzen; 2. interkantonale Gerichte einsetzen. Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "C. Die kommunalen Gewalten",
+      "section": "70",
+      "title": "",
+      "content": "Der Bestand und die Selbständigkeit der Gemeinden ist gewährleistet."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "C. Die kommunalen Gewalten",
+      "section": "71",
+      "title": "",
+      "content": "1 Die Gemeinden regeln alle örtlichen Angelegenheiten, die nicht in den Aufgabenbereich des Bundes oder des Kantons fallen. 2 Sie sind im Rahmen der Gesetzgebung befugt: 1. die eigene Organisation frei zu bestimmen und ihre Behörden sowie Mitarbeitenden selbst zu wählen; 2. die in ihren Wirkungsbereich fallenden Aufgaben nach freiem Ermessen zu erfüllen. Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "C. Die kommunalen Gewalten",
+      "section": "72",
+      "title": "",
+      "content": "Die Gemeinden können für die gemeinsame Aufgabenerfüllung mit Gemeinden innerhalb und ausserhalb des Kantons im Rahmen der Gesetzgebung Verträge abschliessen, Gemeindeverbände bilden oder gemeinsame Anstalten errichten. Angenommen an der Landsgemeinde vom 26. April 1992, in Kraft seit 26. April 1992. Gewährleistungsbeschluss vom 14. Dez. 1993 ( BBl 1993 IV 599 Art. 1 Ziff. 4 II 180 )."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "C. Die kommunalen Gewalten",
+      "section": "73",
+      "title": "",
+      "content": "Die Gemeindeversammlung, der administrative Rat und dessen Präsident sind die notwendigen Organe jeder Gemeinde."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "",
+      "content": "1 Die Gemeinden unterliegen der Aufsicht des Regierungsrates. 2 Bei schwerer Pflichtverletzung kann der Regierungsrat unter Vorbehalt des Rekurses an den Landrat einer Gemeinde das Recht der Selbstverwaltung ganz oder teilweise entziehen oder andere Massnahmen anordnen."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "",
+      "content": "1 Die Gemeindeversammlung ist jährlich mindestens zweimal einzuberufen. 2 Ausserordentliche Gemeindeversammlungen sind einzuberufen, wenn es der administrative Rat beschliesst, oder wenn es ein Zwanzigstel der Stimmberechtigten unter Nennung der zu behandelnden Gegenstände schriftlich verlangt; im letzten Fall hat die Gemeindeversammlung binnen vier Monaten stattzufinden. 3 Die Verhandlungen leitet die Präsidentin beziehungsweise der Präsident oder die Vizepräsidentin beziehungsweise der Vizepräsident oder das in der Wahl nächstfolgende Mitglied des administrativen Rates. Angenommen in der Volksabstimmung vom 7. Juni 1998, in Kraft seit 7. Juni 1998. Gewährleistungsbeschluss vom 10. Juni 1999 ( BBl 1999 5181 Art. 1 Ziff. 2 2514 ). Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "",
+      "content": "In die Zuständigkeit der Gemeindeversammlung fallen: 1. der Erlass der Gemeindeordnung und der Reglemente; 2. die Wahl der Behörden und der gemäss der Gesetzgebung von der Gemeindeversammlung zu wählenden Mitarbeitenden; es steht den Gemeinden frei, die Wahl für den administrativen Rat und die für die Rechnungsrevision zuständige Kommission so festzulegen, dass alle zwei Jahre die Hälfte der Mitglieder zu wählen ist; 3. die Festsetzung des Gemeindesteuerfusses; 4. die Beschlüsse über Ausgaben und finanzielle Verfügungen, welche die Finanzkompetenzen des administrativen Rates übersteigen; 5. die Festsetzung des jährlichen Budgets; 6. die Genehmigung der Gemeinderechnung. Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 ). Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 ). Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 ). Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ( BBl 1974 II 1527 Art. 1 Ziff. 1, 973 ). Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "",
+      "content": "1 Anträge können als allgemeine Anregung oder als ausgearbeitete Vorlage eingereicht werden; wird eine allgemeine Anregung zum Beschluss erhoben, so ist der Gemeindeversammlung binnen Jahresfrist die ausgearbeitete Vorlage zu unterbreiten. 1a Das Gesetz kann die Verlängerung dieser Frist vorsehen. 2 Die Anträge dürfen sich nur auf einen einzigen Gegenstand beziehen und müssen eine Begründung enthalten. 3 Anträge können stellen: 1. jede Aktivbürgerin und jeder Aktivbürger, jede Kommission und der administrative Rat der zuständigen Gemeinde; 2. juristische Personen des privaten und öffentlichen Rechts, die in der Gemeinde ihren Sitz haben, sofern es sich um einen Finanzbeschluss zugunsten eines gemeinnützigen oder genossenschaftlichen Zwecks handelt. 4 Die Anträge dürfen nichts enthalten, was dem Bundesrecht oder dem kantonalen Recht widerspricht. Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 ). Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "",
+      "content": "Das Gesetz bestimmt die Voraussetzungen, unter denen in Gemeindeangelegenheiten die Urnenabstimmung zu erfolgen hat."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "",
+      "content": "Das Gesetz bestimmt die Voraussetzungen, unter denen Gemeinden die Gemeindeversammlung durch die Volksvertretung ersetzen können, sowie die Organisation und die Befugnisse der Volksvertretung."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "",
+      "content": "1 Der administrative Rat (Gemeinderat, Schulrat, Kirchenrat oder Kapellrat) besteht aus drei bis elf Mitgliedern. 2 Aus dessen Mitte wählt die Gemeindeversammlung das Präsidium und das Vizepräsidium. Das Gesetz regelt die Amtsdauer. 3 Es steht dem administrativen Rat im Rahmen der Gesetzgebung zu, den Aufgabenbereich seiner Mitglieder zu umschreiben sowie Kommissionen zu bilden. Angenommen in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "",
+      "content": "Der administrative Rat erlässt Verordnungen, zu denen er durch die Gesetzgebung zuständig erklärt wird. Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "",
+      "content": "1 Der administrative Rat ist die verwaltende Behörde der Gemeinde; er vertritt die Gemeinde nach aussen. 2 Er ist, unter Vorbehalt von Artikel 80, namentlich befugt und beauftragt: 1. das Protokoll der Gemeindeversammlung zu genehmigen; 2. die Gesetze, Verordnungen und Reglemente zu vollziehen; 3. die Beschlüsse und Entscheidungen der kantonalen Behörden und der Gemeindeversammlung zu vollziehen, soweit diese Befugnis nicht besondern Organen vorbehalten ist; 4. die Mitarbeitenden zu wählen, soweit deren Wahl nicht durch die Gesetzgebung einer anderen Instanz übertragen ist; 5. über die verfassungsmässige Zulässigkeit der Anträge an die Gemeindeversammlung gemäss Artikel 78 Absatz 4 zu entscheiden; 6. Vernehmlassungen zu erstatten, zu denen der Kanton die Gemeinde auffordert; 7. im Rahmen der in der Gesetzgebung der Gemeinde umschriebenen Finanzkompetenzen frei bestimmbare einmalige Ausgaben und jährlich wiederkehrende Ausgaben zu beschliessen, ferner Ausgaben, die der Gemeinde durch die Gesetzgebung verbindlich vorgeschrieben oder für welche durch die Gesetzgebung oder den Beschluss der Gemeindeversammlung dem administrativen Rat weitergehende Vollmachten übertragen sind; 8. das Gemeindevermögen zu verwalten und im Rahmen von Ziffer 7 darüber zu verfügen; 9. … 10. alle weitern durch die Gesetzgebung ihm übertragenen Aufgaben zu erfüllen. Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 ). Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ( BBl 1974 II 1527 Art. 1 Ziff. 1 973 ). Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 22. Sept. 2025 ( BBl 2025 2770 Art. 1, 1707 )."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "",
+      "content": "Eine politische Gemeinde darf nicht ohne Zustimmung der Aktivbürgerschaft der Gemeinde und des Kantons aufgeteilt oder mit einer andern Gemeinde vereinigt werden. Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "",
+      "content": "Die politische Gemeinde regelt im Rahmen der Gesetzgebung alle örtlichen Angelegenheiten, die nicht einer andern Gemeinde übertragen sind."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "",
+      "content": "1 Das Gebiet der Schulgemeinde deckt sich mit jenem der politischen Gemeinde. 2 Die Schulgemeinde kann aufgehoben und deren Aufgaben und Befugnisse durch die politische Gemeinde übernommen werden, sofern die Stimmberechtigten dieser Zusammenlegung zustimmen; die Zusammenlegung kann durch Beschluss der Stimmberechtigten rückgängig gemacht werden. Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ( BBl 1974 II 1527 Art. 1 Ziff. 1 973 )."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "",
+      "content": "Aufgehoben an der Landsgemeinde vom 26. April 1992, mit Wirkung seit 26. April 1992. Gewährleistungsbeschluss vom 14. Dez. 1993 ( BBl 1993 IV 599 Art. 1 Ziff. 4 II 180 )."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "",
+      "content": "1 Die Glieder der öffentlichrechtlich anerkannten Kirchen bilden Kirchgemeinden oder Kapellgemeinden. 2 Die Neubildung, Zusammenlegung oder Teilung von Kirchgemeinden oder Kapellgemeinden bedarf der Zustimmung der Stimmberechtigten sowie des Landrates. Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ( BBl 1974 II 1527 Art. 1 Ziff. 1 973 )."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "",
+      "content": "1 Stimm- und Wahlrecht richtet sich nach den Bestimmungen dieser Verfassung; es kann durch die Kirchenverfassung auf weitere Kirchenglieder ausgedehnt werden. 2 Der zuständige Pfarrer oder Kaplan ist von Amtes wegen Mitglied des Kirchen- oder Kapellrates. 3 Der Gemeindeversammlung der römisch-katholischen Kirchgemeinden oder Kapellgemeinden, denen dieses hergebrachte Recht zukommt, steht die Ernennung (Präsentation) der Geistlichen zu. Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "",
+      "content": "1 Kirchgemeinden oder Kapellgemeinden können Kirchensteuern nur von den Kirchengliedern beziehen. 2 Der Kanton erhebt im Rahmen der Gesetzgebung einen Zuschlag zu den Ertrags- und Kapitalsteuern der juristischen Personen; die Gesetzgebung regelt die Verteilung des Steuerertrags unter den öffentlich-rechtlich anerkannten Kirchen. Angenommen an der Landsgemeinde vom 28. April 1974, in Kraft seit 28. April 1974. Gewährleistungsbeschluss vom 12. Dez. 1974 ( BBl 1974 II 1527 Art. 1 Ziff. 1 973 )."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "V. Korporationen",
+      "section": "91",
+      "title": "",
+      "content": "1 Die Errichtung neuer Korporationen bedarf der Zustimmung des Landrates. 2 Die Befugnis der Korporationen, ihr Vermögen selbst zu verwalten und zu nutzen, ist in den Schranken der Gesetzgebung gewährleistet."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "VI. Die Revision der Verfassung",
+      "section": "92",
+      "title": "",
+      "content": "1 Wird ein Antrag als ausgearbeitete Vorlage eingereicht, so erfolgt die Teilrevision der Verfassung unter Vorbehalt von Artikel 54 und Artikel 94 auf dem Wege der Gesetzgebung. 2 Wird ein Antrag als allgemeine Anregung eingereicht, so erfolgt die Teilrevision nach dem in Artikel 93 festgelegten Verfahren."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "VI. Die Revision der Verfassung",
+      "section": "93",
+      "title": "",
+      "content": "1 Wird die Gesamtrevision der Verfassung gemäss Artikel 54 verlangt, ist das Begehren der Urnenabstimmung zu unterstellen. 2 Ist die Gesamtrevision beschlossen, so obliegt die Ausarbeitung der neuen Verfassung dem Landrat, sofern nicht durch den Revisionsbeschluss ein Verfassungsrat mit dieser Aufgabe betraut wird. 3 Der Verfassungsrat zählt gleich viele Mitglieder wie der Landrat und ist binnen 90 Tagen nach den für die Wahl des Landrates geltenden Vorschriften zu wählen. 4 Die revidierte Verfassung ist der Urnenabstimmung zu unterstellen. Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 ). Angenommen an der Landsgemeinde vom 23. Okt. 1994, in Kraft seit 24. Okt. 1994. Gewährleistungsbeschluss vom 14. März 1996 ( BBl 1996 I 1357 Art. 1 Ziff. 3, 1995 III 1413 ). Angenommen an der Landsgemeinde vom 23. Okt. 1994, in Kraft seit 24. Okt. 1994. Gewährleistungsbeschluss vom 14. März 1996 ( BBl 1996 I 1357 Art. 1 Ziff. 3, 1995 III 1413 )."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "VI. Die Revision der Verfassung",
+      "section": "94",
+      "title": "",
+      "content": "1 Über die Annahme oder die Verwerfung der neuen Verfassungsbestimmungen oder der neuen Verfassung entscheiden die Aktivbürgerinnen und Aktivbürger an der Urne. 2 In der Übergangsordnung kann das Inkrafttreten aller oder einzelner neuer Verfassungsbestimmungen aufgeschoben werden: 1. bis nach erfolgter eidgenössischer Gewährleistung; 2. bis nach erfolgter Anpassung der namentlich genannten bestehenden Erlasse. Angenommen an der Landsgemeinde vom 23. Okt. 1994, in Kraft seit 24. Okt. 1994. Gewährleistungsbeschluss vom 14. März 1996 ( BBl 1996 I 1357 Art. 1 Ziff. 3, 1995 III 1413 ). Angenommen in der Volksabstimmung vom 1. Dez. 1996, in Kraft seit 1. Dez. 1996. Gewährleistungsbeschluss vom 4. Dez. 1997 ( BBl 1998 103 Art. 1 Ziff. 2, 1997 III 1157 )."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "VII. Übergangsordnung",
+      "section": "95",
+      "title": "",
+      "content": "Diese Verfassung tritt mit der Annahme durch die Landsgemeinde in Kraft."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "VII. Übergangsordnung",
+      "section": "96",
+      "title": "",
+      "content": "1 Soweit Bestimmungen der bisherigen Verfassung für den Bestand und die Tätigkeit der kantonalen und kommunalen Organe notwendig sind, bleiben sie bis zum Erlass der neuen Gesetzgebung in Kraft. 2 Insbesondere gilt dies für die Verfahrensvorschriften der Landsgemeinde und der Gemeindeversammlung sowie für die Bestimmungen über die Gerichtsorganisation."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "VII. Übergangsordnung",
+      "section": "97",
+      "title": "",
+      "content": "1 Alle bestehenden Gesetze und Verordnungen bleiben in Kraft, soweit sie dieser Verfassung nicht widersprechen. 2 Gesetze und Verordnungen, die mit dieser Verfassung in Widerspruch stehen, sind durch den Landrat mit der Verfassung in Übereinstimmung zu bringen. 3 Neue Gesetze, die auf Grund dieser Verfassung zu erlassen sind, müssen der Landsgemeinde beförderlich zur Beschlussfassung vorgelegt werden."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "VII. Übergangsordnung",
+      "section": "98",
+      "title": "",
+      "content": "Bis zum Erlass der neuen Gesetzgebung über die Haftung öffentlichrechtlicher Körperschaften und Anstalten gemäss Artikel 6 gilt die Regelung der bisherigen Verfassung (Art. 22 Abs. 2)."
+    },
+    {
+      "provision_ref": "art99100",
+      "chapter": "VII. Übergangsordnung",
+      "section": "99100",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 2. Mai 2010, mit Wirkung seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "VII. Übergangsordnung",
+      "section": "101",
+      "title": "",
+      "content": "1 Bis zum Erlass der neuen Gesetzgebung steht der Gemeindeversammlung die Wahl jener Beamten und Angestellten zu, die sie nach der bisherigen Verfassung gewählt hat. 2 Die von den Gemeinden auf Grund der bisherigen Gesetzgebung erhobenen Sondersteuern bleiben bis zum Erlass der neuen Gesetzgebung in Kraft."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "",
+      "content": "1 Damit der Bestand der Schulgemeinden gemäss Artikel 86 Absatz 1 verwirklicht werden kann, ist eine Regelung zu treffen, die alle erforderlichen Bestimmungen über die Teilung oder Zusammenlegung, insbesondere über die vermögensrechtliche Auseinandersetzung und die Übergangsordnung, verbindlich festlegt. 2 Bei Zusammenlegung mehrerer Schulgemeinden sind deren Gemeindeversammlungen zuständig, ihre Vertretung für die Vorbereitung der Regelung zu bestimmen und die Regelung zu genehmigen; bei Teilung einer Schulgemeinde stehen die gleichen Befugnisse den Gemeindeversammlungen der betroffenen politischen Gemeinden zu. 3 Der Landrat ist auf Verlangen einer Verhandlungspartei verpflichtet, ein Schiedsgericht einzusetzen und, soweit er dies nicht dem Schiedsgericht überlassen will, das Schiedsverfahren festzulegen; wenn bis zum 1. Januar 1970 zwischen den Verhandlungsparteien keine Regelung getroffen wird, hat der Landrat das Schiedsgericht von sich aus einzusetzen. 4 Das Schiedsgericht hat die Aufgabe, zwischen den Parteien eine gütliche Einigung herbeizuführen, oder, wenn das nicht möglich ist, die verbindliche Regelung mit allen erforderlichen Bestimmungen endgültig festzulegen. 5 Der Bestand der Schulgemeinden gemäss Artikel 86 Absatz 1 gilt, wenn kein früherer Zeitpunkt vereinbart wird, ab 1. Januar 1975."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "",
+      "content": "Wenn der zur römisch-katholischen Kirchgemeinde Stans gehörende Teil der Gemeinde Oberdorf sich von der Kirchgemeinde Stans loslösen will, ist für die Beschlussfassung gemäss Artikel 88 Absatz 2 anstelle der Kirchgemeinde Stans die Gemeindeversammlung der politischen Gemeinde Oberdorf zuständig; für den Beschluss sind nur jene Aktivbürger stimmberechtigt, die Glieder der römisch-katholischen Kirche sind."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "",
+      "content": "Bis zum Inkrafttreten des Landratsbeschlusses über die Festsetzung des Kantonssteuerfusses und eines Landratsbeschlusses über die Festsetzung des Kirchensteuerfusses für die juristischen Personen bleiben die bisherigen Steuerfüsse in Kraft. Angenommen in der Volksabstimmung vom 24. Sept. 2000, in Kraft seit 24. Sept. 2000. Gewährleistungsbeschluss vom 11. Dez. 2001 ( BBl 2001 6542 Art. 1 Ziff. 2 4879 )."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "",
+      "content": "1 Die bisherigen Armengemeinden bleiben bestehen, bis durch das Gesetz eine andere Ordnung eingeführt wird. 2 Sie haben ihre Aufgaben nach den Bestimmungen dieser Verfassung zu erfüllen; Artikel 94 Absatz 3 der bisherigen Verfassung bleibt bis zum Erlass der neuen Gesetzgebung in Kraft."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "",
+      "content": "1 Die Amtsdauer für die Friedensrichter und den Einzelrichter für Schuldbetreibung und Konkurs wird bis Ende Dezember 2010 verlängert. 2 Für die Besetzung der Gerichtspräsidien und für die Wahl von jenen Richterinnen und Richtern, deren Amtsdauer im Jahr 2010 abläuft, findet im Jahr 2010 eine Wahl für den Rest der Amtsdauer bis 2012 statt. Angenommen in der Volksabstimmung vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 2. März 2011 ( BBl 2011 2927 Art. 1 Ziff. 1, 2010 7945 )."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "",
+      "content": "Der Landrat wird bevollmächtigt, jene Verfassungsbestimmungen mit der Bundesverfassung in Übereinstimmung zu bringen, die allenfalls durch die Bundesversammlung als mit der Bundesverfassung in Widerspruch stehend erklärt werden. SR 101"
+    }
+  ],
+  "definitions": []
+}

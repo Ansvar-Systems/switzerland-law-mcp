@@ -1,0 +1,1221 @@
+{
+  "id": "sr-232-14",
+  "type": "statute",
+  "title": "Bundesgesetz vom 25. Juni 1954 über die Erfindungspatente (Patentgesetz, PatG)",
+  "title_en": "Federal Act of 25 June 1954 on Patents for Inventions (Patents Act, PatA)",
+  "short_name": "PatG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1955/871_893_899/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 Requirements for Obtaining a Patent and Effects of the Patent",
+      "section": "1",
+      "title": "",
+      "content": "1 Patents for inventions are granted for new inventions applicable in industry. 2 Anything that is obvious having regard to the state of the art (Art. 7 para. 2) is not patentable as an invention. 3 Patents are granted without the guarantee of the State. Amended by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act revising the European Patent Convention and on the amendment of the Patents Act, in force since 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 ). Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "Section 1 Requirements for Obtaining a Patent and Effects of the Patent",
+      "section": "1a",
+      "title": "",
+      "content": "1 The human body as such, at all stages of its formation and development, including the embryo, is not patentable. 2 Elements of the human body in their natural environment are not patentable. An element of the human body is, however, patentable as an invention if it is produced by means of a technical process, a beneficial technical effect is indicated and the further requirements of Article 1 are fulfilled; Article 2 remains reserved. Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art1b",
+      "chapter": "Section 1 Requirements for Obtaining a Patent and Effects of the Patent",
+      "section": "1b",
+      "title": "",
+      "content": "1 A naturally occurring sequence or partial sequence of a gene is not patentable as such. 2 Sequences that are derived from a naturally occurring sequence or partial sequence of a gene may, however, be patented as an invention if they are produced by means of a technical process, their function is specifically indicated, and the further requirements of Article 1 are fulfilled; Article 2 remains reserved. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "",
+      "content": "1 Inventions whose exploitation is contrary to human dignity or that disregard the integrity of living organisms or that are in any other way contrary to public policy or morality are not patentable. In particular, no patent may be granted for: a. processes for cloning human beings and the clones obtained thereby; b. processes for forming hybrid organisms by using human germ cells, human totipotent cells or human embryonic stem cells and the entities obtained thereby; c. processes of parthenogenesis by using human germinal material and the parthenogenetic entities obtained thereby; d. processes for modifying the germ line genetic identity of human beings and the germ line cells obtained thereby; e. unmodified human embryonic stem cells and stem cell lines; f. the use of human embryos for non-medical purposes; g. processes for modifying the genetic identity of animals which are likely to cause them suffering without being justified by overriding interests worthy of protection, and also animals resulting from such processes. 2 Also excluded from patentability are: a. methods for treatment by surgery or therapy and diagnostic methods practised on the human or animal body; b. plant varieties and animal varieties or essentially biological processes for the production of plants or animals; however, subject to the reservation of paragraph 1, microbiological or other technical processes and the products obtained thereby as well as inventions that concern plants or animals are patentable provided that their application is not technically confined to a single plant or animal variety. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "",
+      "content": "1 The inventor, his successor in title, or a third party owning the invention under any other title has the right to the grant of the patent. 2 Where several inventors have made an invention jointly, they have this right jointly. 3 Where two or more inventors have made the invention independently of each other, the person who makes the earlier application or whose application has the earliest priority date has this right."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "",
+      "content": "In the procedure before the Swiss Federal Institute of Intellectual Property (IPI), the patent applicant is deemed entitled to request the grant of the patent. Name in accordance with No I of the FA of 9 Oct. 1998, in force since 1 May 1999 ( AS 1999 1363 ; BBl 1998 1633 ). Abbreviation in accordance with Annex No 3 of the FA of 21 June 2013, in force since 1 Jan. 2017 ( AS 2015 3631 ; BBl 2009 8533 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "1 The patent applicant must provide the IPI with written confirmation of the name of the inventor. 2 The person named by the patent applicant shall be mentioned as the inventor in the Patent Register, in the publication of the patent application and in the grant of the patent, as well as in the patent specification. 3 Paragraph 2 applies by analogy if a third party produces an enforceable judgment establishing that he and not the person named by the patent applicant is the inventor. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": "1 If the inventor named by the patent applicant waives his right to the measures provided for in Article 5 paragraph 2, these measures shall not be taken. 2 A declaration made beforehand by the inventor waiving the right to be mentioned as such has no legal effect."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "1 An invention is considered to be new if it does not form part of the state of the art. 2 The state of the art comprises everything made available to the public by means of a written or oral description, by use, or in any other way prior to the filing or priority date. 3 With regard to novelty, the state of the art also includes the content of an earlier application or application with earlier priority designating Switzerland in the version originally filed, and with a filing or priority date that precedes the date mentioned in paragraph 2, and which was only made available to the public on or after that date, provided that: a. in the case of an international application, the requirements of Article 138 are fulfilled; b. in the case of a European application based on an international application, the requirements of Article 153 paragraph 5 of the European Patent Convention of 5 October 1973 in its revised version of 29 November 2000 are fulfilled; c. in the case of a European application, the fees for the valid designation of Switzerland as per Article 79 paragraph 2 of the European Patent Convention of 5 October 1973 in its revised version of 29 November 2000 have been paid. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). SR 0.232.142.2 Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art7b",
+      "section": "7b",
+      "title": "",
+      "content": "Where the invention has been made available to the public in the six months prior to the application date or priority date, this disclosure does not form part of the state of the art when it is due to, or a consequence of: a. an evident abuse in relation to the patent applicant or his legal predecessor; or b. the fact that the patent applicant or his legal predecessor has displayed the invention at an official or officially recognised international exhibition falling within the terms of the Convention on International Exhibitions of 22 November 1928, and he has declared the fact at the time of filing and has produced sufficient supporting evidence in due time. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ( AS 1995 2879 ; BBl 1993 III 706 ). SR 0.945.11"
+    },
+    {
+      "provision_ref": "art7c",
+      "section": "7c",
+      "title": "",
+      "content": "Any substance or composition that forms part of the state of the art as such, but not in relation to its use in a surgical, therapeutic or diagnostic method specified in Article 2 paragraph 2 letter a is deemed to be new provided it is intended solely for such use. Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Rectified by the Editorial Commission of the Federal Assembly (Art. 58 para. 1 ParlA – SR 171.10 )."
+    },
+    {
+      "provision_ref": "art7d",
+      "section": "7d",
+      "title": "",
+      "content": "Any substance or composition that forms part of the state of the art as such, but not in relation to a specific use in a surgical, therapeutic or diagnostic method specified in Article 2 paragraph 2 letter a that is distinct from the first medical use specified in Article 7 c is deemed to be new provided it is intended for use in the manufacture of a means to a surgical, therapeutic or diagnostic end. Inserted by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act revising the European Patent Convention and on the amendment of the Patents Act ( AS 2007 6479 ; BBl 2005 3773 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Rectified by the Editorial Commission of the Federal Assembly (Art. 58 para. 1 ParlA – SR 171.10 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "",
+      "content": "1 The patent confers on its proprietor the right to prohibit others from commercially using the invention. 2 Use includes, in particular, manufacturing, storage, offering, placing on the market, importing, exporting and carrying in transit, as well as possession for any of these purposes. 3 Carrying in transit may only be prohibited if the proprietor of the patent is permitted to prohibit importation into the country of destination. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art8a",
+      "section": "8a",
+      "title": "",
+      "content": "1 If the invention concerns a manufacturing process, the effects of the patent also extend to the products directly obtained by that process. 2 If the products directly obtained by the process concern biological material, the effects of the patent also extend to products obtained by propagating the biological material and which demonstrate the same characteristics. Article 9 a paragraph 3 remains reserved. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Second sentence inserted by No I of the FA of 19 Dec. 2008, in force since 1 July 2009 ( AS 2009 2615 ; BBl 2008 303 )."
+    },
+    {
+      "provision_ref": "art8b",
+      "section": "8b",
+      "title": "",
+      "content": "If the invention concerns a product that consists of or contains genetic information, the effects of the patent extend to any material in which the product is incorporated and in which the genetic information is contained and performs its function. Article 1 a paragraph 1 and 9 a paragraph 3 remain reserved. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Second sentence amended in accordance with No I of the FA of 19 Dec. 2008, in force since 1 July 2009 ( AS 2009 2615 ; BBl 2008 303 )."
+    },
+    {
+      "provision_ref": "art8c",
+      "section": "8c",
+      "title": "",
+      "content": "The protection conferred by a claim to a nucleotide sequence that is derived from a naturally occurring sequence or partial sequence of a gene is limited to the sequence segments that perform the function specifically described in the patent. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "1 The effects of the patent do not extend to: a. acts undertaken within the private sphere for non-commercial purposes; b. acts undertaken for research or experimental purposes in order to obtain knowledge about the subject-matter of the invention including its uses; in particular, any scientific research concerning the subject-matter of the invention is permitted; c. acts necessary for obtaining marketing authorisation for a medicinal product in Switzerland or in countries with equivalent medicinal product control; d. the use of the invention for teaching purposes at educational institutions; e. the use of biological material for the purpose of the production or the discovery and development of a plant variety; f. biological material that is obtained in the field of agriculture due to chance or is technically unavoidable; g. acts undertaken as part of a medical activity concerning an individual person or animal and involving a medicinal product, in particular the prescribing, dispensing or use of medicinal products by legally authorised persons; h. the direct individual preparation of medicinal products in pharmacies in accordance with a doctor’s prescription or to acts concerning medicinal products prepared in this way. 2 Agreements which limit or revoke the powers contained in paragraph 1 are null and void. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Inserted by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 ). Inserted by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 )."
+    },
+    {
+      "provision_ref": "art9a",
+      "section": "9a",
+      "title": "",
+      "content": "1 If the proprietor of the patent has placed patent-protected goods on the market in Switzerland or within the European Economic Area, or consented to their placing on the market in Switzerland or within the European Economic Area, these goods may be imported and used or resold commercially in Switzerland. 2 If he has placed apparatus that can be used with a patent-protected process on the market in Switzerland or within the European Economic Area, or consented to its placing on the market in Switzerland or within the European Economic Area, the first and each subsequent person who acquires the apparatus is entitled to use this process. 3 If the proprietor of the patent has placed patent-protected biological material on the market in Switzerland or within the European Economic Area, or consented to its placing on the market in Switzerland or within the European Economic Area, this material may be imported and propagated in Switzerland, provided this is necessary for its intended use. The material so obtained may not be used for further propagation. Article 35 a remains reserved. 4 If the proprietor of the patent has placed patent-protected goods on the market outside the European Economic Area or consented to their placing on the market outside the European Economic Area und if the patent protection for the functional characteristics of the goods is only of subordinate importance, the goods may be imported commercially. Subordinate importance is presumed unless the proprietor of the patent provides prima facie evidence to the contrary. 5 Irrespective of the provisions of paragraphs 1–4, the consent of the proprietor of the patent for the placing on the market of patent-protected goods is reserved if their price in Switzerland or in the country in which they are placed on the market is fixed by the state. Inserted by No I of the FA of 22 June 2007 ( AS 2008 2551 ; BBl 2006 1 ). Amended by No I of the FA of 19 Dec. 2008, in force since 1 July 2009 ( AS 2009 2615 ; BBl 2008 303 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "",
+      "content": "Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "1 Products that are protected by a patent, or their packaging, may be marked as being patented with the Federal Cross and the number of the patent. The Federal Council may prescribe additional indications. 2 The proprietor of the patent may require any prior user or any licensee to affix the patent mark on the products manufactured by them or on the packaging of such products. 3 If the prior user or licensee does not comply with the requirement of the proprietor of the patent, he is liable to the latter for any resulting losses without prejudice to the proprietor’s right to require the use of the patent mark. Amended by No I of the FA of 17 Feb. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "",
+      "content": "1 Any person who issues or offers for sale his business papers, notices of any kind, products or goods bearing any other notice referring to patent protection must inform any third party on request of the number of the patent application or the patent to which the notice refers. 2 Any person who accuses third parties of infringing his rights or warns them against such infringement must, on request, give them the same information."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "",
+      "content": "1 Any person who is involved in administrative proceedings provided for in this Act and does not have a residence or principal place of business in Switzerland must designate an address for service in Switzerland unless international law or the competent foreign body permits the authority to serve documents directly in the state concerned.. An address for service in Switzerland is not required for: a. filing a patent application for the purpose of being accorded a filing date; b. paying fees, filing translations and filing and handling requests after the grant of the patent, in so far as the requests do not give rise to any objections. 1bis The IPI is entitled to declare to the competent foreign body that direct service is permitted in Switzerland in intellectual property matters provided Switzerland is granted reciprocal rights. 2 The provisions concerning the practice of the profession of attorney remain reserved. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Sept. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by Annex No 4 of the FD of 28 Sept. 2018 on the Approval and Implementation of European Convention No 94 on the Service Abroad of Documents relating to Administrative Matters, in force since 1 April 2019 ( AS 2019 975 ; BBl 2017 5947 ). Amended by Annex No 3 of the Patent Attorney Act of 20 March 2009, in force since 1 July 2011 ( AS 2011 2259 ; BBl 2008 407 ). Amended by Art. 2 of the FD of 22 June 2007, in force since 1 July 2008 ( AS 2008 2677 ; BBl 2006 1 ). Inserted by Annex No 4 of the FD of 28 Sept. 2018 on the Approval and Implementation of European Convention No 94 on the Service Abroad of Documents relating to Administrative Matters, in force since 1 April 2019 ( AS 2019 975 ; BBl 2017 5947 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "",
+      "content": "1 The maximum term of the patent is 20 years from the filing date of the application. 2 … Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "",
+      "content": "1 The patent lapses: a. if the proprietor surrenders it by written declaration to the IPI; b. if a renewal fee that has become due is not paid within the prescribed time. 2 … Amended by No I of the FA of 17 Feb. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "",
+      "content": "Patent applicants or proprietors who are Swiss nationals may rely on the provisions of the binding text for Switzerland of the Paris Convention for the Protection of Industrial Property of 20 March 1883, where those provisions are more favourable than the provisions of this Act. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). SR 0.232.01 , 0.232.02 , 0.232.03 , 0.232.04"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 2 Right of Priority",
+      "section": "17",
+      "title": "",
+      "content": "1 Where an invention is the subject of a regular filing of an application for a patent for an invention, a utility model or an inventor's certificate, and where the filing takes place in or with effect in a country that is a party to the Paris Convention for the Protection of Industrial Property of 20 March 1883 or the Agreement Establishing the World Trade Organization of 15 April 1994, (Appendix 1C, Agreement on Trade-Related Aspects of Intellectual Property Rights), it shall give rise to a right of priority in accordance with Article 4 of the Paris Convention. This right may be claimed for a patent application filed in Switzerland for the same invention within 12 months from the date of the first filing. 1bis The first filing in a country that grants reciprocity to Switzerland has the same effect as the first filing in a country that is party to the Paris Convention for the Protection of Industrial Property. 1ter Except as otherwise provided by this Act or by the Ordinance, paragraph 1 above and Article 4 of the Paris Convention for the Protection of Industrial Property of 20 March 1883 apply by analogy to a first filing in Switzerland. 2 The effect of the priority right is that the application may not be prejudiced by any circumstances that have arisen since the date of the first filing. 3 … SR 0.232.01 , 0.232.02 , 0.232.03 , 0.232.04 SR 0.632.20 Amended by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, in force since 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 ). Inserted by No I of the FA of 17 Feb. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Inserted by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ( AS 1995 2879 ; BBl 1993 III 706 ). Amended by No I of the FA of 17 Dec. 1976, in force since 1 Sept. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "",
+      "content": "1 … 2 The right of priority may be claimed by the first applicant or the person who has acquired the right belonging to the first applicant to file a patent application in Switzerland for the same invention. 3 If the first filing, the filing in Switzerland or both were effected by a person who was not entitled to the grant of the patent, the entitled person may claim the priority deriving from that first filing. Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "",
+      "content": "1 Any person claiming a right of priority must file a declaration of priority and a priority document with the IPI. 2 The right of priority is forfeited if the time limits and formal requirements laid down by the Ordinance are not complied with. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "",
+      "content": "1 Acceptance of a priority claim in the procedure for the grant of the patent does not relieve the proprietor of the patent of the obligation to prove the existence of such right in the case of legal proceedings. 2 The filing on the basis of which priority is claimed is presumed to be the first filing (Article 17 para. 1 and 1 bis ). Amended by No I of the FA of 17 Dec. 1976, in force since 1. Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art20a",
+      "section": "20a",
+      "title": "",
+      "content": "Where an inventor or his successor in title has obtained two patents with the same filing date or priority date for the same invention, the effects of the patent based on the earlier application cease insofar as the scope of protection afforded by the two patents is the same. Inserted by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ( AS 1995 2879 ; BBl 1993 III 706 )."
+    },
+    {
+      "provision_ref": "art2123",
+      "section": "2123",
+      "title": "",
+      "content": "Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 3 Modifications concerning the Validity of the Patent",
+      "section": "24",
+      "title": "",
+      "content": "1 The proprietor of the patent may partially surrender the patent by requesting the IPI to: a. revoke a patent claim (Art. 51 and 55); or b. limit an independent claim by combining one or more patent claims, which are dependent on it; or c. limit an independent claim in some other way; in such cases, the limited claim must refer to the same invention and define an embodiment that is included in the specification of the published patent and in the version of the patent application that determined the date of filing. 2 … Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, with effect from 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 3 Modifications concerning the Validity of the Patent",
+      "section": "25",
+      "title": "",
+      "content": "1 If, as a result of a partial surrender, patent claims remain that may not exist in the same patent in accordance with Articles 52 and 55, the patent shall be limited accordingly. 2 The proprietor of the patent may apply for the issue of one or more new patents to cover the dropped patent claims; such new patents are given the filing date of the original patent. 3 Following registration of the partial surrender in the Patent Register, the IPI shall set a time limit for the proprietor of the patent to apply for the issue of new patents in accordance with paragraph 2; after this time limit has expired, an application is no longer accepted. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 3 Modifications concerning the Validity of the Patent",
+      "section": "26",
+      "title": "",
+      "content": "1 The court shall, on application, declare the nullity of the patent if: a. the subject-matter of the patent is not patentable under Articles 1, 1 a , 1 b and 2; b. the invention is not described in the patent specification in a manner sufficiently clear and precise for it to be carried out by a person skilled in the art; c. the subject-matter of the patent goes beyond the content of the patent application in the version that determined the filing date; d. the proprietor of the patent is neither the inventor nor his successor in title, nor has a right to the grant of the patent on other legal grounds. 2 Where a patent is granted with recognition of priority, and the application claiming the priority does not lead to a patent, the court may require the proprietor of the patent to state the grounds and to present evidence; if the information is withheld, the court has full discretion in its judgment of this. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "",
+      "content": "1 Where a ground for nullity applies to only a part of the patented invention, the court shall limit the patent accordingly. 2 The court shall give the parties an opportunity to be heard on the proposed new version of the patent claim; it may also request the opinion of the IPI. 3 Article 25 applies by analogy."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "",
+      "content": "Any person with a proven interest may bring a nullity action, with the exception of an action under Article 26 paragraph 1 letter d, which may be brought only by an entitled person. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art28a",
+      "section": "28a",
+      "title": "",
+      "content": "The effects of the granted patent shall be deemed not to have occurred from the outset insofar as the proprietor of the patent surrenders the patent or the court declares the nullity of the patent based on a nullity action. Inserted by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, in force since 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 )."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 4 Modifications concerning the Right to the Grant of the Patent and the Right to the Patent; Grant of Licences",
+      "section": "29",
+      "title": "",
+      "content": "1 When the patent application has been filed by an applicant who, under Article 3, is not entitled to the grant of the patent, the entitled person may apply for assignment of the patent application or, if the patent has already been granted, he may apply for assignment of the patent or file an action for nullity. 2 … 3 If an assignment is ordered, licences or other rights granted to third parties in the intervening period lapse; however, if they have used the invention commercially in Switzerland in good faith or have made special preparations to do so, these third parties are entitled to be granted a non-exclusive licence. 4 Any claims for damages are reserved. 5 Article 40 e applies by analogy. Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 16 Dec. 1994, in force since 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 ). Inserted by No I of the FA of 16 Dec. 1994 ( AS 1995 2606 ; BBl 1994 IV 950 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Section 4 Modifications concerning the Right to the Grant of the Patent and the Right to the Patent; Grant of Licences",
+      "section": "30",
+      "title": "",
+      "content": "1 If the plaintiff cannot prove his right to all claims of the patent, assignment of the patent application or of the patent shall be subject to the deletion of the patent claims to which the plaintiff has not proved his right. 2 Article 25 applies by analogy. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1997 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "",
+      "content": "1 An action for assignment must be filed within two years from the official date of the publication of the patent specification. 2 An action against a defendant acting in bad faith has no filing deadline."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "",
+      "content": "1 Where public interest so dictates, the Federal Council may expropriate all or part of the patent. 2 The former proprietor of an expropriated patent is entitled to full compensation which, in the event of any dispute, is fixed by the Federal Supreme Court; the provisions of Section II of the Compulsory Purchase Act of 20 June 1930 apply by analogy. SR 711"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "",
+      "content": "1 The right to the grant of the patent and the right to the patent passes to the heirs; these rights may be assigned to third parties either wholly or in part. 2 Where the said rights are owned by two or more persons, each entitled person may exercise the rights only with the consent of the others; however, each one may independently dispose of his part or bring an action for infringement of the patent. 2bis The transfer of a patent application and of the patent by legal act is valid only if evidenced in writing. 3 A patent may be transferred without the transfer being recorded in the Patent Register; however, until an entry is made, any action provided for in this Act may be taken against the former proprietor of the patent. 4 Rights of third parties not recorded in the Patent Register are invalid against persons who have acquired the rights to the patent in good faith. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "",
+      "content": "1 The patent applicant or the proprietor of the patent may grant third parties the right to use the invention (grant of licences). 2 Where the patent application or the patent is owned by two or more persons, a licence may not be granted without the consent of all entitled persons. 3 Licences of third parties not recorded in the Patent Register are invalid against persons who have acquired in good faith the rights to the patent."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 5 Legal Restrictions on Rights conferred by the Patent",
+      "section": "35",
+      "title": "",
+      "content": "1 A patent may not be invoked against any person who, prior to the filing or priority date of the patent application, was commercially using the invention in good faith in Switzerland or had made special preparations for that purpose. 2 Any such person under paragraph 1 may use the invention for the purposes of their trade or business; this right may be transferred or bequeathed only together with the trade or business. 3 A patent has no effect with regard to vehicles which are only temporarily in Switzerland, nor to equipment attached to these vehicles. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1997 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art35a",
+      "chapter": "Section 5 Legal Restrictions on Rights conferred by the Patent",
+      "section": "35a",
+      "title": "",
+      "content": "1 Farmers who have acquired plant reproduction material placed on the market by the proprietor of the patent or with his consent may reproduce, on their own farm, the product from this material cultivated on their own farm. 2 Farmers who have acquired animal reproductive material or animals placed on the market by the proprietor of the patent or with his consent may reproduce, on their own farm, the animals obtained through reproduction of this material or these animals on their own farm. 3 Farmers are required to obtain the consent of the proprietor of the patent when they wish to give the product of their harvest or the animal or animal reproductive material obtained to third parties for reproduction purposes. 4 Contractual agreements which limit or revoke the farmers’ privilege in the area of food and feed production are null and void. Inserted by Art. 2 No 2 of the FD of 5 Oct. 2007, in force since 1 Sept. 2008 ( AS 2008 3897 ; BBl 2004 4155 )."
+    },
+    {
+      "provision_ref": "art35b",
+      "chapter": "Section 5 Legal Restrictions on Rights conferred by the Patent",
+      "section": "35b",
+      "title": "",
+      "content": "The Federal Council determines the plant species included under the farmers’ privilege; in so doing, it shall in particular take into consideration their importance as raw materials for food and feed. Inserted by Art. 2 No 2 of the FD of 5 Oct. 2007, in force since 1 Sept. 2008 ( AS 2008 3897 ; BBl 2004 4155 )."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "",
+      "content": "1 If a patented invention cannot be used without infringing a prior patent, the proprietor of the later patent has the right to a non-exclusive licence to the extent required to use his invention, provided that the invention represents an important technical advance of considerable economic significance in relation to the invention that is the subject-matter of the prior patent. 2 A licence to use the invention that is the subject-matter of the prior patent may only be transferred jointly with the later patent. 3 The proprietor of the prior patent may make the grant of a licence conditional on the proprietor of the later patent granting him a licence to use his invention in return. Amended by No I of the FA of 16 Dec. 1994, in force since 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 )."
+    },
+    {
+      "provision_ref": "art36a",
+      "section": "36a",
+      "title": "",
+      "content": "1 When a plant variety right may not be claimed or used without infringing an earlier-granted patent, the plant breeder or the owner of the plant variety has the right to a non-exclusive licence to the extent required to obtain and use his plant variety right, provided that the plant variety represents an important advance of considerable economic significance in comparison to the patent-protected invention. For varieties for agriculture and food, the criteria under the Seed Ordinance of 7 December 1998 serve as a reference point. 2 The proprietor of the patent may make the grant of a licence conditional on the owner of the plant variety granting him a licence to use his plant variety right in return. Inserted by Art. 2 No 2 of the FD of 5 Oct. 2007, in force since 1 Sept. 2008 ( AS 2008 3897 ; BBl 2004 4155 ). SR 916.151"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "",
+      "content": "1 Three years from the date of the grant of the patent, or at the earliest four years after filing the patent application, any person with a legitimate interest may apply to the court for the grant of a non-exclusive licence to use the invention if the proprietor of the patent has not sufficiently exploited it in Switzerland by the time of the action and cannot justify such a failure. Importing is also considered domestic exploitation. 2 … 3 At the request of the plaintiff, the court may grant a licence immediately after the action has been filed without prejudice to the final judgment providing that, in addition to the conditions set out in paragraph 1, the plaintiff provides prima facie evidence that he has an interest in the immediate use of the invention and that he provides adequate security to the defendant; the defendant shall be given the opportunity to be heard beforehand. Amended by No I of the FA of 16 Dec. 1994, in force since 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 ). Repealed by No I of the FA of 16 Dec. 1994, with effect from 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 ). Amended by No I of the FA of 16. Dec. 1994, in force since 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 )."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "",
+      "content": "1 If the grant of licences does not suffice to meet the demand of the domestic market, any person with a proven interest may bring an action for the cancellation of the patent after a period of two years from the grant of the first licence under Article 37 paragraph 1. 2 If the legislation of the country of which the proprietor of the patent is a national or in which he is resident allows an action for cancellation of the patent for failure to exploit the invention in that country as early as three years after the grant of the patent, such an action shall be allowed instead of the action for the grant of a licence, subject to the conditions specified in Article 37 for the grant of licences. Amended by No I of the FA of 17. Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "",
+      "content": "The Federal Council may decree Articles 37 and 38 to be inapplicable with regard to nationals of countries granting reciprocity."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "",
+      "content": "1 Where public interest so dictates, the person to whom the proprietor of the patent has, without sufficient reason, refused to grant the licence requested, may apply to the court for the grant of a licence to use the invention. 2 … Amended by No I of the FA of 17. Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 16. Dec. 1994, with effect from 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 )."
+    },
+    {
+      "provision_ref": "art40a",
+      "section": "40a",
+      "title": "",
+      "content": "For inventions in the field of semi-conductor technology, a non-exclusive licence may only be granted to remedy a practice held to be anti-competitive in court or administrative proceedings. Inserted by No I of the FA of 16 Dec. 1994, in force since 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 )."
+    },
+    {
+      "provision_ref": "art40b",
+      "section": "40b",
+      "title": "",
+      "content": "Any person who intends to use a patented biotechnological invention as an instrument or means for research is entitled to a non-exclusive licence. Inserted by No I of the FA of 16 Dec. 1994 ( AS 1995 2606 ; BBl 1994 IV 950 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art40c",
+      "section": "40c",
+      "title": "",
+      "content": "For inventions concerning a diagnostic product or procedure for humans, a non-exclusive licence shall be granted to remedy a practice held to be anti-competitive in court or administrative proceedings. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art40d",
+      "section": "40d",
+      "title": "",
+      "content": "1 Any person may bring an action before the court to be granted a non-exclusive licence for the manufacture of patent-protected pharmaceutical products and for their export to a country that has insufficient or no production capacity of its own in the pharmaceutical sector and which requires these products to combat public health problems, in particular those related to HIV/AIDS, tuberculosis, malaria and other epidemics (beneficiary country). 2 Countries that have declared in the World Trade Organization (WTO) that they wholly or partly renounce their claim to a licence in accordance with paragraph 1 are excluded from being beneficiary countries in accordance with the terms of their declaration. All other countries that fulfil the requirements of paragraph 1 may be beneficiary countries. 3 The licence in accordance with paragraph 1 is limited to the production of the pharmaceutical product in the quantity that meets the requirements of the beneficiary country; the total quantity must be exported to the beneficiary country. 4 The owner of the licence in accordance with paragraph 1, as well as any manufacturer that produces products under licence, must ensure that they are clearly identified as products that have been produced under a licence in accordance with paragraph 1, and that the products are distinguished by their packaging or by their special colouring or shape from patent-protected products, provided this does not have a significant impact on the price of the products in the beneficiary country. 5 The Federal Council shall regulate the requirements for the grant of licences in accordance with paragraph 1. In particular, it shall stipulate the information or notifications the responsible court must possess in order to be able to decide on the grant of the licence in accordance with paragraph 1, and shall regulate the measures in accordance with paragraph 4. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art40e",
+      "section": "40e",
+      "title": "",
+      "content": "1 The licences provided for in Articles 36–40 d are granted only if efforts by the applicant to obtain a contractual licence on appropriate market terms within a reasonable period of time have been unsuccessful; in the case of a licence in accordance with Article 40 d , a period of 30 working days is regarded as reasonable. Such efforts are not required in situations of national emergency or other circumstances of extreme urgency or in cases of public non-commercial use. 2 The scope and term of the licence are limited to the purpose for which it has been granted. 3 The licence may only be transferred with that part of the enterprise which uses the licence. This also applies to sub-licences. 4 The licence is primarily granted for supplying the domestic market. Article 40 d remains reserved. 5 The proprietor of the patent has the right to appropriate remuneration. In assessing the remuneration, the circumstances of the individual case and the economic value of the licence are taken into account. In the case of a licence under Article 40 d , the remuneration is determined by taking into account the economic value of the licence in the importing country, its level of development and the urgency in public health and humanitarian terms. The Federal Council shall specify the method of calculation. 6 The court shall decide on the grant and revocation of licences, on their scope and duration as well as on the remuneration payable. In particular, it shall revoke an entitled person’s licence on request if the circumstances that led to its being granted no longer apply and it is not expected that they will arise again. Appropriate protection of the legal interests of the entitled person remains reserved. Where a licence is granted under Article 40 d , legal remedies have no suspensive effect. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Section 6 Fees",
+      "section": "41",
+      "title": "",
+      "content": "The obtainment and maintenance of a patent and the processing of special requests are subject to the payment of the relevant fees prescribed in the Ordinance. Amended by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, in force since 1 Jan. 1996 ( AS 1995 5050 ; BBl 1993 III 964 )."
+    },
+    {
+      "provision_ref": "art4244",
+      "chapter": "Section 6 Fees",
+      "section": "4244",
+      "title": "",
+      "content": "Repealed by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ( AS 1995 5050 ; BBl 1993 III 964 )."
+    },
+    {
+      "provision_ref": "art4546",
+      "chapter": "Section 6 Fees",
+      "section": "4546",
+      "title": "",
+      "content": "Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art46a",
+      "chapter": "Section 7 Further Processing and Re-Establishment of Rights",
+      "section": "46a",
+      "title": "",
+      "content": "1 If the patent applicant or the proprietor of the patent fails to observe a time limit prescribed by legislation or a time limit set by the IPI, he may file a request for further processing with the IPI. 2 He must file the request within two months of receiving notice from the IPI of failure to observe the time limit, and six months at the latest from the expiry of the said time limit. He must also carry out in full, within these time limits, the omitted act, supplement where necessary the patent application and pay the fee for further processing. 3 Acceptance of the request for further processing has the effect of restoring the situation that would have resulted from carrying out the act in good time. Article 48 remains reserved. 4 Further processing is ruled out in the case of failure to observe: a. time limits that do not have to be observed vis-à-vis the IPI; b. time limits for filing a request for further processing (para. 2); c. time limits for filing a request for re-establishment of rights (Art. 47 para. 2); d. time limits for filing a patent application accompanied by a claim for the right of priority and for the declaration of priority (Art. 17 and 19); e. … f. the time limit for the modification of technical documents (Art. 58 para. 1); g. … h. time limits for applying for the grant of a supplementary protection certificate (Art. 140 f para. 1, Art. 146 para. 2, and Art. 147 para. 3) or to extend its validity (Art. 140 o para. 1) and to issue a paediatric supplementary protection certificate (Art. 140 v para. 1); i. any other time limit laid down by ordinance where failure to comply with that time limit excludes further processing. Inserted by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ( AS 1995 2879 ; BBl 1993 III 706 ). Amended by Annex No 23 of the Federal Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 ). Amended by Art. 2 of the FD of 22 June 2007, in force since 1 July 2008 ( AS 2008 2677 ; BBl 2006 1 ). Repealed by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, with effect from 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 ). Repealed by Art. 2 of the FD of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2677 ; BBl 2006 1 ). Inserted by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 3793 ; BBl 2013 1 )."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "",
+      "content": "1 Where the patent applicant or proprietor of the patent provides prima facie evidence of having been prevented, through no fault on his part, from observing a time limit prescribed by this Act or the Implementing Ordinance or one set by the IPI, he shall be granted, on request, the re-establishment of his rights. 2 The request shall be filed with the authority for which the act should have been carried out within two months of the removal of the cause of non-compliance with the time limit, and at the latest within one year of expiry of the unobserved time limit; at the same time, the omitted act must be carried out. 3 Re-establishment of rights shall be ruled out in respect of paragraph 2 above (time limit for the request for re-establishment of rights). 4 Acceptance of the request shall have the effect of restoring the situation that would have resulted from carrying out the act in good time; Article 48 shall remain reserved."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "",
+      "content": "1 The patent may not be invoked against any person who, during the following periods, has commercially used an invention in good faith in Switzerland or who has made special preparations for that purpose: a. between the last day of the time limit stipulated for payment of a patent renewal fee (…) and the day on which a request for further processing (Art. 46 a ) or a request for re-establishment of rights (Art. 47) was filed; b. between the last day of the priority period (Art. 17 para. 1) and the day on which the patent application was filed. 2 This prior user right is governed by Article 35 paragraph 2. 3 Any person claiming a prior user right based on paragraph 1 letter a must pay the proprietor of the patent appropriate compensation from the date on which the patent is revived. 4 In the event of dispute, the court shall decide on the existence and on the extent of the rights claimed by prior use and on the amount of compensation to be paid in accordance with paragraph 3. Reference deleted by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ( AS 1995 5050 ; BBl 1994 III 964 ). Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ( AS 1995 2879 ; BBl 1993 III 706 )"
+    },
+    {
+      "provision_ref": "art48a",
+      "chapter": "Section 8",
+      "section": "48a",
+      "title": "a",
+      "content": "1 There is no obligation to be represented before the administrative authorities in proceedings under this Act. 2 Any party who does not want to represent himself in proceedings under this Act before the administrative authorities must be represented by a representative with an address for service in Switzerland."
+    },
+    {
+      "provision_ref": "art48b",
+      "chapter": "Section 8",
+      "section": "48b",
+      "title": "b",
+      "content": "Article 13 of the Patent Attorney Act of 20 March 2009 applies by analogy to representatives who are not registered in the Patent Attorney Register. SR 935.62"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Section 1 The Patent Application",
+      "section": "49",
+      "title": "",
+      "content": "1 Any person who wishes to obtain a patent for an invention must file a patent application with the IPI. 2 The patent application must contain: a. a request for the grant of a patent; [tab] b.a description of the invention and, where a claim is made for a sequence derived from a sequence or partial sequence of a gene, a specific description of the function it performs; c. one or more patent claims; d. the drawings to which the description or claims of the patent refer; e. an abstract. 3 … Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ( AS 1995 5050 ; BBl 1994 III 964 )."
+    },
+    {
+      "provision_ref": "art49a",
+      "chapter": "Section 1 The Patent Application",
+      "section": "49a",
+      "title": "",
+      "content": "1 The patent application must contain information on the source: a. of the genetic resource to which the inventor or the patent applicant had access, provided the invention is directly based on this resource; b. of traditional knowledge of indigenous or local communities of genetic resources to which the inventor or the patent applicant had access, provided the invention is directly based on this knowledge. 2 If the source is unknown to the inventor or the patent applicant, the patent applicant must confirm this in writing. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "",
+      "content": "1 The invention must be described in the patent application in such a manner that it can be carried out by a person skilled in the art. 2 … Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art50a",
+      "section": "50a",
+      "title": "",
+      "content": "1 If an invention that relates to the manufacture or use of biological material cannot be sufficiently described, then the description must be completed by depositing a sample of the biological material and, in the description, by providing details of the essential characteristics of the biological material as well as a reference to the deposit. 2 If, in the case of an invention that relates to biological material as a product, the production process cannot be sufficiently described, then the description must be completed or replaced by depositing a sample of the biological material and, in the description, by a reference to the deposit. 3 The invention is deemed to be disclosed in accordance with Article 50 only if the sample of the biological material has been deposited at the latest on the filing date with a recognised depositary institution and the patent application as originally filed contains details of the biological material and reference to its deposit. 4 The Federal Council shall regulate in detail the requirements for depositing samples, for the details of biological material and for the reference to the deposit, together with access to the samples deposited. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "",
+      "content": "1 The invention must be defined in one or more patent claims. 2 The claims of the patent shall determine the scope of protection conferred by the patent. 3 The description and drawings must be used to interpret the patent claims. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "",
+      "content": "1 Each independent claim may define one invention only, namely: a. a process; or b. a product, a means for performing a process or an apparatus; or c. an application of a process; or d. a use for a product. 2 A patent may contain several independent claims when they define a set of inventions that are linked to each other in such a way that they constitute a single overall inventive concept. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art5354",
+      "section": "5354",
+      "title": "",
+      "content": "Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "",
+      "content": "Special embodiments defined by an independent claim may be the subject of dependent claims. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art55a",
+      "section": "55a",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ( AS 1995 5050 ; BBl 1994 III 964 )."
+    },
+    {
+      "provision_ref": "art55b",
+      "section": "55b",
+      "title": "",
+      "content": "The abstract serves the sole purpose of providing technical information. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "",
+      "content": "1 The date of filing is the day on which the last of the following items are filed: a. an express or implied application for the grant of a patent; b. information allowing the identity of the patent applicant to be established; c. an item which appears to be a description. 2 For posted applications, the date of filing is the day on which it was given to the Swiss postal service for delivery to the IPI. 3 The Federal Council shall regulate the particulars, in particular the language in which the items under paragraph 1 must be filed, the date of filing and publication, whether a missing part of the description or the drawing may be filed afterwards, as well as the replacement of the description or the drawings with a reference to a patent application filed earlier. Amended by Art. 2 of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2677 ; BBl 2006 1 ). Amended by Annex No 6 of the Postal Services Organisation Act of 30 April 1997, in force since 1 Jan. 1998 ( AS 1997 2465 ; BBl 1996 III 1306 ). Inserted by Art. 2 of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2677 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "",
+      "content": "1 A patent application resulting from the division of an earlier application shall be given the same filing date as the earlier application: a. if, at the time of its filing, it is expressly designated as being a divisional application; b. if, at the time of filing of the divisional application, the earlier application was still pending; and c. insofar as its subject-matter does not extend beyond the content of the earlier application as originally filed. 2 … Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by Art. 2 of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2677 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "",
+      "content": "1 Until the examination procedure has been completed, the patent applicant must be given the opportunity to modify the technical documents on at least one occasion. 2 The technical documents may not be modified such that the subject-matter of the modified patent application extends beyond the content of the technical documents originally filed. Amended by Art. 2 of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2677 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art58a",
+      "section": "58a",
+      "title": "",
+      "content": "1 The Institute shall publish patent applications: a. immediately after the expiry of a period of 18 months from the filing date or, if priority has been claimed, from the priority date; b. at the request of the applicant, before the expiry of the period specified in letter a. 2 The publication shall contain the description, the patent claims and, if applicable, the drawings, as well as the abstract, provided it is available for publication prior to completion of the technical preparations for publication, and if applicable, the report on the state of the art or the international-type search as specified in Article 59 paragraph 5. If the report on the state of the art or the international-type search as specified in Article 59 paragraph 5 is not published with the patent application, they shall be published separately. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Section 2 The Examination Procedure",
+      "section": "59",
+      "title": "",
+      "content": "1 If the subject-matter of the patent application does not fall within Articles 1, 1 a , 1 b and 2 or does so only in part, the IPI shall inform the patent applicant accordingly, stating the reasons, and shall set him a time limit within which to respond. 2 If the patent application does not meet the other requirements of this Act or the Ordinance, the IPI shall set a time limit for the patent applicant by which the deficiencies must be remedied. 3 … 4 The Institute shall not examine whether the invention is new or whether it is obvious having regard to the state of the art. 5 In return for the payment of a fee, the applicant may: a. instruct the IPI to provide a report on the state of the art within 14 months of the filing date, or, if priority has been claimed, of the priority date; or b. request the IPI to arrange an international-type search within 6 months of the filing date of a first filing. 6 If no clarification has been carried out in accordance with paragraph 5, any person entitled to inspect the dossier in accordance with Article 65 may, in return for the payment of a fee, instruct the IPI to provide a report on the state of the art. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Amended by No I of the FA of 17. Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art59a",
+      "section": "59a",
+      "title": "",
+      "content": "1 If the requirements for the grant of a patent are fulfilled, the IPI shall inform the patent applicant that the examination procedure has been completed. 2 … 3 The Institute shall reject the patent application if: a. the application has not been withdrawn even though a patent may not be granted for the reasons stated in Article 59 paragraph 1; or b. the deficiencies mentioned in Article 59 paragraph 2 have not been remedied. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ( AS 1995 5050 ; BBl 1994 III 964 )."
+    },
+    {
+      "provision_ref": "art59b",
+      "section": "59b",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "c",
+      "content": "1 Within nine months of the publication of the entry in the Patent Register, any person may give notice of opposition to the IPI to a patent which has been granted by the latter. The notice of opposition must be filed in a written reasoned statement. 2 Opposition may only be filed on the grounds that the subject-matter of the patent is not patentable under Articles 1 a , 1 b and 2. 3 If the IPI finds in favour of the opposition in its entirety or in part, it may revoke the patent or maintain it as amended. The decision regarding an opposition is subject to appeal to the Federal Administrative Court. 4 The Federal Council shall regulate the particulars, in particular the procedure. Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art59d",
+      "section": "59d",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Section 3 Patent Register; Publications by the IPI; Electronic Administrative Communication",
+      "section": "60",
+      "title": "",
+      "content": "1 The Institute shall grant the patent by registering it in the Patent Register. 1bis The Patent Register shall, in particular, contain the following particulars: number of the patent, classification symbol, title of the invention, date of filing, name and domicile of the proprietor of the patent and, where applicable, priority data, name and business address of the representative and name of the inventor. 2 Any modifications concerning the validity of the patent or the right to the patent must be entered in the Patent Register. 3 … Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Inserted by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Section 3 Patent Register; Publications by the IPI; Electronic Administrative Communication",
+      "section": "61",
+      "title": "",
+      "content": "1 The Institute shall publish: a. the patent application with the particulars listed in Article 58 a paragraph 2; b. the registration of the patent in the Patent Register, with the particulars listed in Article 60 paragraph 1 bis ; c. the cancellation of the patent in the Patent Register; d. any modifications registered in the Register concerning the validity of the patent and the right to the patent. 2 … 3 The Institute shall determine the organ of publication. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Inserted by No I of the FA of 9 Oct. 1998 ( AS 1999 1363 ; BBl 1998 1633 ). Amended by Annex No II 4 of the Designs Act of 5 Oct. 2001, in force since 1 July 2002 ( AS 2002 1456 ; BBl 2000 2729 )."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "",
+      "content": "Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "",
+      "content": "1 The Institute shall publish a patent specification for each patent granted. 2 This shall contain the description, the patent claims, the abstract, the drawings if any, and the particulars recorded in the Register (Art. 60 para. 1 bis ). Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art63a",
+      "section": "63a",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "",
+      "content": "1 As soon as the patent specification is ready for publication, the IPI shall issue a patent certificate. 2 This consists of an attestation confirming the legal conditions for obtaining a patent have been met and a copy of the patent specification."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "",
+      "content": "1 Following publication of the patent application, any person may inspect the dossier. The Federal Council may restrict the right of inspection only if manufacturing or trade secrets or other overriding interests so require. 2 The Federal Council shall regulate the cases in which inspection of the dossier is permitted prior to the publication of the patent application. It shall also regulate, in particular, the inspection of patent applications that were rejected or withdrawn before publication. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art65a",
+      "section": "65a",
+      "title": "",
+      "content": "1 The Federal Council may authorise the IPI to regulate electronic communication in accordance with the general provisions on the administration of federal justice. 2 The dossier and the files may be maintained and stored in electronic form. 3 The Patent Register may be maintained in electronic form. 4 The Institute may make its data accessible, particularly online, to third parties; it may demand remuneration for this service. 5 The Institute's publications may be produced in electronic form; the electronic version, however, shall only be authoritative if the data is published exclusively in electronic form. Inserted by Annex No 6 of the FA of 19 Dec. 2003 on Electronic Signatures, in force since 1 Jan. 2005 ( AS 2004 5085 ; BBl 2001 5679 )."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Section 1 Common Provisions for Protection under Civil and Criminal Law",
+      "section": "66",
+      "title": "",
+      "content": "In accordance with the following provisions, the following persons may be held liable under civil and criminal law: a. any person who uses a patented invention unlawfully; imitation is also deemed to constitute use; b. any person who refuses to notify the authority concerned of the origin and quantity of products in his possession which are unlawfully manufactured or placed on the market, and to name the recipients and disclose the extent of any distribution to commercial and industrial customers; c. any person who removes the patent mark from products or their packaging without authorisation from the proprietor of the patent or the licensee; d. any person who abets any of the said offences, participates in them, or aids or facilitates the performance of any of these acts. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Section 1 Common Provisions for Protection under Civil and Criminal Law",
+      "section": "67",
+      "title": "",
+      "content": "1 If the invention concerns a process for the manufacture of a new product, every product of the same composition shall be presumed to have been made by the patented process until proof to the contrary has been provided. 2 Paragraph 1 applies by analogy to a process for the manufacture of a known product if the proprietor of the patent provides prima facie evidence of an infringement of the patent."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Section 1 Common Provisions for Protection under Civil and Criminal Law",
+      "section": "68",
+      "title": "",
+      "content": "1 The parties' manufacturing or trade secrets must be safeguarded. 2 Evidence which would disclose such secrets may be made available to the other party only to such an extent as is compatible with the safeguarding of the secrets."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Section 1 Common Provisions for Protection under Civil and Criminal Law",
+      "section": "69",
+      "title": "",
+      "content": "1 In the event of a conviction, the court may order the forfeiture and sale or destruction of the unlawfully manufactured products or equipment, devices and other means that primarily serve their manufacture. 2 The net proceeds from the sale shall firstly be used for the payment of the fine, then the payment of the investigation and court costs, and finally for the payment of a final unappealable award of damages to the injured party and to cover their litigation costs; any surplus shall go to the former owner of the goods sold. 3 Even in the event of the dismissal of the action or an acquittal, the court may order the destruction of the equipment, devices and other means intended primarily for the infringement of the patent. Amended by No I of the FA of 16 Dec. 1994, in force since 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 ). Amended by No I of the FA of 16 Dec. 1994, in force since 1 July 1995 ( AS 1995 2606 ; BBl 1994 IV 950 )."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "",
+      "content": "1 The court may authorise the successful party to publish the judgment at the expense of the opposing party; the court shall determine the form, extent and timing of the publication. 2 In criminal cases (Art. 81–82), publication of the judgment is governed by Article 68 of the Swiss Criminal Code. SR 311.0 Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art70a",
+      "section": "70a",
+      "title": "",
+      "content": "The courts shall provide the IPI with full official copies of the final judgments free of charge. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "",
+      "content": "Any person who brings an action under Articles 72, 73, 74 or 81 and subsequently brings a further action against the same party for the same or a similar act on the basis of another patent must bear the court costs and the other party's costs for the new procedure if he does not provide prima facie evidence that in the prior action he was, through no fault on his part, unable to invoke the other patent."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "Section 2 Special Provisions for Protection under Civil Law",
+      "section": "72",
+      "title": "",
+      "content": "1 Any person who is threatened with or has his rights infringed by an act referred to in Article 66 may demand an injunction or that the unlawful situation be remedied. 2 … Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "Section 2 Special Provisions for Protection under Civil Law",
+      "section": "73",
+      "title": "",
+      "content": "1 Any person who performs an act referred to in Article 66 either wilfully or through negligence shall be required to pay damages to the injured party according to the provisions of the Code of Obligations. 2 … 3 An action for damages may only be brought after the patent has been granted; the defendant may, however, be held liable for loss or damage caused from the time when he first obtained knowledge of the content of the patent application, but at the latest from the publication of the application. 4 … SR 220 Repealed by Annex 1 No II 12 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "Section 2 Special Provisions for Protection under Civil Law",
+      "section": "74",
+      "title": "",
+      "content": "Any person demonstrating an interest may bring an action to obtain a declaratory judgment on the existence or non-existence of a circumstance or legal relationship governed by this Act, in particular: 1. that a particular patent is valid; 2. that the defendant has performed an act referred to in Article 66; 3. that the plaintiff has not performed any act referred to in Article 66; 4. that a particular patent is not enforceable against the plaintiff by virtue of a legal provision; 5. that with regard to two particular patents, the requirements of Article 36 for the grant of a licence are or are not fulfilled; 6. that the plaintiff has made the invention, which is the subject-matter of a particular patent application or patent; 7. that a particular patent, which violates the double patenting prohibition, has become invalid. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Inserted by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "",
+      "content": "1 Any person who holds an exclusive licence, irrespective of the registration of the licence in the Register, is entitled to bring an action as specified in Articles 72 or 73 independently, provided this is not expressly excluded by the licence agreement. 2 Any licensee may join an action under Article 73 in order to claim their own loss or damages. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "",
+      "content": "Repealed by Annex 1 No II 12 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 )."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "",
+      "content": "1 Any person requesting preliminary measures may, in particular, request that the court orders: a. measures to secure evidence, to preserve the existing state of affairs or to provisionally enforce claims for injunctive relief and remedy; b. a precise description to be made: 1. of the allegedly unlawful processes used, 2. of the allegedly unlawful products manufactured as well as the means used to manufacture them; or c. the seizure of these objects. 2 If a party requests a description to be made, it must provide prima facie evidence that an existing claim has been infringed or an infringement is suspected. 3 If the opposing party claims that a manufacturing or trade secret is involved, the court shall take the necessary measures to safeguard it. It may exclude the applicant party from participating in the procedure for making the description. 4 The procedure for making the description, with or without seizure, shall be carried out by a member of the Federal Patent Court, who may call on the assistance of an expert if necessary. It shall be carried out, where necessary, in collaboration with the competent cantonal instances. 5 Before the applicant party is notified of the description, the opposing party shall be given the opportunity to comment. Amended by Annex No 4 of the Federal Patent Court Act of 20 March 2009, in force since 1 Jan. 2012 ( AS 2010 513 , 2011 2241 ; BBl 2008 455 )."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "",
+      "content": "Repealed by Annex No 11 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ( AS 2000 2355 ; BBl 1999 2829 )."
+    },
+    {
+      "provision_ref": "art7980",
+      "section": "7980",
+      "title": "",
+      "content": "Repealed by Annex 1 No II 12 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 )."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "Section 3 Special Provisions for Protection under Criminal Law",
+      "section": "81",
+      "title": "",
+      "content": "1 Any person who wilfully commits an act specified in Article 66 is, on complaint by the injured party, liable to a custodial sentence not exceeding one year or to a monetary penalty. 2 The right to file a complaint shall lapse after six months from the day on which the injured party became aware of the identity of the offender. 3 If the offender acts for commercial gain, he shall be prosecuted ex officio . The penalty is a custodial sentence not exceeding five years or a monetary penalty. … Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Third sentence repealed by No I 8 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ( AS 2023 259 ; BBl 2018 2827 ). Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art81a",
+      "chapter": "Section 3 Special Provisions for Protection under Criminal Law",
+      "section": "81a",
+      "title": "",
+      "content": "1 Any person who wilfully provides false information under Article 49 a is liable to a fine of up to 100,000 francs. 2 The court may order the publication of the judgment. Inserted by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "Section 3 Special Provisions for Protection under Criminal Law",
+      "section": "82",
+      "title": "",
+      "content": "1 Any person who wilfully offers for sale or distributes his business documents, notices or advertisements of any nature, products or goods bearing a designation that creates the erroneous belief that the products or goods have patent protection is liable to a fine. 2 The court may order the publication of the judgment. Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "",
+      "content": "The general provisions of the Swiss Criminal Code apply unless this Act provides otherwise. SR 311.0"
+    },
+    {
+      "provision_ref": "art83a",
+      "section": "83a",
+      "title": "",
+      "content": "In the case of infringements within businesses committed by subordinates, agents or representatives, Articles 6 and 7 of the Federal Act of 22 March 1974 on Administrative Criminal Law apply. Inserted by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ( AS 2015 3631 ; BBl 2009 8533 ). SR 313.0"
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "",
+      "content": "1 The competent authorities for the prosecution and judgment of an offence are those of the place where the act was committed or of the place where the act occurred; where more than one place comes into consideration, or where several joint offenders are concerned, the competent authorities are those of the place where the investigation was first commenced. 2 The competent authorities for the prosecution and judgment of instigators and accomplices are those which are competent for the prosecution and judgment of the main offender."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "",
+      "content": "1 The prosecution and judgment of an offence is a matter for the cantonal authorities. 2 Judgments, penalty orders issued by administrative authorities and decisions to dismiss proceedings must be communicated without delay, free of charge and with full copies of documents to the Office of the Attorney General of Switzerland."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "",
+      "content": "1 If the person under investigation pleads the nullity of the patent as a defence, the court may allow him an appropriate time limit within which to file a nullity action, giving appropriate notice of the penalty for failure to do so; if the patent has not been examined with regard to novelty and inventive step and if the court has any doubt as to the validity of the patent, or if the person under investigation has provided prima facie evidence that the defence of nullity of the patent appears justified, the court may allow the injured party an appropriate period within which to file an action for declaration of the validity of the patent, likewise giving appropriate notice of the penalty for failure to do so. 2 Where the action is raised within the stated period, the criminal proceedings shall be suspended until a final decision on the action has been issued; the limitation period for prosecution is suspended during this time. 3 … Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Repealed by Annex No 11 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ( AS 2000 2355 ; BBl 1999 2829 )."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "A. Notification of suspicious goods",
+      "section": "86",
+      "title": "a",
+      "content": "1 The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the proprietor of a patent that is valid in Switzerland if there is any suspicion that goods that infringe that patent may imminently be brought into or taken out of Swiss customs territory. 2 In such cases, the FOCBS is authorised to withhold the goods for three working days in order that the person entitled may file an application in accordance with Article 86 b paragraph 1. Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ( AS 2015 3631 ; BBl 2009 8533 )."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "A. Notification of suspicious goods",
+      "section": "86",
+      "title": "b",
+      "content": "1 If the proprietor or a licensee of a patent that is valid in Switzerland entitled to institute proceedings has clear indications that goods which infringe that patent may imminently be brought into or taken out of Swiss customs territory, he may request the FOCBS in writing to refuse the release of the goods. 2 The applicant must provide all the information available to him that is necessary for the FOCBS’s decision; this includes a precise description of the goods. 3 The FOCBS shall make the final decision on the application. It may charge a fee to cover the administrative costs. Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ( AS 2015 3631 ; BBl 2009 8533 )."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "A. Notification of suspicious goods",
+      "section": "86",
+      "title": "c",
+      "content": "1 If the FOCBS, as a result of an application under Article 86 b paragraph 1, has grounds to suspect that certain goods intended to be brought into or taken out of Swiss customs territory infringe a patent valid in Switzerland, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly. 2 It shall withhold the goods for a maximum of ten working days from the time of notification pursuant to paragraph 1, so that the applicant may obtain preliminary measures. 3 Where justified by circumstances, it may withhold the goods for a maximum of ten additional working days. Amended by Annex No 6 of the FA of 21 June 2013, in force since 1 Jan. 2017 ( AS 2015 3631 ; BBl 2009 8533 )."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "d",
+      "content": "1 While the goods are being withheld, the FOCBS is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld. 2 The samples are collected and delivered at the expense of the applicant. 3 They must be returned after the examination has been carried out, if this is reasonable. If samples are retained by the applicant, they are subject to the provisions of customs legislation."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "e",
+      "content": "1 At the same time as notification is made in accordance with Article 86 c paragraph 1, the FOCBS shall inform the declarant, holder or owner of the goods of the possible handover of samples or the opportunity to inspect them in accordance with Article 86 d paragraph 1. 2 The declarant, holder or owner may request to be present at the inspection in order to safeguard his manufacturing or trade secrets. 3 The FOCBS may refuse to hand over samples on a reasoned request from the declarant, holder or owner."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "f",
+      "content": "1 When making an application under Article 86 b paragraph 1, the applicant may submit a written request to the FOCBS to destroy the goods. 2 If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 86 c paragraph 1. 3 The application for destruction does not result in the time limits for obtaining preliminary measures under Article 86 c paragraphs 2 and 3 being extended."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "g",
+      "content": "1 The destruction of the goods requires the consent of the declarant, holder or owner. 2 Consent is deemed to be given if the declarant, holder or owner does not expressly object to the destruction within the time limits given under Article 86 c paragraphs 2 and 3."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "h",
+      "content": "Before the destruction of the goods, the FOCBS shall remove samples and hold them in safekeeping as evidence in any actions for damages."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "i",
+      "content": "1 If the destruction of the goods proves to be unjustified, the applicant is exclusively liable for the resultant loss. 2 If the declarant, holder or owner has given express written consent for the destruction, no claims for damages may be made against the applicant if the destruction later proves to be unjustified."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "j",
+      "content": "1 The destruction of the goods is carried out at the expense of the applicant. 2 The costs for collecting and safekeeping samples under Article 86 h are decided by the court in connection with the assessment of claims for damages in accordance with Article 86 i paragraph 1."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "k",
+      "content": "1 If it is anticipated that withholding the goods may lead to a loss being incurred, the FOCBS may make the withholding of the goods dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by the circumstances, the FOCBS may request the applicant to provide appropriate security. 2 The applicant shall be liable for any losses incurred from withholding the goods and from collecting the samples if preliminary measures are not ordered or prove to be unjustified."
+    },
+    {
+      "provision_ref": "art8790",
+      "chapter": "Fourth Title …",
+      "section": "8790",
+      "title": "",
+      "content": "Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art9194",
+      "chapter": "Fourth Title …",
+      "section": "9194",
+      "title": "",
+      "content": "Repealed by Annex No 10 of the FA of 4 Oct. 1991, with effect from 15 Feb. 1992 ( AS 1992 288 ; BBl 1991 II 465 )."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "Fourth Title …",
+      "section": "95",
+      "title": "",
+      "content": "Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art96101",
+      "chapter": "Fourth Title …",
+      "section": "96101",
+      "title": "",
+      "content": "Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art102103",
+      "chapter": "Fourth Title …",
+      "section": "102103",
+      "title": "",
+      "content": "Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art104106",
+      "chapter": "Fourth Title …",
+      "section": "104106",
+      "title": "",
+      "content": "Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art106a",
+      "chapter": "Fourth Title …",
+      "section": "106a",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art107108",
+      "section": "107108",
+      "title": "",
+      "content": "Repealed by No I of the FA of 17 Dec. 1976, with effect from 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "Section 1 Applicable Law",
+      "section": "109",
+      "title": "",
+      "content": "1 This Title applies to European patent applications and European patents with effect in Switzerland. 2 The other provisions of this Act apply except where the Convention of 5 October 1973 on the Grant of European Patents (European Patent Convention) or this Title provides otherwise. 3 The text of the European Patent Convention that binds Switzerland takes precedence over this Act. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). [ AS 1977 1711 , 1979 621 Art. 1, 1995 4187 , 1996 793 , 1997 1647 Art. 1, 2007 3673 Art. 1 3674 Art. 1]. See now: The European Patent Convention, revised in Munich on 29 November 2000 ( SR 0.232.142.2 )."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "Section 2 Effects of the European Patent Application and the European Patent and Modifications concerning the Validity of the European Patent",
+      "section": "110",
+      "title": "",
+      "content": "European patent applications for which a filing date has been assigned and European patents have the same effect in Switzerland as patent applications filed in due form with the IPI and patents granted by this Institute. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art110a",
+      "chapter": "Section 2 Effects of the European Patent Application and the European Patent and Modifications concerning the Validity of the European Patent",
+      "section": "110a",
+      "title": "",
+      "content": "A modification concerning the validity of a European patent due to a final decision resulting from a procedure before the European Patent Office has the same effect as a final judgment in a procedure in Switzerland. Amended by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, in force since 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 )."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "Section 2 Effects of the European Patent Application and the European Patent and Modifications concerning the Validity of the European Patent",
+      "section": "111",
+      "title": "",
+      "content": "1 Published European patent applications do not confer on the applicant the protection conferred by Article 64 of the European Patent Convention. 2 However, the injured party may, in an action for damages, claim the loss or damage caused by the defendant from the moment at which the latter became aware of the content of the European patent application, but at the latest from the date of publication of the application by the European Patent Office. Amended by No I of the FA of 17 Dec. 1976, in force since 1 Jan. 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art112116",
+      "section": "112116",
+      "title": "",
+      "content": "Repealed by Art. 2 of the FD of 16 Dec. 2005 on the Approval of the Agreement on the Application of Article 65 of the European Patent Convention and on the Amendment of the Patents Act, with effect from 1 May 2008 ( AS 2008 1739 ; BBl 2005 3773 )."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "Section 3 Administration of the European Patent",
+      "section": "117",
+      "title": "",
+      "content": "As soon as the mention of the grant of the European patent has been published in the European Patent Bulletin, the IPI shall record it in the Swiss Register of European Patents along with the particulars noted in the European Patent Register. Amended by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "Section 3 Administration of the European Patent",
+      "section": "118",
+      "title": "",
+      "content": "The Institute shall publish registrations made in the Swiss Register of European Patents. Amended by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "Section 3 Administration of the European Patent",
+      "section": "119",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by Annex No 4 of the FA of 24 March 1995 on the Statute and Tasks of the Swiss Federal Institute of Intellectual Property, with effect from 1 Jan. 1996 ( AS 1995 5050 ; BBl 1994 III 964 )."
+    },
+    {
+      "provision_ref": "art120",
+      "chapter": "Section 3 Administration of the European Patent",
+      "section": "120",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by Annex No 3 of the Patent Attorney Act of 20 March 2009, with effect from 1 July 2011 ( AS 2011 2259 ; BBl 2008 407 )."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "Section 4 Conversion of the European Patent Application",
+      "section": "121",
+      "title": "",
+      "content": "1 The European patent application may be converted into a Swiss patent application: a. in the case provided for in Article 135 paragraph 1 letter a of the European Patent Convention; b. in the case of failure to observe the time limit in accordance with Article 14 paragraph 2 of the European Patent Convention, where the original application was filed in Italian; c. … 2 … Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, in force since 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "Section 4 Conversion of the European Patent Application",
+      "section": "122",
+      "title": "",
+      "content": "1 Where the request for conversion is filed in due form and sent in good time to the IPI, the patent application is deemed to have been filed on the date of filing of the European patent application. 2 The documents accompanying the European patent application or European patent that were filed with the European Patent Office are deemed to have been filed at the same time with the IPI. 3 The rights attached to the European patent application remain valid. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "",
+      "content": "Where the language in which the original text of the European patent application is written is not an official Swiss language, the IPI shall allow the patent applicant a time limit within which to file a translation in an official Swiss language. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "",
+      "content": "1 The provisions in force for Swiss patent applications apply to the patent application arising from the conversion, subject to Article 137 paragraph 1 of the European Patent Convention. 2 The claims of a patent application resulting from the conversion of a European patent may not be drafted in such a way that the extent of protection conferred by the patent is extended. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "Section 5 Provisions for Protection under Civil and Criminal Law",
+      "section": "125",
+      "title": "",
+      "content": "1 Where, for one and the same invention, a Swiss patent and a European patent with effect in Switzerland have been granted to the same inventor or to his successor in title with the same filing or priority date, the Swiss patent has no further effect as from the date on which: a. the opposition period against the European patent has expired without an opposition being filed; or b. the European patent has been maintained in opposition proceedings by final decision. 2 Article 27 applies by analogy. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "Section 5 Provisions for Protection under Civil and Criminal Law",
+      "section": "126",
+      "title": "",
+      "content": "1 Where, for one and the same invention, a patent resulting from a Swiss or international patent application (Art. 131 et seq.) and a patent resulting from a converted European patent application have been granted to the same inventor or to his successor in title with the same filing or priority date, the first patent has no further effect from the date on which the patent resulting from the converted European patent application was granted. 2 Article 27 applies by analogy . Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "Section 5 Provisions for Protection under Civil and Criminal Law",
+      "section": "127",
+      "title": "",
+      "content": "A partial surrender of the European patent may not be requested so long as opposition to this patent may be filed with the European Patent Office or a final decision has not yet been taken with regard to an opposition, a limitation or a revocation. Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, in force since 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 )."
+    },
+    {
+      "provision_ref": "art128",
+      "section": "128",
+      "title": "",
+      "content": "The court may suspend proceedings, and in particular defer judgment where: a. the European Patent Office has not yet taken a final decision on a limitation or revocation of the European patent; b. the validity of the European patent is disputed and one party provides evidence that opposition may still be filed with the European Patent Office or that a final decision has not yet been taken with regard to an opposition; c. the European Patent Office has not yet taken a final decision regarding a petition for review of the decision under Article 112 a of the European Patent Convention. Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by Art. 2 of the FD of 16 Dec. 2005 on the approval of the Act to Revise the European Patent Convention and on the Amendment of the Patents Act, in force since 13 Dec. 2007 ( AS 2007 6479 ; BBl 2005 3773 )."
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "",
+      "content": "1 If, in the case under Article 86, the person under investigation pleads the nullity of the European patent as a defence, the court may allow him, insofar as opposition to the patent may still be filed with the European Patent Office or intervention in opposition proceedings is still permitted, an appropriate time limit for the filing of opposition or for intervention in opposition proceedings. 2 Article 86 paragraph 2 applies by analogy. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art130",
+      "chapter": "Section 6 Requests for Legal Cooperation by the European Patent Office",
+      "section": "130",
+      "title": "",
+      "content": "The Swiss Federal Institute of Intellectual Property shall receive requests for legal cooperation by the European Patent Office and transmit them to the competent authority. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art131",
+      "chapter": "Section 1 Applicable Law",
+      "section": "131",
+      "title": "",
+      "content": "1 This Title applies to international applications under the Patent Cooperation Treaty of 19 June 1970, for which the IPI acts as Receiving Office, Designated Office or Elected Office. 2 The other provisions of this Act apply except where the Patent Cooperation Treaty or this Title provide otherwise. 3 The text of the European Patent Convention that binds Switzerland takes precedence over this Act. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 , 1978 550 ; BBl 1976 II 1 ). SR 0.232.141.1 Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ( AS 1995 2879 ; BBl 1993 III 706 )."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "Section 2 Applications filed in Switzerland",
+      "section": "132",
+      "title": "",
+      "content": "The Institute acts as Receiving Office under Article 2 of the Patent Cooperation Treaty in respect of international applications filed by Swiss nationals or persons having their principal place of business or domicile in Switzerland. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 , 1978 550 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "Section 2 Applications filed in Switzerland",
+      "section": "133",
+      "title": "",
+      "content": "1 The Patent Cooperation Treaty, supplemented by this Act, applies to the procedure before the IPI acting as Receiving Office. 2 In addition to the fees prescribed by the Patent Cooperation Treaty, the international application shall give rise to the payment of a transmittal fee collected by the IPI. 3 Article 13 does not apply. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 , 1978 550 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "Section 3 Applications designating Switzerland; Elected Office",
+      "section": "134",
+      "title": "",
+      "content": "The Institute acts as Designated Office and Elected Office under Article 2 of the Patent Cooperation Treaty in respect of international applications which seek protection for an invention in Switzerland, where such applications do not have the effect of a European patent application. Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 3 Feb. 1995, in force since 1 Sept. 1995 ( AS 1995 2879 ; BBl 1993 III 706 )."
+    },
+    {
+      "provision_ref": "art135",
+      "chapter": "Section 3 Applications designating Switzerland; Elected Office",
+      "section": "135",
+      "title": "",
+      "content": "An international application for which the IPI acts as Designated Office has the same effect in Switzerland as a Swiss patent application filed in due form with the IPI if a filing date has been assigned to it. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 , 1978 550 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art136",
+      "chapter": "Section 3 Applications designating Switzerland; Elected Office",
+      "section": "136",
+      "title": "",
+      "content": "The right of priority under Article 17 may also be claimed for an international application if the first application has been filed in Switzerland or only in respect of Switzerland. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 , 1978 550 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art137",
+      "section": "137",
+      "title": "",
+      "content": "Articles 111 and 112 of this Act apply by analogy to international applications published under Article 21 of the Patent Cooperation Treaty for which the IPI is the Designated Office. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 , 1978 550 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art138",
+      "section": "138",
+      "title": "",
+      "content": "Within 30 months of the filing or priority date, the applicant must: a. provide written confirmation of the name of the inventor; b. provide information on the source (Art. 49 a ); c. pay the filing fee; d. file a translation in an official Swiss language, provided the international application is not made in such a language. Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art139",
+      "section": "139",
+      "title": "",
+      "content": "Inserted by No I of the FA of 17 Dec. 1976 ( AS 1977 1997 ; BBl 1976 II 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "",
+      "content": "1 Where, in respect of one and the same invention, two patents having the same priority date have been granted to the same inventor or to his successor in title, the patent resulting from the national application ceases to have effect as of the date of the grant of the patent resulting from the international application, irrespective of whether the priority of the national application is claimed for the patent resulting from the international application or whether the priority of the international application is claimed for the patent resulting from the national application. 2 Article 27 applies accordingly. Inserted by No I of the FA of 17 Dec. 1976, in force since 1 June 1978 ( AS 1977 1997 , 1978 550 ; BBl 1976 II 1 )."
+    },
+    {
+      "provision_ref": "art140a",
+      "chapter": "Section 1 Supplementary Protection Certificates for Medicinal Products",
+      "section": "140a",
+      "title": "",
+      "content": "1 The Institute shall on application grant a supplementary protection certificate (certificate) for the active ingredients or combination of active ingredients of medicinal products. A certificate will only be issued if no paediatric supplementary protection certificate in accordance with Article 140 t paragraph 1 is available. 1bis An active ingredient is a substance of chemical or biological origin contributing to the composition of a medicinal product which has a medicinal effect on the organism. An active ingredient composition is a combination of several substances, all of which have a medicinal effect on the organism. 2 Active ingredients or combinations of active ingredients are referred to in this Section as products. Amended by No I of the FA of 9 Oct. 1998, in force since 1 May 1999 ( AS 1999 1363 ; BBl 1998 1633 ). Second sentence inserted by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 ). Inserted by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 )."
+    },
+    {
+      "provision_ref": "art140",
+      "chapter": "Section 1 Supplementary Protection Certificates for Medicinal Products",
+      "section": "140",
+      "title": "b",
+      "content": "1 The certificate is granted if, at the time of the application: a. the product as such, a process for manufacturing it or a use of it is protected by a patent; b. a medicinal product containing the product is authorised in Switzerland in accordance with Article 9 of the Therapeutic Products Act (TPA) of 15 December 2000. 2 It is granted based on the first authorisation. Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 ). SR 812.21 Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "c",
+      "content": "1 The proprietor of the patent has the right to the certificate. 2 Only one certificate shall be granted for each product. 3 In the event that two or more proprietors of a patent file applications for the same product based on different patents and no certificate has yet been granted, the certificate may be granted to each applicant. Inserted by No I of the FA of 9 Oct. 1998, in force since 1 May 1999 ( AS 1999 1363 ; BBl 1998 1633 ). Inserted by No I of the FA of 9 Oct. 1998, in force since 1 May 1999 ( AS 1999 1363 ; BBl 1998 1633 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "d",
+      "content": "1 The protection of a certificate extends, within the limits of the scope of protection conferred by the patent, to any use of the product as a medicinal product that has been authorised before the expiry of the certificate. 2 The certificate grants the same rights as the patent and is subject to the same restrictions."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "e",
+      "content": "1 The certificate takes effect on expiry of the maximum term of the patent for a period equal to the period which elapses between the date of filing under Article 56 and the date of the first authorisation of the medicinal product containing the product in Switzerland, minus five years. 2 It is valid for no more than five years. 3 The Federal Council may specify that the authorisation of a medicinal product containing the product granted in the European Economic Area (EEA) constitutes the first authorisation within the meaning of paragraph 1 if it is granted earlier than the first authorisation in Switzerland. Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 ). Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "f",
+      "content": "1 The application for the grant of a certificate must be filed: a. within six months of the first authorisation of a medicinal product containing the product in Switzerland; b. within six months of the grant of the patent if this was granted later than the first authorisation. 2 In the event that the time limit is not met, the IPI shall refuse the application. Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "g",
+      "content": "The Institute grants the certificate by entering it in the Patent Register."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "h",
+      "content": "1 The certificate is subject to the payment of an application fee and renewal fees. 2 The renewal fees must be paid in advance in one single payment for the full term of the certificate. 3 … Amended by No I of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Repealed by No I of the FA of 22 June 2007, with effect from 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "i",
+      "content": "1 The certificate lapses where: a. the owner surrenders it by a written declaration to the IPI; b. the annual fees have not been paid in due time; [tab] c. all authorisations of medicinal products containing the product are recalled (Art. 16 a TPA). 2 If all authorisations are suspended, the certificate is also suspended. Suspension does not interrupt the term of the certificate. 3 The Swiss Agency for Therapeutic Products shall notify the IPI of any withdrawal or suspension of the authorisations. Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 ). SR 812.21 Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 ). Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "k",
+      "content": "1 The certificate is null and void where: a. it was granted contrary to Article 140 b , Article 140 c paragraph 2, Article 146 paragraph 1 or Article 147 paragraph 1; b. the patent lapses before its maximum term expires (Article 15); c. the patent is declared null and void; d. the patent is limited to the extent that the product for which the certificate was granted is no longer covered by the claims; e. after the lapse of the patent, grounds exist which would have justified the declaration of nullity of the patent under letter c or a limitation under letter d. 2 Any person may bring an action to have the certificate declared null and void before the authority responsible for declaring the nullity of the patent. Amended by No I of the FA of 9 Oct. 1998, in force since 1 May 1999 ( AS 1999 1363 ; BBl 1998 1633 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "l",
+      "content": "1 The Federal Council shall lay down the procedure for the grant of certificates and for their entry in the Patent Register and the IPI’s publications. 2 It shall take account of the regulations of the European Union. Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2019 ( AS 2017 2745 , 2018 3575 ; BBl 2013 1 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "m",
+      "content": "Insofar as the provisions concerning the certificate do not contain any regulations, the provisions of the first, second, third and fifth Titles of this Act apply by analogy."
+    },
+    {
+      "provision_ref": "art140",
+      "chapter": "Section 2",
+      "section": "140",
+      "title": "n",
+      "content": "1 The IPI shall extend the term of protection (Art. 140 e ) of certificates issued by six months if the authorisation (Art. 9 TPA) of a medicinal product containing the product: a. contains confirmation that the information on the medicinal product reflects the results of all studies performed in accordance with the paediatric test concept (Art. 11 para. 2 let. a no 6 TPA) considered in the authorisation process; and b. was applied for no later than six months after the application for initial authorisation in the European Economic Area of a medicinal product containing the product in which the corresponding medicinal product information reflects the results of all studies performed in accordance with the paediatric test concept considered for the authorisation. 2 A certificate’s term of protection may only be extended once. SR 812.21"
+    },
+    {
+      "provision_ref": "art140o",
+      "chapter": "Section 2",
+      "section": "140o",
+      "title": "o",
+      "content": "1 An application to extend a certificate’s term of protection may be made with the application for issuance of a certificate at the earliest and two years before the certificate expires at the latest. 2 If the deadline is not respected, the IPI shall reject the application."
+    },
+    {
+      "provision_ref": "art140p",
+      "chapter": "Section 2",
+      "section": "140p",
+      "title": "p",
+      "content": "The IPI shall extend the term of protection of the certificate by entering this in the Patent Register."
+    },
+    {
+      "provision_ref": "art140q",
+      "chapter": "Section 2",
+      "section": "140q",
+      "title": "q",
+      "content": "A fee shall be paid to extend a certificate’s term of protection."
+    },
+    {
+      "provision_ref": "art140r",
+      "section": "140r",
+      "title": "r",
+      "content": "1 The IPI may revoke the extension of a certificate’s term of protection if this was granted in contravention of Article 140 n or if it subsequently contravenes Article 140 n . 2 Any person may lodge a request with the IPI for the extension of a term of protection to be revoked."
+    },
+    {
+      "provision_ref": "art140s",
+      "section": "140s",
+      "title": "s",
+      "content": "1 The Federal Council shall regulate the procedure for extending the terms of protection of certificates, for registering them in the Patent Register and for publication by the IPI. 2 It shall take into account European Union regulations."
+    },
+    {
+      "provision_ref": "art140t",
+      "chapter": "277",
+      "section": "140t",
+      "title": "t",
+      "content": "1 Upon application the IPI shall issue a paediatric supplementary protection certificate (paediatric certificate) for active ingredients or active ingredient compositions of medicinal products with a protection period of six months from the expiry of the longest term of the patent, provided the authorisation (Art. 9 TPA) of a medicinal product containing the product: a. contains confirmation that the information on the medicinal product reflects the results of all studies performed in accordance with the paediatric test concept (Art. 11 para. 2 let. a no 6 TPA) considered in the authorisation process; and b. was applied for no later than six months after the application for initial authorisation in the European Economic Area of a medicinal product containing the product in which the corresponding medicinal product information reflects the results of all studies performed in accordance with the paediatric test concept considered for the authorisation. [tab] 2 A paediatric certificate shall only be issued if no supplementary protection certificate in accordance with Article 140 a exists. [tab] 3 Article 140 b paragraph 1 applies mutatis mutandis. 4 The term of protection of a paediatric certificate may not be extended. SR 812.21"
+    },
+    {
+      "provision_ref": "art140u",
+      "chapter": "277",
+      "section": "140u",
+      "title": "u",
+      "content": "1 The patent holder has a claim to the paediatric certificate. 2 The paediatric certificate shall be issued once only for each product. 3 If however owing to the existence of different patents several patent holders submit an application for the same product, the paediatric certificate may be issued to each applicant if the addressee’s consent is provided with the confirmation in accordance with Article 140 t paragraph 1 letter a."
+    },
+    {
+      "provision_ref": "art140v",
+      "chapter": "277",
+      "section": "140v",
+      "title": "v",
+      "content": "1 The application for the grant of a paediatric certificate may be made two years before the end of the maximum term of the patent at the latest. 2 If the deadline is not respected, the IPI shall reject the application."
+    },
+    {
+      "provision_ref": "art140w",
+      "section": "140w",
+      "title": "w",
+      "content": "A fee shall be paid for the paediatric certificate."
+    },
+    {
+      "provision_ref": "art140x",
+      "section": "140x",
+      "title": "x",
+      "content": "1 The paediatric certificate is null and void when: a. it is issued in contravention of Article 140 t or if it subsequently contravenes Article 140 t ; b. it is issued in contravention of Article 140 u paragraph 2; c. the patent lapses before the end of its maximum term (Art. 15); d. the patent is found to be null and void; e. the patent is limited to such an extent that its claims no longer cover the product for which the paediatric certificate was granted; f. after the patent has lapsed, there are grounds which would have justified a declaration of nullity under letter d or a limitation under letter e. 2 Any person may bring an action for the paediatric certificate to be declared null and void before the authority competent to declare the patent null and void."
+    },
+    {
+      "provision_ref": "art140y",
+      "section": "140y",
+      "title": "y",
+      "content": "Articles 140 a paragraph 1 bis and 2, 140 d , 140 g , 140 i , 140 l paragraph 1 and 140 m apply mutatis mutandis."
+    },
+    {
+      "provision_ref": "art140z",
+      "chapter": "Section 3",
+      "section": "140z",
+      "title": "z",
+      "content": "1 The Institute shall on application grant a supplementary protection certificate (certificate) for active ingredients or combination of active ingredients of plant protection products. 2 Articles 140 a paragraph 2 and 140b to 140 m apply by analogy. 3 Ingredients are substances and microorganisms, including viruses, with a general or specific effect: a. against harmful organisms; b. on plants, parts of plants or plant products."
+    }
+  ],
+  "definitions": []
+}

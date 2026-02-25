@@ -1,0 +1,408 @@
+{
+  "id": "sr-951-131",
+  "type": "statute",
+  "title": "Verordnung vom 18. März 2004 zum Bundesgesetz über die Schweizerische Nationalbank (Nationalbankverordnung, NBV)",
+  "title_en": "Ordinance of 18 March 2004 on the Federal Act on the Swiss National Bank (National Bank Ordinance, NBO)",
+  "short_name": "NBV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2004/233/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 Common Provisions",
+      "section": "1",
+      "title": "1 Objective",
+      "content": "This Ordinance governs: a. the conduct of statistical surveys by the National Bank; b. the obligation of the banks to hold minimum reserves; c. the oversight of systemically important financial market infrastructures. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 Common Provisions",
+      "section": "2",
+      "title": "2 Definitions",
+      "content": "1 In this Ordinance: a. Bank means any person or company in possession of a licence pursuant to Article 3 of the Federal Act on Banks and Savings Banks of 8 November 1934; b. Securities firm means any company pursuant to Article 41 of the Financial Institutions Act of 15 June 2018; c. Fund management company means any company pursuant to Article 32 of the Financial Institutions Act; d. Representative of a foreign collective investment scheme means any person or company pursuant to Article 123 of the Collective Investment Schemes Act of 23 June 2006; e. Insurance company means any institution pursuant to Article 2 of the Federal Act of 17 December 2004 on the Oversight of Insurance Companies; f. Occupational pension scheme means any pension scheme that is inscribed, pursuant to Article 48 of the Federal Act of 25 June 1982 on Occupational Old Age, Survivors and Invalidity Insurance, in the occupational pensions register held by the supervisory authority; g. Investment and holding company means any legal entity, company or public law institution, whose principal object is the ongoing administration of participations, and which meets the requirements laid down in the Annex to this Ordinance; h. Systemically important f inancial market infrastructure means a payment system, a central securities depository or a central counterparty pursuant to Article 22 paragraph 1 of the Financial Market Infrastructure Act of 19 June 2015 (FinMIA); i. Payment system means an entity pursuant to Article 81 FinMIA; j. ... k. Central securities depository means an entity pursuant to Article 61 paragraph 1 FinMIA; l. Central counterparty means an entity pursuant to Article 48 FinMIA; m. Operator means a central securities depository as well as any person or company operating a payment system or central counterparty; n. Indirect participant means any person pursuant to Article 2 letter e FinMIA; o. Operational risk means the risk that, as a result of inadequate or failed internal procedures or systems, human error or external events, the functioning of the financial market infrastructure is impaired or financial losses are incurred; p. General business risk means the risk that the operator of a financial market infrastructure will incur losses that are not directly linked to the default of a participant or to other credit and liquidity risks. General business risk also includes the risk of financial losses arising from operational or strategic risks; q. Capital means Common Equity Tier 1 (CET1) capital pursuant to Articles 21–26 of the Capital Adequacy Ordinance of 1 June 2012; r. Net liquidity means readily available assets, minus short-term liabilities; s. Extreme but plausible market conditions are determined on the basis of the largest price fluctuations which have been observed over the last 30 years, or which are considered possible in the future. 2 The National Bank shall define further terms in the Annex to this Ordinance and in the reporting forms. 3 The definitions used in the regulations of the Swiss Financial Market Supervisory Authority (FINMA) on bank accounting shall also apply. SR 952.0 Amended by No I of the SNB O of 31 Oct. 2019, in force since 1 Jan. 2020 ( AS 2019 3909 ). SR 954.1 Amended by No I of the SNB O of 31 Oct. 2019, in force since 1 Jan. 2020 ( AS 2019 3909 ). Amended by No I of the SNB O of 31 Oct. 2019, in force since 1 Jan. 2020 ( AS 2019 3909 ). SR 951.31 Amended by No I of the SNB O of 10 June 2013, in force since 1 July 2013 ( AS 2013 1987 ). SR 961.01 SR 831.40 Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). SR 958.1 Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). Repealed by No I of the SNB O of 26 Nov. 2015, with effect from 1 Jan. 2016 ( AS 2015 5307 ). Inserted by No I of the SNB O of 10 June 2013 ( AS 2013 1987 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). Inserted by No I of the SNB O of 10 June 2013 ( AS 2013 1987 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). Inserted by No I of the SNB O of 10 June 2013 ( AS 2013 1987 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). Inserted by No I of the SNB O of 10 June 2013 ( AS 2013 1987 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). Inserted by No I of the SNB O of 10 June 2013, in force since 1 July 2013 ( AS 2013 1987 ). Inserted by No I of the SNB O of 10 June 2013, in force since 1 July 2013 ( AS 2013 1987 ). Inserted by No I of the SNB O of 10 June 2013 ( AS 2013 1987 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). SR 952.03 Inserted by No I of the SNB O of 10 June 2013, in force since 1 July 2013 ( AS 2013 1987 ). Inserted by No I of the SNB O of 10 June 2013, in force since 1 July 2013 (AS 2013 1987). FINMA Accounting O of 31 Oct. 2019 ( SR 952.024.1 ), as well as FINMA Circular 2020/1 ‘Accounting – Banks’ of 31 Oct. 2019. Amended by No I of the SNB O of 2 July 2020, in force since 1 Jan. 2021 ( AS 2020 4627 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 Scope of Application",
+      "section": "3",
+      "title": "3 Subject",
+      "content": "The Swiss National Bank conducts the required statistical surveys: a. to fulfil its monetary policy tasks; b. to fulfil its oversight tasks with respect to systemically important financial market infrastructures; c. within the context of its contribution to the stability of the Swiss financial system; d. on behalf of international organisations of which Switzerland is a member; e. for drawing up the balance of payments and the statistics on the international investment position. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 Scope of Application",
+      "section": "4",
+      "title": "4 Principles of data collection",
+      "content": "1 The National Bank shall limit the number and type of surveys to what is strictly necessary. In particular, it shall ensure that the burden on the institutions obliged to provide information for the collection of statistical data is kept to a minimum. 2 It shall conduct a survey among all institutions obliged to provide information (full sample survey) if the data that can be gained by conducting a survey among a part of these institutions (partial sample survey) are not representative or pertinent. 3 It shall not collect statistical data in cases where it can draw on existing, sufficiently pertinent, statistics or if it can procure data of a comparable quality by other means within the available time. 4 It can totally or partially release certain groups of institutions required to provide statistical information from their obligation."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 1 Scope of Application",
+      "section": "5",
+      "title": "5 Statistical surveys",
+      "content": "1 The Annex to this Ordinance lays down the following for each survey: a. name of survey; b. coverage; c. whether it is to be conducted as a partial sample survey or a full sample survey; d. reporting institutions; e. whether, in the case of an institution divided into several organisationally independent units, the survey covers the domestic office (including domestic branches), the entire parent company (including foreign branches) or the entire group (including branches and subsidiaries in Switzerland and abroad); f. the intervals at which it is conducted (frequency); g. the deadline for submitting the data (submission deadline); and h. any other procedures. 2 If, in order to fulfil a statutory task, the National Bank urgently requires the data of a particular survey, it shall fix, for a limited period of time, a submission deadline and frequency deviating from the Annex for such survey. 3 ... Repealed by No I of the SNB O of 10 June 2013, with effect from 1 July 2013 ( AS 2013 1987 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 1 Scope of Application",
+      "section": "6",
+      "title": "6 Supplementary surveys",
+      "content": "1 If, in order to fulfil a statutory task, the National Bank urgently requires additional data, it shall conduct supplementary surveys or, within the context of existing surveys, solicit data not provided for in the Annex to this Ordinance. The supplementary surveys must be limited to what is strictly necessary in terms of content and time. 2 The National Bank advises the respective reporting institutions of: a. the coverage; b. the purpose and the procedure of the survey; c. the envisaged use of the data; d. the envisaged data protection measures. 3 At the request of a reporting institution, the National Bank issues an order on the obligation to provide information and the coverage and extent according to Article 52 NBA."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 Consultation of the reporting institutions",
+      "content": "The National Bank shall give the reporting institutions and their associations an opportunity to express an opinion before amending this Ordinance with a view to: a. determining or changing the organisation and the procedure of a survey; b. introducing a new survey or significantly extending an existing survey."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Conduct of Surveys",
+      "section": "8",
+      "title": "8 Participation of the reporting institutions",
+      "content": "1 The reporting institutions are invited by the National Bank to participate in the survey. 2 They are required to provide the information truthfully, within the deadline, free of charge and in the prescribed form."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 2 Conduct of Surveys",
+      "section": "9",
+      "title": "9 Calling in third persons",
+      "content": "1 If the National Bank calls in third persons to conduct surveys, these shall, in particular, be contractually obliged as follows: a. to use the data supplied to them or collected by them in the course of their mandate solely for the exercise of this mandate; b. not to combine the survey conducted on behalf of the National Bank with any other surveys; c. after completion of the mandate, to return all the data to the National Bank and to delete electronically saved data. 2 Any exception from these obligations shall require the written permission of the National Bank. 3 Third persons must provide evidence of the fact that they have taken the necessary technical and organisational measures for the processing of these data according to the Ordinance of 21 August 2022 on the Federal Act on Data Protection. SR 235.11 . The reference was adjusted to 1 Sept. 2023 in application of art. 12 para. 2 of the Publication Act of 18 June 2004 ( SR 170.512 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 2 Conduct of Surveys",
+      "section": "10",
+      "title": "10 Form of reporting",
+      "content": "1 The National Bank issues technical instructions on the form of reporting. 2 In particular, it specifies which data are to be provided entirely or partially in electronic form."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 2 Conduct of Surveys",
+      "section": "11",
+      "title": "11 Confidentiality and data protection",
+      "content": "1 All institutions entrusted with conducting surveys shall be obliged to treat the collected data confidentially. They shall take all due care that the data collected are stored in a safe place. 2 The information provided by the reporting institutions is stored in accordance with the Federal Act on Archiving of 26 June 1998. SR 152.1"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Chapter 3 Minimum Reserves",
+      "section": "12",
+      "title": "12 Scope of application",
+      "content": "1 Solely banks are obliged to hold minimum reserves. 2 Bank groups with collective liquidity management shall fulfil the minimum reserve requirement at group level."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Chapter 3 Minimum Reserves",
+      "section": "13",
+      "title": "13 Eligible assets",
+      "content": "The following Swiss franc denominated assets of the banks are eligible as minimum reserves: a. coins in circulation (excluding commemorative coins and bullion coins) 100 percent b. banknotes 100 percent c. sight deposits at the National Bank 100 percent"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Chapter 3 Minimum Reserves",
+      "section": "14",
+      "title": "14 Relevant liabilities",
+      "content": "1 The following Swiss franc denominated liabilities of the banks count towards the calculation of the minimum reserves: a. liabilities arising from money market instruments which cannot be attributed to either banks or customers, and which mature within three months; b. liabilities vis-à-vis banks payable on sight or maturing within three months; c. 20 percent of liabilities arising from customer time deposits (excluding tied pension fund monies); d. liabilities arising from customer deposits payable on sight or maturing within three months (including call money); e. liabilities arising from medium-term bank-issued notes maturing within three months; f. ... 1bis Liabilities vis-à-vis banks which are themselves subject to minimum reserve requirements based on Articles 17 and 18 NBA are not counted in the calculation. 2 ... 3 The terms used in paragraph 1 letters a–e refer to FINMA’s accounting regulations. 4 Liabilities towards the National Bank are not counted in the calculation of the minimum reserves. Amended by No I of the SNB O of 7 May 2014, in force since 1 Jan. 2015 ( AS 2014 3023 ). Repealed by No I of the SNB O of 31 Oct. 2019, with effect from 1 Jan. 2020 ( AS 2019 3909 ). Repealed by No I of the SNB O of 31 Oct. 2019, with effect from 1 Jan. 2020 ( AS 2019 3909 ). FINMA Accounting O of 31 Oct. ober 2019 ( SR 952.024.1 ), as well as FINMA Circular 2020/1 ‘Accounting – Banks’ of 31 Oct. 2019. Inserted by No I of the SNB O of 2 July 2020, in force since 1 Jan. 2021 ( AS 2020 4627 ). Inserted by No I of the SNB O of 2 July 2020, in force since 1 Jan. 2021 ( AS 2020 4627 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "15 Level of minimum reserve and fulfilment of minimum reserve requirement",
+      "content": "1 The required minimum reserve amounts to 2.5 percent of the average of the liabilities at the end of the three months preceding the reporting period. 2 The minimum reserve requirement must be fulfilled, on an average of the respective reporting period, from the 20th of one month until the 19th of the following month. 3 The average according to paragraph 2 will be calculated based on the relation between total daily assets available at the close of business according to Article 13, on the one hand, and the number of calendar days in the reporting period, on the other hand. For Saturdays, Sundays and public holidays, the assets of the last preceding business day are to be entered."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "16 Accountability",
+      "content": "By the end of the month of the terminated reporting period, the banks shall report to the National Bank whether the minimum reserve obligation has been fulfilled. The National Bank shall determine the form and manner of reporting in guidelines."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "17 Interest obligation",
+      "content": "1 If a bank fails to fulfil the minimum reserve requirement for a reporting period that has ended, it shall pay interest on the shortfall to the National Bank for the number of days of the respective reporting period. The interest rate shall exceed by four percentage points the overnight rate for Swiss franc deposits payable on average in the respective reporting period. The SARON (fixing at close of trading) serves as the basis. In the event of non-fulfilment, an amount of at least CHF 500 is payable. 2 The National Bank shall order the bank to pay the interest amount by the end of the second month following the end of the reporting period. Should the bank disagree with the payment of interest it may, within 30 days, demand the issuance of a contestable order pursuant to the terms of Article 52 NBA. Amended by No I of the SNB O of 3 Sept. 2009, in force since 1 Jan. 2010 ( AS 2009 6373 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 1",
+      "section": "18",
+      "title": "Disclosure obligation",
+      "content": "1 The disclosure obligation specified in Article 20 paragraph 1 NBA applies to: a. payment systems which settle payments in excess of CHF 25 billion (gross) per financial year; b. central securities depositories; c. central counterparties. 2 The disclosure obligation already applies prior to the payment system, central securities depository or central counterparty starting operations; however, it applies to payment systems only if it is to be expected that the value of payments stated in paragraph 1 letter a will be attained in the first year after the system starts operations."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 1",
+      "section": "19",
+      "title": "Procedure",
+      "content": "1 The National Bank shall issue an order designating systemically important financial market infrastructures and their systemically important business processes pursuant to Article 22 FinMIA. 2 The National Bank shall request from the operator the necessary information and documentation, and set the deadline and the format for their submission. 3 Before designating a financial market infrastructure as systemically important and determining its systemically important business processes, the National Bank shall provide the operator with the opportunity to express an opinion. If the operator is a financial market infrastructure subject to authorisation in accordance with Article 4 FinMIA, the National Bank shall consult FINMA. SR 958.1"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 1",
+      "section": "20",
+      "title": "Criteria for systemically important financial market infrastructures",
+      "content": "In determining whether a payment system, central securities depository or central counterparty is important for the stability of the Swiss financial system in accordance with Article 22 paragraph 1 FinMIA, the National Bank shall, in particular, take the following factors into account: a. the transactions that are cleared or settled through the financial market infrastructure, and in particular whether they are foreign exchange, money market, capital market or derivatives transactions, or are transactions that serve to implement monetary policy; b. the transaction volumes and amounts cleared or settled through the financial market infrastructure; c. the currencies in which transactions are cleared or settled through the financial market infrastructure; d. the number, nominal value and currency of issue of the financial instruments held in central custody or under management by the financial market infrastructure; e. the participants of the financial market infrastructure; f. the financial market infrastructure’s links with other financial market infrastructures; g. the possibility of the financial market infrastructure’s participants switching at short notice to another financial market infrastructure or to an alternative clearing and settlement arrangement in order to clear and settle transactions, and the associated risks; h. the credit and liquidity risks associated with the operation of the financial market infrastructure. SR 958.1"
+    },
+    {
+      "provision_ref": "art20a21",
+      "section": "20a21",
+      "title": "a and 21",
+      "content": "Repealed"
+    },
+    {
+      "provision_ref": "art21a",
+      "chapter": "Section 2",
+      "section": "21a",
+      "title": "a Applicability of special requirements",
+      "content": "1 For systemically important financial market infrastructures which are not subject to FINMA authorisation and supervision pursuant to Article 4 FinMIA, the following special requirements shall apply. 2 For systemically important financial market infrastructures which are subject to FINMA authorisation and supervision pursuant to Article 4 FinMIA, the requirements specified in Article 23, Article 24 paragraphs 4 to 6, Article 24 a , Article 25 c , Article 27 paragraphs 1 and 2, Articles 28–28 d , Article 29, Article 30 paragraphs 1 and 3, Articles 32–32 c , and Article 34, as well as Section 3, with the exception of Article 36 paragraph 1 letter h, shall apply. Inserted by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). SR 958.1"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 2",
+      "section": "22",
+      "title": "Governance and organisation",
+      "content": "1 The operator shall have appropriate corporate governance rules and procedures in place. These include, in particular: a. an organisational structure and framework which define the tasks, responsibilities, powers and reporting duties of the board of directors, the senior management and the internal audit function; b. a risk management framework for the identification, measurement, management and monitoring of risk; c. a system of internal controls which, inter alia, ensures compliance with statutory, regulatory and internal company rules and regulations (compliance function). 2 The operator shall have mechanisms in place that allow participants’ needs with regard to services provided by the financial market infrastructure to be surveyed. 3 and 4 ... Repealed by No I of the SNB O of 26 Nov. 2015, with effect from 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "Section 2",
+      "section": "22a",
+      "title": "a Board of directors, senior management and internal audit",
+      "content": "1 The members of the board of directors and senior management shall have an impeccable reputation and shall possess the experience and skills to perform their mandate. The board of directors shall have its performance regularly assessed. 2 The board of directors shall also contain non-executive directors. 3 The board of directors shall specify the basic risk management principles. It shall approve the plans specified in Article 26 and Article 31 paragraph 4, as well as the business continuity strategy and plans specified in Article 32 b paragraph 4. 4 The internal audit function shall be independent of the senior management and shall report to the board of directors or one of its committees. It shall be equipped with sufficient resources and shall have unlimited right of review as well as unrestricted access to all documentation, data carriers and information processing systems. 5 ... Repealed by No I of the SNB O of 26 Nov. 2015, with effect from 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art22b",
+      "section": "22b",
+      "title": "b Documentation and retention",
+      "content": "1 The operator shall keep records on the main services provided and activities performed and shall retain all records for a period of ten years. 2 and 3 ... Repealed by No I of the SNB O of 26 Nov. 2015, with effect from 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Contractual framework",
+      "content": "1 The contractual framework of the financial market infrastructure shall define, in particular: a. the participation requirements as well as the criteria for the suspension and exclusion of a participant; b. the rights and obligations of the operator and the participants; c. the rules and procedures for the operation of the financial market infrastructure; d. the rules and procedures in the event of a participant’s default; e. the reciprocal rights and obligations arising from links with other financial market infrastructures; f. the obligations regarding the delivery of physical instruments or commodities. 2 The operator shall regularly review the effectiveness and enforceability of the contractual framework in all relevant jurisdictions and shall take the necessary measures to limit any legal risks."
+    },
+    {
+      "provision_ref": "art23a",
+      "section": "23a",
+      "title": "a Transparency",
+      "content": "1 The operator shall publicly disclose key aspects of all information relating to the financial market infrastructure on a regular basis, in particular: a. the design and operation of the financial market infrastructure; b. the operator’s organisational structure; c. the rights and obligations of the participants; d. the participation requirements as well as the criteria for the suspension and exclusion of a participant; e. the rules and procedures in the event of a participant’s default; f. ... g. the aggregate transaction volumes and amounts; h. ... i. the prices and fees charged by the financial market infrastructure for the services it offers, including its conditions for discounts. 2 The operator shall publish information in accordance with the standards set by the relevant international bodies. Repealed by No I of the SNB O of 26 Nov. 2015, with effect from 1 Jan. 2016 ( AS 2015 5307 ). Repealed by No I of the SNB O of 26 Nov. 2015, with effect from 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Access and exclusion",
+      "content": "1 The operator shall grant non-discriminatory and open access to its services. 2 The operator may restrict access provided that this increases the safety or efficiency of the financial market infrastructure, and that such an effect cannot be brought about by any other means. In particular, the operator may make participation conditional upon fulfilment of operational, technical, financial and legal requirements. 3 If an operator restricts access for reasons of efficiency, the National Bank shall consult the Competition Commission as part of its assessment. 4 The operator shall monitor compliance with the participation requirements on an ongoing basis. 5 The operator shall define the criteria and procedure for the suspension and exclusion of participants that no longer fulfil the participation requirements. 6 The operator shall immediately notify the participant of its suspension or exclusion."
+    },
+    {
+      "provision_ref": "art24a",
+      "section": "24a",
+      "title": "a Default of a participant",
+      "content": "1 The operator shall have appropriate rules and procedures for managing the default of a participant and for minimising credit and liquidity risks for the financial market infrastructure and its participants. These rules and procedures shall enable the operator to meet its obligations when due. 2 In particular, the rules and procedures shall define: a. the sequence in which the operator uses collateral and other financial resources to cover losses (default waterfall); b. how the operator allocates losses that are not covered by collateral and other financial resources; c. how the operator deals with liquidity shortfalls; d. how the operator replenishes collateral and other financial resources that were deployed to cover losses or to bridge liquidity shortfalls following the default of a participant. 3 The operator shall review and test these rules and procedures at least annually."
+    },
+    {
+      "provision_ref": "art24b",
+      "section": "24b",
+      "title": "",
+      "content": "Repealed by No I of the SNB O of 26 Nov. 2015, with effect from 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Means of payment",
+      "content": "1 Where possible and practicable, the financial market infrastructure shall settle payments by transferring sight deposits at a central bank. 2 Alternatively, the financial market infrastructure shall use a means of payment with no or only low credit and liquidity risks. The operator shall minimise and monitor these risks on an ongoing basis."
+    },
+    {
+      "provision_ref": "art25a",
+      "section": "25a",
+      "title": "a Finality",
+      "content": "1 The rules of the financial market infrastructure shall determine the point in time after which: a. a participant’s payment order is unconditional and irrevocable; b. a payment is settled. 2 The financial market infrastructure shall settle payments and securities transfers in real time, but at the latest by the end of the value day. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art25b",
+      "section": "25b",
+      "title": "b Exchange-of-value settlement",
+      "content": "The operator of a financial market infrastructure shall enable the participants to eliminate their principal risk by ensuring that for transactions involving the settlement of two linked obligations, the settlement of one obligation occurs if and only if the settlement of the other obligation is guaranteed. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art25c",
+      "section": "25c",
+      "title": "c Central securities depositories",
+      "content": "1 A central securities depository shall have appropriate rules, procedures and controls for minimising the risks associated with the safekeeping and transfer of securities. 2 A central securities depository shall enable its participants to hold the securities in an immobilised or dematerialised form by recording them in a securities account. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Recovery and orderly wind-down of systemically important business processes",
+      "content": "1 The operator shall identify scenarios that might jeopardise its viability as a going concern, and shall prepare a plan to ensure: a. the recovery or orderly wind-down of systemically important business processes in the event of impending insolvency or other scenarios jeopardising its viability as a going concern; b. the orderly wind-down of systemically important business processes in the event of a voluntary cessation of business. 2 The plan shall, in particular, describe the measures to be taken by the operator as well as the resources required to implement these measures. The plan shall take into account the length of time required for the participants to connect to an alternative financial market infrastructure."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Risk management principles",
+      "content": "1 The operator shall have a concept for the integrated identification, measurement, management and monitoring of key risks, especially legal, credit, liquidity, business and operational risks. 2 In defining the procedures and tools to manage credit and liquidity risks, the operator shall take into account their impact on the participants and the financial system. In particular, it shall aim to prevent procyclical effects. 3 The operator shall provide tools and incentives for the participants to continuously manage and contain the risks arising for themselves or for the financial market infrastructure. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Management of credit risk",
+      "content": "1 The operator shall identify, measure, manage and monitor its credit risk through the use of appropriate procedures and tools. 2 The operator shall have sufficient collateral, as specified in Article 28 a , to cover current and potential credit exposures to each participant with a high level of confidence. It shall regularly assess compliance with this requirement."
+    },
+    {
+      "provision_ref": "art28a",
+      "section": "28a",
+      "title": "a Collateral",
+      "content": "1 To cover risk exposures, the operator shall only accept liquid collateral with low credit and market risks. 2 The operator shall value collateral prudently. It shall apply haircuts which are also appropriate under extreme but plausible market conditions and validate them regularly. 3 The operator shall avoid concentration risk in the collateral. In order to diversify the collateral, it shall define concentration limits and monitor compliance with these limits. The operator shall also ensure that no participants post collateral whose value will be substantially reduced in the event of their default. 4 The operator shall ensure that it can access the collateral in a timely manner. This applies, in particular, to collateral which is: a. held in custody abroad; b. issued by foreign issuers; or c. denominated in foreign currency. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art28b",
+      "section": "28b",
+      "title": "b Financial resources and default waterfall of central counterparties",
+      "content": "1 A central counterparty shall limit its credit exposure to its participants by collecting collateral as specified in Article 28 a in the form of initial margin, variation margin and default fund contributions. 2 A central counterparty shall mark the participants’ collateral and positions to market, and shall collect margin (initial and variation margin) at least once daily when predefined thresholds are exceeded. In addition, it shall have the authority and capability to make intraday margin calls. 3 The margin and the default fund contributions shall cover current and potential credit exposures under a wide range of scenarios. These scenarios shall include, but not be limited to, the default of the participant or group of participants as well as the default of the two participants or two groups of participants against which a central counterparty has the largest potential credit exposure under extreme but plausible market conditions. A group of participants consists of all participants affiliated to the same parent company. 4 In order to cover any losses from a participant’s default, a central counterparty shall use collateral and capital in the following sequence: a. margin of the defaulting participant; b. default fund contributions of the defaulting participant; c. dedicated capital of the central counterparty, which needs to be substantial relative to the central counterparty’s total capital; d. default fund contributions of the non-defaulting participants."
+    },
+    {
+      "provision_ref": "art28c",
+      "section": "28c",
+      "title": "c Calculating a central counterparty’s margin",
+      "content": "1 The initial margin of a participant shall cover the potential credit exposure arising from its default for a central counterparty due to expected price movements over an appropriate time horizon with a confidence level of at least 99%. The confidence level for over-the-counter derivatives must be at least 99.5% unless they show the same risk characteristics as exchange-traded derivatives. 2 The appropriate time horizon pursuant to paragraph 1 corresponds to the period from the last variation margin payment up to the expected close-out or hedging of positions in the event of a participant’s default. This horizon shall be at least two business days. For over-the-counter derivatives, the horizon shall be at least five business days, unless they show the same risk characteristics as exchange-traded derivatives. 3 A central counterparty shall base its initial margin calculation on price movements in the financial instruments underlying the positions over at least the previous 12 months. It may choose other and additional periods if these result in higher initial margin. 4 If a central counterparty nets the positions of a participant when calculating that participant’s initial margin, then the assumptions applied with regard to the correlations in the financial instruments underlying these positions shall also be appropriate under extreme but plausible market conditions. 5 The variation margin shall cover the current credit exposure arising from realised price movements, taking into account the predefined thresholds. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art28d",
+      "section": "28d",
+      "title": "d Risk control at central counterparties",
+      "content": "1 A central counterparty shall assess: a. by means of daily back tests, whether the initial margin meets the requirements specified in Article 28 c paragraph 1; b. by means of daily stress tests, whether the margin and the default fund contributions meet the requirements specified in Article 28 b paragraph 3; c. on a monthly basis, how initial margin changes when the assumptions and parameters underlying its calculation vary; d. on a monthly basis, the scenarios, models, assumptions and parameters underlying the stress tests; e. at least annually and in a comprehensive manner, its credit risk management model and the implementation thereof. 2 In the event that a central counterparty identifies shortcomings when performing the tests specified in paragraph 1, it shall make adjustments so as to meet the requirements."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Management of liquidity risk",
+      "content": "1 The operator shall identify, measure, manage and monitor its liquidity risk through the use of appropriate procedures and tools. 2 The operator shall have sufficient liquid resources to effect its payment obligations in all currencies when due, under a wide range of stress scenarios. As regards these liquid resources, the operator shall apply haircuts which are also appropriate under extreme but plausible market conditions. 3 When selecting stress scenarios, the operator shall, in particular, take into account the following stress events under extreme but plausible market conditions: a. the default of the participant or group of participants which would generate the largest aggregate payment obligation for the financial market infrastructure; b. additionally, for a central counterparty, the default of the two participants or two groups of participants which would generate the largest aggregate payment obligation for the central counterparty; c. the default of the largest liquidity provider in each of the five currencies in which the financial market infrastructure has the largest payment obligations. [tab] 4 Liquid resources in a currency, as specified in paragraph 2, comprise cash, credit lines and collateral in accordance with Article 50 paragraph 1 and Article 58 paragraph 1 of the Financial Market Infrastructure Ordinance of 25 November 2015 (FinMIO). 5 The operator shall diversify its liquidity providers and avoid concentration risk for collateral and assets in accordance with Article 50 paragraph 1 letters d and e FinMIO as well as Article 58 paragraph 1 letters d and e FinMIO. 6 The operator shall assess: a. by means of daily stress tests, whether the requirement specified in paragraph 2 is met; b. at least on a quarterly basis, the creditworthiness of the liquidity providers and their ability to meet their obligations. SR 958.11 Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Management of custody and investment risks",
+      "content": "1 The operator shall identify, measure, manage and monitor its custody and investment risks through the use of appropriate procedures and tools. 2 If the operator places own assets or collateral and assets of participants in the custody of a third party, it shall minimise the associated risks. In particular, it shall place the collateral and assets concerned with creditworthy and, wherever possible, supervised financial institutions, and shall take measures to ensure that, if necessary, it can access the collateral and assets immediately. 3 The operator’s investment strategy shall be consistent with its risk management strategy and allow only liquid investments with minimal credit and market risks. The operator shall avoid risk concentrations and disclose the investment strategy vis-à-vis its participants, in particular regarding the possible re-use of the collateral they have provided."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Management of general business risk",
+      "content": "1 The operator shall identify, measure, manage and monitor its general business risk through the use of appropriate procedures and tools. 2 In order to cover losses from general business risk, the operator shall hold capital and net liquidity. Such capital and net liquidity shall be sufficient to ensure the implementation of the plan specified in Article 26, and shall in any case be sufficient to cover current operating expenses for at least six months. 3 Collateral and other dedicated financial resources which are used to cover losses from participant defaults or from other credit or liquidity risks in accordance with Articles 28 and 29 must not be used to satisfy the requirement specified in paragraph 2. 4 The operator shall have a plan to raise additional capital in case the requirement specified in paragraph 2 is no longer fulfilled. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Management of operational risk",
+      "content": "The operator shall identify, measure, manage and monitor its operational risk through the use of appropriate procedures and tools, particularly in order to ensure information security and business continuity, taking into account recognised standards."
+    },
+    {
+      "provision_ref": "art32a",
+      "section": "32a",
+      "title": "a Information security",
+      "content": "1 The operator shall apply a company-wide approach and maintain an appropriate organisational structure with regard to planning, implementing, monitoring and improving the management of tasks and activities relating to information security (information security management). 2 The operator shall set appropriate targets with regard to the availability, integrity, confidentiality, auditability, authenticity, accountability and non-repudiation of information, particularly data in connection with transactions that are cleared or settled via the financial market infrastructure (information security objectives). 3 The operator shall take organisational and technical measures to ensure that the information security objectives are met during normal operations, during development and maintenance activities, and in times of increased transaction volumes. In particular, it shall take precautions enabling it to: a. identify, analyse and evaluate internal and external threats to information security and, if necessary, implement appropriate protective measures; b. ensure the physical security of the data processing facilities; c. ensure the secure and continuous operation of the data processing facilities; d. control, record and evaluate access to information and to the data processing facilities; e. protect data from loss, leakage, unauthorised access, and other processing risks such as negligence, fraud, poor administration and inadequate recordkeeping; f. ensure the secure storage and transmission of sensitive data; g. ensure the correct and complete processing of transactions; h. record and check transactions at all key stages of processing, in particular regarding input to and output from the data processing system; i. record and monitor interventions in the data processing system, such as software and parameter changes; j. record, evaluate and rectify processing errors and system disruptions promptly and in standardised form and prevent them from recurring. 4 The operator shall regularly monitor the appropriateness of, and compliance with, the information security objectives specified in paragraph 2. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art32b",
+      "section": "32b",
+      "title": "b Business continuity",
+      "content": "1 The operator shall apply a company-wide approach to maintaining or recovering business processes, in particular those business processes which are systemically important, in a timely manner in the event of damage or disruption. 2 The operator shall define the necessary resources (premises, staff, technical facilities, data, external service providers) for the individual business areas and assess the impact of any complete or partial loss or disruption of each of these resources with regard to business processes, in particular systemically important business processes (business impact analysis). The assessment shall include any interdependency among business areas and any dependency on external service providers. 3 Based on the business impact analysis, the operator shall define the maximum acceptable time before business processes are recovered, as well as the required degree of recovery (recovery objectives) and the associated resource requirements. The maximum acceptable time for recovery in the case of systemically important business processes, even in the event of major damage or disruption (e.g. non-availability of a business-critical building including staff), shall be two hours. 4 The operator shall define the procedure by which it aims to meet the recovery objectives specified in paragraph 3 (business continuity strategy), and shall draw up plans that describe in detail the action to be taken and the persons responsible (business continuity plans). 5 Subsequent to any major modifications but at least once a year, the operator shall review and test the business continuity plans with regard to their implementation and effectiveness, and to ensure that they are up to date. Such tests shall, if necessary, also involve participants and important service providers."
+    },
+    {
+      "provision_ref": "art32c",
+      "section": "32c",
+      "title": "c Data centres",
+      "content": "1 The operator shall have at least two data centres that meet high standards, particularly with regard to physical security, fire protection, power supply, cooling systems and telecommunications infrastructure. 2 The operator shall decide on the location of the data centres based on a risk analysis, and ensure that the data centres have different risk profiles and provide protection even in the event of a major incident adversely affecting a large geographical area. 3 The data centres and precautions taken to ensure their operation shall be appropriate for the fulfilment of the information security and recovery objectives specified in Articles 32 a and 32 b . If one of the data centres becomes inoperable, the operator shall ensure that, in particular, systemically important business processes can be continued within two hours at another data centre without the loss of any processing steps confirmed to participants."
+    },
+    {
+      "provision_ref": "art32d",
+      "section": "32d",
+      "title": "d Outsourcing",
+      "content": "1 If the operator outsources significant services, it shall select its service providers with care and instruct them appropriately. 2 The operator shall integrate the outsourced services into its internal control system and monitor the performance of the service provider on an ongoing basis. 3 The operator shall, with regard to any outsourced services, remain responsible for compliance with the special requirements specified in this chapter. 4 The outsourcing contract shall, in particular, specify: a. the services to be rendered by the service provider; b. the possibilities for the National Bank, the operator or a mandated external party to examine – in full and without hindrance – the services outsourced to the service provider. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Management of risk from indirect participation",
+      "content": "If the financial market infrastructure has indirect participants and these are visible to the operator, the latter shall identify, measure, manage and monitor the risks to the financial market infrastructure arising from indirect participants."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Management of risk from links between financial market infrastructures",
+      "content": "1 The operator shall identify, measure, manage and monitor risks arising from links to other financial market infrastructures. 2 If a central securities depository establishes a link with another central securities depository: a. the central securities depository shall use appropriate collateralisation measures to cover, with a high confidence level, the credit risk arising out of the granting of credit to the other central securities depository; b. the central securities depository shall permit the re-use of securities provisionally received from the other central securities depository only after the original transfer is unconditional and irrevocable; c. the central securities depository shall, in the case of indirect links, identify, measure, manage and monitor the risks arising due to intermediary financial institutions. d. the central securities depository shall, on a daily basis, match the holdings in its sub-custody with those it holds at other central securities depositories and custodians; e. the central securities depository shall make the settlement of transactions between the participants of linked central securities depositories possible on a «delivery versus payment» basis where practicable. 3 If a central counterparty enters into a link with another central counterparty, it shall cover the resulting current and potential credit exposure with a high confidence level through the collection of collateral as specified in Article 28 a from the other central counterparty. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 3 Assessment of Compliance with Special Requirements",
+      "section": "35",
+      "title": "35 Obligation to provide information",
+      "content": "The operator shall provide the National Bank or any third party designated by the latter with all the information and documentation that it requires for the assessment of compliance with the special requirements specified in this chapter. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Section 3 Assessment of Compliance with Special Requirements",
+      "section": "36",
+      "title": "Reporting obligations",
+      "content": "1 The operator shall submit the following documentation and information to the National Bank: a. the annual report; b. the contractual framework; c. the organisational principles; d. the minutes of the board of directors’ meetings; e. the internal and external auditors’ reports; f. information on the participants; g. data on the clearing and settlement of payments and financial instruments and the central custody of securities; h. the plan specified in Article 26, to ensure the recovery or orderly wind-down of systemically important business processes, and the plan specified in Article 31 paragraph 4, to raise additional capital; i. the results of the risk controls specified in Articles 27–32 a , 33 and 34; j. information on the availability of the data processing system, as well as on system failures and disruptions, including their causes and the action taken (operating statistics and production report); k. the business impact analysis, the business continuity strategy and the business continuity plans specified in Article 32 b paragraphs 2–4; l. the results of the tests of the business continuity plans specified in Article 32 b paragraph 5; m. a report on the course of the exclusion procedure in the case of default of a participant; n. a report on compliance with the special requirements specified in this chapter. 2 The operator shall inform the National Bank in good time about any significant planned changes with regard to: a. the ownership structure; b. the corporate objectives, corporate strategy and services offered; c. the corporate governance and organisation pursuant to Article 22; d. the means of payment used; e. the requirements for participation in the financial market infrastructure; f. the risk management, in particular the procedures and tools for managing credit and liquidity risks; g. the management of operational risk, in particular the business continuity strategy and the organisational and technical measures taken to achieve the information security objectives; h. agreements with third parties whose services are important for the operation of the financial market infrastructure. 3 The operator shall inform the National Bank immediately about: a. significant legal disputes; b. events that significantly impair the achievement of the information security objectives specified in Article 32 a and the business continuity objectives specified in Article 32 b ; c. any non-compliance with the requirements regarding the management of credit and liquidity risks in accordance with Articles 28, 28 b , 28 c , 28 d and 29. 4 The operator shall inform the National Bank, FINMA and other responsible supervisory authorities immediately of any suspension or exclusion of a participant. 5 The National Bank shall, in consultation with the operator, define the frequency, deadlines and formats for the submission of the documents and the provision of the information specified in paragraphs 1–4. Amended by No I of the SNB O of 10 June 2013, in force since 1 July 2013 ( AS 2013 1987 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "On-site assessments",
+      "content": "1 In order to assess compliance with the special requirements specified in this chapter, the National Bank may undertake on-site assessments of the financial market infrastructure or charge a third party with the performance of such assessments. 2 The operator shall have the adequacy and effectiveness of its risk management reviewed regularly by a qualified internal or external body. The National Bank may set requirements regarding the scope and depth of the assessments. 3 The operator shall have the adequacy and effectiveness of the procedures and tools used for the management of operational risk reviewed annually by a qualified external body. The National Bank shall, in consultation with the operator, define the scope and depth of the assessments. Amended by No I of the SNB O of 10 June 2013, in force since 1 July 2013 ( AS 2013 1987 ). Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Procedure in cases of non-compliance with the special requirements",
+      "content": "1 If a financial market infrastructure does not satisfy the special requirements specified in this chapter, the National Bank shall issue a recommendation to the operator. 2 The National Bank shall issue an order if the operator fails to comply with a corresponding recommendation as specified in paragraph 1. 3 Before issuing the recommendation specified in paragraph 1 or the order specified in paragraph 2, the National Bank shall provide the operator with the opportunity to express an opinion. If the financial market infrastructure is subject to authorisation and supervision by FINMA pursuant to Article 4 FinMIA, the National Bank shall first consult FINMA. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). SR 958.1"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "",
+      "content": "Repealed by No I of the SNB O of 26 Nov. 2015, with effect from 1 Jan. 2016 ( AS 2015 5307 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Chapter 5 Audit",
+      "section": "40",
+      "title": "",
+      "content": "1 The audit companies shall check whether the statistical reporting obligations and the minimum reserve requirements are fulfilled and shall submit a separate report to the National Bank. 2 The audit shall, as a rule, be conducted at the same time as the audit specified in Article 24 of the Financial Market Supervision Act of 22 June 2007. Duplication should be avoided as far as possible. However, the report should be submitted to the National Bank no later than six months after the annual accounts have been drawn up. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). SR 956.1"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Chapter 6 Final Provisions",
+      "section": "41",
+      "title": "41 Transitional provisions",
+      "content": "1 For financial market infrastructures which are subject to FINMA authorisation and supervision, the special requirements in accordance with Articles 21 a –34 and the obligations in accordance with Article 36 shall apply only after the licence granted in accordance with Article 25 FinMIA has entered into force. Until such time, the relevant requirements and obligations as laid out in the existing legislation shall apply. 2 For financial market infrastructures which are not subject to FINMA authorisation and supervision, the special requirements in accordance with Articles 22–34 and the obligations in accordance with Article 36 shall apply as soon as the amended National Bank Ordinance of 26 November 2015 enters into force. Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ( AS 2015 5307 ). SR 958.1"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Chapter 6 Final Provisions",
+      "section": "42",
+      "title": "42 Commencement",
+      "content": "This Ordinance comes into force on 1 May 2004."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bank",
+      "definition": "Bank means any person or company in possession of a licence pursuant to Article 3 of the Federal Act on Banks and Savings Banks of 8 November 1934;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Occupational pension scheme",
+      "definition": "Occupational pension scheme means any pension scheme that is inscribed, pursuant to Article 48 of the Federal Act of 25 June 1982 on Occupational Old Age, Survivors and Invalidity Insurance, in the occupational pensions register held by the supervisory authority;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Investment and holding company",
+      "definition": "Investment and holding company means any legal entity, company or public law institution, whose principal object is the ongoing administration of participations, and which meets the requirements laid down in the Annex to this Ordinance;",
+      "source_provision": "art2"
+    }
+  ]
+}

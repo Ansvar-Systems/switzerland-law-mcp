@@ -1,0 +1,74 @@
+{
+  "id": "sr-142-281-3",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 22. September 2014 über die Baubeiträge des Bundes an Einrichtungen für den Vollzug der ausländerrechtlichen Zwangsmassnahmen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/522/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Bereiche, anrechenbare Flächen und Bereichspreise",
+      "content": "Die Bereiche, die anrechenbaren Flächen pro Haftplatz und die Bereichspreise pro Quadratmeter werden wie folgt festgelegt: Bereich Anrechenbare Fläche pro Haftplatz (in m 2 ) Bereichspreis pro m 2 (Indexstand 1. Oktober 2010) 1 Sicherheit [tab] 1,7 [tab] 5300 2 Verwaltung [tab] 1,9 [tab] 5300 2a Migrationsbehörden [tab] bis 1,6 [tab] 5300 3 Personal [tab] 1,6 [tab] 5100 4 Insassenwesen [tab] 7,4 [tab] 5100 5 Aufnahme/Austritt [tab] 2,1 [tab] 5100 5a Transport [tab] bis 1,1 [tab] 5100 6 Wohnen [tab] 16,4 [tab] 6700 7 Beschäftigung [tab] 8,6 [tab] 3600 8 Hauswirtschaft [tab] 5,7 [tab] 6700 [tab] Gesamtfläche pro Haftplatz [tab] bis 48,1 [tab] Schweizerischer Baupreisindex, Teilindex Hochbau, inkl. Mehrwertsteuer."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Sicherheitszuschlag",
+      "content": "Der Sicherheitszuschlag beträgt 85 000 Franken pro Haftplatz."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Zuschlag für Sportbauten",
+      "content": "Für Sportbauten wird bei Einrichtungen ab 100 Haftplätzen ein Flächenzuschlag bis maximal 2,9 m 2 pro Haftplatz gewährt. Der Zuschlag wird dem Bereich «Insassenwesen» angerechnet."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Zuschlag für Umgebungsarbeiten bei Neubauten",
+      "content": "Der Zuschlag für die Umgebungsarbeiten, einschliesslich der flächenrelevanten Zuschläge, beträgt 9,0 Prozent der anerkannten Kosten nach den Gruppen 1–3 und 5 des Baukostenplans Hochbau der Schweizerischen Zentralstelle für Baurationalisierung. Referenznummer: SN 506 511:2012 de; Bezugsquelle: CRB Schweizerische Zentralstelle für Baurationalisierung, www.crb.ch"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Zuschlag für Ausstattungskosten bei Neubauten",
+      "content": "Der Zuschlag für die bewegliche Ausstattung, einschliesslich der flächenrelevanten Zuschläge, beträgt 5,7 Prozent der anerkannten Kosten nach den Gruppen 1–3 und 5 des Baukostenplans Hochbau der Schweizerischen Zentralstelle für Baurationalisierung. Referenznummer: SN 506 511:2012 de; Bezugsquelle: CRB Schweizerische Zentralstelle für Baurationalisierung, www.crb.ch"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Zuschlag für Umgebungsarbeiten und für bewegliche Ausstattung bei Umbauten",
+      "content": "Für Umbauten wird ein Zuschlag in der Höhe der anerkannten Kosten für Umgebungsarbeiten und für bewegliche Ausstattung gewährt."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Berechnungsformel für die Platzkostenpauschale bei Neubauten",
+      "content": "1 Die Platzkostenpauschale bei Neubauten wird nach den folgenden Schritten berechnet: 1. Für jeden Bereich werden die Bereichsquadratmeter mit dem dazugehörigen Bereichspreis multipliziert. 2. Die Produkte aus Schritt 1 werden addiert. 3. Die Summe aus Schritt 2 wird addiert mit: – ihrem prozentualen Anteil für Umgebungsarbeiten; – ihrem prozentualen Anteil für Ausstattungskosten; – dem Sicherheitszuschlag. 2 Die Höhe des Bundesbeitrags richtet sich nach Artikel 15 k VVWAL. Fassung gemäss Ziff. I der V des EJPD vom 25. Jan. 2017, in Kraft seit 1. März 2017 ( AS 2017 601 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Berechnungsformel für die Platzkostenpauschale bei Umbauten",
+      "content": "1 Die Platzkostenpauschale bei Umbauten wird nach den folgenden Schritten berechnet: 1. Für jeden Bereich werden die Bereichsquadratmetermit dem dazugehörigen Bereichspreis multipliziert. 2. Die Produkte aus Schritt 1 werden addiert. 3. Die Summe aus Schritt 2 wird multipliziert mit dem Eingriffs- und Veränderungsgrad. 4. Das Produkt aus Schritt 3 wird addiert mit: – dem Zuschlag für Umgebungsarbeiten und für bewegliche Ausstattung; – dem Sicherheitszuschlag multipliziert mit dem Eingriffs- und Veränderungsgrad. 2 Die Höhe des Bundesbeitrags richtet sich nach Artikel 15 k VVWAL. Fassung gemäss Ziff. I der V des EJPD vom 25. Jan. 2017, in Kraft seit 1. März 2017 ( AS 2017 601 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Korrektur der anerkannten Kosten bei Umbauten für den Fall eines Nichterreichens der Bereichsflächen",
+      "content": "1 Erreicht eine bestehende Einrichtung bei einem Umbau die Bereichsflächen nicht, die in der für sie massgebenden Modellanstalt festgelegt sind, so werden die anerkannten Bereichskosten im Verhältnis der fehlenden Fläche zur anrechenbaren Fläche gekürzt. 2 Die im Bereich «Wohnen» fehlende Fläche kann durch ein Mehr an Fläche im Bereich «Insassenwesen» kompensiert werden. Die anrechenbaren Kosten im «Insassenwesen» können dabei maximal um den Korrekturfaktor 1,15 erhöht werden."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 15. Oktober 2014 in Kraft."
+    }
+  ],
+  "definitions": []
+}

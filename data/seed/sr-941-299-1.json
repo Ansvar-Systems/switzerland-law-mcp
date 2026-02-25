@@ -1,0 +1,38 @@
+{
+  "id": "sr-941-299-1",
+  "type": "statute",
+  "title": "Sommerzeitverordnung vom 24. September 1984",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1984/1105_1105_1105/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gültigkeit",
+      "content": "In der Schweiz wird die Sommerzeit für den gleichen Zeitraum festgelegt wie in der Europäischen Union. Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 7247 )."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Beginn und Ende",
+      "content": "1 Die Sommerzeit beginnt am letzten Sonntag des Monats März, morgens um 2 Uhr mitteleuropäischer Zeit (MEZ). Zu diesem Zeitpunkt wird die Stundenzählung jeweils um eine Stunde von 2 Uhr auf 3 Uhr vorgestellt. 2 Die Sommerzeit endet am letzten Sonntag des Monats Oktober morgens um 3 Uhr Sommerzeit. Zu diesem Zeitpunkt wird die Stundenzählung jeweils um eine Stunde von 3 auf 2 Uhr zurückgestellt. 3 … Fassung gemäss Ziff. I der V vom 17. April 1985, in Kraft seit 1. Mai 1985 ( AS 1985 487 ). Fassung gemäss Ziff. I der V vom 21. Sept. 2001, in Kraft seit 1. Nov. 2001 ( AS 2001 2435 ). Aufgehoben durch Ziff. I der V vom 7. Dez. 2012, mit Wirkung seit 1. Jan. 2013 ( AS 2012 7247 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Umstellungsstunde",
+      "content": "Von der beim Übergang von Sommerzeit auf mitteleuropäische Zeit doppelt erscheinenden Stunde von 2 Uhr bis 3 Uhr morgens wird die erste Stunde mit 2 A (2 A.01 Minute usw.), die zweite Stunde mit 2 B bezeichnet."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 1985 in Kraft."
+    }
+  ],
+  "definitions": []
+}

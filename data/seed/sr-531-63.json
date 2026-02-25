@@ -1,0 +1,56 @@
+{
+  "id": "sr-531-63",
+  "type": "statute",
+  "title": "Verordnung vom 30. September 2022 über die Erhöhung der Betriebsspannung im elektrischen Übertragungsnetz",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2022/547/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Zweck",
+      "content": "Mit dieser Verordnung soll angesichts der unmittelbar drohenden schweren Mangellage die Erhöhung der Betriebsspannung im elektrischen Übertragungsnetz ermöglicht werden."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Spannungserhöhung",
+      "content": "Sofern dies zur Entschärfung eines erheblichen Engpasses im Übertragungsnetz notwendig ist, kann die Betriebsspannung auf folgenden Hochspannungsleitungen von 220 kV auf 380 kV erhöht werden: a. Bassecourt–Mühleberg; b. Bickigen–Chippis."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Nichtanwendbarkeit von Bestimmungen anderer Erlasse",
+      "content": "Folgende Bestimmungen sind nicht anwendbar, soweit sie mit Massnahmen zur Spannungserhöhung nach Artikel 2 im Widerspruch stehen: a. die Artikel 15 e und 16 Absatz 1 des Elektrizitätsgesetzes vom 24. Juni 1902 ; b. die Artikel 34, 38 und 39 Absatz 1 der Leitungsverordnung vom 30. März 1994; c. die Artikel 4, 5 und 13 Absatz 1 der Verordnung vom 23. Dezember 1999 über den Schutz vor nichtionisierender Strahlung; d. die Artikel 7 Absatz 1 und 8 Absätze 1 und 2 der Lärmschutz-Verordnung vom 15. Dezember 1986. SR 734.0 SR 734.31 SR 814.710 SR 814.41"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Verfahren",
+      "content": "1 Die nationale Netzgesellschaft muss dem Eidgenössischen Starkstrominspektorat (ESTI) ein Gesuch für die Genehmigung der baulichen Anpassungen der Leitungen nach Artikel 2 für einen Betrieb mit erhöhter Spannung einreichen. 2 Das ESTI legt fest, welche Unterlagen und Informationen mit dem Gesuch einzureichen sind. 3 Es prüft das Gesuch und genehmigt es, sofern die Voraussetzungen erfüllt sind."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Testbetrieb",
+      "content": "Die nationale Netzgesellschaft muss vor dem Betrieb mit erhöhter Spannung einen Testbetrieb unter der Aufsicht des ESTI durchführen, in dem die Sicherheit und die Auswirkungen der Spannungserhöhung auf die Umwelt geprüft werden."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Vollzug",
+      "content": "Das ESTI ist für die technische Überwachung und die Anordnung von Massnahmen zum sicheren Betrieb der Anlagen zuständig."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Inkrafttreten",
+      "content": "1 Diese Verordnung tritt am 1. Oktober 2022 in Kraft. 2 Sie gilt bis zum 30. April 2023."
+    }
+  ],
+  "definitions": []
+}

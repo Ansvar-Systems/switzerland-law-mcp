@@ -1,0 +1,1553 @@
+{
+  "id": "sr-291",
+  "type": "statute",
+  "title": "Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht (IPRG)",
+  "title_en": "Federal Act on Private International Law (PILA)",
+  "short_name": "IPRG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 Scope of Application",
+      "section": "1",
+      "title": "",
+      "content": "1 This Act governs, in international matters: a. the jurisdiction of Swiss judicial or administrative authorities; b. the applicable law; c. the requirements for the recognition and enforcement of foreign decisions; d. bankruptcy and composition; e. arbitration. 2 International treaties are reserved."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 2 Jurisdiction",
+      "section": "2",
+      "title": "",
+      "content": "Where this Act does not provide for special jurisdiction, the Swiss judicial or administrative authorities at the defendant’s domicile have jurisdiction."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 2 Jurisdiction",
+      "section": "3",
+      "title": "",
+      "content": "Where this Act does not provide for jurisdiction in Switzerland and proceedings abroad are impossible or cannot reasonably be required, the Swiss judicial or administrative authorities at the place with which the case has a sufficient connection have jurisdiction."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Jurisdiction",
+      "section": "4",
+      "title": "",
+      "content": "Where this Act does not provide for any other forum in Switzerland, the action to validate an attachment may be brought at the Swiss forum of the attachment."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Jurisdiction",
+      "section": "5",
+      "title": "",
+      "content": "1 In matters involving an economic interest, the parties may agree on the court that will have to decide any existing or future dispute arising from a specific legal relationship. The agreement may be done in writing, by telegram, telex, telefax or any other means of communication allowing it to be evidenced by text. Unless otherwise agreed, the choice of forum is exclusive. 2 The choice of forum has no effect if it results in abusively depriving a party from the protection granted to it by a forum provided by Swiss law. 3 The chosen court may not decline jurisdiction: a. if a party is domiciled or has its habitual residence or an establishment in the canton of the chosen court; or b. if, pursuant to this Act, Swiss law is applicable to the dispute."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Jurisdiction",
+      "section": "6",
+      "title": "",
+      "content": "In matters involving an economic interest, the court before which the defendant proceeds on the merits without reservation has jurisdiction, unless such court declines jurisdiction to the extent permitted by Article 5 paragraph 3."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Jurisdiction",
+      "section": "7",
+      "title": "",
+      "content": "If the parties have entered into an arbitration agreement with respect to an arbitrable dispute, any Swiss court before which such dispute is brought shall decline jurisdiction, unless: a. the defendant has proceeded on the merits without reservation; b. the court finds that the arbitration agreement is null and void, inoperative or incapable of being performed; or c. the arbitral tribunal cannot be constituted for reasons that are clearly attributable to the defendant in the arbitration."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "",
+      "content": "The court before which the main claim is brought also hears any counterclaim, provided there is a factual connection between the main claim and the counterclaim."
+    },
+    {
+      "provision_ref": "art8a",
+      "section": "8a",
+      "title": "",
+      "content": "1 If an action is brought against several co-defendants who may be sued in Switzerland pursuant to this Act, the Swiss court that has jurisdiction over one defendant has jurisdiction over all of them. 2 If two or more claims having a factual connection between them can be brought in Switzerland pursuant to this Act against the same defendant, any Swiss court having jurisdiction over one of such claims has jurisdiction over all of them. Inserted by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ( AS 2010 5601 ; BBl 2009 1777 )."
+    },
+    {
+      "provision_ref": "art8b",
+      "section": "8b",
+      "title": "",
+      "content": "A Swiss court having jurisdiction for the main action also has jurisdiction for a third party action, provided a court in Switzerland has jurisdiction over such third party pursuant to this Act. Inserted by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ( AS 2010 5601 ; BBl 2009 1777 )."
+    },
+    {
+      "provision_ref": "art8c",
+      "section": "8c",
+      "title": "",
+      "content": "Where it is admissible to pursue civil claims in criminal proceedings, the Swiss court which is seized of the criminal proceedings also has jurisdiction for the civil claims, provided a court in Switzerland has jurisdiction for such claims under this Act. Inserted by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ( AS 2010 5601 ; BBl 2009 1777 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "1 If an action having the same subject matter is already pending between the same parties abroad, the Swiss court shall stay the case if it is to be expected that the foreign court will, within a reasonable time, render a decision capable of being recognised in Switzerland. 2 In order to determine when an action has been initiated in Switzerland, the conclusive date is that of the first act necessary to initiate the proceedings. A notice to appear for conciliation is sufficient. 3 The Swiss court shall terminate its proceedings as soon as it is presented with a foreign decision capable of being recognised in Switzerland."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "",
+      "content": "Jurisdiction to order interim measures lies with: a. the Swiss courts or authorities that have jurisdiction for the main action; or b. the Swiss courts or authorities at the place where the measure is to be enforced. Amended by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "Requests for legal assistance between Switzerland and other states are facilitated by the Federal Office of Justice. Amended by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 )."
+    },
+    {
+      "provision_ref": "art11a",
+      "section": "11a",
+      "title": "",
+      "content": "1 Acts of legal assistance are carried out in Switzerland in accordance with Swiss law. 2 Foreign forms of procedure may also be followed or taken into consideration on application of the requesting authorities where this is necessary for the recognition of a right abroad and provided there are no important countervailing reasons relating to the person involved. 3 If a form of procedure under Swiss law is not recognised abroad and as a result a right deemed worthy of protection would not be upheld there, the Swiss courts or authorities may issue documents or take a person’s oath pursuant to the form required by the foreign law. 4 The Hague Convention of 1 March 1954 on Civil Procedure applies to requests to and from Switzerland for service and the taking of evidence. Inserted by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 ). SR 0.274.12"
+    },
+    {
+      "provision_ref": "art11b",
+      "section": "11b",
+      "title": "",
+      "content": "Advance of costs and security for party costs are governed by the Civil Procedure Code of 19 December 2008 (CPC). Inserted by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 ). SR 272"
+    },
+    {
+      "provision_ref": "art11c",
+      "section": "11c",
+      "title": "",
+      "content": "Legal aid is granted to persons domiciled abroad under the same conditions as apply to persons domiciled in Switzerland. Inserted by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "",
+      "content": "Repealed by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3 Applicable Law",
+      "section": "13",
+      "title": "",
+      "content": "Reference to a foreign law in this Act includes all the provisions which under that law are applicable to the case. The application of a foreign law is not precluded by the mere fact that a provision is considered to have public law character."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 3 Applicable Law",
+      "section": "14",
+      "title": "",
+      "content": "1 If the applicable law refers back to Swiss law or to another foreign law, such renvoi shall be taken into account only if this Act so provides. 2 In matters of personal or family status, a renvoi from the foreign law to Swiss law is accepted."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 3 Applicable Law",
+      "section": "15",
+      "title": "",
+      "content": "1 As an exception, the law referred to by this Act is not applicable if, considering all the circumstances, it is apparent that the case has only a very loose connection with that law and that the case has a much closer connection with another law. 2 This provision does not apply where a choice of law has been made."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 3 Applicable Law",
+      "section": "16",
+      "title": "",
+      "content": "1 The content of the foreign law shall be established by the authorities on their own motion. For this purpose, the cooperation of the parties may be requested. In matters involving an economic interest, the task of establishing foreign law may be assigned to the parties. 2 Swiss law applies if the content of the foreign law cannot be established."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 3 Applicable Law",
+      "section": "17",
+      "title": "",
+      "content": "The application of provisions of foreign law is excluded if such application leads to a result that is incompatible with Swiss public policy."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 3 Applicable Law",
+      "section": "18",
+      "title": "",
+      "content": "Mandatory provisions of Swiss law which, by reason of their special purpose, are applicable regardless of the law referred to by this Act are reserved."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "",
+      "content": "1 If interests that are legitimate and clearly preponderant according to the Swiss conception of law so require, a mandatory provision of a law other than the one referred to by this Act may be taken into consideration, provided the situation dealt with has a close connection with that other law. 2 In deciding whether such a provision is to be taken into consideration, consideration shall be given to its purpose and the consequences of its application, in order to reach a decision that is appropriate having regard to the Swiss conception of law."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 4 Domicile, Seat and Citizenship",
+      "section": "20",
+      "title": "",
+      "content": "1 Within the meaning of this Act, a natural person: a. has their domicile in the state where they reside with the intent of establishing permanent residence; b. has their habitual residence in the state where they live for a certain period of time, even if this period is of limited duration from the outset; c. has their establishment in the state where the centre of their professional or commercial activities is located. 2 No person may have more than one domicile at the same time. If a person does not have a domicile anywhere, the habitual residence is the relevant place. The provisions of the Civil Code relating to domicile and residence do not apply. SR 210"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 4 Domicile, Seat and Citizenship",
+      "section": "21",
+      "title": "",
+      "content": "1 For companies and trusts pursuant to Article 149 a , the seat is deemed to be the domicile. 2 The seat of a company is deemed to be located at the place designated in the articles of incorporation or in the articles of association. In the absence of such a designation, the seat is located at the place where the company is administered in fact. 3 The seat of a trust is deemed to be located at the place of administration, as designated in the trust terms in writing or in any other form which permits evidence by text. In the absence of such a designation, the seat is deemed to be located at the place where the trust is administered in fact. 4 The establishment of a company or a trust is located in the state where its seat is located or in any state where one of its branches is located. Amended by Art. 2 of the FD of 20 Dec. 2006 on the Approval and Implementation of the Hague Convention on the Law Applicable to Trusts and on their Recognition, in force since 1 July 2007 ( AS 2007 2849 ; BBl 2006 551 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 4 Domicile, Seat and Citizenship",
+      "section": "22",
+      "title": "",
+      "content": "The citizenship of a natural person is determined according to the law of the state of the citizenship in question."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 4 Domicile, Seat and Citizenship",
+      "section": "23",
+      "title": "",
+      "content": "1 If a person has one or more foreign citizenships in addition to Swiss citizenship, jurisdiction based on citizenship is determined by reference to Swiss citizenship only. 2 If a person has more than one citizenship, the citizenship of the state with which such person is most closely connected is exclusively relevant in determining the applicable law, unless this Act provides otherwise. 3 If recognition of a foreign decision in Switzerland depends on a person’s citizenship, it is sufficient to take into consideration one of such person’s citizenships."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "",
+      "content": "1 A person is considered to be stateless when they are recognised as such pursuant to the New York Convention of 28 September 1954 Relating to the Status of Stateless Persons, or when such person’s relationship to their national state is severed to such an extent that their situation is equivalent to that of a stateless person. 2 A person is deemed to be a refugee when they are recognised as such pursuant to the Asylum Act of 5 October 1979. 3 Where this Act applies to stateless persons and to refugees, domicile replaces citizenship. SR 0.142.40 [ AS 1980 1718 ; 1986 2062 ; 1987 1674 ; 1990 938 , 1587 Art. 3 para. 1; 1994 1634 No I 8. 1 , 2876 ; 1995 146 No II 1, 4356 ; 1997 2372 , 2394 ; 1998 1582 . AS 1999 2262 Art. 120 let. a]. Now: FA of 26 June 1998 ( SR 142.31 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 5 Recognition and Enforcement of Foreign Decisions",
+      "section": "25",
+      "title": "",
+      "content": "A foreign decision is recognised in Switzerland: a. if the judicial or administrative authorities of the state where the decision was rendered had jurisdiction; b. if the decision is no longer subject to any ordinary appeal or if it is a final decision; and c. if there is no ground for denial under Article 27."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 5 Recognition and Enforcement of Foreign Decisions",
+      "section": "26",
+      "title": "",
+      "content": "Foreign authorities have jurisdiction: a. if jurisdiction derives from a provision of this Act or, in the absence of such a provision, if the defendant was domiciled in the state in which the decision was rendered; b. if, in matters involving an economic interest, the parties submitted to the jurisdiction of the authority that rendered the decision by means of an agreement valid under this Act; c. if, in matters involving an economic interest, the defendant proceeded on the merits without reservation; d. if, in the case of a counterclaim, the authority that rendered the decision had jurisdiction to hear the main claim and if there is a factual connection between the claim and counterclaim."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 5 Recognition and Enforcement of Foreign Decisions",
+      "section": "27",
+      "title": "",
+      "content": "1 A foreign decision is not recognized in Switzerland if recognition is manifestly incompatible with Swiss public policy. 2 Recognition of a decision shall also be denied if a party establishes: a. that it did not receive proper notice under either the law of its domicile or that of its habitual residence, unless the party proceeded on the merits without reservation; b. that the decision was rendered in violation of fundamental principles of Swiss procedural law, including the fact that the party concerned was denied the right to be heard; c. that a dispute between the same parties and with respect to the same subject matter has been initiated in Switzerland first or has already been decided there, or that such dispute has previously been decided in a third state, provided the latter decision fulfils the requirements for recognition in Switzerland. 3 Other than that, the foreign decision may not be reviewed on the merits."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 5 Recognition and Enforcement of Foreign Decisions",
+      "section": "28",
+      "title": "",
+      "content": "A decision that is recognised pursuant to Articles 25 to 27 is declared enforceable at the request of the interested party."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "",
+      "content": "1 The request for recognition or enforcement must be filed with the competent authority of the canton where the foreign decision is relied on. The request must be accompanied: a. by a complete and certified copy of the decision; b. by a statement certifying that no ordinary appeal can be lodged against the decision or that it is final; and c. in case of a default judgment, by an official document establishing that the defaulting party was given proper notice and had the opportunity to present its defence. 2 The party opposing recognition and enforcement has the right to be heard; such party may present their defence. 3 If a foreign decision is relied on with respect to a preliminary issue, the authority seized may itself rule on the recognition."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "",
+      "content": "Articles 25 to 29 apply to court-approved settlements that are deemed equivalent to a court decision in the state where they have been entered."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "",
+      "content": "Articles 25 to 29 apply by analogy to the recognition and enforcement of a decision or a legal document issued in non-contentious matters."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "",
+      "content": "1 A foreign decision or legal document regarding civil status shall be registered in the Swiss civil status registers if so ordered by the cantonal supervisory authority. 2 The entry is authorised if the requirements set out in Articles 25 to 27 are met. 3 The persons concerned shall first be heard if it is not established that the rights of the parties have been sufficiently respected during the proceedings in the foreign state where the decision was rendered."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Chapter 2 Natural Persons",
+      "section": "33",
+      "title": "",
+      "content": "1 Unless this Act provides otherwise, the Swiss judicial or administrative authorities of the domicile have jurisdiction over matters pertaining to the status of natural persons; these authorities shall apply the law of the domicile. 2 Infringements of personality rights are governed by the provisions of this Act relating to torts (Article 129 et seq . )."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Chapter 2 Natural Persons",
+      "section": "34",
+      "title": "",
+      "content": "1 Legal capacity is governed by Swiss law. 2 The beginning and the end of personality are governed by the law applicable to the legal relationship that presupposes legal capacity."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Chapter 2 Natural Persons",
+      "section": "35",
+      "title": "",
+      "content": "The capacity to act is governed by the law of the domicile. Once acquired, the capacity to act is not affected by a change of domicile."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Chapter 2 Natural Persons",
+      "section": "36",
+      "title": "",
+      "content": "1 A party to a legal transaction who lacks capacity under the law of the state of their domicile may not rely on such incapacity if they would have had the capacity to act under the law of the state where the transaction was made, unless the other party knew or should have known of the incapacity. 2 This rule does not apply to legal transactions pertaining to family law, succession law or rights in rem in immovable property."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Chapter 2 Natural Persons",
+      "section": "37",
+      "title": "",
+      "content": "1 The name of a person domiciled in Switzerland is governed by Swiss law. The name of a person domiciled abroad is governed by the law referred to by the rules of private international law of the state of domicile. 2 However, a person may request to have their name governed by the law of the state of their citizenship."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "",
+      "content": "1 The Swiss authorities at the domicile of the applicant have jurisdiction to hear an application for a change of name. 2 Swiss citizens who do not have a domicile in Switzerland may apply for a change of name to the authority of their canton of origin. 3 The requirements for and effects of a change of name are governed by Swiss law."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "",
+      "content": "A change of name occurred abroad is recognised in Switzerland if it is valid in the state of domicile or in the state of citizenship of the applicant."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "",
+      "content": "The name is entered in the Swiss civil status registers in accordance with Swiss registration principles."
+    },
+    {
+      "provision_ref": "art40a",
+      "section": "40a",
+      "title": "",
+      "content": "Articles 37–40 apply by analogy to a person's gender. Inserted by No II of the FA of 18 Dec. 2020 (Sex Change in the Civil Register), in force since 1 Jan. 2022 ( AS 2021 668 ; BBl 2020 799 )."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "",
+      "content": "1 The Swiss courts at the last known domicile of a missing person have jurisdiction to issue a declaration of presumed death. 2 The Swiss courts also have jurisdiction to issue a declaration of presumed death where justified by a legitimate interest. 3 The requirements for and effects of a declaration of presumed death are governed by Swiss law."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "",
+      "content": "A declaration of presumed death or of death issued abroad is recognized in Switzerland if it is issued in the state of the last known domicile or the state of citizenship of the missing person."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Section 1 Celebration of Marriage",
+      "section": "43",
+      "title": "",
+      "content": "1 The Swiss authorities have jurisdiction to celebrate a marriage if one of the prospective spouses is domiciled in Switzerland or has Swiss citizenship. 2 Foreign prospective spouses without Swiss domicile may also be authorised by the competent authority to marry in Switzerland, if the marriage is recognised in the state of domicile or citizenship of both of the prospective spouses. 3 Such authorisation may not be denied on the sole ground that a divorce granted or recognised in Switzerland is not recognised abroad. Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 ). Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Section 1 Celebration of Marriage",
+      "section": "44",
+      "title": "",
+      "content": "The celebration of marriage in Switzerland is governed by Swiss law. Amended by No I 5 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ( AS 2013 1035 ; BBl 2011 2185 )."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Section 1 Celebration of Marriage",
+      "section": "45",
+      "title": "",
+      "content": "1 A marriage validly celebrated abroad is recognised in Switzerland. 2 If either of the prospective spouses is a Swiss citizen or if both have their domicile in Switzerland, a marriage celebrated abroad is recognised, unless it was celebrated with the manifest intent of circumventing the Swiss provisions on annulment of marriage. 3 ... Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 ). Inserted by Annex No 17 of the Same-Sex Partnerships Act of 18 June 2004 ( AS 2005 5685 ; BBl 2003 1288 ). Repealed by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), with effect from 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art45a",
+      "section": "45a",
+      "title": "",
+      "content": "1 The Swiss courts at the domicile or, in the absence of a domicile in Switzerland, those at the place of celebration of the marriage or the place of origin of either spouse have jurisdiction to hear an action for annulment of marriage. 2 The action is governed by Swiss law. 3 Articles 62 to 64 apply by analogy to interim measures and to the consequences of an annulment. 4 Foreign decisions on annulment of marriage are recognised in Switzerland if they were rendered in the state where the marriage was celebrated. Article 65 applies by analogy if the action was brought by one of the spouses. Inserted by No II 2 of the FA of 7 Oct. 1994 ( AS 1995 1126 ; BBl 1993 I 1169 ). Amended by No I 5 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ( AS 2013 1035 ; BBl 2011 2185 )."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Section 2 General Effects of Marriage",
+      "section": "46",
+      "title": "",
+      "content": "The Swiss judicial or administrative authorities at the domicile or, in the absence of a domicile, those at the habitual residence of either spouse have jurisdiction to hear actions or to order measures relating to the effects of marriage."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Section 2 General Effects of Marriage",
+      "section": "47",
+      "title": "",
+      "content": "If neither spouse has domicile or habitual residence in Switzerland, and if at least one of them is a Swiss citizen, the judicial or administrative authorities at the place of origin have jurisdiction to hear actions or to order measures relating to the effects of marriage, provided such action or request cannot be filed or cannot reasonably be expected to be filed at the domicile or habitual residence of either spouse."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Section 2 General Effects of Marriage",
+      "section": "48",
+      "title": "",
+      "content": "1 The effects of marriage are governed by the law of the state in which the spouses are domiciled. 2 If the spouses are not domiciled in the same state, the effects of marriage are governed by the law of that state of domicile with which the case has the closest connection. 3 Where the Swiss judicial or administrative authorities at the place of origin have jurisdiction pursuant to Article 47, they shall apply Swiss law."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Section 2 General Effects of Marriage",
+      "section": "49",
+      "title": "",
+      "content": "Maintenance obligations between spouses are governed by the Hague Convention of 2 October 1973 on the Law applicable to Maintenance Obligations. SR 0.211.213.01"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Section 2 General Effects of Marriage",
+      "section": "50",
+      "title": "",
+      "content": "Foreign decisions or measures relating to the effects of marriage are recognised in Switzerland if they were rendered: a. in the state of domicile or habitual residence of either spouse; or b. in the state in which the marriage was celebrated and the action cannot or cannot reasonably be expected to be brought in either of the states mentioned in letter a. Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Section 3 Marital Property Law",
+      "section": "51",
+      "title": "",
+      "content": "The following courts or authorities have jurisdiction to hear actions and to order measures relating to marital property: a. with respect to the liquidation of the marital property regime on the death of one of the spouses: the Swiss judicial or administrative authorities that have jurisdiction to settle the estate (Art. 86 to 89); b. with respect to the liquidation of the marital property regime on divorce or separation: the Swiss judicial authorities that have jurisdiction in that respect (Art. 59, 60, 60 a , 63, 64); c. in all other cases: the Swiss judicial or administrative authorities that have jurisdiction to rule on the effects of marriage (Art. 46, 47). Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Section 3 Marital Property Law",
+      "section": "52",
+      "title": "",
+      "content": "1 Marital property relations are governed by the law chosen by the spouses. 2 The spouses may choose: a. the law of the state in which they are both domiciled or will be domiciled after the celebration of marriage; b. the law of the place of celebration of the marriage; or c. the law of a state of which either of them is a citizen. 3 Article 23 paragraph 2 does not apply. Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 ). Inserted by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Section 3 Marital Property Law",
+      "section": "53",
+      "title": "",
+      "content": "1 A choice of law must be agreed in writing or result with certainty from the provisions of a marital agreement; in all other respects, it is governed by the chosen law. 2 A choice of law may be made or amended at any time. A choice of law made after the celebration of marriage has retroactive effect as of the celebration date, unless the parties agree otherwise. 3 The chosen law remains applicable as long as the spouses have not amended or revoked their choice."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "",
+      "content": "1 In the absence of a choice of law, marital property relations are governed: a. by the law of the state in which both spouses are domiciled at the same time, or, if that is not the case; b. by the law of the state in which both spouses were last domiciled at the same time. 2 If the spouses have never been domiciled at the same time in the same state, the law of their common citizenship applies. 3 Spouses who have never been domiciled in the same state and who do not have a common citizenship are subject to the Swiss rules on separation of property."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "",
+      "content": "1 If the spouses transfer their domicile from one state to another, the law of the new domicile applies with retroactive effect as from the date of the celebration of marriage. Spouses may exclude retroactivity by written agreement. 2 A change of domicile has no effect on the applicable law if the spouses have agreed in writing that the former law shall remain applicable or if they are bound by a marital agreement."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "",
+      "content": "A marital agreement is valid as to form if it satisfies the requirements of the law applicable to the agreement or the requirements of the law of the place where the agreement was concluded."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "",
+      "content": "1 The effects of the marital property regime on a legal relationship between a spouse and a third party are governed by the law of the state in which that spouse was domiciled at the time when the legal relationship arose. 2 However, these effects are governed by the law applicable to the marital property regime if the third party knew or should have known that law at the time when the legal relationship arose."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "",
+      "content": "1 Foreign decisions relating to marital property relations are recognised in Switzerland: a. if they were rendered, or are recognised, in the state of domicile of the defendant spouse; b. if they were rendered, or are recognised, in the state of domicile of the plaintiff spouse, provided the defendant spouse was not domiciled in Switzerland; c. if they were rendered, or are recognised, in the state whose law applies to the marital property relations pursuant to this Act; or d. to the extent that they relate to immovable property, if they were rendered, or are recognised, in the state in which the respective property is located. 2 The recognition of decisions relating to marital property relations rendered in the context of measures protecting the marital union, or on a death, a declaration of nullity of marriage, a divorce or a separation is governed by the provisions of this Act relating to the general effects of marriage, divorce or succession (Art. 50, 65 and 96)."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Section 4 Divorce and Separation",
+      "section": "59",
+      "title": "",
+      "content": "The following courts have jurisdiction to hear an action for divorce or separation: a. the Swiss courts at the domicile of the defendant spouse; b. the Swiss courts at the domicile of the plaintiff spouse, provided he or she has been residing in Switzerland for at least a year or is a Swiss citizen."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Section 4 Divorce and Separation",
+      "section": "60",
+      "title": "",
+      "content": "If the spouses are not domiciled in Switzerland and at least one of them is a Swiss citizen, the courts at the place of origin have jurisdiction to hear an action for divorce or separation, provided the action cannot or cannot reasonably be expected to be brought at the domicile of either spouse."
+    },
+    {
+      "provision_ref": "art60a",
+      "chapter": "Section 4 Divorce and Separation",
+      "section": "60a",
+      "title": "",
+      "content": "If the spouses are not domiciled in Switzerland and if neither of them is a Swiss citizen, the Swiss courts at the place of celebration of the marriage have jurisdiction to hear an action for divorce or separation, provided the action cannot or cannot reasonably be expected to be brought at the domicile of either spouse. Inserted by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Section 4 Divorce and Separation",
+      "section": "61",
+      "title": "",
+      "content": "Divorce and separation are governed by Swiss law. Amended by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ( AS 2016 2313 ; BBl 2013 4887 )."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Section 4 Divorce and Separation",
+      "section": "62",
+      "title": "",
+      "content": "1 A Swiss court before which an action for divorce or separation is pending has jurisdiction to order interim measures, except if such court clearly lacks jurisdiction to decide on the merits or if such lack of jurisdiction is established in a decision that has come into force. 2 Interim measures are governed by Swiss law. 3 The provisions of this Act regarding maintenance obligations between spouses (Art. 49), the effects of a parent-child relationship (Art. 82 and 83), and the protection of minors (Art. 85) are reserved."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "",
+      "content": "1 Swiss courts that have jurisdiction to hear an action for divorce or separation also have jurisdiction to rule on the subsequent effects thereof. The provisions of this Act relating to the protection of minors (Art. 85) are reserved. 1bis Swiss courts have exclusive jurisdiction to rule on claims for the division of occupational pension entitlements against a Swiss pension fund. 2 The subsequent effects of divorce and separation are governed by Swiss law. The provisions of this Act relating to the name (Art. 37 to 40), to maintenance obligations between spouses (Art. 49), to marital property relations (Art. 52 to 57), to the effects of a parent-child relationship (Art. 82 and 83), and to the protection of minors (Art. 85) are reserved. Amended by Annex No 3 of the FA of 21 June 2013 (Parental Responsibility), in force since 1 July 2014 ( AS 2014 357 ; BBl 2011 9077 ). Inserted by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ( AS 2016 2313 ; BBl 2013 4887 ). Amended by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ( AS 2016 2313 ; BBl 2013 4887 )."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "",
+      "content": "1 Swiss courts have jurisdiction to hear an action to supplement or amend a decree of divorce or separation if they have issued such a decree or if they have jurisdiction pursuant to Articles 59, 60 or 60 a . The provisions of this Act regarding the protection of minors (Art. 85) are reserved. 1bis Swiss courts have exclusive jurisdiction to rule on claims for the division of occupational pension entitlements against a Swiss pension fund. In the absence of jurisdiction under paragraph 1, the Swiss courts at the seat of the pension fund have jurisdiction. 2 Actions for supplementing or amending a divorce or a separation decree are governed by Swiss law. The provisions of this Act relating to the name (Art. 37 to 40), to maintenance obligations between spouses (Art. 49), to marital property relations (Art. 52 to 57), to the effects of a parent-child relationship (Art. 82 and 83), and to the protection of minors (Art. 85) are reserved. Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 ). Inserted by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ( AS 2016 2313 ; BBl 2013 4887 ). Amended by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ( AS 2016 2313 ; BBl 2013 4887 )."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "",
+      "content": "1 A foreign decree of divorce or separation is recognised in Switzerland if: a. it was issued in the state of domicile or habitual residence, or in the state of citizenship of either spouse; b. it is recognised in any of the states indicated in letter a; or c. it was issued in the state where the marriage was celebrated and the action cannot or cannot reasonably be expected to be brought in either of the states indicated in letter a. 2 However, a decree that was issued in a state of which neither spouse or only the plaintiff spouse is a citizen is recognised in Switzerland only: a. if, at the time of filing the action, at least one of the spouses was domiciled or had his or her habitual residence in that state and the defendant spouse was not domiciled in Switzerland; b. if the defendant spouse submitted to the jurisdiction of the foreign court without reservation; or c. if the defendant spouse expressly consents to recognition of the decree in Switzerland. Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art65a",
+      "chapter": "44",
+      "section": "65a",
+      "title": "",
+      "content": "The provisions of Chapter 3 apply by analogy to registered partnerships. Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art65b",
+      "chapter": "44",
+      "section": "65b",
+      "title": "",
+      "content": "Repealed by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), with effect from 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art65c",
+      "chapter": "44",
+      "section": "65c",
+      "title": "",
+      "content": "Where the law applicable pursuant to Chapter 3 contains no provisions on registered partnerships, its marital law is applicable. Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art65d",
+      "chapter": "44",
+      "section": "65d",
+      "title": "d",
+      "content": "Repealed by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), with effect from 1 July 2022 ( AS 2021 747 ; BBl 2019 8595 ; 2020 1273 )."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Section 1 Parent-Child Relationship by Birth",
+      "section": "66",
+      "title": "",
+      "content": "The Swiss courts at the child’s habitual residence or at either parent’s domicile have jurisdiction to hear an action to declare or contest a parent-child relationship."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Section 1 Parent-Child Relationship by Birth",
+      "section": "67",
+      "title": "",
+      "content": "If the parents are not domiciled in Switzerland and the child does not have his or her habitual residence there, the courts at the Swiss place of origin of either parent have jurisdiction to hear an action to declare or contest a parent-child relationship, provided the action cannot or cannot reasonably be expected to be brought at either parent’s domicile nor at the child’s habitual residence."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Section 1 Parent-Child Relationship by Birth",
+      "section": "68",
+      "title": "",
+      "content": "1 The formation, declaration and contesting of a parent-child relationship are governed by the law of the state of the child’s habitual residence. 2 However, if neither parent is domiciled in the state of the child’s habitual residence and if the parents and the child are citizens of the same state, the law of that state applies."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Section 1 Parent-Child Relationship by Birth",
+      "section": "69",
+      "title": "",
+      "content": "1 For the determination of the law applicable to the formation, declaration or contesting of a parent-child relationship, the date of birth is decisive. 2 However, in case of a judicial declaration or contesting of a parent-child relationship, the date of the action is decisive if a preponderant interest of the child so requires."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "Section 1 Parent-Child Relationship by Birth",
+      "section": "70",
+      "title": "",
+      "content": "Foreign decisions relating to the declaration or contesting of a parent-child relationship are recognised in Switzerland if they were rendered in the state of the child’s habitual residence or in the child’s state of citizenship, or in the state of domicile or the state of citizenship of the mother or the father."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "Section 2 Acknowledgment",
+      "section": "71",
+      "title": "",
+      "content": "1 The Swiss authorities at the child’s place of birth or habitual residence, as well as those of the domicile or the place of origin of the mother or the father, have jurisdiction to receive the acknowledgment of a child. 2 When an acknowledgment takes place in judicial proceedings in which the parent-child relationship is legally relevant, the judge seized with the lawsuit may also receive the acknowledgment. 3 The courts that have jurisdiction to hear an action to declare or contest a parent-child relationship (Art. 66 and 67) also have jurisdiction to rule on a challenge of an acknowledgment."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "Section 2 Acknowledgment",
+      "section": "72",
+      "title": "",
+      "content": "1 An acknowledgment in Switzerland may be made in accordance with the law of the state of the child’s habitual residence, the law of the child’s state of citizenship, or the law of the domicile or of the state of citizenship of the mother or the father. The date of the acknowledgment is decisive. 2 The form of an acknowledgment in Switzerland is governed by Swiss law. 3 The challenge of an acknowledgment is governed by Swiss law."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "Section 2 Acknowledgment",
+      "section": "73",
+      "title": "",
+      "content": "1 The acknowledgment made abroad is recognised in Switzerland, if it is valid in the state of the child’s habitual residence, in the child’s state of citizenship, or in the state of domicile or the state of citizenship of the mother or the father. 2 Foreign decisions on the challenge of an acknowledgment are recognised in Switzerland if they were rendered in one of the states mentioned in paragraph 1."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "Section 2 Acknowledgment",
+      "section": "74",
+      "title": "",
+      "content": "Article 73 applies by analogy to the recognition of a foreign legitimation."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "Section 3 Adoption",
+      "section": "75",
+      "title": "",
+      "content": "1 The Swiss judicial or administrative authorities at the domicile of the adopting person or adopting spouses have jurisdiction to pronounce the adoption. 2 Courts that have jurisdiction to hear actions to declare or contest a parent-child relationship (Art. 66 and 67) also have jurisdiction to decide on challenges of adoptions."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "Section 3 Adoption",
+      "section": "76",
+      "title": "",
+      "content": "The Swiss judicial or administrative authorities at the place of origin have jurisdiction to pronounce an adoption, if the adopting person or adopting spouses are not domiciled in Switzerland and at least one of them is a Swiss citizen and if they cannot or cannot reasonably be expected to adopt at the place of their foreign domicile."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "Section 3 Adoption",
+      "section": "77",
+      "title": "",
+      "content": "1 The requirements for an adoption in Switzerland are governed by Swiss law. 2 Where it appears that an adoption would not be recognised in the state of domicile or the state of citizenship of the adopting person or adopting spouses and that serious prejudice would result for the child, the authority shall also take account of the requirements under the law of the respective state. If, even then, recognition does not appear to be assured, the adoption shall not be pronounced. 3 An action to challenge an adoption pronounced in Switzerland is governed by Swiss law. An adoption pronounced abroad may be challenged in Switzerland only if a ground for challenge also exists under Swiss law."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "Section 3 Adoption",
+      "section": "78",
+      "title": "",
+      "content": "1 Adoptions pronounced abroad are recognised in Switzerland if they were pronounced in the state of domicile or the state of citizenship of the adopting person or adopting spouses. 2 Adoptions and similar acts pronounced abroad that have effects substantially different from a parent-child relationship under Swiss law are recognised in Switzerland only with the effects that are attached to them in the state where they were pronounced."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "Section 4 Effects of the Parent-Child Relationship",
+      "section": "79",
+      "title": "",
+      "content": "1 Swiss courts at the child’s habitual residence or those of the domicile or, in the absence of a domicile, of the habitual residence of the respondent parent have jurisdiction to hear an action relating to the relations between parents and child, including an action relating to child support. 2 The provisions of this Act relating to the name (Art. 33, 37 to 40), the protection of minors (Art. 85) and succession (Art. 86 to 89) are reserved."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "Section 4 Effects of the Parent-Child Relationship",
+      "section": "80",
+      "title": "",
+      "content": "If neither the child nor the respondent parent have their domicile or habitual residence in Switzerland and one of them is a Swiss citizen, the courts at the place of origin have jurisdiction."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "Section 4 Effects of the Parent-Child Relationship",
+      "section": "81",
+      "title": "",
+      "content": "The Swiss courts referred to in Articles 79 and 80 also have jurisdiction to hear: a. claims by authorities which have made advances for maintenance payments; b. claims of the mother for maintenance payments and reimbursement of expenses incurred in relation to the birth."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "Section 4 Effects of the Parent-Child Relationship",
+      "section": "82",
+      "title": "",
+      "content": "1 The relations between parents and child are governed by the law of the state of the child’s habitual residence. 2 However, if neither parent is domiciled in the state of the child’s habitual residence and if the parents and the child are citizens of the same state, the law of that state applies. 3 The provisions of this Act relating to the name (Art. 33, 37 to 40), the protection of minors (Art. 85) and succession (Art. 90 to 95) are reserved."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "Section 4 Effects of the Parent-Child Relationship",
+      "section": "83",
+      "title": "",
+      "content": "1 Maintenance obligations between parents and child are governed by the Hague Convention of 2 October 1973 on the Law Applicable to Maintenance Obligations. 2 To the extent that the mother’s rights to maintenance and to reimbursement of expenses occasioned by the birth are not dealt with in the said Convention, its provisions apply by analogy. SR 0.211.213.01"
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "",
+      "content": "1 Foreign decisions relating to the relations between parents and child are recognised in Switzerland if they were rendered in the state of the child’s habitual residence or in the state of domicile or habitual residence of the respondent parent. 2 The provisions of this Act relating to the name (Art. 39), the protection of minors (Art. 85) and succession (Art. 96) are reserved."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "Chapter 5 Guardianship, Protection of Adults and Other Protective Measures",
+      "section": "85",
+      "title": "",
+      "content": "1 In respect of protection of children, the jurisdiction of the Swiss judicial or administrative authorities, the applicable law and the recognition and enforcement of foreign decisions or measures are governed by the Hague Convention of 19 October 1996 on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children. 2 In respect of protection of adults, the jurisdiction of the Swiss judicial or administrative authorities, the applicable law and the recognition and enforcement of foreign decisions or measures are governed by the Hague Convention of 13 January 2000 on the International Protection of Adults. 3 Moreover, the Swiss judicial or administrative authorities have jurisdiction if this is necessary for the protection of a person or of their property. 4 Measures taken in a State which is not party to the Conventions referred to in paragraphs 1 and 2 are recognised if they were taken or are recognised in the State of habitual residence of the child or the adult. Amended by Art. 15 of the FA of 21 Dec. 2007 on International Child Abduction and the Hague Conventions on the Protection of Children and Adults, in force since 1 July 2009 ( AS 2009 3077 ; BBl 2007 2595 ). SR 0.211.231.011 SR 0.211.232.1"
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "Chapter 6 Succession Law",
+      "section": "86",
+      "title": "",
+      "content": "1 The Swiss judicial or administrative authorities at the last domicile of the deceased have jurisdiction to take the measures necessary to settle the estate and to hear disputes relating thereto. 2 Exclusive jurisdiction claimed by a state where immovable property is located is reserved."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "Chapter 6 Succession Law",
+      "section": "87",
+      "title": "",
+      "content": "1 If the deceased was a Swiss citizen domiciled abroad, the Swiss judicial or administrative authorities at the deceased’s place of origin have jurisdiction for the estate to the extent that the foreign authorities do not deal with the estate. 2 The authorities at the place of origin always have jurisdiction when a Swiss citizen having their last domicile abroad submits, in a will or a contract of succession, their entire estate or the portion thereof located in Switzerland to Swiss jurisdiction or Swiss law. Article 86 paragraph 2 is reserved."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "Chapter 6 Succession Law",
+      "section": "88",
+      "title": "",
+      "content": "1 If the deceased was a foreign citizen domiciled abroad, the Swiss judicial or administrative authorities have jurisdiction to deal with those parts of the estate that are located in Switzerland to the extent that the foreign authorities do not deal with them. 2 If there are assets located in different places, the Swiss authority before which the matter was first brought has jurisdiction."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "Chapter 6 Succession Law",
+      "section": "89",
+      "title": "",
+      "content": "If the deceased had their last domicile abroad and leaves assets in Switzerland, the Swiss authorities at the place where the assets are located shall take the measures necessary for their interim protection."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "Chapter 6 Succession Law",
+      "section": "90",
+      "title": "",
+      "content": "1 The estate of a person who had their last domicile in Switzerland is governed by Swiss law. 2 A foreign citizen may, however, submit their estate by will or contract of succession to the law of one of their states of citizenship. Such submission lapses if, at the time of death, the deceased no longer had such citizenship or had acquired Swiss citizenship."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "",
+      "content": "1 The estate of a person who had their last domicile abroad is governed by the law referred to by the private international law rules of the state of domicile. 2 To the extent that Swiss judicial or administrative authorities have jurisdiction pursuant to Article 87, the estate of a Swiss deceased who had their last domicile abroad is governed by Swiss law, unless the deceased expressly provided by will or contract of succession for the application of the law of their last domicile."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "",
+      "content": "1 The law applicable to the estate determines what belongs to the estate, who is entitled thereto and to what extent, who is liable for the debts of the estate, which legal remedies may be relied on, and which measures may be ordered and subject to which requirements. 2 The implementation of the measures is governed by the law of the state whose authority has jurisdiction. Such law governs inter alia conservatory measures and the administration of the estate, including the administration by an executor."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "",
+      "content": "1 The validity of wills as to form is governed by the Hague Convention of 5 October 1961 on the Conflict of Laws Relating to the Form of Testamentary Dispositions. 2 This Convention applies by analogy to the form requirements in respect of other dispositions upon death. SR 0.211.312.1"
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "",
+      "content": "A person is capable of disposing upon death if, at the time of making the disposition, they have the capacity to do so under the law of the state of their domicile or habitual residence, or under the law of one of the states of which they are a citizen."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "",
+      "content": "1 Contracts of succession are governed by the law of the state in which the disposing party is domiciled at the time of their conclusion. 2 If a disposing party submits, in the contract, their entire estate to the law of the state of which they are a citizen, such law applies in lieu of the law of the domicile. 3 Reciprocal dispositions upon death are valid if they are consistent with the law of the domicile of each disposing party or with the law of the country of common citizenship chosen by them. 4 The provisions of this Act regarding form requirements and testamentary capacity (Art. 93 and 94) are reserved."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "",
+      "content": "1 Foreign decisions, measures and documents relating to the estate, as well as rights deriving from an estate probated abroad shall be recognised in Switzerland: a. if they are rendered, taken, drawn up or declared in the state of the deceased’s last domicile or in the state to the law of which the deceased submitted his or her estate, or if they are recognised in one of these states; or b. if they relate to immovable property and were rendered, taken, drawn up or declared in the state in which such property is located, or if they are recognised in that state. 2 With respect to immovable property located in a state which claims exclusive jurisdiction, only the decisions, measures or documents originating from that state shall be recognised. 3 Conservatory measures ordered in the state where assets of the deceased are located shall be recognised in Switzerland."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "Chapter 7 Property Law",
+      "section": "97",
+      "title": "",
+      "content": "The courts at the place where immovable property in Switzerland is located have exclusive jurisdiction to hear actions relating to rights in rem in such property."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "Chapter 7 Property Law",
+      "section": "98",
+      "title": "",
+      "content": "1 The Swiss courts at the domicile or, in the absence of a domicile, at the habitual residence of the defendant have jurisdiction to hear actions relating to rights in rem in movable property. 2 The Swiss courts at the place where the property is located also have jurisdiction. Amended by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ( AS 2010 5601 ; BBl 2009 1777 )."
+    },
+    {
+      "provision_ref": "art98a",
+      "chapter": "Chapter 7 Property Law",
+      "section": "98a",
+      "title": "",
+      "content": "The court at the domicile or at the seat of the defendant or the court at the place where the cultural property is located has jurisdiction to hear actions for repatriation in the sense of Article 9 of the Cultural Property Transfer Act of 20 June 2003. Inserted by Art. 32 No 3 of the Cultural Property Transfer Act of 20 June 2003, in force since 1 June 2005 ( AS 2005 1869 ; BBl 2002 535 ). SR 444.1"
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "Chapter 7 Property Law",
+      "section": "99",
+      "title": "",
+      "content": "1 Rights in rem in immovable property are governed by the law of the place where the property is located. 2 Claims arising out of nuisances originating from immovable property are governed by the provisions of this Act relating to torts (Art. 138)."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "",
+      "content": "1 The acquisition and loss of rights in rem in movable property are governed by the law of the place where the property is located at the time of the event from which the acquisition or loss is derived. 2 The scope and exercise of rights in rem in movable property are governed by the law of the place where the property is located."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "",
+      "content": "The acquisition and loss, through legal transactions, of rights in rem in goods in transit are governed by the law of the state of destination."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "",
+      "content": "1 When movable property arrives in Switzerland and the acquisition or loss of a right in rem has not yet taken place abroad, the events that have occurred abroad are deemed to have occurred in Switzerland. 2 When movable property arriving in Switzerland is subject to a reservation of ownership validly created abroad but which does not meet the requirements of Swiss law, such reservation of ownership nonetheless remains valid for three months. 3 Such a reservation of ownership created abroad cannot be asserted against a third party acting in good faith."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "",
+      "content": "The reservation of ownership of movable property intended for export is governed by the law of the state of destination."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "",
+      "content": "1 Parties may submit the acquisition and loss of rights in rem in movable property to the law of the state of shipment or of destination, or to the law which governs the underlying legal transaction. 2 Such choice of law cannot be asserted against third parties."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "",
+      "content": "1 The pledging of claims, securities or other rights is governed by the law chosen by the parties. This choice of law cannot be asserted against third parties. 2 In the absence of a choice of law, the pledging of claims is governed by the law of the state of the pledgee’s habitual residence. The same applies to the pledging of other rights, provided they are represented by an uncertificated security, a certificated security or an equivalent instrument; otherwise, the pledging of such rights is governed by the law applicable to them. 3 A law other than the one governing the pledged right cannot be asserted against the debtor. Amended by No I 3 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ( AS 2021 33 ; BBl 2020 233 )."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "",
+      "content": "1 The law designated in Article 145 a paragraph 1 determines whether an instrument represents goods. 2 If the goods are represented by a physical instrument, the rights in rem to both the instrument and the goods are governed by the law applicable to the instrument as movable property. 3 If several persons assert rights in rem relating to the goods, some directly, others on the basis of an instrument, the law applicable to the goods themselves determines which one of these rights prevails. Amended by No I 3 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ( AS 2021 33 ; BBl 2020 233 )."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "",
+      "content": "The provisions in other acts relating to rights in rem in ships, aircraft or other means of transport are reserved."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "",
+      "content": "1 Foreign decisions on rights in rem in immovable property are recognised in Switzerland if they were rendered in the state in which the property is located or if they are recognised in such state. 2 Foreign decisions on rights in rem in movable property are recognised in Switzerland: a. if they were rendered in the state of domicile of the defendant; or b. if they were rendered in the state in which the property is located, provided the defendant had their habitual residence there. c. ... Repealed by Art. 2 of the FD of 3 Oct. 2008 on the Approval and Implementation of the Convention on the Law Applicable to Certain Rights in Respect of Securities held with an Intermediary, with effect from 1 Jan. 2010 ( AS 2009 6579 ; BBl 2006 9315 )."
+    },
+    {
+      "provision_ref": "art108a",
+      "chapter": "62",
+      "section": "108a",
+      "title": "",
+      "content": "Intermediated securities are securities held with an intermediary as defined in the Hague Convention of 5 July 2006 on the Law Applicable to Certain Rights in Respect of Securities held with an Intermediary. Amended by No I 3 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ( AS 2021 33 ; BBl 2020 233 ). SR 0.221.556.1"
+    },
+    {
+      "provision_ref": "art108b",
+      "chapter": "62",
+      "section": "108b",
+      "title": "b",
+      "content": "1 The Swiss courts at the domicile or, in the absence of a domicile, at the habitual residence of the defendant have jurisdiction to hear actions regarding intermediated securities. 2 Where actions regarding intermediated securities relate to the operations of a Swiss establishment of the defendant, the courts at the place of that establishment also have jurisdiction."
+    },
+    {
+      "provision_ref": "art108c",
+      "chapter": "62",
+      "section": "108c",
+      "title": "c",
+      "content": "The law applicable to intermediated securities is governed by the Hague Convention of 5 July 2006 on the Law Applicable to Certain Rights in Respect of Securities held with an Intermediary. SR 0.221.556.1"
+    },
+    {
+      "provision_ref": "art108d",
+      "chapter": "62",
+      "section": "108d",
+      "title": "d",
+      "content": "Foreign decisions regarding intermediated securities are recognised in Switzerland: a. if they were rendered in the state of the defendant’s domicile or habitual residence; or b. if they were rendered in the state of the defendant’s establishment and they concern claims related to the operations of this establishment."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "Chapter 8 Intellectual Property",
+      "section": "109",
+      "title": "",
+      "content": "1 The Swiss courts of the defendant’s domicile have jurisdiction to hear actions pertaining to the validity or registration in Switzerland of intellectual property rights. If a defendant does not have a domicile in Switzerland, these actions may be brought before the Swiss courts at the place of business of the representative recorded in the register or, in the absence of such representative, before the courts at the place where the authority keeping the register has its office. 2 Actions pertaining to the violation of intellectual property rights may be brought before the Swiss courts at the defendant’s domicile or, in the absence of a domicile, at the defendant’s habitual residence. Moreover, the Swiss courts at the place where the act or the result occurred and, in actions pertaining to the operation of an establishment in Switzerland, the courts at the place of that establishment have jurisdiction. 2bis Paragraph 2 applies by analogy to actions pertaining to claims for remuneration provided for by law for the legal use of intellectual property. 3 ... Amended by Annex No 5 of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Inserted by Annex No 2 of the FA of 27 Sept. 2019, in force since 1 April 2020 ( AS 2020 1003 ; BBl 2018 591 ). Repealed by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), with effect from 1 Jan. 2011 ( AS 2010 5601 ; BBl 2009 1777 )."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "Chapter 8 Intellectual Property",
+      "section": "110",
+      "title": "",
+      "content": "1 Intellectual property rights are governed by the law of the state for which protection of the intellectual property is sought. 2 With respect to claims arising out of the infringement of intellectual property rights, the parties may agree, at any time after the event causing damage, to apply the law of the forum. 3 Agreements pertaining to intellectual property are governed by the provisions of this Act relating to contracts (Art. 122)."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "Chapter 8 Intellectual Property",
+      "section": "111",
+      "title": "",
+      "content": "1 Foreign decisions relating to the infringement of intellectual property rights are recognised in Switzerland: a. if the decision was rendered in the state of the defendant’s domicile; or b. if the decision was rendered at the place where the act or the result occurred and the defendant was not domiciled in Switzerland. 2 Foreign decisions pertaining to the existence, validity or registration of intellectual property rights shall be recognised only if they were rendered in a state for the territory of which the protection of the intellectual property is sought or if such decisions are recognised there. Amended by Annex No 5 of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "Section 1 Contracts",
+      "section": "112",
+      "title": "",
+      "content": "1 The Swiss courts at the domicile or, in the absence of a domicile, at the habitual residence of the defendant have jurisdiction to hear actions arising out of a contract. 2 Moreover, the Swiss courts at the place of the defendant’s establishment have jurisdiction to hear actions relating to an obligation arising out of the operation of that establishment."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "Section 1 Contracts",
+      "section": "113",
+      "title": "",
+      "content": "If the characteristic obligation of the contract is to be performed in Switzerland, the action may also be brought before the Swiss court at the place of performance. Amended by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ( AS 2010 5601 ; BBl 2009 1777 )."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "Section 1 Contracts",
+      "section": "114",
+      "title": "",
+      "content": "1 An action by a consumer relating to a contract which meets the requirements stated in Article 120 paragraph 1 may be brought at the consumer’s choice before the Swiss courts: a. at their domicile or habitual residence; or b. at the domicile or, in the absence of a domicile, at the habitual residence of the supplier. 2 A consumer cannot waive in advance jurisdiction at their domicile or habitual residence."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "Section 1 Contracts",
+      "section": "115",
+      "title": "",
+      "content": "1 The Swiss courts at the defendant’s domicile or at the place where the employee habitually performs their work have jurisdiction to hear actions relating to an employment contract. 2 An action initiated by an employee may also be brought before the courts at their domicile or habitual residence in Switzerland. 3 Moreover, the Swiss courts at the place where an employee is posted from abroad for a limited period of time to carry out all or part of their work have jurisdiction to hear actions pertaining to the terms of employment and the salary conditions applicable to such work. Inserted by Annex No 1 of the FA of 8 Oct. 1999 on Workers posted to Switzerland, in force since 1 June 2004 ( AS 2003 1370 ; BBl 1999 6128 )."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "",
+      "content": "1 Contracts are governed by the law chosen by the parties. 2 The choice of law must be express or result with certainty from the provisions of the contract or from the circumstances; apart from that, it is governed by the chosen law. 3 The choice of law may be made or changed at any time. If a choice of law is made after the conclusion of the contract, it has retroactive effect as of the time of conclusion of the contract. The rights of third parties are reserved."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "",
+      "content": "1 In the absence of a choice of law, contracts are governed by the law of the state with which they have the closest connection. 2 Such a connection is presumed to exist with the state of habitual residence of the party that has to perform the characteristic obligation or, if that party has concluded the contract in the exercise of a professional or business activity, with the state where such party has its establishment. 3 Characteristic obligation means in particular: a. in contracts for the transfer of title: the transferor’s obligation; b. in contracts pertaining to the use of property or of a right: the obligation of the party conferring such use; c. in agency contracts, contracts for work and other contracts to perform services: the service obligation; d. in contracts of deposit: the obligation of the depositary; e. in guarantee or suretyship contracts: the obligation of the guarantor or surety."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "",
+      "content": "1 Sales of tangible movable property are governed by the Hague Convention of 15 June 1955 on the Law Applicable to International Sales of Goods. 2 Article 120 is reserved. SR 0.221.211.4"
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "",
+      "content": "1 Contracts relating to immovable property or to the use of immovable property are governed by the law of the state where the property is located. 2 A choice of law is allowed. 3 However, the form of the contract is governed by the law of the state in which the immovable property is located, unless such state allows the application of another law. For immovable property located in Switzerland, the form of the contract is governed by Swiss law."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "",
+      "content": "1 Contracts pertaining to goods or services of ordinary consumption intended for a consumer’s personal or family use and not connected with the consumer’s professional or business activity are governed by the law of the state of the consumer’s habitual residence: a. if the supplier received the order in that state; b. if the contract was concluded after an offer or advertising in that state and if the consumer performed in that state the acts required to conclude the contract; or c. if the consumer was induced by the supplier to go abroad for the purpose of placing the order. 2 No choice of law is allowed."
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "",
+      "content": "1 Employment contracts are governed by the law of the state in which the employee habitually performs their work. 2 If the employee habitually performs their work in several states, the employment contract is governed by the law of the state of the establishment or, in the absence of an establishment, of the domicile or habitual residence of the employer. 3 The parties may submit the employment contract to the law of the state in which the employee has their habitual residence or in which the employer has their establishment, domicile or habitual residence."
+    },
+    {
+      "provision_ref": "art122",
+      "section": "122",
+      "title": "",
+      "content": "1 Contracts pertaining to intellectual property are governed by the law of the state in which the transferor or licensor of the intellectual property right has their habitual residence. 2 A choice of law is allowed. 3 Contracts concluded between an employer and an employee concerning rights to intellectual property created by the employee in the course of performing their work are governed by the law applicable to the employment contract."
+    },
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "",
+      "content": "A party who does not respond to an offer to conclude a contract may invoke the law of the state in which such party has its habitual residence to govern the effects of the silence."
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "",
+      "content": "1 As to form, contracts are valid if they meet the requirements set out in the law applicable to them or in the law of the place where they were concluded. 2 The form of a contract concluded between persons who are located in different states is valid if it meets the requirements set out in the law of one of those states. 3 The form of a contract is governed exclusively by the law applicable to the contract itself when, in order to protect a party, such law requires compliance with a specific form, unless that law allows the application of another law."
+    },
+    {
+      "provision_ref": "art125",
+      "section": "125",
+      "title": "",
+      "content": "Performance and inspection modalities are governed by the law of the state in which they are actually carried out."
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "",
+      "content": "1 If power of representation is based on a contract, the relationship between the principal and the agent is governed by the law applicable to their contract. 2 The conditions under which acts of the agent bind the principal and the third party are governed by the law of the state of the agent’s establishment or, in the absence of such establishment or if the latter was not discernible by the third party, by the law of the state in which the agent carries out their main activity in the case at hand. 3 If the agent is bound to the principal by an employment contract and does not have their own establishment, their establishment is deemed to be at the seat of the principal. 4 The law referred to in paragraph 2 also governs the relationship between an unauthorised agent and the third party."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "Section 2 Unjust Enrichment",
+      "section": "127",
+      "title": "",
+      "content": "The Swiss courts at the domicile or, in the absence of a domicile, at the habitual residence of the defendant have jurisdiction to hear actions for unjust enrichment. Moreover, the courts at the place of an establishment in Switzerland have jurisdiction to hear actions pertaining to the operation of the establishment. Amended by Annex No 5 of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 )."
+    },
+    {
+      "provision_ref": "art128",
+      "chapter": "Section 2 Unjust Enrichment",
+      "section": "128",
+      "title": "",
+      "content": "1 Claims for unjust enrichment are governed by the law which governs the existing or assumed legal relationship on the basis of which the enrichment occurred. 2 In the absence of such a relationship, the claims are governed by the law of the state in which the enrichment occurred; the parties may agree to the application of the law of the forum."
+    },
+    {
+      "provision_ref": "art129",
+      "chapter": "Section 3 Torts",
+      "section": "129",
+      "title": "",
+      "content": "1 The Swiss courts at the domicile or, in the absence of a domicile, at the habitual residence of the defendant have jurisdiction to hear actions in tort. Moreover, the Swiss courts at the place where the act or the result occurred and, for actions pertaining to the operation of an establishment in Switzerland, the courts at the place of the establishment have jurisdiction. 2 ... Amended by Annex No 5 of the FA of 22 June 2007, in force since 1 July 2008 ( AS 2008 2551 ; BBl 2006 1 ). Repealed by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), with effect from 1 Jan. 2011 ( AS 2010 5601 ; BBl 2009 1777 )."
+    },
+    {
+      "provision_ref": "art130",
+      "chapter": "Section 3 Torts",
+      "section": "130",
+      "title": "",
+      "content": "1 Jurisdiction to hear actions relating to nuclear incidents is governed by the Convention of 29 July 1960 on Third Party Liability in the Field of Nuclear Energy as amended by the Additional Protocol of 28 January 1964, the Protocol of 16 November 1982 and the Protocol of 12 February 2004 (the Paris Convention). 2 If the Swiss courts have jurisdiction under this Convention, the action shall be brought in the canton in whose territory the incident occurred, or, where the place of the incident lies outside the sovereign territory of the contracting parties or cannot be determined with certainty, in the canton in whose territory the nuclear installation of the operator liable is located. If several courts have jurisdiction in accordance with these rules, the action shall be brought in the canton that in accordance with Article 13 paragraph (f) number (ii) of the Convention is most closely related to the incident and is the most affected by its effects. 3 The rules on jurisdiction in paragraph 2 also apply by analogy to actions arising from nuclear incidents to which the Convention does not apply. If in the case of such an action, neither the place of the incident nor that of the nuclear installation lies in Switzerland, the action may also be filed in the canton in whose territory the alleged damage occurred. If damage occurred in two or more cantons, the canton that is most affected by the incident shall have jurisdiction. Amended by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ( AS 2022 43 ; BBl 2007 5397 ). SR 0.732.44"
+    },
+    {
+      "provision_ref": "art130a",
+      "section": "130a",
+      "title": "",
+      "content": "Actions to enforce the right of access directed against the controller of a database may be brought before the courts mentioned in Article 129 or before the Swiss courts at the place where the database is managed or used. Inserted by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ( AS 2022 43 ; BBl 2007 5397 )."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "",
+      "content": "A direct action against a civil liability insurer may be brought before the Swiss courts either at the place of the insurer’s establishment or at the place where the act or the result occurred."
+    },
+    {
+      "provision_ref": "art132",
+      "section": "132",
+      "title": "",
+      "content": "The parties may, at any time after the damaging event, agree to apply the law of the forum."
+    },
+    {
+      "provision_ref": "art133",
+      "section": "133",
+      "title": "",
+      "content": "1 If the tortfeasor and the injured party have their habitual residence in the same state, claims in tort are governed by the law of that state. 2 If the tortfeasor and the injured party do not have their habitual residence in the same state, these claims are governed by the law of the state in which the tort was committed. However, if the result occurred in another state, the law of that state applies if the tortfeasor should have foreseen that the result would occur there. 3 Notwithstanding the preceding paragraphs, if a tort violates a legal relationship existing between the tortfeasor and the injured party, claims based on that tort are governed by the law applicable to such legal relationship."
+    },
+    {
+      "provision_ref": "art134",
+      "section": "134",
+      "title": "",
+      "content": "Claims arising from road traffic accidents are governed by the Hague Convention of 4 May 1971 on the Law Applicable to Traffic Accidents. SR 0.741.31"
+    },
+    {
+      "provision_ref": "art135",
+      "section": "135",
+      "title": "",
+      "content": "1 Claims based on a defect or defective description of a product are governed at the option of the injured party: a. by the law of the state in which the tortfeasor has their establishment or, in the absence of such establishment, their habitual residence; or b. by the law of the state in which the product was acquired, unless the tortfeasor proves that the product was introduced in the market of that state without their consent. 2 If claims based on a defect or defective description of a product are governed by a foreign law, no compensation may be awarded in Switzerland beyond that which would be awarded for such kind of loss or damage pursuant to Swiss law."
+    },
+    {
+      "provision_ref": "art136",
+      "section": "136",
+      "title": "",
+      "content": "1 Claims based on unfair competition are governed by the law of the state in whose market the result occurred. 2 If the tort affects exclusively the business interests of a specific competitor, the applicable law is that of the state where the respective establishment is located. 3 Article 133, paragraph 3, is reserved."
+    },
+    {
+      "provision_ref": "art137",
+      "section": "137",
+      "title": "",
+      "content": "1 Claims based on a restraint of competition are governed by the law of the state in whose market the restraint has direct effects on the injured party. 2 If claims based on a restraint of competition are governed by a foreign law, no compensation may be awarded in Switzerland beyond that which would be awarded for a restraint of competition pursuant to Swiss law."
+    },
+    {
+      "provision_ref": "art138",
+      "section": "138",
+      "title": "",
+      "content": "Claims arising out of damaging nuisances originating from immovable property are governed at the option of the injured party by the law of the state in which the property is located or by the law of the state in which the result occurred."
+    },
+    {
+      "provision_ref": "art138a",
+      "section": "138a",
+      "title": "",
+      "content": "1 Claims arising from nuclear incidents are governed by Swiss law. 2 If the nuclear installation of the operator liable is located in a contracting state to the Paris Convention, the law of that contracting state determines: a. whether the liability of the operator for nuclear damage extends beyond the scope specified in Article 2 paragraph (b) of the Convention; b. whether and to what extent compensation is given for nuclear damage in the cases mentioned in Article 9 of the Convention. 3 Paragraph 2 applies by analogy to the operator of a nuclear installation that is not located in a contracting state to the Paris Convention provided this state provides at least equivalent rules in relation to Switzerland. Inserted by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ( AS 2022 43 ; BBl 2007 5397 ). SR 0.732.44"
+    },
+    {
+      "provision_ref": "art139",
+      "section": "139",
+      "title": "",
+      "content": "1 Claims based on the infringement of personality rights by the media, in particular by press, radio, television or any other means of public information, are governed at the option of the injured party: a. by the law of the state in which the injured party has their habitual residence, provided the tortfeasor should have expected that the result would occur in that state; b. by the law of the state in which the tortfeasor has their establishment or habitual residence; or c. by the law of the state in which the result of the infringement occurs, provided the tortfeasor should have expected that the result would occur in that state. 2 The right of reply against media appearing periodically is exclusively governed by the law of the state in which the publication appeared or the program was broadcasted. 3 Paragraph 1 also applies to infringements of personality rights resulting from the processing of personal data, as well as to impairments of the right of access to personal data. Inserted by Annex No 3 of the FA of 19 June 1992 on Data Protection, in force since 1 July 1993 ( AS 1993 1945 ; BBl 1988 II 413 )."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "",
+      "content": "If two or more persons have taken part in the commission of a tort, the applicable law shall be determined separately for each one of them, regardless of their role."
+    },
+    {
+      "provision_ref": "art141",
+      "section": "141",
+      "title": "",
+      "content": "The injured party may bring the action directly against the insurer of the person liable if the law applicable to the tort or the law applicable to the insurance contract so provides."
+    },
+    {
+      "provision_ref": "art142",
+      "section": "142",
+      "title": "",
+      "content": "1 The law applicable to a tort determines in particular the capacity to be liable in tort, the conditions and the extent of liability, as well as the person liable. 2 Rules of conduct and safety in force at the place of the act are taken into consideration."
+    },
+    {
+      "provision_ref": "art143",
+      "chapter": "Section 4 Common Provisions",
+      "section": "143",
+      "title": "",
+      "content": "Where a creditor is entitled to assert their claim against two or more debtors, the legal consequences are determined under the law governing the relationship between the creditor and the debtor against whom the claim is actually asserted."
+    },
+    {
+      "provision_ref": "art144",
+      "chapter": "Section 4 Common Provisions",
+      "section": "144",
+      "title": "",
+      "content": "1 A debtor has a right of recourse against a co-debtor, either directly or by subrogation, only to the extent that the laws governing the two obligations allow for it. 2 The exercise of recourse against a co-debtor is governed by the law applicable to the obligation of the co-debtor towards the creditor. Issues pertaining exclusively to the relationship between the creditor and the debtor seeking recourse are governed by the law applicable to the obligation of the latter. 3 The question of whether an institution entrusted with a public function may seek recourse is determined by the law applicable to the institution. The existence and exercise of a right of recourse are governed by the two preceding paragraphs."
+    },
+    {
+      "provision_ref": "art145",
+      "chapter": "Section 4 Common Provisions",
+      "section": "145",
+      "title": "",
+      "content": "1 The assignment of a claim by contract is governed by the law chosen by the parties or, in the absence of such choice, by the law applicable to the assigned claim. A choice of law cannot be asserted against the debtor without the latter’s assent. 2 A choice of law relating to the assignment of an employee’s claim is valid only to the extent that Article 121 paragraph 3 allows it for the employment contract. 3 The form of an assignment is governed exclusively by the law applicable to the assignment contract. 4 Issues concerning exclusively the relationship between the parties to the assignment contract are governed by the law applicable to the legal relationship underlying the assignment."
+    },
+    {
+      "provision_ref": "art145a",
+      "chapter": "Section 4 Common Provisions",
+      "section": "145a",
+      "title": "",
+      "content": "1 Whether a claim is represented by an instrument in paper or equivalent form and transferred by means of such instrument is determined by the law designated therein. If no law is designated in the instrument, the law of the state in which the issuer has its seat or, failing such, its habitual residence applies. 2 As regards rights in rem to a physical instrument, the provisions of Chapter 7 are reserved. Inserted by No I 3 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ( AS 2021 33 ; BBl 2020 233 )."
+    },
+    {
+      "provision_ref": "art146",
+      "section": "146",
+      "title": "",
+      "content": "1 The assignment of a claim by operation of law is governed by the law applicable to the underlying relationship between the former and the new creditor or, in the absence of such a relationship, by the law governing the claim. 2 The provisions of the law governing the claim that are intended to protect the debtor are reserved."
+    },
+    {
+      "provision_ref": "art147",
+      "section": "147",
+      "title": "",
+      "content": "1 A currency is defined by the law of the issuing state. 2 The effects of a currency on the extent of an obligation are governed by the law applicable to such obligation. 3 The law of the state in which payment must be made determines the currency in which the payment must be effected."
+    },
+    {
+      "provision_ref": "art148",
+      "section": "148",
+      "title": "",
+      "content": "1 The statute of limitations for and the extinction of a claim are governed by the law applicable to the claim. 2 In the event of extinction by set-off, the applicable law is that governing the claim against which set-off is asserted. 3 Novation, release and set-off agreements are governed by the provisions of this Act relating to the law applicable to contracts (Art. 116 et seq. )."
+    },
+    {
+      "provision_ref": "art149",
+      "chapter": "Section 5 Foreign Decisions",
+      "section": "149",
+      "title": "",
+      "content": "1 Foreign decisions relating to a claim under the law of obligations are recognised in Switzerland: a. if they were rendered in the state of the defendant’s domicile; or b. if they were rendered in the state of the defendant’s habitual residence, insofar as the claims relate to an activity carried out in such state. 2 They are also recognised: a. if the decision relates to a contractual obligation, was rendered in the state of performance of the characteristic obligation, and the defendant was not domiciled in Switzerland; b. if the decision relates to a claim under a contract concluded with a consumer, was rendered at the consumer’s domicile or habitual residence, and the requirements provided in Article 120 paragraph 1 are met; c. if the decision relates to a claim under an employment contract, was rendered either at the place of the establishment or at the place of work, and the employee was not domiciled in Switzerland; d. if the decision relates to a claim arising out of the operation of an establishment and was rendered at the location of that establishment; e. if the decision relates to unjust enrichment, was rendered at the place where the act or result occurred, and the defendant was not domiciled in Switzerland; or f. if the decision relates to an obligation in tort, was rendered at the place where the act or the result occurred or, in the case of nuclear incidents, at the place where the nuclear installation of the operator liable is located, and the defendant was not domiciled in Switzerland. Amended by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ( AS 2010 5601 ; BBl 2009 1777 ). Amended by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ( AS 2022 43 ; BBl 2007 5397 )."
+    },
+    {
+      "provision_ref": "art149b",
+      "chapter": "87",
+      "section": "149b",
+      "title": "b",
+      "content": "1 In matters concerning trust law, the choice of forum contained in the trust deed shall prevail. The choice of forum or the authorisation contained in the trust deed to choose the forum only has to be followed if it is made in writing or in any other form which permits it to be evidenced by text. Unless otherwise provided, a choice of forum is exclusive. Article 5 paragraph 2 applies by analogy. 2 The chosen court may not decline jurisdiction: a. if one of the parties, the trust or one of the trustees is domiciled, habitually resident or has an establishment in the canton where the court is located, or b. if a major share of the assets of the trust are located in Switzerland. 3 Where there is no valid choice of forum, or if the choice of forum is not exclusive, jurisdiction shall lie with the Swiss courts: a. at the domicile or, in the absence of a domicile, at the habitual residence of the defendant; b. at the seat of the trust; or c. for claims arising out of the operations of an establishment in Switzerland, at the location of that establishment. 4 Disputes regarding liability arising out of the public issue of equity or debt securities may also be brought before the Swiss courts at the place of issue. This jurisdiction may not be excluded by a choice of forum."
+    },
+    {
+      "provision_ref": "art149c",
+      "chapter": "87",
+      "section": "149c",
+      "title": "c",
+      "content": "1 The law applicable to trusts is governed by the Hague Convention of 1 July 1985 on the Law Applicable to Trusts and on their Recognition. 2 The law designated by the Convention shall also apply when the Convention does not apply pursuant to its Article 5 or when a state is not bound to recognise a trust pursuant to Article 13 of the Convention. SR 0.221.371"
+    },
+    {
+      "provision_ref": "art149d",
+      "section": "149d",
+      "title": "d",
+      "content": "1 Where the assets of the trust are registered in the name of the trustee in the land register, the ships register or the aircraft register, reference to the trust relationship can be made by adding a note. 2 Trust relationships affecting intellectual property rights registered in Switzerland shall be recorded on request in the relevant register. 3 A trust relationship that is not noted or recorded is not enforceable against third parties acting in good faith. Art. 149 e V. Foreign decisions 1 Foreign decisions on matters concerning trust law are recognised in Switzerland: a. if they were rendered by a court that was validly designated pursuant to Article 149 b paragraph 1; b. if they were rendered in the state in which the defendant was domiciled, habitually resident or had their establishment; c. if they were rendered in the state in which the trust had its seat; d. if they were rendered in the state whose law applies to the trust; or e. if they are recognised in the state in which the trust has its seat, provided the defendant was not domiciled in Switzerland. 2 Article 165 paragraph 2 applies by analogy to foreign decisions relating to claims regarding public issues of equity or debt securities based on prospectuses, circulars or similar publications."
+    },
+    {
+      "provision_ref": "art150",
+      "chapter": "Chapter 10 Companies",
+      "section": "150",
+      "title": "",
+      "content": "1 For the purposes of this Act, a company is any organised association of persons and any organised unit of assets. 2 Simple partnerships that have not provided themselves with an organisation are governed by the provisions of this Act relating to the law applicable to contracts (Art. 116 et seq. )."
+    },
+    {
+      "provision_ref": "art151",
+      "chapter": "Chapter 10 Companies",
+      "section": "151",
+      "title": "",
+      "content": "1 In disputes concerning company law, the Swiss courts at the seat of the company have jurisdiction to hear actions against the company, its shareholders or members, or persons liable under company law. 2 Actions against shareholders or members or against persons liable under company law may also be brought before the Swiss courts at the domicile or, in the absence of a domicile, at the habitual residence of the defendant. 3 Disputes regarding liability arising out of the public issue of equity or debt securities may also be brought before the Swiss courts at the place of issue. This jurisdiction may not be excluded by a choice of forum. 4 ... Inserted by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008 ( AS 2010 1739 ; BBl 2006 7221 ). Repealed by No II 2 of the FA of 28 Sept. 2012, with effect from 1 May 2013 ( AS 2013 1103 ; BBl 2011 6873 )."
+    },
+    {
+      "provision_ref": "art152",
+      "chapter": "Chapter 10 Companies",
+      "section": "152",
+      "title": "",
+      "content": "The following courts have jurisdiction to hear actions against a person liable under Article 159 or against the foreign company for which such person is acting: a. the Swiss courts at the domicile or, in the absence of a domicile, at the habitual residence of the defendant; or b. the Swiss courts at the place where the company is administered in fact."
+    },
+    {
+      "provision_ref": "art153",
+      "chapter": "Chapter 10 Companies",
+      "section": "153",
+      "title": "",
+      "content": "For measures intended to protect assets in Switzerland of a company with seat abroad, the Swiss judicial or administrative authorities at the place where the assets are located have jurisdiction."
+    },
+    {
+      "provision_ref": "art154",
+      "section": "154",
+      "title": "",
+      "content": "1 Companies are governed by the law of the state under which they are organised, provided they fulfil the publicity or registration requirements of that law or, where such requirements do not exist, if they have organised themselves pursuant to the law of that state. 2 A company which does not fulfil these requirements is governed by the law of the state in which it is administered in fact."
+    },
+    {
+      "provision_ref": "art155",
+      "section": "155",
+      "title": "",
+      "content": "Subject to Articles 156 to 161, the law applicable to a company governs in particular: a. the legal nature of the company; b. its establishment and dissolution; c. its legal capacity and capacity to act; d. its name or business name; e. its organisation; f. the internal relationships, including the relationships between the company and its members; g. liability for violation of company law; h. liability for the debts of the company; i. the power of representation of the persons acting on behalf of the company according to its organisation."
+    },
+    {
+      "provision_ref": "art156",
+      "section": "156",
+      "title": "",
+      "content": "Claims regarding public issues of equity or debt securities based on prospectuses, circulars or similar publications may be based on either the law applicable to the company or the law of the state where the instruments were issued."
+    },
+    {
+      "provision_ref": "art157",
+      "section": "157",
+      "title": "",
+      "content": "1 The protection of the name or business name of companies registered in the Swiss commercial register against infringements in Switzerland is governed by Swiss law. 2 The protection of the name or business name of a company which is not registered in the Swiss commercial register is governed by the law applicable to unfair competition (Art. 136) or the law applicable to infringements of personality rights (Art. 132, 133 and 139)."
+    },
+    {
+      "provision_ref": "art158",
+      "section": "158",
+      "title": "",
+      "content": "A company may not invoke restrictions of the power of representation of a body or a representative that are unknown in the law of the state where the other party has its establishment or habitual residence, unless the other party knew or should have known of these restrictions."
+    },
+    {
+      "provision_ref": "art159",
+      "section": "159",
+      "title": "",
+      "content": "If the operations of a company established under a foreign law are managed in or from Switzerland, the liability of the persons acting on behalf of that company is governed by Swiss law."
+    },
+    {
+      "provision_ref": "art160",
+      "section": "160",
+      "title": "",
+      "content": "1 A company which has its seat abroad may have a branch in Switzerland. The branch is governed by Swiss law. 2 The power of representation of the branch is governed by Swiss law. At least one of the persons authorised to represent the branch must be domiciled in Switzerland and registered in the Swiss commercial register. 3 The Federal Council adopts the implementing regulations concerning mandatory registration in the commercial register."
+    },
+    {
+      "provision_ref": "art161",
+      "section": "161",
+      "title": "",
+      "content": "1 A foreign company may subject itself to Swiss law without being liquidated or re-established, provided this is allowed under the foreign law governing the company. The company must meet the requirements of its foreign law and must be able to adapt itself to one of the forms of organisation of Swiss law. 2 The Federal Council may authorise a company to subject itself to Swiss law even where the requirements of its foreign law are not met, particularly if significant Swiss interests are at stake."
+    },
+    {
+      "provision_ref": "art162",
+      "section": "162",
+      "title": "",
+      "content": "1 A company that is required under Swiss law to register in the commercial register is governed by Swiss law as soon as it proves that the centre of its business activities has been transferred to Switzerland and that it has adapted itself to one of the forms of organisation of Swiss law. 2 A company that is not required under Swiss law to register in the commercial register is governed by Swiss law as soon as its intent to be governed by Swiss law appears clearly, it has a sufficient connection with Switzerland, and it has adapted itself to one of the forms of organisation of Swiss law. 3 Before its registration in the commercial register, a company with a share capital must prove that its capital is covered in accordance with Swiss law by producing a report issued by a licensed audit expert within the meaning of the Auditor Oversight Act of 16 December 2005. SR 221.302 Amended by Annex No 4 of the FA of 16 Dec. 2005 (LLC law and amendments to the Laws on Companies, Cooperatives, the Commercial Register and Commercial Names), in force since 1 Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art163",
+      "section": "163",
+      "title": "",
+      "content": "1 A Swiss company may subject itself to a foreign law without being liquidated or re-established, provided it meets the requirements of Swiss law and continues to exist under the foreign law. 2 The creditors must be invited to file their claims by public notification announcing the forthcoming change of the legal status of the company. Article 46 of the Mergers Act of 3 October 2003 applies by analogy. 3 The provisions relating to protective measures in the event of international conflicts within the meaning of Article 61 of the National Economic Supply Act of 8 October 1982 are reserved. Amended by Annex No 4 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ( AS 2004 2617 ; BBl 2000 4337 ). SR 221.301 [ AS 1983 931 ; 1992 288 Annex No 24; 1995 1018 , 1794 ; 1996 3371 Annex 2 No 1; 2001 1439 ; 2006 2197 Annex No 48; 2010 1881 Annex 1 No II 18; 2012 3655 No I 15. AS 2017 3097 Annex 2 No I]. Now: National Economic Supply Act of 17 June 2016 ( SR 531 )."
+    },
+    {
+      "provision_ref": "art163a",
+      "section": "163a",
+      "title": "",
+      "content": "1 A Swiss company may acquire a foreign company (absorption by immigration) or form a new Swiss company with a foreign company (combination by immigration), provided the law governing the foreign company permits such a merger and all the requirements of that law are met. 2 All other aspects of the merger are governed by Swiss Law. Inserted by Annex No 4 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ( AS 2004 2617 ; BBl 2000 4337 )."
+    },
+    {
+      "provision_ref": "art163b",
+      "section": "163b",
+      "title": "",
+      "content": "1 A foreign company may acquire a Swiss company (absorption by emigration) or form a new foreign company with a Swiss company (combination by emigration), provided the Swiss company can prove that: a. all of its assets and liabilities will be transferred to the foreign company with the merger; and b. the equity and membership rights will be adequately maintained in the foreign company. 2 The Swiss company must comply with all provisions of Swiss law applicable to the transferring company. 3 The creditors must be invited to file their claims by public notification announcing the forthcoming merger. Article 46 of the Mergers Act of 3 October 2003 applies by analogy. 4 All other aspects of the merger are governed by the law applicable to the foreign acquiring company. Inserted by Annex No 4 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ( AS 2004 2617 ; BBl 2000 4337 ). SR 221.301"
+    },
+    {
+      "provision_ref": "art163c",
+      "section": "163c",
+      "title": "",
+      "content": "1 The merger agreement must comply with the mandatory company law provisions of the laws governing the companies involved, including the provisions concerning form. 2 All other aspects of the merger agreement are governed by the law chosen by the parties. In the absence of a choice of law, the merger agreement is governed by the law of the state with which the agreement has the closest connection. Such a connection is presumed to exist with the state whose law governs the acquiring company. Inserted by Annex No 4 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ( AS 2004 2617 ; BBl 2000 4337 )."
+    },
+    {
+      "provision_ref": "art163d",
+      "section": "163d",
+      "title": "",
+      "content": "1 The provisions of this Act relating to mergers of companies apply by analogy to demergers of companies and to transfers of assets and liabilities involving a Swiss company and a foreign company. Article 163 b paragraph 3 does not apply to the transfer of assets and liabilities. 2 All other aspects of demergers and transfers of assets and liabilities are governed by the law applicable to the company being demerged or to the company transferring its assets and liabilities to another legal entity. 3 The law governing the company being demerged is presumed to apply to the division agreement under the conditions of Article 163 c paragraph 2. The same applies, by analogy, to the transfer of assets and liabilities agreement. Inserted by Annex No 4 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ( AS 2004 2617 ; BBl 2000 4337 )."
+    },
+    {
+      "provision_ref": "art164",
+      "section": "164",
+      "title": "",
+      "content": "1 The registration of a company in the Swiss commercial register may be deleted only if a report drawn up by a licensed audit expert confirms that the claims of the creditors have either been secured or satisfied in accordance with Article 46 of the Mergers Act of 3 October 2003, or that the creditors have agreed to the cancellation of the registration. 2 If a foreign company acquires a Swiss company, or if it forms a new foreign company with a Swiss company, or if a Swiss company is demerged into foreign companies, the following additional requirements apply: a. it needs to be proven that the merger or demerger has become legally valid pursuant to the law applicable to the foreign company; and b. a licensed audit expert needs to confirm that the foreign company has granted the members of the Swiss company the equity or membership rights to which they are entitled, or that the company has made or secured compensatory payments in their favour. Amended by Annex No 4 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ( AS 2004 2617 ; BBl 2000 4337 ). SR 221.301 Amended by Annex No 4 of the FA of 16 Dec. 2005 (LLC law and amendments to the Laws on Companies, Cooperatives, the Commercial Register and Commercial Names), in force since 1 Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 ). Amended by Annex No 4 of the FA of 16 Dec. 2005 (LLC law and amendments to the Laws on Companies, Cooperatives, the Commercial Register and Commercial Names), in force since 1 Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art164a",
+      "section": "164a",
+      "title": "",
+      "content": "1 If a foreign company acquires a Swiss company or forms a new foreign company with a Swiss company, or if a Swiss company is demerged into foreign companies, an action requesting the examination of the equity or membership rights pursuant to Article 105 of the Mergers Act of 3 October 2003 may also be brought before the courts at the Swiss seat of the transferring entity. 2 The place of debt enforcement and the place of jurisdiction in Switzerland remain valid for so long as the creditors and the shareholders have not been satisfied or their claims secured. Inserted by Annex No 4 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ( AS 2004 2617 ; BBl 2000 4337 ). SR 221.301"
+    },
+    {
+      "provision_ref": "art164b",
+      "section": "164b",
+      "title": "",
+      "content": "The submission of a foreign company to another foreign law as well as a merger, a demerger or a transfer of assets and liabilities between foreign companies are recognised in Switzerland, provided it is valid pursuant to the foreign laws concerned. Inserted by Annex No 4 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ( AS 2004 2617 ; BBl 2000 4337 )."
+    },
+    {
+      "provision_ref": "art165",
+      "section": "165",
+      "title": "",
+      "content": "1 Foreign decisions relating to claims concerning company law are recognised in Switzerland: a. if they were rendered or are recognised in the state of the seat of the company, provided the defendant was not domiciled in Switzerland; or b. if they were rendered in the state of the defendant’s domicile or habitual residence. 2 Foreign decisions relating to claims concerning public issues of equity or debt securities based on prospectuses, circulars or similar publications are recognised in Switzerland if they were rendered in the state in which the equity or debt securities were issued, provided the defendant was not domiciled in Switzerland."
+    },
+    {
+      "provision_ref": "art166",
+      "chapter": "Chapter 11 Bankruptcy and Composition",
+      "section": "166",
+      "title": "",
+      "content": "1 A foreign bankruptcy decree shall be recognised in Switzerland on application of the bankruptcy administrator, the debtor or a creditor if: a. the decision is enforceable in the state where it was issued; b. there is no ground to deny recognition under Article 27; and c. the decision was issued: 1. in the debtor’s state of domicile, or 2. in the state of the centre of the debtor’s main interests, provided the debtor was not domiciled in Switzerland when the foreign proceedings were opened. 2 If the debtor has a branch in Switzerland, the procedure provided for in Article 50 paragraph 1 of the Federal Act of 11 April 1889 on Debt Enforcement and Bankruptcy (DEBA) is permitted until the publication of the decision on recognition in accordance with Article 169 of this Act. 3 Where proceedings under Article 50 paragraph 1 DEBA have already been opened and the deadline under Article 250 DEBA has not expired, these proceedings shall be abandoned following recognition of the foreign bankruptcy decree. Claims already filed shall be included in the schedule of claims for the auxiliary bankruptcy proceedings in accordance with Article 172. The accrued procedural costs are deferred to the auxiliary bankruptcy proceedings. Amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 ). SR 281.1"
+    },
+    {
+      "provision_ref": "art167",
+      "chapter": "Chapter 11 Bankruptcy and Composition",
+      "section": "167",
+      "title": "",
+      "content": "1 Where the debtor has a branch in Switzerland registered in the commercial register, the application for the recognition of a foreign bankruptcy decree must be filed in the court at the location of its seat. In all other cases, the application must be filed in the court at the location of the assets in Switzerland. Article 29 applies by analogy. 2 Where the debtor has two or more branches or if there are assets in more than one location, the court where an application was filed first has exclusive jurisdiction. 3 The claims of the bankrupt debtor are deemed to be located at the domicile of his or her debtor. Amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 ). Amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art168",
+      "section": "168",
+      "title": "",
+      "content": "As from the filing of the application for recognition of the foreign bankruptcy decree, the court may, at the request of the applicant, order conservatory measures as provided for in Articles 162 to 165 and 170 DEBA , . SR 281.1 Term in accordance with No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 ). This has been amended throughout the text."
+    },
+    {
+      "provision_ref": "art169",
+      "section": "169",
+      "title": "",
+      "content": "1 The decision on the recognition of a foreign bankruptcy decree shall be published. 2 The decision shall be communicated to the debt enforcement and bankruptcy office, the land registry, and the commercial registry at the place where the assets are located and, where appropriate, to the Swiss Federal Institute of Intellectual Property. The same applies to decisions concluding or staying the auxiliary bankruptcy proceedings, the decision to revoke the bankruptcy, and the decision to abstain from auxiliary bankruptcy proceedings. Name in accordance with an unpublished FCD of 19 Dec. 1997. Sentence amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art170",
+      "section": "170",
+      "title": "",
+      "content": "1 Unless otherwise provided in this Act, the recognition of a foreign bankruptcy decree subjects the debtor’s assets located in Switzerland to the legal consequences of bankruptcy according to Swiss law. 2 The limitation periods under Swiss law start to run from the publication of the decision granting recognition. 3 The bankruptcy shall be conducted by summary procedure unless the foreign bankruptcy administrator or a creditor in accordance with Article 172 paragraph 1 requests the bankruptcy office to conduct the ordinary procedure before the distribution of the available assets and provides sufficient security for the anticipated unrecoverable costs. Amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art171",
+      "section": "171",
+      "title": "",
+      "content": "1 An avoidance claim is governed by Articles 285 to 292 DEBA. It may also be initiated by the foreign bankruptcy administrator or by a creditor entitled to bring such action. 2 The deadlines provided for in Articles 285–288 a and 292 DEBA are calculated on the basis of the date on which the foreign bankruptcy proceedings were opened. SR 281.1 Inserted by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art172",
+      "section": "172",
+      "title": "",
+      "content": "1 The schedule of claims shall only include: a. the secured claims listed in Article 219 DEBA; b. the unsecured but privileged claims of creditors who have their domicile in Switzerland; and c. the claims arising from liabilities incurred for the account of a debtor's branch registered in the commercial register. 2 Only the creditors mentioned in paragraph 1 and the foreign bankruptcy administrator may bring the action to contest the schedule of claims as provided in Article 250 DEBA. 3 If a creditor has already been satisfied in part in foreign proceedings connected with the bankruptcy, the amount thus obtained shall be imputed, after deduction of the costs incurred, on the dividend to be paid to such creditor in the Swiss proceedings. SR 281.1 Amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 ). Amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art173",
+      "section": "173",
+      "title": "",
+      "content": "1 After distribution of the proceeds in accordance with Article 172 paragraph 1, any balance shall be remitted to the foreign bankruptcy estate or to those creditors that are entitled to it. 2 The balance may only be remitted after recognition of the foreign schedule of claims. 3 The Swiss court that has jurisdiction to recognise the foreign bankruptcy decree also has jurisdiction to recognise the foreign schedule of claims. This court shall review in particular whether the creditors domiciled in Switzerland have been included fairly in the foreign schedule of claims. These creditors shall be heard."
+    },
+    {
+      "provision_ref": "art174",
+      "section": "174",
+      "title": "",
+      "content": "1 If a foreign schedule of claims is not recognised, the balance is distributed among the creditors of the third class according to Article 219 paragraph 4 DEBA provided they are domiciled in Switzerland. 2 The same applies if the schedule of claims is not filed for recognition within the time-limit set by the court. SR 281.1 Amended by Annex No 22 of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ( AS 1995 1227 ; BBl 1991 III 1 )."
+    },
+    {
+      "provision_ref": "art174a",
+      "section": "174a",
+      "title": "",
+      "content": "1 At the request of the foreign bankruptcy administrator, it may be decided not to conduct auxiliary bankruptcy proceedings if no claims in the sense of Article 172 paragraph 1 have been filed. 2 Where creditors domiciled in Switzerland have filed claims other than those mentioned in Article 172 paragraph 1, the court may decide not to conduct auxiliary bankruptcy proceedings if appropriate account is taken of these creditors’ claims in the foreign proceedings. These creditors shall be heard. 3 The court may make its abstention subject to conditions and requirements. 4 Where the court decides not to conduct auxiliary bankruptcy proceedings, the foreign bankruptcy administrator may, subject to Swiss law, exercise all powers to which he or she is entitled under the law of the state in which the bankruptcy proceedings were opened; he or she may in particular transfer assets abroad and conduct litigation. These powers do not include the performance of sovereign acts, the use of coercive measures or the right to settle disputes. Inserted by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art174b",
+      "section": "174b",
+      "title": "",
+      "content": "In proceedings that have a factual connection the authorities and bodies concerned may coordinate their activities among themselves and with foreign authorities and bodies. Inserted by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art174c",
+      "section": "174c",
+      "title": "",
+      "content": "Foreign judgments on avoidance claims or otherwise relating to acts prejudicial to creditors, which are closely connected with a bankruptcy decree recognised in Switzerland, shall be recognised in accordance with Articles 25–27 if they were rendered or are recognised in the state of origin of the bankruptcy decree and the defendant was not domiciled in Switzerland. Inserted by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art175",
+      "section": "175",
+      "title": "",
+      "content": "A composition or a similar procedure approved by a foreign authority shall be recognised in Switzerland. Articles 166–170 and 174 a –174 c apply by analogy. Creditors domiciled in Switzerland shall be heard. Sentence amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ( AS 2018 3263 ; BBl 2017 4125 )."
+    },
+    {
+      "provision_ref": "art176",
+      "chapter": "Chapter 12 International Arbitration",
+      "section": "176",
+      "title": "",
+      "content": "1 The provisions of this Chapter apply to arbitral tribunals that have their seat in Switzerland if, at the time that the arbitration agreement was concluded, at least one of the parties thereto did not have its domicile, its habitual residence or its seat in Switzerland. 2 The parties may exclude the application of this Chapter by making a declaration to this effect in the arbitration agreement or a subsequent agreement, and instead agree that the provisions of the third part of the CPC apply. The declaration must be in the form specified in Article 178 paragraph 1. 3 The seat of the arbitral tribunal is determined by the parties, or the arbitration institution designated by them, or, failing both, by the arbitral tribunal itself. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). SR 272 Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Term in accordance with No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art177",
+      "chapter": "Chapter 12 International Arbitration",
+      "section": "177",
+      "title": "",
+      "content": "1 Any claim involving an economic interest may be submitted to arbitration. 2 A state, or an enterprise held by or an organisation controlled by a state, that is party to an arbitration agreement, may not invoke its own law in order to contest its capacity to arbitrate or the arbitrability of a dispute covered by the arbitration agreement."
+    },
+    {
+      "provision_ref": "art178",
+      "chapter": "Chapter 12 International Arbitration",
+      "section": "178",
+      "title": "",
+      "content": "1 The arbitration agreement must be made in writing or any other means of communication allowing it to be evidenced by text. 2 As regards its substance, an arbitration agreement is valid if it conforms either to the law chosen by the parties, to the law governing the subject-matter of the dispute, in particular the law governing the main contract, or to Swiss law. 3 The validity of an arbitration agreement may not be contested on the grounds that the main contract is invalid or that the arbitration agreement concerns a dispute which has not yet arisen. 4 The provisions of this Chapter apply by analogy to an arbitration clause in a unilateral transaction or in articles of association. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art179",
+      "section": "179",
+      "title": "",
+      "content": "1 The members of the arbitral tribunal shall be appointed or replaced in accordance with the agreement between the parties. Unless the parties agree otherwise, the arbitral tribunal shall comprise three members, with the parties each appointing one member; the members shall appoint a chairperson by unanimous decision. 2 In the absence of an agreement or if the members of the arbitral tribunal cannot be appointed or replaced for other reasons, the state court where the arbitral tribunal has its seat may be seized. If the parties have not agreed on a seat or only agreed that the seat of the arbitral tribunal be in Switzerland, the first state court seized has jurisdiction. 3 Where a state court is called upon to appoint or replace a member of the arbitral tribunal, it shall make the appointment unless a summary examination shows that no arbitration agreement exists between the parties. 4 The state court shall at the request of a party take the measures required to constitute the arbitral tribunal in the event that the parties or members of the arbitral tribunal do not fulfil their obligations within 30 days of being requested to do so. 5 In the case of a multiple-party dispute, the state court may appoint all the members of the arbitral tribunal. 6 A person who is asked to become a member of the arbitral tribunal shall without delay disclose the existence of circumstances that could give rise to legitimate doubt as to his or her independence or impartiality. This obligation applies throughout the entire proceedings. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art180",
+      "section": "180",
+      "title": "",
+      "content": "1 A member of the arbitral tribunal may be challenged: a. if they lack the qualifications agreed by the parties; b. if there is a ground for challenge in accordance with the rules of arbitration adopted by the parties; or c. if circumstances exist that give rise to legitimate doubt as to his or her independence or impartiality. 2 A party may challenge a member of the arbitral tribunal who has been appointed by that party or in whose appointment that party has participated only on grounds that have come to their attention after the appointment despite exercising due diligence. 3 ... Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Repealed by No 1 of the FA of 19 June 2020, with effect from 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art180a",
+      "section": "180a",
+      "title": "",
+      "content": "1 Unless the parties have agreed otherwise and if the arbitration proceedings have not yet been concluded, written notice of the challenge stating the grounds must be given to the challenged member of the arbitral tribunal and the other members of the arbitral tribunal within 30 days of the date on which the challenging party becomes aware of the grounds for the challenge or could have become aware thereof had it exercised due diligence. 2 The challenging party may within 30 days of filing the challenge request the state court to reject the challenged member. The state court’s decision is final. 3 During the challenge procedure, the arbitral tribunal may continue the proceedings without excluding the challenged member until the decision is taken, unless the parties have agreed otherwise. Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art180b",
+      "section": "180b",
+      "title": "",
+      "content": "1 Any member of the arbitral tribunal may be removed with the agreement of the parties. 2 If a member of the arbitral tribunal is unable to carry out his or her duties within a reasonable time or with due care, and unless the parties have agreed otherwise, any party may file a written request with the state court for the member to be removed, stating the grounds. The state court’s decision is final. Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art181",
+      "section": "181",
+      "title": "",
+      "content": "The arbitral proceedings become pending from the time when one of the parties submits its request to the member of the arbitral tribunal designated in the arbitration agreement or, in the absence of such designation, from the time when one of the parties initiates the procedure for constituting the arbitral tribunal. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art182",
+      "section": "182",
+      "title": "",
+      "content": "1 The parties may determine the arbitral procedure, either themselves or by reference to arbitration rules; they may also make the procedure subject to a procedural law of their choice. 2 Where the parties have not determined the procedure, the arbitral tribunal shall determine it to the extent necessary, either directly or by reference to a law or to arbitration rules. 3 Regardless of the procedure chosen, the arbitral tribunal shall guarantee the equal treatment of the parties and their right to be heard in adversarial proceedings. 4 A party that continues with the arbitration proceedings without objecting immediately to a breach of the rules of procedure of which it is aware or which it would have been aware had it exercised due diligence may not invoke this breach at a later point in the proceedings. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art183",
+      "section": "183",
+      "title": "",
+      "content": "1 Unless the parties have agreed otherwise, the arbitral tribunal may, at the request of a party, order interim measures or conservatory measures. 2 If the party concerned does not comply voluntarily with the measure ordered, the arbitral tribunal or a party may request the assistance of the competent court. The court shall apply its own law. 3 The arbitral tribunal or the state court may make the interim or conservatory measures subject to the provision of appropriate security. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Term in accordance with No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). This amendment has been made throughout the text."
+    },
+    {
+      "provision_ref": "art184",
+      "section": "184",
+      "title": "",
+      "content": "1 The arbitral tribunal takes the evidence itself. 2 Where state legal assistance is required for the taking of evidence, the arbitral tribunal or a party with the consent of the arbitral tribunal may request the participation of the state court at the seat of the arbitral tribunal. 3 The state court shall apply its own law. On request, it may apply or take account of other forms of procedure. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art185",
+      "section": "185",
+      "title": "",
+      "content": "If any further assistance by a state court is required, the court at the seat of the arbitral tribunal has jurisdiction."
+    },
+    {
+      "provision_ref": "art185a",
+      "section": "185a",
+      "title": "",
+      "content": "1 An arbitral tribunal with seat abroad or a party to foreign arbitration proceedings may request the state court at the place where the interim or conservatory measure is to be executed to participate. Article 183 paragraphs 2 and 3 apply by analogy. 2 An arbitral tribunal with seat abroad or a party to foreign arbitration proceedings may with consent of the arbitral tribunal request the state court where evidence is to be taken to participate. Article 184 paragraphs 2 and 3 apply by analogy. Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art186",
+      "section": "186",
+      "title": "",
+      "content": "1 The arbitral tribunal shall decide on its own jurisdiction. 1bis It shall decide on its jurisdiction without regard to any action having the same subject matter that is already pending between the same parties before a state court or another arbitral tribunal, unless there are substantial grounds for a stay in proceedings. 2 Any objection to its jurisdiction must be raised prior to any defence on the merits. 3 The arbitral tribunal shall, in general, decide on its jurisdiction by a preliminary decision. Inserted by No I of the FA of 6 Oct. 2006 (Arbitration, Jurisdiction), in force since 1 March 2007 ( AS 2007 387 ; BBl 2006 4677 4691 )."
+    },
+    {
+      "provision_ref": "art187",
+      "section": "187",
+      "title": "",
+      "content": "1 The arbitral tribunal shall decide the dispute according to the rules of law chosen by the parties or, in the absence of such a choice, according to the rules of law with which the case has the closest connection. 2 The parties may authorise the arbitral tribunal to decide ex aequo et bono . Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art188",
+      "section": "188",
+      "title": "",
+      "content": "Unless the parties have agreed otherwise, the arbitral tribunal may render partial awards."
+    },
+    {
+      "provision_ref": "art189",
+      "section": "189",
+      "title": "",
+      "content": "1 The arbitral award shall be rendered in conformity with the procedure and form agreed by the parties. 2 In the absence of such an agreement, the award shall be made by a majority decision or, in the absence of a majority, by the chairperson. It shall be in writing, reasoned, dated and signed. The signature of the chairperson suffices. Term in accordance with No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). This change was made in the provision mentioned in the AS."
+    },
+    {
+      "provision_ref": "art189a",
+      "section": "189a",
+      "title": "",
+      "content": "1 Unless the parties have agreed otherwise, either party may apply to the arbitral tribunal within 30 days of the award being communicated to correct typographical and accounting errors in the award, explain specific parts of the award or issue a supplementary award in relation to claims made in the arbitration proceedings that were not considered in the award. The arbitral tribunal may itself make corrections, explanations or additions within the same deadline. 2 The application does not affect the deadlines for filing appeals. A new period for filing an appeal in relation to the corrected, explained or supplemented part of the award begins from the date on which notice of the correction, explanation or supplement is given. Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art190",
+      "section": "190",
+      "title": "",
+      "content": "1 The award is final from the time when it is communicated. 2 An arbitral award may be set aside only: a. where the sole member of the arbitral tribunal was improperly appointed or the arbitral tribunal improperly constituted; b. where the arbitral tribunal wrongly accepted or declined jurisdiction; c. where the arbitral tribunal ruled beyond the claims submitted to it, or failed to decide one of the claims; d. where the principle of equal treatment of the parties or their right to be heard in an adversary procedure were violated; e. where the award is incompatible with public policy. 3 As regards preliminary awards, setting aside proceedings may only be initiated on the grounds of the above paragraphs 2(a) and 2(b); the time-limit runs from the communication of the award. 4 The deadline for filing the appeal amounts to 30 days from the award being communicated. Term in accordance with No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art190a",
+      "section": "190a",
+      "title": "",
+      "content": "1 A party may request a review of an award if: a. it has subsequently become aware of significant facts or uncovered decisive evidence which it could not have produced in the earlier proceedings despite exercising due diligence; the foregoing does not apply to facts or evidence that came into existence after the award was issued; b. criminal proceedings have established that the arbitral award was influenced to the detriment of the party concerned by a felony or misdemeanour, even if no one is convicted by a criminal court; if criminal proceedings are not possible, proof may be provided in some other manner; c. a ground for a challenge under Article 180 paragraph 1 letter c only came to light after conclusion of the arbitration proceedings despite exercising due diligence and no other legal remedy is available. 2 The request for a review must be filed within 90 days of the grounds for review coming to light. A review may not be requested more than ten years after the award becomes legally binding, except in the case of paragraph 1 letter b. Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art191",
+      "section": "191",
+      "title": "",
+      "content": "The only appeal authority is the Swiss Federal Supreme Court. The procedures are governed by Articles 77 and 119 a of the Federal Supreme Court Act of 17 June 2005. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). SR 173.110"
+    },
+    {
+      "provision_ref": "art192",
+      "section": "192",
+      "title": "",
+      "content": "1 If none of the parties has their domicile, habitual residence or seat in Switzerland, they may, by a declaration in the arbitration agreement or by subsequent agreement, wholly or partly exclude all appeals against arbitral awards; the right to a review under Article 190 a paragraph 1 letter b may not be waived. The agreement requires the form specified in Article 178 paragraph 1. 2 Where the parties have excluded all setting aside proceedings and where the awards are to be enforced in Switzerland, the New York Convention of 10 June 1958 on the Recognition and Enforcement of Foreign Arbitral Awards applies by analogy. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). SR 0.277.12"
+    },
+    {
+      "provision_ref": "art193",
+      "section": "193",
+      "title": "",
+      "content": "1 Each party may at its own expense deposit a copy of the award with the state court at the seat of the arbitral tribunal. 2 At the request of a party, the state court at the seat of the arbitral tribunal shall certify the enforceability of the award. 3 At the request of a party, the arbitral tribunal shall certify that the award has been made in conformity with the provisions of this Act; such certificate has the same effect as the deposit of the award. Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 ). Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ( AS 2020 4179 ; BBl 2018 7163 )."
+    },
+    {
+      "provision_ref": "art194",
+      "section": "194",
+      "title": "",
+      "content": "The recognition and enforcement of foreign arbitral awards is governed by the New York Convention of 10 June 1958 on the Recognition and Enforcement of Foreign Arbitral Awards. SR 0.277.12"
+    },
+    {
+      "provision_ref": "art195",
+      "chapter": "Section 1 Repeal and Amendment of Current Legislation Repeal and Amendment of Current Legislation",
+      "section": "195",
+      "title": "",
+      "content": "The current legislation that is repealed or amendments thereto are listed in the Annex, which forms part of this Act."
+    },
+    {
+      "provision_ref": "art196",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "196",
+      "title": "",
+      "content": "1 Facts or legal acts which came into being and produced all their effects before the commencement of this Act are governed by the law previously in force. 2 Facts or legal acts which came into being before the commencement of this Act, but which continue to produce legal effects, are governed by the law previously in force for the period prior to the commencement date. Their effects beyond that date are governed by this Act."
+    },
+    {
+      "provision_ref": "art197",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "197",
+      "title": "",
+      "content": "1 The Swiss judicial or administrative authorities validly seized of actions or applications made before the commencement of this Act shall continue to have jurisdiction even if this Act does no longer provide for their jurisdiction. 2 It is possible to bring again, after the commencement of this Act, actions or applications dismissed for lack of jurisdiction by the Swiss judicial or administrative authorities before that date if the jurisdiction of a Swiss court or authority is provided for in this Act and the claim may still be asserted."
+    },
+    {
+      "provision_ref": "art198",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "198",
+      "title": "",
+      "content": "This Act determines the law to be applied to actions and applications pending at first instance on the date of its commencement."
+    },
+    {
+      "provision_ref": "art199",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "199",
+      "title": "",
+      "content": "Applications for the recognition or enforcement of foreign decisions pending on the commencement of this Act are governed by this Act as regards the conditions for recognition and enforcement."
+    },
+    {
+      "provision_ref": "art200",
+      "chapter": "Section 3 Referendum and Commencement",
+      "section": "200",
+      "title": "",
+      "content": "1 This Act is subject to an optional referendum. 2 The Federal Council shall determine the commencement date. Commencement date: 1 January 1989 FCD of 27 Oct. 1988."
+    }
+  ],
+  "definitions": []
+}

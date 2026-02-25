@@ -1,0 +1,77 @@
+{
+  "id": "sr-831-101-4",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 7. November 2007 über die Mindeststandards der technischen und organisatorischen Massnahmen bei der systematischen Verwendung der AHV-Versichertennummer ausserhalb der AHV",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/749/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Zweck",
+      "content": "Mit dieser Verordnung soll sichergestellt werden, dass Stellen und Institutionen, welche die Versichertennummer systematisch verwenden, ausreichende technische und organisatorische Massnahmen treffen, um: a. die richtige Versichertennummer zu verwenden; und b. die missbräuchliche Verwendung der Versichertennummer zu verhindern."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "1 Diese Verordnung gilt für alle Stellen und Institutionen, welche die Versichertennummer nach den Artikeln 50 d und 50 e AHVG systematisch verwenden. 2 Für die systematische Verwendung der Versichertennummer in Datensammlungen, in denen keinerlei Mutationen im Zusammenhang mit der Versichertennummer vorgenommen werden, sind nur die Bestimmungen nach den Artikeln 6–8 anwendbar."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Massnahmen zur Sicherstellung der Verwendung der richtigen Versichertennummer",
+      "section": "3",
+      "title": "Anforderung an elektronische Systeme",
+      "content": "Informatiksysteme müssen so gestaltet sein, dass in Bezug auf die Zuordnung der gültigen Versichertennummer zu einer bestimmten Person widersprüchliche Info r mationen ausgeschlossen sind."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Massnahmen zur Sicherstellung der Verwendung der richtigen Versichertennummer",
+      "section": "4",
+      "title": "Manuelle Erfassung der Versichertennummer",
+      "content": "1 Die Versichertennummer darf in einer elektronischen Datensammlung nur manuell erfasst werden, wenn eine Kontrollzifferprüfung gemäss Anhang 1 durchg e führt wird. 2 Der manuellen Erfassung gleichgestellt ist das Einlesen der Versichertennummer mittels eines Stric h codes."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Massnahmen zur Sicherstellung der Verwendung der richtigen Versichertennummer",
+      "section": "5",
+      "title": "Sichere Datenquellen bei der Erfassung",
+      "content": "1 Die Versichertennummer darf in elektronischen Datensammlungen nur erfasst werden, wenn über die Richtigkeit der Versichertennummer ausreichende Sicherheit besteht. 2 Die ausreichende Sicherheit ist gewährleistet, wenn die Versichertennummer in einem Verfahren nach Artikel 134 quater Absätze 2 - 4 der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung (AHVV) bekanntgegeben wurde. 3 Die ausreichende Sicherheit wird vermutet, wenn über die Identität der zur erfassten Versichertennummer gehörenden Person keine Zweifel bestehen und eine der nachfolgenden Quellen für die Nummer verwendet wird: a. der Versicherungsausweis der AHV nach Artikel 135 bis AHVV; b. die im Zeitpunkt der Erfassung gültige Versichertenkarte nach Artikel 42 a des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung; c. die im Zeitpunkt der Erfassung aktuelle schriftliche oder elektronische Datenbekanntgabe eines Organs der AHV; d. die im Zeitpunkt der Erfassung aktuelle schriftliche oder elektronische Datenbekanntgabe einer von der Zentralen Ausgleichsstelle (ZAS) als ausreichend sicher empfohlenen Stelle oder Institution. 4 Die ZAS veröffentlicht die als ausreichend sichere Datenquellen empfohlenen Stellen und Institutionen im Internet. SR 831.101 SR 832.10"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Massnahmen zum Schutz vor missbräuchlicher Verwendung",
+      "section": "6",
+      "title": "Grundsätze",
+      "content": "1 Der Zugang zu Datensammlungen, welche die Versichertennummer enthalten, ist nur den Personen einzuräumen, welche die Versichertennummer zur Erfüllung ihrer Aufgaben benötigen. Bei elektronischen Datensammlungen sind die Lese- und Schreibrechte entsprechend einzuschränken. 2 Wird die Versichertennummer in komplexen Systemen systematisch verwendet, so sind die nötigen Schutzmassnahmen gestützt auf eine detaillierte Risikoanalyse zu treffen. Die Analyse hat insbesondere dem Risiko einer unerlaubten Zusammenführung von Datensammlungen Rechnung zu tragen. 3 Beim Betrieb von Informatikmitteln und Datenspeichern sind die minimalen Sicherheitsvorgaben nach Anhang 2 einzuhalten."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Massnahmen zum Schutz vor missbräuchlicher Verwendung",
+      "section": "7",
+      "title": "Datenübertragung über öffentliche Netze",
+      "content": "Werden Datensammlungen mit Datensätzen, welche die Versichertennummer enthalten, über ein öffentliches Netz übertragen, so sind sie nach dem Stand der Technik zu verschlüsseln."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Massnahmen zum Schutz vor missbräuchlicher Verwendung",
+      "section": "8",
+      "title": "Verwendung und Bekanntgabe",
+      "content": "Stellen und Institutionen, welche die Versichertennummer verwenden, haben ihr Personal in Aus- und Weiterbildung darüber zu informieren, dass die Versichertennummer nur aufgabenbezogen verwendet und nur entsprechend den gesetzlichen Vorgaben bekannt gegeben werden darf."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Massnahmen zum Schutz vor missbräuchlicher Verwendung",
+      "section": "9",
+      "title": "Inkrafttreten",
+      "content": "1 Diese Verordnung tritt unter Vorbehalt der Absätze 2 und 3 am 1. Dezember 2007 in Kraft. 2 Artikel 5 Absatz 3 Buchstabe a tritt am 1. Juli 2008 in Kraft. 3 Artikel 5 Absatz 3 Buchstabe b tritt am 1. Januar 2009 in Kraft."
+    }
+  ],
+  "definitions": []
+}

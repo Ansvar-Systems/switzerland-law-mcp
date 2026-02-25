@@ -1,0 +1,488 @@
+{
+  "id": "sr-211-432-2",
+  "type": "statute",
+  "title": "Verordnung vom 18. November 1992 über die amtliche Vermessung (VAV)",
+  "title_en": "Ordinance of 18 November 1992 on Official Cadastral Surveying",
+  "short_name": "VAV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1992/2446_2446_2446/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Definition and purpose",
+      "content": "1 Official cadastral surveying as defined in Article 950 of the Swiss Civil Code consists of the surveying work approved by the canton and by the Confederation for the establishment and maintenance of the land register. 2 The data of official cadastral surveying is geospatial reference data that is used by the federal authorities, the cantons and the communes, as well as industry and commerce, academic and scientific institutions and the general public to obtain geographical information. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1a",
+      "title": "a Relationship to general geoinformation law",
+      "content": "Official cadastral surveying is governed by the Geoinformation Ordinance of 21 May 2008 (GeoIO), unless there are special provisions in this present Ordinance. Inserted by No I of the O of 21 May 2008 ( AS 2008 2745 ). Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 764 ). SR 510.620"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "",
+      "content": "Repealed by No I of the O of 21 May 2008, with effect from 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "3",
+      "title": "Planning and implementation",
+      "content": "1 The Federal Department of Defence, Civil Protection and Sport (DDPS) defines the strategic planning of official cadastral surveying in consultation with the responsible cantonal authorities. 2 The cantons prepare implementation plans, which serve as the basis for the conclusion of programme agreements in accordance with Article 31 paragraph 2 GeoIG. 3 In case of land reallotments and in areas in which necessary agricultural or forestry reallotments cannot be carried out in the foreseeable future, the technical work of data acquisition for the «landownership» information layer is performed using a simplified procedure. The DDPS specifies the technical requirements. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "4",
+      "title": "Military installations",
+      "content": "Provisions concerning the surveying of military installations that deviate from those in this Ordinance are reserved."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Chapter 2 Content of Official Cadastral Surveying",
+      "section": "5",
+      "title": "Elements of official cadastral surveying",
+      "content": "Official cadastral surveying consists of: a. the markers of the control points and boundary points; b. the data in accordance with the data model of official cadastral surveying; c. the cadastral map and further extracts of the cadastral data set required for the land registration; d. the required technical documents; e. the components and principles of former cadastral surveying under the old regulations; f. the base map of official cadastral surveying. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Chapter 2 Content of Official Cadastral Surveying",
+      "section": "6",
+      "title": "Data model of official cadastral surveying",
+      "content": "1 The data model describes the content in accordance with the object catalogue, and the data structure in a standardised data description language. 2 The object catalogue comprises the following information layers: a. control points; b. land cover; c. single objects; d. heights; e. local names; f. landownership; g. pipelines; h. territorial boundaries; i. permanent landslip areas; j. building addresses; k. administrative subdivisions. 3 The «landownership» information layer includes properties in accordance with Article 655 paragraph 2 of the Swiss Civil Code insofar as these may be designated on an area basis, with the exception of parts in co-ownership. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "a Responsibilities of the DDPS",
+      "content": "1 The DDPS defines the object catalogue and specifies the data to be captured, its accuracy and reliability, together with other requirements. Where necessary it may depart from Articles 3, 10 and 17 GeoIO . 2 The DDPS specifies the official cadastral surveying interface. 3 The DDPS specifies the content, updating and management of the extracts to be prepared from official cadastral surveying data, and also the related technical documentation. Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Name in accordance with No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 764 ). This change has been made throughout the text. SR 510.620"
+    },
+    {
+      "provision_ref": "art6bis",
+      "section": "6bis",
+      "title": "",
+      "content": "Inserted by No I of the O of 7 March 2003 ( AS 2003 507 ). Repealed by No I of the O of 21 May 2008, with effect from 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Land Registry Plan",
+      "content": "1 The Land Registry Plan is a hard copy or a digital graphical extract from the data of official cadastral surveying, which, as a constituent part of the land register, delimits properties, area-related distinct and permanent rights and mineral rights determined on an area basis. It has the legal force of entries in the land register. 2 The Land Registry Plan includes the content of the «control points», «land cover», «single objects», «local names», «landownership», «pipelines», «territorial boundaries», «building addresses» and «administrative subdivisions» information layers. 3 The cantons may, in addition to the cadastral surveying data, require boundaries of easements and servitudes to be portrayed, insofar as their positions are clearly defined on the ground. 4 The Federal Directorate of Cadastral Surveying (FDCS) defines the cartographic specification of the Land Registry Plan. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "",
+      "content": "Repealed by No I of the O of 7 March 2003, with effect from 1 April 2003 ( AS 2003 507 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Cantonal Additions to the Federal Data Model",
+      "content": "Within the framework laid down by the DDPS, the cantons may extend the content of official cadastral surveying as prescribed under federal law, and may specify additional requirements. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Expression in accordance with No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). This amendment has been taken into account throughout the document."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 1 General Provisions",
+      "section": "11",
+      "title": "Definition and Scope",
+      "content": "1 Demarcation comprises the delimitation of boundaries and the emplacement of boundary markers (monumentation). 2 Demarcation is required for territorial boundaries, property boundaries and boundaries of distinct and permanent rights over others’ land (easements) insofar as the latter can be clearly delimited by boundary lines."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 1 General Provisions",
+      "section": "12",
+      "title": "Cantonal law",
+      "content": "The cantons enact regulations dealing with demarcation within the framework of this Ordinance."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 2 Delimitation of Boundaries",
+      "section": "13",
+      "title": "Procedures",
+      "content": "1 In general, boundaries are to be defined in situ. 2 The cantons may specify that boundaries be defined on the basis of plans, aerial photographs or other suitable means: a. in agricultural and forest land in mountainous and summer pasture areas as defined in the agricultural production register, and in unproductive areas; b. in the course of an updating process, subject to the agreement of the landowners concerned. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). SR 912.1"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 2 Delimitation of Boundaries",
+      "section": "14",
+      "title": "Alignment of boundaries",
+      "content": "1 A valid boundary line between two adjacent boundary points may be a straight line or a circular arc. 2 During first survey, renovation or updating of the «landownership» information layer, simplification of boundary lines should be sought. Existing boundary lines should be improved where possible. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art14a",
+      "chapter": "Section 2 Delimitation of Boundaries",
+      "section": "14a",
+      "title": "a Elimination of discrepancies",
+      "content": "Discrepancies between maps of official cadastral surveying and reality, or between the plans themselves, shall be officially eliminated. Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 3 Emplacement of Boundary Markers (Monumentation)",
+      "section": "15",
+      "title": "Basic principle",
+      "content": "Boundary markers are to be emplaced so that boundaries will be permanently identifiable on the ground or can be found by simple means."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 3 Emplacement of Boundary Markers (Monumentation)",
+      "section": "16",
+      "title": "Timing",
+      "content": "1 Boundary markers should in general be emplaced before the initial capture of surveying data for the «landownership» information layer. 2 Individual boundary markers may be emplaced after surveying in accordance with paragraph 1: a. in the course of an updating process, if the boundary has not been delimited on the ground; b. if there are compelling reasons why it is not possible or desirable to carry out the work earlier. 3 The boundary markers that are missing in accordance with paragraph 2 must be emplaced as soon as circumstances allow."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 3 Emplacement of Boundary Markers (Monumentation)",
+      "section": "17",
+      "title": "Exceptions",
+      "content": "1 If boundaries are defined by natural or artificial objects that are permanent and clearly identifiable, the requirement for monumentation is generally waived. 2 The cantons may provide for further exceptions, in particular: a. in areas in which properties and area-related distinct and permanent rights (easements) are subject to reallotment (remembrement); b. for properties and for area-related distinct and permanent rights (easements), whose boundary markers are continually threatened by agricultural activity or other effects; c. in agricultural and forest land in mountainous and summer pasture areas as defined in the agricultural production register, and in unproductive areas. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 1 General Provisions",
+      "section": "18",
+      "title": "Definitions",
+      "content": "1 Initial survey means the production of the components of official cadastral surveying in areas without previously and definitively approved cadastral surveys and includes the resurvey of areas as defined in Art. 51 paragraphs 3 and 4. 2 Renovation means the production of the components of official cadastral surveying by upgrading an existing and previously definitively approved cadastral survey. 3 Updating means the modification of the components of official cadastral surveying to reflect changes in the legal circumstances or in the actual situation on the ground."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 1 General Provisions",
+      "section": "19",
+      "title": "Methods",
+      "content": "The Federal Directorate of Cadastral Surveying may issue directives concerning methods for initial survey, renovation and updating. Expression in accordance with No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). This amendment has been taken into account throughout the document."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 1 General Provisions",
+      "section": "20",
+      "title": "Geodetic reference system",
+      "content": "The planimetric and height datums for official cadastral surveying are laid down in Articles 4 and 5 of the GeoIO. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). SR 510.620"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 1 General Provisions",
+      "section": "21",
+      "title": "Timing of execution of survey",
+      "content": "1 The Federal Directorate of Cadastral Surveying and the responsible cantonal agency plan the execution of official cadastral surveying on the basis of a programme agreement. 2 The canton stipulates the date of execution of the individual surveys and manages the consultation procedure. 3 The canton may specify that the initial survey and the renovation be carried out in stages. Each stage must consist of at least one complete information layer and must extend over a large contiguous area forming a cohesive whole; the «control points» layer must be included in the first stage. If an alternative procedure appears more suitable on technical grounds this should be submitted to the Federal Directorate of Cadastral Surveying for approval. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 2 Updating",
+      "section": "22",
+      "title": "Principle of updating",
+      "content": "All components of official cadastral surveying are subject to updating."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 2 Updating",
+      "section": "23",
+      "title": "Continuous updating",
+      "content": "1 The components of official cadastral surveying for whose updating a change notification procedure can be organised should be updated within one year after the occurrence of a change. 2 The cantons supervise the change notification procedure and specify the time limit for updating. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 2 Updating",
+      "section": "24",
+      "title": "Periodic updating",
+      "content": "1 All data that is not subject to continuous updating will be updated periodically. 2 Each periodic updating operation must extend over a large area forming a cohesive whole. 3 The periodic update cycle should, if possible, correspond to that of the national topographic survey. It must not exceed twelve years. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 2 Updating",
+      "section": "25",
+      "title": "Updating and the land register",
+      "content": "1 The Land Registrar may enter a subdivision or amalgamation of properties or of area-related distinct and permanent rights (easements) in the land register only on presentation of the deed of mutation signed by the responsible registered surveyor. 2 The cantons regulate the relations between official cadastral surveying and the Land Registry. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 3 Verification",
+      "section": "26",
+      "title": "",
+      "content": "1 All of the components of official cadastral surveying are subject to verification of quality and completeness by the cantonal surveying supervision in accordance with the directives of the Federal Directorate of Cadastral Surveying; paragraph 2 is reserved. 2 The verification of class 2 control points, both in planimetry and altimetry, is the responsibility of the Federal Office of Topography. The DDPS defines the terms «planimetric control point» and «altimetric control point»."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 4 Objection Procedure, Approval and Payment",
+      "section": "27",
+      "title": "Preliminary examination",
+      "content": "1 After completion of the verification, the Federal Directorate of Cadastral Surveying determines whether the federal requirements have been fulfilled and specifies the documents to be submitted. 2 The FDCS reports the results of its examination to the canton and guarantees the appropriate payment, subject to correction of any notified defects. 3 All defects notified in the report must be corrected before the public inspection process. 4 The preliminary examination may be omitted, subject to agreement between the Confederation and the canton. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Inserted by No I of the O of 28 Jan. 1998 ( AS 1998 270 ). Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 4 Objection Procedure, Approval and Payment",
+      "section": "28",
+      "title": "Public inspection",
+      "content": "1 After completion of an initial survey or a renovation of official cadastral surveying and the elimination of discrepancies in accordance with Article 14 a , where the rights of landowners are affected, public inspection and objection procedures must be carried out. 2 The public inspection process covers the Land Registry Plan of the area concerned and other extracts from the data of official cadastral surveying relating to the maintenance of the land register. 3 The cantons regulate the procedures, subject to the following principles: a. The public inspection process lasts for 30 days. b. The inspection process must be officially announced and publicised. c. Property owners whose addresses are known shall in addition be informed by normal post of the public inspection process and of the rights of objection and appeal available to them. d. The property owner shall be provided on demand with a copy of the relevant extract from the Land Registry Plan. e. An appeal against a decision made under the objection procedure may be lodged with the cantonal authority, which examines the decision unconditionally. f. A final appeal at the cantonal level may be made to a court as detailed in Article 75 paragraph 2 of the Federal Supreme Court Act of 17 June 2005. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). SR 173.110"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 4 Objection Procedure, Approval and Payment",
+      "section": "29",
+      "title": "Approval by cantons",
+      "content": "1 After completion of the public inspection process and after discharge of first instance objections, the competent cantonal authority approves the cadastral surveying data, the extracts derived from it and, in particular, the Land Registry Plan, independently of any disputes to be resolved by judicial means, provided that: a. the data complies with the technical and quality requirements under federal law; b. if a preliminary examination was carried out the results were favourable; and c. defects noted in any preliminary examination have been corrected. 2 This approval confers the legal evidential value of official public documents on the cadastral surveying work. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Approval by the Confederation",
+      "content": "The Federal Directorate of Cadastral Surveying shall approve the cadastral surveying work, provided that: a. the data complies with the technical and quality requirements under federal law; and b. the surveying work was approved by the canton. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art30bis",
+      "section": "30bis",
+      "title": "",
+      "content": "Inserted by No I of the O of 7 March 2003 ( AS 2003 507 ). Repealed by No I of the O of 21 May 2008, with effect from 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art30a",
+      "chapter": "Section 5",
+      "section": "30a",
+      "title": "a",
+      "content": "1 The Federal Directorate of Cadastral Surveying may authorise pilot projects relating to official cadastral surveying in individual cantons or in specific geographical areas in order to test and develop: a. new processes and competences; b. new technologies; c. new content, and geodata and cartographic specifications. 2 The DDPS shall, with the agreement of the federal authorities concerned, issue in a separate ordinance for the pilot project concerned the provisions that derogate from: a. this Ordinance; b. the GeoIO; c. the Land Register Ordinance of 23 September 2011; d. the Ordinance of 21 May 2008 on Geographical Names; e. the FDJP and DDPS Technical Ordinance of 28 December 2012 on the Land Register. 3 Pilot projects must be for a limited period and must be evaluated. SR 510.620 SR 211.432.1 SR 510.625 SR 211.432.11"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Chapter 5",
+      "section": "31",
+      "title": "Maintenance",
+      "content": "1 The components of official cadastral surveying must be managed so as to guarantee their continued existence, integrity and quality at all times. 2 The DDPS promulgates the technical and organisational requirements for the maintenance of the survey, especially with regard to data security, archiving, metadata and history."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Chapter 5",
+      "section": "32",
+      "title": "",
+      "content": "Repealed by No I of the O of 7 March 2003, with effect from 1 April 2003 ( AS 2003 507 )."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Chapter 5",
+      "section": "33",
+      "title": "",
+      "content": "Repealed"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Chapter 6",
+      "section": "34",
+      "title": "Basic principle",
+      "content": "1 Any person may have access to the data of official cadastral surveying on demand, in accordance with the regulations in Articles 10–13 GeoIA. 2 The canton shall designate the agency which is to be responsible for facilitating access and use and for the supply of extracts and derived products."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Chapter 6",
+      "section": "35",
+      "title": "Description of the extracts and derived products",
+      "content": "Extracts and derived products from official cadastral surveying should be supplied together with the available metadata, including, as a minimum, information on the currency, quality and completeness of the data."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Chapter 6",
+      "section": "36",
+      "title": "Official Cadastral Surveying Interface",
+      "content": "Access to the data of official cadastral surveying is guaranteed, as a minimum in the form of a download service by means of the official cadastral surveying interface."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Chapter 6",
+      "section": "37",
+      "title": "Certified extracts",
+      "content": "1 Extracts from the official data of cadastral surveying in analogue (hard copy) or digital form whose conformance to the definitive data of official cadastral surveying has been authenticated by a registered surveyor are described as certified extracts. 2 Certified extracts are official public documents as defined in Article 9 of the Swiss Civil Code. 3 The DDPS manages the issue of certified extracts in electronic form."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Chapter 6",
+      "section": "38",
+      "title": "Fees for certification",
+      "content": "1 A fixed fee determined by the DDPS is charged for the certification of extracts in addition to the fees for the provision of data. 2 For certification that is not provided at the same time as the supply of data, the fee will be calculated according to the time expended."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Chapter 6",
+      "section": "39",
+      "title": "Supply to federal authorities",
+      "content": "Under the contractual arrangements described in Article 14 paragraph 3 GeoIG, data supplied to the federal authorities by official cadastral surveying is to be charged only in accordance with actual time and associated costs."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Section 1 Direction and Supervision",
+      "section": "40",
+      "title": "Specialist agency of the Confederation",
+      "content": "1 The Federal Directorate of Cadastral Surveying is the competent technical agency of the Confederation. The FDCS is under the direction of a registered surveyor. 2 The FDCS is responsible for the direction and supervision of all aspects of official cadastral surveying. 3 The FDCS ensures the implementation and enforcement of regulations covering the technical and quality requirements for official cadastral surveying. 4 The FDCS also ensures the coordination between official cadastral surveying and other surveying programmes of the Confederation, advises the federal authorities on the acquisition of data for official cadastral surveying, and represents the interests of the Confederation in dealings with the cantons and third parties. 5 In cooperation with the cantonal surveying supervision, the FDCS is entitled to collect data on individual surveying tasks and on the contractors responsible for these. 6 Within the programme agreements, the FDCS will specify: a. which surveying work relates to exceptional national interest; b. which surveying work is regarded as suitable for periodic updating. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Inserted by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Section 1 Direction and Supervision",
+      "section": "41",
+      "title": "",
+      "content": "Repealed by No I of the O of 21 May 2008, with effect from 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Section 2 Cantonal Surveying Supervision",
+      "section": "42",
+      "title": "",
+      "content": "1 The canton designates the agency (surveying supervision service) responsible for the supervision of official cadastral surveying. This agency will be directed by a registered surveyor. 2 The cantonal surveying supervision service manages, supervises and verifies cadastral surveying work and ensures coordination between cadastral surveying and other surveying programmes and geographical information systems. 3 If a canton is unable to fulfil its supervisory role, it may transfer its responsibilities in whole or in part back to the Federal Directorate of Cadastral Surveying, subject to repayment of the costs involved. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ).)."
+    },
+    {
+      "provision_ref": "art42a",
+      "chapter": "Section 2 Cantonal Surveying Supervision",
+      "section": "42a",
+      "title": "a Administrative agreement with the Principality of Liechtenstein",
+      "content": "The DDPS may conclude with the Principality of Liechtenstein a rescindable fixed-term agreement under international law covering the full or partial transfer of the surveying supervision of Liechtenstein to the Federal Directorate of Cadastral Surveying. Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Section 3 Execution of Official Cadastral Surveying",
+      "section": "43",
+      "title": "Responsibility",
+      "content": "1 The canton is responsible for the execution of official cadastral surveying. 2 The canton appoints the agency which is to be responsible for the original and definitive data set of official cadastral surveying. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Section 3 Execution of Official Cadastral Surveying",
+      "section": "44",
+      "title": "Entitlement to execution of the work",
+      "content": "1 The cantons supervise the execution of the work by registered surveyors and other technical staff qualified in surveying, by means of contracts and administrative orders. Article 46 is reserved. 2 The cantons may delegate work on the «control points», «landownership», «local names», «territorial boundaries», «permanent landslip areas (land subject to continuous movement)» and «administrative subdivisions» information layers and the updating and maintenance of official cadastral surveying data only to: a. communes, or other public bodies or legal entities under public law that have their own surveying office under the direction of a registered surveyor; b. registered surveyors. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Section 3 Execution of Official Cadastral Surveying",
+      "section": "45",
+      "title": "Award of contracts",
+      "content": "1 The award of contracts for work such as demarcation, initial survey, renovation, periodic updating and provisional digitising must conform to the regulations on public procurement in force in the canton. 2 Official cadastral surveying work to be carried out in a specific geographical area must be the subject of a public invitation to tender. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Section 3 Execution of Official Cadastral Surveying",
+      "section": "46",
+      "title": "Work on railway property",
+      "content": "1 Railway companies that are subject to the Railways Act of 20 December 1957 are permitted to carry out specified cadastral surveying work on their own land, subject to the agreement of the cantonal surveying supervision and provided that they have their own surveying department under the direction of a registered surveyor. 2 In planning initial surveys, renovation and updating on railway property, railway companies as defined in accordance with paragraph 1 must be consulted. Data for the «control points», «land cover», «single object» and «heights» information layers captured by railway companies in accordance with the principles and requirements of official cadastral surveying will be incorporated therein. 3 The cantons negotiate compensation for the services under paragraphs 1 and 2 with the railway companies. SR 742.101 Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 ). Second sentence amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 )."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Section 1 Programme Agreements",
+      "section": "47",
+      "title": "Subject matter and duration",
+      "content": "1 The subject matter of programme agreements between the Federal Office of Topography and cantons are in particular: a. performance by the canton; b. the contributions paid by the Confederation; c. management controls; d. the details of financial supervision. 2 A programme agreement shall have a duration of four years. Sub-goals may be agreed for a shorter duration. Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 764 )."
+    },
+    {
+      "provision_ref": "art47a",
+      "chapter": "Section 1 Programme Agreements",
+      "section": "47a",
+      "title": "a Reporting and controls",
+      "content": "1 The canton shall submit a report to the Federal Office of Topography each year on the use of the contributions. 2 The Federal Office of Topography shall carry out random checks on: a. the implementation of individual measures in accordance with the programme goals; b. the use of the contributions paid. Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 764 )."
+    },
+    {
+      "provision_ref": "art47b",
+      "chapter": "Section 1 Programme Agreements",
+      "section": "47b",
+      "title": "b Inadequate performance",
+      "content": "1 The Federal Office of Topography shall withhold payment, in whole or in part, of instalments of federal contributions during the programme if the canton: a. does not comply with the reporting requirement (Art. 47 a para. 1); b. is at fault in failing significantly to perform its part of the programme. 2 If it becomes apparent after the programme that performance was inadequate, the Federal Office of Topography shall request the canton to remedy the situation; it shall specify an appropriate period for doing so. 3 If performance is still inadequate after this period, the Federal Office of Topography shall request repayment to cover the value of inadequate performance, together with interest of 5 per cent (Art. 28 para. 2 of the Subsidies Act of 5 October 1990). Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 764 ). SR 616.1"
+    },
+    {
+      "provision_ref": "art47c",
+      "chapter": "Section 2 Federal Contributions",
+      "section": "47c",
+      "title": "c Calculating of the federal contribution",
+      "content": "The rules on calculating the federal contribution to the funding for official cadastral surveying are set out in the Annex. Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 764 )."
+    },
+    {
+      "provision_ref": "art47d",
+      "chapter": "Section 2 Federal Contributions",
+      "section": "47d",
+      "title": "d Allowable costs",
+      "content": "1 Compensation is payable only in respect of costs that are incurred in accordance with the regulations and in the cost-effective execution of the task. 2 The following costs are not allowable: a. the costs of continuous updating and administration; b. costs resulting from additional requirements of the canton; c. the costs of the cantonal surveying supervision service; d. compensation paid to cantonal and communal bodies for their assistance in the work of demarcation and survey; e. the costs of cantonal verification and public inspection procedures; f. compensation for crop damage during surveying work; g. interest on advance payments for demarcation and surveying work; h. additional costs resulting from non-observance by the contracting parties of the relevant regulations or of the terms of the contract; i. the determination of building addresses; j. the costs of correcting discrepancies in accordance with Article 14 a . Inserted by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 764 )."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Section 2 Federal Contributions",
+      "section": "48",
+      "title": "Calculation of allowable costs",
+      "content": "1 For work that was awarded in accordance with the regulations on public procurement, the allowable costs shall correspond to the stipulated price, subject to Article 47 d . 2 For work that was not awarded in accordance with the regulations on public procurement, the canton shall fix the allowable compensation in accordance with current market rates. 3 Compensation fixed by the canton requires the approval of the Confederation. 4 A flat-rate federal contribution may be agreed in the programme agreement instead of the allowable costs. Amended by No I of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ( AS 2022 764 )."
+    },
+    {
+      "provision_ref": "art48a",
+      "chapter": "Section 2 Federal Contributions",
+      "section": "48a",
+      "title": "",
+      "content": "Originally Art. 48 bis . Inserted by No I of the O of 7 March 2003 ( AS 2003 507 ). Repealed by No I of the O of 23 Nov. 2022, with effect from 1 Jan. 2023 ( AS 2022 764 )."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Section 3",
+      "section": "49",
+      "title": "",
+      "content": "The cantons stipulate who is to be responsible for the remaining costs after deduction of the federal contribution. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 )."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Section 1 Repeal of Current Legislation",
+      "section": "50",
+      "title": "Repeal",
+      "content": "The following are repealed: 1. the Instruction of 10 June 1919 on fourth order triangulation; 2. the Instruction of 10 June 1919 on demarcation and surveying of land parcels; 3. the Federal Council Decree of 6 January 1920 on the Repeal of the Federal Council Decree of 17 November 1911 on the payment of federal contributions to the costs of monumentation of traverse points; 4. the Ordinance of 12 May 1971 on Cadastral Surveying. [BS 2 568] [BS 2 592; AS 1980 106 ] [BS 2 658] [ AS 1971 704 , 1991 370 Annex No 2]"
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "51",
+      "title": "Adoption of existing surveys",
+      "content": "1 Provisionally approved surveys must be replaced by an initial survey (resurvey) in accordance with the new regulations. 2 Definitively approved surveys must be renovated subject to the reservation of paragraph 3. 3 The DDPS regulates which definitively approved surveys carried out under the regulations in force before 10 June 1919 must be replaced by initial survey (resurvey) in accordance with the new regulations. 4 In definitively approved surveys based on control point networks that are not in the national coordinate system, the adjustment of the control network to satisfy the new regulations is deemed to be equivalent to an initial survey. 5 Surveys approved in accordance with the provisions of this Ordinance are considered to be valid surveys under the new regulations. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 ). Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "52",
+      "title": "Initial surveys, renovation, surveys in progress",
+      "content": "1 The cantonal cadastral surveying supervision agency determines whether initial surveys and renovations that began less than two years after this Ordinance came into force are to be conducted in accordance with the old or the new regulations. 2 The cantonal cadastral surveying supervision agency decides, in consultation with the Federal Directorate of Cadastral Surveying, whether, and if necessary to what extent, surveys in progress at the time this Ordinance came into force should be completed in accordance with the new regulations."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "53",
+      "title": "Updating of old surveys",
+      "content": "The cantonal surveying supervision agency decides, in consultation with the Federal Directorate of Cadastral Surveying, whether, and if necessary to what extent, surveys carried out under the old regulations should be updated in accordance with the new regulations."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "54",
+      "title": "Continued application of previous law",
+      "content": "For work carried out or continued in accordance with the previous regulations as a result of a cantonal decision under Articles 52 or 53, the Instruction of 10 June 1919 on the demarcation and surveying of land parcels and the Ordinance of 12 May 1971 on Cadastral Surveying continue to apply. [BS 2 592; AS 1980 106 ] [ AS 1971 704 , 1991 370 Annex No 2]"
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "55",
+      "title": "General map",
+      "content": "1 The cantons may decide that original general maps or reproductions therefrom may continue to be drawn up until the cadastral surveying data required for their replacement becomes available. 2 Existing general maps must continue to be updated in areas for which the cadastral surveying data necessary for their replacement is not yet available. 3 The Confederation only pays a share of the costs where no official cadastral surveying data under the new regulations is yet available. Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 )."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Special measures for the preservation of land parcel surveys",
+      "content": "1 The provisional digitisation is considered to be covered under special measures for the preservation of land parcel surveys in accordance with Article 5 paragraph 3 of the Federal Decree of 20 March 1992 on Compensation for Official Cadastral Surveying. 2 Provisional digitising consists of the conversion of a provisionally or definitively approved cadastral surveying under the old regulations into a digital form that does not fully satisfy the requirements of the new cadastral surveying regulations. 3 Provisionally digitised surveys are deemed to be surveys under the old regulations. 4 The DDPS shall specify the requirements for provisional digitising. [ AS 1992 2461 , 1994 1612 . AS 2007 5819 Art. 6]. See today: the Ordinance of the Federal Assembly of 6 Oct. 2006 on the Financing of the National Survey ( SR 211.432.27 ). Amended by No I of the O of 7 March 2003, in force since 1 April 2003 ( AS 2003 507 )."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Transitional provisions to the Amendment of 21 May 2008",
+      "content": "1 Until the contract described in Article 14 paragraph 3 GeoIG comes into force, data supplied to the federal authorities by official cadastral surveying shall be charged only in accordance with actual time and associated costs. 2 For the transitional period up to 31 December 2016, each canton shall define a single planimetric reference system and reference frame to cover the whole area of the canton. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2745 )."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Section 3 Commencement",
+      "section": "58",
+      "title": "",
+      "content": "This Ordinance shall come into force on 1 January 1993."
+    }
+  ],
+  "definitions": []
+}

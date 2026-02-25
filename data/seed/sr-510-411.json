@@ -1,0 +1,188 @@
+{
+  "id": "sr-510-411",
+  "type": "statute",
+  "title": "Verordnung vom 4. Juli 2007 über den Schutz von Informationen des Bundes (Informationsschutzverordnung, ISchV)",
+  "title_en": "Ordinance on the of 4 July 2007 Protection of Federal Information (Information Protection Ordinance, IPO)",
+  "short_name": "ISchV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/414/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Remarks",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "1 This Ordinance regulates the protection of federal and armed forces information to the extent that national interests so require. In particular, it defines its classification and treatment. 2 The specific provisions of other legislation are reserved."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Remarks",
+      "section": "2",
+      "title": "Scope",
+      "content": "This Ordinance applies: a. to the Federal Administration in terms of Article 6 of the Government and the Federal Administration Organisation Ordinance of 25 November 1998; b. to military personnel; c. to the extent stipulated by federal law or accordingly agreed, to organisations and persons under public and private law who process classified information; d. to federal and cantonal courts that process classified information, to the extent stipulated by federal law. SR 172.010.1"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 General Remarks",
+      "section": "3",
+      "title": "Definitions",
+      "content": "In this Ordinance: a. information means recordings on information carriers and oral statements; b. information carriers means information media of any kind, such as documents and carriers of text, picture, sound or other data; intermediary data such as drafts are also regarded as information carriers; c. processing means any activity involving information, regardless of the means used and procedures applied, in particular the compilation, use, processing, copying, making accessible, disclosing, transmitting, taking note of, conservation, archiving and destruction; d. author means a person, administrative unit, command authority or contractor who produces classified information; e. holder of classified information, confidant means a person who has been entrusted with classified information; f. classification means assessing certain information according to the list of classification criteria (Art. 8) and formally marking with a classification label; g. declassification means the cancellation of the classification label for information that is no longer sensitive; h. IT and telecommunication systems means systems and their integrated applications and databases; i. IT security means IT security safeguards confidentiality, availability, integrity and reproducibility in electronic data processing; j. codification means the use of designations and codenames; k. Encryption means state-of-the-art technical transformation of plain text."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Classifications",
+      "section": "4",
+      "title": "Classification levels",
+      "content": "1 Any person who compiles or issues information requiring protection (sensitive information) shall allocate it to one of the following levels of classification according to its degree of sensitivity: a. SECRET; b. CONFIDENTIAL; c. INTERNAL. 2 If information carriers are physically merged to form a collection, consideration must be given as to whether it must be classified or given a higher level of classification."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Classifications",
+      "section": "5",
+      "title": "«SECRET» information",
+      "content": "1 Information is classified as «SECRET» if its disclosure to unauthorised persons may seriously harm national interests. The foregoing applies in particular to information, the disclosure of which may seriously compromise; a. the capacity to act of the Federal Assembly or Federal Council; b. the security of the population; c. the national economic supply or the security of nationally important management facilities and infrastructure; d. fulfilment of the duties of the Federal Administration, the Armed Forces or essential parts thereof; e. Switzerland’s foreign policy interests or international relations; f. the protection of sources or individuals or the secrecy of operational resources and methods of the intelligence services. 2 Carriers of information classified as «SECRET» must be numbered."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Classifications",
+      "section": "6",
+      "title": "«CONFIDENTIAL» information",
+      "content": "1 Information is classified as «CONFIDENTIAL» if its disclosure to unauthorised persons may harm national interests. The foregoing applies in particular to information, the disclosure of which may compromise: a. the free formation of opinions and decision-making of the Federal Assembly or the Federal Council; b. the proper implementation of specific measures by the authorities; c. the security of the population; d. national economic supply or the security of important infrastructure; e. fulfilment of the duties of parts of the Federal Administration or of the Armed Forces; f. Switzerland’s foreign policy interests or international relations; g. relations between Confederation and the cantons or among the cantons themselves; h. Switzerland’s economic, monetary and currency policy interests. 2 Carriers of information classified as «CONFIDENTIAL» may be numbered."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Classifications",
+      "section": "7",
+      "title": "«INTERNAL» information",
+      "content": "1 Information is classified as «INTERNAL»: a. if its disclosure to unauthorised persons may be disadvantageous to national interests; and b. if it need neither be classified as «SECRET» nor «CONFIDENTIAL». 2 Information from abroad that is classified as «RESTRICTED» or equivalent shall be processed as «INTERNAL» information. Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3207 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Classifications",
+      "section": "8",
+      "title": "List of classification criteria",
+      "content": "The General Secretaries Conference shall lay down in a list of classification criteria how certain sensitive federal data that occurs frequently must be classified. Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3207 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Classification subject to a time limit",
+      "content": "Classification must be made subject to a time limit if it can be predicted when it will no longer be sensitive."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 3 Holders of Classified Information",
+      "section": "10",
+      "title": "Requirements",
+      "content": "1 Persons who due to their range of duties are to be granted access to classified information must be: a. carefully selected; b. obliged to observe secrecy; and c. correspondingly trained and specialised. 2 Whether holders of classified information that are to be granted access to «SECRET» or «CONFIDENTIAL» information must undergo a personnel security screening procedure, is governed by the Ordinance of 19. December 2001 on Personnel Security Screening. SR 120.4"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 3 Holders of Classified Information",
+      "section": "11",
+      "title": "Basic and continuing education and training",
+      "content": "The specialist knowledge of holders of classified information pertaining to information protection and IT security must be guaranteed and periodically updated."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 Holders of Classified Information",
+      "section": "12",
+      "title": "Responsibility",
+      "content": "1 Any person who processes classified information is responsible for complying with the regulations on information protection. 2 Superiors shall regularly check compliance with these regulations."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 4 Processing Classified Information",
+      "section": "13",
+      "title": "Principles",
+      "content": "1 Compiling, disclosing and making accessible of classified information must be kept to a minimum; in doing so, the situation, assignment, purpose and time should be taken into account. 2 Classified information may only be disclosed or made accessible to those persons who must know about it. 3 In the case of requests for access to official documents, the relevant authority shall check whether access should be granted, restricted, postponed or refused in accordance with the Federal Act of 17 December 2004 on Freedom of Information in the Administration, regardless of any classification. 4 Processing of information from abroad is governed by the relevant information protection agreement. If such an agreement does not exist, the information is processed according to the Swiss classification level that is equivalent to its classification level abroad. SR 152.3"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 4 Processing Classified Information",
+      "section": "14",
+      "title": "Evaluation of protection requirement and recipients",
+      "content": "The author of «SECRET» information or «CONFIDENTIAL» information that is numbered shall check its sensitivity and its recipients every five years at least and always with due regard to the obligation to offer to the Federal Archives."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 4 Processing Classified Information",
+      "section": "15",
+      "title": "Protection in the case of incorrect or missing classification",
+      "content": "1 Any person who suspects or establishes that information has obviously been incorrectly or mistakenly not classified must ensure its protection until its classification has been changed. 2 He or she shall immediately inform the author, who shall immediately take the necessary measures."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 4 Processing Classified Information",
+      "section": "16",
+      "title": "Reporting in the event of loss, abuse or risk",
+      "content": "1 Any person who discovers that classified information is at risk, has been lost or misused shall take protective measures and inform without delay his or her superior, the author and the relevant security bodies. 2 In agreement with the security bodies, the author shall immediately take the necessary measures."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 4 Processing Classified Information",
+      "section": "17",
+      "title": "Archiving",
+      "content": "Classified information is archived according to the legislation on archiving."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 4 Processing Classified Information",
+      "section": "18",
+      "title": "Processing regulations",
+      "content": "1 The processing of classified information and the handling of related information carriers is regulated in the Annex. 2 The General Secretaries Conference issues regulations on processing. 3 It regulates simplified handling of information by the intelligence services and the police according to their requirements; in doing so, it shall preserve adequate protection of information in accordance with this Ordinance. 4 The processing of information classified as «SECRET» in the joint reporting procedure under Article 15 of the Government and Administration Organisation Act of 21 March 1997 is regulated by the Federal Chancellery; in doing so, it shall provide adequate information protection in accordance with this Ordinance. Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3207 ). Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3207 ). Inserted by No I of the Ordinance of 29 Oct. 2014, in force since 1 Jan. 2015 ( AS 2014 3543 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 5 Security Bodies",
+      "section": "19",
+      "title": "Information protection delegate",
+      "content": "1 The Departments and the Federal Chancellery shall each appoint an information protection delegate. 2 The information protection delegates have the following tasks in particular: a. They ensure compliance with information protection in their area of responsibility. b. They periodically check the presence and completeness of information carriers that are classified as SECRET."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 5 Security Bodies",
+      "section": "20",
+      "title": "Coordination Committee for Federal Information Protection",
+      "content": "1 The information protection delegates of the Departments and the Federal Chancellery form the Coordination Committee for Federal Information Protection (Coordination Committee). 2 The Coordination Committee has the following tasks: a. It prepares for the General Secretaries Conference a list of classification criteria, handling regulations and regulations for simplified handling of information by the intelligence services and the police. b. It ensures a uniform information protection practice within the Confederation. c. It coordinates its activities with the IT Security Committee. d. It guarantees the provision of the information to the General Secretaries Conference. e. Every two years, it reports to the General Secretaries Conference on strategic concerns of the Information Protection Report. f. It may consult other services. 3 In agreement with the Departments and the Federal Chancellery, it draws up business regulations for itself and the Coordination Agency. Amended by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3207 ). Amended by No I of the Ordinance of 1 May 2013, in force since 1 June 2013 ( AS 2013 1341 )."
+    },
+    {
+      "provision_ref": "art20a",
+      "chapter": "Section 5 Security Bodies",
+      "section": "20a",
+      "title": "a Coordination Agency for Federal Information Protection",
+      "content": "1 The Coordination Committee is supported by the Coordination Agency. The latter has the following tasks: a. It manages the secretariat of the Coordination Committee. b. It is the central point of contact for domestic, foreign and international agencies concerned with information protection. c. It supports the information protection delegates of the Departments and the Federal Chancellery in its field. d. It creates the necessary training aids. e. It may carry out the security inspections required by international treaties and further checks in consultation with the Departments and the Federal Chancellery. 2 The Coordination Agency is assigned in administrative terms to the General Secretariat of the Federal Department of Defence, Civil Protection and Sport. Inserted by No I of the Ordinance of 30 June 2010, in force since 1 Aug.. 2010 ( AS 2010 3207 ). Amended by Annex No 2 of the Ordinance of 3 June 2016, in force since 1 July 2016 ( AS 2016 1785 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 6 Final Provisions",
+      "section": "21",
+      "title": "Implementation",
+      "content": "The Departments and the Federal Chancellery shall implement this Ordinance."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 6 Final Provisions",
+      "section": "22",
+      "title": "Repeal and amendment of current law",
+      "content": "1 The following are repealed: a. Ordinance of 10 December 1990 on the Classification and Handling of Information from the Civilian Administrative Sector; b. Ordinance of the Federal Department of Defence of 1 May 1990 on the Protection of Military Information (Information Protection Ordinance). 2 ... [ AS 1991 44 , 1999 2424 Art. 27 No 1] [ AS 1990 887 , 1999 2424 Art. 27 No 3] These amendments may be consulted under AS 2007 3401 ."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 6 Final Provisions",
+      "section": "23",
+      "title": "Transitional provisions",
+      "content": "1 The classification «INTERNAL» may only be applied to information carriers that are created after this Ordinance comes into force. 2 Technical adjustments to ensure the protection of information, in particular concerning its classification and handling, must be carried out by 31 December 2009."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 6 Final Provisions",
+      "section": "24",
+      "title": "Commencement",
+      "content": "1 This Ordinance comes into force on 1 August 2007 and is valid until 31 December 2011 at the latest. 2 The period of validity of this Ordinance is extended until 31 December 2014. 3 The period of validity of this Ordinance is extended until 31 December 2017. 4 The period of validity of this Ordinance is extended until 31 December 2020. 5 The period of validity of this Ordinance is extended until 31 December 2023. Inserted by No I of the Ordinance of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3207 ). Inserted by No I of the Ordinance of 29 Oct. 2014, in force since 1 Jan. 2015 ( AS 2014 3543 ). Inserted by No I of the Ordinance of 1 Dec. 2017, in force since 1 Jan. 2018 ( AS 2017 7391 ). Inserted by No I of the Ordinance of 25 Nov. 2020, in force since 1 Jan. 2021 ( AS 2020 6011 )."
+    }
+  ],
+  "definitions": []
+}

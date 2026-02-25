@@ -1,0 +1,385 @@
+{
+  "id": "sr-312-1",
+  "type": "statute",
+  "title": "Schweizerische Jugendstrafprozessordnung vom 20. März 2009 (Jugendstrafprozessordnung, JStPO)",
+  "title_en": "",
+  "short_name": "JStPO",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Gegenstand und Grundsätze",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Dieses Gesetz regelt die Verfolgung und Beurteilung der Straftaten nach Bundesrecht, die von Jugendlichen im Sinne von Artikel 3 Absatz 1 des Jugendstrafgesetzes vom 20. Juni 2003 (JStG) verübt worden sind, sowie den Vollzug der gegen sie verhängten Sanktionen. SR 311.1"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Gegenstand und Grundsätze",
+      "section": "2",
+      "title": "Zuständigkeit",
+      "content": "Für die Verfolgung und Beurteilung der Straftaten sowie den Vollzug der verhängten Sanktionen sind ausschliesslich die Kantone zuständig."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Gegenstand und Grundsätze",
+      "section": "3",
+      "title": "Anwendbarkeit der Strafprozessordnung",
+      "content": "1 Enthält dieses Gesetz keine besondere Regelung, so sind die Bestimmungen der Strafprozessordnung vom 5. Oktober 2007 (StPO) anwendbar. 2 Nicht anwendbar sind die Bestimmungen der StPO über: a. die Übertretungsstrafbehörden und das Übertretungsstrafverfahren (Art. 17 und 357); b. die Bundesgerichtsbarkeit (Art. 23–28); c. den Gerichtsstand (Art. 31 und 32) und die besonderen Gerichtsstände im Falle mehrerer Beteiligter (Art. 33) und bei mehreren an verschiedenen Orten verübten Straftaten (Art. 34); d. das abgekürzte Verfahren (Art. 358–362); e. das Verfahren bei Anordnung der Friedensbürgschaft (Art. 372 und 373); f. das Verfahren bei einer schuldunfähigen beschuldigten Person (Art. 374 und 375). 3 Kommt die Strafprozessordnung zur Anwendung, so sind deren Bestimmungen im Lichte der Grundsätze von Artikel 4 dieses Gesetzes auszulegen. SR 312.0"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Kapitel: Gegenstand und Grundsätze",
+      "section": "4",
+      "title": "Grundsätze",
+      "content": "1 Für die Anwendung dieses Gesetzes sind der Schutz und die Erziehung der Jugendlichen wegleitend. Alter und Entwicklungsstand sind angemessen zu berücksichtigen. 2 Die Strafbehörden achten in allen Verfahrensstadien die Persönlichkeitsrechte der Jugendlichen und ermöglichen ihnen, sich aktiv am Verfahren zu beteiligen. Vorbehältlich besonderer Verfahrensvorschriften hören sie die Jugendlichen persönlich an. 3 Sie sorgen dafür, dass das Strafverfahren nicht mehr als nötig in das Privatleben der Jugendlichen und in den Einflussbereich ihrer gesetzlichen Vertretung eingreift. 4 Sie beziehen, wenn es angezeigt scheint, die gesetzliche Vertretung und die Behörde des Zivilrechts ein."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Kapitel: Gegenstand und Grundsätze",
+      "section": "5",
+      "title": "Verzicht auf Strafverfolgung",
+      "content": "1 Die Untersuchungsbehörde, die Jugendstaatsanwaltschaft und das Gericht sehen von der Strafverfolgung ab, wenn: a. die Voraussetzungen für eine Strafbefreiung nach Artikel 21 JStG gegeben und Schutzmassnahmen entweder nicht notwendig sind oder die Behörde des Zivilrechts bereits geeignete Massnahmen angeordnet hat; oder b. ein Vergleich oder eine Mediation erfolgreich abgeschlossen werden konnte. 2 Im Übrigen ist Artikel 8 Absätze 2–4 StPO anwendbar. SR 311.1 SR 312.0"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Kapitel: Jugendstrafbehörden",
+      "section": "6",
+      "title": "Strafverfolgungsbehörden",
+      "content": "1 Strafverfolgungsbehörden sind: a. die Polizei; b. die Untersuchungsbehörde; c. die Jugendstaatsanwaltschaft, sofern der Kanton eine solche Behörde vorsehen muss (Art. 21). 2 Die Kantone bezeichnen als Untersuchungsbehörde: a. eine oder mehrere Jugendrichterinnen oder einen oder mehrere Jugendrichter; oder b. eine oder mehrere Jugendanwältinnen oder einen oder mehrere Jugendanwälte. 3 Die Jugendrichterinnen und Jugendrichter sind Mitglieder des Jugendgerichts. Im Übrigen bleiben die Bestimmungen über die Ablehnung (Art. 9) und den Ausstand (Art. 56–60 StPO) vorbehalten. 4 Die Jugendanwältinnen und Jugendanwälte vertreten vor dem Jugendgericht die Anklage. SR 312.0"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Kapitel: Jugendstrafbehörden",
+      "section": "7",
+      "title": "Gerichte",
+      "content": "1 Gerichtliche Befugnisse im Jugendstrafverfahren haben: a. das Zwangsmassnahmengericht; b. das Jugendgericht; c. die Beschwerdeinstanz in Jugendstrafsachen; d. die Berufungsinstanz in Jugendstrafsachen. 2 Das Jugendgericht setzt sich zusammen aus dem Präsidenten oder der Präsidentin und zwei Beisitzerinnen oder Beisitzern. 3 Die Kantone können die Befugnisse der Beschwerdeinstanz der Berufungsinstanz übertragen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Kapitel: Jugendstrafbehörden",
+      "section": "8",
+      "title": "Organisation",
+      "content": "1 Die Kantone regeln Wahl, Zusammensetzung, Organisation, Aufsicht und Befugnisse der Jugendstrafbehörden, soweit dieses Gesetz oder andere Bundesgesetze dies nicht abschliessend regeln. 2 Die Kantone können interkantonal zuständige Jugendstrafbehörden vorsehen. 3 Sie können Ober- oder Generaljugendanwaltschaften vorsehen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Kapitel: Allgemeine Verfahrensregeln",
+      "section": "9",
+      "title": "Ablehnung",
+      "content": "1 Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung können innert zehn Tagen seit Eröffnung des Strafbefehls (Art. 32) beziehungsweise Zustellung der Anklageschrift (Art. 33) verlangen, dass die Jugendrichterin oder der Jugendrichter, die oder der bereits die Untersuchung geführt hat, im Hauptverfahren nicht mitwirkt. Die Ablehnung bedarf keiner Begründung. 2 Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung werden im Strafbefehl oder in der Anklageschrift auf dieses Ablehnungsrecht aufmerksam gemacht."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Kapitel: Allgemeine Verfahrensregeln",
+      "section": "10",
+      "title": "Gerichtsstand",
+      "content": "1 Für die Strafverfolgung ist die Behörde des Ortes zuständig, an dem die oder der beschuldigte Jugendliche bei Eröffnung des Verfahrens den gewöhnlichen Aufenthalt hat. Für die Strafverfolgung im Bereich des Ordnungsbussenverfahrens ist die Behörde des Ortes zuständig, an dem die Straftat begangen worden ist. 2 Fehlt ein gewöhnlicher Aufenthalt in der Schweiz, so ist folgende Behörde zuständig: a. bei Taten im Inland die Behörde des Ortes, an dem die Straftat begangen worden ist; b. bei Taten im Ausland die Behörde des Heimatortes oder, für die ausländische Jugendliche oder den ausländischen Jugendlichen, die Behörde des Ortes, wo sie oder er wegen der Tat erstmals angehalten wurde. 3 Die Behörde des Ortes, an dem die Straftat begangen worden ist, nimmt die dringend notwendigen Ermittlungshandlungen vor. 4 Die zuständige schweizerische Behörde kann auf Ersuchen der ausländischen Behörde die Strafverfolgung übernehmen, wenn: a. die oder der Jugendliche den gewöhnlichen Aufenthalt in der Schweiz hat oder das Schweizer Bürgerrecht besitzt; b. die oder der Jugendliche im Ausland eine auch nach schweizerischem Recht strafbare Tat begangen hat; und c. die Voraussetzungen für die Strafverfolgung nach den Artikeln 4–7 des Strafgesetzbuches (StGB) nicht erfüllt sind. 5 Die zuständige Behörde wendet bei der Strafverfolgung nach Absatz 4 sowie nach den Artikeln 4–7 StGB ausschliesslich schweizerisches Recht an. 6 Für den Vollzug ist die Behörde am Ort der Beurteilung zuständig; abweichende Bestimmungen in Verträgen zwischen den Kantonen bleiben vorbehalten. 7 Kompetenzkonflikte zwischen den Kantonen entscheidet das Bundesstrafgericht. Zweiter Satz eingefügt durch Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ( AS 2023 468 ; BBl 2019 6697 ). Fassung gemäss Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ( AS 2023 468 ; BBl 2019 6697 ). Fassung gemäss Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ( AS 2023 468 ; BBl 2019 6697 ). SR 311.0"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Kapitel: Allgemeine Verfahrensregeln",
+      "section": "11",
+      "title": "Trennung von Verfahren",
+      "content": "1 Verfahren gegen Erwachsene und Jugendliche werden getrennt geführt. 2 Auf die Trennung kann ausnahmsweise verzichtet werden, wenn die Untersuchung durch die Trennung erheblich erschwert würde."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Mitwirkung der gesetzlichen Vertretung",
+      "content": "1 Die gesetzliche Vertretung und die Behörde des Zivilrechts haben im Verfahren mitzuwirken, wenn die Jugendstrafbehörde dies anordnet. 2 Bei Nichtbefolgung kann die Untersuchungsbehörde oder das Jugendgericht die gesetzliche Vertretung verwarnen, bei der Behörde des Zivilrechts anzeigen oder ihr eine Ordnungsbusse bis zu 1000 Franken auferlegen. Der Bussenentscheid kann bei der Beschwerdeinstanz angefochten werden."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Vertrauensperson",
+      "content": "Die oder der beschuldigte Jugendliche kann in allen Verfahrensstadien eine Vertrauensperson beiziehen, sofern die Interessen der Untersuchung oder überwiegende private Interessen einem solchen Beizug nicht entgegenstehen."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Ausschluss der Öffentlichkeit",
+      "content": "1 Das Strafverfahren findet unter Ausschluss der Öffentlichkeit statt. Die Untersuchungsbehörde und die Gerichte können die Öffentlichkeit in geeigneter Weise über den Stand des Verfahrens informieren. 2 Das Jugendgericht und die Berufungsinstanz können eine öffentliche Verhandlung anordnen, wenn: a. die oder der urteilsfähige beschuldigte Jugendliche oder die gesetzliche Vertretung dies verlangt oder das öffentliche Interesse es gebietet; und b. dies den Interessen der oder des beschuldigten Jugendlichen nicht zuwiderläuft."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Umfang der Akteneinsicht",
+      "content": "1 Die Einsicht in Informationen über die persönlichen Verhältnisse der oder des beschuldigten Jugendlichen kann in ihrem oder seinem Interesse eingeschränkt werden für: a. sie oder ihn selber; b. die gesetzliche Vertretung; c. die Privatklägerschaft; d. die Behörde des Zivilrechts. 2 Die Verteidigung und die Jugendstaatsanwaltschaft können die gesamten Akten einsehen. Sie dürfen von Inhalten, in welche die Einsicht eingeschränkt ist, keine Kenntnis geben."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Vergleich und Wiedergutmachung",
+      "content": "Die Untersuchungsbehörde und das Jugendgericht können versuchen: a. zwischen der geschädigten Person und der oder dem beschuldigten Jugendlichen einen Vergleich zu erreichen, soweit Antragsdelikte Gegenstand des Verfahrens sind; oder b. eine Wiedergutmachung zu erzielen, sofern eine Strafbefreiung nach Artikel 21 Absatz 1 Buchstabe c JStG in Frage kommt. SR 311.1"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Mediation",
+      "content": "1 Die Untersuchungsbehörde und die Gerichte können das Verfahren jederzeit sistieren und eine auf dem Gebiet der Mediation geeignete Organisation oder Person mit der Durchführung eines Mediationsverfahrens beauftragen, wenn: a. Schutzmassnahmen nicht notwendig sind oder die Behörde des Zivilrechts bereits geeignete Massnahmen angeordnet hat; b. die Voraussetzungen von Artikel 21 Absatz 1 JStG nicht erfüllt sind. 2 Gelingt die Mediation, so wird das Verfahren eingestellt. SR 311.1"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "1. Abschnitt: Parteien",
+      "section": "18",
+      "title": "Begriff",
+      "content": "Parteien sind: a. die oder der beschuldigte Jugendliche; b. die gesetzliche Vertretung der oder des beschuldigten Jugendlichen; c. die Privatklägerschaft; d. im Haupt- und im Rechtsmittelverfahren: die Jugendanwältin oder der Jugendanwalt beziehungsweise die Jugendstaatsanwaltschaft."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "1. Abschnitt: Parteien",
+      "section": "19",
+      "title": "Beschuldigte Jugendliche oder beschuldigter Jugendlicher",
+      "content": "1 Die oder der beschuldigte Jugendliche handelt durch die gesetzliche Vertretung. 2 Urteilsfähige beschuldigte Jugendliche können ihre Parteirechte selbstständig wahrnehmen. 3 Die Behörde kann das Recht der oder des beschuldigten Jugendlichen auf Teilnahme an bestimmten Verfahrenshandlungen mit Rücksicht auf Alter und ungestörte Entwicklung beschränken. Diese Beschränkungen gelten nicht für die Verteidigung."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "1. Abschnitt: Parteien",
+      "section": "20",
+      "title": "Privatklägerschaft",
+      "content": "1 Die Privatklägerschaft kann an der Untersuchung teilnehmen, wenn dies den Interessen der oder des beschuldigten Jugendlichen nicht zuwiderläuft. 2 Sie nimmt an der Hauptverhandlung nicht teil, ausser wenn besondere Umstände es erfordern."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "1. Abschnitt: Parteien",
+      "section": "21",
+      "title": "Jugendstaatsanwaltschaft",
+      "content": "Wird die Untersuchung durch eine Jugendrichterin oder einen Jugendrichter geführt, so sieht der Kanton eine Jugendstaatsanwaltschaft vor. Die Jugendstaatsanwaltschaft: a. erhebt Anklage vor dem Jugendgericht; b. kann an der Hauptverhandlung vor dem Jugendgericht und vor der Berufungsinstanz teilnehmen; sie ist dazu verpflichtet, wenn das Gericht sie dazu auffordert; c. kann gegen Urteile des Jugendgerichts Berufung einlegen; d. vertritt die Anklage vor der Berufungsinstanz; e. nimmt jene Aufgaben wahr, welche ihr das kantonale Recht überträgt."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "1. Abschnitt: Parteien",
+      "section": "22",
+      "title": "Ober- oder Generaljugendanwaltschaft",
+      "content": "Sieht das kantonale Recht eine Ober- oder Generaljugendanwaltschaft vor, so sind die Artikel 322 Absatz 1, 354 Absatz 1 Buchstabe c und 381 Absatz 2 StPO sinngemäss anwendbar. SR 312.0"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Abschnitt: Verteidigung",
+      "section": "23",
+      "title": "Wahlverteidigung",
+      "content": "Die oder der urteilsfähige beschuldigte Jugendliche sowie die gesetzliche Vertretung können eine Anwältin oder einen Anwalt mit der Verteidigung betrauen ."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "2. Abschnitt: Verteidigung",
+      "section": "24",
+      "title": "Notwendige Verteidigung",
+      "content": "Die oder der Jugendliche muss verteidigt werden, wenn: a. ihr oder ihm ein Freiheitsentzug von mehr als einem Monat oder eine Unterbringung droht; b. sie oder er die eigenen Verfahrensinteressen nicht ausreichend wahren kann und auch die gesetzliche Vertretung dazu nicht in der Lage ist; c. die Untersuchungs- oder Sicherheitshaft mehr als 24 Stunden gedauert hat; d. sie oder er vorsorglich in einer Einrichtung untergebracht worden ist; e. die Jugendanwältin oder der Jugendanwalt beziehungsweise die Jugendstaatsanwaltschaft an der Hauptverhandlung persönlich auftritt."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "2. Abschnitt: Verteidigung",
+      "section": "25",
+      "title": "Amtliche Verteidigung",
+      "content": "1 Die zuständige Behörde ordnet eine amtliche Verteidigung an, wenn bei notwendiger Verteidigung: a. die oder der beschuldigte Jugendliche oder die gesetzliche Vertretung trotz Aufforderung keine Wahlverteidigung bestimmt; b. der Wahlverteidigung das Mandat entzogen wurde oder sie es niedergelegt hat und die oder der beschuldigte Jugendliche oder die gesetzliche Vertretung nicht innert Frist eine neue Wahlverteidigung bestimmt; oder c. die oder der beschuldigte Jugendliche und die gesetzliche Vertretung nicht über die erforderlichen Mittel verfügen. 2 Die Entschädigung der amtlichen Verteidigung richtet sich nach Artikel 135 StPO. Zur Rückerstattung im Sinne von Artikel 135 Absatz 4 StPO können im Rahmen ihrer Unterhaltspflicht auch die Eltern verpflichtet werden. SR 312.0"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen",
+      "section": "26",
+      "title": "Zuständigkeit",
+      "content": "1 Die Untersuchungsbehörde ist zuständig zur Anordnung: a. jener Zwangsmassnahmen, die gemäss den Bestimmungen der StPO durch die Staatsanwaltschaft angeordnet werden können; b. der Untersuchungshaft; c. der vorsorglichen Schutzmassnahmen nach den Artikeln 12–15 und 16 a JStG; d. der Beobachtung im Sinne von Artikel 9 JStG. 2 Das Zwangsmassnahmengericht ist zuständig zur Anordnung oder Genehmigung der übrigen Zwangsmassnahmen. 3 Ist der Straffall beim Gericht hängig, so ist dieses für die Anordnung der gesetzlich vorgesehenen Zwangsmassnahmen zuständig. SR 312.0 Fassung gemäss Anhang Ziff. 2 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ( AS 2014 2055 ; BBl 2012 8819 ). SR 311.1"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen",
+      "section": "27",
+      "title": "Untersuchungs- und Sicherheitshaft",
+      "content": "1 Untersuchungs- und Sicherheitshaft werden nur in Ausnahmefällen und erst nach Prüfung sämtlicher Möglichkeiten von Ersatzmassnahmen angeordnet. 2 Soll die Untersuchungshaft länger als sieben Tage dauern, so stellt die Untersuchungsbehörde spätestens am siebten Tag ein Verlängerungsgesuch an das Zwangsmassnahmengericht. Dieses entscheidet unverzüglich, spätestens aber innert 48 Stunden nach Eingang des Gesuchs. Das Verfahren richtet sich nach den Artikeln 225 und 226 StPO. 3 Das Zwangsmassnahmengericht kann die Untersuchungshaft mehrmals verlängern, jedoch jeweils um höchstens einen Monat. Das Verfahren richtet sich nach Artikel 227 StPO. 4 Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung können bei der Behörde, welche die Haft angeordnet hat, jederzeit die Entlassung beantragen. Das Verfahren richtet sich nach Artikel 228 StPO. 5 Die Anfechtbarkeit der Entscheide des Zwangsmassnahmengerichts richtet sich nach Artikel 222 StPO. SR 312.0"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen",
+      "section": "28",
+      "title": "Vollzug der Untersuchungs- und Sicherheitshaft",
+      "content": "1 Untersuchungs- und Sicherheitshaft werden in einer für Jugendliche reservierten Einrichtung oder in einer besonderen Abteilung einer Haftanstalt vollzogen, wo die Jugendlichen von erwachsenen Inhaftierten getrennt sind. Eine angemessene Betreuung ist sicherzustellen. 2 Die Jugendlichen können auf ihr Gesuch hin einer Beschäftigung nachgehen, wenn das Verfahren dadurch nicht beeinträchtigt wird und die Verhältnisse der Einrichtung oder der Haftanstalt es erlauben. 3 Für den Vollzug können private Einrichtungen beigezogen werden."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen",
+      "section": "29",
+      "title": "Vorsorgliche Anordnung von Schutzmassnahmen und Anordnung der Beobachtung",
+      "content": "1 Die vorsorglichen Schutzmassnahmen und die Beobachtung werden schriftlich angeordnet und begründet. 2 Die stationäre Beobachtung ist angemessen auf die Strafe anzurechnen. Für den Vollzug ist Artikel 16 JStG sinngemäss anwendbar. SR 311.1"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "1. Abschnitt: Untersuchung",
+      "section": "30",
+      "title": "Untersuchungsbehörde",
+      "content": "1 Die Untersuchungsbehörde leitet die Strafverfolgung und nimmt alle zur Wahrheitsfindung notwendigen Untersuchungshandlungen vor. 2 Während der Untersuchung hat sie die Befugnisse und Aufgaben, die nach der StPO in diesem Verfahrensstadium der Staatsanwaltschaft zukommen. SR 312.0"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "1. Abschnitt: Untersuchung",
+      "section": "31",
+      "title": "Zusammenarbeit",
+      "content": "1 Bei der Abklärung der persönlichen Verhältnisse der oder des beschuldigten Jugendlichen arbeitet die Untersuchungsbehörde mit allen Instanzen der Straf- und Zivilrechtspflege, mit den Verwaltungsbehörden, mit öffentlichen und privaten Einrichtungen und mit Personen aus dem medizinischen und sozialen Bereich zusammen; sie holt bei ihnen die nötigen Auskünfte ein. 2 Diese Instanzen, Einrichtungen und Personen sind verpflichtet, die verlangten Auskünfte zu erteilen; das Berufsgeheimnis bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "2. Abschnitt: Strafbefehlsverfahren",
+      "section": "32",
+      "title": "",
+      "content": "1 Die Untersuchungsbehörde schliesst die Untersuchung ab und erlässt einen Strafbefehl, wenn die Beurteilung der Straftat nicht in die Zuständigkeit des Jugendgerichts fällt. 2 Die oder der beschuldigte Jugendliche kann vor Erlass des Strafbefehls einvernommen werden. 3 Die Untersuchungsbehörde kann im Strafbefehl auch über Zivilforderungen entscheiden, sofern deren Beurteilung ohne besondere Untersuchung möglich ist. 4 Der Strafbefehl wird eröffnet: a. der oder dem urteilsfähigen beschuldigten Jugendlichen und der gesetzlichen Vertretung; b. der Privatklägerschaft und den anderen Verfahrensbeteiligten, soweit ihre Anträge behandelt werden; c. der Jugendstaatsanwaltschaft, sofern das kantonale Recht dies vorsieht. 5 Gegen den Strafbefehl können bei der Untersuchungsbehörde innert 10 Tagen schriftlich Einsprache erheben: a. die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung; b. die Privatklägerschaft; c. weitere Verfahrensbeteiligte, soweit sie in ihren Interessen betroffen sind; d. die Jugendstaatsanwaltschaft, sofern das kantonale Recht dies vorsieht. 5bis Die Privatklägerschaft kann einen Strafbefehl hinsichtlich der ausgesprochenen Sanktion nicht anfechten. 6 Im Übrigen richtet sich das Verfahren nach den Artikeln 352–356 StPO. Fassung gemäss Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ( AS 2023 468 ; BBl 2019 6697 ). Eingefügt durch Anhang 1 Ziff. 6 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ( AS 2023 468 ; BBl 2019 6697 ). SR 312.0"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "3. Abschnitt: Anklageerhebung",
+      "section": "33",
+      "title": "",
+      "content": "1 Die zuständige Behörde erhebt Anklage vor dem Jugendgericht, wenn sie den Sachverhalt und die persönlichen Verhältnisse der oder des beschuldigten Jugendlichen als hinreichend geklärt erachtet und kein Strafbefehl erlassen wurde. 2 Für die Anklageerhebung zuständig ist: a. wenn die Untersuchung durch eine Jugendrichterin oder einen Jugendrichter geführt wurde: die Jugendstaatsanwaltschaft; b. wenn die Untersuchung durch eine Jugendanwältin oder einen Jugendanwalt geführt wurde: die Jugendanwältin oder der Jugendanwalt. 3 Die zuständige Behörde stellt die Anklageschrift zu: a. der oder dem beschuldigten Jugendlichen und der gesetzlichen Vertretung; b. der Privatklägerschaft; c. dem Jugendgericht, mitsamt den Akten sowie den beschlagnahmten Gegenständen und Vermögenswerten."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "4. Abschnitt: Hauptverhandlung",
+      "section": "34",
+      "title": "Zuständigkeit",
+      "content": "1 Das Jugendgericht beurteilt als erste Instanz alle Straftaten, für die in Frage kommt: a. eine Unterbringung; b. eine Busse von mehr als 1000 Franken; c. ein Freiheitsentzug von mehr als drei Monaten. 2 Es beurteilt Anklagen im Anschluss an Einsprachen gegen Strafbefehle. 3 Die Kantone, welche Jugendanwältinnen oder Jugendanwälte als Untersuchungsbehörde bezeichnen, können vorsehen, dass die Präsidentin oder der Präsident des Jugendgerichts Anklagen im Anschluss an Einsprachen gegen Strafbefehle beurteilt, welche Übertretungen zum Gegenstand haben. 4 Fällt eine Straftat nach Auffassung des Jugendgerichts in die Zuständigkeit der Untersuchungsbehörde, so kann das Jugendgericht die Straftat selbst beurteilen oder den Fall der Untersuchungsbehörde zum Erlass eines Strafbefehls überweisen. 5 Ist der Straffall bei ihm hängig, so ist das Jugendgericht für die Anordnung der gesetzlich vorgesehenen Zwangsmassnahmen zuständig. 6 Das Jugendgericht kann auch über Zivilforderungen entscheiden, sofern deren Beurteilung ohne besondere Untersuchung möglich ist."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "4. Abschnitt: Hauptverhandlung",
+      "section": "35",
+      "title": "Persönliches Erscheinen und Ausschluss",
+      "content": "1 Die oder der beschuldigte Jugendliche und die gesetzliche Vertretung haben an der Hauptverhandlung vor dem Jugendgericht und der Berufungsinstanz persönlich zu erscheinen, wenn sie nicht davon dispensiert worden sind. 2 Das Gericht kann die oder den Jugendlichen, die gesetzliche Vertretung und die Vertrauensperson von der Hauptverhandlung ganz oder teilweise ausschliessen, sofern überwiegende private oder öffentliche Interessen dies rechtfertigen."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "4. Abschnitt: Hauptverhandlung",
+      "section": "36",
+      "title": "Abwesenheitsverfahren",
+      "content": "Das Abwesenheitsverfahren ist nur möglich, wenn: a. die oder der beschuldigte Jugendliche trotz zweimaliger Vorladung nicht zur Hauptverhandlung erscheint; b. sie oder er durch die Untersuchungsbehörde einvernommen worden ist; c. die Beweislage ein Urteil in ihrer Abwesenheit zulässt; und d. einzig eine Strafe in Betracht kommt."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "4. Abschnitt: Hauptverhandlung",
+      "section": "37",
+      "title": "Urteilseröffnung und -begründung",
+      "content": "1 Das Urteil ist nach Möglichkeit mündlich zu eröffnen und zu begründen. 2 Das Gericht händigt den Parteien und den anderen Verfahrensbeteiligten am Ende der Hauptverhandlung das Urteilsdispositiv aus oder stellt es ihnen innert fünf Tagen zu. 3 Das Urteil wird schriftlich begründet und zugestellt: a. der oder dem urteilsfähigen beschuldigten Jugendlichen und der gesetzlichen Vertretung; b. der Jugendanwältin oder dem Jugendanwalt beziehungsweise der Jugendstaatsanwaltschaft; c. der Privatklägerschaft und den anderen Verfahrensbeteiligten, soweit ihre Anträge behandelt werden. 4 Das Gericht kann auf eine schriftliche Begründung verzichten, wenn: a. es das Urteil mündlich begründet; und b. keinen Freiheitsentzug und keine Schutzmassnahme verhängt hat. 5 Das Gericht stellt den Parteien nachträglich ein begründetes Urteil zu, wenn: a. eine Partei dies innert zehn Tagen nach Zustellung des Dispositivs verlangt; b. eine Partei ein Rechtsmittel ergreift. 6 Ergreift nur die Privatklägerschaft ein Rechtsmittel, so begründet das Gericht das Urteil nur insoweit, als dieses sich auf das strafbare Verhalten zum Nachteil der Privatklägerschaft oder auf deren Zivilansprüche bezieht."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "7. Kapitel: Rechtsmittel",
+      "section": "38",
+      "title": "Legitimation",
+      "content": "1 Zum Ergreifen von Rechtsmitteln sind legitimiert: a. die oder der urteilsfähige Jugendliche; und b. die gesetzliche Vertretung oder, wo diese fehlt, die Behörde des Zivilrechts. 2 Das Recht zur Berufung steht jener Behörde zu, die vor dem Jugendgericht die Anklage vertreten hat. 3 Im Übrigen ist Artikel 382 StPO anwendbar. SR 312.0"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "7. Kapitel: Rechtsmittel",
+      "section": "39",
+      "title": "Beschwerde",
+      "content": "1 Die Zulässigkeit der Beschwerde und die Beschwerdegründe richten sich nach Artikel 393 StPO. 2 Die Beschwerde ist überdies zulässig gegen: a. die vorsorgliche Anordnung von Schutzmassnahmen; b. die Anordnung der Beobachtung; c. den Entscheid über die Einschränkung der Akteneinsicht; d. die Anordnung der Untersuchungs- und Sicherheitshaft; e. andere verfahrensleitende Entscheide, sofern sie einen nicht wiedergutzumachenden Nachteil zur Folge haben. 3 Für den Entscheid zuständig ist die Beschwerdeinstanz; bei Beschwerden gegen die Anordnung der Untersuchungs- und Sicherheitshaft das Zwangsmassnahmengericht. SR 312.0"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "7. Kapitel: Rechtsmittel",
+      "section": "40",
+      "title": "Berufung",
+      "content": "1 Die Berufungsinstanz entscheidet über: a. Berufungen gegen erstinstanzliche Urteile des Jugendgerichts; b. die Aussetzung einer vorsorglich angeordneten Schutzmassnahme. 2 Ist ein Fall bei der Berufungsinstanz hängig, so ist diese für die Anordnung der gesetzlich vorgesehenen Zwangsmassnahmen zuständig."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "7. Kapitel: Rechtsmittel",
+      "section": "41",
+      "title": "Revision",
+      "content": "Über Revisionsgesuche entscheidet das Jugendgericht."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "8. Kapitel: Vollzug von Sanktionen",
+      "section": "42",
+      "title": "Zuständigkeit",
+      "content": "1 Für den Vollzug von Strafen und Schutzmassnahmen ist die Untersuchungsbehörde zuständig. 2 Für den Vollzug können öffentliche und private Einrichtungen sowie Privatpersonen beigezogen werden."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "8. Kapitel: Vollzug von Sanktionen",
+      "section": "43",
+      "title": "Rechtsmittel",
+      "content": "Mittels Beschwerde können angefochten werden: a. die Änderung der Massnahme; b. die Überweisung an eine andere Einrichtung; c. die Verweigerung oder der Widerruf der bedingten Entlassung; d. die Beendigung der Massnahme."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "9. Kapitel: Kosten",
+      "section": "44",
+      "title": "Verfahrenskosten",
+      "content": "1 Die Verfahrenskosten werden vorerst von dem Kanton getragen, in dem das Urteil gefällt wurde. 2 Im Übrigen gelten die Artikel 422–428 StPO sinngemäss. 3 Sind die Voraussetzungen für eine Kostenauflage zulasten der oder des beschuldigten Jugendlichen erfüllt (Art. 426 StPO), so können ihre oder seine Eltern für die Kosten solidarisch haftbar erklärt werden. SR 312.0"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "9. Kapitel: Kosten",
+      "section": "45",
+      "title": "Vollzugskosten",
+      "content": "1 Als Vollzugskosten gelten: a. die Kosten des Vollzugs von Schutzmassnahmen und Strafen; b. die Kosten einer im Laufe des Verfahrens angeordneten Beobachtung oder vorsorglichen Unterbringung. 2 Der Kanton, in dem die oder der Jugendliche bei Eröffnung des Verfahrens den Wohnsitz hatte, trägt sämtliche Vollzugskosten mit Ausnahme der Kosten des Strafvollzugs. 3 Der Urteilskanton trägt: a. sämtliche Vollzugskosten für Jugendliche, die in der Schweiz keinen Wohnsitz haben; b. die Kosten des Strafvollzugs. 4 Vertragliche Regelungen der Kantone über die Kostenverteilung bleiben vorbehalten. 5 Die Eltern beteiligen sich im Rahmen ihrer zivilrechtlichen Unterhaltspflicht an den Kosten der Schutzmassnahmen und der Beobachtung . 6 Verfügt die oder der Jugendliche über ein regelmässiges Erwerbseinkommen oder über Vermögen, so kann sie oder er zu einem angemessenen Beitrag an die Vollzugskosten verpflichtet werden."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "1. Abschnitt: Änderung bisherigen Rechts",
+      "section": "46",
+      "title": "",
+      "content": "1 Die Änderung bisherigen Rechts wird im Anhang geregelt. 2 Die Bundesversammlung kann diesem Gesetz widersprechende, aber formell nicht geänderte Bestimmungen in Bundesgesetzen durch eine Verordnung anpassen."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "2. Abschnitt: Übergangsbestimmungen",
+      "section": "47",
+      "title": "Anwendbares Recht",
+      "content": "1 Bei Inkrafttreten dieses Gesetzes hängige Verfahren und laufende Vollzugsmassnahmen werden nach neuem Recht fortgeführt, soweit die nachfolgenden Bestimmungen nichts anderes vorsehen. 2 Verfahrenshandlungen, die vor Inkrafttreten dieses Gesetzes angeordnet oder durchgeführt worden sind, behalten ihre Gültigkeit."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "2. Abschnitt: Übergangsbestimmungen",
+      "section": "48",
+      "title": "Zuständigkeit",
+      "content": "1 Bei Inkrafttreten dieses Gesetzes hängige Verfahren und laufende Vollzugsmassnahmen werden von den nach neuem Recht zuständigen Behörden weitergeführt, soweit die nachfolgenden Bestimmungen nichts anderes vorsehen. 2 Konflikte über die Zuständigkeit zwischen Behörden des gleichen Kantons entscheidet die Beschwerdeinstanz in Jugendstrafsachen des jeweiligen Kantons, solche zwischen Behörden verschiedener Kantone das Bundesstrafgericht. Der Entscheid ist nicht selbstständig anfechtbar."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "2. Abschnitt: Übergangsbestimmungen",
+      "section": "49",
+      "title": "Erstinstanzliches Hauptverfahren",
+      "content": "1 Ist bei Inkrafttreten dieses Gesetzes ein Verfahren vor einem Jugendgericht hängig, so kann die Jugendrichterin oder der Jugendrichter an der Hauptverhandlung nur teilnehmen, wenn die oder der Jugendliche der Teilnahme ausdrücklich zugestimmt hat. 2 Ist beim Inkrafttreten dieses Gesetzes die Hauptverhandlung vor einem Einzelgericht oder einem Kollegialgericht bereits eröffnet, so wird sie nach bisherigem Recht, vom bisher zuständigen erstinstanzlichen Gericht, fortgeführt."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "2. Abschnitt: Übergangsbestimmungen",
+      "section": "50",
+      "title": "Abwesenheitsverfahren",
+      "content": "1 Abwesenheitsverfahren, die vor Inkrafttreten dieses Gesetzes aufgenommen worden sind, werden nach bisherigem Recht fortgesetzt. 2 Kennt das kantonale Recht kein Abwesenheitsverfahren, so ist neues Recht anwendbar."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "2. Abschnitt: Übergangsbestimmungen",
+      "section": "51",
+      "title": "Rechtsmittel",
+      "content": "1 Ist ein Entscheid vor Inkrafttreten dieses Gesetzes gefällt worden, so können dagegen die Rechtsmittel nach bisherigem Recht ergriffen werden. Diese werden nach bisherigem Recht, von den nach bisherigem Recht zuständigen Behörden, beurteilt. 2 Steht gegen den Entscheid kein Rechtsmittel nach bisherigem Recht zur Verfügung, so richtet sich seine Anfechtbarkeit nach den Bestimmungen des neuen Rechts. 3 Im Übrigen ist Artikel 453 Absatz 2 StPO anwendbar. SR 312.0"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "2. Abschnitt: Übergangsbestimmungen",
+      "section": "52",
+      "title": "Vorbehalt der Verfahrensgrundsätze nach neuem Recht",
+      "content": "In Fällen, in denen nach Inkrafttreten dieses Gesetzes altes Recht zur Anwendung kommt, tragen die Behörden den Grundsätzen dieses Gesetzes Rechnung; sie achten insbesondere auf die Einhaltung der Verfahrensgrundsätze betreffend: a. den Verzicht auf Strafverfolgung (Art. 5); b. die Ablehnung (Art. 9); c. die Mitwirkung der gesetzlichen Vertretung (Art. 12); d. die Parteistellung (Art. 18); e. die Verteidigung der oder des Jugendlichen (Art. 23–25); f. die Untersuchungs- und die Sicherheitshaft (Art. 27 und 28)."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Vollzug",
+      "content": "1 Der Vollzug von Schutzmassnahmen, die bei Inkrafttreten dieses Gesetzes ihrem Ende zugehen, kann durch die nach bisherigem Recht zuständige Behörde abgeschlossen werden. Die Behörde prüft jedoch in jedem Fall, ob eine Übertragung an die nach diesem Gesetz zuständige Behörde angebracht erscheint. 2 Wird bei Inkrafttreten dieses Gesetzes eine Beobachtung oder eine vorsorgliche Unterbringung durchgeführt, so richtet sich der Vollzug nach neuem Recht."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "3. Abschnitt: Referendum und Inkrafttreten",
+      "section": "54",
+      "title": "",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 1. Januar 2011 BRB vom 31. März 2010"
+    }
+  ],
+  "definitions": []
+}

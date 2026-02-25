@@ -1,0 +1,655 @@
+{
+  "id": "sr-211-412-11",
+  "type": "statute",
+  "title": "Bundesgesetz vom 4. Oktober 1991 über das bäuerliche Bodenrecht (BGBB)",
+  "title_en": "",
+  "short_name": "BGBB",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1993/1410_1410_1410/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Zweck, Gegenstand und Geltungsbereich",
+      "section": "1",
+      "title": "",
+      "content": "1 Dieses Gesetz bezweckt: a. das bäuerliche Grundeigentum zu fördern und namentlich Familienbetriebe als Grundlage eines gesunden Bauernstandes und einer leistungsfähigen, auf eine nachhaltige Bodenbewirtschaftung ausgerichteten Landwirtschaft zu erhalten und ihre Struktur zu verbessern; b. die Stellung des Selbstbewirtschafters einschliesslich diejenige des Pächters beim Erwerb landwirtschaftlicher Gewerbe und Grundstücke zu stärken; c. übersetzte Preise für landwirtschaftlichen Boden zu bekämpfen. 2 Das Gesetz enthält Bestimmungen über: a. den Erwerb von landwirtschaftlichen Gewerben und Grundstücken; b. die Verpfändung von landwirtschaftlichen Grundstücken; c. die Teilung landwirtschaftlicher Gewerbe und die Zerstückelung landwirtschaftlicher Grundstücke."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Zweck, Gegenstand und Geltungsbereich",
+      "section": "2",
+      "title": "Allgemeiner Geltungsbereich",
+      "content": "1 Dieses Gesetz gilt für einzelne oder zu einem landwirtschaftlichen Gewerbe gehörende landwirtschaftliche Grundstücke: a. die ausserhalb einer Bauzone nach Artikel 15 des Raumplanungsgesetzes vom 22. Juni 1979 liegen; und b. für welche die landwirtschaftliche Nutzung zulässig ist. 2 Das Gesetz gilt ferner für: a. Grundstücke und Grundstücksteile mit landwirtschaftlichen Gebäuden und Anlagen, einschliesslich angemessenen Umschwungs, die in einer Bauzone liegen und zu einem landwirtschaftlichen Gewerbe gehören; b. Waldgrundstücke, die zu einem landwirtschaftlichen Gewerbe gehören; c. Grundstücke, die teilweise innerhalb einer Bauzone liegen, solange sie nicht entsprechend den Nutzungszonen aufgeteilt sind; d. Grundstücke mit gemischter Nutzung, die nicht in einen landwirtschaftlichen und einen nichtlandwirtschaftlichen Teil aufgeteilt sind. 3 Das Gesetz gilt nicht für Grundstücke von weniger als 15 Aren Rebland oder 25 Aren anderem Land, die nicht zu einem landwirtschaftlichen Gewerbe gehören. 4 Das Gesetz gilt in Abweichung von Absatz 3 für kleine Grundstücke im Beizugsgebiet einer Landumlegung, vom Zeitpunkt der Gründung und Beschlussfassung bis zum Zeitpunkt der Grundbucheintragung des neuen Besitzstandes. SR 700 Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). Eingefügt durch Anhang Ziff. 2 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3463 3863 ; BBl 2012 2075 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Besonderer Geltungsbereich",
+      "content": "1 Für Miteigentumsanteile an landwirtschaftlichen Grundstücken gelten die Bestimmungen dieses Gesetzes über die landwirtschaftlichen Grundstücke, soweit das Gesetz nichts anderes vorsieht. 2 Für Grundstücke, die zu einem nichtlandwirtschaftlichen Nebengewerbe gehören, das mit einem landwirtschaftlichen Gewerbe eng verbunden ist, gelten die Artikel 15 Absatz 2 und 51 Absatz 2. 3 Die Bestimmungen dieses Gesetzes über den Gewinnanspruch gelten für alle Gewerbe und Grundstücke, die der Veräusserer zur landwirtschaftlichen Nutzung erworben hat. 4 Die Bestimmungen über die Grenzverbesserungen (Art. 57) gelten auch für kleine Grundstücke (Art. 2 Abs. 3). Fassung gemäss Anhang Ziff. 2 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3463 3863 ; BBl 2012 2075 )."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Besondere Bestimmungen für landwirtschaftliche Gewerbe",
+      "content": "1 Für Grundstücke, die für sich allein oder zusammen mit andern Grundstücken ein landwirtschaftliches Gewerbe bilden, gelten die besonderen Bestimmungen dieses Gesetzes über die landwirtschaftlichen Gewerbe. 2 Die Bestimmungen über die landwirtschaftlichen Gewerbe gelten auch für eine Mehrheitsbeteiligung an einer juristischen Person, deren Aktiven zur Hauptsache aus einem landwirtschaftlichen Gewerbe bestehen. 3 Die Bestimmungen über landwirtschaftliche Gewerbe gelten nicht für landwirtschaftliche Grundstücke, die: a. zu einem landwirtschaftlichen Gewerbe gemäss Artikel 8 gehören; b. mit Genehmigung der Bewilligungsbehörde vom landwirtschaftlichen Gewerbe abgetrennt werden dürfen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Vorbehalte kantonalen Rechts",
+      "content": "Die Kantone können: a. landwirtschaftliche Betriebe, welche die Voraussetzungen nach Artikel 7 hinsichtlich der Standardarbeitskräfte nicht erfüllen, den Bestimmungen über die landwirtschaftlichen Gewerbe unterstellen; die minimale Betriebsgrösse ist dabei in einem Bruchteil einer Standardarbeitskraft festzulegen und darf 0,6 Standardarbeitskräfte nicht unterschreiten; b. die Anwendung dieses Gesetzes auf Anteils- und Nutzungsrechte an Allmenden, Alpen, Wald und Weiden, die im Eigentum von Allmendgenossenschaften, Alpgenossenschaften, Waldkorporationen oder ähnlichen Körperschaften stehen, ausschliessen, es sei denn, diese Rechte gehören zu einem landwirtschaftlichen Gewerbe, für das die Bestimmungen dieses Gesetzes über die landwirtschaftlichen Gewerbe gelten. Fassung gemäss Anhang Ziff. 2 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3463 3863 ; BBl 2012 2075 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Kapitel: Begriffe",
+      "section": "6",
+      "title": "Landwirtschaftliches Grundstück",
+      "content": "1 Als landwirtschaftlich gilt ein Grundstück, das für die landwirtschaftliche oder gartenbauliche Nutzung geeignet ist. 2 Als landwirtschaftliche Grundstücke gelten auch Anteils- und Nutzungsrechte an Allmenden, Alpen, Wald und Weiden, die im Eigentum von Allmendgenossenschaften, Alpgenossenschaften, Waldkorporationen oder ähnlichen Körperschaften stehen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Kapitel: Begriffe",
+      "section": "7",
+      "title": "Landwirtschaftliches Gewerbe; im Allgemeinen",
+      "content": "1 Als landwirtschaftliches Gewerbe gilt eine Gesamtheit von landwirtschaftlichen Grundstücken, Bauten und Anlagen, die als Grundlage der landwirtschaftlichen Produktion dient und zu deren Bewirtschaftung, wenn sie landesüblich ist, mindestens eine Standardarbeitskraft nötig ist. Der Bundesrat legt die Faktoren und die Werte für die Berechnung einer Standardarbeitskraft in Abstimmung mit dem Landwirtschaftsrecht fest. 2 Unter den gleichen Voraussetzungen gelten auch Betriebe des produzierenden Gartenbaus als landwirtschaftliches Gewerbe. 3 Bei der Beurteilung, ob ein landwirtschaftliches Gewerbe vorliegt, sind diejenigen Grundstücke zu berücksichtigen, die diesem Gesetz unterstellt sind (Art. 2). 4 Zudem sind zu berücksichtigen: a. die örtlichen Verhältnisse; b. die Möglichkeit, fehlende betriebsnotwendige Gebäude zu erstellen oder vorhandene umzubauen, instand zu stellen oder zu ersetzen, wenn die entsprechenden Aufwendungen für den Betrieb tragbar sind; c. die für längere Dauer zugepachteten Grundstücke. 4bis Bei der Beurteilung, ob Eigentum an einem landwirtschaftlichen Gewerbe im Sinne der Artikel 21, 36 Absatz 2, 42 Absatz 2, 47 Absatz 2 und 49 Absatz 2 vorliegt, sind die Grundstücke nach Absatz 4 Buchstabe c ebenfalls zu berücksichtigen. 5 Ein gemischtes Gewerbe gilt als landwirtschaftliches Gewerbe, wenn es überwiegend landwirtschaftlichen Charakter hat. Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ( AS 2008 3585 ; BBl 2006 6337 ). Eingefügt durch Anhang Ziff. 2 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3463 3863 ; BBl 2012 2075 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Kapitel: Begriffe",
+      "section": "8",
+      "title": "Landwirtschaftliches Gewerbe; besondere Fälle",
+      "content": "Die Bestimmungen über die einzelnen landwirtschaftlichen Grundstücke finden auf ein landwirtschaftliches Gewerbe Anwendung, wenn es: a. seit mehr als sechs Jahren rechtmässig ganz oder weitgehend parzellenweise verpachtet ist und diese Verpachtung im Sinne von Artikel 31 Absatz 2 Buchstaben e und f des Bundesgesetzes vom 4. Oktober 1985 über die landwirtschaftliche Pacht weder vorübergehenden Charakter hat noch aus persönlichen Gründen erfolgt ist; b. unabhängig von seiner Grösse wegen einer ungünstigen Betriebsstruktur nicht mehr erhaltungswürdig ist. Fassung gemäss Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 ). SR 221.213.2"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Selbstbewirtschafter",
+      "content": "1 Selbstbewirtschafter ist, wer den landwirtschaftlichen Boden selber bearbeitet und, wenn es sich um ein landwirtschaftliches Gewerbe handelt, dieses zudem persönlich leitet. 2 Für die Selbstbewirtschaftung geeignet ist, wer die Fähigkeiten besitzt, die nach landesüblicher Vorstellung notwendig sind, um den landwirtschaftlichen Boden selber zu bearbeiten und ein landwirtschaftliches Gewerbe persönlich zu leiten. Fassung gemäss Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Ertragswert",
+      "content": "1 Der Ertragswert entspricht dem Kapital, das mit dem Ertrag eines landwirtschaftlichen Gewerbes oder Grundstücks bei landesüblicher Bewirtschaftung zum durchschnittlichen Zinssatz für erste Hypotheken verzinst werden kann. Für die Feststellung des Ertrags und des Zinssatzes ist auf das Mittel mehrerer Jahre (Bemessungsperiode) abzustellen. 2 Der Bundesrat regelt die Art der Berechnung, die Bemessungsperiode und die Einzelheiten der Schätzung. 3 Nichtlandwirtschaftlich genutzte Flächen, Gebäude und Anlagen oder Teile davon werden mit dem Ertragswert, der sich aus ihrer nichtlandwirtschaftlichen Nutzung ergibt, in die Schätzung einbezogen. Eingefügt durch Ziff. II des BG vom 20. März 1998 ( AS 2000 2042 ; BBl 1996 III 513 ). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art10a",
+      "section": "10a",
+      "title": "a Eingetragene Partnerschaften",
+      "content": "Die Bestimmungen dieses Gesetzes für Ehegatten und für die Wohnung der Familie gelten für eingetragene Partnerschaften sinngemäss. Eingefügt durch Anhang Ziff. 9 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ( AS 2005 5685 ; BBl 2003 1288 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Kapitel: Erbteilung",
+      "section": "11",
+      "title": "Anspruch auf Zuweisung eines landwirtschaftlichen Gewerbes",
+      "content": "1 Befindet sich in der Erbschaft ein landwirtschaftliches Gewerbe, so kann jeder Erbe verlangen, dass ihm dieses in der Erbteilung zugewiesen wird, wenn er es selber bewirtschaften will und dafür als geeignet erscheint. 2 Verlangt kein Erbe die Zuweisung zur Selbstbewirtschaftung oder erscheint derjenige, der die Zuweisung verlangt, als ungeeignet, so kann jeder pflichtteilsgeschützte Erbe die Zuweisung verlangen. 3 Wird das landwirtschaftliche Gewerbe einem andern Erben als dem überlebenden Ehegatten zugewiesen, so kann dieser verlangen, dass ihm auf Anrechnung an seine Ansprüche die Nutzniessung an einer Wohnung oder ein Wohnrecht eingeräumt wird, wenn es die Umstände zulassen. Die Ehegatten können diesen Anspruch durch einen öffentlich beurkundeten Vertrag ändern oder ausschliessen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "1. Kapitel: Erbteilung",
+      "section": "12",
+      "title": "Aufschiebung der Erbteilung",
+      "content": "1 Hinterlässt der Erblasser als Erben minderjährige Nachkommen, so müssen die Erben die Erbengemeinschaft weiter bestehen lassen, bis entschieden werden kann, ob ein Nachkomme das landwirtschaftliche Gewerbe zur Selbstbewirtschaftung übernimmt. 2 Erfüllt jedoch im Zeitpunkt des Erbgangs ein gesetzlicher Erbe die Voraussetzungen zur Selbstbewirtschaftung, so ist das Gewerbe diesem zuzuweisen. 3 Ist das landwirtschaftliche Gewerbe auf längere Zeit verpachtet und will es ein Erbe zur Selbstbewirtschaftung übernehmen, so kann er verlangen, dass der Entscheid über die Zuweisung bis spätestens ein Jahr vor Ablauf des Pachtvertrages aufgeschoben wird. Ausdruck gemäss Anhang Ziff. 9 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ( AS 2011 725 ; BBl 2006 7001 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "1. Kapitel: Erbteilung",
+      "section": "13",
+      "title": "Anspruch auf Zuweisung von Miteigentumsanteilen",
+      "content": "Befindet sich in der Erbschaft ein Miteigentumsanteil an einem landwirtschaftlichen Gewerbe, so kann jeder Erbe unter den Voraussetzungen, unter denen er die Zuweisung des Gewerbes verlangen könnte, die Zuweisung des Miteigentumsanteils daran beanspruchen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "1. Kapitel: Erbteilung",
+      "section": "14",
+      "title": "Anspruch auf Zuweisung bei Gesamteigentum",
+      "content": "1 Befindet sich in der Erbschaft eine vererbliche Beteiligung an einem Gesamthandsverhältnis, so kann jeder Erbe unter den Voraussetzungen, unter denen er die Zuweisung des landwirtschaftlichen Gewerbes geltend machen könnte, verlangen, dass er an Stelle des Verstorbenen Gesamthänder wird. 2 Befindet sich in der Erbschaft eine Beteiligung an einem Gesamthandsverhältnis und wird dieses durch den Tod eines Gesamthänders aufgelöst, so kann jeder Erbe unter den Voraussetzungen, unter denen er die Zuweisung des landwirtschaftlichen Gewerbes geltend machen könnte, verlangen, dass er an Stelle des Verstorbenen an der Liquidation des Gesamthandsverhältnisses mitwirkt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "1. Kapitel: Erbteilung",
+      "section": "15",
+      "title": "Betriebsinventar, nichtlandwirtschaftliches Nebengewerbe",
+      "content": "1 Der Erbe, der die Zuweisung des landwirtschaftlichen Gewerbes zur Selbstbewirtschaftung geltend macht, kann zudem verlangen, dass ihm das Betriebsinventar (Vieh, Gerätschaften, Vorräte usw.) zugewiesen wird. 2 Ist mit einem landwirtschaftlichen Gewerbe ein nichtlandwirtschaftliches Nebengewerbe eng verbunden, so kann der Erbe, der einen Anspruch auf Zuweisung geltend macht, die Zuweisung beider Gewerbe verlangen."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Anrechnung an den Erbteil",
+      "content": "1 Das landwirtschaftliche Gewerbe wird dem selbstbewirtschaftenden Erben zum Ertragswert an den Erbteil angerechnet. 2 Das Betriebsinventar ist zum Nutzwert und das nichtlandwirtschaftliche Nebengewerbe zum Verkehrswert anzurechnen."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Erhöhung des Anrechnungswerts",
+      "content": "1 Ergibt sich bei der Anrechnung zum Ertragswert ein Überschuss an Erbschaftspassiven, so wird der Anrechnungswert entsprechend erhöht, höchstens aber bis zum Verkehrswert. 2 Die Miterben können ferner eine angemessene Erhöhung des Anrechnungswerts verlangen, wenn besondere Umstände es rechtfertigen. 3 Als besondere Umstände gelten namentlich der höhere Ankaufswert des Gewerbes oder erhebliche Investitionen, die der Erblasser in den letzten zehn Jahren vor seinem Tod getätigt hat."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Verfügungen des Erblassers bei mehreren übernahmewilligen Erben",
+      "content": "1 Erfüllen mehrere Erben die Voraussetzungen für die Zuweisung des landwirtschaftlichen Gewerbes, so kann der Erblasser durch letztwillige Verfügung oder durch Erbvertrag einen von ihnen als Übernehmer bezeichnen. 2 Der Erblasser kann einem pflichtteilsgeschützten Erben, der das Gewerbe selber bewirtschaften will und dafür als geeignet erscheint, den Anspruch auf Zuweisung nicht entziehen zugunsten eines Erben, der das Gewerbe nicht selber bewirtschaften will oder dafür nicht als geeignet erscheint, oder zugunsten eines eingesetzten Erben. 3 Vorbehalten bleiben die Enterbung und der Erbverzicht."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Fehlen einer Verfügung",
+      "content": "1 Hat der Erblasser keinen Erben als Übernehmer bezeichnet, so geht der Zuweisungsanspruch eines pflichtteilgeschützten Erben demjenigen eines anderen Erben vor. 2 Im Übrigen sind die persönlichen Verhältnisse des Erben für die Zuweisung massgebend."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Anspruch auf Zuweisung eines landwirtschaftlichen Grundstücks",
+      "content": "1 Befindet sich in der Erbschaft ein landwirtschaftliches Grundstück, das nicht zu einem landwirtschaftlichen Gewerbe gehört, so kann ein Erbe dessen Zuweisung zum doppelten Ertragswert verlangen, wenn er Eigentümer eines landwirtschaftlichen Gewerbes ist oder über ein solches wirtschaftlich verfügt und das Grundstück im ortsüblichen Bewirtschaftungsbereich dieses Gewerbes liegt. 2 Die Bestimmungen über die Erhöhung des Anrechnungswerts bei landwirtschaftlichen Gewerben und die Beschränkung der Verfügungsfreiheit gelten sinngemäss."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Sicherung der Selbstbewirtschaftung; Veräusserungsverbot",
+      "content": "1 Wird in der Erbteilung ein landwirtschaftliches Gewerbe einem Erben zur Selbstbewirtschaftung zugewiesen, so darf er es während zehn Jahren nur mit Zustimmung der Miterben veräussern. 2 Keine Zustimmung ist nötig, wenn: a. ein Nachkomme das landwirtschaftliche Gewerbe erwirbt, der es selber bewirtschaften will und dafür als geeignet erscheint; b. der Erbe das landwirtschaftliche Gewerbe dem Gemeinwesen zur Erfüllung einer öffentlichen Aufgabe gemäss Artikel 65 veräussert oder wenn es ihm zwangsweise entzogen wird; c. der Erbe mit Genehmigung der Bewilligungsbehörde einzelne landwirtschaftliche Grundstücke oder Grundstücksteile veräussert (Art. 60)."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Sicherung der Selbstbewirtschaftung; Kaufsrecht",
+      "content": "1 Gibt ein Erbe oder sein Nachkomme, an den das landwirtschaftliche Gewerbe übertragen worden ist, innert zehn Jahren die Selbstbewirtschaftung endgültig auf, so hat jeder Miterbe, der das landwirtschaftliche Gewerbe selber bewirtschaften will und dafür als geeignet erscheint, ein Kaufsrecht. 2 Der Erbe, gegenüber dem das Kaufsrecht ausgeübt wird, hat Anspruch auf den Preis, zu dem ihm das landwirtschaftliche Gewerbe in der Erbteilung angerechnet worden ist. Er hat zudem Anspruch auf Entschädigung für die wertvermehrenden Aufwendungen; diese sind zum Zeitwert zu berechnen. 3 Das Kaufsrecht ist vererblich, aber nicht übertragbar. Es erlischt drei Monate, nachdem der Kaufsberechtigte von der Aufgabe der Selbstbewirtschaftung Kenntnis erhalten hat, spätestens aber zwei Jahre nachdem die Selbstbewirtschaftung aufgegeben worden ist. 4 Das Kaufsrecht kann nicht geltend gemacht werden, wenn: a. ein Nachkomme das landwirtschaftliche Gewerbe zur Selbstbewirtschaftung übernehmen will und dafür als geeignet erscheint; b. der Erbe stirbt und einer seiner Erben das landwirtschaftliche Gewerbe zur Selbstbewirtschaftung übernehmen will und dafür als geeignet erscheint; c. der Erbe das landwirtschaftliche Gewerbe dem Gemeinwesen zur Erfüllung einer öffentlichen Aufgabe gemäss Artikel 65 veräussert oder wenn es ihm zwangsweise entzogen wird; d. der Erbe mit Genehmigung der Bewilligungsbehörde einzelne landwirtschaftliche Grundstücke oder Grundstücksteile veräussert (Art. 60). 5 Wird die Selbstbewirtschaftung wegen Unfall oder Krankheit aufgegeben und hat der Eigentümer minderjährige Nachkommen, so kann das Kaufsrecht solange nicht geltend gemacht werden, bis entschieden werden kann, ob ein Nachkomme das landwirtschaftliche Gewerbe zur Selbstbewirtschaftung übernehmen kann."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Grundsatz",
+      "content": "1 Befindet sich in der Erbschaft ein landwirtschaftliches Gewerbe, so steht, sofern sie geeignete Selbstbewirtschafter sind, ein Kaufsrecht zu: a. jedem Nachkommen, der nicht Erbe ist; b. jedem Geschwister und Geschwisterkind, das nicht Erbe ist, aber beim Verkauf des landwirtschaftlichen Gewerbes ein Vorkaufsrecht geltend machen könnte. 2 Artikel 11 Absatz 3 gilt sinngemäss."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Konkurrenz mit erbrechtlichem Zuweisungsanspruch",
+      "content": "1 Das Kaufsrecht kann nicht geltend gemacht werden, wenn: a. das landwirtschaftliche Gewerbe bei der Erbteilung einem gesetzlichen Erben zugewiesen wird, der es selber bewirtschaften will und dafür als geeignet erscheint; b. die Erbengemeinschaft das landwirtschaftliche Gewerbe einem Nachkommen des Verstorbenen überträgt, der es selber bewirtschaften will und dafür als geeignet erscheint, oder c. … 2 Konkurriert das Kaufsrecht mit einem erbrechtlichen Zuweisungsanspruch nach Artikel 11 Absatz 1, so sind die persönlichen Verhältnisse für die Zuweisung massgebend. 3 Hinterlässt der Erblasser minderjährige Nachkommen, so kann das Kaufsrecht solange nicht geltend gemacht werden, bis entschieden werden kann, ob ein Nachkomme das Gewerbe zur Selbstbewirtschaftung übernehmen kann. Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Voraussetzungen und Bedingungen",
+      "content": "1 Das Kaufsrecht kann unter den Voraussetzungen und zu den Bedingungen ausgeübt werden, die für das Vorkaufsrecht gelten. 2 Reicht der Preis, der für die Ausübung des Kaufsrechts nach den Bestimmungen über das Vorkaufsrecht zu zahlen ist, nicht aus, um die Erbschaftspassiven zu decken, so wird der Übernahmepreis entsprechend erhöht, höchstens aber bis zum Verkehrswert."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Grundsatz",
+      "content": "1 Wird einem Erben bei der Erbteilung ein landwirtschaftliches Gewerbe oder Grundstück zu einem Anrechnungswert unter dem Verkehrswert zugewiesen, so hat jeder Miterbe bei einer Veräusserung Anspruch auf den seiner Erbquote entsprechenden Anteil am Gewinn. 2 Jeder Miterbe kann seinen Anspruch selbständig geltend machen. Dieser ist vererblich und übertragbar. 3 Der Anspruch besteht nur, wenn der Erbe das landwirtschaftliche Gewerbe oder Grundstück innert 25 Jahren seit dem Erwerb veräussert."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Veräusserung",
+      "content": "1 Als Veräusserung im Sinne von Artikel 28 gelten: a. der Verkauf und jedes andere Rechtsgeschäft, das wirtschaftlich einem Verkauf gleichkommt; b. die Enteignung; c. die Zuweisung zu einer Bauzone, ausser sie betreffe ein landwirtschaftliches Grundstück, das dem bäuerlichen Bodenrecht unterstellt bleibt (Art. 2 Abs. 2 Bst. a); d. der Übergang von einer landwirtschaftlichen zu einer nichtlandwirtschaftlichen Nutzung; kein solcher Übergang liegt vor, wenn der Erbe, der ein landwirtschaftliches Gewerbe nach Artikel 28 übernommen und es während mindestens zehn Jahren selber bewirtschaftet hat, die Betriebsführung aufgibt und in einer zum Gewerbe gehörenden Wohnung verbleibt. 2 Massgebend für den Zeitpunkt der Veräusserung sind: a. der Abschluss des Vertrags, mit dem sich der Veräusserer zur Eigentumsübertragung verpflichtet; b. die Einleitung des Enteignungsverfahrens; c. die Einleitung des Verfahrens für die Zuweisung eines landwirtschaftlichen Grundstücks zu einer Bauzone; d. bei Zweckentfremdung das Geschäft, mit welchem dem Berechtigten die nichtlandwirtschaftliche Nutzung erlaubt wird, oder die Handlung des Eigentümers, welche die Nutzungsänderung bewirkt. Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Fälligkeit",
+      "content": "Der Gewinnanspruch wird fällig: a. bei Verkauf oder Enteignung mit der Fälligkeit der Gegenleistung, die der Verkäufer oder Enteignete fordern kann; b. bei Zuweisung eines landwirtschaftlichen Grundstücks zu einer Bauzone im Zeitpunkt der Veräusserung oder der Nutzung als Bauland, spätestens aber nach 15 Jahren seit der rechtskräftigen Einzonung; c. bei Zweckentfremdung, die der Eigentümer veranlasst, mit der Handlung, welche die Zweckentfremdung bewirkt."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Gewinn",
+      "content": "1 Der Gewinn entspricht der Differenz zwischen dem Veräusserungs- und dem Anrechnungswert. Wertvermehrende Aufwendungen am landwirtschaftlichen Gewerbe oder Grundstück kann der Erbe zum Zeitwert abziehen. 2 Bei Zuweisung eines landwirtschaftlichen Grundstücks zu einer Bauzone wird für die Bemessung des Gewinns auf den mutmasslichen Verkehrswert abgestellt, wenn innert 15 Jahren keine Veräusserung erfolgt. 3 Bei der Zweckentfremdung beträgt der Gewinn das Zwanzigfache des tatsächlichen oder möglichen jährlichen Ertrags der nichtlandwirtschaftlichen Nutzung. 4 Der Erbe kann für jedes volle Jahr, während dessen das landwirtschaftliche Gewerbe oder Grundstück in seinem Eigentum stand, zwei Hundertstel vom Gewinn abziehen (Besitzesdauerabzug). 5 Sofern dies für den Veräusserer günstiger ist, wird der Gewinnberechnung an Stelle des Besitzesdauerabzugs ein erhöhter Anrechnungswert zugrunde gelegt. Der Anrechnungswert wird um den Prozentsatz erhöht, um den der Ertragswert infolge Änderung der Bemessungsgrundlagen zugenommen hat."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Abzug für Realersatz",
+      "content": "1 Erwirbt der Erbe in der Schweiz Ersatzgrundstücke, um darauf sein bisher betriebenes landwirtschaftliches Gewerbe weiterzuführen, oder erwirbt er als Ersatz für das veräusserte Gewerbe ein anderes landwirtschaftliches Gewerbe in der Schweiz, so darf er vom Veräusserungspreis den Erwerbspreis für einen ertragsmässig gleichwertigen Ersatz abziehen. Der dabei bezahlte Preis darf nicht übersetzt sein (Art. 66). 2 Ein Abzug ist nur dann zulässig, wenn der Kauf in den zwei Jahren vor oder nach der Veräusserung oder innerhalb fünf Jahren nach der Enteignung stattgefunden hat. 3 Der Gewinnanspruch der Miterben bleibt erhalten, wenn die restlichen Grundstücke oder die Ersatzgrundstücke veräussert werden."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Abzug für Ausbesserung und für Ersatz von Bauten und Anlagen",
+      "content": "1 Der Erbe kann vom Veräusserungspreis ferner den Betrag für die notwendige Ausbesserung einer landwirtschaftlichen Baute oder Anlage abziehen, sofern das Grundstück, auf dem sie sich befindet, aus der gleichen Erbschaft stammt und in seinem Eigentum bleibt. 2 Berücksichtigt werden der Betrag, der im Zeitpunkt der Veräusserung nötig ist, und jener, den der Eigentümer in den letzten fünf Jahren vor der Veräusserung aufgewendet hat. 3 Erstellt der Erbe ersatzweise eine neue Baute oder Anlage, um damit den Weiterbestand der landwirtschaftlichen Nutzung zu sichern, so kann er vom Veräusserungspreis den für die Erstellung aufgewendeten Betrag abziehen. 4 Veräussert der Erbe später das Grundstück, auf dem sich die ausgebesserte oder neuerstellte Baute oder Anlage befindet, so darf er diesen Betrag nicht ein zweites Mal abziehen."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Sicherung des Gewinnanspruchs",
+      "content": "1 Ein Miterbe kann seinen Gewinnanspruch durch Errichtung eines Grundpfands (Grundpfandverschreibung) am zugewiesenen Gewerbe oder Grundstück gemäss den folgenden Bestimmungen sichern lassen. 2 Der Berechtigte kann jederzeit, spätestens aber bis zum Zeitpunkt der Veräusserung des Gewerbes oder Grundstücks eine vorläufige Eintragung des Pfandrechts ohne Angabe des Pfandbetrags im Grundbuch vormerken lassen. Die vorläufige Eintragung bewirkt, dass das Recht für den Fall einer späteren Feststellung vom Zeitpunkt der Vormerkung an dinglich wirksam wird. 3 Die Vormerkung erfolgt auf einseitiges Begehren des Berechtigten. Der Grundbuchverwalter macht dem Eigentümer von der erfolgten Vormerkung Mitteilung. 4 Die vorläufige Eintragung fällt dahin, wenn der Miterbe nicht innert dreier Monate seit Kenntnis der Veräusserung des Gewerbes oder Grundstücks die definitive Eintragung des Pfandrechts verlangt. Im Übrigen gelten die Bestimmungen des Zivilgesetzbuches (ZGB) über das Pfandrecht der Handwerker und Unternehmer. SR 210"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Aufhebung oder Änderung des Gewinnanspruchs",
+      "content": "Der gesetzliche Gewinnanspruch kann durch schriftliche Vereinbarung aufgehoben oder geändert werden."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "2. Kapitel: Aufhebung von vertraglich begründetem gemeinschaftlichem Eigentum",
+      "section": "36",
+      "title": "Zuweisungsanspruch; Grundsatz",
+      "content": "1 Wird vertraglich begründetes Gesamteigentum oder Miteigentum an einem landwirtschaftlichen Gewerbe aufgelöst, so kann jeder Mit- oder Gesamteigentümer verlangen, dass ihm das landwirtschaftliche Gewerbe zugewiesen wird, wenn er es selber bewirtschaften will und dafür als geeignet erscheint. 2 Wird vertraglich begründetes Gesamteigentum oder Miteigentum an einem landwirtschaftlichen Grundstück aufgelöst, so kann jeder Mit- oder Gesamteigentümer dessen Zuweisung verlangen, wenn: a. er Eigentümer eines landwirtschaftlichen Gewerbes ist oder über ein solches wirtschaftlich verfügt; b. das Grundstück im ortsüblichen Bewirtschaftungsbereich dieses Gewerbes liegt. 3 Zum Schutz des Ehegatten bleiben die Artikel 242 und 243 ZGB vorbehalten. SR 210"
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "2. Kapitel: Aufhebung von vertraglich begründetem gemeinschaftlichem Eigentum",
+      "section": "37",
+      "title": "Anrechnungswert",
+      "content": "1 Bei der Auflösung von Mit- oder Gesamteigentum gelten folgende Anrechnungswerte: a. für ein landwirtschaftliches Gewerbe: der Ertragswert; für die Erhöhung des Anrechnungswertes gelten die Bestimmungen über die Erhöhung des Übernahmepreises beim Vorkaufsrecht (Art. 52) sinngemäss; b. für ein landwirtschaftliches Grundstück: 1. für den Boden: der doppelte Ertragswert, 2. für Gebäude und Anlagen: die Erstellungskosten abzüglich Abschreibungen, mindestens aber der doppelte Ertragswert. 2 Bei der Auflösung von Mit- oder Gesamteigentum unter Ehegatten, die dem Güterstand der Errungenschaftsbeteiligung unterstehen, bleibt Artikel 213 ZGB über die Erhöhung des Ertragswerts vorbehalten. 3 Bei der Auflösung einer Gütergemeinschaft kann der Anrechnungswert angemessen erhöht werden, wenn die besonderen Umstände nach Artikel 213 ZGB dies rechtfertigen. 4 Die Mit- oder Gesamteigentümer, denen das landwirtschaftliche Gewerbe oder Grundstück nicht zugewiesen worden ist, haben bei einer späteren Veräusserung Anspruch auf den Gewinn nach den Bestimmungen über den Gewinnanspruch der Miterben. Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). SR 210"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "2. Kapitel: Aufhebung von vertraglich begründetem gemeinschaftlichem Eigentum",
+      "section": "38",
+      "title": "Anwendung erbrechtlicher Bestimmungen",
+      "content": "Die erbrechtlichen Bestimmungen über den Zuweisungsanspruch bei mehreren übernahmewilligen Erben (Art. 20 Abs. 2), den Wegfall des Zuweisungsanspruchs (Art. 22) und über die Sicherung der Selbstbewirtschaftung (Art. 23 und 24) gelten sinngemäss."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "2. Kapitel: Aufhebung von vertraglich begründetem gemeinschaftlichem Eigentum",
+      "section": "39",
+      "title": "Aufhebung und Abänderung",
+      "content": "Vereinbarungen über den Anrechnungswert und die Aufhebung oder die Abänderung des Zuweisungsanspruchs bedürfen der öffentlichen Beurkundung. Sie können im Falle von Miteigentum im Grundbuch vorgemerkt werden."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "3. Kapitel: Veräusserungsverträge",
+      "section": "40",
+      "title": "Zustimmung des Ehegatten",
+      "content": "1 Der Eigentümer kann ein landwirtschaftliches Gewerbe, das er zusammen mit seinem Ehegatten bewirtschaftet, oder einen Miteigentumsanteil daran nur mit Zustimmung des Ehegatten veräussern. 2 Kann er diese Zustimmung nicht einholen oder wird sie ihm ohne triftigen Grund verweigert, so kann er den Richter anrufen. 3 Zum Schutz der Wohnung der Familie bleibt Artikel 169 ZGB vorbehalten. SR 210"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "3. Kapitel: Veräusserungsverträge",
+      "section": "41",
+      "title": "Vertraglicher Gewinnanspruch und vertragliches Rückkaufsrecht",
+      "content": "1 Die Vertragsparteien können vereinbaren, dass der Veräusserer eines landwirtschaftlichen Gewerbes oder Grundstücks Anspruch auf den Gewinn hat, wenn diese weiterveräussert werden. Dieser Anspruch untersteht den Bestimmungen über den Gewinnanspruch der Miterben, sofern die Parteien nichts anderes vereinbart haben. 2 Wird ein landwirtschaftliches Gewerbe oder Grundstück zu einem Preis unter dem Verkehrswert veräussert, ohne dass ein Gewinnanspruch vereinbart worden ist, so bleiben zum Schutz der Erben die Bestimmungen über die Ausgleichung und die Herabsetzung (Art. 626–632 und Art. 522–533 ZGB vorbehalten. Die Klage auf Herabsetzung und Ausgleichung verjährt nicht, solange der Gewinn nicht fällig ist (Art. 30). 3 Der Veräusserer kann mit dem Erwerber für den Fall, dass dieser die Selbstbewirtschaftung aufgibt, ein Rückkaufsrecht vereinbaren. Stirbt der Veräusserer und gibt der Erwerber die Selbstbewirtschaftung auf, so kann jeder Erbe, der das Gewerbe selber bewirtschaften will und dafür als geeignet erscheint, das Rückkaufsrecht selbständig geltend machen. SR 210"
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "3. Kapitel: Veräusserungsverträge",
+      "section": "42",
+      "title": "Gegenstand und Rangordnung",
+      "content": "1 Wird ein landwirtschaftliches Gewerbe veräussert, so haben daran die nachgenannten Verwandten des Veräusserers ein Vorkaufsrecht in folgender Rangordnung, wenn sie es selber bewirtschaften wollen und dafür als geeignet erscheinen: 1. jeder Nachkomme; 2. jedes Geschwister und Geschwisterkind, wenn der Veräusserer das Gewerbe vor weniger als 25 Jahren ganz oder zum grössten Teil von den Eltern oder aus deren Nachlass erworben hat. 2 Wird ein landwirtschaftliches Grundstück veräussert, so hat jeder Nachkomme des Veräusserers ein Vorkaufsrecht daran, wenn er Eigentümer eines landwirtschaftlichen Gewerbes ist oder wirtschaftlich über ein solches verfügt und das Grundstück im ortsüblichen Bewirtschaftungsbereich dieses Gewerbes liegt. 3 Kein Vorkaufsrecht steht demjenigen zu, gegen den der Veräusserer Gründe geltend macht, die eine Enterbung rechtfertigen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "3. Kapitel: Veräusserungsverträge",
+      "section": "43",
+      "title": "Vorkaufsfall",
+      "content": "Ein Verwandter kann das Vorkaufsrecht auch dann geltend machen, wenn ein landwirtschaftliches Gewerbe oder Grundstück: a. in eine Gütergemeinschaft, eine Gesellschaft, eine Genossenschaft oder eine andere Körperschaft eingebracht wird; b. unentgeltlich übertragen wird; c. an einen anderen Verwandten oder an den Ehegatten veräussert wird."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Übernahmepreis",
+      "content": "Die Berechtigten können das Vorkaufsrecht an einem landwirtschaftlichen Gewerbe zum Ertragswert und an einem landwirtschaftlichen Grundstück zum doppelten Ertragswert geltend machen."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Gemeinschaftliches Eigentum",
+      "content": "Wird ein landwirtschaftliches Gewerbe oder Grundstück, an dem gemeinschaftliches Eigentum (Mit- oder Gesamteigentum) besteht, veräussert, so kann das Vorkaufsrecht auch ausgeübt werden, wenn das Verwandtschaftsverhältnis, welches das Vorkaufsrecht begründet, nur zu einem der Gesamt- oder Miteigentümer besteht."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Berechtigte im gleichen Rang",
+      "content": "1 Machen mehrere Berechtigte im gleichen Rang ein Vorkaufsrecht geltend, so kann der Veräusserer denjenigen bezeichnen, der in den Kaufvertrag eintreten soll. 2 Verzichtet der Veräusserer darauf, so sind die persönlichen Verhältnisse der Berechtigten für die Zuweisung eines landwirtschaftlichen Gewerbes massgebend."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Gegenstand",
+      "content": "1 Wird ein landwirtschaftliches Gewerbe veräussert, so hat der Pächter ein Vorkaufsrecht, wenn: a. er es selber bewirtschaften will und dafür als geeignet erscheint und b. die gesetzliche Mindestpachtdauer nach den Bestimmungen des Bundesgesetzes vom 4. Oktober 1985 über die landwirtschaftliche Pacht abgelaufen ist. 2 Wird ein landwirtschaftliches Grundstück veräussert, so hat der Pächter am Pachtgegenstand ein Vorkaufsrecht, wenn: a. die gesetzliche Mindestpachtdauer nach den Bestimmungen des Bundesgesetzes vom 4. Oktober 1985 über die landwirtschaftliche Pacht abgelaufen ist und b. der Pächter Eigentümer eines landwirtschaftlichen Gewerbes ist oder wirtschaftlich über ein solches verfügt und das gepachtete Grundstück im ortsüblichen Bewirtschaftungsbereich dieses Gewerbes liegt. 3 Das Vorkaufsrecht der Verwandten geht demjenigen des Pächters vor. SR 221.213.2 Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Verzicht auf das Vorkaufsrecht",
+      "content": "1 Der Pächter kann auf sein gesetzliches Vorkaufsrecht zum Voraus nur hinsichtlich eines bestimmten bevorstehenden Vorkaufsfalls verzichten. Er hat seinen Verzicht in einer öffentlichen Urkunde zu erklären; diese hat die wesentlichen Bestimmungen des Vertrags zu enthalten, der zwischen dem Verkäufer und dem Dritten abgeschlossen werden soll. 2 Der Verzicht wird unwirksam, wenn der Kaufvertrag zwischen dem Verkäufer und dem Käufer inhaltlich nicht entsprechend den Angaben in der Verzichterklärung oder nach Ablauf einer Frist von sechs Monaten seit der Verzichterklärung abgeschlossen wird. Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "",
+      "content": "1 Wird ein Miteigentumsanteil an einem landwirtschaftlichen Gewerbe veräussert, so haben daran in folgender Rangordnung ein Vorkaufsrecht: 1. jeder Miteigentümer, der das Gewerbe selber bewirtschaften will und dafür als geeignet erscheint; 2. jeder Nachkomme, jedes Geschwister und Geschwisterkind sowie der Pächter, unter den Voraussetzungen, zu den Bedingungen und in der Rangfolge, die für das Vorkaufsrecht an einem landwirtschaftlichen Gewerbe gelten; 3. jeder andere Miteigentümer nach Artikel 682 ZGB. 2 Wird ein Miteigentumsanteil an einem landwirtschaftlichen Grundstück veräussert, so haben daran in folgender Rangordnung ein Vorkaufsrecht: 1. jeder Miteigentümer, der bereits Eigentümer eines landwirtschaftlichen Gewerbes ist oder über ein solches wirtschaftlich verfügt und das Grundstück im ortsüblichen Bewirtschaftungsbereich dieses Gewerbes liegt; 2. jeder Nachkomme und der Pächter, unter den Voraussetzungen, zu den Bedingungen und in der Rangfolge, die für das Vorkaufsrecht an einem landwirtschaftlichen Grundstück gelten; 3. jeder andere Miteigentümer nach Artikel 682 ZGB. 3 Der Miteigentümer, der ein landwirtschaftliches Gewerbe zur Selbstbewirtschaftung oder ein landwirtschaftliches Grundstück im ortsüblichen Bewirtschaftungsbereich des Gewerbes beansprucht, kann das Vorkaufsrecht geltend machen an einem landwirtschaftlichen Gewerbe zum Ertragswert und an einem landwirtschaftlichen Grundstück zum doppelten Ertragswert. SR 210"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Umfang des Vorkaufsrechts, Übernahmepreis",
+      "content": "1 Hat der Veräusserer das Betriebsinventar (Vieh, Gerätschaften, Vorräte usw.) mitverkauft, so kann er erklären, dass er dieses vom Verkauf ganz oder teilweise ausnehme, wenn das Vorkaufsrecht ausgeübt wird. 2 Ist mit einem landwirtschaftlichen Gewerbe ein nichtlandwirtschaftliches Nebengewerbe eng verbunden, so kann der Vorkaufsberechtigte die Zuweisung beider Gewerbe verlangen. 3 Als Übernahmepreis für das Betriebsinventar und das nichtlandwirtschaftliche Nebengewerbe gilt der Anrechnungswert in der Erbteilung (Art. 17 Abs. 2)."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Erhöhung des Übernahmepreises",
+      "content": "1 Der Veräusserer kann eine angemessene Erhöhung des Übernahmepreises verlangen, wenn besondere Umstände es rechtfertigen. 2 Als besondere Umstände gelten namentlich der höhere Ankaufswert des Gewerbes und alle erheblichen Investitionen, die in den letzten zehn Jahren vor der Veräusserung getätigt worden sind. 3 Der Übernahmepreis entspricht in jedem Fall mindestens den Grundpfandschulden."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Gewinnanspruch des Veräusserers",
+      "content": "1 Hat der Eigentümer ein landwirtschaftliches Gewerbe oder Grundstück durch Ausübung eines gesetzlichen Vorkaufsrechts unter dem Verkehrswert erworben und veräussert er es weiter, so hat der Veräusserer, gegen den das Vorkaufsrecht ausgeübt wurde, Anspruch auf den Gewinn. 2 Die Bestimmungen über den Gewinnanspruch der Miterben gelten sinngemäss."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Sicherung der Selbstbewirtschaftung; Veräusserungsverbot",
+      "content": "1 Hat ein Eigentümer ein landwirtschaftliches Gewerbe durch Ausübung eines Vorkaufsrechts zur Selbstbewirtschaftung erworben, so darf er es während zehn Jahren nur mit Zustimmung des Verkäufers veräussern. 2 Keine Zustimmung ist nötig, wenn: a. ein Nachkomme das landwirtschaftliche Gewerbe erwirbt, der es selber bewirtschaften will und dafür als geeignet erscheint; b. der Eigentümer das landwirtschaftliche Gewerbe dem Gemeinwesen zur Erfüllung einer öffentlichen Aufgabe gemäss Artikel 65 veräussert oder wenn es ihm zwangsweise entzogen wird; c. der Eigentümer mit Genehmigung der Bewilligungsbehörde einzelne Grundstücke oder Grundstücksteile veräussert (Art. 60)."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Sicherung der Selbstbewirtschaftung; Rückkaufsrecht",
+      "content": "1 Gibt ein Eigentümer oder sein Nachkomme, an den das Gewerbe übertragen worden ist, innert zehn Jahren die Selbstbewirtschaftung endgültig auf, so hat der Verkäufer, gegen den das Vorkaufsrecht ausgeübt worden ist, ein Rückkaufsrecht. 2 Das Rückkaufsrecht ist vererblich, aber nicht übertragbar. Ein Erbe, der das landwirtschaftliche Gewerbe selber bewirtschaften will und dafür als geeignet erscheint, kann das Rückkaufsrecht selbständig geltend machen. 3 Wird das Rückkaufsrecht ausgeübt, so hat der Eigentümer Anspruch auf den Preis, zu dem er das landwirtschaftliche Gewerbe übernommen hat. Er hat zudem Anspruch auf Entschädigung für die wertvermehrenden Aufwendungen; diese sind zum Zeitwert zu berechnen. 4 Das Rückkaufsrecht erlischt drei Monate nachdem der Berechtigte von der Aufgabe der Selbstbewirtschaftung Kenntnis erhalten hat, spätestens aber zwei Jahre nachdem die Selbstbewirtschaftung aufgegeben worden ist. 5 Das Rückkaufsrecht kann nicht geltend gemacht werden, wenn: a. ein Nachkomme des Eigentümers das landwirtschaftliche Gewerbe zur Selbstbewirtschaftung übernehmen will und dafür als geeignet erscheint; b. der Eigentümer stirbt und ein Erbe das landwirtschaftliche Gewerbe zur Selbstbewirtschaftung übernehmen will, der dafür als geeignet erscheint; c. der Eigentümer das landwirtschaftliche Gewerbe dem Gemeinwesen zur Erfüllung einer öffentlichen Aufgabe gemäss Artikel 65 veräussert oder wenn es ihm zwangsweise entzogen wird; d. der Eigentümer mit Genehmigung der Bewilligungsbehörde einzelne Grundstücke oder Grundstücksteile veräussert (Art. 60). 6 Hinterlässt der Eigentümer minderjährige Nachkommen, so kann das Rückkaufsrecht solange nicht geltend gemacht werden, bis feststeht, ob ein Nachkomme das Gewerbe zur Selbstbewirtschaftung übernehmen kann."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "",
+      "content": "1 Die Kantone können Vorkaufsrechte vorsehen: a. an landwirtschaftlichen Grundstücken für Körperschaften, die zum Zwecke von Bodenverbesserungen gegründet worden sind, sofern das Grundstück in ihrem Beizugsgebiet liegt und der Erwerb dem Zweck der Körperschaft dient; b. an privaten Allmenden, Alpen und Weiden für Gemeinden, Allmend- und Alpgenossenschaften und ähnliche Körperschaften ihres Gebiets; c. an Nutzungs- und Anteilsrechten an einer Allmende, Alp oder Weide für Körperschaften wie Allmend- oder Alpgenossenschaften, die Eigentümer dieser Allmende, Alp oder Weide sind. 2 Die gesetzlichen Vorkaufsrechte des Bundesrechts gehen den kantonalen Vorkaufsrechten vor. Die Kantone regeln die Rangfolge der von ihnen eingeführten Vorkaufsrechte."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "",
+      "content": "1 Die Eigentümer benachbarter landwirtschaftlicher Grundstücke müssen bei der Verbesserung unzweckmässiger Grenzen mitwirken. 2 Sie können einen Landabtausch im erforderlichen Umfang oder die Abtretung bis höchstens fünf Aren fordern, wenn dadurch die Grenze eine wesentliche Verbesserung erfährt."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "1. Kapitel: Realteilung landwirtschaftlicher Gewerbe und Zerstückelung landwirtschaftlicher Grundstücke landwirtschaftlicher Grundstücke",
+      "section": "58",
+      "title": "Realteilungs- und Zerstückelungsverbot",
+      "content": "1 Von landwirtschaftlichen Gewerben dürfen nicht einzelne Grundstücke oder Grundstücksteile abgetrennt werden (Realteilungsverbot). 2 Landwirtschaftliche Grundstücke dürfen nicht in Teilstücke unter 25 Aren aufgeteilt werden (Zerstückelungsverbot). Für Rebgrundstücke beträgt diese Mindestfläche 15 Aren. Die Kantone können grössere Mindestflächen festlegen. 3 Landwirtschaftliche Gewerbe und Grundstücke dürfen zudem nicht in Miteigentumsanteile von weniger als einem Zwölftel aufgeteilt werden. Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ( AS 2008 3585 ; BBl 2006 6337 )."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "1. Kapitel: Realteilung landwirtschaftlicher Gewerbe und Zerstückelung landwirtschaftlicher Grundstücke landwirtschaftlicher Grundstücke",
+      "section": "59",
+      "title": "Ausnahmen",
+      "content": "Das Realteilungs- und das Zerstückelungsverbot gilt nicht für eine Abtrennung oder Teilung: a. im Rahmen einer Bodenverbesserung, bei der eine Behörde mitwirkt; b. zum Zweck einer Grenzverbesserung (Art. 57) oder einer Grenzbereinigung bei der Erstellung eines Werks; c. infolge einer Enteignung oder eines freihändigen Verkaufs, wenn dem Verkäufer die Enteignung angedroht wird; d. bei einer Zwangsvollstreckung."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "1. Kapitel: Realteilung landwirtschaftlicher Gewerbe und Zerstückelung landwirtschaftlicher Grundstücke landwirtschaftlicher Grundstücke",
+      "section": "60",
+      "title": "Bewilligung von Ausnahmen",
+      "content": "1 Die kantonale Bewilligungsbehörde bewilligt Ausnahmen vom Realteilungs- und Zerstückelungsverbot, wenn: a. das landwirtschaftliche Gewerbe oder Grundstück in einen Teil innerhalb und in einen Teil ausserhalb des Geltungsbereiches dieses Gesetzes aufgeteilt wird; b. … c. Grundstücke oder Grundstücksteile eines landwirtschaftlichen Gewerbes mit oder ohne Aufpreis gegen Land, Gebäude oder Anlagen getauscht werden, die für den Betrieb des Gewerbes günstiger liegen oder geeigneter sind; d. der abzutrennende Teil der einmaligen Arrondierung eines nichtlandwirtschaftlichen Grundstücks ausserhalb der Bauzone dient. Das nichtlandwirtschaftliche Grundstück darf dadurch höchstens um 1000 m 2 vergrössert werden; e. ein landwirtschaftliches Gebäude mit notwendigem Umschwung, das zur Bewirtschaftung eines landwirtschaftlichen Gewerbes oder Grundstücks nicht mehr benötigt wird, zwecks zonenkonformer Verwendung an den Eigentümer eines benachbarten landwirtschaftlichen Gewerbes oder Grundstücks übertragen werden soll und dadurch die Erstellung einer Baute vermieden werden kann, die nach Artikel 16 a des Raumplanungsgesetzes vom 22. Juni 1979 bewilligt werden müsste; f. auf dem abzutrennenden Teil ein Baurecht zu Gunsten des Pächters des landwirtschaftlichen Gewerbes errichtet werden soll; g. die finanzielle Existenz der bäuerlichen Familie stark gefährdet ist und durch die Veräusserung von Grundstücken oder Grundstücksteilen eine drohende Zwangsverwertung abgewendet werden kann; oder h. eine öffentliche oder im öffentlichen Interesse liegende Aufgabe erfüllt werden soll; i. die Abtrennung erfolgt, um ein dem gemeinschaftlichen Betrieb dienendes Ökonomiegebäude oder eine entsprechende Anlage zu errichten. 2 Die Behörde bewilligt ferner eine Ausnahme vom Realteilungsverbot, wenn: a. die Realteilung überwiegend dazu dient, andere landwirtschaftliche Gewerbe strukturell zu verbessern; b. keine vorkaufs- oder zuweisungsberechtigte Person innerhalb der Verwandtschaft das Gewerbe zur Selbstbewirtschaftung übernehmen will, oder keine andere Person, die in der Erbteilung die Zuweisung verlangen könnte (Art. 11 Abs. 2), das Gewerbe zur Verpachtung als Ganzes übernehmen will; und c. der Ehegatte, der das Gewerbe zusammen mit dem Eigentümer bewirtschaftet hat, der Realteilung zustimmt. Fassung gemäss Ziff. II des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ( AS 2000 2042 ; BBl 1996 III 513 ). Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). Fassung gemäss Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 ). Eingefügt durch Ziff. II des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ( AS 2000 2042 ; BBl 1996 III 513 ). SR 700 Eingefügt durch Ziff. I des BG vom 26. Juni 1998 ( AS 1998 3009 ; BBl 1996 IV 1 ). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). Eingefügt durch Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 ). Eingefügt durch Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 ). Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). Eingefügt durch Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "2. Kapitel: Erwerb von landwirtschaftlichen Gewerben und Grundstücken",
+      "section": "61",
+      "title": "Grundsatz",
+      "content": "1 Wer ein landwirtschaftliches Gewerbe oder Grundstück erwerben will, braucht dazu eine Bewilligung. 2 Die Bewilligung wird erteilt, wenn kein Verweigerungsgrund vorliegt. 3 Als Erwerb gilt die Eigentumsübertragung sowie jedes andere Rechtsgeschäft, das wirtschaftlich einer Eigentumsübertragung gleichkommt."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "2. Kapitel: Erwerb von landwirtschaftlichen Gewerben und Grundstücken",
+      "section": "62",
+      "title": "Ausnahmen",
+      "content": "Keiner Bewilligung bedarf der Erwerb: a. durch Erbgang und durch erbrechtliche Zuweisung; b. durch einen Nachkommen, den Ehegatten, die Eltern, ein Geschwister oder Geschwisterkind des Veräusserers; c. durch einen Mit- oder Gesamteigentümer; d. durch die Ausübung eines gesetzlichen Kaufs- oder Rückkaufsrechts; e. im Rahmen einer Enteignung oder einer Bodenverbesserung, bei der eine Behörde mitwirkt; f. zum Zweck der Grenzbereinigung oder der Grenzverbesserung; g. beim Übergang von Eigentum durch Fusion oder Spaltung nach dem Fusionsgesetz vom 3. Oktober 2003, wenn die Aktiven des übertragenden oder des übernehmenden Rechtsträgers nicht zur Hauptsache aus einem landwirtschaftlichen Gewerbe oder aus landwirtschaftlichen Grundstücken bestehen; h. durch den Kanton oder eine Gemeinde zum Zweck des Hochwasserschutzes, der Revitalisierung von Gewässern, des Baus von Ausgleichs- und Pumpspeicherbecken bei Wasserkraftwerken sowie des Realersatzes für diese Bedürfnisse. Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ( AS 2008 3585 ; BBl 2006 6337 ). Eingefügt durch Anhang Ziff. 1 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ( AS 2004 2617 ; BBl 2000 4337 ). SR 221.301 Eingefügt durch Ziff. II 3 des BG vom 11. Dez. 2009 (Renaturierung), in Kraft seit 1. Jan. 2011 ( AS 2010 4285 ; BBl 2008 8043 8079 )."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "2. Kapitel: Erwerb von landwirtschaftlichen Gewerben und Grundstücken",
+      "section": "63",
+      "title": "Verweigerungsgründe",
+      "content": "1 Die Bewilligung zum Erwerb eines landwirtschaftlichen Gewerbes oder Grundstücks wird verweigert, wenn: a. der Erwerber nicht Selbstbewirtschafter ist; b. ein übersetzter Preis vereinbart wurde; c. … d. das zu erwerbende Grundstück ausserhalb des ortsüblichen Bewirtschaftungsbereichs des Gewerbes des Erwerbers liegt. 2 Der Verweigerungsgrund von Absatz 1 Buchstabe b ist unbeachtlich, wenn ein landwirtschaftliches Gewerbe oder Grundstück in einem Zwangsvollstreckungsverfahren erworben wird. Aufgehoben durch Ziff. I des BG vom 26. Juni 1998, mit Wirkung seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 ). Eingefügt durch Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 )."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Ausnahmen vom Prinzip der Selbstbewirtschaftung",
+      "content": "1 Bei fehlender Selbstbewirtschaftung ist die Bewilligung zu erteilen, wenn der Erwerber einen wichtigen Grund nachweist, namentlich wenn: a. der Erwerb dazu dient, ein Gewerbe, das seit langem als Ganzes verpachtet ist, als Pachtbetrieb zu erhalten, einen Pachtbetrieb strukturell zu verbessern oder einen Versuchs- oder Schulbetrieb zu errichten oder zu erhalten; b. der Erwerber über eine rechtskräftige Bewilligung für eine nach Artikel 24 des Raumplanungsgesetzes vom 22. Juni 1979 zulässige nichtlandwirtschaftliche Nutzung des Bodens verfügt; c. der Erwerb im Hinblick auf einen nach dem Raumplanungsrecht zulässigen Abbau von Bodenschätzen erfolgt und die Fläche nicht grösser ist, als es der Bedarf des Unternehmens an einer sinnvollen Rohstoffreserve oder an Realersatzland für eine Fläche im Abbaugebiet, je für längstens 15 Jahre, erkennen lässt. Wird das Land nicht innert 15 Jahren seit dem Erwerb bestimmungsgemäss verwendet, so muss es nach den Vorschriften dieses Gesetzes veräussert werden. Das gleiche gilt nach erfolgter Rekultivierung; d. das landwirtschaftliche Gewerbe oder Grundstück in einer Schutzzone liegt und der Erwerber den Boden zum Zwecke dieses Schutzes erwirbt; e. mit dem Erwerb die schutzwürdige Umgebung einer historischen Stätte, Baute oder Anlage oder ein Objekt des Naturschutzes erhalten werden soll; f. trotz öffentlicher Ausschreibung zu einem nicht übersetzten Preis (Art. 66) kein Angebot eines Selbstbewirtschafters vorliegt; g. ein Gläubiger, der ein Pfandrecht am Gewerbe oder am Grundstück hat, dieses in einem Zwangsvollstreckungsverfahren erwirbt. 2 Die Bewilligung kann mit Auflagen erteilt werden. Fassung gemäss Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 ). SR 700 Eingefügt durch Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 )."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Erwerb durch das Gemeinwesen",
+      "content": "1 Der Erwerb durch das Gemeinwesen oder dessen Anstalten ist zu bewilligen, wenn er: a. zur Erfüllung einer nach Plänen des Raumplanungsrechts vorgesehenen öffentlichen Aufgabe benötigt wird; b. als Realersatz bei Erstellung eines nach Plänen des Raumplanungsrechts vorgesehenen Werkes dient und ein eidgenössisches oder kantonales Gesetz die Leistung von Realersatz vorschreibt oder erlaubt. 2 Die Verweigerungsgründe von Artikel 63 gelten nicht im Falle von Absatz 1 Buchstabe a."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Übersetzter Erwerbspreis",
+      "content": "1 Der Erwerbspreis gilt als übersetzt, wenn er die Preise für vergleichbare landwirtschaftliche Gewerbe oder Grundstücke in der betreffenden Gegend im Mittel der letzten fünf Jahre um mehr als 5 Prozent übersteigt. 2 Die Kantone können in ihrer Gesetzgebung diesen Prozentsatz auf maximal 15 Prozent erhöhen. Eingefügt durch Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ( AS 2008 3585 ; BBl 2006 6337 )."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Zwangsversteigerung",
+      "content": "1 Bei einer Zwangsversteigerung muss der Ersteigerer die Bewilligung vorlegen oder die Kosten für eine neue Versteigerung hinterlegen und innert zehn Tagen nach erfolgtem Zuschlag ein Bewilligungsgesuch einreichen. 2 Reicht der Ersteigerer kein Gesuch ein oder wird die Bewilligung verweigert, so hebt die Steigerungsbehörde den Zuschlag auf und ordnet eine neue Versteigerung an. 3 Der erste Ersteigerer haftet für die Kosten einer erneuten Versteigerung."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 26. Juni 1998, mit Wirkung seit 1. Jan. 1999 ( AS 1998 3009 ; BBl 1996 IV 1 )."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Unzulässigkeit freiwilliger Versteigerung",
+      "content": "Landwirtschaftliches Gewerbe und Grundstücke dürfen nicht freiwillig versteigert werden."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "3. Kapitel: Zivil- und verwaltungsrechtliche Folgen",
+      "section": "70",
+      "title": "Nichtige Rechtsgeschäfte",
+      "content": "Rechtsgeschäfte, die den Verboten der Realteilung und der Zerstückelung von Grundstücken (Art. 58) oder den Bestimmungen über den Erwerb von landwirtschaftlichen Gewerben und Grundstücken (Art. 61–69) zuwiderlaufen oder deren Umgehung bezwecken, sind nichtig."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "3. Kapitel: Zivil- und verwaltungsrechtliche Folgen",
+      "section": "71",
+      "title": "Widerruf der Bewilligung",
+      "content": "1 Die Bewilligungsbehörde widerruft ihren Entscheid, wenn der Erwerber ihn durch falsche Angaben erschlichen hat. 2 Sind seit der Eintragung des Rechtsgeschäfts im Grundbuch mehr als zehn Jahre vergangen, so kann der Entscheid nicht mehr widerrufen werden."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "3. Kapitel: Zivil- und verwaltungsrechtliche Folgen",
+      "section": "72",
+      "title": "Berichtigung des Grundbuchs",
+      "content": "1 Ist ein nichtiges Geschäft im Grundbuch eingetragen worden, so ordnet die Bewilligungsbehörde die Berichtigung des Grundbuchs an, nachdem sie ihren Entscheid widerrufen hat (Art. 71). 2 Erfährt der Grundbuchverwalter nachträglich, dass ein Geschäft der Bewilligungspflicht unterliegt, so macht er die Bewilligungsbehörde darauf aufmerksam. 3 Sind seit der Eintragung des Rechtsgeschäfts mehr als zehn Jahre vergangen, so ist eine Berichtigung des Grundbuchs gemäss Absatz 1 nicht mehr möglich. 4 Eine Berichtigung des Grundbuchs ist ferner ausgeschlossen, wenn dadurch Rechte gutgläubiger Dritter (Art. 973 ZGB) verletzt würden. Die Bewilligungsbehörde erkundigt sich vor ihrem Entscheid beim Grundbuchverwalter darüber, ob solche Rechte bestehen. SR 210"
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "4. Titel: Massnahmen zur Verhütung der Überschuldung",
+      "section": "73",
+      "title": "Belastungsgrenze",
+      "content": "1 Landwirtschaftliche Grundstücke dürfen nur bis zur Belastungsgrenze mit Grundpfandrechten belastet werden. Die Belastungsgrenze entspricht der Summe des um 35 Prozent erhöhten landwirtschaftlichen Ertragswerts und des Ertragswerts der nichtlandwirtschaftlichen Teile. 2 Die Belastungsgrenze muss beachtet werden für: a. die Errichtung eines Grundpfandrechts; b. die Bestellung eines Faustpfandes an einem Grundpfandtitel; c. die Wiederbelehnung eines abbezahlten Grundpfandtitels, über den der Eigentümer verfügen kann (Eigentümerschuldbrief). 3 Massgebend für die Beurteilung, ob die Belastungsgrenze erreicht wird, ist die Summe der im Grundbuch eingetragenen, vorgemerkten und angemerkten Grundpfandrechte. Nicht mitgezählt werden die Grundpfandrechte nach Artikel 75 Absatz 1. Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "4. Titel: Massnahmen zur Verhütung der Überschuldung",
+      "section": "74",
+      "title": "Gesamtpfandrechte",
+      "content": "1 Wird für eine Forderung ein Grundpfand auf mehreren Grundstücken errichtet (Gesamtpfand; Art. 798 Abs. 1 ZGB), so darf jedes Grundstück bis zum Betrag belastet werden, der der Summe der Belastungsgrenzen der verpfändeten Grundstücke entspricht. 2 Die Errichtung eines Gesamtpfandrechtes auf Grundstücken, die diesem Gesetz unterstehen, und solchen, die diesem Gesetz nicht unterstehen, ist nicht zulässig. SR 210"
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "4. Titel: Massnahmen zur Verhütung der Überschuldung",
+      "section": "75",
+      "title": "Ausnahmen von der Belastungsgrenze",
+      "content": "1 Keine Belastungsgrenze besteht für: a. die gesetzlichen Grundpfandrechte nach den Artikeln 808 und 810 ZGB sowie die gesetzlichen Grundpfandrechte nach kantonalem öffentlichen Recht (Art. 836 ZGB); b. Grundpfandrechte für Bodenverbesserungen (Art. 820 und 821 ZGB); c. Grundpfandrechte zur Sicherung von Darlehen, die nach dem Landwirtschaftsgesetz vom 29. April 1998 als Betriebshilfe oder Investitionskredite gewährt werden; d. Grundpfandrechte zur Sicherung von Darlehen, die der Bund oder ein Kanton aufgrund der Gesetzgebung über die Wohnbauförderung gewährt oder verbürgt, soweit die Wohnungen den Bedürfnissen des Betriebes dienen; e. Grundpfandrechte in Form von Grundpfandverschreibungen zur Sicherung des Gewinnanspruchs der Miterben und des Veräusserers. 2 Vorläufige Eintragungen von Grundpfandrechten nach den Artikeln 837 und 961 Absatz 1 Ziffer 1 ZGB dürfen ungeachtet der Belastungsgrenze im Grundbuch vorgemerkt werden. 3 Durch Eintragung eines Grundpfandrechts nach Absatz 1 Buchstaben a und b werden bereits eingetragene Grundpfandrechte, die im Rang nachgehen, in ihrem Bestand nicht berührt. SR 210 Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). SR 910.1"
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Überschreitung der Belastungsgrenze",
+      "content": "1 Ein Grundpfandrecht, für das die Belastungsgrenze gilt und das diese überschreitet, darf nur zur Sicherung eines Darlehens errichtet werden, das: a. eine vom Bund anerkannte Genossenschaft oder Stiftung des Privatrechts oder eine Institution des kantonalen öffentlichen Rechts dem Schuldner zinslos gewährt; b. eine dritte Person dem Schuldner gewährt und das durch eine Genossenschaft, Stiftung oder Institution im Sinne von Buchstabe a verbürgt oder verzinst wird. 2 Die kantonale Behörde kann ein Darlehen von Dritten, das durch ein die Belastungsgrenze übersteigendes Pfandrecht gesichert wird, unter Beachtung der Vorschriften nach den Artikeln 77 und 78 bewilligen. 3 Der Grundbuchverwalter weist eine Anmeldung ab, die keine dieser Voraussetzungen erfüllt."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Gewährung von pfandgesicherten Darlehen",
+      "content": "1 Ein Darlehen, das durch ein die Belastungsgrenze übersteigendes Pfandrecht gesichert wird, darf nur gewährt werden, wenn es: a. dem Schuldner dazu dient, ein landwirtschaftliches Gewerbe oder Grundstück zu erwerben, zu erweitern, zu erhalten oder zu verbessern, oder notwendiges Betriebsinventar anzuschaffen oder zu erneuern, und b. nicht zu einer für den Schuldner untragbaren Verschuldung führt. 2 Zur Beurteilung, ob das Darlehen tragbar bleibt, ist ein Betriebsbudget aufzustellen. Dabei müssen die gesamten Aufwendungen des Schuldners zur Verzinsung und Rückzahlung seiner Pfand- und Kurrentschulden berücksichtigt werden. In die Prüfung sind auch Darlehen einzubeziehen, die durch Pfandrechte gesichert sind, für welche die Belastungsgrenze nicht gilt. 3 Personen oder Institutionen, die das Darlehen verbürgen, verzinsen oder zinslos gewähren, und die Behörde, die das Darlehen überprüft hat, wachen darüber, dass es zum festgelegten Zweck verwendet wird. Die Person oder Institution, die das Darlehen verbürgt oder verzinst, und die Behörde, die das Darlehen überprüft hat, kann den Gläubiger verpflichten, das Darlehen zu kündigen, wenn es nicht seinem Zweck entsprechend verwendet wird."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Rückzahlungspflicht",
+      "content": "1 Dient das Darlehen dazu, ein landwirtschaftliches Grundstück zu erwerben, zu erweitern, zu erhalten oder zu verbessern, so muss der die Belastungsgrenze übersteigende Teil innert 25 Jahren zurückbezahlt werden. Liegen besondere Umstände vor, so kann der Gläubiger dem Schuldner eine längere Frist für die Rückzahlung des Darlehens gewähren oder ihn ganz von der Pflicht zur ratenweisen Rückzahlung befreien. Solche Erleichterungen dürfen nur mit der Zustimmung der Person oder Institution, die das Darlehen verbürgt oder verzinst, oder der Behörde, die es überprüft hat, gewährt werden. 2 Dient das Darlehen der Finanzierung von Betriebsinventar, so ist eine Rückzahlungsfrist festzusetzen, die der Abschreibungsdauer der finanzierten Sache entspricht. 3 Ist ein zurückbezahltes Darlehen durch einen Schuldbrief oder eine Gült (Art. 33a SchlT ZGB) gesichert und werden diese nicht als Sicherheit für ein neues Darlehen nach den Artikeln 76 und 77 verwendet, so muss der Gläubiger dafür sorgen, dass die Pfandsumme, soweit sie die Belastungsgrenze übersteigt, im Grundbuch und auf dem Pfandtitel geändert oder gelöscht wird. Personen oder Institutionen, die das Darlehen verbürgen oder verzinsen, und die Behörde, die es geprüft hat, sind berechtigt, zu diesem Zweck beim Grundbuchamt die Änderung oder Löschung zu beantragen. 4 Der Pfandtitel darf dem Schuldner nicht herausgegeben werden, bevor die Erfordernisse nach Absatz 3 erfüllt sind. SR 210 Fassung gemäss Ziff. II 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ( AS 2011 4637 ; BBl 2007 5283 )."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Anerkennung von Genossenschaften, Stiftungen und kantonalen Institutionen",
+      "content": "1 Eine Genossenschaft oder Stiftung des Privatrechts wird anerkannt, wenn ihre Statuten: a. vorsehen, Darlehen zu landwirtschaftlichen Zwecken unverzinslich zu gewähren oder solche Darlehen, wenn sie von Dritten gewährt werden, zu verbürgen oder zu verzinsen; b. einen Höchstbetrag festlegen, für welchen dem einzelnen Schuldner solche Darlehen zinslos gewährt, verbürgt oder verzinst werden können; c. ein Organ mit der Geschäftsführung betrauen, das sich aus sachkundigen Personen zusammensetzt; d. die Ausrichtung ertragsabhängiger Leistungen wie Tantiemen an die Organe ausschliessen; e. vorsehen, dass das Anteilscheinkapital und andere Einlagen der Genossenschafter höchstens zum Zinssatz für erste Hypotheken verzinst werden dürfen; f. vorsehen, dass ein Reinertrag für Rückstellungen und Reserven verwendet wird. 2 Das Eidgenössische Justiz- und Polizeidepartement entscheidet über die Anerkennung und veröffentlicht den Entscheid darüber im Bundesblatt. 3 Für die Anerkennung kantonaler Institutionen gelten sinngemäss die Bestimmungen über die Anerkennung von Genossenschaften und Stiftungen. 4 Die anerkannten Genossenschaften, Stiftungen und kantonalen Institutionen sind verpflichtet, dem Eidgenössischen Justiz- und Polizeidepartement regelmässig über ihre Geschäftstätigkeit Bericht zu erstatten."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "1. Kapitel: Verfahrensvorschriften",
+      "section": "80",
+      "title": "Zuständigkeit",
+      "content": "1 Das Gesuch um Erteilung einer Bewilligung, Erlass einer Feststellungsverfügung oder Schätzung des Ertragswerts ist bei der kantonalen Behörde einzureichen. 2 Liegt ein landwirtschaftliches Gewerbe in verschiedenen Kantonen, so ist für die Erteilung einer Bewilligung oder den Erlass einer Feststellungsverfügung derjenige Kanton zuständig, in dem sich der wertvollere Teil befindet."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "1. Kapitel: Verfahrensvorschriften",
+      "section": "81",
+      "title": "Behandlung durch den Grundbuchverwalter",
+      "content": "1 Dem Grundbuchamt sind nebst der Urkunde über das Rechtsgeschäft die erforderliche Bewilligung oder Urkunden, aus denen hervorgeht, dass keine Bewilligung nötig ist, sowie gegebenenfalls der Entscheid über die Festsetzung der Belastungsgrenze einzureichen. 2 Ist offensichtlich, dass für das angemeldete Geschäft eine Bewilligung notwendig ist, und liegt eine solche nicht vor, so weist der Grundbuchverwalter die Anmeldung ab. 3 Besteht Ungewissheit darüber, ob für das angemeldete Geschäft eine Bewilligung notwendig ist, so schreibt der Grundbuchverwalter die Anmeldung im Tagebuch ein, schiebt jedoch den Entscheid über die Eintragung im Grundbuch auf, bis über die Bewilligungspflicht und allenfalls über das Gesuch entschieden ist. 4 Der Grundbuchverwalter setzt eine Frist von 30 Tagen zur Einreichung eines Gesuchs um einen Entscheid über die Bewilligungspflicht oder um Bewilligungserteilung. Läuft die Frist unbenutzt ab oder wird die Bewilligung verweigert, so weist er die Anmeldung ab."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "1. Kapitel: Verfahrensvorschriften",
+      "section": "82",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. 3 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ( AS 2000 2355 ; BBl 1999 2829 )."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "1. Kapitel: Verfahrensvorschriften",
+      "section": "83",
+      "title": "Bewilligungsverfahren",
+      "content": "1 Das Gesuch um Erteilung einer Bewilligung ist bei der kantonalen Bewilligungsbehörde (Art. 90 Bst. a) einzureichen. 2 Diese teilt ihren Entscheid den Vertragsparteien, dem Grundbuchverwalter, der kantonalen Aufsichtsbehörde (Art. 90 Bst. b), dem Pächter sowie Kaufs-, Vorkaufs- oder Zuweisungsberechtigten mit. 3 Gegen die Verweigerung der Bewilligung können die Vertragsparteien, gegen die Erteilung der Bewilligung die kantonale Aufsichtsbehörde, der Pächter sowie Kaufs‑, Vorkaufs- oder Zuweisungsberechtigte bei der kantonalen Beschwerdeinstanz (Art. 88) Beschwerde führen."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "1. Kapitel: Verfahrensvorschriften",
+      "section": "84",
+      "title": "Feststellungsverfügung",
+      "content": "Wer ein schutzwürdiges Interesse hat, kann von der Bewilligungsbehörde insbesondere feststellen lassen, ob: a. ein landwirtschaftliches Gewerbe oder Grundstück dem Realteilungsverbot, dem Zerstückelungsverbot, dem Bewilligungsverfahren oder der Belastungsgrenze unterliegt; b. der Erwerb eines landwirtschaftlichen Gewerbes oder Grundstücks bewilligt werden kann."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "1. Kapitel: Verfahrensvorschriften",
+      "section": "85",
+      "title": "Änderung eines Nutzungsplanes",
+      "content": "Wird bei der Überprüfung eines Nutzungsplanes im Sinne von Artikel 21 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979 auch ein landwirtschaftliches Gewerbe oder Grundstück erfasst, so kann ein hängiger Prozess oder ein hängiges Verfahren auf Antrag eines Beteiligten bis zur Neufestsetzung der Nutzungszone, längstens aber für fünf Jahre, eingestellt werden. SR 700"
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Anmerkung im Grundbuch",
+      "content": "1 Im Grundbuch sind anzumerken: a. landwirtschaftliche Grundstücke in der Bauzone, die diesem Gesetz unterstellt sind (Art. 2); b. nichtlandwirtschaftliche Grundstücke ausserhalb der Bauzone, die diesem Gesetz nicht unterstellt sind (Art. 2). 2 Der Bundesrat bestimmt die Ausnahmen von der Anmerkungspflicht und regelt die Voraussetzungen, unter denen eine Anmerkung von Amtes wegen gelöscht wird."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Schätzung des Ertragswerts",
+      "content": "1 Der Ertragswert wird von einer Behörde von Amtes wegen oder auf Antrag eines Berechtigten geschätzt. Bei geplanten Bauten oder Anlagen kann die Behörde eine vorläufige Schätzung vornehmen. 1bis Wer berechtigt ist, die Schätzung des Ertragswerts zu verlangen, kann beantragen, dass das Inventar mit seinem Nutzwert geschätzt wird. 2 Der Ertragswert kann auch von einem Experten geschätzt werden; eine solche Schätzung ist verbindlich, wenn die Behörde sie genehmigt hat. 3 Die Schätzung des Ertragswerts können verlangen: a. der Eigentümer und jeder seiner Erben; b. jeder am betreffenden Grundstück oder Gewerbe nach diesem Gesetz Kaufs- oder Vorkaufsberechtigte, wenn er sein Recht ausüben könnte; c. die Pfandgläubiger, Bürgen und Personen oder Institutionen nach Artikel 76, wenn sie ein pfandgesichertes Darlehen gewähren, verbürgen oder verzinsen oder wenn sich der Wert des Grundstücks oder Gewerbes infolge von Naturereignissen, Bodenverbesserungen, Vergrösserung oder Verminderung der Fläche, Neu- oder Umbauten, Abbruch oder Stilllegung eines Gebäudes, Zweckentfremdung oder ähnlicher Umstände geändert hat. 4 Die Behörde teilt dem Eigentümer, dem Antragsteller und dem Grundbuchamt den neuen Ertragswert mit; dabei muss sie auch angeben, welche Beträge auf den Wert der nichtlandwirtschaftlichen Teile entfallen. Sie gibt zudem den Nutzwert des Inventars an, wenn dieser geschätzt worden ist. Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 ). Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "2. Kapitel: Rechtsschutz",
+      "section": "88",
+      "title": "",
+      "content": "1 Gegen eine Verfügung aufgrund dieses Gesetzes (Art. 80 Abs. 1 und Art. 87) kann innert 30 Tagen bei der kantonalen Beschwerdebehörde (Art. 90 Bst. f) Beschwerde erhoben werden. 2 Letztinstanzliche kantonale Entscheide sind dem Eidgenössischen Justiz- und Polizeidepartement mitzuteilen. 3 Im Übrigen richtet sich der Rechtsschutz nach den allgemeinen Bestimmungen über die Bundesrechtspflege. Aufgehoben durch Ziff. I 5 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, mit Wirkung seit 1. Jan. 2007 ( AS 2006 5599 ; BBl 2006 7759 ). Eingefügt durch Ziff. I 5 der V der BVers vom 20. Dez. 2006 über die Anpassung von Er-lassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2007 ( AS 2006 5599 ; BBl 2006 7759 )."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "2. Kapitel: Rechtsschutz",
+      "section": "89",
+      "title": "Beschwerde an das Bundesgericht",
+      "content": "Letztinstanzliche kantonale Beschwerdeentscheide unterliegen der Beschwerde in öffentlich-rechtlichen Angelegenheiten nach den Artikeln 82–89 des Bundesgerichtsgesetzes vom 17. Juni 2005. Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ( AS 2008 3585 ; BBl 2006 6337 ). SR 173.110"
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "1. Kapitel: Vollzug",
+      "section": "90",
+      "title": "Zuständigkeit der Kantone",
+      "content": "1 Die Kantone bezeichnen die Behörden, die zuständig sind: a. eine Bewilligung nach den Artikeln 60, 63, 64 und 65 zu erteilen; b. Entscheide der Bewilligungsbehörde gemäss Artikel 83 Absatz 3 anzufechten (Aufsichtsbehörde); c. eine Bewilligung nach Artikel 76 Absatz 2 für Darlehen zu erteilen, mit denen die Belastungsgrenze überschritten werden darf; d. eine Anmerkung nach Artikel 86 zu verlangen; e. die Schätzung des Ertragswerts durchzuführen oder zu genehmigen (Art. 87); f. über eine Beschwerde zu entscheiden (Beschwerdeinstanz). 2 Kantonale Erlasse, die sich auf dieses Gesetz stützen, müssen dem Eidgenössischen Justiz- und Polizeidepartement zur Kenntnis gebracht werden. Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "1. Kapitel: Vollzug",
+      "section": "91",
+      "title": "Zuständigkeit des Bundes",
+      "content": "1 Der Bundesrat erlässt die Vollzugsbestimmungen zu den Artikeln 10 Absatz 2 und 86 Absatz 2. 2 … 3 Das Eidgenössische Justiz- und Polizeidepartement entscheidet über die Anerkennung von Genossenschaften und Stiftungen des Privatrechts und von kantonalen Institutionen im Sinne von Artikel 79. Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "2. Kapitel: Änderung und Aufhebung von Bundesrecht",
+      "section": "92",
+      "title": "Änderung bisherigen Rechts",
+      "content": "… Die Änderungen können unter AS 1993 1410 konsultiert werden."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "2. Kapitel: Änderung und Aufhebung von Bundesrecht",
+      "section": "93",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Es werden aufgehoben: a. das Bundesgesetz vom 12. Juni 1951 über die Erhaltung des bäuerlichen Grundbesitzes; b. das Bundesgesetz vom 12. Dezember 1940 über die Entschuldung landwirtschaftlicher Heimwesen. [ AS 1952 403 , 1973 93 Ziff. I 3, 1977 237 Ziff. II 4, 1986 926 Art. 59 Ziff. 2] [BS 9 80; AS 1955 685 , 1962 1273 Art. 54 Abs. 1 Ziff. 4 Abs. 2, 1979 802 ]"
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "3. Kapitel: Übergangsrecht",
+      "section": "94",
+      "title": "Privatrecht",
+      "content": "1 Die Erbteilung richtet sich nach dem Recht, das bei der Eröffnung des Erbgangs gegolten hat; wird das Teilungsbegehren nicht innert Jahresfrist seit Inkrafttreten dieses Gesetzes gestellt, so gilt in jedem Fall das neue Recht. 2 Vertraglich begründetes gemeinschaftliches Eigentum (Mit- oder Gesamteigentum) wird nach altem Recht aufgehoben, wenn dies innert Jahresfrist seit Inkrafttreten dieses Gesetzes verlangt wird. 3 Ein bei Inkrafttreten dieses Gesetzes bereits bestehender gesetzlicher oder vertraglicher Gewinnanspruch behält auch unter dem neuen Recht seine Gültigkeit. Soweit vertraglich nichts Abweichendes vereinbart worden ist, richten sich jedoch Fälligkeit und Berechnung nach dem Recht, das im Zeitpunkt der Veräusserung gilt. Die Zuweisung eines landwirtschaftlichen Grundstücks zu einer Bauzone (Art. 29 Abs. 1 Bst. c) gilt nur dann als Veräusserung, wenn der Beschluss über die Einzonung nach Inkrafttreten dieses Gesetzes ergeht. 4 Für das Vorkaufsrecht an landwirtschaftlichen Gewerben und Grundstücken gilt das neue Recht, wenn der Vorkaufsfall nach dem Inkrafttreten dieses Gesetzes eingetreten ist."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "3. Kapitel: Übergangsrecht",
+      "section": "95",
+      "title": "Übrige Bestimmungen",
+      "content": "1 Die Bestimmungen dieses Gesetzes über das Realteilungsverbot, das Zerstückelungsverbot, das Bewilligungsverfahren und die Belastungsgrenze gelten für alle Rechtsgeschäfte, die nach Inkrafttreten dieses Gesetzes beim Grundbuchamt angemeldet werden. 2 Bewilligungs- und Beschwerdeverfahren, die beim Inkrafttreten hängig sind, werden nach dem neuen Recht beurteilt, wenn das Rechtsgeschäft beim Inkrafttreten dieses Gesetzes noch nicht beim Grundbuchamt angemeldet war."
+    },
+    {
+      "provision_ref": "art95a",
+      "chapter": "3. Kapitel: Übergangsrecht",
+      "section": "95a",
+      "title": "a Übergangsbestimmungen zur Änderung vom 20. Juni 2003",
+      "content": "Die übergangsrechtlichen Bestimmungen der Artikel 94 und 95 finden auch auf die Änderung vom 20. Juni 2003 Anwendung. Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ( AS 2003 4123 ; BBl 2002 4721 )."
+    },
+    {
+      "provision_ref": "art95b",
+      "chapter": "3. Kapitel: Übergangsrecht",
+      "section": "95b",
+      "title": "b Übergangsbestimmung zur Änderung vom 5. Oktober 2007",
+      "content": "Die Artikel 94 und 95 gelten auch für die Änderung vom 5. Oktober 2007. Eingefügt durch Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Sept. 2008 ( AS 2008 3585 ; BBl 2006 6337 )."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "4. Kapitel: Referendum und Inkrafttreten",
+      "section": "96",
+      "title": "",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 1. Januar 1994 BRB vom 3. Febr. 1993"
+    }
+  ],
+  "definitions": []
+}

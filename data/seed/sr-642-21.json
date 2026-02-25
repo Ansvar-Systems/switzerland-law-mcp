@@ -1,0 +1,522 @@
+{
+  "id": "sr-642-21",
+  "type": "statute",
+  "title": "Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer (Verrechnungssteuergesetz, VStG)",
+  "title_en": "",
+  "short_name": "VStG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Einleitung",
+      "section": "1",
+      "title": "",
+      "content": "1 Der Bund erhebt eine Verrechnungssteuer auf dem Ertrag beweglichen Kapitalvermögens, auf Gewinnen aus Geldspielen im Sinne des Geldspielgesetzes vom 29. September 2017 (BGS), auf Gewinnen aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, und auf Versicherungsleistungen; wo es das Gesetz vorsieht, tritt anstelle der Steuerentrichtung die Meldung der steuerbaren Leistung. 2 Die Verrechnungssteuer wird dem Empfänger der um die Steuer gekürzten Leistung nach Massgabe dieses Gesetzes vom Bund oder vom Kanton zu Lasten des Bundes zurückerstattet. SR 935.51 Fassung gemäss Anhang Ziff. II 7 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ( AS 2018 5103 ; BBl 2015 8387 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Einleitung",
+      "section": "2",
+      "title": "",
+      "content": "1 Der Anteil der Kantone am jährlichen Reinertrag der Verrechnungssteuer beträgt 10 Prozent. 2 Er wird jeweils zu Beginn des Folgejahres auf die Kantone verteilt. Als Bemessungsgrundlage dient die Wohnbevölkerung nach dem letzten verfügbaren Ergebnis der eidgenössischen Volkszählung. 3 Der Bundesrat ordnet die Einzelheiten nach Anhörung der Kantonsregierungen. Fassung gemäss Ziff. II 12 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ( AS 2007 5779 ; BBl 2005 6029 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Einleitung",
+      "section": "3",
+      "title": "",
+      "content": "1 Was dieses Gesetz als Gegenstand der Verrechnungssteuer oder steuerfrei erklärt, ist der Belastung durch gleichgeartete Kantons- und Gemeindesteuern entzogen; Anstände, die sich auf Grund dieser Bestimmung ergeben, beurteilt das Bundesgericht als einzige Instanz (Art. 120 des Bundesgerichtsgesetzes vom 17. Juni 2005). 2 Die Verwendung von Urkunden in einem Verfahren, das in Anwendung dieses Gesetzes durchgeführt wird, begründet nicht die Pflicht zur Entrichtung kantonaler Stempelabgaben. SR 173.110 Fassung gemäss Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Erster Abschnitt: Steuererhebung",
+      "section": "4",
+      "title": "",
+      "content": "1 Gegenstand der Verrechnungssteuer auf dem Ertrag beweglichen Kapitalvermögens sind die Zinsen, Renten, Gewinnanteile und sonstigen Erträge: a. der von einem Inländer ausgegebenen Obligationen, Serienschuldbriefe, Seriengülten und Schuldbuchguthaben; b. der von einem Inländer ausgegebenen Aktien, Stammanteile an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteile, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine und Genussscheine; c. der von einem Inländer oder von einem Ausländer in Verbindung mit einem Inländer ausgegebenen Anteile an einer kollektiven Kapitalanlage gemäss Kollektivanlagengesetz vom 23. Juni 2006 (KAG); d. der Kundenguthaben bei inländischen Banken und Sparkassen. 2 Die Verlegung des Sitzes einer Aktiengesellschaft, Gesellschaft mit beschränkter Haftung oder Genossenschaft ins Ausland steht steuerlich der Liquidation der Gesellschaft oder Genossenschaft gleich; diese Bestimmung findet auf kollektive Kapitalanlagen gemäss KAG sinngemässe Anwendung. Fassung gemäss Anhang Ziff. II 10 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ( AS 2018 5247 , 2019 4631 ; BBl 2015 8901 ). Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 ). SR 951.31 Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art4a",
+      "chapter": "Erster Abschnitt: Steuererhebung",
+      "section": "4a",
+      "title": "",
+      "content": "1 Erwirbt eine Gesellschaft oder eine Genossenschaft gestützt auf einen Beschluss über die Herabsetzung des Kapitals oder im Hinblick auf eine Herabsetzung ihres Kapitals eigene Beteiligungsrechte (Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung, Anteilscheine von Genossenschaften, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine oder Genussscheine), so unterliegt die Differenz zwischen dem Erwerbspreis und dem einbezahlten Nennwert dieser Beteiligungsrechte der Verrechnungssteuer. Dasselbe gilt, soweit der Erwerb eigener Beteiligungsrechte den Rahmen der Artikel 659 oder 783 des Obligationenrechts überschreitet. 2 Erwirbt eine Gesellschaft oder eine Genossenschaft im Rahmen der Artikel 659 oder 783 des Obligationenrechts eigene Beteiligungsrechte, ohne anschliessend ihr Kapital herabzusetzen, so gilt Absatz 1 sinngemäss, wenn die Gesellschaft oder die Genossenschaft diese Beteiligungsrechte nicht innerhalb von sechs Jahren wieder veräussert. 3 Hat eine Gesellschaft oder Genossenschaft eigene Beteiligungsrechte aus Anlass von Verpflichtungen erworben, die auf einer Wandelanleihe, einer Optionsanleihe oder einem Mitarbeiterbeteiligungsplan beruhen, so steht die Frist zur Wiederveräusserung nach Absatz 2 bis zum Erlöschen der betreffenden Verpflichtungen, im Falle des Mitarbeiterbeteiligungsplans jedoch längstens sechs Jahre, still. 4 Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben beim Erwerb eigener Beteiligungsrechte nach den Absätzen 1–3 den Liquidationsüberschuss mindestens zur Hälfte den Reserven aus Einlagen, Aufgeldern und Zuschüssen (Reserven aus Kapitaleinlagen) zu belasten. Ist diese Bedingung nicht erfüllt, so wird der Bestand an Reserven aus Kapitaleinlagen dementsprechend korrigiert, höchstens aber im Umfang der vorhandenen Reserven aus Kapitaleinlagen. Eingefügt durch Ziff. I 4 des BG vom 10. Okt. 1997 über die Reform der Unternehmens‑ besteuerung 1997, in Kraft seit 1. Jan. 1998 ( AS 1998 669 ; BBl 1997 II 1164 ). Fassung gemäss Anhang Ziff. II 10 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ( AS 2018 5247 , 2019 4631 ; BBl 2015 8901 ). SR 220 Fassung gemäss Anhang Ziff. 9 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 ). Fassung gemäss Anhang Ziff. 9 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 ). Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ( AS 2019 2395 2413 ; BBL 2018 2527)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "1 Von der Steuer sind ausgenommen: a. die Reserven und Gewinne einer Kapitalgesellschaft gemäss Artikel 49 Absatz 1 Buchstabe a des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (DBG) oder Genossenschaft, die bei einer Umstrukturierung nach Artikel 61 DBG in die Reserven einer aufnehmenden oder umgewandelten inländischen Kapitalgesellschaft oder Genossenschaft übergehen; b. die in einer kollektiven Kapitalanlage gemäss KAG erzielten Kapitalgewinne und Erträge aus direktem Grundbesitz sowie die durch die Anleger geleisteten Kapitaleinzahlungen, sofern sie über gesonderten Coupon ausgerichtet werden; c. die Zinsen von Kundenguthaben, wenn der Zinsbetrag für ein Kalenderjahr 200 Franken nicht übersteigt; d. die Zinsen der Einlagen zur Bildung und Äufnung von auf den Erlebens- oder Todesfall gestellten Guthaben bei Anstalten, Kassen und sonstigen Einrichtungen, die der Alters‑, Invaliditäts- oder Hinterlassenenversicherung oder ‑fürsorge dienen; e. … f. die freiwilligen Leistungen einer Aktiengesellschaft, einer Gesellschaft mit beschränkter Haftung oder einer Genossenschaft, sofern diese Leistungen gestützt auf Artikel 59 Absatz 1 Buchstabe c DBG geschäftsmässig begründet sind; g. die Zinsen von Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach den Artikeln 11–13 des Bankengesetzes vom 8. November 1934, sofern: 1. die Eidgenössische Finanzmarktaufsicht (FINMA), gestützt auf Artikel 11 Absatz 4 des Bankengesetzes, die Anrechnung der Anleihe an die erforderlichen Eigenmittel genehmigt hat, und 2. die Anleihe zwischen dem 1. Januar 2013 und dem 31. Dezember 2026 ausgegeben wird; h. Zinszahlungen von Teilnehmern an eine zentrale Gegenpartei im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 sowie von einer zentralen Gegenpartei an ihre Teilnehmer; i. die Zinsen von Anleihensobligationen von Banken oder Konzerngesellschaften von Finanzgruppen, für die Massnahmen nach den Artikeln 28–32 des Bankengesetzes angeordnet werden können, sofern: 1. die Anleihensobligation durch einen Sanierungsplan nach Artikel 31 Absatz 3 des Bankengesetzes reduziert oder in Eigenkapital umgewandelt werden kann, 2. die FINMA die Anleihensobligation im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigt hat: – bei nicht systemrelevanten Banken oder bei Konzerngesellschaften von Finanzgruppen: im Zeitpunkt der Emission – bei systemrelevanten Banken nach den Artikeln 7–10 a des Bankengesetzes: im Zeitpunkt der Emission oder bei einem Wechsel von einem ausländischen zu einem schweizerischen Emittenten, und 3. die Anleihensobligation zwischen dem 1. Januar 2017 und dem 31. Dezember 2026 ausgegeben wird oder während dieser Zeit ein Wechsel des Emittenten nach Ziffer 2 stattfindet. 1bis Die Rückzahlung von Reserven aus Kapitaleinlagen, die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital, wenn die Reserven aus Kapitaleinlagen von der Kapitalgesellschaft oder Genossenschaft in der Handelsbilanz auf einem gesonderten Konto ausgewiesen werden und die Gesellschaft oder Genossenschaft jede Veränderung auf diesem Konto der Eidgenössischen Steuerverwaltung (ESTV) meldet. Absatz 1 ter bleibt vorbehalten. 1ter Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 1 bis mindestens im gleichen Umfang übrige Reserven auszuschütten. Ist diese Bedingung nicht erfüllt, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der vorhandenen, handelsrechtlich ausschüttungs fähigen übrigen Reserven. Im gleichen Umfang sind handelsrechtlich ausschüttungsfähige übrige Reserven dem gesonderten Konto für Reserven aus Kapitalein lagen zuzuweisen. 1quater Absatz 1 ter ist nicht anwendbar auf Reserven aus Kapitaleinlagen: a. die bei fusionsähnlichen Zusammenschlüssen durch Einbringen von Beteiligungs- und Mitgliedschaftsrechten an einer ausländischen Kapitalgesellschaft oder Genossenschaft nach Artikel 61 Absatz 1 Buchstabe c DBG oder durch eine grenzüberschreitende Übertragung auf eine inländische Tochtergesellschaft nach Artikel 61 Absatz 1 Buchstabe d DBG nach dem 24. Februar 2008 entstanden sind; b. die im Zeitpunkt einer grenzüberschreitenden Fusion oder Umstrukturierung nach Artikel 61 Absatz 1 Buchstabe b und Absatz 3 DBG oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung nach dem 24. Februar 2008 bereits in einer ausländischen Kapitalgesellschaft oder Genossenschaft vorhanden waren; c. die an in- und ausländische juristische Personen zurückgezahlt werden, die zu mindestens 10 Prozent am Grund- oder Stammkapital der leistenden Gesellschaft beteiligt sind; d. im Falle der Liquidation oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung der Kapitalgesellschaft oder Genossenschaft ins Ausland. 1quinquies Die Gesellschaft hat die Reserven aus Kapitaleinlagen nach Absatz 1 quater Buchstaben a und b auf einem gesonderten Konto auszuweisen und der ESTV jede Veränderung auf diesem Konto zu melden. 1sexies Die Absätze 1 ter – 1 quinquies gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden. 2 Die Verordnung kann vorschreiben, dass Zinsen verschiedener, von einem Gläubiger oder Verfügungsberechtigten bei der gleichen Bank oder Sparkasse unterhaltener Kundenguthaben zusammenzurechnen sind; bei offenbarem Missbrauch kann die ESTV eine solche Zusammenrechnung im Einzelfall anordnen. Fassung gemäss Anhang Ziff. 9 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ( AS 2004 2617 ; BBl 2000 4337 ). SR 642.11 Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 ). SR 951.31 Fassung gemäss Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2010 ( AS 2008 2893 ; BBl 2005 4733 ). Eingefügt durch Art. 25 des ABRG vom 20. Dez. 1985 ( AS 1988 1420 ; BBl 1984 I 1129 ). Aufgehoben durch Ziff. I des BG vom 28. Sept. 2018, mit Wirkung seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 ). Eingefügt durch Anhang Ziff. 5 des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ( AS 2005 4545 ; BBl 2003 8153 8191 ). Ausdruck gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 ). Eingefügt durch Ziff. I des BG vom 15. Juni 2012 ( AS 2012 5981 ; BBl 2011 6615 ). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 3451 ; BBl 2015 7083 ). SR 952.0 Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Too-big-to-fail-Instrumente), in Kraft seit 1. Jan. 2022 ( AS 2021 719 ; BBl 2020 8701 ). Eingefügt durch Anhang Ziff. 7 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 5339 ; BBl 2014 7483 ). SR 958.1 Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 3451 ; BBl 2015 7083 ). Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Too-big-to-fail-Instrumente), in Kraft seit 1. Jan. 2022 ( AS 2021 719 ; BBl 2020 8701 ). Eingefügt durch Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ( AS 2008 2893 ; BBl 2005 4733 ). Fassung gemäss Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ( AS 2019 2395 2413 ; BBL 2018 2527). Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ( AS 2019 2395 2413 ; BBL 2018 2527). Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ( AS 2019 2395 2413 ; BBL 2018 2527). Eingefügt durch Ziff. I 7 des BG vom "
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": "1 Gegenstand der Verrechnungssteuer auf Gewinnen aus Geldspielen sind ausgerichtete einzelne Gewinne, die nicht nach Artikel 24 Buchstaben i–i ter DBG steuerfrei sind. 2 Gegenstand der Verrechnungssteuer auf Gewinnen aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung sind ausgerichtete einzelne Gewinne, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind. Fassung gemäss Anhang Ziff. II 7 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ( AS 2018 5103 ; BBl 2015 8387 ). SR 642.11"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "1 Gegenstand der Verrechnungssteuer auf Versicherungsleistungen sind Kapitalleistungen aus Lebensversicherung sowie Leibrenten und Pensionen, sofern die Versicherung zum inländischen Bestand des Versicherers gehört und bei Eintritt des versicherten Ereignisses der Versicherungsnehmer oder ein Anspruchsberechtigter Inländer ist. 2 Wird eine Versicherung vom inländischen in einen ausländischen Versicherungsbestand übergeführt oder tritt ein Inländer seine Versicherungsansprüche an einen Ausländer ab, so steht dies steuerlich der Erbringung der Versicherungsleistung gleich. 3 Als Kapitalleistung aus Lebensversicherung gilt auch jede Auszahlung von Guthaben im Sinne von Artikel 5 Absatz 1 Buchstabe d, unbekümmert um den Grund dieser Auszahlung."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "",
+      "content": "1 Von der Steuer sind ausgenommen: a. Kapitalleistungen, wenn der gesamte Leistungsbetrag aus derselben Versicherung 5000 Franken nicht übersteigt; b. Renten und Pensionen, wenn ihr Betrag einschliesslich Zulagen im Jahr 500 Franken nicht übersteigt; c. Leistungen auf Grund der Bundesgesetze über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung. 2 Die Verordnung kann allgemein vorschreiben, dass Kapitalleistungen oder Renten und Pensionen, die beim gleichen Versicherer auf dasselbe Leben gestellt sind, zusammenzurechnen sind; bei offenbarem Missbrauch kann die ESTV eine solche Zusammenrechnung im Einzelfall anordnen. SR 831.10 SR 831.20"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "1 Inländer ist, wer im Inland Wohnsitz, dauernden Aufenthalt oder statutarischen Sitz hat oder als Unternehmen im inländischen Handelsregister eingetragen ist; als Inländer im Sinne von Artikel 4 gelten auch juristische Personen oder Handelsgesellschaften ohne juristische Persönlichkeit, die ihren statutarischen Sitz im Ausland haben, jedoch tatsächlich im Inland geleitet werden und hier eine Geschäftstätigkeit ausüben. 2 Als Bank oder Sparkasse gilt, wer sich öffentlich zur Annahme verzinslicher Gelder empfiehlt oder fortgesetzt Gelder gegen Zins entgegennimmt; ausgenommen sind Sparvereine, die Einlagen nur von den eigenen Mitgliedern entgegennehmen, sowie Betriebssparkassen, die als Einleger nur das Personal des Betriebes zulassen, sofern diese Vereine oder Kassen die ihnen anvertrauten Gelder ausschliesslich in Werten anlegen, deren Ertrag der Verrechnungssteuer unterliegt. 3 Wo in diesem Gesetz von kollektiven Kapitalanlagen gemäss KAG die Rede ist, gelten seine Vorschriften für alle Personen, welche die entsprechenden Funktionen ausüben. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden in diesem Gesetz den Kapitalgesellschaften gleichgestellt. SR 951.31 Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "",
+      "content": "1 Steuerpflichtig ist der Schuldner der steuerbaren Leistung. 2 Bei kollektiven Kapitalanlagen gemäss KAG sind die Fondsleitung, die Investmentgesellschaft mit variablem Kapital, die Investmentgesellschaft mit festem Kapital und die Kommanditgesellschaft steuerpflichtig. Haben eine Mehrheit der unbeschränkt haftenden Gesellschafter einer Kommanditgesellschaft für kollektive Kapitalanlagen ihren Wohnsitz im Ausland oder handelt es sich bei den unbeschränkt haftenden Gesellschaftern um juristische Personen, an denen eine Mehrheit von Personen mit Wohnsitz oder Sitz im Ausland beteiligt sind, haftet die Depotbank der Kommanditgesellschaft solidarisch für die Steuer auf den ausbezahlten Erträgen. SR 951.31 Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "1 Die Steuerpflicht wird erfüllt durch: a. Entrichtung der Steuer (Art. 12–18); oder b. Meldung der steuerbaren Leistung (Art. 19–20 a ). 2 Die Verordnung umschreibt die Voraussetzungen, unter denen gegen Domizilerklärung (Affidavit) die Verrechnungssteuer auf Erträgen von Anteilen an kollektiven Kapitalanlagen gemäss KAG nicht erhoben wird. Fassung gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 ). SR 951.31 Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "",
+      "content": "1 Bei Kapitalerträgen und bei Gewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–i ter DBG steuerfrei sind, sowie bei Gewinnen aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind, entsteht die Steuerforderung im Zeitpunkt, in dem die steuerbare Leistung fällig wird. Werden Zinsen kapitalisiert oder wird eine Sitzverlegung ins Ausland (Art. 4 Abs. 2) beschlossen, so bewirkt dies die Entstehung der Steuerforderung. 1bis Im Falle des Erwerbs eigener Beteiligungsrechte nach Artikel 4 a Absatz 2 entsteht die Steuerforderung mit Ablauf der dort geregelten Frist. 1ter Bei Thesaurierungsfonds entsteht die Steuerforderung im Zeitpunkt der Gutschrift des steuerbaren Ertrages (Art. 4 Abs. 1 Bst. c). 2 Bei Versicherungsleistungen entsteht die Steuerforderung mit der Erbringung der Leistung. 3 Ist der Schuldner aus einem in seiner Person liegenden Grunde ausserstande, die steuerbare Leistung bei ihrer Fälligkeit zu erbringen, so entsteht die Steuerforderung erst im Zeitpunkt, auf den die Leistung oder eine an ihre Stelle tretende Leistung zahlbar gestellt, in jedem Falle aber, wenn sie tatsächlich erbracht wird. SR 642.11 Fassung gemäss Anhang Ziff. II 7 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ( AS 2018 5103 ; BBl 2015 8387 ). Eingefügt durch Ziff. I 4 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ( AS 1998 669 ; BBl 1997 II 1164 ). Eingefügt durch Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "",
+      "content": "1 Die Steuer beträgt: a. auf Kapitalerträgen und auf Gewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–i ter DBG steuerfrei sind, sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind: 35 Prozent der steuerbaren Leistung; b. auf Leibrenten und Pensionen: 15 Prozent der steuerbaren Leistung; c. auf sonstigen Versicherungsleistungen: 8 Prozent der steuerbaren Leistung. 2 Der Bundesrat kann den in Absatz 1 Buchstabe a festgesetzten Steuersatz auf ein Jahresende auf 30 Prozent herabsetzen, wenn es die Entwicklung der Währungslage oder des Kapitalmarktes erfordert. Fassung gemäss Anhang Ziff. II 7 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ( AS 2018 5103 ; BBl 2015 8387 ). SR 642.11 Eingefügt durch Ziff. I des BG vom 31. Jan. 1975 ( AS 1975 932 ; BBl 1975 I 334 ). Fassung gemäss Ziff. I des BG vom 15. Dez. 1978, in Kraft seit 1. Jan. 1980 ( AS 1979 499 ; BBl 1978 I 849 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "",
+      "content": "1 Die steuerbare Leistung ist bei der Auszahlung, Überweisung, Gutschrift oder Verrechnung ohne Rücksicht auf die Person des Gläubigers um den Steuerbetrag zu kürzen. Vereinbarungen, die dieser Verpflichtung widersprechen, sind nichtig. 2 Der Steuerpflichtige hat dem Empfänger der steuerbaren Leistung die zur Geltendmachung des Rückerstattungsanspruchs notwendigen Angaben zu machen und auf Verlangen hierüber eine Bescheinigung auszustellen."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "",
+      "content": "1 Mit dem Steuerpflichtigen haften solidarisch: a. für die Steuer einer aufgelösten juristischen Person, einer Handelsgesellschaft ohne juristische Persönlichkeit oder einer kollektiven Kapitalanlage: die mit der Liquidation betrauten Personen bis zum Betrag des Liquidationsergebnisses; b. für die Steuer einer juristischen Person oder einer kollektiven Kapitalanlage, die ihren Sitz ins Ausland verlegt: die Organe und im Falle der Kommanditgesellschaft für kollektive Kapitalanlage die Depotbank bis zum Betrage des reinen Vermögens der juristischen Person und der kollektiven Kapitalanlage. 2 Die in Absatz 1 bezeichneten Personen haften nur für Steuer‑, Zins- und Kostenforderungen, die während ihrer Geschäftsführung entstehen, geltend gemacht oder fällig werden; ihre Haftung entfällt, soweit sie nachweisen, dass sie alles ihnen Zumutbare zur Feststellung und Erfüllung der Steuerforderung getan haben. 3 Der Mithaftende hat im Verfahren die gleichen Rechte und Pflichten wie der Steuerpflichtige. Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "",
+      "content": "1 Die Steuer wird fällig: a. auf Zinsen von Kassenobligationen und Kundenguthaben bei inländischen Banken oder Sparkassen: 30 Tage nach Ablauf jedes Geschäftsvierteljahres für die in diesem Zeitraum fällig gewordenen Zinsen; b. … c. auf den übrigen Kapitalerträgen und auf Gewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–i ter DBG steuerfrei sind, sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind: 30 Tage nach Entstehung der Steuerforderung (Art. 12); d. auf Versicherungsleistungen: 30 Tage nach Ablauf jedes Monats für die in diesem Monat erbrachten Leistungen. 2 Auf Steuerbeträgen, die nach Ablauf der in Absatz 1 geregelten Fälligkeitstermine ausstehen, ist ohne Mahnung ein Verzugszins geschuldet. Der Zinssatz wird vom Eidgenössischen Finanzdepartement bestimmt. 2bis Kein Verzugszins ist geschuldet, wenn die materiellen Voraussetzungen für die Erfüllung der Steuerpflicht durch Meldung der steuerbaren Leistung erfüllt sind nach: a. Artikel 20 und seinen Ausführungsbestimmungen; a bis . Artikel 20 a und seinen Ausführungsbestimmungen; oder b. dem im Einzelfall anwendbaren internationalen Abkommen und den Ausführungs¬bestimmungen zu diesem Abkommen. 3 Wird über den Steuerpflichtigen der Konkurs eröffnet oder verlegt er seinen Wohnsitz oder Aufenthalt ins Ausland, so bewirkt dies die Fälligkeit der Steuer. Aufgehoben durch Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, mit Wirkung seit 1. Jan. 2009 ( AS 2008 2893 ; BBl 2005 4733 ). Fassung gemäss Anhang Ziff. II 7 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ( AS 2018 5103 ; BBl 2015 8387 ). Die Berichtigung vom 2. Juli 2019 betrifft nur den französischen Text ( AS 2019 2013 ). SR 642.11 Fassung gemäss Ziff. I 4 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ( AS 1998 669 ; BBl 1997 II 1164 ). Eingefügt durch Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 ). Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 15. Febr. 2017 ( AS 2017 497 ; BBl 2015 5331 5365 )."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "",
+      "content": "1 Die Steuerforderung verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem sie entstanden ist (Art. 12). 2 Die Verjährung beginnt nicht oder steht stille, solange die Steuerforderung sichergestellt ist oder keiner der Zahlungspflichtigen im Inland Wohnsitz hat. 3 Die Verjährung wird unterbrochen durch jede Anerkennung der Steuerforderung von Seiten eines Zahlungspflichtigen sowie durch jede auf Geltendmachung des Steueranspruchs gerichtete Amtshandlung, die einem Zahlungspflichtigen zur Kenntnis gebracht wird; mit der Unterbrechung beginnt die Verjährung von neuem. 4 Stillstand und Unterbrechung wirken gegenüber allen Zahlungspflichtigen."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "",
+      "content": "Die Steuerforderung, die bei der Aufwertung sanierungshalber abgeschriebener Beteiligungsrechte oder bei der Einlösung anlässlich einer Sanierung ausgegebener Genussscheine entstanden ist, kann erlassen werden, soweit der Steuerbezug eine offenbare Härte gegen den Empfänger der steuerbaren Leistung bedeuten würde."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "",
+      "content": "1 Der Versicherer hat seine Steuerpflicht durch Meldung der steuerbaren Versicherungsleistung zu erfüllen, sofern nicht vor Ausrichtung der Leistung der Versicherungsnehmer oder ein Anspruchsberechtigter bei ihm schriftlich Einspruch gegen die Meldung erhoben hat. 2 Übersteigt die infolge des Einspruchs zu entrichtende Steuer die noch zu erbringende Versicherungsleistung, so ist der Einspruch nur wirksam, wenn der Einsprecher dem Versicherer den Fehlbetrag ersetzt. 3 Die Meldungen sind innert 30 Tagen nach Ablauf jedes Monats für die in diesem Monat erbrachten Leistungen schriftlich der ESTV zu erstatten."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "",
+      "content": "1 Würde bei Kapitalerträgen die Steuerentrichtung zu unnötigen Umtrieben oder zu einer offenbaren Härte führen, so kann der steuerpflichtigen Person gestattet werden, ihre Steuerpflicht durch Meldung der steuerbaren Leistung zu erfüllen. 2 Der Bundesrat umschreibt die Fälle, in denen das Meldeverfahren zulässig ist. Das Meldeverfahren ist insbesondere bei Dividendenausschüttungen und geldwerten Leistungen im inländischen und grenzüberschreitenden Konzernverhältnis zuzulassen. 3 In den Fällen nach Artikel 16 Absatz 2 bis Buchstaben a und b wird das Meldeverfahren unabhängig davon gewährt, ob die Meldung der steuerbaren Leistung, das Gesuch um Bewilligung des Meldeverfahrens oder die Geltendmachung des Anspruchs auf ein Meldeverfahren rechtzeitig erfolgt oder nicht. Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 15. Febr. 2017 ( AS 2017 497 ; BBl 2015 5331 5365 ). Fassung gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 )."
+    },
+    {
+      "provision_ref": "art20a",
+      "section": "20a",
+      "title": "",
+      "content": "1 Bei Naturalgewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–i ter DBG steuerfrei sind, sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind, hat die Veranstalterin die Steuerpflicht durch Meldung der steuerbaren Leistung zu erfüllen. 2 Die Meldung ist innert 90 Tagen nach Fälligkeit des Gewinns schriftlich der ESTV zu erstatten. Der Meldung ist eine Wohnsitzbestätigung der Gewinnerin oder des Gewinners beizulegen. 3 Die ESTV leitet die Meldung an die Steuerbehörde des Wohnsitzkantons der Gewinnerin oder des Gewinners weiter. 4 Das Meldeverfahren wird auch dann gewährt, wenn die Meldung nicht innert 90 Tagen nach Fälligkeit des Gewinns erstattet wird. Eingefügt durch Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 ). SR 642.11"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Zweiter Abschnitt: Steuerrückerstattung",
+      "section": "21",
+      "title": "",
+      "content": "1 Ein nach den Artikeln 22–28 Berechtigter hat Anspruch auf Rückerstattung der ihm vom Schuldner abgezogenen Verrechnungssteuer: a. auf Kapitalerträgen: wenn er bei Fälligkeit der steuerbaren Leistung das Recht zur Nutzung des den steuerbaren Ertrag abwerfenden Vermögenswertes besass; b. auf Gewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–i ter DBG steuerfrei sind, und aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind: wenn er bei der Ziehung Eigentümer des Loses war oder gewinnberechtigter Teilnehmer ist. 2 Die Rückerstattung ist in allen Fällen unzulässig, in denen sie zu einer Steuerumgehung führen würde. 3 Wo besondere Verhältnisse es rechtfertigen (Börsengeschäfte u. dgl.), kann die Verordnung die Anspruchsberechtigung abweichend von Absatz 1 regeln. Fassung gemäss Anhang Ziff. II 7 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ( AS 2018 5103 ; BBl 2015 8387 ). SR 642.11"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Zweiter Abschnitt: Steuerrückerstattung",
+      "section": "22",
+      "title": "",
+      "content": "1 Natürliche Personen haben Anspruch auf Rückerstattung der Verrechnungssteuer, wenn sie bei Fälligkeit der steuerbaren Leistung im Inland Wohnsitz hatten. 2 Die Verordnung regelt den Rückerstattungsanspruch natürlicher Personen, die infolge blossen Aufenthalts zur Entrichtung von Einkommens- oder Vermögenssteuern des Bundes, eines Kantons oder einer Gemeinde verpflichtet sind; sie kann, wo besondere Verhältnisse es rechtfertigen, die Rückerstattung auch für andere Fälle vorsehen."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "",
+      "content": "1 Wer mit der Verrechnungssteuer belastete Einkünfte oder Vermögen, woraus solche Einkünfte fliessen, entgegen gesetzlicher Vorschrift der zuständigen Steuerbehörde nicht angibt, verwirkt den Anspruch auf Rückerstattung der von diesen Einkünften abgezogenen Verrechnungssteuer. 2 Die Verwirkung tritt nicht ein, wenn die Einkünfte oder Vermögen in der Steuererklärung fahrlässig nicht angegeben wurden und in einem noch nicht rechtskräftig abgeschlossenen Veranlagungs-, Revisions- oder Nachsteuerverfahren: a. nachträglich angegeben werden; oder b. von der Steuerbehörde aus eigener Feststellung zu den Einkünften oder Vermögen hinzugerechnet werden. Fassung gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 )."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "",
+      "content": "1 Der Bund, die Kantone und die Gemeinden sowie ihre Anstalten und Betriebe und die unter ihrer Verwaltung stehenden Spezialfonds haben Anspruch auf Rückerstattung der Verrechnungssteuer, wenn der den steuerbaren Ertrag abwerfende Vermögenswert in der Rechnung ausgewiesen ist. 2 Juristische Personen und Handelsgesellschaften ohne juristische Persönlichkeit haben Anspruch auf Rückerstattung der Verrechnungssteuer, wenn sie bei Fälligkeit der steuerbaren Leistung ihren Sitz im Inland hatten. 3 Ausländische Unternehmen, die für ihre Einkünfte aus einer inländischen Betriebsstätte oder für deren Betriebsvermögen Kantons- oder Gemeindesteuern zu entrichten verpflichtet sind, haben Anspruch auf Rückerstattung der von den Einkünften aus diesem Betriebsvermögen abgezogenen Verrechnungssteuer. 4 Ausländische Körperschaften und Anstalten ohne Erwerbszweck haben Anspruch auf Rückerstattung der Verrechnungssteuer, die von Einkünften aus Vermögen abgezogen wurde, das ausschliesslich Kultus-, Unterrichts- oder andern gemeinnützigen Zwecken des Auslandschweizertums dient. 5 Die Verordnung regelt den Rückerstattungsanspruch von Stockwerkeigentümergemeinschaften sowie von anderen Personenvereinigungen und Vermögensmassen, die das Recht der Persönlichkeit nicht erlangt haben, aber über eine eigene Organisation verfügen und im Inland tätig sind oder verwaltet werden. Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ( AS 2000 2741 ; BBl 2000 634 4903 ). Sie findet erstmals Anwendung auf die Rücker‑ stattung der Verrechnungssteuer von steuerbaren Leistungen, die nach dem 31. Dez. 2000 fällig werden (Ziff. II Abs. 2 der genannten Änd.)."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "",
+      "content": "1 Juristische Personen, Handelsgesellschaften ohne juristische Persönlichkeit und ausländische Unternehmen mit inländischer Betriebsstätte (Art. 24 Abs. 2–4), welche die mit der Verrechnungssteuer belasteten Einkünfte nicht ordnungsgemäss als Ertrag verbuchen, verwirken den Anspruch auf Rückerstattung der von diesen Einkünften abgezogenen Verrechnungssteuer. 2 Wo besondere Verhältnisse es rechtfertigen (Gratisaktien u. dgl.), kann die Verordnung Ausnahmen von dem in Absatz 1 aufgestellten Erfordernis der Verbuchung als Ertrag zulassen."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "",
+      "content": "Die kollektive Kapitalanlage, welche die Verrechnungssteuer auf den Erträgen von Anteilen an einer kollektiven Kapitalanlage gemäss KAG entrichtet (Art. 10 Abs. 2), hat für Rechnung der kollektiven Kapitalanlage Anspruch auf Rückerstattung der zu ihren Lasten abgezogenen Verrechnungssteuer; Artikel 25 findet sinngemässe Anwendung. Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 ). SR 951.31"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "",
+      "content": "Ausländische Inhaber von Anteilen an einer kollektiven Kapitalanlage gemäss KAG haben Anspruch auf Rückerstattung der von den Erträgen dieser Anteile abgezogenen Verrechnungssteuer, sofern diese Erträge zu mindestens 80 Prozent von ausländischen Quellen entstammen. Fassung gemäss Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 ). SR 951.31"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "",
+      "content": "1 Ausländische Staaten haben Anspruch auf Rückerstattung der Verrechnungssteuer, soweit diese auf Zinsen von Guthaben abgezogen wurde, die sie ausschliesslich für die Bedürfnisse ihrer diplomatischen und konsularischen Vertretungen bei inländischen Banken unterhalten. 2 Die gemäss dem Gaststaatgesetz vom 22. Juni 2007 von der Steuerpflicht ausgenommenen Begünstigten haben Anspruch auf Rückerstattung der Verrechnungssteuer, wenn sie bei Fälligkeit der steuerbaren Leistung nach gesetzlicher Vorschrift, Vertragsrecht oder Übung von der Entrichtung kantonaler Steuern auf Wertpapieren und Bankguthaben sowie auf dem Ertrag solcher Werte befreit waren. 3 Hält ein ausländischer Staat nicht Gegenrecht, so wird ihm sowie den Angehörigen seiner diplomatischen oder konsularischen Vertretungen die Rückerstattung versagt. SR 192.12 Fassung gemäss Anhang Ziff. II 9 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ( AS 2007 6637 ; BBl 2006 8017 )."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "",
+      "content": "1 Wer Rückerstattung der Verrechnungssteuer beansprucht, hat sie bei der zuständigen Behörde schriftlich zu beantragen. 2 Der Antrag kann frühestens nach Ablauf des Kalenderjahres, in dem die steuerbare Leistung fällig geworden ist, gestellt werden. 3 Wo wichtige Gründe vorliegen (Beendigung der Steuerpflicht, Auflösung einer juristischen Person, Konkurs und dergleichen) oder wo besondere Härten es rechtfertigen, kann der Antrag vorzeitig gestellt werden. 4 … Fassung gemäss Ziff. I 3 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ( AS 2013 2397 ; BBl 2011 3593 ). Aufgehoben durch Ziff. I 3 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, mit Wirkung seit 1. Jan. 2014 ( AS 2013 2397 ; BBl 2011 3593 )."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "",
+      "content": "1 Natürliche Personen haben ihren Antrag auf Rückerstattung bei der Steuerbehörde desjenigen Kantons einzureichen, in dem sie am Ende des Kalenderjahres, in dem die steuerbare Leistung fällig wurde, Wohnsitz hatten. 2 Juristische Personen, Handelsgesellschaften ohne juristische Persönlichkeit und alle sonstigen in Absatz 1 nicht genannten Anspruchsberechtigten haben ihren Antrag bei der ESTV einzureichen. 3 Wo die Verhältnisse es rechtfertigen, kann der Bundesrat die Zuständigkeit abweichend ordnen. Fassung gemäss Ziff. I 3 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ( AS 2001 1050 ; BBl 2000 3898 )."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "",
+      "content": "1 Die Kantone befriedigen den Anspruch in der Regel bis zur Höhe der vom Antragsteller zu entrichtenden Kantons- und Gemeindesteuern in Form der Verrechnung, für den Überschuss durch Rückerstattung in bar; sie können in ihren Vollzugsvorschriften die volle Rückerstattung in bar vorsehen. 2 Die Kantons- und Gemeindesteuern, mit welchen die Verrechnungssteuer gemäss Absatz 1 zu verrechnen ist, werden in den kantonalen Vollzugsvorschriften bezeichnet. 3 Wird der Antrag auf Rückerstattung mit der kantonalen Steuererklärung oder, wenn keine solche einzureichen ist, innert einer vom Kanton zu bestimmenden Frist gestellt, so wird mit den im gleichen Jahr zu entrichtenden Kantons- oder Gemeindesteuern verrechnet. 4 Die zu verrechnenden oder zurückzuerstattenden Beträge werden nicht verzinst."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "",
+      "content": "1 Der Anspruch auf Rückerstattung erlischt, wenn der Antrag nicht innert drei Jahren nach Ablauf des Kalenderjahres, in dem die steuerbare Leistung fällig geworden ist, gestellt wird. 2 Wird die Verrechnungssteuer erst auf Grund einer Beanstandung der ESTV entrichtet und überwälzt, und ist die Frist gemäss Absatz 1 bereits abgelaufen oder verbleiben von der Entrichtung der Steuer bis zu ihrem Ablauf nicht mindestens 60 Tage, so beginnt mit der Entrichtung der Steuer eine neue Frist von 60 Tagen zur Einreichung des Antrages."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "",
+      "content": "1 Der Empfänger der um die Verrechnungssteuer gekürzten Versicherungsleistung hat Anspruch auf Rückerstattung der Steuer, wenn er die Abzugsbescheinigung des Versicherers (Art. 14 Abs. 2) beibringt und alle Angaben vermittelt, die zur Geltendmachung der mit der Versicherung zusammenhängenden Steueransprüche des Bundes und der Kantone erforderlich sind. 2 Wer Rückerstattung beansprucht, hat sie bei der ESTV schriftlich zu beantragen; der Anspruch erlischt, wenn der Antrag nicht innert drei Jahren nach Ablauf des Kalenderjahres, in dem die Versicherungsleistung erbracht worden ist, gestellt wird. 3 Die Artikel 31 Absatz 4 und 32 Absatz 2 finden Anwendung."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Dritter Abschnitt: Behörden und Verfahren",
+      "section": "34",
+      "title": "",
+      "content": "1 Die ESTV erlässt für die Erhebung und Rückerstattung der Verrechnungssteuer alle Weisungen, Verfügungen und Entscheide, die nicht ausdrücklich einer andern Behörde vorbehalten sind. 2 Soweit die Rückerstattung der Verrechnungssteuer den Kantonen übertragen ist, sorgt die ESTV für die gleichmässige Handhabung der Bundesvorschriften."
+    },
+    {
+      "provision_ref": "art34a",
+      "chapter": "Dritter Abschnitt: Behörden und Verfahren",
+      "section": "34a",
+      "title": "",
+      "content": "1 Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung. 2 Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher. 3 Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die steuerpflichtige oder antragstellende Person anerkennen. Eingefügt durch Ziff. I 5 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ( AS 2021 673 ; BBl 2020 4705 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Dritter Abschnitt: Behörden und Verfahren",
+      "section": "35",
+      "title": "",
+      "content": "1 Organisation und Amtsführung der mit dem Vollzug dieses Gesetzes betrauten kantonalen Behörden werden, soweit das Bundesrecht nichts anderes bestimmt, durch das kantonale Recht geregelt. 2 Jeder Kanton bestellt eine von der Verwaltung unabhängige Rekurskommission. 3 Die Kantone bestimmen in ihren Vollzugsvorschriften die Amtsstellen, denen die Rückerstattung der Verrechnungssteuer obliegt (Verrechnungssteuerämter). 4 Die kantonalen Vollzugsvorschriften zu diesem Gesetze sind dem Bund zur Genehmigung zu unterbreiten. Ausdruck gemäss Ziff. III des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, in Kraft seit 1. Febr. 1991 ( AS 1991 362 ; BBl 1988 II 1333 )."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "",
+      "content": "1 Die Steuerbehörden der Kantone, Bezirke, Kreise und Gemeinden und die ESTV unterstützen sich gegenseitig in der Erfüllung ihrer Aufgabe; sie haben sich kostenlos die zweckdienlichen Meldungen zu erstatten, die benötigten Auskünfte zu erteilen und in amtliche Akten Einsicht zu gewähren. 2 Die Verwaltungsbehörden des Bundes und die andern als die in Absatz 1 genannten Behörden der Kantone, Bezirke, Kreise und Gemeinden sind gegenüber der ESTV auskunftspflichtig, sofern die verlangten Auskünfte für die Durchführung dieses Gesetzes von Bedeutung sein können. Eine Auskunft darf nur verweigert werden, soweit ihr wesentliche öffentliche Interessen, insbesondere die innere oder äussere Sicherheit des Bundes oder der Kantone entgegenstehen, oder die Auskunft die angegangene Behörde in der Durchführung ihrer Aufgabe wesentlich beeinträchtigen würde. Das Post-, Telefon- und Telegrafengeheimnis ist zu wahren. 3 Anstände über die Auskunftspflicht von Verwaltungsbehörden des Bundes entscheidet der Bundesrat, Anstände über die Auskunftspflicht von Behörden der Kantone, Bezirke, Kreise und Gemeinden, sofern die kantonale Regierung das Auskunftsbegehren abgelehnt hat, das Bundesgericht (Art. 110 ff. des Bundesrechtspflegegesetzes vom 16. Dez. 1943). 4 Die mit öffentlich-rechtlichen Aufgaben betrauten Organisationen sind im Rahmen dieser Aufgaben gleich den Behörden zur Auskunft verpflichtet; Absatz 3 findet sinngemässe Anwendung. [BS 3 531; AS 1948 485 Art. 86; 1955 871 Art. 118; 1959 902 ; 1969 737 Art. 80 Bst. b , 767 ; 1977 237 Ziff. II 3, 862 Art. 52 Ziff. 2, 1323 Ziff. III; 1978 688 Art. 88 Ziff. 3, 1450 ; 1979 42 ; 1980 31 Ziff. IV, 1718 Art. 52 Ziff. 2, 1819 Art. 12 Abs. 1; 1982 1676 Anhang Ziff. 13; 1983 1886 Art. 36 Ziff. 1; 1986 926 Art. 59 Ziff. 1; 1987 226 Ziff. II 1, 1665 Ziff. II; 1988 1776 Anhang Ziff. II 1; 1989 504 Art. 33 Bst. a ; 1990 938 Ziff. III Abs. 5; 1992 288 ; 1993 274 Art. 75 Ziff. 1, 1945 Anhang Ziff. 1; 1995 1227 Anhang Ziff. 3, 4093 Anhang Ziff. 4; 1996 508 Art. 36, 750 Art. 17, 1445 Anhang Ziff. 2, 1498 Anhang Ziff. 2; 1997 1155 Anhang Ziff. 6, 2465 Anhang Ziff. 5; 1998 2847 Anhang Ziff. 3, 3033 Anhang Ziff. 2; 1999 1118 Anhang Ziff. 1, 3071 Ziff. I 2; 2000 273 Anhang Ziff. 6, 416 Ziff. I 2, 505 Ziff. I 1, 2355 Anhang Ziff. 1, 2719 ; 2001 114 Ziff. I 4, 894 Art. 40 Ziff. 3, 1029 Art. 11 Abs. 2; 2002 863 Art. 35, 1904 Art. 36 Ziff. 1, 2767 Ziff. II, 3988 Anhang Ziff. 1; 2003 2133 Anhang Ziff. 7, 3543 Anhang Ziff. II 4 Bst. a , 4557 Anhang Ziff. II 1; 2004 1985 Anhang Ziff. II 1, 4719 Anhang Ziff. II 1; 2005 5685 Anhang Ziff. 7. AS 2006 1205 Art. 131 Abs. 1]. Siehe heute das Bundesgerichtsgesetz vom 17. Juni 2005 ( SR 173.110 )."
+    },
+    {
+      "provision_ref": "art36a",
+      "section": "36a",
+      "title": "",
+      "content": "1 Die ESTV betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind. 2 Die ESTV und die Behörden nach Artikel 36 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 36 Absätze 2 und 4 geben der ESTV die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können. … 3 Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern übermittelt. Sie können auch mittels eines Abrufverfahrens zugänglich gemacht werden. Diese Amtshilfe ist kostenlos. 4 Personendaten und die zu ihrer Bearbeitung verwendeten Einrichtungen wie Datenträger, EDV-Programme und Programmdokumentationen sind vor unbefugtem Verwenden, Verändern oder Zerstören sowie vor Diebstahl zu schützen. 5 Der Bundesrat kann Ausführungsbestimmungen erlassen, insbesondere über die Organisation und den Betrieb des Informationssystems, über die Kategorien der zu erfassenden Daten, über die Zugriffs- und Bearbeitungsberechtigung, über die Aufbewahrungsdauer sowie die Archivierung und Vernichtung der Daten. Eingefügt durch Ziff. VI 2 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ( AS 2000 1891 ; BBl 1999 9005 ). Dritter Satz gegenstandslos ( AS 2021 673 Ziff. II; BBl 2020 4705 )."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "",
+      "content": "1 Wer mit dem Vollzug dieses Gesetzes betraut ist oder dazu beigezogen wird, hat gegenüber andern Amtsstellen und Privaten über die in Ausübung seines Amtes gemachten Wahrnehmungen Stillschweigen zu bewahren und den Einblick in amtliche Akten zu verweigern. 2 Keine Geheimhaltungspflicht besteht: a. bei Leistung von Amtshilfe nach Artikel 36 Absatz 1 und bei Erfüllung einer Pflicht zur Anzeige strafbarer Handlungen; b. gegenüber Organen der Rechtspflege und der Verwaltung, die vom Bundesrat allgemein oder vom Eidgenössischen Finanzdepartement im Einzelfalle zur Einholung amtlicher Auskünfte bei den mit dem Vollzug dieses Gesetzes betrauten Behörden ermächtigt worden sind. Bezeichnung gemäss nicht veröffentlichtem BRB vom 19. Dez. 1997."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "",
+      "content": "1 Wer auf Grund dieses Gesetzes steuerpflichtig wird, hat sich unaufgefordert bei der ESTV anzumelden. 2 Der Steuerpflichtige hat der ESTV bei Fälligkeit der Steuer (Art. 16) unaufgefordert die vorgeschriebene Abrechnung mit den Belegen einzureichen und gleichzeitig die Steuer zu entrichten oder die an ihre Stelle tretende Meldung (Art. 19 und 20) zu erstatten. 3 Für Meldeverfahren nach Artikel 20 a Absatz 1 ist die Meldung innert 90 Tagen nach Fälligkeit der steuerbaren Leistung zusammen mit den Belegen und einer Wohnsitzbestätigung der Gewinnerin oder des Gewinners zu erstatten. Fassung gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 )."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "",
+      "content": "1 Der Steuerpflichtige hat der ESTV über alle Tatsachen, die für die Steuerpflicht oder für die Steuerbemessung von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen; er hat insbesondere: a. Steuerabrechnungen, Steuererklärungen und Fragebogen vollständig und genau auszufüllen; b. seine Geschäftsbücher ordnungsgemäss zu führen und sie, die Belege und andere Urkunden auf Verlangen beizubringen. 2 Die Bestreitung der Pflicht, die Verrechnungssteuer zu entrichten oder eine an ihre Stelle tretende Meldung zu erstatten, entbindet nicht von der Auskunftspflicht. 3 Wird die Auskunftspflicht bestritten, so trifft die ESTV eine Verfügung. Fassung gemäss Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "",
+      "content": "1 Die Erfüllung der Pflicht zur Anmeldung als Steuerpflichtiger, die Steuerabrechnungen und -ablieferungen sowie die Erfüllung der Meldepflicht gemäss den Artikeln 19 und 20 werden durch die ESTV überprüft. 2 Die ESTV kann zur Abklärung des Sachverhalts die Geschäftsbücher, die Belege und andere Urkunden des Steuerpflichtigen an Ort und Stelle prüfen. 3 Ergibt sich, dass der Steuerpflichtige seinen gesetzlichen Pflichten nicht nachgekommen ist, so ist ihm Gelegenheit zu geben, zu den erhobenen Aussetzungen Stellung zu nehmen. 4 Lässt sich der Anstand nicht erledigen, so trifft die ESTV einen Entscheid. 5 Die anlässlich einer Prüfung gemäss Absatz 1 oder 2 bei einer Bank oder Sparkasse im Sinne des Bankengesetzes vom 8. November 1934, bei der Schweizerischen Nationalbank oder bei einer Pfandbriefzentrale gemachten Feststellungen dürfen ausschliesslich für die Durchführung der Verrechnungssteuer verwendet werden. Das Bankgeheimnis ist zu wahren. SR 952.0"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "",
+      "content": "Die ESTV trifft alle Verfügungen und Entscheide, welche die Erhebung der Verrechnungssteuer notwendig macht; sie trifft einen Entscheid insbesondere dann, wenn: a. die Steuerforderung, die Mithaftung oder die Überwälzungspflicht bestritten wird; b. für einen bestimmten Fall vorsorglich die amtliche Feststellung der Steuerpflicht, der Grundlagen der Steuerberechnung, der Mithaftung oder der Überwälzungspflicht beantragt wird; c. der Steuerpflichtige oder Mithaftende die gemäss Abrechnung geschuldete Steuer nicht entrichtet."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "",
+      "content": "1 Verfügungen und Entscheide der ESTV können innert 30 Tagen nach der Eröffnung mit Einsprache angefochten werden. 2 Die Einsprache ist schriftlich bei der ESTV einzureichen; sie hat einen bestimmten Antrag zu enthalten und die zu seiner Begründung dienenden Tatsachen anzugeben. 3 Ist gültig Einsprache erhoben worden, so hat die ESTV die Verfügung oder den Entscheid ohne Bindung an die gestellten Anträge zu überprüfen. 4 Das Einspracheverfahren ist trotz Rückzug der Einsprache weiterzuführen, wenn Anhaltspunkte dafür vorliegen, dass die Verfügung oder der Entscheid dem Gesetz nicht entspricht. 5 Der Einspracheentscheid ist zu begründen und hat eine Rechtsmittelbelehrung zu enthalten."
+    },
+    {
+      "provision_ref": "art42a",
+      "section": "42a",
+      "title": "",
+      "content": "Eingefügt durch Anhang Ziff. 28 des BG vom 4. Okt. 1991 ( AS 1992 288 ; BBl 1991 II 465 ). Aufgehoben durch Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "",
+      "content": "1 Im Veranlagungs- und im Einspracheverfahren werden in der Regel keine Kosten berechnet. 2 Ohne Rücksicht auf den Ausgang des Verfahrens können Kosten von Untersuchungsmassnahmen demjenigen auferlegt werden, der sie schuldhaft verursacht hat."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "",
+      "content": "1 Wird der Anspruch auf Steuern, Zinsen und Kosten auf Mahnung hin nicht befriedigt, so ist Betreibung einzuleiten; vorbehalten bleibt die Eingabe in einem Konkurs. 2 Ist die Steuerforderung noch nicht rechtskräftig festgesetzt und wird sie bestritten, so unterbleibt ihre endgültige Kollokation, bis ein rechtskräftiger Steuerentscheid vorliegt."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "",
+      "content": "1 Fällt der Steuerpflichtige in Konkurs oder wird in einer gegen ihn gerichteten Betreibung das Pfändungsbegehren gestellt, bevor er seiner Pflicht zur Steuerüberwälzung nachgekommen ist, so gehen die ihm zustehenden Rückgriffsansprüche bis zur Höhe der noch nicht bezahlten Steuer auf den Bund über. 2 … Aufgehoben durch Anhang Ziff. 12 des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 ( AS 1995 1227 ; BBl 1991 III 1 )."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "",
+      "content": "1 Die ESTV kann Steuern, Zinsen und Kosten, auch wenn sie weder rechtskräftig festgesetzt noch fällig sind, sicherstellen lassen, wenn: a. der Bezug als gefährdet erscheint; b. der Zahlungspflichtige keinen Wohnsitz in der Schweiz hat oder Anstalten trifft, den Wohnsitz in der Schweiz aufzugeben oder sich im Handelsregister löschen zu lassen; c. der Zahlungspflichtige mit der Zahlung der Steuer in Verzug ist oder wiederholt in Verzug war. 2 Die Sicherstellungsverfügung hat den Rechtsgrund der Sicherstellung, den sicherzustellenden Betrag und die Stelle, welche die Sicherheiten entgegennimmt, anzugeben. Wird die Sicherstellung aufgrund von Absatz 1 Buchstabe a oder b angeordnet, so gilt die Sicherstellungsverfügung als Arrestbefehl im Sinne von Artikel 274 des Bundesgesetzes über Schuldbetreibung und Konkurs; die Einsprache gegen den Arrestbefehl ist ausgeschlossen. 3 Gegen Sicherstellungsverfügungen der ESTV kann beim Bundesverwaltungsgericht Beschwerde geführt werden. 4 Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung. 5 … SR 281.1 Fassung gemäss Anhang Ziff. 12 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ( AS 1995 1227 ; BBl 1991 III 1 ). Fassung gemäss Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 ). Eingefügt durch Anhang Ziff. 28 des BG vom 4. Okt. 1991 ( AS 1992 288 ; BBl 1991 II 465 ). Fassung gemäss Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 ). Eingefügt durch Anhang Ziff. 28 des BG vom 4. Okt. 1991 ( AS 1992 288 ; BBl 1991 II 465 ). Aufgehoben durch Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "",
+      "content": "1 Wer Rückerstattung der Verrechnungssteuer verlangt, hat der zuständigen Behörde über alle Tatsachen, die für den Rückerstattungsanspruch von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen; er hat insbesondere: a. die Antragsformulare und Fragebogen vollständig und genau auszufüllen; b. auf Verlangen Steuerabzugsbescheinigungen (Art. 14 Abs. 2) zu beschaffen und Geschäftsbücher, Belege und andere Urkunden beizubringen. 2 Kommt der Antragsteller seinen Auskunftspflichten nicht nach und kann der Rückerstattungsanspruch ohne die von der Behörde verlangten Auskünfte nicht abgeklärt werden, so wird der Antrag abgewiesen."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "",
+      "content": "1 Der Aussteller einer Steuerabzugsbescheinigung ist verpflichtet, dem Antragsteller auf sein Verlangen zuhanden der zuständigen Behörde ergänzende schriftliche Auskünfte zu erteilen. 2 Mitgesellschafter, Miteigentümer und Gesamthänder sind verpflichtet, der zuständigen Behörde auf Verlangen über das Rechtsverhältnis, das sie mit dem Antragsteller verbindet, insbesondere über seine Anteile, Ansprüche und Bezüge, Auskunft zu erteilen. 3 Bestreitet der Dritte seine Auskunftspflicht, so trifft die Behörde eine Verfügung, die mit Einsprache und Beschwerde angefochten werden kann."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "",
+      "content": "1 Die zuständige Behörde ist befugt, die vom Antragsteller oder gemäss Artikel 49 Absatz 2 von Dritten erteilten Auskünfte an Ort und Stelle nachzuprüfen und dabei in die Bücher und Belege sowie in andere Urkunden Einblick zu nehmen. 2 Die ESTV ist überdies befugt, die Steuerabzugsbescheinigungen (Art. 14 Abs. 2) und die sie ergänzenden Auskünfte (Art. 49 Abs. 1) beim Aussteller zu überprüfen. Artikel 40 Absatz 5 findet Anwendung. 3 Die kantonalen Behörden können im Übrigen von den ihnen als Veranlagungsbehörde eingeräumten Befugnissen Gebrauch machen."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "",
+      "content": "1 Entspricht die ESTV einem Antrag nicht oder nur teilweise, und lässt sich der Anstand nicht auf andere Weise erledigen, so trifft sie einen Entscheid. 2 Die nicht auf einem Entscheid nach Absatz 1 beruhende Rückerstattung steht unter dem Vorbehalt einer späteren Nachprüfung des Anspruchs; nach Ablauf von drei Jahren seit Gewährung der Rückerstattung ist die Nachprüfung nur noch in Verbindung mit einem Strafverfahren zulässig. 3 Ergibt die Nachprüfung, dass die Rückerstattung zu Unrecht gewährt worden ist, und verweigern der Antragsteller, seine Erben oder die Mithaftenden die Wiedereinzahlung, so trifft die ESTV einen auf Wiedereinzahlung lautenden Entscheid. 4 Die Artikel 42–44 über das Einsprache- und Beschwerdeverfahren und die Verfahrenskosten sowie, im Falle von Absatz 3, auch die Artikel 45 und 47 über Betreibung und Sicherstellung finden sinngemässe Anwendung."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "",
+      "content": "1 Das kantonale Verrechnungssteueramt prüft die bei ihm eingereichten Anträge, untersucht den Sachverhalt und trifft alle Massnahmen, welche die richtige Ermittlung des Rückerstattungsanspruchs nötig macht. 2 Nach Abschluss seiner Untersuchung trifft das Verrechnungssteueramt einen Entscheid über den Rückerstattungsanspruch; der Entscheid kann mit der Veranlagungsverfügung verbunden werden. 3 Wird dem Rückerstattungsantrag nicht oder nicht in vollem Umfange entsprochen, so ist der Entscheid kurz zu begründen. 4 Die vom Verrechnungssteueramt bewilligte Rückerstattung steht unter dem Vorbehalt einer Überprüfung des Anspruchs durch die ESTV gemäss Artikel 57."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "",
+      "content": "1 Gegen den Entscheid des kantonalen Verrechnungssteueramtes kann innert 30 Tagen nach der Eröffnung bei dieser Amtsstelle schriftlich Einsprache erhoben werden. 2 Auf das Einspracheverfahren finden die Bestimmungen der Artikel 42 und 44 sinngemässe Anwendung. 3 Vorbehalten bleibt Artikel 55."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "",
+      "content": "1 Gegen den Einspracheentscheid des kantonalen Verrechnungssteueramtes kann innert 30 Tagen nach der Eröffnung bei der kantonalen Rekurskommission schriftlich Beschwerde erhoben werden; die Beschwerde hat einen bestimmten Antrag zu enthalten und die zu seiner Begründung dienenden Tatsachen anzugeben. Vorbehalten bleibt Artikel 55. 2 Die Rekurskommission trifft die erforderlichen Untersuchungsmassnahmen; die Artikel 48–50 finden sinngemässe Anwendung. 3 Der ESTV ist Gelegenheit zu geben, am Verfahren teilzunehmen und Anträge zu stellen. 4 Das Beschwerdeverfahren ist trotz Rückzug der Beschwerde weiterzuführen, wenn Anhaltspunkte dafür vorliegen, dass der Entscheid dem Gesetz nicht entspricht, oder wenn die Eidgenössische oder die kantonale Steuerverwaltung Anträge gestellt hat und aufrechterhält. 5 Die Rekurskommission trifft den Beschwerdeentscheid auf Grund des Ergebnisses ihrer Untersuchung ohne Bindung an die gestellten Anträge. 6 Der Beschwerdeentscheid ist zu begründen und hat eine Rechtsmittelbelehrung zu enthalten; er ist den von ihm unmittelbar Betroffenen sowie der kantonalen und der ESTV schriftlich zu eröffnen."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "",
+      "content": "Der Kanton kann in seinen Vollzugsvorschriften bestimmen, dass sich das Einspracheverfahren und das Verfahren vor der kantonalen Rekurskommission nach den für die Anfechtung und Überprüfung der Steuerveranlagung massgebenden kantonalen Verfahrensvorschriften (einschliesslich der Fristen) richtet, wenn der Entscheid über den Rückerstattungsanspruch mit einer Veranlagungsverfügung verbunden worden ist."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "",
+      "content": "Der Entscheid der kantonalen Rekurskommission kann durch Beschwerde beim Bundesgericht angefochten werden. Fassung gemäss Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "",
+      "content": "1 Die Kantone stellen dem Bund Rechnung über die von ihnen zurückerstatteten Verrechnungssteuern. 2 Die ESTV überprüft die Abrechnungen der Kantone; sie kann dabei in alle massgebenden Unterlagen der Kantone, Bezirke, Kreise und Gemeinden Einsicht nehmen, im Einzelfalle weitere Untersuchungsmassnahmen anordnen oder von den Untersuchungsbefugnissen eines Verrechnungssteueramtes selber Gebrauch machen. 3 Ergibt die Überprüfung, dass die vom Verrechnungssteueramt gewährte Rückerstattung zu Unrecht erfolgt ist, so ordnet die ESTV vorsorglich eine entsprechende Kürzung des Betrages an, den der Kanton mit einer der nächsten Abrechnungen beansprucht. 4 Nach Ablauf von drei Jahren seit Ende des Kalenderjahres, in dem der Entscheid des Verrechnungssteueramtes über die Rückerstattung rechtskräftig geworden ist, kann die Kürzung nur noch in Verbindung mit einem Strafverfahren angeordnet werden."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "",
+      "content": "1 Ist gemäss Artikel 57 Absatz 3 vorsorglich eine Kürzung angeordnet worden, so kann das kantonale Verrechnungssteueramt von demjenigen, der in den Genuss der beanstandeten Rückerstattung gelangt ist, deren Rückleistung verlangen; der Rückleistungsanspruch des Kantons erlischt, wenn er nicht innert sechs Monaten seit Eröffnung der vorsorglichen Kürzung durch Entscheid geltend gemacht wird. 2 Gegen den Entscheid über die Rückleistungspflicht kann der Betroffene innert 30 Tagen seit der Eröffnung bei der kantonalen Rekurskommission Beschwerde erheben; die Artikel 54 und 56 finden Anwendung. 3 Stellt der Beschwerdeentscheid fest, dass keine Rückleistungspflicht besteht, so fällt die vorsorgliche Kürzung dahin; schützt er den Rückleistungsanspruch ganz oder zum Teil, so wird die Kürzung in diesem Umfange endgültig. 4 Macht das Verrechnungssteueramt ohne Zustimmung der ESTV die Rückleistung nicht geltend oder hat es sie in seinem rechtskräftig gewordenen Entscheid nicht in der vollen Höhe geltend gemacht, so wird die vorsorgliche Kürzung endgültig, sofern sie der Kanton nicht innert neun Monaten nach ihrer Eröffnung durch Klage beim Bundesgericht anficht (Art. 120 des Bundesgerichtsgesetzes vom 17. Juni 2005). 5 Der rechtskräftige Rückleistungsentscheid des kantonalen Verrechnungssteueramtes oder der kantonalen Rekurskommission steht einem vollstreckbaren Gerichtsurteil im Sinne von Artikel 80 des Schuldbetreibungs- und Konkursgesetzes gleich. SR 173.110 Fassung gemäss Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 ). SR 281.1"
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "",
+      "content": "1 Auf die Revision und die Erläuterung von Entscheiden der ESTV und der kantonalen Behörden werden die Artikel 66–69 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 sinngemäss angewandt. 2 … 3 … SR 172.021 Fassung gemäss Art. 52 des BG vom 27. Juni 1973 über die Stempelabgaben, in Kraft seit 1. Juli 1974 ( AS 1974 11 ; BBl 1972 II 1278 ). Aufgehoben durch Art. 52 des BG vom 27. Juni 1973 über die Stempelabgaben, mit Wirkung seit 1. Juli 1974 ( AS 1974 11 ; BBl 1972 II 1278 ). Aufgehoben durch Anhang Ziff. 60 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ( AS 2006 2197 1069 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "",
+      "content": "1 Rechnungsfehler und Schreibversehen in der Abrechnung der Kantone gemäss Artikel 57 können innert drei Jahren seit der Rechnungsstellung berichtigt werden. 2 Lässt sich der Anstand nicht erledigen, so trifft die zuständige Behörde einen Entscheid, der mit Einsprache und Beschwerde angefochten werden kann. Fassung gemäss Art. 52 des BG vom 27. Juni 1973 über die Stempelabgaben, in Kraft seit 1. Juli 1947 ( AS 1974 11 ; BBl 1972 II 1278 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Vierter Abschnitt: Strafbestimmungen",
+      "section": "61",
+      "title": "",
+      "content": "Wer vorsätzlich oder fahrlässig, zum eigenen oder zum Vorteil eines andern a. dem Bunde Verrechnungssteuern vorenthält, b. die Pflicht zur Meldung einer steuerbaren Leistung (Art. 19 und 20) nicht erfüllt oder eine unwahre Meldung erstattet, c. eine ungerechtfertigte Rückerstattung der Verrechnungssteuer oder einen andern unrechtmässigen Steuervorteil erwirkt, wird, sofern nicht die Strafbestimmung von Artikel 14 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974 zutrifft, wegen Hinterziehung mit Busse bis zu 30 000 Franken oder, sofern dies einen höheren Betrag ergibt, bis zum Dreifachen der hinterzogenen Steuer oder des unrechtmässigen Vorteils bestraft. Fassung gemäss Ziff. 10 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ( AS 1974 1857 ; BBl 1971 I 993 ). SR 313.0"
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Vierter Abschnitt: Strafbestimmungen",
+      "section": "62",
+      "title": "",
+      "content": "1 Wer die gesetzmässige Durchführung der Verrechnungssteuer gefährdet, indem er vorsätzlich oder fahrlässig: a. im Steuererhebungsverfahren der Pflicht zur Anmeldung als Steuerpflichtiger, zur Einreichung von Steuererklärungen, Aufstellungen und Abrechnungen, zur Erteilung von Auskünften und zur Vorlage von Geschäftsbüchern und Belegen nicht nachkommt; b. als Steuerpflichtiger oder an seiner Stelle eine unrichtige Abzugsbescheinigung aushändigt (Art. 14 Abs. 2); c. in einer Aufstellung oder Abrechnung, in einer Meldung oder einem Affidavit (Art. 11), in einem Antrag auf Rückerstattung der Steuer, in einem Gesuch um Steuererlass oder -befreiung unwahre Angaben macht oder erhebliche Tatsachen verschweigt oder dabei unwahre Belege über erhebliche Tatsachen vorlegt; d. als Steuerpflichtiger, Antragsteller oder auskunftspflichtiger Dritter unrichtige Auskünfte erteilt; e. Rückerstattungsansprüche geltend macht, die ihm nicht zustehen oder für die er bereits befriedigt worden ist; f. der Pflicht zur ordnungsgemässen Führung und Aufbewahrung der Geschäftsbücher, Register und Belege zuwiderhandelt, oder g. die ordnungsgemässe Durchführung einer Buchprüfung oder andern amtlichen Kontrolle erschwert, behindert oder verunmöglicht, wird, sofern nicht eine der Strafbestimmungen der Artikel 14–16 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974 zutrifft, mit Busse bis zu 20 000 Franken bestraft. 2 Bei einer Widerhandlung im Sinne von Absatz 1 Buchstabe g bleibt die Strafverfolgung nach Artikel 285 des Strafgesetzbuches vorbehalten. Fassung gemäss Ziff. 10 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ( AS 1974 1857 ; BBl 1971 I 993 ). SR 313.0 Fassung des letzten Satzes gemäss Ziff. 10 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ( AS 1974 1857 ; BBl 1971 I 993 ). SR 311.0"
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "",
+      "content": "Wer vorsätzlich oder fahrlässig die Überwälzung der Verrechnungssteuer unterlässt oder zu unterlassen verspricht, wird mit Busse bis zu 10 000 Franken bestraft."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "",
+      "content": "1 Mit Busse bis zu 5000 Franken wird bestraft, wer: a. eine Bedingung, an welche eine besondere Bewilligung geknüpft wurde, nicht einhält; b. einer Vorschrift dieses Gesetzes, einer Ausführungsverordnung oder einer aufgrund solcher Vorschriften erlassenen allgemeinen Weisung oder unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichteten Einzelverfügung zuwiderhandelt; c. für die Handlungen nach Artikel 20 Absatz 3 die Fristen nach dessen Ausführungsbestimmungen nicht einhält; d. die Frist nach Artikel 20 a Absatz 2 nicht einhält. 2 Strafbar ist auch die fahrlässige Begehung. Fassung gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 )."
+    },
+    {
+      "provision_ref": "art6566",
+      "section": "6566",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. 10 des Anhangs zum VStrR, mit Wirkung seit 1. Jan 1975 ( AS 1974 1857 ; BBl 1971 I 993 )."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "",
+      "content": "1 Das Verwaltungsstrafrechtsgesetz vom 22. März 1974 findet Anwendung; verfolgende und urteilende Verwaltungsbehörde im Sinne jenes Gesetzes ist die ESTV. 2 Wird die Widerhandlung im Verfahren vor einer kantonalen Behörde begangen, so ist diese zur Anzeige an die ESTV verpflichtet. 3 Die kantonale Behörde kann für Ordnungswidrigkeiten (Art. 64) Bussen bis zu 500 Franken verhängen; das Verfahren richtet sich nach den einschlägigen Bestimmungen der kantonalen Steuergesetzgebung. SR 313.0 Fassung gemäss Ziff. 10 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ( AS 1974 1857 ; BBl 1971 I 993 )."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "Fünfter Abschnitt: Schluss- und Übergangsbestimmungen",
+      "section": "68",
+      "title": "",
+      "content": "… Die Änderungen können unter AS 1966 385 konsultiert werden."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "Fünfter Abschnitt: Schluss- und Übergangsbestimmungen",
+      "section": "69",
+      "title": "",
+      "content": "1 Ausländische Inhaber von Obligationen, die von einer inländischen öffentlich-rechtlichen Körperschaft vor dem 10. Oktober 1921 mit dem Versprechen ausgegeben worden sind, dass die Zinsen ohne jeden Steuerabzug ausbezahlt werden, haben Anspruch auf Rückerstattung der von diesen Zinsen abgezogenen Verrechnungssteuer. 2 … Aufgehoben durch Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, mit Wirkung seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "Fünfter Abschnitt: Schluss- und Übergangsbestimmungen",
+      "section": "70",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. II 8 des Kollektivanlagengesetzes vom 23. Juni 2006, mit Wirkung seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art70a",
+      "chapter": "Fünfter Abschnitt: Schluss- und Übergangsbestimmungen",
+      "section": "70a",
+      "title": "",
+      "content": "Die Artikel 4 a , 12 Absatz 1 bis und 16 Absatz 2 sind auch auf Tatbestände anwendbar, welche vor Inkrafttreten dieser Bestimmungen eingetreten sind, es sei denn, die Steuerforderung sei verjährt oder bereits rechtskräftig festgesetzt. Eingefügt durch Ziff. I 4 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ( AS 1998 669 ; BBl 1997 II 1164 )."
+    },
+    {
+      "provision_ref": "art70b",
+      "section": "70b",
+      "title": "",
+      "content": "Natürliche Personen haben ihren Antrag auf Rückerstattung der Verrechnungssteuer für die vor dem 1. Januar 2001 fälligen steuerbaren Einkünfte bei der Steuerbehörde desjenigen Kantons einzureichen, in dem sie zu Beginn des der Fälligkeit der steuerbaren Leistung folgenden Kalenderjahres Wohnsitz hatten. Eingefügt durch Ziff. I 3 des BG vom 15. Dez. 2000 zur Koordination und Vereinfachung der Veranlagungsverfahren für die direkten Steuern im interkantonalen Verhältnis, in Kraft seit 1. Jan. 2001 ( AS 2001 1050 ; BBl 2000 3898 )."
+    },
+    {
+      "provision_ref": "art70c",
+      "section": "70c",
+      "title": "",
+      "content": "1 Die Artikel 16 Absatz 2 bis und 20 sind auch auf Sachverhalte anwendbar, die vor Inkrafttreten der Änderungen vom 30. September 2016 eingetreten sind, es sei denn, die Steuerforderung oder die Verzugszinsforderung sei verjährt oder bereits vor dem 1. Januar 2011 rechtskräftig festgesetzt worden. 2 Erfüllt die steuerpflichtige Person die Voraussetzungen nach Artikel 16 Absatz 2 bis , so wird auf ihr Gesuch der bereits bezahlte Verzugszins ohne Vergütungszins zurückerstattet. 3 Das Gesuch ist innerhalb eines Jahres nach Inkrafttreten dieser Änderung zu stellen. Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 15. Febr. 2017 ( AS 2017 497 ; BBl 2015 5331 5365 )."
+    },
+    {
+      "provision_ref": "art70d",
+      "section": "70d",
+      "title": "",
+      "content": "Artikel 23 Absatz 2 gilt für Ansprüche, die seit dem 1. Januar 2014 entstanden sind, sofern über den Anspruch auf Rückerstattung der Verrechnungssteuer noch nicht rechtskräftig entschieden worden ist. Eingefügt durch Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ( AS 2019 433 ; BBl 2018 2325 )."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "",
+      "content": "1 Die Stempelabgabe auf Coupons wird vom Inkrafttreten dieses Gesetzes an nicht mehr erhoben; die damit in Widerspruch stehenden Bestimmungen der Bundesgesetzgebung treten ausser Kraft. 2 Die ausser Kraft gesetzten Bestimmungen bleiben mit Bezug auf Abgabeforderungen, Tatsachen und Rechtsverhältnisse, die vor dem Inkrafttreten dieses Gesetzes entstanden oder eingetreten sind, auch nach diesem Zeitpunkt anwendbar. 3 Ist die Abgabe auf Coupons ausländischer Wertpapiere durch einmalige Pauschalzahlung entrichtet worden, so wird für Coupons, die nach dem Inkrafttreten dieses Gesetzes fällig werden, kein anteilmässiger Betrag zurückerstattet. 4 Die Coupons im Sinne des Bundesgesetzes vom 25. Juni 1921 betreffend die Stempelabgabe auf Coupons und die ihnen durch die eidgenössische Stempelgesetzgebung gleichgestellten Urkunden dürfen von den Kantonen nicht mit Stempelabgaben oder Registrierungsgebühren belegt werden. [BS 127 ]"
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "",
+      "content": "1 Mit dem Inkrafttreten dieses Gesetzes sind aufgehoben: a. der Bundesratsbeschluss vom 1. September 1943 über die Verrechnungssteuer; b. der Bundesratsbeschluss vom 13. Februar 1945 über die Sicherung der Steueransprüche bei Versicherungen; c. die Artikel 34–40 und 48 des Bundesbeschlusses vom 22. Dezember 1938 über die Durchführung der Übergangsordnung des Finanzhaushaltes. 2 Die Artikel 35–40 und 48 des Bundesbeschlusses vom 22. Dezember 1938 über die Durchführung der Übergangsordnung des Finanzhaushaltes bleiben anwendbar auf alle während ihrer Gültigkeitsdauer eingetretenen Tatsachen. [BS 6 326; AS 1949 II 1801 Art. 1 Bst. B Ziff. 1 Bst. d, 1950 II 1463 Art. 2 ad Art. 2, 1954 1314 Art. 2, 1958 362] [BS 6 345; AS 1949 II 1801 Art. 1 Bst. B Ziff. 1 Bst. e, 1950 II 1463 Art. 2 ad Art. 2, 1954 1314 Art. 2] [BS 6 38 40; AS 1949 II 1801 Art. 1 Bst. A, 1950 II 1463 Art. 2 ad Art. 1, 1954 1314 Art. 2] [BS 6 38 40; AS 1949 II 1801 Art. 1 Bst. A; 1950 II 1463 Art. 2 ad Art. 1; 1954 1314 Art. 2]"
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "",
+      "content": "1 Der Bundesrat und die Kantone erlassen die erforderlichen Vollzugsvorschriften. 2 Kann ein Kanton die Vollzugsvorschriften nicht rechtzeitig erlassen, so trifft der Bundesrat vorläufig die erforderlichen Massnahmen."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "",
+      "content": "Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes. Datum des Inkrafttretens: 1. Januar 1967 BRB vom 28. Jan. 1966"
+    }
+  ],
+  "definitions": []
+}

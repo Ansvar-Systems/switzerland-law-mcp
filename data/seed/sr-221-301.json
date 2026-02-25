@@ -1,0 +1,817 @@
+{
+  "id": "sr-221-301",
+  "type": "statute",
+  "title": "Bundesgesetz vom 3. Oktober 2003 über Fusion, Spaltung, Umwandlung und Vermögensübertragung (Fusionsgesetz, FusG)",
+  "title_en": "",
+  "short_name": "FusG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2004/320/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Gegenstand und Begriffe",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Dieses Gesetz regelt die Anpassung der rechtlichen Strukturen von Kapitalgesellschaften, Kollektiv- und Kommanditgesellschaften, Genossenschaften, Vereinen, Stiftungen und Einzelunternehmen im Zusammenhang mit Fusion, Spaltung, Umwandlung und Vermögensübertragung. 2 Es gewährleistet dabei die Rechtssicherheit und Transparenz und schützt Gläubigerinnen und Gläubiger, Arbeitnehmerinnen und Arbeitnehmer sowie Personen mit Minderheitsbeteiligungen. 3 Ferner legt es die privatrechtlichen Voraussetzungen fest, unter welchen Institute des öffentlichen Rechts mit privatrechtlichen Rechtsträgern fusionieren, sich in privatrechtliche Rechtsträger umwandeln oder sich an Vermögensübertragungen beteiligen können. 4 Die Vorschriften des Kartellgesetzes vom 6. Oktober 1995 betreffend die Beurteilung von Unternehmenszusammenschlüssen bleiben vorbehalten. Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 ). SR 251"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Gegenstand und Begriffe",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In diesem Gesetz gelten als: a. Rechtsträger: Gesellschaften, Stiftungen, im Handelsregister eingetragene Einzelunternehmen, Kommanditgesellschaften für kollektive Kapitalanlagen, Investmentgesellschaften mit variablem Kapital und Institute des öffentlichen Rechts; b. Gesellschaften: Kapitalgesellschaften, Kollektiv- und Kommanditgesellschaften, Vereine und Genossenschaften, sofern es sich nicht um Vorsorgeeinrichtungen gemäss Buchstabe i handelt; c. Kapitalgesellschaften: Aktiengesellschaften, Kommanditaktiengesellschaften und Gesellschaften mit beschränkter Haftung; d. Institute des öffentlichen Rechts: im Handelsregister eingetragene, organisatorisch verselbständigte Einrichtungen des öffentlichen Rechts des Bundes, der Kantone und der Gemeinden, unabhängig davon, ob sie als juristische Person ausgestaltet sind oder nicht; e. kleine und mittlere Unternehmen: Gesellschaften, die keine Anleihensobligationen ausstehend haben, deren Anteile nicht an der Börse kotiert sind und die überdies zwei der nachfolgenden Grössen nicht in den zwei letzten dem Fusions-, dem Spaltungs- oder dem Umwandlungsbeschluss vorangegangenen Geschäftsjahren überschreiten: 1. Bilanzsumme von 20 Millionen Franken, 2. Umsatzerlös von 40 Millionen Franken, 3. 250 Vollzeitstellen im Jahresdurchschnitt; f. Gesellschafterinnen und Gesellschafter: Anteilsinhaberinnen und -inhaber, Gesellschafterinnen und Gesellschafter in der Kollektiv- und der Kommanditgesellschaft, Genossenschafterinnen und Genossenschafter ohne Anteilscheine, Mitglieder im Verein; g. Anteilsinhaberinnen und -inhaber: Inhaberinnen und Inhaber von Aktien, Partizipationsscheinen oder Genussscheinen, Gesellschafterinnen und Gesellschafter von Gesellschaften mit beschränkter Haftung, Genossenschafterinnen und Genossenschafter mit Anteilscheinen; h. Generalversammlung: die Generalversammlung in der Aktiengesellschaft, der Kommanditaktiengesellschaft und in der Genossenschaft; die Gesellschafterversammlung in der Gesellschaft mit beschränkter Haftung; die Versammlung der Mitglieder im Verein; die Delegiertenversammlung, soweit diese in der Genossenschaft oder im Verein nach den Statuten zuständig ist; i. Vorsorgeeinrichtungen: Einrichtungen, die der Aufsicht gemäss Artikel 61 ff. des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters‑, Hinterbliebenen- und Invalidenvorsorge (BVG) unterstellt sind und die als juristische Person ausgestaltet sind. Fassung gemäss Anhang Ziff. II 1 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 ). Fassung gemäss Anhang Ziff. 2 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ( AS 2012 6679 ; BBl 2008 1589 ). SR 831.40"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Grundsatz",
+      "content": "1 Gesellschaften können fusionieren, indem: a. die eine die andere übernimmt (Absorptionsfusion); b. sie sich zu einer neuen Gesellschaft zusammenschliessen (Kombinationsfusion). 2 Mit der Fusion wird die übertragende Gesellschaft aufgelöst und im Handelsregister gelöscht."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Zulässige Fusionen",
+      "content": "1 Kapitalgesellschaften können fusionieren: a. mit Kapitalgesellschaften; b. mit Genossenschaften; c. als übernehmende Gesellschaften mit Kollektiv- und Kommanditgesellschaften; d. als übernehmende Gesellschaften mit Vereinen, die im Handelsregister eingetragen sind. 2 Kollektiv- und Kommanditgesellschaften können fusionieren: a. mit Kollektiv- und Kommanditgesellschaften; b. als übertragende Gesellschaften mit Kapitalgesellschaften; c. als übertragende Gesellschaften mit Genossenschaften. 3 Genossenschaften können fusionieren: a. mit Genossenschaften; b. mit Kapitalgesellschaften; c. als übernehmende Gesellschaften mit Kollektiv- und Kommanditgesellschaften; d. als übernehmende Gesellschaften mit Vereinen, die im Handelsregister eingetragen sind; e. falls keine Anteilscheine bestehen, als übertragende Gesellschaften mit Vereinen, die im Handelsregister eingetragen sind. 4 Vereine können mit Vereinen fusionieren. Im Handelsregister eingetragene Vereine können überdies fusionieren: a. als übertragende Gesellschaften mit Kapitalgesellschaften; b. als übertragende Gesellschaften mit Genossenschaften; c. als übernehmende Gesellschaften mit Genossenschaften ohne Anteilscheine."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Fusion einer Gesellschaft in Liquidation",
+      "content": "1 Eine Gesellschaft in Liquidation kann sich als übertragende Gesellschaft an einer Fusion beteiligen, wenn mit der Vermögensverteilung noch nicht begonnen wurde. 2 Das oberste Leitungs- oder Verwaltungsorgan muss gegenüber dem Handelsregisteramt bestätigen, dass die Voraussetzung nach Absatz 1 erfüllt ist."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "6",
+      "title": "Fusion von Gesellschaften im Fall von Kapitalverlust oder Überschuldung",
+      "content": "1 Eine Gesellschaft, deren Aktiven abzüglich der Verbindlichkeiten die Hälfte der Summe aus Aktien-, Stamm- oder Genossenschaftskapital, nicht an die Aktionäre zurückzahlbarer gesetzlicher Kapitalreserve und gesetzlicher Gewinnreserve nicht mehr decken oder die überschuldet ist, kann mit einer anderen Gesellschaft nur fusionieren, wenn diese über frei verwendbares Eigenkapital im Umfang der Unterdeckung und gegebenenfalls der Überschuldung verfügt. 1bis Diese Voraussetzung entfällt, soweit Gläubigerinnen und Gläubiger der an der Fusion beteiligten Gesellschaften im Ausmass der Unterdeckung und gegebenenfalls der Überschuldung im Rang hinter alle ande ren Gläubigerinnen und Gläubiger zurücktreten und ihre Forderungen stunden, sofern der ge schuldete Betrag und die Zinsforderungen während der Dauer der Überschuldung vom Rangrücktritt umfasst sind. 2 Das oberste Leitungs- oder Verwaltungsorgan muss dem Handelsregisteramt eine Bestätigung einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten einreichen, wonach die Voraussetzungen nach Absatz 1 erfüllt sind. Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 ). Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 ). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Anteils- und Mitgliedschaftsrechte",
+      "section": "7",
+      "title": "Wahrung der Anteils- und Mitgliedschaftsrechte",
+      "content": "1 Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft haben Anspruch auf Anteils- oder Mitgliedschaftsrechte an der übernehmenden Gesellschaft, die unter Berücksichtigung des Vermögens der beteiligten Gesellschaften, der Verteilung der Stimmrechte sowie aller anderen relevanten Umstände ihren bisherigen Anteils- oder Mitgliedschaftsrechten entsprechen. 2 Bei der Festlegung des Umtauschverhältnisses für Anteile kann eine Ausgleichszahlung vorgesehen werden, die den zehnten Teil des wirklichen Werts der gewährten Anteile nicht übersteigen darf. 3 Gesellschafterinnen und Gesellschafter ohne Anteilscheine haben bei der Übernahme ihrer Gesellschaft durch eine Kapitalgesellschaft Anspruch auf mindestens einen Anteil. 4 Für Anteile ohne Stimmrecht an der übertragenden Gesellschaft muss die übernehmende Gesellschaft gleichwertige Anteile oder Anteile mit Stimmrecht gewähren. 5 Für Sonderrechte an der übertragenden Gesellschaft, die mit Anteils- oder Mitgliedschaftsrechten verbunden sind, muss die übernehmende Gesellschaft gleichwertige Rechte oder eine angemessene Abgeltung gewähren. 6 Die übernehmende Gesellschaft muss den Inhaberinnen und Inhabern von Genussscheinen der übertragenden Gesellschaft gleichwertige Rechte gewähren oder ihre Genussscheine zum wirklichen Wert im Zeitpunkt des Abschlusses des Fusionsvertrags zurückkaufen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Anteils- und Mitgliedschaftsrechte",
+      "section": "8",
+      "title": "Abfindung",
+      "content": "1 Die an der Fusion beteiligten Gesellschaften können im Fusionsvertrag vorsehen, dass die Gesellschafterinnen und Gesellschafter zwischen Anteils- oder Mitgliedschaftsrechten und einer Abfindung wählen können. 2 Die an der Fusion beteiligten Gesellschaften können im Fusionsvertrag auch vorsehen, dass nur eine Abfindung ausgerichtet wird."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Kapitalerhöhung, Neugründung und Zwischenabschluss Kapitalerhöhung, Neugründung und Zwischenabschluss",
+      "section": "9",
+      "title": "Kapitalerhöhung bei der Absorptionsfusion",
+      "content": "1 Bei der Absorptionsfusion muss die übernehmende Gesellschaft das Kapital erhöhen, soweit es zur Wahrung der Rechte der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft erforderlich ist. 2 Die Vorschriften des Obligationenrechts (OR) über die Sacheinlage (Art. 634 OR) und über den maximalen Umfang des Kapitalbands (Art. 653 s Abs. 2 OR) finden bei der Fusion keine Anwendung. SR 220 Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Kapitalerhöhung, Neugründung und Zwischenabschluss Kapitalerhöhung, Neugründung und Zwischenabschluss",
+      "section": "10",
+      "title": "Neugründung bei der Kombinationsfusion",
+      "content": "Für die Neugründung einer Gesellschaft im Rahmen einer Kombinationsfusion gelten die Bestimmungen des Zivilgesetzbuches (ZGB) und des OR über die Gründung einer Gesellschaft. Keine Anwendung finden die Vorschriften über die Anzahl der Gründerinnen und Gründer bei Kapitalgesellschaften sowie die Vorschriften über die Sacheinlagen. SR 210 SR 220"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Kapitalerhöhung, Neugründung und Zwischenabschluss Kapitalerhöhung, Neugründung und Zwischenabschluss",
+      "section": "11",
+      "title": "Zwischenabschluss",
+      "content": "1 Liegt der Bilanzstichtag bei Abschluss des Fusionsvertrags mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der an der Fusion beteiligten Gesellschaften eingetreten, so müssen diese einen Zwischenabschluss erstellen. 2 … Aufgehoben durch Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Fusionsvertrag, Fusionsbericht und Prüfung",
+      "section": "12",
+      "title": "Abschluss des Fusionsvertrags",
+      "content": "1 Der Fusionsvertrag muss von den obersten Leitungs- oder Verwaltungsorganen der an der Fusion beteiligten Gesellschaften abgeschlossen werden. 2 Er bedarf der schriftlichen Form und der Zustimmung der Generalversammlung beziehungsweise der Gesellschafterinnen und Gesellschafter der beteiligten Gesellschaften (Art. 18)."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Fusionsvertrag, Fusionsbericht und Prüfung",
+      "section": "13",
+      "title": "Inhalt des Fusionsvertrags",
+      "content": "1 Der Fusionsvertrag enthält: a. den Namen oder die Firma, den Sitz und die Rechtsform der beteiligten Gesellschaften, im Fall der Kombinationsfusion auch den Namen oder die Firma, den Sitz und die Rechtsform der neuen Gesellschaft; b. das Umtauschverhältnis für Anteile und gegebenenfalls die Höhe der Ausgleichszahlung beziehungsweise Angaben über die Mitgliedschaft der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft bei der übernehmenden Gesellschaft; c. die Rechte, welche die übernehmende Gesellschaft den Inhaberinnen und Inhabern von Sonderrechten, von Anteilen ohne Stimmrecht oder von Genussscheinen gewährt; d. die Modalitäten für den Umtausch der Anteile; e. den Zeitpunkt, von dem an die Anteils- oder Mitgliedschaftsrechte Anspruch auf einen Anteil am Bilanzgewinn gewähren, sowie alle Besonderheiten dieses Anspruchs; f. gegebenenfalls die Höhe der Abfindung nach Artikel 8; g. den Zeitpunkt, von dem an die Handlungen der übertragenden Gesellschaft als für Rechnung der übernehmenden Gesellschaft vorgenommen gelten; h. jeden besonderen Vorteil, der Mitgliedern eines Leitungs- oder Verwaltungsorgans oder geschäftsführenden Gesellschafterinnen und Gesellschaftern gewährt wird; i. gegebenenfalls die Bezeichnung der Gesellschafterinnen und Gesellschafter mit unbeschränkter Haftung. 2 Bei der Fusion zwischen Vereinen finden Absatz 1 Buchstaben c–f keine Anwendung."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Fusionsvertrag, Fusionsbericht und Prüfung",
+      "section": "14",
+      "title": "Fusionsbericht",
+      "content": "1 Die obersten Leitungs- oder Verwaltungsorgane der beteiligten Gesellschaften müssen einen schriftlichen Bericht über die Fusion erstellen. Sie können den Bericht auch gemeinsam verfassen. 2 Kleine und mittlere Unternehmen können auf die Erstellung eines Fusionsberichts verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen. 3 Im Bericht sind rechtlich und wirtschaftlich zu erläutern und zu begründen: a. der Zweck und die Folgen der Fusion; b. der Fusionsvertrag; c. das Umtauschverhältnis für Anteile und gegebenenfalls die Höhe der Ausgleichszahlung beziehungsweise die Mitgliedschaft der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft bei der übernehmenden Gesellschaft; d. gegebenenfalls die Höhe der Abfindung und die Gründe, weshalb an Stelle von Anteils- oder Mitgliedschaftsrechten nur eine Abfindung gewährt werden soll; e. Besonderheiten bei der Bewertung der Anteile im Hinblick auf die Festsetzung des Umtauschverhältnisses; f. gegebenenfalls der Umfang der Kapitalerhöhung der übernehmenden Gesellschaft; g. gegebenenfalls die Nachschusspflicht, andere persönliche Leistungspflichten und die persönliche Haftung, die sich für die Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft aus der Fusion ergeben; h. bei der Fusion von Gesellschaften mit unterschiedlichen Rechtsformen die Pflichten, die den Gesellschafterinnen und Gesellschaftern in der neuen Rechtsform auferlegt werden können; i. die Auswirkungen der Fusion auf die Arbeitnehmerinnen und Arbeitnehmer der an der Fusion beteiligten Gesellschaften sowie Hinweise auf den Inhalt eines allfälligen Sozialplans; j. die Auswirkungen der Fusion auf die Gläubigerinnen und Gläubiger der an der Fusion beteiligten Gesellschaften; k. gegebenenfalls Hinweise auf erteilte und ausstehende behördliche Bewilligungen. 4 Bei der Kombinationsfusion ist dem Fusionsbericht der Entwurf der Statuten der neuen Gesellschaft beizufügen. 5 Bei der Fusion zwischen Vereinen findet diese Bestimmung keine Anwendung."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Prüfung des Fusionsvertrags und des Fusionsberichts",
+      "content": "1 Die an der Fusion beteiligten Gesellschaften müssen den Fusionsvertrag, den Fusionsbericht und die der Fusion zu Grunde liegende Bilanz von einer zugelassenen Revisionsexpertin oder einem zugelassenen Revisionsexperten prüfen lassen, falls die übernehmende Gesellschaft eine Kapitalgesellschaft oder eine Genossenschaft mit Anteilscheinen ist. Sie können eine gemeinsame Revisionsexpertin oder einen gemeinsamen Revisionsexperten bestimmen. 2 Kleine und mittlere Unternehmen können auf die Prüfung verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen. 3 Die beteiligten Gesellschaften müssen der Revisionsexpertin oder dem Revisionsexperten alle zweckdienlichen Auskünfte und Unterlagen geben. 4 Die Revisionsexpertin oder der Revisionsexperte legt in einem schriftlichen Prüfungsbericht dar: a. ob die vorgesehene Kapitalerhöhung der übernehmenden Gesellschaft zur Wahrung der Rechte der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft genügt; b. ob das Umtauschverhältnis für Anteile beziehungsweise die Abfindung vertretbar ist; c. nach welcher Methode das Umtauschverhältnis bestimmt worden ist und aus welchen Gründen die angewandte Methode angemessen ist; d. welche relative Bedeutung gegebenenfalls verschiedenen angewendeten Methoden für die Bestimmung des Umtauschverhältnisses beigemessen wurde; e. welche Besonderheiten bei der Bewertung der Anteile im Hinblick auf die Festsetzung des Umtauschverhältnisses zu beachten waren. Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 ). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 ). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Einsichtsrecht",
+      "content": "1 Jede der an der Fusion beteiligten Gesellschaften muss an ihrem Sitz den Gesellschafterinnen und Gesellschaftern während der 30 Tage vor der Beschlussfassung Einsicht in folgende Unterlagen aller an der Fusion beteiligten Gesellschaften gewähren: a. den Fusionsvertrag; b. den Fusionsbericht; c. den Prüfungsbericht; d. die Jahresrechnungen und Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls den Zwischenabschluss. 2 Kleine und mittlere Unternehmen können auf das Einsichtsverfahren nach Absatz 1 verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen. 3 Die Gesellschafterinnen und Gesellschafter können von den beteiligten Gesellschaften Kopien der Unterlagen nach Absatz 1 verlangen. Diese müssen ihnen unentgeltlich zur Verfügung gestellt werden. 4 Jede der an der Fusion beteiligten Gesellschaften muss die Gesellschafterinnen und Gesellschafter in geeigneter Form auf die Möglichkeit zur Einsichtnahme hinweisen."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Veränderungen im Vermögen",
+      "content": "1 Treten bei einer der an der Fusion beteiligten Gesellschaften zwischen dem Abschluss des Fusionsvertrags und der Beschlussfassung durch die Generalversammlung wesentliche Änderungen im Aktiv- oder im Passivvermögen ein, so muss deren oberstes Leitungs- oder Verwaltungsorgan die obersten Leitungs- oder Verwaltungsorgane der anderen beteiligten Gesellschaften darüber informieren. 2 Die obersten Leitungs- oder Verwaltungsorgane aller beteiligten Gesellschaften prüfen, ob der Fusionsvertrag abgeändert werden muss oder ob auf die Fusion zu verzichten ist; trifft dies zu, so müssen sie den Antrag auf Genehmigung zurückziehen. Andernfalls müssen sie in der Generalversammlung begründen, warum der Fusionsvertrag keiner Anpassung bedarf."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Fusionsbeschluss und Eintragung ins Handelsregister",
+      "section": "18",
+      "title": "Fusionsbeschluss",
+      "content": "1 Bei den Kapitalgesellschaften, den Genossenschaften und den Vereinen muss das oberste Leitungs- oder Verwaltungsorgan den Fusionsvertrag der Generalversammlung zur Beschlussfassung unterbreiten. Folgende Mehrheiten sind erforderlich: a. bei Aktiengesellschaften und Kommanditaktiengesellschaften mindestens zwei Drittel der an der Generalversammlung vertretenen Aktienstimmen und die absolute Mehrheit des von ihnen vertretenen Aktiennennwerts; b. bei einer Kapitalgesellschaft, die von einer Genossenschaft übernommen wird, die Zustimmung aller Aktionärinnen und Aktionäre oder, im Fall der Gesellschaft mit beschränkter Haftung, aller Gesellschafterinnen und Gesellschafter; c. bei Gesellschaften mit beschränkter Haftung mindestens zwei Drittel der an der Generalversammlung vertretenen Stimmen sowie die absolute Mehrheit des gesamten Stammkapitals, mit dem ein ausübbares Stimmrecht verbunden ist; d. bei Genossenschaften mindestens zwei Drittel der abgegebenen Stimmen oder, wenn eine Nachschusspflicht, andere persönliche Leistungspflichten oder die persönliche Haftung eingeführt oder erweitert werden, mindestens drei Viertel aller Genossenschafterinnen und Genossenschafter; e. bei Vereinen mindestens drei Viertel der an der Generalversammlung anwesenden Mitglieder. 2 Bei Kollektiv- und bei Kommanditgesellschaften bedarf der Fusionsvertrag der Zustimmung aller Gesellschafterinnen und Gesellschafter. Der Gesellschaftsvertrag kann jedoch vorsehen, dass die Zustimmung von mindestens drei Vierteln der Gesellschafterinnen und Gesellschafter genügt. 3 Übernimmt eine Kommanditaktiengesellschaft eine andere Gesellschaft, so bedarf es zusätzlich zu den Mehrheiten nach Absatz 1 Buchstabe a der schriftlichen Zustimmung aller Gesellschafterinnen und Gesellschafter, die unbeschränkt haften. 4 Bei Aktiengesellschaften oder Kommanditaktiengesellschaften, die von einer Gesellschaft mit beschränkter Haftung übernommen werden und bei denen durch diese Übernahme eine Nachschusspflicht oder eine andere persönliche Leistungspflicht eingeführt wird, bedarf es der Zustimmung aller Aktionärinnen und Aktionäre, die davon betroffen werden. 5 Sieht der Fusionsvertrag nur eine Abfindung vor, so bedarf der Fusionsbeschluss der Zustimmung von mindestens 90 Prozent der stimmberechtigten Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft. 6 Ergibt sich für die Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft aus der Fusion eine nderung des Zwecks der Gesellschaft und ist dafür auf Grund gesetzlicher oder statutarischer Vorschriften eine andere Mehrheit erforderlich als für den Fusionsbeschluss, so gelten für diesen beide Mehrheitserfordernisse. Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Abschnitt: Fusionsbeschluss und Eintragung ins Handelsregister",
+      "section": "19",
+      "title": "Austrittsrecht bei der Fusion von Vereinen",
+      "content": "1 Vereinsmitglieder können innerhalb von zwei Monaten nach dem Fusionsbeschluss frei aus dem Verein austreten. 2 Der Austritt gilt rückwirkend auf das Datum des Fusionsbeschlusses."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "5. Abschnitt: Fusionsbeschluss und Eintragung ins Handelsregister",
+      "section": "20",
+      "title": "Öffentliche Beurkundung",
+      "content": "1 Der Fusionsbeschluss bedarf der öffentlichen Beurkundung. 2 Bei der Fusion zwischen Vereinen findet diese Bestimmung keine Anwendung."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Eintragung ins Handelsregister",
+      "content": "1 Sobald der Fusionsbeschluss aller an der Fusion beteiligten Gesellschaften vorliegt, müssen deren oberste Leitungs- oder Verwaltungsorgane dem Handelsregisteramt die Fusion zur Eintragung anmelden. 2 Muss die übernehmende Gesellschaft infolge der Fusion ihr Kapital erhöhen, so sind dem Handelsregisteramt zusätzlich die geänderten Statuten und die erforderlichen Feststellungen über die Kapitalerhöhung (Art. 652 g OR) zu unterbreiten. 3 Die übertragende Gesellschaft wird mit der Eintragung der Fusion im Handelsregister gelöscht. 4 Diese Bestimmung findet keine Anwendung auf Vereine, die im Handelsregister nicht eingetragen sind. SR 220"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Rechtswirksamkeit",
+      "content": "1 Die Fusion wird mit der Eintragung ins Handelsregister rechtswirksam. In diesem Zeitpunkt gehen alle Aktiven und Passiven der übertragenden Gesellschaft von Gesetzes wegen auf die übernehmende Gesellschaft über. Artikel 34 des Kartellgesetzes vom 6. Oktober 1995 bleibt vorbehalten. 2 Die Fusion von Vereinen, die im Handelsregister nicht eingetragen sind, wird mit dem Vorliegen des Fusionsbeschlusses aller beteiligten Vereine rechtswirksam. SR 251"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "6. Abschnitt: Erleichterte Fusion von Kapitalgesellschaften",
+      "section": "23",
+      "title": "Voraussetzungen",
+      "content": "1 Kapitalgesellschaften können unter erleichterten Voraussetzungen fusionieren, wenn: a. die übernehmende Kapitalgesellschaft alle Anteile der übertragenden Kapitalgesellschaft besitzt, die ein Stimmrecht gewähren; oder b. ein Rechtsträger, eine natürliche Person oder eine gesetzlich oder vertraglich verbundene Personengruppe, alle Anteile der an der Fusion beteiligten Kapitalgesellschaften besitzt, die ein Stimmrecht gewähren. 2 Besitzt die übernehmende Kapitalgesellschaft nicht alle, jedoch mindestens 90 Prozent der Anteile der übertragenden Kapitalgesellschaft, die ein Stimmrecht gewähren, so kann die Fusion unter erleichterten Voraussetzungen erfolgen, wenn den Inhaberinnen und Inhabern von Minderheitsanteilen: a. neben Anteilsrechten an der übernehmenden Kapitalgesellschaft eine Abfindung nach Artikel 8 angeboten wird, die dem wirklichen Wert der Anteile entspricht; und b. aus der Fusion weder eine Nachschusspflicht, eine andere persönliche Leistungspflicht noch eine persönliche Haftung erwächst."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "6. Abschnitt: Erleichterte Fusion von Kapitalgesellschaften",
+      "section": "24",
+      "title": "Erleichterungen",
+      "content": "1 Die an der Fusion beteiligten Kapitalgesellschaften, welche die Voraussetzungen nach Artikel 23 Absatz 1 erfüllen, müssen im Fusionsvertrag nur die Angaben nach Artikel 13 Absatz 1 Buchstaben a und f–i machen. Sie müssen weder einen Fusionsbericht (Art. 14) erstellen noch den Fusionsvertrag prüfen lassen (Art. 15) noch das Einsichtsrecht gewähren (Art. 16) noch den Vertrag der Generalversammlung zur Beschlussfassung unterbreiten (Art. 18). 2 Die an der Fusion beteiligten Kapitalgesellschaften, die die Voraussetzungen nach Artikel 23 Absatz 2 erfüllen, müssen im Fusionsvertrag nur die Angaben nach Artikel 13 Absatz 1 Buchstaben a, b und f–i machen. Sie müssen weder einen Fusionsbericht (Art. 14) erstellen noch den Fusionsvertrag der Generalversammlung zur Beschlussfassung unterbreiten (Art. 18). Das Einsichtsrecht nach Artikel 16 muss mindestens 30 Tage vor der Anmeldung der Fusion zur Eintragung ins Handelsregister gewährt werden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "7. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "25",
+      "title": "Sicherstellung der Forderungen",
+      "content": "1 Die übernehmende Gesellschaft muss die Forderungen der Gläubigerinnen und Gläubiger der an der Fusion beteiligten Gesellschaften sicherstellen, wenn diese es innerhalb von drei Monaten nach der Rechtswirksamkeit der Fusion verlangen. 2 Die an der Fusion beteiligten Gesellschaften müssen ihre Gläubigerinnen und Gläubiger im Schweizerischen Handelsamtsblatt dreimal auf ihre Rechte hinweisen. Sie können von einer Publikation absehen, wenn eine zugelassene Revisionsexpertin oder ein zugelassener Revisionsexperte bestätigt, dass keine Forderungen bekannt oder zu erwarten sind, zu deren Befriedigung das freie Vermögen der beteiligten Gesellschaften nicht ausreicht. 3 Die Pflicht zur Sicherstellung entfällt, wenn die Gesellschaft nachweist, dass die Erfüllung der Forderung durch die Fusion nicht gefährdet wird. 4 Anstatt eine Sicherheit zu leisten, kann die Gesellschaft die Forderung erfüllen, sofern die anderen Gläubigerinnen und Gläubiger nicht geschädigt werden. Fassung des zweiten Satzes gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "7. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "26",
+      "title": "Persönliche Haftung der Gesellschafterinnen und Gesellschafter",
+      "content": "1 Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft, die vor der Fusion für deren Verbindlichkeiten hafteten, bleiben dafür haftbar, soweit die Verbindlichkeiten vor der Veröffentlichung des Fusionsbeschlusses begründet wurden oder deren Entstehungsgrund vor diesem Zeitpunkt liegt. 2 Die Ansprüche aus persönlicher Haftung der Gesellschafterinnen und Gesellschafter für die Verbindlichkeiten der übertragenden Gesellschaft verjähren spätestens drei Jahre nach Eintritt der Rechtswirksamkeit der Fusion. Wird die Forderung erst nach der Veröffentlichung des Fusionsbeschlusses fällig, so beginnt die Verjährung mit der Fälligkeit. Die Begrenzung der persönlichen Haftung gilt nicht für Gesellschafterinnen und Gesellschafter, die auch für die Verbindlichkeiten der übernehmenden Gesellschaft persönlich haften. 3 Bei Anleihensobligationen und anderen Schuldverschreibungen, die öffentlich ausgegeben wurden, besteht die Haftung bis zur Rückzahlung, es sei denn, der Prospekt sehe etwas anderes vor. Vorbehalten bleiben die Bestimmungen über die Gläubigergemeinschaft bei Anleihensobligationen nach den Artikeln 1157 ff. des OR. SR 220"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "7. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "27",
+      "title": "Übergang der Arbeitsverhältnisse, Sicherstellung und persönliche Haftung",
+      "content": "1 Für den Übergang der Arbeitsverhältnisse auf die übernehmende Gesellschaft findet Artikel 333 des OR Anwendung. 2 Die Arbeitnehmerinnen und Arbeitnehmer der an der Fusion beteiligten Gesellschaften können gemäss Artikel 25 die Sicherstellung ihrer Forderungen aus Arbeitsvertrag verlangen, die bis zum Zeitpunkt fällig werden, auf den das Arbeitsverhältnis ordentlicherweise beendigt werden könnte oder, bei Ablehnung des Übergangs, von der Arbeitnehmerin oder dem Arbeitnehmer beendigt wird. 3 Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft, die vor der Fusion für deren Verbindlichkeiten hafteten, bleiben für alle Verbindlichkeiten aus Arbeitsvertrag haftbar, die bis zum Zeitpunkt fällig werden, auf den das Arbeitsverhältnis ordentlicherweise beendigt werden könnte oder, bei Ablehnung des Übergangs, von der Arbeitnehmerin oder dem Arbeitnehmer beendigt wird. SR 220"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Konsultation der Arbeitnehmervertretung",
+      "content": "1 Für die Konsultation der Arbeitnehmervertretung findet für die übertragende wie auch für die übernehmende Gesellschaft Artikel 333 a des OR Anwendung. 2 Die Konsultation muss vor der Beschlussfassung gemäss Artikel 18 erfolgen. Das oberste Leitungs- oder Verwaltungsorgan muss die Generalversammlung anlässlich der Beschlussfassung über das Ergebnis der Konsultation informieren. 3 Werden die Vorschriften der Absätze 1 und 2 nicht eingehalten, so kann die Arbeitnehmervertretung vom Gericht verlangen, dass es die Eintragung der Fusion ins Handelsregister untersagt. 4 Diese Bestimmung findet auch Anwendung auf übernehmende Gesellschaften mit Sitz im Ausland. SR 220"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "29",
+      "title": "Grundsatz",
+      "content": "Eine Gesellschaft kann sich spalten, indem sie: a. ihr ganzes Vermögen aufteilt und auf andere Gesellschaften überträgt. Ihre Gesellschafterinnen und Gesellschafter erhalten Anteils- oder Mitgliedschaftsrechte der übernehmenden Gesellschaften. Die übertragende Gesellschaft wird aufgelöst und im Handelsregister gelöscht (Aufspaltung); oder b. einen oder mehrere Teile ihres Vermögens auf andere Gesellschaften überträgt. Ihre Gesellschafterinnen und Gesellschafter erhalten dafür Anteils- oder Mitgliedschaftsrechte der übernehmenden Gesellschaften (Abspaltung)."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "30",
+      "title": "Zulässige Spaltungen",
+      "content": "Kapitalgesellschaften und Genossenschaften können sich in Kapitalgesellschaften und in Genossenschaften spalten."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "2. Abschnitt: Anteils- und Mitgliedschaftsrechte",
+      "section": "31",
+      "title": "",
+      "content": "1 Bei der Spaltung müssen die Anteils- und Mitgliedschaftsrechte gemäss Artikel 7 gewahrt werden. 2 Den Gesellschafterinnen und Gesellschaftern der übertragenden Gesellschaft können: a. Anteils- oder Mitgliedschaftsrechte an allen an der Spaltung beteiligten Gesellschaften im Verhältnis ihrer bisherigen Beteiligung zugewiesen werden (symmetrische Spaltung); b. Anteils- oder Mitgliedschaftsrechte an einzelnen oder allen an der Spaltung beteiligten Gesellschaften unter Abänderung der Beteiligungsverhältnisse zugewiesen werden (asymmetrische Spaltung)."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "3. Abschnitt: Kapitalherabsetzung, Kapitalerhöhung, Neugründung und Zwischenabschluss und Zwischenabschluss",
+      "section": "32",
+      "title": "Herabsetzung des Kapitals bei der Abspaltung",
+      "content": "Wird im Zusammenhang mit der Abspaltung das Kapital der übertragenden Gesellschaft herabgesetzt, so findet Artikel 653 k OR keine Anwendung. Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 ). SR 220"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "3. Abschnitt: Kapitalherabsetzung, Kapitalerhöhung, Neugründung und Zwischenabschluss und Zwischenabschluss",
+      "section": "33",
+      "title": "Kapitalerhöhung",
+      "content": "1 Die übernehmende Gesellschaft muss das Kapital erhöhen, soweit es zur Wahrung der Rechte der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft erforderlich ist. 2 Die Vorschriften des OR über die Sacheinlage (Art. 634 OR) und über den maximalen Umfang des Kapitalbands (Art. 653 s Abs. 2 OR) finden bei der Spaltung keine Anwendung. SR 220 Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 )."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "3. Abschnitt: Kapitalherabsetzung, Kapitalerhöhung, Neugründung und Zwischenabschluss und Zwischenabschluss",
+      "section": "34",
+      "title": "Neugründung",
+      "content": "Für die Neugründung einer Gesellschaft im Rahmen einer Spaltung gelten die Bestimmungen des OR über die Gründung einer Gesellschaft. Keine Anwendung finden die Vorschriften über die Anzahl der Gründerinnen und Gründer bei Kapitalgesellschaften sowie die Vorschriften über die Sacheinlagen. SR 220"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "3. Abschnitt: Kapitalherabsetzung, Kapitalerhöhung, Neugründung und Zwischenabschluss und Zwischenabschluss",
+      "section": "35",
+      "title": "Zwischenabschluss",
+      "content": "1 Liegt der Bilanzstichtag beim Abschluss des Spaltungsvertrags oder bei der Erstellung des Spaltungsplans mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der an der Spaltung beteiligten Gesellschaften eingetreten, so müssen diese einen Zwischenabschluss erstellen. 2 … Aufgehoben durch Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 )."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "4. Abschnitt: Spaltungsvertrag, Spaltungsplan, Spaltungsbericht und Prüfung",
+      "section": "36",
+      "title": "Spaltungsvertrag und Spaltungsplan",
+      "content": "1 Überträgt eine Gesellschaft durch Spaltung Vermögensteile auf bestehende Gesellschaften, so schliessen die obersten Leitungs- oder Verwaltungsorgane der beteiligten Gesellschaften einen Spaltungsvertrag ab. 2 Will eine Gesellschaft durch Spaltung Vermögensteile auf neu zu gründende Gesellschaften übertragen, so erstellt ihr oberstes Leitungs- oder Verwaltungsorgan einen Spaltungsplan. 3 Der Spaltungsvertrag und der Spaltungsplan bedürfen der schriftlichen Form und der Zustimmung der Generalversammlung (Art. 43)."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "4. Abschnitt: Spaltungsvertrag, Spaltungsplan, Spaltungsbericht und Prüfung",
+      "section": "37",
+      "title": "Inhalt des Spaltungsvertrags oder des Spaltungsplans",
+      "content": "Der Spaltungsvertrag oder der Spaltungsplan enthält: a. die Firma, den Sitz und die Rechtsform der beteiligten Gesellschaften; b. ein Inventar mit der eindeutigen Bezeichnung, der Aufteilung und der Zuordnung der Gegenstände des Aktiv- und des Passivvermögens sowie der Zuordnung der Betriebsteile; Grundstücke, Wertpapiere und immaterielle Werte sind einzeln aufzuführen; c. das Umtauschverhältnis für Anteile und gegebenenfalls die Höhe der Ausgleichszahlung beziehungsweise Angaben über die Mitgliedschaft der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft bei der übernehmenden Gesellschaft; d. die Rechte, welche die übernehmende Gesellschaft den Inhaberinnen und Inhabern von Sonderrechten, von Anteilen ohne Stimmrecht oder von Genussscheinen gewährt; e. die Modalitäten für den Umtausch der Anteile; f. den Zeitpunkt, von dem an die Anteils- oder Mitgliedschaftsrechte Anspruch auf einen Anteil am Bilanzgewinn gewähren, sowie alle Besonderheiten dieses Anspruchs; g. den Zeitpunkt, von dem an die Handlungen der übertragenden Gesellschaft als für Rechnung der übernehmenden Gesellschaft vorgenommen gelten; h. jeden besonderen Vorteil, der Mitgliedern eines Leitungs- oder Verwaltungsorgans oder geschäftsführenden Gesellschafterinnen und Gesellschaftern gewährt wird; i. eine Liste der Arbeitsverhältnisse, die mit der Spaltung übergehen."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "4. Abschnitt: Spaltungsvertrag, Spaltungsplan, Spaltungsbericht und Prüfung",
+      "section": "38",
+      "title": "Nicht zugeordnete Vermögenswerte",
+      "content": "1 Ein Gegenstand des Aktivvermögens, der sich auf Grund des Spaltungsvertrags oder des Spaltungsplans nicht zuordnen lässt: a. gehört bei der Aufspaltung allen übernehmenden Gesellschaften zu Miteigentum, und zwar im Verhältnis, in dem das Reinvermögen nach Spaltungsvertrag oder Spaltungsplan auf sie übergeht; b. verbleibt bei der Abspaltung bei der übertragenden Gesellschaft. 2 Absatz 1 gilt sinngemäss für Forderungen und immaterielle Rechte. 3 Die an einer Aufspaltung beteiligten Gesellschaften haften solidarisch für Verbindlichkeiten, die sich auf Grund des Spaltungsvertrags oder des Spaltungsplans nicht zuordnen lassen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "4. Abschnitt: Spaltungsvertrag, Spaltungsplan, Spaltungsbericht und Prüfung",
+      "section": "39",
+      "title": "Spaltungsbericht",
+      "content": "1 Die obersten Leitungs- oder Verwaltungsorgane der beteiligten Gesellschaften müssen einen schriftlichen Bericht über die Spaltung erstellen. Sie können den Bericht auch gemeinsam verfassen. 2 Kleine und mittlere Unternehmen können auf die Erstellung eines Spaltungsberichts verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen. 3 Im Bericht sind rechtlich und wirtschaftlich zu erläutern und zu begründen: a. der Zweck und die Folgen der Spaltung; b. der Spaltungsvertrag oder der Spaltungsplan; c. das Umtauschverhältnis für Anteile und gegebenenfalls die Höhe der Ausgleichszahlung beziehungsweise die Mitgliedschaft der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft bei der übernehmenden Gesellschaft; d. Besonderheiten bei der Bewertung der Anteile im Hinblick auf die Festsetzung des Umtauschverhältnisses; e. gegebenenfalls die Nachschusspflicht, andere persönliche Leistungspflichten und die persönliche Haftung, die sich für die Gesellschafterinnen und Gesellschafter aus der Spaltung ergeben; f. die Pflichten, die den Gesellschafterinnen und Gesellschaftern in der neuen Rechtsform auferlegt werden können, sofern Gesellschaften verschiedener Rechtsformen an der Spaltung beteiligt sind; g. die Auswirkungen der Spaltung auf die Arbeitnehmerinnen und Arbeitnehmer der an der Spaltung beteiligten Gesellschaften sowie Hinweise auf den Inhalt eines allfälligen Sozialplans; h. die Auswirkungen der Spaltung auf die Gläubigerinnen und Gläubiger der an der Spaltung beteiligten Gesellschaften. 4 Bei der Neugründung einer Gesellschaft im Rahmen einer Spaltung ist dem Spaltungsbericht der Entwurf der Statuten der neuen Gesellschaft beizufügen."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Prüfung des Spaltungsvertrags oder des Spaltungsplans und des Spaltungsberichts",
+      "content": "Für die Prüfung des Spaltungsvertrags oder des Spaltungsplans und des Spaltungsberichts gilt Artikel 15 sinngemäss."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Einsichtsrecht",
+      "content": "1 Jede der an der Spaltung beteiligten Gesellschaften muss an ihrem Sitz den Gesellschafterinnen und Gesellschaftern während zweier Monate vor der Beschlussfassung Einsicht in folgende Unterlagen aller an der Spaltung beteiligten Gesellschaften gewähren: a. den Spaltungsvertrag oder den Spaltungsplan; b. den Spaltungsbericht; c. den Prüfungsbericht; d. die Jahresrechnungen und die Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls den Zwischenabschluss. 2 Kleine und mittlere Unternehmen können auf das Einsichtsverfahren nach Absatz 1 verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen. 3 Die Gesellschafterinnen und Gesellschafter können von den beteiligten Gesellschaften Kopien der Unterlagen nach Absatz 1 verlangen. Diese müssen ihnen unentgeltlich zur Verfügung gestellt werden. 4 Jede der an der Spaltung beteiligten Gesellschaften muss im Schweizerischen Handelsamtsblatt auf die Möglichkeit zur Einsichtnahme hinweisen."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Information über Veränderungen im Vermögen",
+      "content": "Für die Information über Veränderungen im Vermögen gilt Artikel 17 sinngemäss."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "5. Abschnitt: Spaltungsbeschluss und öffentliche Beurkundung",
+      "section": "43",
+      "title": "Spaltungsbeschluss",
+      "content": "1 Die obersten Leitungs- oder Verwaltungsorgane der beteiligten Gesellschaften dürfen den Spaltungsvertrag oder den Spaltungsplan erst der Generalversammlung zur Beschlussfassung unterbreiten, wenn die Sicherstellung nach Artikel 46 erfolgt ist. 2 Für die Beschlussfassung gelten die erforderlichen Mehrheiten nach Artikel 18 Absätze 1, 3, 4 und 6. 3 Bei der asymmetrischen Spaltung müssen mindestens 90 Prozent aller Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft, die über ein Stimmrecht verfügen, zustimmen."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "5. Abschnitt: Spaltungsbeschluss und öffentliche Beurkundung",
+      "section": "44",
+      "title": "Öffentliche Beurkundung",
+      "content": "Der Spaltungsbeschluss bedarf der öffentlichen Beurkundung."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "6. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "45",
+      "title": "Aufforderung an die Gläubigerinnen und Gläubiger",
+      "content": "Die Gläubigerinnen und Gläubiger aller an der Spaltung beteiligten Gesellschaften müssen im Schweizerischen Handelsamtsblatt dreimal darauf hingewiesen werden, dass sie unter Anmeldung ihrer Forderungen Sicherstellung verlangen können."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "6. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "46",
+      "title": "Sicherstellung der Forderungen",
+      "content": "1 Die an der Spaltung beteiligten Gesellschaften müssen die Forderungen der Gläubigerinnen und Gläubiger sicherstellen, wenn diese es innerhalb von zwei Monaten nach der Aufforderung an die Gläubigerinnen und Gläubiger verlangen. 2 Die Pflicht zur Sicherstellung entfällt, wenn die Gesellschaft nachweist, dass die Erfüllung der Forderung durch die Spaltung nicht gefährdet wird. 3 Anstatt eine Sicherheit zu leisten, kann die Gesellschaft die Forderung erfüllen, sofern die anderen Gläubigerinnen und Gläubiger nicht geschädigt werden."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "6. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "47",
+      "title": "Subsidiäre Haftung der an der Spaltung beteiligten Gesellschaften",
+      "content": "1 Werden die Forderungen einer Gläubigerin oder eines Gläubigers von der Gesellschaft, der die Verbindlichkeiten durch den Spaltungsvertrag oder den Spaltungsplan zugeordnet wurden (primär haftende Gesellschaft), nicht befriedigt, so haften die übrigen an der Spaltung beteiligten Gesellschaften (subsidiär haftende Gesellschaften) solidarisch. 2 Subsidiär haftende Gesellschaften können nur belangt werden, wenn eine Forderung nicht sichergestellt ist und die primär haftende Gesellschaft: a. in Konkurs geraten ist; b. Nachlassstundung oder Konkursaufschub erhalten hat; c. bis zur Ausstellung eines definitiven Verlustscheins betrieben worden ist; d. den Sitz ins Ausland verlegt hat und in der Schweiz nicht mehr belangt werden kann; e. den Sitz im Ausland verlegt hat und dadurch eine erhebliche Erschwerung der Rechtsverfolgung eingetreten ist."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "6. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "48",
+      "title": "Persönliche Haftung der Gesellschafterinnen und Gesellschafter",
+      "content": "Für die persönliche Haftung von Gesellschafterinnen und Gesellschaftern gilt Artikel 26 sinngemäss."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "6. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "49",
+      "title": "Übergang der Arbeitsverhältnisse, Sicherstellung und persönliche Haftung",
+      "content": "1 Für den Übergang der Arbeitsverhältnisse findet Artikel 333 des OR Anwendung. 2 Die Arbeitnehmerinnen und Arbeitnehmer der an der Spaltung beteiligten Gesellschaften können gemäss Artikel 46 die Sicherstellung ihrer Forderungen aus Arbeitsvertrag verlangen, die bis zum Zeitpunkt fällig werden, auf den das Arbeitsverhältnis ordentlicherweise beendigt werden könnte oder, bei Ablehnung des Übergangs, durch die Arbeitnehmerin oder den Arbeitnehmer beendigt wird. 3 Artikel 27 Absatz 3 findet entsprechende Anwendung. SR 220"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "6. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "50",
+      "title": "Konsultation der Arbeitnehmervertretung",
+      "content": "Die Konsultation der Arbeitnehmervertretung richtet sich nach Artikel 28."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "7. Abschnitt: Eintragung ins Handelsregister und Rechtswirksamkeit",
+      "section": "51",
+      "title": "Eintragung ins Handelsregister",
+      "content": "1 Sobald der Spaltungsbeschluss vorliegt, muss das oberste Leitungs- oder Verwaltungsorgan dem Handelsregisteramt die Spaltung zur Eintragung anmelden. 2 Muss die übertragende Gesellschaft infolge der Abspaltung ihr Kapital herabsetzen, so sind dem Handelsregisteramt zusätzlich die geänderten Statuten zu unterbreiten. 3 Im Falle der Aufspaltung wird die übertragende Gesellschaft mit der Eintragung der Spaltung im Handelsregister gelöscht."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "7. Abschnitt: Eintragung ins Handelsregister und Rechtswirksamkeit",
+      "section": "52",
+      "title": "Rechtswirksamkeit",
+      "content": "Die Spaltung wird mit der Eintragung ins Handelsregister rechtswirksam. In diesem Zeitpunkt gehen alle im Inventar aufgeführten Aktiven und Passiven von Gesetzes wegen auf die übernehmenden Gesellschaften über. Artikel 34 des Kartellgesetzes vom 6. Oktober 1995 bleibt vorbehalten. SR 251"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "53",
+      "title": "Grundsatz",
+      "content": "Eine Gesellschaft kann ihre Rechtsform ändern (Umwandlung). Ihre Rechtsverhältnisse werden dadurch nicht verändert."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "54",
+      "title": "Zulässige Umwandlungen",
+      "content": "1 Eine Kapitalgesellschaft kann sich umwandeln: a. in eine Kapitalgesellschaft mit einer anderen Rechtsform; b. in eine Genossenschaft. 2 Eine Kollektivgesellschaft kann sich umwandeln: a. in eine Kapitalgesellschaft; b. in eine Genossenschaft; c. in eine Kommanditgesellschaft. 3 Eine Kommanditgesellschaft kann sich umwandeln: a. in eine Kapitalgesellschaft; b. in eine Genossenschaft; c. in eine Kollektivgesellschaft. 4 Eine Genossenschaft kann sich umwandeln: a. in eine Kapitalgesellschaft; b. in einen Verein, falls sie über keine Anteilscheine verfügt und der Verein ins Handelsregister eingetragen wird. 5 Ein Verein kann sich in eine Kapitalgesellschaft oder in eine Genossenschaft umwandeln, falls er im Handelsregister eingetragen ist."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "55",
+      "title": "Sonderregelung für die Umwandlung von Kollektiv- und Kommanditgesellschaften",
+      "content": "1 Eine Kollektivgesellschaft kann sich in eine Kommanditgesellschaft umwandeln, indem: a. eine Kommanditärin oder ein Kommanditär in die Kollektivgesellschaft eintritt; b. eine Gesellschafterin oder ein Gesellschafter zur Kommanditärin oder zum Kommanditär wird. 2 Eine Kommanditgesellschaft kann sich in eine Kollektivgesellschaft umwandeln, indem: a. alle Kommanditärinnen und Kommanditäre austreten; b. alle Kommanditärinnen und Kommanditäre zu unbeschränkt haftenden Gesellschafterinnen und Gesellschaftern werden. 3 Die Fortführung einer Kollektiv- oder Kommanditgesellschaft als Einzelunternehmen nach Artikel 579 des Obligationenrechts bleibt vorbehalten. 4 Auf die Umwandlung gemäss diesem Artikel finden die Bestimmungen dieses Kapitels keine Anwendung. SR 220 Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "2. Abschnitt: Anteils- und Mitgliedschaftsrechte",
+      "section": "56",
+      "title": "Wahrung der Anteils- und Mitgliedschaftsrechte",
+      "content": "1 Die Anteils- und Mitgliedschaftsrechte der Gesellschafterinnen und Gesellschafter sind bei der Umwandlung zu wahren. 2 Gesellschafterinnen und Gesellschafter ohne Anteilscheine haben bei der Umwandlung ihrer Gesellschaft in eine Kapitalgesellschaft Anspruch auf mindestens einen Anteil. 3 Für Anteile ohne Stimmrecht müssen gleichwertige Anteile oder Anteile mit Stimmrecht gewährt werden. 4 Für Sonderrechte, die mit Anteils- oder Mitgliedschaftsrechten verbunden sind, müssen gleichwertige Rechte oder eine angemessene Abgeltung gewährt werden. 5 Für Genussscheine sind gleichwertige Rechte zu gewähren, oder sie sind zum wirklichen Wert im Zeitpunkt der Erstellung des Umwandlungsplans zurückzukaufen."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "3. Abschnitt: Gründung und Zwischenabschluss",
+      "section": "57",
+      "title": "Gründungsvorschriften",
+      "content": "Bei der Umwandlung finden die Bestimmungen des ZGB und des OR über die Gründung einer entsprechenden Gesellschaft Anwendung. Keine Anwendung finden die Vorschriften über die Anzahl der Gründerinnen und Gründer bei Kapitalgesellschaften und die Vorschriften über die Sacheinlagen. SR 210 SR 220"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "3. Abschnitt: Gründung und Zwischenabschluss",
+      "section": "58",
+      "title": "Zwischenabschluss",
+      "content": "1 Liegt der Bilanzstichtag zum Zeitpunkt der Erstattung des Umwandlungsberichts mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der Gesellschaft eingetreten, so muss diese einen Zwischenabschluss erstellen. 2 … Aufgehoben durch Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 )."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "4. Abschnitt: Umwandlungsplan, Umwandlungsbericht und Prüfung",
+      "section": "59",
+      "title": "Erstellung des Umwandlungsplans",
+      "content": "1 Das oberste Leitungs- oder Verwaltungsorgan erstellt einen Umwandlungsplan. 2 Der Umwandlungsplan bedarf der schriftlichen Form und der Zustimmung der Generalversammlung beziehungsweise der Gesellschafterinnen und Gesellschafter gemäss Artikel 64."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "4. Abschnitt: Umwandlungsplan, Umwandlungsbericht und Prüfung",
+      "section": "60",
+      "title": "Inhalt des Umwandlungsplans",
+      "content": "Der Umwandlungsplan enthält: a. den Namen oder die Firma, den Sitz und die Rechtsform vor und nach der Umwandlung; b. die neuen Statuten; c. die Zahl, die Art und die Höhe der Anteile, welche die Anteilsinhaberinnen und -inhaber nach der Umwandlung erhalten, oder Angaben über die Mitgliedschaft der Gesellschafterinnen und Gesellschafter nach der Umwandlung."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "4. Abschnitt: Umwandlungsplan, Umwandlungsbericht und Prüfung",
+      "section": "61",
+      "title": "Umwandlungsbericht",
+      "content": "1 Das oberste Leitungs- oder Verwaltungsorgan muss einen schriftlichen Bericht über die Umwandlung erstellen. 2 Kleine und mittlere Unternehmen können auf die Erstellung eines Umwandlungsberichts verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen. 3 Im Bericht sind rechtlich und wirtschaftlich zu erläutern und zu begründen: a. der Zweck und die Folgen der Umwandlung; b. die Erfüllung der Gründungsvorschriften für die neue Rechtsform; c. die neuen Statuten; d. das Umtauschverhältnis für Anteile beziehungsweise die Mitgliedschaft der Gesellschafterinnen und Gesellschafter nach der Umwandlung; e. gegebenenfalls die Nachschusspflicht, andere persönliche Leistungspflichten und die persönliche Haftung, die sich für die Gesellschafterinnen und Gesellschafter aus der Umwandlung ergeben; f. die Pflichten, die den Gesellschafterinnen und Gesellschaftern in der neuen Rechtsform auferlegt werden können."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "4. Abschnitt: Umwandlungsplan, Umwandlungsbericht und Prüfung",
+      "section": "62",
+      "title": "Prüfung des Umwandlungsplans und des Umwandlungsberichts",
+      "content": "1 Die Gesellschaft muss den Umwandlungsplan, den Umwandlungsbericht und die der Umwandlung zu Grunde liegende Bilanz von einer zugelassenen Revisionsexpertin oder einem zugelassenen Revisionsexperten prüfen lassen. 2 Kleine und mittlere Unternehmen können auf die Prüfung verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen. 3 Die Gesellschaft muss der Revisionsexpertin oder dem Revisionsexperten alle zweckdienlichen Auskünfte und Unterlagen geben. 4 Die Revisionsexpertin oder der Revisionsexperte muss prüfen, ob die Voraussetzungen für die Umwandlung erfüllt sind, insbesondere, ob die Rechtsstellung der Gesellschafterinnen und Gesellschafter nach der Umwandlung gewahrt bleibt. Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 ). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 ). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Einsichtsrecht",
+      "content": "1 Die Gesellschaft muss an ihrem Sitz den Gesellschafterinnen und Gesellschaftern während der 30 Tage vor der Beschlussfassung Einsicht in folgende Unterlagen gewähren: a. den Umwandlungsplan; b. den Umwandlungsbericht; c. den Prüfungsbericht; d. die Jahresrechnungen und Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls den Zwischenabschluss. 2 Kleine und mittlere Unternehmen können auf das Einsichtsverfahren nach Absatz 1 verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen. 3 Die Gesellschafterinnen und Gesellschafter können von der Gesellschaft Kopien der Unterlagen nach Absatz 1 verlangen. Diese müssen ihnen unentgeltlich zur Verfügung gestellt werden. 4 Die Gesellschaft muss die Gesellschafterinnen und Gesellschafter in geeigneter Form auf die Möglichkeit zur Einsichtnahme hinweisen."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "5. Abschnitt: Umwandlungsbeschluss und Eintragung ins Handelsregister Umwandlungsbeschluss und Eintragung ins Handelsregister",
+      "section": "64",
+      "title": "Umwandlungsbeschluss",
+      "content": "1 Bei den Kapitalgesellschaften, den Genossenschaften und den Vereinen muss das oberste Leitungs- oder Verwaltungsorgan den Umwandlungsplan der Generalversammlung zur Beschlussfassung unterbreiten. Folgende Mehrheiten sind erforderlich: a. bei Aktiengesellschaften und Kommanditaktiengesellschaften mindestens zwei Drittel der an der Generalversammlung vertretenen Aktienstimmen und die absolute Mehrheit des von ihnen vertretenen Aktiennennwerts; werden bei der Umwandlung in eine Gesellschaft mit beschränkter Haftung eine Nachschusspflicht oder andere persönliche Leistungspflichten eingeführt, die Zustimmung aller Aktionärinnen und Aktionäre, die davon betroffen werden; b. bei der Umwandlung einer Kapitalgesellschaft in eine Genossenschaft die Zustimmung aller Gesellschafterinnen und Gesellschafter; c. bei Gesellschaften mit beschränkter Haftung mindestens zwei Drittel der an der Generalversammlung vertretenen Stimmen sowie die absolute Mehrheit des gesamten Kapitals, mit dem ein ausübbares Stimmrecht verbunden ist; d. bei Genossenschaften mindestens zwei Drittel der abgegebenen Stimmen oder, wenn eine Nachschusspflicht, andere persönliche Leistungspflichten oder die persönliche Haftung eingeführt oder erweitert werden, mindestens drei Viertel aller Genossenschafterinnen und Genossenschafter; e. bei Vereinen mindestens drei Viertel der an der Generalversammlung anwesenden Mitglieder. 2 Bei Kollektiv- und bei Kommanditgesellschaften bedarf der Umwandlungsplan der Zustimmung aller Gesellschafterinnen und Gesellschafter. Der Gesellschaftsvertrag kann jedoch vorsehen, dass die Zustimmung von drei Vierteln der Gesellschafterinnen und Gesellschafter genügt. Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "5. Abschnitt: Umwandlungsbeschluss und Eintragung ins Handelsregister Umwandlungsbeschluss und Eintragung ins Handelsregister",
+      "section": "65",
+      "title": "Öffentliche Beurkundung",
+      "content": "Der Umwandlungsbeschluss bedarf der öffentlichen Beurkundung."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "5. Abschnitt: Umwandlungsbeschluss und Eintragung ins Handelsregister Umwandlungsbeschluss und Eintragung ins Handelsregister",
+      "section": "66",
+      "title": "Eintragung ins Handelsregister",
+      "content": "Das oberste Leitungs- oder Verwaltungsorgan muss dem Handelsregisteramt die Umwandlung zur Eintragung anmelden."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "5. Abschnitt: Umwandlungsbeschluss und Eintragung ins Handelsregister Umwandlungsbeschluss und Eintragung ins Handelsregister",
+      "section": "67",
+      "title": "Rechtswirksamkeit",
+      "content": "Die Umwandlung wird mit der Eintragung ins Handelsregister rechtswirksam."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "6. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "68",
+      "title": "",
+      "content": "1 Für die persönliche Haftung der Gesellschafterinnen und Gesellschafter findet Artikel 26 entsprechende Anwendung. 2 Für die Haftung für Verbindlichkeiten aus Arbeitsvertrag findet Artikel 27 Absatz 3 entsprechende Anwendung."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "69",
+      "title": "",
+      "content": "1 Im Handelsregister eingetragene Gesellschaften, Kommanditgesellschaften für kollektive Kapitalanlagen, Investmentgesellschaften mit variablem Kapital und im Handelsregister eingetragene Einzelunternehmen können ihr Vermögen oder Teile davon mit Aktiven und Passiven auf andere Rechtsträger des Privatrechts übertragen. Wenn die Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft Anteils- oder Mitgliedschaftsrechte der übernehmenden Gesellschaft erhalten, gilt Kapitel 3. 2 Vorbehalten bleiben die gesetzlichen und statutarischen Bestimmungen über den Kapitalschutz und die Liquidation. Fassung gemäss Anhang Ziff. II 1 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ( AS 2006 5379 ; BBl 2005 6395 )."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "2. Abschnitt: Übertragungsvertrag",
+      "section": "70",
+      "title": "Abschluss des Übertragungsvertrags",
+      "content": "1 Der Übertragungsvertrag muss von den obersten Leitungs- oder Verwaltungsorganen der an der Vermögensübertragung beteiligten Rechtsträger abgeschlossen werden. 2 Der Übertragungsvertrag bedarf der schriftlichen Form. Werden Grundstücke übertragen, so bedürfen die entsprechenden Teile des Vertrages der öffentlichen Beurkundung. Eine einzige öffentliche Urkunde genügt auch dann, wenn Grundstücke, die Gegenstand einer Vermögensübertragung sind, in verschiedenen Kantonen liegen. Die Urkunde muss durch eine Urkundsperson am Sitz des übertragenden Rechtsträgers errichtet werden. Fassung des dritten Satzes gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 )."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "2. Abschnitt: Übertragungsvertrag",
+      "section": "71",
+      "title": "Inhalt des Übertragungsvertrags",
+      "content": "1 Der Übertragungsvertrag enthält: a. die Firma oder den Namen, den Sitz und die Rechtsform der beteiligten Rechtsträger; b. ein Inventar mit der eindeutigen Bezeichnung der zu übertragenden Gegenstände des Aktiv- und des Passivvermögens; Grundstücke, Wertpapiere und immaterielle Werte sind einzeln aufzuführen; c. den gesamten Wert der zu übertragenden Aktiven und Passiven; d. die allfällige Gegenleistung; e. eine Liste der Arbeitsverhältnisse, die mit der Vermögensübertragung übergehen. 2 Die Vermögensübertragung ist nur zulässig, wenn das Inventar einen Aktivenüberschuss ausweist."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "2. Abschnitt: Übertragungsvertrag",
+      "section": "72",
+      "title": "Nicht zugeordnete Gegenstände des Aktivvermögens",
+      "content": "Gegenstände des Aktivvermögens sowie Forderungen und immaterielle Rechte, die sich auf Grund des Inventars nicht zuordnen lassen, verbleiben beim übertragenden Rechtsträger."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "3. Abschnitt: Eintragung ins Handelsregister und Rechtswirksamkeit",
+      "section": "73",
+      "title": "",
+      "content": "1 Das oberste Leitungs- oder Verwaltungsorgan des übertragenden Rechtsträgers muss dem Handelsregisteramt die Vermögensübertragung zur Eintragung anmelden. 2 Die Vermögensübertragung wird mit der Eintragung ins Handelsregister rechtswirksam. In diesem Zeitpunkt gehen alle im Inventar aufgeführten Aktiven und Passiven von Gesetzes wegen auf den übernehmenden Rechtsträger über. Artikel 34 des Kartellgesetzes vom 6. Oktober 1995 bleibt vorbehalten. SR 251"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "4. Abschnitt: Information der Gesellschafterinnen und Gesellschafter",
+      "section": "74",
+      "title": "",
+      "content": "1 Das oberste Leitungs- oder Verwaltungsorgan der übertragenden Gesellschaft muss die Gesellschafterinnen und Gesellschafter über die Vermögensübertragung im Anhang zur Jahresrechnung informieren. Ist keine Jahresrechnung zu erstellen, so muss über die Vermögensübertragung an der nächsten Generalversammlung informiert werden. 2 Im Anhang beziehungsweise an der Generalversammlung sind rechtlich und wirtschaftlich zu erläutern und zu begründen: a. der Zweck und die Folgen der Vermögensübertragung; b. der Übertragungsvertrag; c. die Gegenleistung für die Übertragung; d. die Folgen für die Arbeitnehmerinnen und Arbeitnehmer und Hinweise auf den Inhalt eines allfälligen Sozialplans. 3 Die Informationspflicht entfällt, falls die übertragenen Aktiven weniger als 5 Prozent der Bilanzsumme der übertragenden Gesellschaft ausmachen."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "5. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "75",
+      "title": "Solidarische Haftung",
+      "content": "1 Die bisherigen Schuldner haften für die vor der Vermögensübertragung begründeten Schulden während dreier Jahre solidarisch mit dem neuen Schuldner. 2 Die Ansprüche gegen den übertragenden Rechtsträger verjähren spätestens drei Jahre nach der Veröffentlichung der Vermögensübertragung. Wird die Forderung erst nach der Veröffentlichung fällig, so beginnt die Verjährung mit der Fälligkeit. 3 Die an der Vermögensübertragung beteiligten Rechtsträger müssen die Forderungen sicherstellen, wenn: a. die solidarische Haftung vor Ablauf der Frist von drei Jahren entfällt; oder b. die Gläubigerinnen und Gläubiger glaubhaft machen, dass die solidarische Haftung keinen ausreichenden Schutz bietet. 4 Anstatt eine Sicherheit zu leisten, können an der Vermögensübertragung beteiligte Rechtsträger die Forderung erfüllen, sofern die anderen Gläubigerinnen und Gläubiger nicht geschädigt werden."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "5. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "76",
+      "title": "Übergang der Arbeitsverhältnisse und solidarische Haftung",
+      "content": "1 Für den Übergang der Arbeitsverhältnisse auf den übernehmenden Rechtsträger findet Artikel 333 des OR Anwendung. 2 Artikel 75 findet Anwendung auf alle Verbindlichkeiten aus Arbeitsvertrag, die bis zum Zeitpunkt fällig werden, auf den das Arbeitsverhältnis ordentlicherweise beendigt werden könnte oder, bei Ablehnung des Übergangs, von der Arbeitnehmerin oder dem Arbeitnehmer beendigt wird. SR 220"
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "5. Abschnitt: Gläubiger- und Arbeitnehmerschutz",
+      "section": "77",
+      "title": "Konsultation der Arbeitnehmervertretung",
+      "content": "1 Für die Konsultation der Arbeitnehmervertretung findet für den übertragenden wie auch für den übernehmenden Rechtsträger Artikel 333 a des OR Anwendung. 2 Werden die Vorschriften von Absatz 1 nicht eingehalten, so kann die Arbeitnehmervertretung vom Gericht verlangen, dass es die Eintragung der Vermögensübertragung im Handelsregister untersagt. 3 Diese Bestimmung findet auch Anwendung auf übernehmende Rechtsträger mit Sitz im Ausland. SR 220"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "78",
+      "title": "Grundsatz",
+      "content": "1 Stiftungen können miteinander fusionieren. 2 Die Fusion ist nur zulässig, wenn sie sachlich gerechtfertigt ist und insbesondere der Wahrung und Durchführung des Stiftungszwecks dient. Allfällige Rechtsansprüche der Destinatäre der beteiligten Stiftungen müssen gewahrt werden. Ist im Hinblick auf eine Fusion eine Zweckänderung erforderlich, so findet Artikel 86 des ZGB Anwendung. SR 210"
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "79",
+      "title": "Fusionsvertrag",
+      "content": "1 Der Fusionsvertrag muss von den obersten Organen der Stiftungen abgeschlossen werden. 2 Der Vertrag enthält: a. den Namen, den Sitz und den Zweck der beteiligten Stiftungen, im Fall der Kombinationsfusion auch den Namen, den Sitz und den Zweck der neuen Stiftung; b. Angaben über die Stellung der Destinatäre mit Rechtsansprüchen in der übernehmenden Stiftung; c. den Zeitpunkt, ab dem die Handlungen der übertragenden Stiftung als für Rechnung der übernehmenden Stiftung vorgenommen gelten. 3 Der Fusionsvertrag bedarf der schriftlichen Form. Bei Familienstiftungen und kirchlichen Stiftungen bedarf der Fusionsvertrag der öffentlichen Beurkundung."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "80",
+      "title": "Bilanz",
+      "content": "Die Stiftungen müssen eine Bilanz und unter den Voraussetzungen von Artikel 11 einen Zwischenabschluss erstellen."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "81",
+      "title": "Prüfung des Fusionsvertrags",
+      "content": "1 Die Stiftungen müssen den Fusionsvertrag sowie die Bilanzen von einer zugelassenen Revisorin oder einem zugelassenen Revisor prüfen lassen. 2 Sie müssen der Revisorin oder dem Revisor alle zweckdienlichen Auskünfte und Unterlagen geben. 3 Die Revisorin oder der Revisor erstellt einen Bericht, in dem insbesondere darzulegen ist, ob die allfälligen Rechtsansprüche der Destinatäre gewahrt sind und ob Forderungen von Gläubigerinnen und Gläubigern bekannt oder zu erwarten sind, zu deren Befriedigung das Vermögen der beteiligten Stiftungen nicht ausreicht. Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "82",
+      "title": "Informationspflicht",
+      "content": "Das oberste Organ der übertragenden Stiftung informiert die Destinatäre mit Rechtsansprüchen vor dem Antrag an die Aufsichtsbehörde über die geplante Fusion und deren Auswirkungen auf ihre Rechtsstellung. Bei Familienstiftungen und kirchlichen Stiftungen erfolgt die Information vor dem Fusionsbeschluss."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "83",
+      "title": "Genehmigung und Vollzug der Fusion",
+      "content": "1 Bei Stiftungen, die der Aufsicht des Gemeinwesens unterstehen, beantragen die obersten Stiftungsorgane bei der zuständigen Aufsichtsbehörde die Genehmigung der Fusion. Im Antrag ist schriftlich darzulegen, dass die Voraussetzungen für die Fusion erfüllt sind. Mit dem Antrag sind der Aufsichtsbehörde die von der zugelassenen Revisorin oder dem zugelassenen Revisor geprüften Bilanzen der beteiligten Stiftungen sowie der Revisionsbericht einzureichen. 2 Zuständig ist die Aufsichtsbehörde der übertragenden Stiftung. Bei mehreren übertragenden Stiftungen muss jede Aufsichtsbehörde der Fusion zustimmen. 3 Die Aufsichtsbehörde erlässt nach Prüfung des Begehrens die entsprechende Verfügung und meldet im Fall der Zustimmung die Fusion zur Eintragung in das Handelsregister an. 4 Für die Rechtswirksamkeit der Fusion gilt Artikel 22 Absatz 1. Fassung des dritten Satzes gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Anfechtung des Fusionsbeschlusses bei Familienstiftungen und kirchlichen Stiftungen",
+      "content": "Bei Familienstiftungen und kirchlichen Stiftungen kann jeder Destinatär mit Rechtsanspruch und jedes Mitglied des obersten Stiftungsorgans, das dem Fusionsbeschluss nicht zugestimmt hat, den Beschluss wegen Fehlens der Voraussetzungen innert dreier Monate gerichtlich anfechten. Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ( AS 2020 4005 ; 2022 109 ; BBl 2017 399 )."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Gläubiger- und Arbeitnehmerschutz",
+      "content": "1 Die Aufsichtsbehörde oder, bei Familienstiftungen und kirchlichen Stiftungen, das oberste Stiftungsorgan der übertragenden Stiftung hat vor Erlass der Verfügung beziehungsweise vor dem Beschluss die Gläubigerinnen und Gläubiger der an der Fusion beteiligten Stiftungen im Schweizerischen Handelsamtsblatt dreimal darauf hinzuweisen, dass sie unter Anmeldung ihrer Forderungen Sicherstellung verlangen können. Die Destinatäre mit Rechtsansprüchen haben keinen Anspruch auf Sicherstellung. 2 Die Aufsichtsbehörde oder, bei Familienstiftungen und kirchlichen Stiftungen, das oberste Stiftungsorgan kann von einer Aufforderung an die Gläubigerinnen und Gläubiger absehen, wenn auf Grund des Berichts der zugelassenen Revisorin oder des zugelassenen Revisors keine Forderungen bekannt oder zu erwarten sind, zu deren Befriedigung das Stiftungsvermögen der beteiligten Stiftungen nicht ausreicht. 3 Im Falle einer Aufforderung an die Gläubigerinnen und Gläubiger findet Artikel 25 Anwendung. 4 Der Arbeitnehmerschutz richtet sich nach den Artikeln 27 und 28. Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "2. Abschnitt: Vermögensübertragung",
+      "section": "86",
+      "title": "Grundsatz",
+      "content": "1 Die im Handelsregister eingetragenen Stiftungen können ihr Vermögen oder Teile davon mit Aktiven und Passiven auf andere Rechtsträger übertragen. 2 Artikel 78 Absatz 2 findet sinngemäss Anwendung. Der Übergangsvertrag richtet sich nach den Artikeln 70–72, der Gläubiger- und Arbeitnehmerschutz nach den Artikeln 75–77."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "2. Abschnitt: Vermögensübertragung",
+      "section": "87",
+      "title": "Genehmigung und Vollzug der Vermögensübertragung",
+      "content": "1 Bei Stiftungen, die der Aufsicht des Gemeinwesens unterstehen, beantragen die obersten Stiftungsorgane bei der zuständigen Aufsichtsbehörde die Genehmigung der Vermögensübertragung. Im Antrag ist schriftlich darzulegen, dass die Voraussetzungen für die Vermögensübertragung erfüllt sind. 2 Zuständig ist die Aufsichtsbehörde der übertragenden Stiftung. 3 Die Aufsichtsbehörde erlässt nach Prüfung des Begehrens die entsprechende Verfügung. Nach Eintritt der Rechtskraft der zustimmenden Verfügung meldet sie die Vermögensübertragung zur Eintragung in das Handelsregister an. 4 Die Eintragung ins Handelsregister und die Rechtswirksamkeit richten sich nach Artikel 73."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "88",
+      "title": "Grundsatz",
+      "content": "1 Vorsorgeeinrichtungen können miteinander fusionieren. 2 Die Fusion von Vorsorgeeinrichtungen ist nur zulässig, wenn der Vorsorgezweck und die Rechte und Ansprüche der Versicherten gewahrt bleiben. 3 Die Bestimmungen des Stiftungsrechts (Art. 80 ff. ZGB) und des BVG bleiben vorbehalten. SR 210 SR 831.40"
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "89",
+      "title": "Bilanz",
+      "content": "Die beteiligten Vorsorgeeinrichtungen müssen eine Bilanz und unter den Voraussetzungen von Artikel 11 einen Zwischenabschluss erstellen."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "90",
+      "title": "Fusionsvertrag",
+      "content": "1 Der Fusionsvertrag muss von den obersten Leitungsorganen der beteiligten Vorsorgeeinrichtungen abgeschlossen werden. 2 Der Fusionsvertrag enthält: a. den Namen oder die Firma, den Sitz und die Rechtsform der beteiligten Vorsorgeeinrichtungen, im Fall der Kombinationsfusion auch den Namen oder die Firma, den Sitz und die Rechtsform der neuen Vorsorgeeinrichtung; b. Angaben über die Rechte und Ansprüche der Versicherten bei der übernehmenden Vorsorgeeinrichtung; c. den Zeitpunkt, von dem an die Handlungen der übertragenden Vorsorgeeinrichtung als für Rechnung der übernehmenden Vorsorgeeinrichtung vorgenommen gelten. 3 Der Fusionsvertrag bedarf der schriftlichen Form."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "91",
+      "title": "Fusionsbericht",
+      "content": "1 Die obersten Leitungsorgane der Vorsorgeeinrichtungen müssen einen schriftlichen Bericht über die Fusion erstellen. Sie können den Bericht auch gemeinsam verfassen. 2 Im Bericht sind zu erläutern und zu begründen: a. der Zweck und die Folgen der Fusion; b. der Fusionsvertrag; c. die Auswirkungen der Fusion auf die Rechte und Ansprüche der Versicherten."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "92",
+      "title": "Prüfung des Fusionsvertrags",
+      "content": "1 Die beteiligten Vorsorgeeinrichtungen müssen den Fusionsvertrag, den Fusionsbericht und die Bilanz von ihren Kontrollstellen sowie von einer anerkannten Expertin oder einem anerkannten Experten für die berufliche Vorsorge prüfen lassen. Sie können eine gemeinsame Expertin oder einen gemeinsamen Experten bestimmen. 2 Die beteiligten Vorsorgeeinrichtungen müssen den mit der Prüfung betrauten Personen alle zweckdienlichen Auskünfte und Unterlagen geben. 3 Die Revisionsstelle und die Expertin oder der Experte für die berufliche Vorsorge erstellen einen Bericht, in dem darzulegen ist, ob die Rechte und Ansprüche der Versicherten gewahrt sind."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "1. Abschnitt: Fusion",
+      "section": "93",
+      "title": "Informationspflicht und Einsichtsrecht",
+      "content": "1 Die zuständigen Organe der Vorsorgeeinrichtung haben spätestens bis zum Zeitpunkt der Gewährung des Einsichtsrechts gemäss Absatz 2 die Versicherten über die geplante Fusion und deren Auswirkungen zu informieren. Sie haben die Versicherten in geeigneter Form auf die Möglichkeit der Einsichtnahme hinzuweisen. 2 Die beteiligten Vorsorgeeinrichtungen müssen an ihrem Sitz während der 30 Tage vor dem Antrag an die Aufsichtsbehörde den Versicherten Einsicht in den Fusionsvertrag und in den Fusionsbericht gewähren."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Fusionsbeschluss",
+      "content": "1 Die Fusion bedarf der Zustimmung des obersten Leitungsorgans und, bei einer Genossenschaft, überdies der Generalversammlung. Für die erforderlichen Mehrheiten gilt Artikel 18 Absatz 1 Buchstabe d. 2 Bei Vorsorgeeinrichtungen des öffentlichen Rechts bleibt Artikel 100 Absatz 3 vorbehalten."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Genehmigung und Vollzug der Fusion",
+      "content": "1 Die obersten Leitungsorgane der Vorsorgeeinrichtungen beantragen bei der zuständigen Aufsichtsbehörde die Genehmigung der Fusion. 2 Zuständig ist die Aufsichtsbehörde der übertragenden Vorsorgeeinrichtung. 3 Die Aufsichtsbehörde prüft, ob die Voraussetzungen einer Fusion gegeben sind, und erlässt eine Verfügung. Die Aufsichtsbehörde kann weitere für die Prüfung der Voraussetzungen erforderliche Belege verlangen. 4 Nach Eintritt der Rechtskraft der zustimmenden Verfügung meldet die Aufsichtsbehörde die Fusion zur Eintragung in das Handelsregister an. 5 Für die Rechtswirksamkeit der Fusion gilt Artikel 22 Absatz 1."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Gläubiger- und Arbeitnehmerschutz",
+      "content": "1 Die Aufsichtsbehörde hat vor Erlass der Verfügung die Gläubigerinnen und Gläubiger der an der Fusion beteiligten Vorsorgeeinrichtungen im Schweizerischen Handelsamtsblatt dreimal darauf hinzuweisen, dass sie unter Anmeldung ihrer Forderungen Sicherstellung verlangen können. 2 Die Aufsichtsbehörde kann von einer Aufforderung an die Gläubigerinnen und Gläubiger absehen, wenn keine Forderungen bekannt oder zu erwarten sind, zu deren Befriedigung das freie Vermögen der beteiligten Vorsorgeeinrichtungen nicht ausreicht. 3 Im Falle einer Aufforderung an die Gläubigerinnen und Gläubiger können diese innerhalb von zwei Monaten nach der Veröffentlichung im Schweizerischen Handelsamtsblatt von der übernehmenden Vorsorgeeinrichtung die Sicherstellung ihrer Forderungen verlangen. Die Versicherten haben keinen Anspruch auf Sicherstellung. 4 Die Pflicht zur Sicherstellung entfällt, wenn die Vorsorgeeinrichtung nachweist, dass die Erfüllung der angemeldeten Forderung durch die Fusion nicht gefährdet ist. Artikel 25 Absatz 4 findet Anwendung. Im Streitfall entscheidet die Aufsichtsbehörde. 5 Der Arbeitnehmerschutz richtet sich nach den Artikeln 27 und 28."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "2. Abschnitt: Umwandlung",
+      "section": "97",
+      "title": "",
+      "content": "1 Vorsorgeeinrichtungen können sich in eine Stiftung umwandeln. 2 Die Umwandlung von Vorsorgeeinrichtungen ist nur zulässig, wenn der Vorsorgezweck und die Rechte und Ansprüche der Versicherten gewahrt bleiben. 3 Die Artikel 89–95 finden sinngemäss Anwendung. Fassung gemäss Ziff. II 2 des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2014 ( AS 2011 3385 ; BBl 2008 8411 )."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "3. Abschnitt: Vermögensübertragung",
+      "section": "98",
+      "title": "",
+      "content": "1 Vorsorgeeinrichtungen können ihr Vermögen oder Teile davon mit Aktiven und Passiven auf andere Vorsorgeeinrichtungen oder Rechtsträger übertragen. 2 Artikel 88 Absatz 2 findet sinngemäss Anwendung. Die Artikel 70–77 finden Anwendung. 3 Vermögensübertragungen im Rahmen einer Teil- oder Gesamtliquidation bedürfen der Genehmigung der Aufsichtsbehörde, wenn dies im Recht der beruflichen Vorsorge vorgesehen ist."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "8. Kapitel: Fusion, Umwandlung und Vermögensübertragung unter Beteiligung von Instituten des öffentlichen Rechts von Instituten des öffentlichen Rechts",
+      "section": "99",
+      "title": "Zulässige Fusionen, Umwandlungen und Vermögensübertragungen",
+      "content": "1 Institute des öffentlichen Rechts können: a. ihr Vermögen durch Fusion auf Kapitalgesellschaften, Genossenschaften, Vereine oder Stiftungen übertragen; b. sich in Kapitalgesellschaften, Genossenschaften, Vereine oder Stiftungen umwandeln. 2 Institute des öffentlichen Rechts können durch Vermögensübertragung ihr Vermögen oder Teile davon auf andere Rechtsträger übertragen oder das Vermögen oder Teile davon von anderen Rechtsträgern übernehmen."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "8. Kapitel: Fusion, Umwandlung und Vermögensübertragung unter Beteiligung von Instituten des öffentlichen Rechts von Instituten des öffentlichen Rechts",
+      "section": "100",
+      "title": "Anwendbares Recht",
+      "content": "1 Auf die Fusion von privatrechtlichen Rechtsträgern mit Instituten des öffentlichen Rechts, auf die Umwandlung solcher Institute in Rechtsträger des Privatrechts und auf die Vermögensübertragung unter Beteiligung eines Rechtsträgers des öffentlichen Rechts finden die Vorschriften dieses Gesetzes sinngemäss Anwendung. Bei der Fusion und der Umwandlung nach Artikel 99 Absatz 1 kann das öffentliche Recht für den beteiligten Rechtsträger des öffentlichen Rechts abweichende Vorschriften vorsehen. Die Artikel 99–101 finden jedoch in jedem Fall Anwendung, ausgenommen für konzessionierte Verkehrs- und Infrastrukturunternehmen, soweit das öffentliche Recht eine abweichende Regelung vorsieht. 2 Institute des öffentlichen Rechts müssen in einem Inventar die Gegenstände des Aktiv- und des Passivvermögens, die von der Fusion, der Umwandlung oder der Vermögensübertragung erfasst werden, eindeutig bezeichnen und bewerten. Grundstücke, Wertpapiere und immaterielle Werte sind einzeln aufzuführen. Das Inventar muss von einer zugelassenen Revisionsexpertin oder einem zugelassenen Revisionsexperten geprüft werden, sofern nicht in anderer Weise sichergestellt ist, dass die Erstellung und die Bewertung des Inventars den anerkannten Rechnungslegungsgrundsätzen entsprechen. 3 Die Beschlussfassung des Rechtsträgers des öffentlichen Rechts zur Fusion, Umwandlung oder Vermögensübertragung richtet sich nach den öffentlich-rechtlichen Vorschriften und Grundsätzen des Bundes, der Kantone und der Gemeinden. Fassung des Satzes gemäss Ziff. II 4 des BG über die Bahnreform 2 vom 20. März 2009, in Kraft seit 1. Jan. 2010 ( AS 2009 5597 ; BBl 2005 2415 , 2007 2681 ). Fassung des Satzes gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ( AS 2007 4791 ; BBl 2002 3148 , 2004 3969 )."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "8. Kapitel: Fusion, Umwandlung und Vermögensübertragung unter Beteiligung von Instituten des öffentlichen Rechts von Instituten des öffentlichen Rechts",
+      "section": "101",
+      "title": "Verantwortlichkeit von Bund, Kantonen und Gemeinden",
+      "content": "1 Durch Fusionen, Umwandlungen und Vermögensübertragungen von Instituten des öffentlichen Rechts dürfen keine Gläubigerinnen und Gläubiger geschädigt werden. Der Bund, die Kantone und die Gemeinden müssen Vorkehrungen treffen, damit Ansprüche im Sinne der Artikel 26, 68 Absatz 1 und 75 erfüllt werden können. 2 Für Schäden, welche auf mangelhafte Vorkehrungen zurückzuführen sind, haften Bund, Kantone und Gemeinden nach den für sie massgebenden Vorschriften."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "1. Abschnitt: Ausführungsbestimmungen",
+      "section": "102",
+      "title": "",
+      "content": "Der Bundesrat erlässt Vorschriften über: a. die Einzelheiten der Eintragung ins Handelsregister und die einzureichenden Belege; b. die Einzelheiten der Eintragung ins Grundbuch und die einzureichenden Belege."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "2. Abschnitt: Handänderungsabgaben",
+      "section": "103",
+      "title": "",
+      "content": "Die Erhebung von kantonalen und kommunalen Handänderungsabgaben ist bei Umstrukturierungen im Sinne von Artikel 8 Absatz 3 und Artikel 24 Absätze 3 und 3 quater des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden ausgeschlossen. Kostendeckende Gebühren bleiben vorbehalten. SR 642.14"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Anmeldung beim Grundbuchamt",
+      "section": "10",
+      "title": "4",
+      "content": "1 Der übernehmende Rechtsträger oder, im Falle der Umwandlung, der Rechtsträger, der seine Rechtsform ändert, muss alle Änderungen, die sich für das Grundbuch aus der Fusion, der Spaltung oder der Umwandlung ergeben, innert dreier Monate vom Eintritt der Rechtswirksamkeit an beim Grundbuchamt anmelden, sofern nicht die kürzere Frist nach Absatz 2 gilt. 2 Der übernehmende Rechtsträger muss den Übergang des Eigentums an einem Grundstück umgehend nach Eintritt der Rechtswirksamkeit beim Grundbuchamt anmelden, wenn: a. bei einer Fusion von Vereinen oder von Stiftungen der übertragende Rechtsträger nicht im Handelsregister eingetragen ist; b. das Grundstück durch Abspaltung auf ihn übergegangen ist; c. das Grundstück durch Vermögensübertragung auf ihn übergegangen ist. 3 In den Fällen nach Absatz 2 Buchstaben a und b bedarf es als Ausweis für die Eigentumsübertragung für das Grundbuch einer öffentlichen Urkunde über die Tatsache, dass das Eigentum an den Grundstücken auf den übernehmenden Rechtsträger übergegangen ist. 4 Die Urkundsperson, welche eine Feststellungsurkunde nach Absatz 3 oder eine öffentliche Urkunde nach Artikel 70 Absatz 2 errichtet, ist namens des übernehmenden Rechtsträgers zur Anmeldung bei den Grundbuchämtern befugt."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Überprüfung der Anteils- und Mitgliedschaftsrechte",
+      "section": "10",
+      "title": "5",
+      "content": "1 Wenn bei einer Fusion, einer Spaltung oder einer Umwandlung die Anteils- oder Mitgliedschaftsrechte nicht angemessen gewahrt sind oder die Abfindung nicht angemessen ist, kann jede Gesellschafterin und jeder Gesellschafter innerhalb von zwei Monaten nach der Veröffentlichung des Fusions-, des Spaltungs- oder des Umwandlungsbeschlusses verlangen, dass das Gericht eine angemessene Ausgleichszahlung festsetzt. Für die Festsetzung der Ausgleichszahlung gilt Artikel 7 Absatz 2 nicht. 2 Das Urteil hat Wirkung für alle Gesellschafterinnen und Gesellschafter des beteiligten Rechtsträgers, sofern sie sich in der gleichen Rechtsstellung wie die Klägerin oder der Kläger befinden. 3 Die Kosten des Verfahrens trägt der übernehmende Rechtsträger. Wenn besondere Umstände es rechtfertigen, kann das Gericht die Kosten ganz oder teilweise den Klägerinnen und Klägern auferlegen. 4 Die Klage auf Überprüfung der Wahrung der Anteils- oder Mitgliedschaftsrechte hindert die Rechtswirksamkeit des Fusions-, des Spaltungs- oder des Umwandlungsbeschlusses nicht."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "4. Abschnitt: Überprüfung der Anteils- und Mitgliedschaftsrechte",
+      "section": "106",
+      "title": "Grundsatz",
+      "content": "1 Sind die Vorschriften dieses Gesetzes verletzt, so können Gesellschafterinnen und Gesellschafter der beteiligten Rechtsträger, die dem Beschluss über die Fusion, die Spaltung oder die Umwandlung nicht zugestimmt haben, den Beschluss innerhalb von zwei Monaten nach der Veröffentlichung im Schweizerischen Handelsamtsblatt anfechten. Wenn keine Veröffentlichung erforderlich ist, beginnt die Frist mit der Beschlussfassung. 2 Gesellschafterinnen und Gesellschafter können den Beschluss auch anfechten, wenn er vom obersten Leitungs- oder Verwaltungsorgan gefasst wurde."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "4. Abschnitt: Überprüfung der Anteils- und Mitgliedschaftsrechte",
+      "section": "107",
+      "title": "Folgen eines Mangels",
+      "content": "1 Kann ein Mangel behoben werden, so räumt das Gericht den betroffenen Rechtsträgern dazu eine Frist ein. 2 Wird ein Mangel innerhalb der angesetzten Frist nicht behoben oder kann er nicht behoben werden, so hebt das Gericht den Beschluss auf und ordnet die erforderlichen Massnahmen an."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "6. Abschnitt: Verantwortlichkeit",
+      "section": "10",
+      "title": "8",
+      "content": "1 Alle mit der Fusion, der Spaltung, der Umwandlung oder der Vermögensübertragung befassten Personen sind sowohl den Rechtsträgern als auch den einzelnen Gesellschafterinnen und Gesellschaftern sowie den Gläubigerinnen und Gläubigern für den Schaden verantwortlich, den sie durch absichtliche oder fahrlässige Verletzung ihrer Pflichten verursachen. Die Verantwortung der Gründerinnen und Gründer bleibt vorbehalten. 2 Alle mit der Prüfung der Fusion, der Spaltung oder der Umwandlung befassten Personen sind sowohl den Rechtsträgern als auch den einzelnen Gesellschafterinnen und Gesellschaftern sowie Gläubigerinnen und Gläubigern für den Schaden verantwortlich, den sie durch absichtliche oder fahrlässige Verletzung ihrer Pflichten verursachen. 3 Die Artikel 756, 759 und 760 des OR finden Anwendung. Im Fall des Konkurses einer Kapitalgesellschaft oder einer Genossenschaft gelten die Artikel 757, 764 Absatz 2, 827 und 920 des OR sinngemäss. 4 Die Verantwortlichkeit der Personen, die für ein Institut des öffentlichen Rechts tätig sind, richtet sich nach dem öffentlichen Recht. SR 220"
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "10. Kapitel: Schlussbestimmungen",
+      "section": "109",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "10. Kapitel: Schlussbestimmungen",
+      "section": "110",
+      "title": "Übergangsbestimmung",
+      "content": "Dieses Gesetz findet Anwendung auf Fusionen, Spaltungen, Umwandlungen und Vermögensübertragungen, die nach seinem Inkrafttreten beim Handelsregister zur Eintragung angemeldet werden."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "10. Kapitel: Schlussbestimmungen",
+      "section": "111",
+      "title": "Referendum und Inkrafttreten",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. 3 Artikel 103 tritt fünf Jahre nach den übrigen Bestimmungen dieses Gesetzes in Kraft. Datum des Inkrafttretens: Art. 103: 1. Juli 2009 alle übrigen Bestimmungen: 1. Juli 2004 BRB vom 21. April 2004"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gesellschaften:",
+      "definition": "Gesellschaften: Kapitalgesellschaften, Kollektiv- und Kommanditgesellschaften, Vereine und Genossenschaften, sofern es sich nicht um Vorsorgeeinrichtungen gemäss Buchstabe i handelt;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kapitalgesellschaften:",
+      "definition": "Kapitalgesellschaften: Aktiengesellschaften, Kommanditaktiengesellschaften und Gesellschaften mit beschränkter Haftung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Institute des öffentlichen Rechts:",
+      "definition": "Institute des öffentlichen Rechts: im Handelsregister eingetragene, organisatorisch verselbständigte Einrichtungen des öffentlichen Rechts des Bundes, der Kantone und der Gemeinden, unabhängig davon, ob sie als juristische Person ausgestaltet sind oder nicht;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "kleine und mittlere Unternehmen:",
+      "definition": "kleine und mittlere Unternehmen: Gesellschaften, die keine Anleihensobligationen ausstehend haben, deren Anteile nicht an der Börse kotiert sind und die überdies zwei der nachfolgenden Grössen nicht in den zwei letzten dem Fusions-, dem Spaltungs- oder dem Umwandlungsbeschluss vorangegangenen Geschäftsjahren überschreiten: 1. Bilanzsumme von 20 Millionen Franken,",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gesellschafterinnen und Gesellschafter:",
+      "definition": "Gesellschafterinnen und Gesellschafter: Anteilsinhaberinnen und -inhaber, Gesellschafterinnen und Gesellschafter in der Kollektiv- und der Kommanditgesellschaft, Genossenschafterinnen und Genossenschafter ohne Anteilscheine, Mitglieder im Verein;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Anteilsinhaberinnen und -inhaber:",
+      "definition": "Anteilsinhaberinnen und -inhaber: Inhaberinnen und Inhaber von Aktien, Partizipationsscheinen oder Genussscheinen, Gesellschafterinnen und Gesellschafter von Gesellschaften mit beschränkter Haftung, Genossenschafterinnen und Genossenschafter mit Anteilscheinen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Generalversammlung:",
+      "definition": "Generalversammlung: die Generalversammlung in der Aktiengesellschaft, der Kommanditaktiengesellschaft und in der Genossenschaft; die Gesellschafterversammlung in der Gesellschaft mit beschränkter Haftung; die Versammlung der Mitglieder im Verein; die Delegiertenversammlung, soweit diese in der Genossenschaft oder im Verein nach den Statuten zuständig ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vorsorgeeinrichtungen:",
+      "definition": "Vorsorgeeinrichtungen: Einrichtungen, die der Aufsicht gemäss Artikel 61 ff. des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters‑, Hinterbliebenen- und Invalidenvorsorge (BVG) unterstellt sind und die als juristische Person ausgestaltet sind.",
+      "source_provision": "art2"
+    }
+  ]
+}

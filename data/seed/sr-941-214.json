@@ -1,0 +1,114 @@
+{
+  "id": "sr-941-214",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 19. März 2006 über selbsttätige Waagen (SWV)",
+  "title_en": "",
+  "short_name": "SWV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2006/248/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Anforderungen an selbsttätige Waagen; b. die Verfahren für das Inverkehrbringen dieser Messmittel; c. die Verfahren zur Erhaltung der Messbeständigkeit dieser Messmittel. Ausdruck gemäss Ziff. I 9 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Januar 2013 ( AS 2012 7183 ). Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "Dieser Verordnung unterstehen: a. selbsttätige Waagen für Einzelwägungen; b. selbsttätige Waagen zum diskontinuierlichen Totalisieren (totalisierende Behälterwaagen); c. selbsttätige Waagen zum kontinuierlichen Totalisieren (Förderbandwaagen); d. selbsttätige Gleiswaagen; e. selbsttätige Strassenfahrzeugwaagen zum Wägen der Totallast in Fahrt, sofern die Waagen auf einem überwachten Areal installiert sind, in dem die Geschwindigkeit des Fahrzeuges überprüft wird; f. selbsttätige Waagen zum Abwägen (Schüttgutabfüllungen). Eingefügt durch Ziff. I der V des EJPD vom 5. Dezember 2016, in Kraft seit 1. Januar 2017 ( AS 2016 5225 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Einheiten",
+      "content": "Für die Angaben auf selbsttätigen Waagen sind folgende gesetzlichen Einheiten der Masse zu verwenden: a. Milligramm (mg); b. Gramm (g); c. Kilogramm (kg); d. Tonne (t)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Bezugsbedingungen, Eichgewichtstücke",
+      "content": "1 Für die Ermittlung von Messergebnissen bei der Konformitätsbewertung oder der Nacheichung gelten folgende Bezugsbedingungen: [tab] a. Temperatur 20 °C; [tab] b. konventionelle Dichte für Eichgewichtstücke 8000 kg/m 3 ; [tab] c. Luftdichte 1,2 kg/m 3 . 2 Die Messabweichung der bei den nachträglichen Kontrollen verwendeten Gewichtstücke oder Prüflasten darf bei der jeweiligen Belastung höchstens ein Drittel der Fehlergrenze der zu prüfenden Waage betragen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Waage: Messmittel, das die Masse eines Körpers durch Einwirken der Schwerkraft auf diesen Körper oder mit der Masse zusammenhängende Grössen, Werte, Parameter oder charakteristische Eigenschaften ermittelt; b. selbsttätige Waage: Waage, die die Masse eines Erzeugnisses ohne Eingreifen von Bedienungspersonal bestimmt und dabei einem vorgegebenen automatischen, für das Gerät charakteristischen Programmablauf folgt; c. selbsttätige Waage für Einzelwägungen: selbsttätige Waage, die die Masse von vorgegebenen einzelnen Lasten wie Fertigpackungen oder von Einzellasten losen Materials bestimmt; d. selbsttätige Kontrollwaage: selbsttätige Waage für Einzelwägungen, die Güter unterschiedlicher Masse anhand des Wertes der Differenz ihrer Massen und eines nominalen Sollwerts in zwei oder mehr Teilgruppen aufteilt; e. Gewichtsauszeichnungswaage: selbsttätige Waage für Einzelwägungen, die einzelne Güter mit Etiketten versieht, auf denen das Gewicht angegeben ist; f. Preisauszeichnungswaage: selbsttätige Waage für Einzelwägungen, die einzelne Güter mit Etiketten versieht, auf denen Gewicht und Preis angegeben sind; g. selbsttätige Waage zum Totalisieren (totalisierende Behälterwaage): selbsttätige Waage, die ein Massengut durch Teilung in einzelne Lasten nacheinander wägt; dabei werden die Massen der einzelnen Lasten nacheinander bestimmt, die Wägeergebnisse summiert und die einzelnen Lasten zur bereits abgewogenen Menge hinzugeben; h. selbsttätige Waage zum kontinuierlichen Totalisieren (Förderbandwaage): selbsttätige Waage, die ein Massengut auf einem Förderband kontinuierlich wägt, ohne systematische Unterteilung der Masse und ohne Unterbrechung der Bewegung des Förderbandes; i. selbsttätige Gleiswaage: selbsttätige Waage, die einen Lastträger einschliesslich Schienen für das Befahren mit Schienenfahrzeugen besitzt; j. selbsttätige Strassenfahrzeugwaage: selbsttätige Waage, die die Totalmasse eines Fahrzeuges in Fahrt bestimmt; k. selbsttätige Waage zum Abwägen (Schüttgutabfüllungen): selbsttätige Waage, die Behälter mit einer vorgegebenen und effektiv gleich bleibenden Masse eines Schüttguts füllt. Eingefügt durch Ziff. I der V des EJPD vom 5. Dezember 2016, in Kraft seit 1. Januar 2017 ( AS 2016 5225 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Grundlegende Anforderungen",
+      "content": "1 Selbsttätige Waagen für Einzelwägungen müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach den Anhängen 1 und 2 der vorliegenden Verordnung erfüllen. 2 Selbsttätige Waagen zum diskontinuierlichen Totalisieren (totalisierende Behälterwaagen) müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach den Anhängen 1 und 3 der vorliegenden Verordnung erfüllen. 3 Selbsttätige Waagen zum kontinuierlichen Totalisieren (Förderbandwaagen) müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach den Anhängen 1 und 4 der vorliegenden Verordnung erfüllen. 4 Selbsttätige Gleiswaagen müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach den Anhängen 1 und 5 der vorliegenden Verordnung erfüllen. 5 Selbsttätige Strassenfahrzeugwaagen zum Wägen der Totallast in Fahrt müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach Anhang 6 der vorliegenden Verordnung erfüllen. 6 Selbsttätige Waagen zum Abwägen (Schüttgutabfüllungen) müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach den Anhängen 1 und 6 a der vorliegenden Verordnung erfüllen. Eingefügt durch Ziff. I der V des EJPD vom 5. Dezember 2016, in Kraft seit 1. Januar 2017 ( AS 2016 5225 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Die Konformität der selbsttätigen Waagen mit den grundlegenden Anforderungen nach Artikel 6 wird nach Wahl der Herstellerin nach einem der folgenden Verfahren nach Anhang 2 der Messmittelverordnung bewertet und bescheinigt: a. für mechanische selbsttätige Waagen: 1. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage der Qualitätssicherung für die Produktion (Modul D), 2. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage der Qualitätssicherung für das Produkt (Modul E), 3. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage einer Prüfung der Produkte (Modul F), 4. Konformitätserklärung auf der Grundlage der Qualitätssicherung für die Produktion (Modul D1), 5. Konformitätserklärung auf der Grundlage einer Prüfung der Produkte (Modul F1), 6. Konformitätserklärung auf der Grundlage einer Einzelprüfung (Modul G), 7. Konformitätserklärung auf der Grundlage einer umfassenden Qualitätssicherung, ergänzt durch eine Entwurfsprüfung (Modul H1); b. für elektromechanische selbsttätige Waagen: 1. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage der Qualitätssicherung für die Produktion (Modul D), 2. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage der Qualitätssicherung für das Produkt (Modul E), 3. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage einer Prüfung der Produkte (Modul F), 4. Konformitätserklärung auf der Grundlage einer Einzelprüfung (Modul G), 5. Konformitätserklärung auf der Grundlage einer umfassenden Qualitätssicherung, ergänzt durch eine Entwurfsprüfung (Modul H1); c. für elektronische oder für Software enthaltende selbsttätige Waagen, ohne Strassenfahrzeugwaagen: 1. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage der Qualitätssicherung für die Produktion (Modul D), 2. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage einer Prüfung der Produkte (Modul F), 3. Konformitätserklärung auf der Grundlage einer Einzelprüfung (Modul G), 4. Konformitätserklärung auf der Grundlage einer umfassenden Qualitätssicherung, ergänzt durch eine Entwurfsprüfung (Modul H1); d. für selbsttätige Strassenfahrzeugwaagen zum Wägen der Totallast in Fahrt: ordentliche Zulassung und Ersteichung nach Anhang 5 der Messmittelverordnung."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "1 Selbsttätige Waagen müssen nach Anhang 7 Ziffer 1 der Messmittelverordnung durch die kantonalen Eichämter nachgeeicht werden. 2 Die Nacheichung der selbsttätigen Waagen hat zu erfolgen: a. … b. jedes Jahr für selbsttätige Waagen für Einzelwägungen; c. alle zwei Jahre für: 1. selbsttätige Waagen zum diskontinuierlichen Totalisieren (totalisierende Behälterwaagen), 2. selbsttätige Waagen zum kontinuierlichen Totalisieren (Förderbandwaagen), 3. selbsttätige Waagen zum Abwägen (Schüttgutabfüllungen); d. jedes Jahr für selbsttätige Strassenfahrzeugwaagen; e. jedes Jahr für selbsttätige Gleiswaagen . 3 Für selbsttätige Gleiswaagen kann die Verwenderin die Nacheichung mit einem Kontrollverfahren nach Anhang 7 Ziffer 5 der Messmittelverordnung und Anhang 7 der vorliegenden Verordnung ergänzen. Dadurch kann die Nacheichfrist der Gleiswaage bis auf maximal drei Jahren verlängert werden. Aufgehoben durch Ziff. I der V des EJPD vom 5. Dezember 2016, mit Wirkung seit 1. Januar 2017 ( AS 2016 5225 ). Fassung gemäss Ziff. I der V des EJPD vom 5. Dezember 2016, in Kraft seit 1. Januar 2017 ( AS 2016 5225 ). Eingefügt durch Ziff. I der V des EJPD vom 5. Dezember 2016, in Kraft seit 1. Januar 2017 ( AS 2016 5225 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Pflichten der Verwenderin",
+      "content": "Zusätzlich zur Verantwortung nach Artikel 21 Absatz 1 der Messmittelverordnung trägt die Verwenderin auch die Verantwortung dafür, dass: a. die Anweisungen der Herstellerin zum Einbau und zur Inbetriebnahme der Waagen befolgt werden; b. die Waagen in Stand gehalten werden und die der Abnützung, Alterung und Verschmutzung unterworfenen Teile periodisch revidiert werden."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Fehlergrenzen bei Kontrollen",
+      "content": "Bei Beanstandungen im Sinne von Artikel 29 Absatz 1 der Messmittelverordnung oder bei der amtlichen Kontrolle von Messmitteln ausserhalb der Eichung gilt als Fehlergrenze das Doppelte der Fehlergrenzen nach den Anhängen 2–6 der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Wiegegeräteverordnung des EJPD vom 15. August 1986 wird aufgehoben. [ AS 1986 2013 , 2002 2136 , 2004 2119 ]"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Selbsttätige Waagen, die vor dem Inkrafttreten dieser Verordnung geeicht wurden, dürfen weiterhin der Nacheichung unterzogen werden. 2 Selbsttätige Waagen, die nach bisherigem Recht zugelassen wurden, können noch während zehn Jahren nach dem Inkrafttreten dieser Verordnung in Verkehr gebracht und der Ersteichung nach Anhang 5 Ziffer 2 der Messmittelverordnung unterzogen werden. Sie dürfen auch nach Ablauf der zehn Jahre nachgeeicht werden. 3 Selbsttätige Waagen, die vor dem Inkrafttreten dieser Verordnung ungeeicht in Verkehr gebracht wurden, dürfen noch fünf Jahre nach Inbetriebnahme oder Revision, längstens aber bis zum 31. Dezember 2011, ungeeicht verwendet werden. Sie können geeicht werden, wenn sie bei der Eichung den Vorschriften dieser Verordnung entsprechen."
+    },
+    {
+      "provision_ref": "art12a",
+      "section": "12a",
+      "title": "a Übergangsbestimmungen zur Änderung vom 5. Dezember 2016",
+      "content": "1 Für Gewichtsauszeichnungswaagen und Preisauszeichnungswaagen, die vor dem 1. Januar 2017 geeicht wurden, gelten bis zur nächsten Nacheichung die bisherigen Fristen. 2 Selbsttätige Waagen zum Abwägen (Schüttgutabfüllungen), die vor dem 1. Januar 2017 in Verkehr gebracht wurden, müssen bis am 31. Dezember 2018 nachgeeicht werden. Eingefügt durch Ziff. I der V des EJPD vom 5. Dezember 2016, in Kraft seit 1. Januar 2017 ( AS 2016 5225 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 30. Oktober 2006 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Waage:",
+      "definition": "Waage: Messmittel, das die Masse eines Körpers durch Einwirken der Schwerkraft auf diesen Körper oder mit der Masse zusammenhängende Grössen, Werte, Parameter oder charakteristische Eigenschaften ermittelt;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "selbsttätige Kontrollwaage:",
+      "definition": "selbsttätige Kontrollwaage: selbsttätige Waage für Einzelwägungen, die Güter unterschiedlicher Masse anhand des Wertes der Differenz ihrer Massen und eines nominalen Sollwerts in zwei oder mehr Teilgruppen aufteilt;",
+      "source_provision": "art5"
+    },
+    {
+      "term": "selbsttätige Waage zum kontinuierlichen Totalisieren (Förderbandwaage):",
+      "definition": "selbsttätige Waage zum kontinuierlichen Totalisieren (Förderbandwaage): selbsttätige Waage, die ein Massengut auf einem Förderband kontinuierlich wägt, ohne systematische Unterteilung der Masse und ohne Unterbrechung der Bewegung des Förderbandes;",
+      "source_provision": "art5"
+    }
+  ]
+}

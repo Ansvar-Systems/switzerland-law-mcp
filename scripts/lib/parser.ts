@@ -268,124 +268,48 @@ function extractDefinitions(
 }
 
 /**
- * Pre-configured list of key Swiss federal acts to ingest.
- * These are the most important federal acts for cybersecurity, data protection,
- * and compliance use cases.
+ * Build an ActIndexEntry from census data.
  *
- * ELI paths are used to query the Fedlex SPARQL endpoint for the latest
- * consolidated version. The `url` field points to the human-readable Fedlex page.
+ * The census provides ELI URIs in data.admin.ch format; this converts
+ * them to www.fedlex.admin.ch browsable URLs for the fetcher.
  */
-export const KEY_SWISS_ACTS: ActIndexEntry[] = [
-  {
-    id: 'sr-235-1',
-    srNumber: '235.1',
-    title: 'Bundesgesetz über den Datenschutz (Datenschutzgesetz, DSG)',
-    titleEn: 'Federal Act on Data Protection (FADP)',
-    abbreviation: 'DSG',
+export function censusEntryToAct(entry: {
+  id: string;
+  sr_number: string;
+  title: string;
+  title_en: string;
+  eli_uri: string;
+}): ActIndexEntry {
+  // Convert data URI to browsable URL:
+  // "https://fedlex.data.admin.ch/eli/cc/2022/491" -> "https://www.fedlex.admin.ch/eli/cc/2022/491/en"
+  const url = entry.eli_uri.replace('fedlex.data.admin.ch', 'www.fedlex.admin.ch') + '/en';
+
+  return {
+    id: entry.id,
+    srNumber: entry.sr_number,
+    title: entry.title,
+    titleEn: entry.title_en,
+    abbreviation: extractAbbreviation(entry.title),
     status: 'in_force',
-    issuedDate: '2020-09-25',
-    inForceDate: '2023-09-01',
-    url: 'https://www.fedlex.admin.ch/eli/cc/2022/491/en',
-  },
-  {
-    id: 'sr-128-1',
-    srNumber: '128.1',
-    title: 'Bundesgesetz über die Informationssicherheit beim Bund (Informationssicherheitsgesetz, ISG)',
-    titleEn: 'Federal Act on Information Security (ISA)',
-    abbreviation: 'ISG',
-    status: 'in_force',
-    issuedDate: '2020-12-18',
-    inForceDate: '2024-01-01',
-    // Correct ELI: cc/2022/232 (not cc/2023/483)
-    url: 'https://www.fedlex.admin.ch/eli/cc/2022/232/de',
-  },
-  {
-    id: 'sr-784-10',
-    srNumber: '784.10',
-    title: 'Fernmeldegesetz (FMG)',
-    titleEn: 'Telecommunications Act (TCA)',
-    abbreviation: 'FMG',
-    status: 'in_force',
-    issuedDate: '1997-04-30',
-    inForceDate: '1998-01-01',
-    url: 'https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/en',
-  },
-  {
-    id: 'sr-220',
-    srNumber: '220',
-    title: 'Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Obligationenrecht)',
-    titleEn: 'Federal Act on the Amendment of the Swiss Civil Code (Part Five: The Code of Obligations)',
-    abbreviation: 'OR',
-    status: 'in_force',
-    issuedDate: '1911-03-30',
-    inForceDate: '1912-01-01',
-    url: 'https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en',
-  },
-  {
-    id: 'sr-311-0',
-    srNumber: '311.0',
-    title: 'Schweizerisches Strafgesetzbuch',
-    titleEn: 'Swiss Criminal Code',
-    abbreviation: 'StGB',
-    status: 'in_force',
-    issuedDate: '1937-12-21',
-    inForceDate: '1942-01-01',
-    url: 'https://www.fedlex.admin.ch/eli/cc/54/757_781_799/en',
-  },
-  {
-    id: 'sr-943-03',
-    srNumber: '943.03',
-    title: 'Bundesgesetz über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate (Bundesgesetz über die elektronische Signatur, ZertES)',
-    titleEn: 'Federal Act on Electronic Signatures (ZertES)',
-    abbreviation: 'ZertES',
-    status: 'in_force',
-    issuedDate: '2016-03-18',
-    inForceDate: '2017-01-01',
-    // No English translation available; use German
-    url: 'https://www.fedlex.admin.ch/eli/cc/2016/752/de',
-  },
-  {
-    id: 'sr-780-1',
-    srNumber: '780.1',
-    title: 'Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF)',
-    titleEn: 'Federal Act on the Surveillance of Post and Telecommunications (SPTA)',
-    abbreviation: 'BÜPF',
-    status: 'in_force',
-    issuedDate: '2016-03-18',
-    inForceDate: '2018-03-01',
-    url: 'https://www.fedlex.admin.ch/eli/cc/2018/31/en',
-  },
-  {
-    id: 'sr-101',
-    srNumber: '101',
-    title: 'Bundesverfassung der Schweizerischen Eidgenossenschaft',
-    titleEn: 'Federal Constitution of the Swiss Confederation',
-    abbreviation: 'BV',
-    status: 'in_force',
-    issuedDate: '1999-04-18',
-    inForceDate: '2000-01-01',
-    url: 'https://www.fedlex.admin.ch/eli/cc/1999/404/en',
-  },
-  {
-    id: 'sr-235-11',
-    srNumber: '235.11',
-    title: 'Verordnung über den Datenschutz (Datenschutzverordnung, DSV)',
-    titleEn: 'Ordinance on Data Protection (DPO)',
-    abbreviation: 'DSV',
-    status: 'in_force',
-    issuedDate: '2022-08-31',
-    inForceDate: '2023-09-01',
-    url: 'https://www.fedlex.admin.ch/eli/cc/2022/568/en',
-  },
-  {
-    id: 'sr-161-1',
-    srNumber: '161.1',
-    title: 'Bundesgesetz über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)',
-    titleEn: 'Federal Act on Freedom of Information in the Administration (FoIA)',
-    abbreviation: 'BGÖ',
-    status: 'in_force',
-    issuedDate: '2004-12-17',
-    inForceDate: '2006-07-01',
-    url: 'https://www.fedlex.admin.ch/eli/cc/2006/355/en',
-  },
-];
+    issuedDate: '',
+    inForceDate: '',
+    url,
+  };
+}
+
+/**
+ * Extract abbreviation from a German law title.
+ * E.g., "Bundesgesetz über den Datenschutz (Datenschutzgesetz, DSG)" -> "DSG"
+ * Falls back to the SR number-based ID if no abbreviation is found.
+ */
+function extractAbbreviation(title: string): string {
+  // Look for abbreviation in parentheses: "(Datenschutzgesetz, DSG)" or "(DSG)"
+  const match = title.match(/\((?:[^,]+,\s*)?([A-ZÄÖÜ][A-Za-zäöüÄÖÜ]{1,10})\)\s*$/);
+  if (match) return match[1];
+
+  // Look for abbreviation pattern: "XYZ)" at end
+  const match2 = title.match(/,\s*([A-ZÄÖÜ]{2,10})\)\s*$/);
+  if (match2) return match2[1];
+
+  return '';
+}

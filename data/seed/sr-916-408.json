@@ -1,0 +1,303 @@
+{
+  "id": "sr-916-408",
+  "type": "statute",
+  "title": "Verordnung vom 6. Juni 2014 über die Informationssysteme für den öffentlichen Veterinärdienst (ISVet-V)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/325/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "1 Gegenstand",
+      "content": "1 Diese Verordnung regelt den Betrieb der folgenden Informationssysteme: a. Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN); b. Informationssystem für Labordaten (ALIS); c. Informationssystem über die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko). 2 Sie enthält insbesondere Vorschriften über: a. die Zuständigkeiten; b. den Inhalt und die Datenquellen; c. die Zugriffsrechte; d. die Bekanntgabe von Daten; e. den Datenschutz und die Informatiksicherheit; f. die Archivierung; g. die Finanzierung von ASAN und ALIS. 3 ASAN, ALIS und Fleko sind Subsysteme des gemeinsamen zentralen Informationssystems nach Artikel 2 Buchstabe a. Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "2 Begriffe",
+      "content": "Die folgenden Ausdrücke bedeuten: a. gemeinsames zentrales Informationssystem: gemeinsames zentrales Informationssystem entlang der Lebensmittelkette des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (BLV) und des Bundesamtes für Landwirtschaft (BLW) zur Gewährleistung der Lebensmittelsicherheit, der Futtermittelsicherheit, der Tiergesundheit, des Tierschutzes und einer einwandfreien Primärproduktion; b . Subsystem: Informationssystem, das Teil des gemeinsamen zentralen Informationssystems ist; c. Betrieb: wiederkehrende Dienstleistungen und Bereitstellen der technischen Infrastruktur, die das adäquate Funktionieren eines Informationssystems gewährleisten; d. Weiterentwicklung: Ausbau eines Informationssystems, insbesondere Anpassungen aufgrund von neuen gesetzlichen Vorgaben; e. Zugangsstation: Lizenz, die den Zugriff auf ein Informationssystem ermöglicht; f. beauftragte Dritte: Personen oder Organisationen, die von der zuständigen Behörde für die Durchführung von gesetzlichen Vollzugsaufgaben in den Bereichen Tiergesundheit, Tierschutz und Lebensmittelhygiene vertraglich beigezogen werden; g. Primärproduktion: Produktion unverarbeiteter Lebens- und Futtermittel."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "",
+      "content": "1 Das BLV: a. sorgt für den Betrieb von ASAN, von ALIS und von Fleko und stellt deren Verfügbarkeit sicher; b. trägt die Verantwortung für die Informationssysteme und trifft insbesondere die für den wirtschaftlichen Betrieb und die zur Gewährleistung des Datenschutzes und der Datensicherheit erforderlichen Massnahmen; c. erlässt technische Weisungen nach Artikel 30; d. schliesst Nutzungsvereinbarungen mit den Kantonen ab; e. erstellt das Jahresbudget und die Jahresrechnung für ASAN und ALIS; f. schliesst für ASAN, ALIS und Fleko Vereinbarungen mit den Leistungserbringern ab, welche die Infrastruktur und die Informatikdienstleistungen bereitstellen. 2 … Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 ). Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ( AS 2021 751 ). Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ( AS 2021 751 ). Aufgehoben durch Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, mit Wirkung seit 1. Jan. 2022 ( AS 2021 751 )."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Zugriffsberechtigte Stellen",
+      "content": "Im Rahmen ihrer gesetzlichen Aufgaben können die folgenden Stellen und Personen Daten von ASAN, von ALIS und von Fleko online bearbeiten: a. das BLV: zur Gewährleistung der Sicherheit und Hygiene von Lebensmitteln, der Futtermittelsicherheit, der Tiergesundheit, des Tierschutzes und einer einwandfreien Primärproduktion; b. das BLW: zur Gewährleistung der Sicherheit und Hygiene von Lebensmitteln, des Täuschungsschutzes, der Futtermittelsicherheit, der Tiergesundheit, des Tierschutzes und einer einwandfreien Primärproduktion; c. die Eidgenössische Zollverwaltung (EZV): zur Gewährleistung der Sicherheit und Hygiene von Lebensmitteln, des Täuschungsschutzes, der Futtermittelsicherheit, der Tiergesundheit, des Tierschutzes und einer einwandfreien Primärproduktion im Zusammenhang mit dem Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet; d. das Bundesamt für Umwelt (BAFU): zur Gewährleistung der Tiergesundheit und des Tierschutzes bei Wildtieren; e. die Bundeseinheit für die Lebensmittelkette (BLK): zur Gewährleistung der Aufsicht über den Vollzug der Pflanzengesundheits-, Futtermittel-, Tierseuchen-, Tierschutz- und Lebensmittelgesetzgebung; f. die kantonalen Vollzugsbehörden: zur Erfüllung der Vollzugsaufgaben in den Bereichen Sicherheit und Hygiene von Lebensmitteln, Täuschungsschutz, Futtermittelsicherheit, Tiergesundheit, Tierschutz und einwandfreie Primärproduktion, zur Erfüllung von kantonalen Aufgaben in diesen Bereichen sowie zur Bereinigung von Daten; g. die beauftragten Dritten: zur Erfüllung der Aufgaben gemäss ihrem Auftrag, sofern die Voraussetzungen von Artikel 11 erfüllt sind; h. die anerkannten Laboratorien: zur Erfüllung ihrer Meldepflichten, zur Berichtigung unrichtiger Daten sowie zur Information über von den Vollzugsbehörden durchgeführte Probenahmen; i. die Mitarbeiterinnen und Mitarbeiter der Fachstelle sowie die Administratorinnen und Administratoren von ASAN, von ALIS und von Fleko: zur Sicherstellung der Funktionalität, zur Behebung von Störungen, zur Erteilung von Zugriffsrechten und zur Unterstützung der Anwenderinnen und Anwender. Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 ). Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 ). Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 ). Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes",
+      "section": "5",
+      "title": "5 Zweck",
+      "content": "1 ASAN dient der Bearbeitung der Daten, die Bund und Kantone zur Erfüllung der Vollzugsaufgaben in den Bereichen Tiergesundheit, Tierschutz und Lebensmittelhygiene benötigen, sowie der Geschäftsverwaltung. 2 Zur Geschäftsverwaltung gehören: a. die Verwaltung und Auswertung von Daten; b. die Verwaltung von Vollzugsvorgängen auf Bundes- und Kantonsebene; c. die Verwaltung und Nutzung von Labordaten aus anerkannten Laboratorien; d. die Verwaltung der Systemeinstellungen und die Anwenderverwaltung."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes",
+      "section": "6",
+      "title": "Inhalt",
+      "content": "1 ASAN enthält folgende Arten von Daten: a. Stammdaten über Personen, Betriebe und Tiere: Daten, die der Identifikation und Kategorisierung von Personen, Betrieben und Tieren dienen; b. Vollzugsdaten: Daten, die im Rahmen der Vollzugsaufgaben in den Bereichen Landwirtschaft, Tiergesundheit, Tierschutz und Lebensmittelhygiene erhoben werden; c. Systemdaten: Daten, die der Verwaltung und der Anpassung von ASAN an die Vollzugsbedürfnisse dienen; d. Anwenderdaten: Authentifizierungsdaten, zugeteilte Anwenderrolle und Grundeinstellungen zur Benutzung von ASAN. 2 Der Datenkatalog ist in Anhang 1 aufgeführt."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes",
+      "section": "7",
+      "title": "7 Eingabe und Übermittlung der Daten",
+      "content": "1 Die Bundesämter, die kantonalen Vollzugsbehörden, die anerkannten Laboratorien sowie die beauftragten Dritten geben die von ihnen zu meldenden Daten direkt in ASAN ein, soweit das Bundesrecht dies vorsieht. 2 In dringlichen Fällen nach Artikel 57 Absatz 2 TSG kann das BLV anordnen, dass weitere Daten in ASAN eingegeben werden müssen. 3 Die kantonalen Vollzugsbehörden sowie die beauftragten Dritten erfassen die Kontrolldaten im Informationssystem für Kontrolldaten (Acontrol) nach den Artikeln 6–9 der der Verordnung vom 23. Oktober 2013 über Informationssysteme im Bereich der Landwirtschaft (ISLV) entweder direkt oder durch Hochladen aus Informationssystemen des Kantons. SR 919.117.71"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes",
+      "section": "8",
+      "title": "Zugriff auf die Stammdaten",
+      "content": "Soweit es die Aufgaben nach Artikel 4 erfordern, haben die folgenden Personen online Zugriff auf die Stammdaten: a. die Mitarbeiterinnen und Mitarbeiter des BLV, des BLW, der EZV, des BAFU und der BLK; b. die Mitarbeiterinnen und Mitarbeiter der kantonalen Vollzugsbehörden; c. die Mitarbeiterinnen und Mitarbeiter der Fachstelle sowie die Administratorinnen und Administratoren von ASAN."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes",
+      "section": "9",
+      "title": "Zugriff auf die Vollzugsdaten",
+      "content": "Soweit es die Aufgaben nach Artikel 4 erfordern, haben die folgenden Personen online Zugriff auf die Vollzugsdaten: a. die Mitarbeiterinnen und Mitarbeiter der Fachstelle sowie die Administratorinnen und Administratoren von ASAN und von ALIS: auf alle Vollzugsdaten; b. die Mitarbeiterinnen und Mitarbeiter des BLV, des BLW, der EZV, des BAFU, der BLK und der kantonalen Vollzugsbehörden auf die folgenden Vollzugsdaten: 1. Daten, die sie selber eingegeben haben, 2. Daten, die im Zusammenhang mit den Meldungen der kantonalen Vollzugsbehörden (Art. 7) angefallen sind, 3. Daten aus einer anderen als der eigenen Verwaltungseinheit, soweit sie für die Erfüllung der Vollzugsaufgaben erforderlich sind; c. die Mitarbeiterinnen und Mitarbeiter der anerkannten Laboratorien: auf die Vollzugsdaten, die sie selber eingegeben haben."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Zugriff auf die Systemdaten und die Anwenderdaten",
+      "content": "Soweit es die Aufgaben nach Artikel 4 erfordern, haben die Administratorinnen und Administratoren von ASAN und von ALIS online Zugriff auf die Systemdaten und auf die Anwenderdaten."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Zugriff durch beauftragte Dritte",
+      "content": "Beauftragten Dritten kann online Zugriff auf Stamm- und Vollzugsdaten gewährt werden, soweit keine besonders schützenswerten Daten betroffen sind. Auf Daten von Betrieben darf ihnen der Zugriff nur gewährt werden, wenn dadurch ein Rückschluss auf Persönlichkeitsprofile ausgeschlossen ist."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "12 Verknüpfung mit anderen Informationssystemen",
+      "content": "Die Daten von ASAN können aus folgenden Informationssystemen bezogen werden: a. Informationssystem für Betriebs-, Struktur- und Beitragsdaten (AGIS) nach den Artikeln 2–5 ISLV; b. Acontrol; c. Tierverkehrsdatenbank (TVD) nach der Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkehrsdatenbank (IdTVD-V); d. Internetportal Agate nach den Artikeln 20–22 ISLV; e. Betriebs- und Unternehmensregister (BUR) nach der Verordnung vom 30. Juni 1993 über das Betriebs- und Unternehmensregister; f. Geografisches Informationssystem (GIS) nach den Artikeln 10–13 ISLV; g. Zentrale Datenbank nach Artikel 30 Absatz 2 TSG (Hundedatenbank); h. ALIS; i. Informationssystem Antibiotika in der Veterinärmedizin (IS ABV) nach der Verordnung vom 31. Oktober 2018 über das Informationssystem Antibiotika in der Veterinärmedizin; j. Fleko. SR 919.117.71 Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ( AS 2021 751 ). SR 916.404.1 SR 431.903 Eingefügt durch Art. 20 Ziff. 3 der V vom 31. Okt. 2018 über das Informationssystem Antibiotika in der Veterinärmedizin, in Kraft seit 1. Jan. 2019 ( AS 2018 4353 ). SR 812.214.4 Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Fachstelle",
+      "content": "1 Die Fachstelle ist zuständig für: a. die Erteilung und die Verwaltung der Zugriffsrechte der Anwenderinnen und Anwender; b. die Unterstützung der Anwenderinnen und Anwender sowie deren Information über technische Aspekte, Neuerungen und Änderungen; c. die technischen und fachlichen Anpassungen von ASAN; d. die Koordination und die Überwachung der Aufgaben der verschiedenen Leistungserbringer; e. die Behebung von Störungen in Zusammenarbeit mit den Leistungserbringern; f. die Durchführung von Schulungen; g. die fachliche und inhaltliche Prüfung der aus ALIS bezogenen Daten. 2 Sie arbeitet mit den Fachstellen des BLW sowie mit Vertreterinnen und Vertretern der kantonalen Behörden zusammen."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "14 Gemeinsamer Ausschuss",
+      "content": "1 Der gemeinsame Ausschuss besteht aus vier Vertreterinnen und Vertretern des BLV und vier Vertreterinnen und Vertretern der Kantone. Er organisiert sich selbst. 2 Er: a. wirkt mit bei der Erstellung des Jahresbudgets für den Betrieb von ASAN; b. berät das BLV im Hinblick auf fachliche und finanzielle Aspekte des Betriebs; c. macht Vorschläge für die Weiterentwicklung von ASAN, setzt Projektgruppen ein und genehmigt deren Ergebnisse. 3 Bei Weiterentwicklungen, die Auswirkungen auf die Subsysteme des BLW haben, zieht er Vertreterinnen und Vertreter des BLW bei. [tab] 4 Er kann der Fachstelle Aufträge erteilen. 5 Für die Behandlung spezifischer Fragestellungen kann er externe Expertinnen und Experten beiziehen."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Abschnitt: Informationssystem für Labordaten",
+      "section": "16",
+      "title": "16 Zweck",
+      "content": "ALIS dient der Bearbeitung von Labordaten aus den anerkannten Laboratorien des öffentlichen Veterinärdienstes."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Abschnitt: Informationssystem für Labordaten",
+      "section": "17",
+      "title": "Inhalt",
+      "content": "1 ALIS enthält folgende Arten von Daten: a. Untersuchungsdaten; b. Standarddaten: Daten, die der einheitlichen Codierung der Untersuchungsdaten dienen. 2 Der Datenkatalog ist in Anhang 2 aufgeführt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "3. Abschnitt: Informationssystem für Labordaten",
+      "section": "18",
+      "title": "Eingabe der Daten",
+      "content": "Die anerkannten Laboratorien geben regelmässig die Daten nach Artikel 312 Absatz 4 der Tierseuchenverordnung vom 27. Juni 1995 und nach Artikel 6 Absatz 3 der Milchprüfungsverordnung vom 20. Oktober 2010 in ALIS ein. SR 916.401 SR 916.351.0"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "3. Abschnitt: Informationssystem für Labordaten",
+      "section": "19",
+      "title": "Zugriff auf Untersuchungs- und Standarddaten",
+      "content": "Soweit es die Aufgaben nach Artikel 4 erfordern, haben die folgenden Personen online Zugriff auf die Untersuchungs- und die Standarddaten: a. die Mitarbeiterinnen und Mitarbeiter des BLV; b. die Mitarbeiterinnen und Mitarbeiter der kantonalen Vollzugsbehörden; c. die Mitarbeiterinnen und Mitarbeiter der anerkannten Laboratorien; d. die Mitarbeiterinnen und Mitarbeiter der Fachstelle sowie die Administratorinnen und Administratoren von ALIS."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "3. Abschnitt: Informationssystem für Labordaten",
+      "section": "20",
+      "title": "Verknüpfung mit anderen Informationssystemen",
+      "content": "Die Daten von ALIS können aus folgenden Informationssystemen bezogen werden: a. TVD nach der IdTVD-V; b. Internetportal Agate nach den Artikeln 20–22 ISLV; c. ASAN. Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ( AS 2021 751 ). SR 916.404.1 SR 919.117.71"
+    },
+    {
+      "provision_ref": "art20a",
+      "chapter": "29",
+      "section": "20a",
+      "title": "a Zweck",
+      "content": "Fleko dient der Erfassung und Auswertung der Ergebnisse der Schlachttier- und Fleischuntersuchung nach Artikel 57 Absatz 2 der Verordnung vom 16. Dezember 2016 (VSFK) über das Schlachten und die Fleischkontrolle. SR 817.190"
+    },
+    {
+      "provision_ref": "art20b",
+      "chapter": "29",
+      "section": "20b",
+      "title": "b Inhalt",
+      "content": "1 Fleko enthält folgende Arten von Daten: a. Stammdaten über Schlachtbetriebe, Tierhaltungen, Tiere und anerkannte Laboratorien: Daten, die der Identifikation dienen; b. Vollzugsdaten: Daten, die im Rahmen der Vollzugsaufgaben in den Bereichen Tiergesundheit, Lebensmittelsicherheit und Tierschutz bei der Schlachttier- und Fleischuntersuchung erhoben werden; c. Systemdaten: Daten, die der Verwaltung und der Anpassung von Fleko an die Vollzugsbedürfnisse dienen; d. Anwenderdaten: Authentifizierungsdaten, zugeteilte Anwenderrolle und Grundeinstellungen zur Benutzung von Fleko. 2 Der Datenkatalog ist in Anhang 2 a aufgeführt."
+    },
+    {
+      "provision_ref": "art20c",
+      "chapter": "29",
+      "section": "20c",
+      "title": "c Zugriff auf die Stammdaten",
+      "content": "Soweit es die Aufgaben nach Artikel 4 erfordern, haben die folgenden Personen online Zugriff auf die Stammdaten: a. die Mitarbeiterinnen und Mitarbeiter des BLV, des BLW und der BLK; b. die Mitarbeiterinnen und Mitarbeiter der kantonalen Vollzugsbehörden; c. die Mitarbeiterinnen und Mitarbeiter der Fachstelle sowie die Administratorinnen und Administratoren von Fleko."
+    },
+    {
+      "provision_ref": "art20d",
+      "chapter": "29",
+      "section": "20d",
+      "title": "d Zugriff auf die Vollzugsdaten",
+      "content": "Soweit es die Aufgaben nach Artikel 4 erfordern, haben die folgenden Personen online Zugriff auf die Vollzugsdaten: a. die Mitarbeiterinnen und Mitarbeiter des BLV, des BLW, der BLK und der Fachstelle sowie die für Fleko zuständigen Administratorinnen und Administratoren des BLV: auf alle Vollzugsdaten; b. die Mitarbeiterinnen und Mitarbeiter der kantonalen Vollzugsbehörden und die kantonalen Administratorinnen und Administratoren von Fleko auf die folgenden Vollzugsdaten: 1. Daten, die sie selber eingegeben haben, 2. Daten, die im Zusammenhang mit den Meldungen der kantonalen Vollzugsbehörden angefallen sind, 3. Daten aus einer anderen als der eigenen Verwaltungseinheit, soweit sie für die Erfüllung der Vollzugsaufgaben erforderlich sind; c. die Mitarbeiterinnen und Mitarbeiter der anerkannten Laboratorien: auf die Daten in Bezug auf die von den amtlichen Tierärztinnen und Tierärzten erhobenen und an die Laboratorien verschickten Proben."
+    },
+    {
+      "provision_ref": "art20e",
+      "chapter": "29",
+      "section": "20e",
+      "title": "e Zugriff auf die Systemdaten",
+      "content": "Soweit es die Aufgaben nach Artikel 4 erfordern, haben die für Fleko zuständigen Administratorinnen und Administratoren des BLV online Zugriff auf die Systemdaten."
+    },
+    {
+      "provision_ref": "art20f",
+      "section": "20f",
+      "title": "f Zugriff auf die Anwenderdaten",
+      "content": "Soweit es die Aufgaben nach Artikel 4 erfordern, haben die Administratorinnen und Administratoren von Fleko online Zugriff auf die Anwenderdaten."
+    },
+    {
+      "provision_ref": "art20fbis",
+      "section": "20fbis",
+      "title": "f bis Zugriff durch die Schlachtbetriebe, andere Tierhalterinnen und Tierhalter und weitere Berechtigte",
+      "content": "Der Zugriff der Schlachtbetriebe, anderer Tierhalterinnen und Tierhalter und weiterer Berechtigter richtet sich nach der IdTVD-V. Eingefügt durch Ziff. II 2 der V vom 27. Mai 2020 ( AS 2020 2521 ). Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ( AS 2021 751 ). SR 916.404.1"
+    },
+    {
+      "provision_ref": "art20g",
+      "section": "20g",
+      "title": "g Verknüpfung mit anderen Informationssystemen",
+      "content": "1 ASAN kann die Daten zu den Ergebnissen der Schlachttier- und Fleischuntersuchung aus Fleko beziehen. 2 Die TVD kann die Daten zu den Ergebnissen der Schlachttieruntersuchung sowie zu denjenigen Ergebnissen der Fleischuntersuchung, die die Genusstauglichkeit betreffen, aus Fleko beziehen. 3 Fleko kann Daten über Personen, Tierhaltungen und Tiere sowie die Schlachtungsmeldungen aus der TVD beziehen."
+    },
+    {
+      "provision_ref": "art20h",
+      "section": "20h",
+      "title": "h Fachstelle",
+      "content": "1 Die Fachstelle ist zuständig für: a. die Erteilung und die Verwaltung der Zugriffsrechte der Administratorinnen und Administratoren von Fleko; b. die Unterstützung der Anwenderinnen und Anwender sowie deren Information über technische Aspekte, Neuerungen und Änderungen; c. die technischen und fachlichen Anpassungen von Fleko; d. die Koordination und die Überwachung der Aufgaben der verschiedenen Leistungserbringer; e. die Behebung von Störungen in Zusammenarbeit mit den Leistungserbringern. 2 Sie arbeitet mit Vertreterinnen und Vertretern der kantonalen Behörden und der Schlachtbetriebe zusammen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "4. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "21",
+      "title": "Erteilung der Zugriffsrechte",
+      "content": "1 Die Erteilung der Zugriffsrechte oder die Änderung der Anwenderrolle erfolgt aufgrund eines entsprechenden schriftlichen Gesuchs an die Fachstelle . 2 Kantonale Anwenderinnen und Anwender, die eine Administratorrolle beantragen, richten das Gesuch an die Fachstelle. Weitere kantonale Anwenderinnen und Anwender richten das Gesuch an die für sie zuständige Vollzugsbehörde. Diese leitet es an die Fachstelle weiter. 3 Die Rechte und die Pflichten der kantonalen Anwenderinnen und Anwender sowie ihre Verantwortlichkeiten sind in der Nutzungsvereinbarung festzulegen. 4 Die Zugriffsrechte der beauftragten Dritten sowie die zur Gewährleistung des Datenschutzes erforderlichen Massnahmen sind im Rahmen des Auftrags festzulegen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "4. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "22",
+      "title": "Bekanntgabe von Daten an Behörden",
+      "content": "1 Das BLV, das BLW, die BLK, das BAFU, die EZV und die kantonalen Vollzugsbehörden können besonders schützenswerte Daten von ASAN und von ALIS anderen Behörden bekannt geben, wenn dies ein Gesetz im formellen Sinn vorsieht. Die Bekanntgabe erfolgt in Form von Listen, Berichten oder elektronischen Datensätzen. 2 Im Rahmen von koordinierten Vollzugsaufgaben in den Bereichen Tiergesundheit, Tierschutz und Lebensmittelhygiene können nicht besonders schützenswerte Daten online oder in einer anderen geeigneten Form anderen Behörden bekannt gegeben werden."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "4. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "23",
+      "title": "Bekanntgabe von Daten für wissenschaftliche und statistische Zwecke",
+      "content": "1 Ist das BLV aufgrund von schweizerischem oder internationalem Recht zur Erstellung von Berichten verpflichtet, so gibt es die dafür benötigten Daten in anonymisierter Form bekannt. 2 Es berücksichtigt dabei die Anforderungen des Bundesstatistikgesetzes vom 9. Oktober 1992. SR 431.01"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "4. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "24",
+      "title": "Bekanntgabe von Daten an weitere Personen und Organisationen",
+      "content": "Weitere Personen und Organisationen können beim BLV, bei der BLK oder bei den kantonalen Vollzugsbehörden Einsicht in die Daten von ASAN, ALIS und Fleko beantragen. Sie erhalten Einsicht, wenn sie vorab das Einverständnis der betroffenen Personen eingeholt haben. Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. Abschnitt: Gemeinsame Bestimmungen",
+      "section": "25",
+      "title": "Datenschutz",
+      "content": "1 Das BLV und die kantonalen Vollzugsbehörden sorgen dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. Für die dafür notwendigen organisatorischen und technischen Massnahmen erlässt das BLV ein Bearbeitungsreglement. 2 Die Kantone und die anerkannten Laboratorien sind in ihrem Bereich für die zur Gewährleistung des Datenschutzes und der Datensicherheit erforderlichen Massnahmen verantwortlich. Sie stellen insbesondere durch technische und organisatorische Massnahmen den sicheren Zugang zu ASAN, zu ALIS und zu Fleko sicher. Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Rechte der betroffenen Personen",
+      "content": "1 Die Rechte der Personen, über die in ASAN, ALIS oder Fleko Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992 über den Datenschutz. 2 Will eine Person Rechte geltend machen, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch bei der Vollzugsbehörde des Kantons, in dem sie ihren Wohnsitz hat, oder beim BLV einzureichen. SR 235.1 Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Berichtigung von Daten",
+      "content": "Die Behörden oder die anerkannten Laboratorien, welche die Daten in ASAN, ALIS oder Fleko eingegeben oder an diese übermittelt haben, sorgen für die Berichtigung unrichtiger Daten. Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Informatiksicherheit",
+      "content": "1 Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020. 2 Die Bestimmungen über die Systemsicherheit müssen Teil der für die technische Wartung von ASAN, von ALIS und von Fleko mit Dritten abgeschlossenen Leistungsvereinbarungen sowie der Nutzungsvereinbarungen mit den Kantonen sein. 3 Die Kantone und die anerkannten Laboratorien sorgen für die Informatiksicherheit in ihrem Bereich. SR 120.73 Fassung gemäss Anhang Ziff. 34 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ( AS 2021 132 ). Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Archivierung und Löschung der Daten",
+      "content": "1 Die Archivierung der Daten richtet sich nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998. 2 Die Löschung der Daten erfolgt nach spätestens 30 Jahren. SR 152.1"
+    },
+    {
+      "provision_ref": "art29a",
+      "section": "29a",
+      "title": "a Finanzierung von ASAN und ALIS",
+      "content": "1 Die Kosten für den Betrieb von ASAN und von ALIS gehen zu einem Drittel zulasten des Bundes und zu zwei Dritteln zulasten der Kantone. An den Kosten für die Fachstelle beteiligen sich die Kantone mit 250 000 Franken jährlich. 2 Die Beiträge der einzelnen Kantone berechnen sich im Verhältnis zur Anzahl Zugangsstationen. 3 Das Entgelt der Kantone für die Zugangsstationen wird in der Nutzungsvereinbarung geregelt. Jeder Kanton trägt das Entgelt für mindestens drei Zugangsstationen. Für Kantone mit mehr als drei Zugangsstationen werden für die zusätzlichen Zugangsstationen reduzierte Beiträge vorgesehen. 4 Der der Gesamtheit der Kantone nach Abzug des Entgelts für die Zugangsstationen verbleibende Anteil an den von ihnen zu tragenden Kosten des Systembetriebs wird auf die einzelnen Kantone nach der Anzahl der ihnen zur Verfügung stehenden Zugangsstationen aufgeteilt. 5 Die Kantone tragen die Kosten für die Übermittlung von Daten selbst. Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "30",
+      "title": "Vollzug",
+      "content": "Das BLV erlässt namentlich technische Weisungen betreffend: a. die Spezifizierung von Schnittstellen und Datenübertragungsmechanismen zu anderen Subsystemen, zu Informationssystemen der Kantone und zu beauftragten Dritten; b. die Datenübertragungsfrequenzen; c. die Standardisierung von Dateninhalten und Referenzlisten; d. die technischen und organisatorischen Anforderungen für die Benützung von ASAN, von ALIS und von Fleko; e. die Form und die Anwendung des Datenkataloges von ASAN; f. die Form und Struktur der Untersuchungs- und Standarddaten von ALIS; g. die Form und die Anwendung des Datenkatalogs von Fleko. Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 ). Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4543 )."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "31",
+      "title": "Aufhebung und Änderung anderer Erlasse",
+      "content": "Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 3 geregelt."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "32",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2014 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "gemeinsames zentrales Informationssystem:",
+      "definition": "gemeinsames zentrales Informationssystem: gemeinsames zentrales Informationssystem entlang der Lebensmittelkette des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (BLV) und des Bundesamtes für Landwirtschaft (BLW) zur Gewährleistung der Lebensmittelsicherheit, der Futtermittelsicherheit, der Tiergesundheit, des Tierschutzes und einer einwandfreien Primärproduktion;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Primärproduktion:",
+      "definition": "Primärproduktion: Produktion unverarbeiteter Lebens- und Futtermittel.",
+      "source_provision": "art2"
+    }
+  ]
+}

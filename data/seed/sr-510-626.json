@@ -1,0 +1,231 @@
+{
+  "id": "sr-510-626",
+  "type": "statute",
+  "title": "Verordnung vom 21. Mai 2008 über die Landesvermessung (Landesvermessungsverordnung, LVV)",
+  "title_en": "",
+  "short_name": "LVV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/394/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt die geodätische, die topografische und die kartografische Landesvermessung, das Landeskartenwerk, die nationalen Atlanten und die Festlegung der Landesgrenze. 2 Soweit diese Verordnung keine besonderen Vorschriften enthält, gilt die Geoinformationsverordnung vom 21. Mai 2008 (GeoIV). SR 510.620"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geodätische Landesvermessung",
+      "content": "1 Gegenstand der geodätischen Landesvermessung sind: a. die geodätischen Bezugssysteme der Schweiz; b. die Kartenprojektionen der Schweiz; c. die geodätischen Fundamentalpunkte; d. die Lagefixpunkte der Kategorie 1 (LFP1) als Bezugsrahmen für die Lage, einschliesslich der dreidimensionalen Referenzpunkte des Landesnetzes LV95 und der Permanentstationen des amtlichen Global-Navigation-Satellite-System-Netzes der Schweiz; e. die Höhenfixpunkte der Kategorie 1 (HFP1) als Bezugsrahmen für die Höhe; f. die Schwerestationen des Landesschwerenetzes; g. das Geoidmodell der Schweiz; h. die Geodaten und Modellparameter, welche die geodätischen Bezugssysteme und Bezugsrahmen der Schweiz sowie deren Beziehungen untereinander und zu internationalen Bezugssystemen festlegen, insbesondere die Lagekoordinaten, Höhen, Schwerewerte und Transformationsparameter; i. das Vermarken und Vermessen der Landesgrenze. 2 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) regelt die organisatorischen und technischen Einzelheiten."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Lokal gelagerte geodätische Bezugssysteme und Bezugsrahmen",
+      "content": "1 Der Lagebezug der Geobasisdaten richtet sich nach Artikel 4 GeoIV. 2 Der Höhenbezug der Geobasisdaten richtet sich nach Artikel 5 GeoIV. SR 510.620"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Global gelagerte geodätische Bezugssysteme und Bezugsrahmen",
+      "content": "1 Das Bundesamt für Landestopografie bestimmt die global gelagerten Bezugssysteme der Schweiz, insbesondere das Bezugssystem CHTRS95 (Swiss Terrestrial Reference System 1995). 2 Es erstellt und verwaltet die zugehörigen geodätischen Bezugsrahmen CHTRF (Swiss Terrestrial Reference Frames) und bestimmt diese durch laufende und regelmässige Neumessungen. 3 Es regelt die geodätischen Definitionen und die technischen Einzelheiten."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "Höhenbezugssysteme und Höhenbezugsrahmen der Landesvermessung",
+      "content": "1 Das Bundesamt für Landestopografie bestimmt ergänzend zu den lokal und global gelagerten geodätischen Bezugssystemen potenzialtheoretisch strenge Höhenbezugssysteme. 2 Es legt den lokal gelagerten Höhenbezugsrahmen der Landesvermessung als Landeshöhennetz (LHN95) fest, verwaltet dieses und erneuert es periodisch. 3 Es ergänzt das Bezugssystem CH1903+ durch orthometrische Höhen im LHN95. 4 Es ergänzt das Bezugssystem CHTRS95 durch Höhen in Form von geopotenziellen Koten."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Beziehung zwischen den Bezugssystemen",
+      "content": "Das Bundesamt für Landestopografie stellt die Beziehung zwischen den lokal gelagerten Bezugssystemen, den global gelagerten Bezugssystemen der Schweiz sowie internationalen Bezugssystemen sicher und bietet Transformationsdienste zur Umrechnung als öffentliche Geodienste an."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Topografische Landesvermessung",
+      "content": "1 Die topografischen Informationen der Landesvermessung umfassen Geobasisdaten, welche die Form und Bodenbedeckung der Erdoberfläche sowie deren geografische Namen in der Schweiz und im grenznahen Ausland in drei Dimensionen beschreiben. 2 Zu den topografischen Informationen der Landesvermessung gehören insbesondere: a. die Höhendaten; b. die Orthofotos und die dazugehörigen Luft- und Satellitenbilder; c. die natürlichen und künstlichen Objekte des topografischen Landschaftsmodells; d. die Hoheitsgrenzen; e. die geografischen Namen. 3 Das Bundesamt für Landestopografie erlässt Weisungen über die topografischen Informationen der Landesvermessung. Die Weisungen werden veröffentlicht."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Kartografische Landesvermessung",
+      "content": "1 Die kartografische Landesvermessung dient dem Bereitstellen des Landeskartenwerks. 2 Das Landeskartenwerk umfasst die topografischen Karten in analoger und digitaler Form (Kartendaten). 3 Das Bundesamt für Landestopografie erlässt Weisungen über die Darstellungsmodelle der Landesvermessung. Die Weisungen werden veröffentlicht."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Geodienste",
+      "content": "Zur Landesvermessung gehören geodätische, topografische und kartografische Geodienste."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Nachführung",
+      "content": "1 Die Landesvermessung wird regelmässig nachgeführt und erneuert. 2 Das VBS legt die Nachführungszyklen fest."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Zuständigkeiten",
+      "content": "1 Das Bundesamt für Landestopografie ist die Fachstelle des Bundes für die Landesvermessung. 2 Es führt die Landesvermessung durch. 3 Es kann Weisungen über die Verfahren und Methoden der Erstellung, der Erhebung, der Nachführung, der Erneuerung und der Verwaltung der Landesvermessung erlassen."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Technische Zusammenarbeit mit dem Ausland",
+      "content": "1 Das Bundesamt für Landestopografie arbeitet im Bereich der Landesvermessung mit Stellen der Nachbarstaaten und mit internationalen Organisationen zusammen. 2 Es wirkt an der Entwicklung europäischer und internationaler Normen und Systeme mit. 3 Es kann im Rahmen der bewilligten Voranschläge und Ausgaben mit anderen Staaten und mit internationalen Organisationen Verträge von beschränkter Tragweite über die technische Zusammenarbeit im Bereich der Landesvermessung selbstständig abschliessen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "2. Abschnitt: Landesgrenze",
+      "section": "13",
+      "title": "Zuständigkeit",
+      "content": "1 Das Bundesamt für Landestopografie ist die zuständige Fachstelle des Bundes für die Festlegung, Vermarkung und Vermessung der Landesgrenze. 2 Das VBS ernennt die Mitglieder von Grenzkommissionen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Abschnitt: Landesgrenze",
+      "section": "14",
+      "title": "Mitwirkung der Kantone und Gemeinden",
+      "content": "1 Die Mitwirkung der betroffenen Kantone bei der Festlegung der Landesgrenze wird gewährleistet durch: a. die Einsitznahme von Vertreterinnen oder Vertretern in Grenzkommissionen; b. schriftliche Konsultation, wenn keine Grenzkommissionen eingesetzt werden. 2 Die Kantone gewährleisten die Mitwirkung der betroffenen Gemeinden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "2. Abschnitt: Landesgrenze",
+      "section": "15",
+      "title": "Mitwirkung von Stellen der Bundesverwaltung",
+      "content": "1 Sind durch die Festlegung der Landesgrenze Schutzgebiete, Schutzinventare oder öffentliche Werke, insbesondere Nationalstrassen oder Kraftwerke, in erheblicher Weise betroffen, so wird die Mitwirkung der zuständigen Fachstellen des Bundes gewährleistet durch: a. die Einsitznahme von Vertreterinnen oder Vertretern in Grenzkommissionen; b. schriftliche Konsultation. 2 Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) und das VBS stellen gemeinsam dem Bundesrat den Antrag zum Abschluss eines völkerrechtlichen Vertrags über die Festlegung der Landesgrenze."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "2. Abschnitt: Landesgrenze",
+      "section": "16",
+      "title": "Veröffentlichung",
+      "content": "Die völkerrechtlichen Verträge über die Festlegung der Landesgrenze werden in der Amtlichen Sammlung des Bundesrechts und in der Systematischen Sammlung des Bundesrechts veröffentlicht."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "2. Abschnitt: Landesgrenze",
+      "section": "17",
+      "title": "Grenzen der Liegenschaften",
+      "content": "1 Die Grenzen der Liegenschaften entlang der Landesgrenze übernehmen deren Verlauf. 2 Die für die Aufsicht über die amtliche Vermessung zuständige kantonale Stelle sorgt dafür, dass nach Abschluss oder Änderung von völkerrechtlichen Verträgen über die Landesgrenze die Daten der amtlichen Vermessung und des Grundbuchs nachgeführt werden. 3 Der veröffentlichte Vertrag gilt zusammen mit den Mutationsurkunden der amtlichen Vermessung als Anmeldungsbeleg für das Grundbuch."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. Abschnitt: Landesgrenze",
+      "section": "18",
+      "title": "Meldepflichten",
+      "content": "1 Das Bundesamt für Landestopografie meldet den betroffenen Kantonen Änderungen am Verlauf der Landesgrenze. [tab] 2 Die für die Aufsicht über die amtliche Vermessung zuständige Stelle des Kantons meldet dem Bundesamt für Landestopografie festgestellte Schäden oder Gefährdungen von Grenzzeichen der Landesgrenze."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "2. Abschnitt: Landesgrenze",
+      "section": "19",
+      "title": "Kosten",
+      "content": "Der Bund trägt die Kosten für das Verfahren der Grenzfestlegung, für das Vermarken, Vermessen und den Unterhalt der Landesgrenze sowie für die Bereinigung der Grenzen der Liegenschaften entlang der Landesgrenze."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "3. Abschnitt: Amtliche Leistungen",
+      "section": "20",
+      "title": "Festlegung",
+      "content": "1 Die amtlichen Leistungen der Landesvermessung betreffen die geodätischen, topografischen und kartografischen Daten in nutzbarer analoger und digitaler Form. 2 Das VBS bezeichnet die amtlichen Leistungen der Landesvermessung im Einzelnen. Es berücksichtigt dabei die Bedürfnisse der Wirtschaft, der Wissenschaft, der öffentlichen Verwaltung und der Armee."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "3. Abschnitt: Amtliche Leistungen",
+      "section": "21",
+      "title": "Zuständigkeit",
+      "content": "1 Das Bundesamt für Landestopografie ist zuständig für die Erbringung der amtlichen Leistungen der Landesvermessung. 2 Es kann für die Herstellung und den Vertrieb mit Dritten zusammenarbeiten."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "3. Abschnitt: Amtliche Leistungen",
+      "section": "22",
+      "title": "Qualität",
+      "content": "Das Bundesamt für Landestopografie legt die Qualitätsstandards für die Leistungen der Landesvermessung fest."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "4. Abschnitt: Nationale Atlanten",
+      "section": "23",
+      "title": "",
+      "content": "1 Folgende nationale Atlanten und Kartenwerke sind eine Bundesaufgabe im Sinne von Artikel 26 GeoIG: Name des Kartenwerks Zuständige Stelle des Bundes Atlas der Schweiz ETH Zürich Geologisches Kartenwerk Bundesamt für Landestopografie Geophysikalisches Kartenwerk Bundesamt für Landestopografie Geotechnisches Kartenwerk Bundesamt für Landestopografie Hydrologischer Atlas Bundesamt für Umwelt Klimaatlas der Schweiz Bundesamt für Meteorologie und Klimatologie Statistischer Atlas der Schweiz Bundesamt für Statistik 2 Die Projektorganisation, die Finanzierung und die Zusammenarbeit werden in einem öffentlich-rechtlichen Vertrag zwischen der zuständigen Stelle des Bundes und den Partnerorganisationen festgelegt. 3 Das Bundesamt für Statistik ist zuständig für die Erstellung und den Vertrieb des Statistischen Atlasses der Schweiz. 4 Das Bundesamt für Landestopografie ist zuständig für die Erstellung und den Vertrieb der übrigen nationalen Atlanten, soweit die Verträge keine andere Zuständigkeit vorsehen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "5. Abschnitt: Gewerbliche Leistungen",
+      "section": "24",
+      "title": "Grundsatz",
+      "content": "1 Das Bundesamt für Landestopografie kann folgende gewerbliche Leistungen erbringen: a. im Bereich der Geomatik und Kartografie Aufträge von anderen Stellen der Bundesverwaltung und von Dritten ausführen; b. im Bereich der Geomatik und Kartografie Arbeiten der Entwicklungszusammenarbeit ausführen; c. Daten und Leistungen der Landesvermessung in besonderer Form anbieten; d. Leistungen des Flugdienstes anderen Stellen der Bundesverwaltung, den Kantonen und Dritten anbieten. 2 Es kann bei der Erbringung dieser Leistungen mit Dritten zusammenarbeiten."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "5. Abschnitt: Gewerbliche Leistungen",
+      "section": "25",
+      "title": "Berechnungsgrundlage für gewerbliche Leistungen",
+      "content": "Das Bundesamt für Landestopografie berechnet seine gewerblichen Leistungen aufgrund der Ansätze, die es auf die gewerbliche Nutzung durch private Anbieter anwendet."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "6. Abschnitt: Besondere Dienste",
+      "section": "26",
+      "title": "Flugdienst",
+      "content": "1 Das Bundesamt für Landestopografie betreibt in Zusammenarbeit mit der Luftwaffe einen Flugdienst. 2 Der Flugdienst hat folgende amtlichen Aufgaben: a. Erstellen von Luftbildern für die Landesvermessung; b. Spezialflüge für die Landesvermessung. 3 Für das Personal des Flugdienstes gilt die Militärflugdienstverordnung vom 19. November 2003. SR 512.271"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "6. Abschnitt: Besondere Dienste",
+      "section": "27",
+      "title": "Koordinationsorgan Luftaufnahmen",
+      "content": "1 Das Bundesamt für Landestopografie koordiniert die Flüge der Bundesverwaltung und der Kantone, die der Erfassung von Geobasisdaten dienen. 2 Die zuständigen Stellen des Bundes und der Kantone melden dem Bundesamt für Landestopografie diese Flüge vorgängig."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "6. Abschnitt: Besondere Dienste",
+      "section": "28",
+      "title": "Militärgeografisches Institut",
+      "content": "Das Bundesamt für Landestopografie betreibt im Auftrag der Gruppe Verteidigung das Militärgeografische Institut."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "7. Abschnitt: Nutzung",
+      "section": "29",
+      "title": "",
+      "content": "1 Das VBS kann festlegen, für welche Geobasisdaten und Geodienste der Landesvermessung die Nutzung generell ohne Einwilligung zulässig ist. 2 Das Bundesamt für Landestopografie bestimmt im Einzelfall, für welche Geobasisdaten und Geodienste der Landesvermessung die Nutzung ohne Einwilligung zulässig ist."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "30",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "31",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Für die nationalen Atlanten sind innert zwei Jahren nach Inkrafttreten dieser Verordnung öffentlich-rechtliche Verträge abzuschliessen. Bis zum Abschluss dieser Verträge behalten die bestehenden Beschlüsse und Verträge ihre Gültigkeit. 2 Im Zeitpunkt des Inkrafttretens dieser Verordnung bestehende Verträge über die Nutzung von Geobasisdaten und Geodiensten der Landesvermessung und über die dafür zu entrichtenden Gebühren bleiben bis zum Ende der vereinbarten Dauer, längstens jedoch bis zum Inkrafttreten neuer Verordnungsbestimmungen über die Gebühren der Geoinformation des Bundes oder bis zum 31. Dezember 2009 in Kraft."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "32",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2008 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,285 @@
+{
+  "id": "sr-741-013-1",
+  "type": "statute",
+  "title": "Verordnung des ASTRA vom 22. Mai 2008 zur Strassenverkehrskontrollverordnung (VSKV-ASTRA)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/352/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung enthält die Ausführungsbestimmungen zur SKV."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Kontroll- und Auswertungspersonal",
+      "content": "1 Die Zuständigkeit für die Durchführung von Kontrollen im Strassenverkehr richtet sich nach den Artikeln 3 und 4 SKV. 2 Messsysteme zur amtlichen Feststellung von Sachverhalten im Rahmen von Strassenverkehrskontrollen dürfen nur durch geschultes Personal aufgestellt, eingerichtet, betrieben und gewartet werden. 3 Das Kontroll- und Auswertungspersonal muss: a. über die nötigen theoretischen und praktischen Fachkenntnisse im Zusammenhang mit der Messart, dem Messsystem, der Durchführung der jeweiligen Messung sowie der Auswertung der Messdaten verfügen; b. durch die zuständige Behörde zur Durchführung der Kontroll- und Auswertungstätigkeiten ermächtigt sein."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Messverfahren und Messsysteme",
+      "content": "1 Die Anforderungen an Messverfahren, Messsysteme und Zusatzgeräte, die im Rahmen von Strassenverkehrskontrollen für die amtliche Feststellung von Sachverhalten verwendet werden, das Inverkehrbringen solcher Systeme und Geräte sowie die Kontrolle nach dem Inverkehrbringen richten sich nach der Messmittelverordnung vom 15. Februar 2006 sowie nach allfälligen messmittelspezifischen Verordnungen. 2 Wer ein Messsystem verwendet, muss sicherstellen, dass es den rechtlichen Anforderungen entspricht und dass die Verfahren zur Erhaltung der Messbeständigkeit durchgeführt werden. Dies betrifft insbesondere allfällige Vorschriften über die Zulassung, die Eichung und die Kennzeichnung von Messsystemen. 3 Die im Rahmen der Zulassung festgelegten Verwendungszwecke, Betriebsbedingungen und Auflagen sowie die Bedienungsanleitung des Herstellers sind zu beachten. 4 … SR 941.210 Aufgehoben durch Ziff. I der V des ASTRA vom 7. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ( AS 2011 5645 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Durch Messsysteme festgestellte Widerhandlungen",
+      "content": "1 Jede durch ein Messsystem festgestellte Widerhandlung muss so erfasst werden, dass die Messwerte eindeutig einem bestimmten Fahrzeug oder einem Fahrzeugführer oder einer Fahrzeugführerin zugeordnet werden können. 2 Als Feststellung von Übertretungen durch automatische Überwachungsanlagen im Sinne von Artikel 2 Buchstabe b des Ordnungsbussengesetzes vom 24. Juni 1970 gilt die Feststellung gestützt auf ein Bild- oder Filmdokument eines automatischen Messsystems. [ AS 1972 734 ; 1996 1075 ; 2006 3545 Art. 44 Ziff. 4; 2012 6291 Ziff. II; 2013 4669 . AS 2017 6559 Anhang Ziff. I]. Siehe heute: Art. 3 Abs. 2 des Ordnungsbussengesetzes vom 18. März 2016 ( SR 314.1 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Datenübertragung",
+      "content": "Bei der digitalen Übertragung von Mess- und Bilddaten muss die Datenintegrität sichergestellt sein."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Geschwindigkeitskontrolle",
+      "section": "6",
+      "title": "Messarten",
+      "content": "Bei der Durchführung von Geschwindigkeitskontrollen sind in erster Linie folgende Messarten zu wählen: a. Messungen mit stationären Messsystemen, die durch eine Messperson beaufsichtigt werden; b. Messungen mit stationären Messsystemen, die autonom betrieben werden; c. mobile Messungen: 1. aus einem mit einem Messsystem ausgerüsteten Fahrzeug oder einem Helikopter (Moving-Geschwindigkeitsmessung), oder 2. durch Nachfahren und Ermittlung der Geschwindigkeit durch einen Geschwindigkeitsvergleich zwischen den beiden Fahrzeugen (Nachfahrkontrolle); d. Abschnittsgeschwindigkeitskontrollen zur Ermittlung der Durchschnittsgeschwindigkeit über einen Strassenabschnitt; die Messungen werden mit stationären Messsystemen vorgenommen, die autonom betrieben werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "1. Abschnitt: Geschwindigkeitskontrolle",
+      "section": "7",
+      "title": "Andere Feststellungen von Geschwindigkeitsüberschreitungen",
+      "content": "1 Geschwindigkeitsüberschreitungen können anlässlich einer Kontrolle der Arbeits-, Lenk- und Ruhezeit oder einer Unfallabklärung aufgrund von Aufzeichnungen von Fahrt- und Restwegschreibern sowie Datenaufzeichnungsgeräten festgestellt werden. 2 Werden gestützt auf eine solche Feststellung Einlageblätter zur Einleitung von Massnahmen eingezogen, so ist ihr Einzug dem Fahrzeugführer oder der Fahrzeugführerin schriftlich zu bestätigen, und er oder sie ist anzuweisen, die Bestätigung dem Arbeitgeber abzugeben. 3 Nachfahrmessungen ohne kalibriertes Nachfahrmesssystem sind auf Fälle von massiver Geschwindigkeitsüberschreitung zu beschränken."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "1. Abschnitt: Geschwindigkeitskontrolle",
+      "section": "8",
+      "title": "Sicherheitsabzug",
+      "content": "1 Vom auf die nächste ganze Zahl abgerundeten Geschwindigkeitsmesswert sind folgende Werte abzuziehen: a. bei Radarmessungen: 1. 5 km/h bei einem Messwert bis 100 km/h, 2. 6 km/h bei einem Messwert von 101–150 km/h, 3. 7 km/h bei einem Messwert ab 151 km/h; b. bei Lasermessungen: 1. 3 km/h bei einem Messwert bis 100 km/h, 2. 4 km/h bei einem Messwert von 101–150 km/h, 3. 5 km/h bei einem Messwert ab 151 km/h; c. bei stationären Radarmessungen in Kurven: 1. 10 km/h bei einem Messwert bis 100 km/h, 2. 14 km/h bei einem Messwert ab 101 km/h; d. bei mobilen Messungen nach Artikel 6 Buchstabe c Ziffer 1 mit Radar (Moving-Radar): 1. 7 km/h bei einem Messwert bis 100 km/h, 2. 8 km/h bei einem Messwert von 101–150 km/h, 3. 9 km/h bei einem Messwert ab 151 km/h; e. bei Messungen mit stationären Schwellendetektoren wie induktive Schleifen, Piezosensoren, optische Schwellendetektoren: 1. 5 km/h bei einem Messwert bis 100 km/h, 2. 6 km/h bei einem Messwert von 101–150 km/h, 3. 7 km/h bei einem Messwert ab 151 km/h; f. bei Abschnittsgeschwindigkeitskontrollen: 1. 5 km/h bei einem Messwert bis 100 km/h, 2. 6 km/h bei einem Messwert von 101–150 km/h, 3. 7 km/h bei einem Messwert ab 151 km/h; g. bei Nachfahrkontrollen mit einem für diesen Zweck zugelassenen Videogeschwindigkeitsmesssystem und automatischer Auswertung des Messvorgangs mit einer genehmigten Software: automatischer, vom Kontroll- und Auswertungspersonal nicht beeinflussbarer Sicherheitsabzug gemäss Zulassungsdokument des Eidgenössischen Instituts für Metrologie; h. bei anderen Nachfahrkontrollen als nach Buchstabe g: die Werte gemäss der Tabelle in Anhang 1; i. bei Nachfahrmessungen ohne kalibriertes Nachfahrmesssystem folgende Sicherheitsabzüge: 1. 15 km/h bei einem Messwert bis 100 km/h, 2. 15 Prozent bei einem Messwert ab 101 km/h, oder 3. ein vom Eidgenössischen Institut für Metrologie im Einzelfall bestimmter Abzug; j. bei Geschwindigkeitsermittlungen auf der Basis eines zugelassenen Abstandsmessverfahrens: 1. 5 km/h bei einem Messwert bis 100 km/h, 2. 6 km/h bei einem Messwert von 101 bis 150 km/h, 3. 7 km/h bei einem Messwert ab 151 km/h. 2 Bei Aufzeichnungen von Fahrt- und Restwegschreibern sowie Datenaufzeichnungsgeräten sind von der aufgezeichneten Geschwindigkeit abzuziehen: a. 10 km/h bei analogen Fahrtschreibern (Art. 100 Abs. 4 der Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, VTS) und bei analogen Restwegschreibern; b. 6 km/h bei digitalen Fahrtschreibern (Art. 100 Abs. 2 und 3 VTS) und bei digitalen Restwegschreibern; c. 14 km/h bei Datenaufzeichnungsgeräten (Art. 102 VTS). 3 Erfolgt die Geschwindigkeitsermittlung unter Verwendung eines Rotlichtüberwachungssystems in Kombination mit nicht typengeprüften Schleifendetektoren, so sind vom ermittelten Wert abzuziehen: a. 5 km/h bei einem Messwert bis 50 km/h; b. 10 Prozent bei einem Messwert ab 51 km/h. Fassung gemäss Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 4675 ). Eingefügt durch Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 4675 ). Eingefügt durch Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 4675 ). Eingefügt durch Ziff. I der V des ASTRA vom 3. Dez. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 4675 ). Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 241 ). SR 741.41 Fassung gemäss Ziff. I der V des ASTRA vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 241 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Dokumentation",
+      "content": "Die im Zusammenhang mit Geschwindigkeitsüberschreitungen erfassten Messwerte sind zusammen mit der Verkehrssituation bildlich zu dokumentieren. Das ASTRA kann in begründeten Fällen Ausnahmen vorsehen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Rotlichtüberwachungssysteme",
+      "section": "10",
+      "title": "",
+      "content": "1 Rotlichtüberwachungssysteme dienen in erster Linie der Feststellung von Widerhandlungen gegen das Haltegebot durch Lichtsignale. 2 Sie können mit Systemen zur Geschwindigkeitsmessung kombiniert werden."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Kapitel: Kontrolle der Arbeits-, Lenk- und Ruhezeit",
+      "section": "11",
+      "title": "",
+      "content": "Die für die Kontrolle der Arbeits-, Lenk- und Ruhezeit verwendete Kontrollsoftware muss mindestens folgenden Anforderungen genügen: a. Auslesen der Daten aus der Fahrerkarte ohne digitalen Fahrtschreiber; b. Auslesen der Fahrtschreiber- und Fahrerkartendaten aus dem digitalen Fahrtschreiber; c. Digitalisieren von Einlageblättern; d. manuelles Erfassen von Daten; e. Auswerten der nationalen und internationalen Arbeits-, Lenk- und Ruhezeitvorschriften; f. Auswerten der Geschwindigkeit und der Wegstrecke; g. Auswerten der Daten aus dem Fahrtschreiber, den Einlageblättern und den Fahrerkarten; h. Importieren, Exportieren und Archivieren von Originaldateien aus dem digitalen Fahrtschreiber und den Fahrerkarten; i. Anschliessen an das schweizerische Fahrtschreiberkartenregister sowie die entsprechenden ausländischen Register zur Datenüberprüfung und ‑meldung; j. statistisches Auswerten der Daten sowie Übergeben von Daten an andere Datenverwerter."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Kapitel: Gewichtskontrolle",
+      "section": "12",
+      "title": "Funktionskontrolle",
+      "content": "Vor der eigentlichen Messung sind die eingesetzten Messsysteme einer Funktionskontrolle zu unterziehen. Bei Messungen mit zwei Radlastwaagen ist überdies die Übereinstimmung der Messgenauigkeit der beiden Radlastwaagen zu überprüfen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Kapitel: Gewichtskontrolle",
+      "section": "13",
+      "title": "Sicherheitswert",
+      "content": "1 Wo ein bestimmtes Gewicht nicht überschritten werden darf, ist von der ermittelten Achslast, vom ermittelten Betriebsgewicht oder von der ermittelten Stützlast ein Sicherheitswert von 3 Prozent abzuziehen. Ist dieser Sicherheitswert geringer als der doppelte Eichwert der Waage in kg, so ist stattdessen letzterer als Sicherheitswert abzuziehen. 2 Wo ein bestimmtes Gewicht, namentlich das minimale Adhäsionsgewicht, nicht unterschritten werden darf, ist zur ermittelten Achslast oder zum ermittelten Betriebsgewicht ein Sicherheitswert von 3 Prozent dazuzuzählen. Ist dieser Sicherheitswert geringer als der doppelte Eichwert der Waage in kg, so ist stattdessen letzterer als Sicherheitswert dazuzuzählen. Fassung gemäss Ziff. I der V des ASTRA vom 16. Okt. 2019, in Kraft seit 1. März 2020 ( AS 2019 3357 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Kapitel: Gewichtskontrolle",
+      "section": "14",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V des ASTRA vom 16. Okt. 2019, mit Wirkung seit 1. März 2020 ( AS 2019 3357 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Kapitel: Kontrolle der Fahrzeugabmessungen mit Profilmessanlagen",
+      "section": "15",
+      "title": "Begriff",
+      "content": "Profilmessanlagen sind elektronische und mit Laserscannern ausgerüstete Messsysteme zur amtlichen Feststellung der Abmessungen von Fahrzeugen und Fahrzeugkombinationen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Kapitel: Kontrolle der Fahrzeugabmessungen mit Profilmessanlagen",
+      "section": "16",
+      "title": "Sicherheitsabzug",
+      "content": "Von den durch Profilmessanlagen ermittelten und auf den nächsten ganzen Zentimeter abgerundeten Messwerten betreffend die Abmessungen von Fahrzeugen und Fahrzeugkombinationen sind die folgenden Werte abzuziehen: a. 5 cm betreffend die Höhe; b. 4 cm betreffend die Breite; und c. 10 cm betreffend die Länge."
+    },
+    {
+      "provision_ref": "art1718",
+      "chapter": "1. Abschnitt: Atemalkoholmessungen",
+      "section": "1718",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V des ASTRA vom 7. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ( AS 2011 5645 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "1. Abschnitt: Atemalkoholmessungen",
+      "section": "19",
+      "title": "Bedienungsanleitung",
+      "content": "Atemalkoholtestgeräte und Atemalkoholmessgeräte müssen nach der Bedienungsanleitung des Herstellers verwendet werden. Fassung gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ( AS 2015 2591 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "1. Abschnitt: Atemalkoholmessungen",
+      "section": "20",
+      "title": "Sicherheitsabzug",
+      "content": "Von den durch Atemalkoholtestgeräte und Atemalkoholmessgeräte angezeigten Messwerten dürfen keine Abzüge vorgenommen werden. Fassung gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ( AS 2015 2591 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "1. Abschnitt: Atemalkoholmessungen",
+      "section": "21",
+      "title": "Gerätestörung",
+      "content": "Bei Gerätestörungen oder Zweifeln an der Messgenauigkeit dürfen Atemalkoholtestgeräte und Atemalkoholmessgeräte erst wieder verwendet werden, nachdem sie folgenden Verfahren zur Erhaltung der Messbeständigkeit nach der Verordnung des EJPD vom 30. Januar 2015 über Atemalkoholmessmittel (AAMV) unterzogen wurden: a. Atemalkoholtestgeräte: einer Instandhaltung nach Artikel 6 Buchstabe b AAMV und einer Justierung nach Artikel 6 Buchstabe c AAMV; b. Atemalkoholmessgeräte: einer Nacheichung nach Artikel 10 Buchstabe a AAMV, einer Instandhaltung nach Artikel 10 Buchstabe b AAMV und einer Justierung nach Artikel 10 Buchstabe c AAMV. Fassung gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ( AS 2015 2591 ). SR 941.210.4"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Abschnitt: Blut- und Urinuntersuchung",
+      "section": "22",
+      "title": "Auftrag",
+      "content": "1 Die zuständige Behörde muss den Auftrag zur Blut- und Urinuntersuchung unter Verwendung des Protokolls nach Anhang 2 erteilen . 2 Der Auftrag zur Untersuchung auf Betäubungs- oder Arzneimittel enthält zusätzlich einen Auftrag zur Blutalkoholuntersuchung, wenn der Verdacht besteht, dass die betroffene Person neben Betäubungsmitteln oder Arzneimitteln auch Alkohol konsumiert hat. 3 Die Behörde muss dem Laboratorium alle erforderlichen Daten und Informationen übermitteln, namentlich das Protokoll einer allenfalls erfolgten ärztlichen Untersuchung nach Anhang 3. 4 Das Laboratorium muss die beauftragende Behörde unverzüglich informieren, wenn es im Zusammenhang mit den eingegangenen Proben und Unterlagen Unstimmigkeiten feststellt oder wenn es den Auftrag nicht erfüllen kann."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Abschnitt: Blut- und Urinuntersuchung",
+      "section": "23",
+      "title": "Dokumentationspflicht",
+      "content": "Das Laboratorium muss die Ergebnisse der Untersuchungen dokumentieren und für die beauftragende Behörde einen schriftlichen Prüfbericht oder ein schriftliches Gutachten verfassen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "2. Abschnitt: Blut- und Urinuntersuchung",
+      "section": "24",
+      "title": "Gegenexpertise",
+      "content": "1 Ordnet die zuständige Behörde eine Gegenexpertise zu einer Untersuchung an, so muss sie das damit beauftragte Laboratorium darauf hinweisen, dass es eine Gegenexpertise durchzuführen hat. 2 Das Laboratorium, das die zu beurteilende Erstuntersuchung durchgeführt hat, stellt der für die Durchführung der Gegenexpertise bestimmten Fachperson die fragliche Probe und bei Bedarf die Messprotokolle der entsprechenden Serie zur Verfügung. 3 Die Fachperson muss das Resultat der Gegenexpertise erläutern. 4 Bestätigt die Gegenexpertise das Resultat der Erstuntersuchung, so gilt zur Feststellung der Angetrunkenheit oder des Einflusses von Betäubungs- oder Arzneimitteln das Resultat der Erstuntersuchung."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "2. Abschnitt: Blut- und Urinuntersuchung",
+      "section": "25",
+      "title": "Aufbewahrung von Proben und Aufzeichnungen",
+      "content": "1 Das Laboratorium muss: a. die nach den Untersuchungen übrig gebliebenen Blut- und Urinproben im Originalgefäss in einem Tiefkühler bei mindestens minus 18 Grad Celsius während mindestens eines Jahres oder gemäss Anordnung der Untersuchungsbehörde bis zum Abschluss des Verfahrens aufbewahren; b. alle für eine Rückverfolgbarkeit erforderlichen Dokumente und Aufzeichnungen während mindestens fünf Jahren aufbewahren. 2 Das Laboratorium muss die minimalen Aufbewahrungsfristen im Prüfbericht oder im Gutachten nennen. 3 Der Auftraggeber oder die Auftraggeberin kann im Einzelfall längere Aufbewahrungsfristen verlangen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "3. Abschnitt: Protokollierung, Nachtrunk",
+      "section": "26",
+      "title": "",
+      "content": "1 Die Durchführung der Atemalkoholprobe, die Sicherstellung von Urin, die Feststellungen der Kontrollbehörde, die Anerkennung der Atemalkoholmessungen sowie der Auftrag zur Blutentnahme und Sicherstellung von Urin oder die Bestätigung des Auftrags (Art. 13 Abs. 3 SKV) sind in einem Protokoll nach Anhang 2 festzuhalten. 1bis Bei einer Atemalkoholprobe mit einem Atemalkoholmessgerät ist sicherzustellen, dass die Messung der kontrollierten Person zugeordnet werden kann. 2 Macht die betroffene Person geltend, nach dem Ereignis Alkohol konsumiert zu haben (Nachtrunk), so ist sie eingehend über die Art der Getränke, die Menge und den Zeitpunkt der Konsumation zu befragen. Allfällige Beweismittel sind sicherzustellen. 3 Das Protokoll der ärztlichen Untersuchung nach Artikel 15 Absatz 1 SKV richtet sich nach Anhang 3. Ausdruck gemäss Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ( AS 2015 2591 ). Eingefügt durch Ziff. I der V des ASTRA vom 30. Juli 2015, in Kraft seit 1. Okt. 2016 ( AS 2015 2591 )."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "4. Abschnitt: Anerkennung der Laboratorien",
+      "section": "27",
+      "title": "Einreichung des Gesuchs",
+      "content": "1 Das Anerkennungsgesuch muss mit einer vollständigen Dokumentation nach den Weisungen des ASTRA eingereicht werden. 2 Das Gesuch um Anerkennung als Laborleiter oder Laborleiterin, als deren Stellvertreter oder Stellvertreterin sowie als Sachverständiger oder Sachverständige muss vom Laboratorium oder der zuständigen Stelle eingereicht werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "4. Abschnitt: Anerkennung der Laboratorien",
+      "section": "28",
+      "title": "Provisorische Anerkennung als Laboratorium",
+      "content": "1 Die Anerkennung als Laboratorium wird vorerst provisorisch erteilt. 2 Das ASTRA erteilt die provisorische Anerkennung für die Dauer eines Jahres, wenn das Gesuch die formellen Voraussetzungen erfüllt und das Laboratorium eine Eignungsprüfung bestanden hat. 3 Das ASTRA kann die provisorische Anerkennung entziehen, wenn das Laboratorium die Voraussetzungen nicht mehr erfüllt."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "4. Abschnitt: Anerkennung der Laboratorien",
+      "section": "29",
+      "title": "Definitive Anerkennung als Laboratorium",
+      "content": "1 Das ASTRA erteilt die definitive Anerkennung, wenn das Laboratorium während der Dauer der provisorischen Anerkennung die vom ASTRA veranlassten Eignungsprüfungen sowie ein Audit bestanden hat. 2 Erfüllt das Laboratorium diese Voraussetzungen nicht, so kann das ASTRA die provisorische Anerkennung verlängern, wenn die Erfüllung der Voraussetzungen in Aussicht steht. 3 Das ASTRA führt eine Liste der anerkannten Laboratorien."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "4. Abschnitt: Anerkennung der Laboratorien",
+      "section": "30",
+      "title": "Entzug der definitiven Anerkennung als Laboratorium",
+      "content": "Das ASTRA kann die definitive Anerkennung namentlich dann entziehen, wenn das Laboratorium: a. an einer Eignungsprüfung ohne Begründung nicht teilnimmt; b. eine Eignungsprüfung nicht besteht und die daraufhin verfügten Auflagen nicht innert der angesetzten Frist erfüllt; c. ein Audit verweigert; d. die nach einem Audit verfügten Auflagen nicht innert der angesetzten Frist erfüllt; e. die Anforderungen dieser Verordnung oder der Weisungen des ASTRA nicht erfüllt."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "4. Abschnitt: Anerkennung der Laboratorien",
+      "section": "31",
+      "title": "Anerkennung als Laborleiter oder -leiterin",
+      "content": "1 Das ASTRA anerkennt als Laborleiter oder Laborleiterin beziehungsweise als deren Stellvertreter oder Stellvertreterin Personen, die über eine abgeschlossene Hochschulausbildung namentlich in Chemie, Biochemie oder Pharmazie sowie über besondere Erfahrung im entsprechenden Fachgebiet (Blutalkoholanalytik, forensische Toxikologie) verfügen. 2 Dem Anerkennungsgesuch müssen ein Lebenslauf und eine Dokumentation der bisherigen beruflichen Tätigkeit beigelegt werden. 3 Das ASTRA kann Ausnahmen von den Erfordernissen nach Absatz 1 bewilligen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "5. Abschnitt: Qualitätssicherung bei Laboratorien",
+      "section": "32",
+      "title": "Externe Qualitätskontrollen",
+      "content": "1 Die Laboratorien müssen sich an den vom ASTRA veranlassten regelmässigen Eignungsprüfungen (externe Qualitätskontrollen) beteiligen. Das ASTRA kann dazu Experten und Expertinnen beiziehen. 2 Die Resultate der Eignungsprüfungen sind vertraulich. Sie werden allen teilnehmenden Laboratorien mitgeteilt. Dabei bleibt die Zuordnung der Laboratorien anonym."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "5. Abschnitt: Qualitätssicherung bei Laboratorien",
+      "section": "33",
+      "title": "Audits",
+      "content": "1 Die Laboratorien müssen sich den vom ASTRA regelmässig veranlassten Audits unterziehen. 2 Jedes Laboratorium wird mindestens alle fünf Jahre auditiert. Bei Anzeichen von Unregelmässigkeiten kann ein Audit jederzeit durchgeführt werden. 3 Die Laboratorien müssen den Auditoren und Auditorinnen freien Zugang zu den Räumlichkeiten, Geräten, Akten und Journalen gewähren und Auskunft über die Methoden, die Geräte und die internen Qualitätsmassnahmen geben. 4 Ist ein Laboratorium von der schweizerischen Akkreditierungsstelle nach Artikel 5 der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996 akkreditiert, so werden keine Audits nach Absatz 1 durchgeführt. Das Laboratorium muss jedoch nach jedem Audit eine Checkliste gemäss den Weisungen des ASTRA einreichen. Vorbehalten bleiben vom ASTRA veranlasste Audits bei Anzeichen von Unregelmässigkeiten. SR 946.512"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "6. Abschnitt: Nachweis von Betäubungsmitteln",
+      "section": "34",
+      "title": "",
+      "content": "Die Betäubungsmittel nach Artikel 2 Absatz 2 der Verkehrsregelnverordnung vom 13. November 1962 gelten als nachgewiesen, wenn die Messwerte im Blut die folgenden Grenzwerte erreichen oder überschreiten: a. THC: 1,5 µg/L b. freies Morphin: 15 µg/L c. Kokain: 15 µg/L d. Amphetamin: 15 µg/L e. Methamphetamin: 15 µg/L f. MDEA: 15 µg/L g. MDMA: 15 µg/L SR 741.11"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "7. Kapitel: Kontrolle der Fahrzeuge",
+      "section": "35",
+      "title": "Kontrolle des technischen Zustandes: Prüfbericht und Bescheinigung",
+      "content": "1 Der Prüfbericht nach Artikel 24 Absatz 4 SKV richtet sich nach den Vorgaben in Anhang 4. 2 Anstelle eines Prüfberichts kann eine Bescheinigung über die durchgeführte Kontrolle (Kontrollbescheinigung) ausgehändigt werden. Diese muss mindestens die Angaben nach den Ziffern 1-5, 9 und 13 des Prüfberichtes in Anhang 4 enthalten und allfällige Beanstandungen aufführen."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "7. Kapitel: Kontrolle der Fahrzeuge",
+      "section": "36",
+      "title": "Gefahrgutkontrolle: Prüfbericht und Bescheinigung",
+      "content": "1 Die ausgefüllte Prüfliste (Prüfbericht) nach Artikel 26 Absatz 3 SKV richtet sich nach den Vorgaben in Anhang 5. 2 Die Kontrollbescheinigung muss mindestens die Angaben nach den Ziffern 1–5, 7 und 40 des Prüfberichtes in Anhang 5 enthalten und allfällige Beanstandungen aufführen."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "8. Kapitel: Meldungen der Kantone",
+      "section": "37",
+      "title": "Zeitpunkt der Meldungen an das ASTRA",
+      "content": "1 Die Kantone übermitteln an die zentrale Datenbank des ASTRA (Art. 47 Abs. 1 SKV): a. die Meldungen nach Artikel 44 Absatz 1 Buchstaben a–c und e SKV jeweils bis zum 31. Januar des Folgejahres; b. die Meldungen nach Artikel 44 Absatz 1 Buchstabe d SKV jeweils bis zum 30. Juni des Folgejahres. 2 Von Absatz 1 abweichende Meldefristen, die sich auf eine Leistungsvereinbarung mit dem ASTRA stützen, bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "8. Kapitel: Meldungen der Kantone",
+      "section": "38",
+      "title": "Form der Meldungen an das Bundesamt für Verkehr",
+      "content": "Bei Verstössen gegen die Vorschriften über die Personenbeförderung und die Zulassung als Strassentransportunternehmung erfolgen die Meldungen mittels der vom Bundesamt für Verkehr zur Verfügung gestellten Formulare. In den übrigen Fällen ist dem Bundesamt für Verkehr eine Kopie des Anzeigerapportes an die Untersuchungsbehörden zuzustellen."
+    },
+    {
+      "provision_ref": "art38a",
+      "chapter": "26",
+      "section": "38a",
+      "title": "a Übergangsbestimmung zur Änderung vom 7. November 2011",
+      "content": "Atemalkoholtestgeräte, die nach der AAMV bis zum 31. Dezember 2012 nach bisherigem Recht in Verkehr gebracht werden dürfen, müssen die Anforderungen nach Artikel 17 Absätze 2 und 3 des bisherigen Rechts erfüllen. Eingefügt durch Ziff. I der V des ASTRA vom 7. Nov. 2011, in Kraft seit 1. Jan. 2012 ( AS 2011 5645 ). SR 941.210.4 AS 2008 2447"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "26",
+      "section": "39",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. Oktober 2008 in Kraft. Eingefügt durch Ziff. I der V des ASTRA vom 7. Nov. 2011, in Kraft seit 1. Jan. 2012 ( AS 2011 5645 )."
+    }
+  ],
+  "definitions": []
+}

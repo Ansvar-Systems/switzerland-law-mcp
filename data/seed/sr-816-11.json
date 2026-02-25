@@ -1,0 +1,319 @@
+{
+  "id": "sr-816-11",
+  "type": "statute",
+  "title": "Verordnung vom 22. März 2017 über das elektronische Patientendossier (EPDV)",
+  "title_en": "",
+  "short_name": "EPDV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/204/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Vertraulichkeitsstufen und Zugriffsrechte",
+      "section": "1",
+      "title": "Vertraulichkeitsstufen",
+      "content": "1 Die Patientin oder der Patient kann die medizinischen Daten des elektronischen Patientendossiers einer der folgenden drei Vertraulichkeitsstufen zuordnen: a. normal zugänglich; b. eingeschränkt zugänglich; c. geheim. 2 Nimmt die Patientin oder der Patient keine Zuordnung vor, so werden neu eingestellte Daten der Vertraulichkeitsstufe «normal zugänglich» zugeordnet, es sei denn, die Gesundheitsfachperson ordnet sie der Vertraulichkeitsstufe «eingeschränkt zugänglich» zu."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Vertraulichkeitsstufen und Zugriffsrechte",
+      "section": "2",
+      "title": "Zugriffsrechte",
+      "content": "1 Die Patientin oder der Patient kann Gesundheitsfachpersonen oder Gruppen von Gesundheitsfachpersonen entweder das Zugriffsrecht auf die Vertraulichkeitsstufe «normal zugänglich» oder das Zugriffsrecht auf die Vertraulichkeitsstufen «normal zugänglich» und «eingeschränkt zugänglich» erteilen. 2 In medizinischen Notfallsituationen können auch Gesundheitsfachpersonen, denen die Patientin oder der Patient kein Zugriffsrecht erteilt hat, auf die Daten der Vertraulichkeitsstufe «normal zugänglich» zugreifen. Die Patientin oder der Patient wird innert angemessener Frist über den Notfallzugriff informiert. 3 Tritt eine Gesundheitsfachperson einer Gruppe bei, so erhält sie das der Gruppe erteilte Zugriffsrecht. Verlässt eine Gesundheitsfachperson eine Gruppe, so wird ihr dieses Zugriffsrecht entzogen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Vertraulichkeitsstufen und Zugriffsrechte",
+      "section": "3",
+      "title": "Dauer der Zugriffsrechte",
+      "content": "1 Die Zugriffsrechte für Gesundheitsfachpersonen gelten bis zum Entzug durch die Patientin oder den Patienten. 2 Die Zugriffsrechte für Gruppen von Gesundheitsfachpersonen müssen von der Patientin oder dem Patienten befristet werden."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Kapitel: Vertraulichkeitsstufen und Zugriffsrechte",
+      "section": "4",
+      "title": "Optionen der Patientinnen und Patienten",
+      "content": "Die Patientin oder der Patient kann: a. festlegen, welcher Vertraulichkeitsstufe neu eingestellte medizinische Daten zugeordnet werden; b. einzelne Gesundheitsfachpersonen vom Zugriff auf ihr oder sein elektronisches Patientendossier ausschliessen; c. festlegen, dass sie oder er über den Eintritt von Gesundheitsfachpersonen in Gruppen, denen sie oder er ein Zugriffsrecht erteilt hat, informiert wird; d. die Zugriffsrechte für Gesundheitsfachpersonen nach eigenem Ermessen befristen; e. das Zugriffsrecht bei medizinischen Notfallsituationen auf die Vertraulichkeitsstufe «eingeschränkt zugänglich» erweitern oder den Zugriff ausschliessen; f. eine Stellvertretung benennen; g. Gesundheitsfachpersonen ihrer oder seiner Stammgemeinschaft ermächtigen, die ihnen erteilten Zugriffsrechte höchstens im gleichen Umfang an weitere Gesundheitsfachpersonen oder Gruppen von Gesundheitsfachpersonen zu übertragen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Kapitel: Patientenidentifikationsnummer",
+      "section": "5",
+      "title": "Format",
+      "content": "1 Die Patientenidentifikationsnummer besteht aus einer Basisnummer, einer Identifikationsnummer und einer Prüfziffer. Sie darf keinerlei Rückschlüsse auf die Patientin oder den Patienten zulassen. 2 Das Eidgenössische Departement des Innern (EDI) legt die Vorgaben für den Aufbau der Patientenidentifikationsnummer und für die Berechnung der Prüfziffer fest."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Kapitel: Patientenidentifikationsnummer",
+      "section": "6",
+      "title": "Antrag auf Vergabe",
+      "content": "1 Die Patientenidentifikationsnummer wird auf Antrag einer Stammgemeinschaft durch die Zentrale Ausgleichsstelle (ZAS) vergeben. 2 Die Stammgemeinschaft stellt der ZAS folgende Daten für die Vergabe der Patientenidentifikationsnummer zur Verfügung: a. den Namen; b. die Vornamen; c. das Geschlecht; d. das Geburtsdatum; e. die AHV-Nummer. 3 Reichen die zur Verfügung gestellten Daten für die Vergabe nicht aus, so kann die ZAS bei der Stammgemeinschaft zusätzliche Daten verlangen. Fassung gemäss Anhang Ziff. II 32 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ( AS 2021 800 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Kapitel: Patientenidentifikationsnummer",
+      "section": "7",
+      "title": "Abfrage und Erfassung",
+      "content": "1 Gemeinschaften und Stammgemeinschaften können die Patientenidentifikationsnummer bei der ZAS über ein elektronisches Abrufverfahren abfragen. 2 Die Patientenidentifikationsnummer darf nur manuell erfasst werden, wenn eine Kontrolle der Prüfziffer durchgeführt wird."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Kapitel: Patientenidentifikationsnummer",
+      "section": "8",
+      "title": "Annullierung",
+      "content": "1 Wird ein elektronisches Patientendossier aufgehoben, so wird die entsprechende Patientenidentifikationsnummer in der Identifikationsdatenbank der ZAS annulliert. 2 Die ZAS informiert die Gemeinschaften und Stammgemeinschaften über die Annullierung der Patientenidentifikationsnummer. 3 Eine annullierte Patientenidentifikationsnummer darf nicht erneut vergeben werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "1. Abschnitt: Gemeinschaften",
+      "section": "9",
+      "title": "Objektidentifikator und Verwaltung",
+      "content": "1 Gemeinschaften müssen beim Dienst zur Abfrage der Objektindentifikatoren (OID) nach Artikel 42 für sich sowie für die ihnen angehörenden Gesundheitseinrichtungen einen OID beantragen. 2 Sie müssen die ihnen angehörenden Gesundheitseinrichtungen, Gesundheitsfachpersonen und Gruppen von Gesundheitsfachpersonen verwalten. Dazu müssen sie insbesondere: a. deren Eintritt und deren Austritt regeln; b. die Gesundheitsfachpersonen identifizieren und deren berufliche Qualifikation überprüfen; c. für Gruppen von Gesundheitsfachpersonen einen OID vergeben, der auf dem OID der Gesundheitseinrichtung basiert; d. die Aktualisierung der Daten im Dienst zur Abfrage der Gesundheitseinrichtungen und Gesundheitsfachpersonen nach Artikel 41 sicherstellen; e. sicherstellen, dass Gesundheitsfachpersonen sich für den Zugriff auf das elektronische Patientendossier mit Identifikationsmitteln authentifizieren, die von einem nach Artikel 31 zertifizierten Herausgeber herausgegeben wurden; f. die Patientinnen und Patienten auf deren Verlangen über Eintritte von Gesundheitsfachpersonen in Gruppen von Gesundheitsfachpersonen informieren."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "1. Abschnitt: Gemeinschaften",
+      "section": "10",
+      "title": "Datenhaltung und Datenübertragung",
+      "content": "1 Gemeinschaften müssen sicherstellen, dass: a. die Artikel 1 und 2 Absatz 2 umgesetzt werden; b. medizinische Daten des elektronischen Patientendossiers von anderen Datenbeständen getrennt gespeichert werden; c. für die Speicherung und Übertragung der Daten Verschlüsselungsverfahren nach aktuellem Stand der Technik verwendet werden; d. die von den Gesundheitsfachpersonen im elektronischen Patientendossier erfassten medizinischen Daten nach 20 Jahren vernichtet werden; e. bei einer Aufhebung des elektronischen Patientendossiers nach Artikel 21 sämtliche Daten vernichtet werden. 2 Auf Verlangen der Patientin oder des Patienten müssen sie zudem sicherstellen, dass: a. bestimmte auf diese oder diesen bezogene medizinische Daten im elektronischen Patientendossier nicht erfasst werden; b. Daten von der Vernichtung nach Absatz 1 Buchstabe d ausgenommen werden; c. bestimmte auf diese oder diesen bezogene medizinische Daten aus dem elektronischen Patientendossier vernichtet werden. 3 Das EDI legt die technischen und organisatorischen Vorgaben für die Datenhaltung und die Datenübertragung fest. Es regelt insbesondere: a. die zu verwendenden Metadaten; b. die zu verwendenden Austauschformate; c. die zu verwendenden Integrationsprofile; d. die Vorgaben betreffend die Protokolldaten. 4 Es kann bestimmen, dass die Vorgaben nach Absatz 3 in der Originalsprache veröffentlicht werden und auf eine Übersetzung in die Amtssprachen verzichtet werden kann. 5 Es kann das Bundesamt für Gesundheit (BAG) ermächtigen, die Vorgaben nach Absatz 3 dem Stand der Technik anzupassen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Abschnitt: Gemeinschaften",
+      "section": "11",
+      "title": "Zugangsportal für Gesundheitsfachpersonen",
+      "content": "Das EDI legt die Anforderungen an das Zugangsportal für Gesundheitsfachpersonen fest, insbesondere in Bezug auf die Bereitstellung und den Abruf von Daten sowie auf die Barrierefreiheit."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "1. Abschnitt: Gemeinschaften",
+      "section": "12",
+      "title": "Datenschutz und Datensicherheit",
+      "content": "1 Gemeinschaften müssen ein risikogerechtes Datenschutz- und Datensicherheitsmanagementsystem betreiben. Dieses muss insbesondere folgende Elemente umfassen: a. ein System zur Erkennung von und zum Umgang mit Sicherheitsvorfällen; b. ein Inventar der Informatikmittel und Datensammlungen; c. die Datenschutz- und Datensicherheitsanforderungen an die angeschlossenen Gesundheitseinrichtungen und Dritte. 2 Die Gemeinschaften bezeichnen eine Datenschutz- und Datensicherheitsverantwortliche oder einen Datenschutz- und Datensicherheitsverantwortlichen. 3 Sie müssen die im Datenschutz- und Datensicherheitsmanagementsystem als sicherheitsrelevant eingestuften Vorfälle dem BAG melden. 4 Das EDI legt die technischen und organisatorischen Anforderungen in Bezug auf Datenschutz und Datensicherheit fest. 5 Die Datenspeicher müssen sich in der Schweiz befinden und dem Schweizer Recht unterstehen."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Kontaktstelle für Gesundheitsfachpersonen",
+      "content": "Die Gemeinschaften müssen eine Kontaktstelle bezeichnen, die die Gesundheitsfachpersonen im Umgang mit dem elektronischen Patientendossier unterstützt."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Abschnitt: Stammgemeinschaften",
+      "section": "14",
+      "title": "Zusätzliche Anforderungen für Stammgemeinschaften",
+      "content": "Stammgemeinschaften müssen in Ergänzung zum 1. Abschnitt die Vorgaben dieses Abschnitts einhalten."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "2. Abschnitt: Stammgemeinschaften",
+      "section": "15",
+      "title": "Information der Patientin oder des Patienten",
+      "content": "1 Vor der Eröffnung eines elektronischen Patientendossiers muss die Stammgemeinschaft die Patientin oder den Patienten insbesondere über folgende Punkte informieren: a. den Zweck des elektronischen Patientendossiers; b. die Datenbearbeitung; c. die Folgen der Einwilligung und die Möglichkeit sowie die Folgen des Widerrufs; d. die Erteilung der Zugriffsrechte. 2 Sie muss der Patientin oder dem Patienten Datenschutz- und Datensicherheitsmassnahmen empfehlen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "2. Abschnitt: Stammgemeinschaften",
+      "section": "16",
+      "title": "Einwilligung",
+      "content": "Die Stammgemeinschaft hat von der Patientin oder dem Patienten die Einwilligung zur Führung eines elektronischen Patientendossiers einzuholen. Diese muss von der Patientin oder vom Patienten unterzeichnet sein."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "2. Abschnitt: Stammgemeinschaften",
+      "section": "17",
+      "title": "Verwaltung",
+      "content": "1 Stammgemeinschaften müssen: a. die Eröffnung, die Verwaltung und die Aufhebung des elektronischen Patientendossiers regeln; b. die Patientin oder den Patienten identifizieren; c. sicherstellen, dass Patientinnen und Patienten und deren Stellvertretung sich für den Zugriff auf das elektronische Patientendossier mit Identifikationsmitteln authentifizieren, die von einem nach Artikel 31 zertifizierten Herausgeber herausgegeben wurden; d. eine Patientenidentifikationsnummer anfordern; e. Prozesse zum Wechsel der Stammgemeinschaft vorsehen. 2 Sie müssen die Umsetzung von Artikel 2 Absätze 1 und 3 sowie Artikel 3 und 4 sicherstellen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. Abschnitt: Stammgemeinschaften",
+      "section": "18",
+      "title": "Zugangsportal für Patientinnen und Patienten",
+      "content": "Das EDI legt die Anforderungen an das Zugangsportal für Patientinnen und Patienten fest, insbesondere in Bezug auf: a. die Umsetzung der Artikel 1–4, namentlich die Darstellung der Zusammensetzung der Gruppen von Gesundheitsfachpersonen; b. die Darstellung der Protokolldaten; c. die Erfassung und den Abruf von Daten; d. die Barrierefreiheit."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "2. Abschnitt: Stammgemeinschaften",
+      "section": "19",
+      "title": "Von Patientinnen und Patienten erfasste Daten",
+      "content": "Das EDI legt die Anforderungen an den Umgang mit den von Patientinnen und Patienten erfassten medizinischen Daten fest."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Abschnitt: Stammgemeinschaften",
+      "section": "20",
+      "title": "Kontaktstelle für Patientinnen und Patienten",
+      "content": "Stammgemeinschaften müssen eine Kontaktstelle bezeichnen, die die Patientinnen und Patienten im Umgang mit ihrem elektronischen Patientendossier unterstützt."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Abschnitt: Stammgemeinschaften",
+      "section": "21",
+      "title": "Aufhebung des elektronischen Patientendossiers",
+      "content": "1 Ein elektronisches Patientendossier wird von der Stammgemeinschaft aufgehoben, wenn die Patientin oder der Patient die Einwilligung widerruft. Die Widerrufserklärung ist während zehn Jahren aufzubewahren. 2 Die Stammgemeinschaft darf ein elektronisches Patientendossier frühestens zwei Jahre nach dem Tod eines Patienten oder einer Patientin aufheben. 3 Wird ein elektronisches Patientendossier aufgehoben, so muss die Stammgemeinschaft innert angemessener Frist sämtliche Zugriffsrechte auf das Patientendossier entziehen und die ZAS sowie alle Gemeinschaften informieren."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "3. Abschnitt: Evaluation und Forschung",
+      "section": "22",
+      "title": "",
+      "content": "1 Gemeinschaften und Stammgemeinschaften müssen dem BAG regelmässig Daten für die Evaluation nach Artikel 18 EPDG in pseudonymisierter Form zur Verfügung stellen. 2 Das EDI legt die zu liefernden Daten und die Fristen fest. 3 Das BAG kann die Daten der Abfragedienste nach Artikel 39 zu Evaluations- und Forschungszwecken bearbeiten. 4 Es kann von den Zertifizierungsstellen und von den zertifizierten Stellen die für die Zertifizierung oder Rezertifizierung relevanten Unterlagen einfordern."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "4. Kapitel: Identifikationsmittel",
+      "section": "23",
+      "title": "Anforderungen",
+      "content": "Das Identifikationsmittel muss: a. der Vertrauensstufe 3 der Norm ISO/IEC 29115:2013(E) entsprechen; b. so aufgebaut sein, dass es nur von der berechtigten Person verwendet werden kann; c. ein Authentifizierungsverfahren nach dem aktuellen Stand der Technik mit mindestens zwei Authentifizierungsfaktoren verwenden; und d. eine Gültigkeitsdauer von höchstens fünf Jahren aufweisen. Die aufgeführte Norm kann bei der Schweizerischen Normen-Vereinigung (SNV, www.snv.ch) gegen Verrechnung bezogen oder beim BAG, Schwarzenburgstrasse 157, 3003 Bern kostenlos eingesehen werden."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "4. Kapitel: Identifikationsmittel",
+      "section": "24",
+      "title": "Identitätsprüfung",
+      "content": "1 Der Herausgeber des Identifikationsmittels muss die Identität der antragstellenden Person überprüfen. Diese muss sich mit einem Ausweis nach dem Ausweisgesetz vom 22. Juni 2001 oder einem Ausweis nach den Artikeln 41–41 b des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005 ausweisen oder einen mit einer qualifizierten elektronischen Signatur nach dem Bundesgesetz vom 18. März 2016 über die elektronische Signatur signierten Antrag auf elektronischem Weg einreichen. 2 Die Prüfung der Identität der antragstellenden Person kann an Dritte delegiert werden. SR 143.1 Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ( SR 170.512 ) auf den 1. Jan. 2019 angepasst. SR 142.20 SR 943.03"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. Kapitel: Identifikationsmittel",
+      "section": "25",
+      "title": "Daten",
+      "content": "1 Der Herausgeber des Identifikationsmittels weist der antragstellenden Person einen eindeutigen Identifikator zu. 2 Er ordnet anhand des Identitätsnachweises nach Artikel 24 Absatz 1 der antragstellenden Person die folgenden Daten zu: a. den Namen; b. die Vornamen; c. das Geschlecht; d. das Geburtsdatum; e. die Nummer des Identitätsnachweises. 3 Soll das Identifikationsmittel auch als Nachweis der beruflichen Qualifikation einer Gesundheitsfachperson verwendet werden, so muss er diesem zusätzlich folgende Daten zuordnen: a. die eindeutige Identifikationsnummer (GLN); b. die durch einen Abgleich mit einem eidgenössischen oder kantonalen Register überprüfte berufliche Qualifikation. 4 Er kann die Angaben nach den Absätzen 1, 2 Buchstaben a–d und 3 zur Identifizierung an Gemeinschaften und Stammgemeinschaften übermitteln. 5 Er informiert die antragstellende Person über die Sicherheitsvorkehrungen, die sie im Umgang mit dem Identifikationsmittel treffen muss. 6 Er speichert die Daten auf Datenspeichern, die sich in der Schweiz befinden und dem Schweizer Recht unterstehen. GLN steht für Global Location Number"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Erneuerung",
+      "content": "1 Das Identifikationsmittel kann vor Ablauf seiner Gültigkeitsdauer erneuert werden. 2 Der Herausgeber überprüft bei der Erneuerung des Identifikationsmittels die Identität der antragstellenden Person."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Sperrung",
+      "content": "Die Inhaberin oder der Inhaber kann das Identifikationsmittel jederzeit vorübergehend oder unwiderruflich sperren lassen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "5. Kapitel: Akkreditierung",
+      "section": "28",
+      "title": "Anforderungen",
+      "content": "1 Stellen, die Gemeinschaften, Stammgemeinschaften und Zugangsportale zertifizieren, müssen für die Auditierung und Zertifizierung von Managementsystemen akkreditiert sein durch: a. die Schweizerische Akkreditierungsstelle (SAS) nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996; b. eine ausländische Akkreditierungsstelle, die Mitglied der European co-operation for Accreditation ist; oder c. eine von der Schweiz gestützt auf ein internationales Abkommen anerkannten Akkreditierungsstelle. 2 Stellen, die Herausgeber von Identifikationsmitteln zertifizieren, müssen für die Auditierung und Zertifizierung von Produkten, Prozessen und Dienstleistungen akkreditiert sein durch eine Stelle nach Absatz 1 Buchstabe a, b oder c. 3 Die Zertifizierungsstellen müssen über eine festgelegte Organisation und ein festgelegtes Kontrollverfahren verfügen. Darin müssen insbesondere geregelt sein: a. die Kriterien, nach denen die Einhaltung der Zertifizierungsvoraussetzungen überprüft werden; b. der Ablauf des Verfahrens, insbesondere das Vorgehen bei festgestellten Unregelmässigkeiten. 4 Die Zertifizierungsstellen müssen für die Prüfung der Datenübertragung zwischen Gemeinschaften und Stammgemeinschaften das vom BAG zur Verfügung gestellte Zertifizierungstestsystem verwenden. 5 Das EDI legt die Mindestanforderungen an die Qualifikation des Personals, das Zertifizierungen durchführt, fest. SR 946.512 Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 717 ). Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 717 )."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "5. Kapitel: Akkreditierung",
+      "section": "29",
+      "title": "Verfahren",
+      "content": "Die Schweizerische Akkreditierungsstelle zieht für das Akkreditierungsverfahren und die Nachkontrolle sowie für die Sistierung oder den Entzug einer Akkreditierung das BAG bei."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "1. Abschnitt: Voraussetzungen",
+      "section": "30",
+      "title": "Gemeinschaften und Stammgemeinschaften",
+      "content": "1 Gemeinschaften werden zertifiziert, wenn sie die Vorgaben der Artikel 9–13 erfüllen, Stammgemeinschaften, wenn sie die Vorgaben der Artikel 9–21 erfüllen. 2 Das EDI konkretisiert die Zertifizierungsvoraussetzungen nach den Artikeln 9–21. 3 Es kann das BAG ermächtigen, die Vorgaben nach Absatz 2 dem Stand der Technik anzupassen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "1. Abschnitt: Voraussetzungen",
+      "section": "31",
+      "title": "Herausgeber von Identifikationsmitteln",
+      "content": "1 Herausgeber von Identifikationsmitteln werden zertifiziert, wenn sie: a. in der Lage sind, Identifikationsmittel gemäss den Anforderungen nach den Artikeln 23–27 herauszugeben und zu verwalten; b. sicherstellen, dass das Personal über die erforderlichen Fachkenntnisse, Erfahrungen und Qualifikationen verfügt; c. Informatiksysteme und -produkte verwenden, die vertrauenswürdig sind und zuverlässig betrieben werden; d. Datenschutz und Datensicherheit mit geeigneten organisatorischen und technischen Massnahmen gewährleisten und die entsprechenden Kontrollen sicherstellen. 2 Das EDI konkretisiert die Zertifizierungsvoraussetzungen nach den Artikel 23–27. 3 Es kann das BAG ermächtigen, die Vorgaben nach Absatz 2 dem Stand der Technik anzupassen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "2. Abschnitt: Zertifizierungsverfahren",
+      "section": "32",
+      "title": "Ablauf",
+      "content": "1 Die Zertifizierungsstelle prüft die Unterlagen darauf hin, ob die antragstellende Person auf das Zertifizierungsaudit vorbereitet ist. 2 Im Zertifizierungsaudit überprüft sie, ob die Zertifizierungsvoraussetzungen erfüllt sind. 3 Sie erteilt das Zertifikat, wenn die Gemeinschaft, die Stammgemeinschaft oder der Herausgeber von Identifikationsmitteln die jeweiligen Anforderungen erfüllt. 4 Vor Ablauf der Geltungsdauer des Zertifikats ist wiederum ein Zertifizierungsaudit nach Vorgabe von Absatz 2 durchzuführen (Rezertifizierung)."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "2. Abschnitt: Zertifizierungsverfahren",
+      "section": "33",
+      "title": "Meldung und Veröffentlichung der Zertifikate",
+      "content": "1 Die Zertifizierungsstelle teilt dem BAG jedes erteilte und erneuerte Zertifikat sowie Sistierungen oder Entzüge von Zertifikaten mit und stellt die für den Eintrag in den Dienst zur Abfrage der Gemeinschaften und Stammgemeinschaften nach Artikel 40 notwendigen Daten zur Verfügung. 2 Das BAG veröffentlicht ein Verzeichnis der erteilten Zertifikate."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "2. Abschnitt: Zertifizierungsverfahren",
+      "section": "34",
+      "title": "Überprüfung",
+      "content": "1 Die Zertifizierungsstelle hat jährlich zu überprüfen, ob die Zertifizierungsvoraussetzungen weiterhin erfüllt sind. 2 Stellt sie dabei wesentliche Abweichungen von den Zertifizierungsvoraussetzungen fest, insbesondere betreffend die Erfüllung von Bedingungen oder Auflagen, so informiert sie das BAG."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "2. Abschnitt: Zertifizierungsverfahren",
+      "section": "35",
+      "title": "Geltungsdauer",
+      "content": "Das Zertifikat wird für jeweils drei Jahre ausgestellt."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "2. Abschnitt: Zertifizierungsverfahren",
+      "section": "36",
+      "title": "Meldung wesentlicher technischer oder organisatorischer Anpassungen",
+      "content": "1 Gemeinschaften, Stammgemeinschaften und Herausgeber von Identifikationsmitteln müssen der Zertifizierungsstelle wesentliche technische oder organisatorische Anpassungen melden. 2 Die Zertifizierungsstelle entscheidet, ob diese Anpassung durch eine Überprüfung, eine Rezertifizierung oder eine ausserordentliche Rezertifizierung geprüft wird."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "2. Abschnitt: Zertifizierungsverfahren",
+      "section": "37",
+      "title": "Schutzklausel",
+      "content": "1 Liegt eine schwerwiegende Gefährdung des Schutzes oder der Sicherheit der Daten des elektronischen Patientendossiers vor, so kann das BAG: a. Gemeinschaften und Stammgemeinschaften vorübergehend den Zugang zum elektronischen Patientendossier verweigern; b. den Gebrauch bestimmter elektronischer Identifikationsmittel für den Zugriff auf das elektronische Patientendossier verbieten; c. eine ausserordentliche Rezertifizierung anordnen. 2 Das BAG kann von der Zertifizierungsstelle und von der zertifizierten Stelle die für die Zertifizierung oder Rezertifizierung notwendigen Unterlagen einfordern."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "3. Abschnitt: Sanktionen",
+      "section": "38",
+      "title": "",
+      "content": "1 Die Zertifizierungsstelle kann die Gültigkeit eines Zertifikats aussetzen oder ein Zertifikat entziehen, wenn sie im Rahmen der Überprüfung nach Artikel 34 schwere Mängel feststellt. Ein schwerer Mangel liegt insbesondere vor, wenn: a. wesentliche Voraussetzungen der Zertifizierung nicht mehr erfüllt sind; oder b. ein Zertifikat in irreführender oder missbräuchlicher Art und Weise verwendet wird. 2 Bei Streitigkeiten über die Sistierung oder den Entzug richten sich die Beurteilung und das Verfahren nach den zivilrechtlichen Bestimmungen, die anwendbar sind auf das Vertragsverhältnis zwischen Zertifizierungsstelle und zertifizierter Gemeinschaft oder Stammgemeinschaft oder zertifiziertem Herausgeber von Identifikationsmitteln. 3 Besteht der begründete Verdacht, dass eine zertifizierte Gemeinschaft oder Stammgemeinschaft oder ein zertifizierter Herausgeber von Identifikationsmitteln die Zertifizierungsvoraussetzungen nicht einhält, so kann das BAG eine Überprüfung durch die Zertifizierungsstelle anordnen."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "39",
+      "title": "",
+      "content": "Das BAG betreibt Dienste zur Abfrage: a. der Gemeinschaften und Stammgemeinschaften; b. der Gesundheitseinrichtungen und der Gesundheitsfachpersonen, die Daten des elektronischen Patientendossiers bearbeiten dürfen; c. der Metadaten (Art. 10 Abs. 3 Bst. a); d. der für das elektronische Patientendossier registrierten OID."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "2. Abschnitt: Inhalt",
+      "section": "40",
+      "title": "Dienst zur Abfrage der Gemeinschaften und Stammgemeinschaften",
+      "content": "1 Der Dienst zur Abfrage der Gemeinschaften und Stammgemeinschaften enthält für jede Gemeinschaft und Stammgemeinschaft die folgenden Daten: a. die Bezeichnung; b. den OID; c. die Zertifikate zur sicheren Authentifizierung gegenüber anderen Gemeinschaften und Stammgemeinschaften; d. die Internetadresse des Zugangspunkts. 2 Das BAG trägt die nach Artikel 33 Absatz 1 gelieferten Daten im Dienst zur Abfrage der Gemeinschaften und Stammgemeinschaften ein."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "2. Abschnitt: Inhalt",
+      "section": "41",
+      "title": "Dienst zur Abfrage der Gesundheitseinrichtungen und Gesundheitsfachpersonen",
+      "content": "1 Gemeinschaften und Stammgemeinschaften tragen im Dienst zur Abfrage der Gesundheitseinrichtungen und Gesundheitsfachpersonen folgende Daten ein: a. zu Gesundheitseinrichtungen und Gruppen von Gesundheitsfachpersonen: 1. die Bezeichnung und die Adresse, 2. den OID, 3. … b. zu Gesundheitsfachpersonen: 1. die Personalien, 2. die GLN, 3. die Bezeichnung und die Adresse der Gesundheitseinrichtungen oder der Gruppen von Gesundheitsfachpersonen, der sie angehört. 2 Das EDI kann weitere Daten bestimmen, die Gemeinschaften und Stammgemeinschaften im Dienst zur Abfrage der Gesundheitseinrichtungen und Gesundheitsfachpersonen eintragen müssen. Aufgehoben durch Ziff. I der V vom 8. März 2019, mit Wirkung seit 1. April 2019 ( AS 2019 937 ). Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 717 )."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "2. Abschnitt: Inhalt",
+      "section": "42",
+      "title": "Dienst zur Abfrage der OID",
+      "content": "Der Dienst zur Abfrage der OID verwaltet die OID der Gemeinschaften und Stammgemeinschaften und der ihnen angehörenden Gesundheitseinrichtungen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "2. Abschnitt: Inhalt",
+      "section": "43",
+      "title": "Gebühren",
+      "content": "1 Das BAG erhebt von den Gemeinschaften und Stammgemeinschaften pauschal eine jährliche Gebühr von 40 000 Franken für die Bereitstellung der Abfragedienste. 2 Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004. SR 172.041.1"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "8. Kapitel: Inkrafttreten",
+      "section": "44",
+      "title": "",
+      "content": "Diese Verordnung tritt am 15. April 2017 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,117 @@
+{
+  "id": "sr-281-112-1",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 9. Februar 2011 über die elektronische Übermittlung im Betreibungswesen",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2011/101/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die technischen und organisatorischen Vorgaben und das Datenformat, nach denen natürliche Personen, juristische Personen des privaten und des öffentlichen Rechts sowie Betreibungsämter in einer geschlossenen Benutzergruppe (eSchKG-Verbund) Betreibungsdaten austauschen. Fassung gemäss Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ( AS 2019 3455 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Verbundteilnehmerinnen und -teilnehmer und deren Verzeichnis",
+      "content": "1 Als Verbundteilnehmerinnen und -teilnehmer werden natürliche und juristische Personen sowie Betreibungs- und Konkursämter bezeichnet, die im Teilnehmerverzeichnis der Zustellplattform und in den Tabellen des eSchKG-Verbundes erscheinen. 2 Die Dienststelle für Oberaufsicht SchKG (Oberaufsicht SchKG) gemäss Artikel 1 der Verordnung vom 22. November 2006 betreffend die Oberaufsicht über Schuldbetreibung und Konkurs veröffentlicht die Tabellen des eSchKG-Verbundes auf www.eschkg.ch. Fassung gemäss Ziff. I der V des EJPD vom 7. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 7327 ). SR 281.11"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Technische Bestimmungen",
+      "section": "3",
+      "title": "Zustellplattform",
+      "content": "1 Für die Datenübermittlung im eSchKG-Verbund wird die sichere Datenaustauschplattform SEDEX (secure data exchange) des Bundesamtes für Statistik eingesetzt. 2 Für den Anschluss an SEDEX stellt die Oberaufsicht SchKG kostenlos einen Software-Adapter auf www.eschkg.ch zur Verfügung, der die Integration mit der Teilnehmersoftware erleichtert. Wer auf den Adapter verzichtet, ist verpflichtet, die Anbindung so zu realisieren, dass dadurch weder der laufende Betrieb noch die Sicherheit des eSchKG-Verbundes beeinträchtigt werden. 3 Erfolgt die Datenübermittlung zwischen Behörden innerhalb eines geschützten Netzes (Intranet), so sorgen die Verbundteilnehmerinnen und -teilnehmer dafür, dass Personendaten in geeigneter Weise vor anderen Benutzerinnen und Benutzern des Intranet geschützt sind und jeder Datenaustausch quittiert und protokolliert wird. 4 … Aufgehoben durch Ziff. I der V des EJPD vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ( AS 2019 3455 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Technische Bestimmungen",
+      "section": "4",
+      "title": "Elektronische Signatur",
+      "content": "1 Die im eSchKG-Verbund zu verwendende elektronische Signatur basiert auf einem Zertifikat des Betreibers der Public-Key-Infrastruktur des Bundes. 2 Die Zertifikate werden als Organisationszertifikate in Form von Soft-Zertifikaten ausgestellt. Sie enthalten den Namen der Verbundteilnehmerinnen und -teilnehmer, deren Adresse, Informationen über den Herausgeber, die Gültigkeit des Zertifikates, seine Seriennummer und weitere technische Informationen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Technische Bestimmungen",
+      "section": "5",
+      "title": "eSchKG-Standard",
+      "content": "1 Der eSchKG-Standard regelt den elektronischen Austausch von Geschäftsdaten im schweizerischen Schuldbetreibungs- und Konkurswesen auf drei Ebenen: a. Datenformat: Struktur und Semantik von Daten; b. Verhalten: vom eSchKG-Standard vorgegebene Aktionen, Reaktionen und Optionen der Verbundteilnehmerinnen und -teilnehmer; c. Datenübermittlung: Grundlagen zur technischen Einbindung in den eSchKG-Verbund. 2 Der verbindliche eSchKG-Standard setzt sich zusammen aus: a. dem XML-Schema für eSchKG, Version 2.2.01 vom Oktober 2019; b. den technischen und organisatorischen Vorschriften für den elektronischen Datenaustausch im Betreibungswesen, Version 2.2.01 vom Juni 2022. 3 … Das XML-Schema kann im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden. Fassung gemäss Ziff. I der V des EJPD vom 15. Aug. 2022, in Kraft seit 1. Okt. 2022 ( AS 2022 473 ). Die technischen und organisatorischen Vorschriften können im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden. Fassung gemäss Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ( AS 2019 3455 ). Eingefügt durch Ziff. I der V des EJPD vom 2. Juli 2013 ( AS 2013 2391 ). Aufgehoben durch Ziff. I der V des EJPD vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ( AS 2019 3455 )."
+    },
+    {
+      "provision_ref": "art5a",
+      "section": "5a",
+      "title": "a Eingaben von ausserhalb des eSchKG-Verbundes",
+      "content": "1 An ein Betreibungsamt gerichtete elektronische Eingaben von natürlichen Personen oder von juristischen Personen des privaten und des öffentlichen Rechts, die keine Rolle im eSchKG-Verbund wahrnehmen, sind über die EasyGov-Plattform des Staatssekretariats für Wirtschaft (SECO) oder über eine Plattform eines Kantons einzureichen. 2 Die jeweilige Plattform übermittelt die Eingaben dem Betreibungsamt via eSchKG-Verbund. Eingefügt durch Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ( AS 2019 3455 ). www.easygov.swiss"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt:",
+      "section": "6",
+      "title": "Allgemeine statistische Daten",
+      "content": "1 Die Betreibungsämter übermitteln dem Bundesamt für Justiz oder einer von ihm beauftragten Stelle auf deren elektronische Anfrage hin: a. die Zahl der nach dem eSchKG-Standard eingereichten Betreibungsbegehren; b. die Zahl der nach dem eSchKG-Standard eingereichten Begehren um einen Auszug aus dem Betreibungsregister; c. die statistischen Daten nach dem Blue Book, Kapitel 9. 2 Die elektronische Anfrage bezeichnet die betreffende Periode und die zu liefernden Daten. 3 Die Daten sind innert 10 Tagen elektronisch zu übermitteln."
+    },
+    {
+      "provision_ref": "art6a",
+      "chapter": "3. Abschnitt:",
+      "section": "6a",
+      "title": "a Gebührenerhebung",
+      "content": "1 Als Grundlage für die Erhebung der mit der Nutzung des eSchKG-Verbundes zusammenhängenden Gebühren bereiten die Betreibungsämter die statistischen Daten bis spätestens am 5. Dezember des betreffenden Jahres auf. 2 Die elektronische Anfrage erfolgt am ersten Werktag nach dem 5. Dezember."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "4. Abschnitt: Teilnahme am eSchKG-Verbund",
+      "section": "7",
+      "title": "Beitritt",
+      "content": "1 Sämtliche Betreibungsämter sind verpflichtet, dem eSchKG-Verbund beizutreten. 2 Natürliche und juristische Personen können beantragen, dem eSchKG-Verbund beizutreten. Für den Antrag ist das entsprechende Formular auf www.eschkg.ch zu verwenden. Fassung gemäss Ziff. I der V des EJPD vom 27. Aug. 2020, in Kraft seit 1. Okt. 2020 ( AS 2020 3789 ). Fassung gemäss Ziff. I der V des EJPD vom 7. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 7327 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "4. Abschnitt: Teilnahme am eSchKG-Verbund",
+      "section": "8",
+      "title": "Ausschluss",
+      "content": "Natürliche und juristische Personen, die gegen die in dieser Verordnung aufgestellten Pflichten verstossen oder bei der Bezahlung der mit der Nutzung des eSchKG-Verbundes zusammenhängenden Gebühren oder Auslagen in Verzug sind, können vom Bundesamt für Justiz aus dem eSchKG-Verbund ausgeschlossen werden. Fassung gemäss Ziff. I der V des EJPD vom 7. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 7327 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "9",
+      "title": "Übergangsbestimmungen zur Änderung vom 27. August 2020",
+      "content": "1 Die Betreibungsämter passen ihre Software bis zum 31. März 2021 an den verbindlichen eSchKG-Standard gemäss Artikel 5 Absatz 2 an. 2 Ist es einem Betreibungsamt nicht möglich, seine Software bis zu diesem Datum anzupassen, so kann es bei der Oberaufsicht für Schuldbetreibung und Konkurs des Bundesamts für Justiz bis zum 15. März 2021 ein Gesuch um Verlängerung der Frist für die Anpassung bis längstens 31. Juli 2021 stellen. 3 Das Gesuch muss eine Begründung und eine von der kantonalen Aufsichtsbehörde genehmigte verbindliche Einführungsplanung enthalten. 4 Die Betreibungsämter sind bis zum 30. Juni 2023 weiterhin verpflichtet, von natürlichen und von juristischen Personen, die vor dem 31. März 2021 in den eSchKG-Verbund aufgenommen wurden, Eingaben gemäss eSchKG-Standard 2.1.01 zu verarbeiten und zu beantworten. Der eSchKG-Standard 2.1.01 setzt sich zusammen aus: a. dem XML-Schema für eSchKG, Version 2.1.01 vom August 2015; b. dem Blue Book (Technical Specification eSchKG 2.1.01) vom September 2017, inklusive Appendix (XML Reference eSchKG 2.1.01 vom Sept. 2017). Fassung gemäss Ziff. I der V des EJPD vom 27. Aug. 2020, in Kraft seit 1. Okt. 2020 ( AS 2020 3789 ). Das XML-Schema kann im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden. Das Blue Book (inkl. Appendix) kann im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden."
+    },
+    {
+      "provision_ref": "art9a",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "9a",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V des EJPD vom 2. Juli 2013 ( AS 2013 2391 ). Aufgehoben durch Ziff. I der V des EJPD vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ( AS 2019 3455 )."
+    },
+    {
+      "provision_ref": "art9b",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "9b",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V des EJPD vom 6. Nov. 2015 ( AS 2015 4489 ). Aufgehoben durch Ziff. I der V des EJPD vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ( AS 2019 3455 )."
+    },
+    {
+      "provision_ref": "art9c",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "9c",
+      "title": "c Übergangsbestimmungen zur Änderung vom 15. August 2022",
+      "content": "Eingaben gemäss Artikel 9 Absatz 4 dürfen ab dem 1. Oktober 2022 nicht mehr die Option «EZ» als Zahlstelle angeben gemäss der Definition von paymentType im XML-Schema für eSchKG, Version 2.1.01 vom August 2015. Eingefügt durch Ziff. I der V des EJPD vom 15. Aug. 2022, in Kraft seit 1. Okt. 2022 ( AS 2022 473 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. März 2011 in Kraft."
+    }
+  ],
+  "definitions": []
+}

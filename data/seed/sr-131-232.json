@@ -1,0 +1,700 @@
+{
+  "id": "sr-131-232",
+  "type": "statute",
+  "title": "Verfassung des Kantons Wallis, vom 8. März 1907",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1907/5_611_1_1_fga/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "I. Titel: Allgemeine Grundsätze",
+      "section": "1",
+      "title": "",
+      "content": "1 Wallis bildet eine innert der Schranken der Bundesverfassung souveräne und als Kanton der Schweizerischen Eidgenossenschaft einverleibte demokratische Republik. 2 Die Souveränität beruht im Volke und wird unmittelbar durch die Aktivbürger und mittelbar von den durch die Verfassung eingesetzten Behörden ausgeübt. SR 101"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I. Titel: Allgemeine Grundsätze",
+      "section": "2",
+      "title": "",
+      "content": "1 Die Glaubens- und Gewissensfreiheit und die freie Ausübung gottesdienstlicher Handlungen sind gewährleistet. 2 Die Religionsgemeinschaften entscheiden über ihre Lehre und ihren Kultus frei und unabhängig. Sie befinden innert den Schranken des öffentlichen Rechts selbständig über ihre Organisation und Verwaltung. 3 Die römisch-katholische Kirche und die evangelisch-reformierte Kirche werden als öffentlich-rechtliche Institutionen mit eigener Rechtspersönlichkeit anerkannt. Die anderen Konfessionen unterstehen den Vorschriften des Privatrechts, können aber nach Massgabe ihrer Bedeutung im Kanton durch Gesetz öffentlich-rechtlich anerkannt werden. 4 Soweit die Pfarreien der römisch-katholischen Kirche und diejenigen der evangelisch-reformierten Kirche die orts-kirchlichen Kultusausgaben nicht aus eigenen Mitteln bestreiten können, kommen dafür unter Wahrung der Glaubens- und Gewissensfreiheit die Munizipalgemeinden auf. Der Kanton kann den öffentlich-rechtlich anerkannten Kirchen Beiträge gewähren. 5 Das Gesetz regelt die Anwendung dieser Bestimmungen. Angenommen in der Volksabstimmung vom 17. März 1974 , in Kraft seit 1. Aug. 1993. Gewährleistungsbeschluss vom 12. Dez. 1974 ( BBl 1974 II 1527 Art. 1 Ziff. 5 973 ). Diese Änd. wurde erst zusammen mit jener des Abs. 4 in Kraft gesetzt. Angenommen in der Volksabstimmung vom 10. Juni 1990 , in Kraft seit 1. Aug. 1993. Gewährleistungsbeschluss vom 3. Okt. 1991 ( BBl 1991 IV 198 Art. 1 Ziff. 7 II 1593 )."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "I. Titel: Allgemeine Grundsätze",
+      "section": "3a",
+      "title": "a",
+      "content": "1 Alle Bürger sind vor dem Gesetze gleich. 2 Es gibt im Wallis kein Vorrecht des Ortes, der Geburt, der Personen oder Familien. a In der Verfassung gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau. Angenommen in der Volksabstimmung vom 24. Okt. 1993 , in Kraft seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I. Titel: Allgemeine Grundsätze",
+      "section": "4",
+      "title": "",
+      "content": "1 Die persönliche Freiheit und die Unverletzlichkeit der Wohnung sind gewährleistet. 2 Niemand darf gerichtlich verfolgt oder verhaftet und keine Hausdurchsuchung darf vorgenommen werden, ausser in den vom Gesetze vorgesehenen Fällen, und in den von demselben vorgeschriebenen Formen. 3 Ungesetzlich Verhaftete sowie unschuldig Verurteilte sind durch den Staat angemessen zu entschädigen. Das Gesetz regelt die Anwendung dieses Grundsatzes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "Niemand darf seinem ordentlichen Richter entzogen werden."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": "1 Das Eigentum ist unverletzlich. 2 Von diesem Grundsatze kann nur aus Rücksichten öffentlichen Nutzens mittelst einer gerechten Entschädigung und in den vom Gesetze vorgesehenen Formen abgewichen werden. 3 Das Gesetz kann jedoch Fälle bestimmen, in welchen Grund und Boden der Burgerschaften oder Gemeinden, aus Rücksichten öffentlichen Nutzens, unentgeltlich abzutreten ist."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "Kein Grundstück kann mit einem unloskäuflichen Bodenzins belastet werden."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "",
+      "content": "Die Freiheit der Meinungsäusserung in Wort und Schrift, sowie die Freiheit der Presse sind gesichert. Das Gesetz bestraft den Missbrauch derselben."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "Das Petitionsrecht ist gewährleistet. Die Ausübung desselben wird vom Gesetze bestimmt."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "",
+      "content": "1 Das Recht der freien Niederlassung, das Vereins- und Versammlungsrecht, die freie Ausübung jeder Berufsart in Kunst und Wissenschaft, sowie die Freiheit des Handels und der Gewerbe sind gewährleistet. 2 Die Ausübung dieser Rechte wird durch das Gesetz geregelt."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "1 Jeder Bürger ist wehrpflichtig. 2 Die Anwendung dieses Grundsatzes ist durch die Bundes- und Kantonalgesetzgebung geregelt."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "",
+      "content": "1 Die französische und die deutsche Sprache sind als Landessprachen erklärt. 2 Der Grundsatz der Gleichberechtigung beider Sprachen soll in der Gesetzgebung und in der Verwaltung durchgeführt werden."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "",
+      "content": "1 Der öffentliche Unterricht sowie der private Primarunterricht stehen unter der Leitung und der Oberaufsicht des Staates. 2 Der Primarunterricht ist obligatorisch und in den öffentlichen Schulen unentgeltlich. 3 Die Lehrfreiheit ist, unter Vorbehalt der Gesetzesbestimmungen betreffend die Primarschule, gewährleistet."
+    },
+    {
+      "provision_ref": "art13a",
+      "section": "13a",
+      "title": "",
+      "content": "1 Der Staat muss der Familie, als Basisgemeinschaft der Gesellschaft, den für die Entfaltung jedes ihrer Mitglieder notwendigen Schutz sowie Unterstützung gewähren. 2 Er überprüft die Gesetzgebung unter dem Gesichtswinkel ihrer Auswirkungen auf die Lebensverhältnisse der Familie und passt diese entsprechend an. Angenommen in der Volksabstimmung vom 13. Juni 1999 , in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 14. Juni 2000 ( BBl 2000 3643 Art. 1 Ziff. 7 1107 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "",
+      "content": "Der Staat erlässt Vorschriften betreffend Arbeiterschutz und Sicherung der Arbeiterfreiheit."
+    },
+    {
+      "provision_ref": "art14a",
+      "section": "14a",
+      "title": "",
+      "content": "Der Staat erlässt Vorschriften zum Schutz vor Grossraubtieren und zur Beschränkung und Regulierung des Bestands. Die Förderung des Grossraubtierbestandes ist verboten. Angenommen in der Volksabstimmung vom 28. Nov. 2021 , in Kraft seit 1. Mai 2023. Gewährleistungsbeschluss vom 6. März 2023 ( BBl 2023 724 Art. 5; 2022 2963 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "",
+      "content": "Der Staat fördert und unterstützt nach Massgabe der ihm zu Gebote stehenden finanziellen Mittel: a. die Landwirtschaft, die Industrie, den Handel und im Allgemeinen alle den Kanton Interessierenden Zweige der Staatswirtschaft; b. den beruflichen Unterricht für Landwirtschaft, Handel, Industrie und Gewerbe; c. die Viehzucht, die Milchwirtschaft, den Rebbau, den Obstbau, die Alpwirtschaft, die Bodenverbesserungen, die Forstwirtschaft und das landwirtschaftliche und berufliche Genossenschaftswesen."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "",
+      "content": "1 Der Staat organisiert und unterstützt die Viehversicherung. 2 Er kann auch andere Versicherungen und besonders die obligatorische Mobiliar- und Immobiliar-Feuerversicherung einführen."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "",
+      "content": "1 Der Staat fördert die Entwicklung des Strassennetzes und der übrigen Verkehrsmittel. 2 Er steht ferner vermittelst Beiträgen für die Dämmung der Rhone, Sowie für die Dämmung und Verbauung der Bäche und Wildbäche ein."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "",
+      "content": "Der Staat gründet oder unterstützt durch Beiträge Erziehungsanstalten für verwahrloste Kinder sowie andere Wohltätigkeitsanstalten."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "",
+      "content": "1 Der Staat wird die Errichtung von Bezirks- oder Kreis-Spitälern, -Kliniken und ‑Krankenhäusern fördern und unterstützen. 2 Er kann auch eine gleichartige kantonale Anstalt errichten."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "",
+      "content": "Die finanzielle Beteiligung des Staates in den von den Artikeln 15, 16, 17, 18 und 19 vorgesehenen Fällen wird durch Spezialgesetze bestimmt werden."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "",
+      "content": "1 Der Staat, die Gemeinden und die mit Rechtspersönlichkeit ausgestatteten Gemeindeverbände des öffentlichen Rechts haften gegenüber Dritten für die Handlungen ihrer Agenten. 2 Der Agent haftet gegenüber dem öffentlichen Gemeinwesen, in dessen Dienst er sich befindet, für den Schaden, den er ihm in Ausübung seiner amtlichen Tätigkeit durch vorsätzliche oder grobfahrlässige Verletzung seiner Dienstpflicht direkt oder indirekt zufügt. 3 Das Gesetz regelt die Anwendung dieser Grundsätze. Angenommen in der Volksabstimmung vom 26. Sept. 1976 , in Kraft seit 1. Jan. 1977. Gewährleistungsbeschluss vom 23. Juni 1977 ( BBl 1977 II 1037 Art. 1 Ziff. 5 224 )."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "",
+      "content": "Die Abberufung oder Absetzung eines öffentlichen Beamten oder Angestellten kann nur nach seiner Einvernahme oder Vorladung und auf Grund eines motivierten Beschlusses derjenigen Behörde erfolgen, die ihn ernannt hat."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "",
+      "content": "Die Staatsausgaben werden bestritten: a. aus den Einkünften des Staatsvermögens; b. aus dem Ertrag der Hoheitsrechte; c. aus den Fiskalgebühren und den verschiedenen Einkünften; d. aus den Bundes-Entschädigungen, Beiträgen und Verteilungen; e. aus den Steuern."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "",
+      "content": "Die Staats- und Gemeindesteuern werden durch die Gesetzgebung festgesetzt unter Wahrung der Grundsätze der Progression und eines gewissen Existenzminimums. Angenommen in der Volksabstimmung vom 26. Dez. 1920 , in Kraft seit 7. Jan. 1921 (Bd. XXVII 110; Amtsblatt des Kantons Wallis, ABl, 1921 10). Gewährleistungsbeschluss vom 17. Febr. 1921 ( AS 37 142 ; BBl 1921 I 141 )."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "",
+      "content": "1 Der Voranschlag des Staates muss einen Ertragsüberschuss und einen Finanzierungsüberschuss ausweisen, die für eine harmonische Entwicklung des Kantons notwendigen Investitionen und Investitionsbeteiligungen Dritter sicherstellen sowie die Tilgung eines allfälligen Bilanzfehlbetrages und der Schuld gewährleisten. 2 Weicht die Rechnung vom Voranschlag ab und weist sie einen Aufwandüberschuss oder einen Finanzierungsfehlbetrag aus, so muss die Tilgung dieser Fehlbeträge im Voranschlag des übernächsten Jahres vorgesehen werden. 3 Der Staatsrat beantragt dem Grossen Rat vorgängig zum Entwurf des Voranschlags die Änderung jener Gesetzesbestimmungen, die nicht in seiner eigenen Kompetenz liegen und zur Einhaltung dieses Grundsatzes notwendig sind. 4 Diese Änderungen werden vom Grossen Rat auf dem Dekretsweg in der gleichen Session beschlossen, in welcher er den Voranschlag genehmigt. 5 Die Gesetzgebung regelt die Anwendung der in diesem Artikel aufgestellten Grundsätze. Sie kann Ausnahmen vorsehen aufgrund der wirtschaftlichen Konjunktur oder im Falle von Naturkatastrophen oder anderen ausserordentlichen Ereignissen. Angenommen in der Volksabstimmung vom 22. Sept. 2002 , in Kraft seit 1. Jan. 2005. Gewährleistungsbeschluss vom 24. Sept. 2003 ( BBl 2003 6875 Art. 1 Ziff. 4 3388 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "II. Titel: Einteilung des Kantons",
+      "section": "26",
+      "title": "",
+      "content": "1 Der Kanton ist in Bezirke eingeteilt. 2 Die Bezirke sind aus Gemeinden gebildet. 3 Der Grosse Rat kann, nach Anhörung der Beteiligten, durch ein Gesetz die Zahl und Umgrenzung der Bezirke, und durch ein Dekret diejenigen der Gemeinden abändern. 4 Er bezeichnet auch die Hauptorte derselben."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "II. Titel: Einteilung des Kantons",
+      "section": "27",
+      "title": "",
+      "content": "1 Sitten ist der Hauptort des Kantons und der Sitz des Grossen Rates, des Staatsrates und des Kantonsgerichtes. 2 Wenn wichtige Umstände es erfordern, können diese Behörden anderswo tagen. 3 Das Dekret vom 1. Dezember 1882 bestimmt die Leistungen des Hauptortes. 4 Bei Errichtung von kantonalen Anstalten soll billige Rücksicht auf die verschiedenen Landesteile genommen werden. 5 Die Gemeinde, welche als Sitz einer kantonalen Anstalt bezeichnet wird, kann zu gewissen Leistungen oder Beiträgen gehalten werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "III. Titel: Politischer Stand der Bürger",
+      "section": "28",
+      "title": "",
+      "content": "1 Walliser sind: a. die einer Gemeinde des Kantons auf Grund der Geburt angehörenden Bürger; b. diejenigen, welchen die Einbürgerung gemäss der kantonalen Gesetzgebung gewährt worden ist. 2–4 … Angenommen in der Volksabstimmung vom 11. März 2007 , in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 6. März 2008 ( BBl 2008 2493 Art. 1 Ziff. 10, 2007 7663 ). Aufgehoben in der Volksabstimmung vom 11. März 2007 , mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 6. März 2008 ( BBl 2008 2493 Art. 1 Ziff. 10, 2007 7663 )."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "III. Titel: Politischer Stand der Bürger",
+      "section": "29",
+      "title": "",
+      "content": "Jeder Kantonsbürger kann unter den vom Gesetze bestimmten Bedingungen in anderen Gemeinden das Bürgerrecht erwerben. Angenommen in der Volksabstimmung vom 11. März 2007 , in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 6. März 2008 ( BBl 2008 2493 Art. 1 Ziff. 10, 2007 7663 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "IV. Titel: Ausübung der Volksrechte",
+      "section": "30",
+      "title": "",
+      "content": "1 Nebst ihren Befugnissen bei Wahlen und Abstimmungen sowie beim obligatorischen Verfassungsreferendum besitzen die Bürger das Initiativ- und das fakultative Referendumsrecht. 2 Das Gesetz regelt die Ausübung dieser Rechte sowie das Verfahren der Vernehmlassung und der Information der Bürger. Angenommen in der Volksabstimmung vom 24. Okt. 1993 , in Kraft seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Kapitel I:",
+      "section": "31",
+      "title": "",
+      "content": "1 3000 Stimmberechtigte können innert 90 Tagen ab deren Veröffentlichung im Amtsblatt verlangen, dass der Volksabstimmung unterbreitet werden: a. die Gesetze und Dekrete; b. die Konkordate, Verträge und Vereinbarungen, die Rechtsnormen enthalten; c. die Beschlüsse des Grossen Rates, welche eine ausserordentliche Ausgabe zur Folge haben, die als einmalige 0,75 Prozent oder als wiederkehrende Ausgabe 0,25 Prozent der Bruttogesamtausgaben der Verwaltungs- und Investitionsrechnung des letzten Verwaltungsjahres übersteigt. 2 Das Referendum kann auch von der Mehrheit des Grossen Rates verlangt werden. 3 Nicht der Volksabstimmung unterliegen: a. die Ausführungsgesetze (Art. 42 Abs. 2); b. die ordentlichen Ausgaben und die übrigen Beschlüsse. 4 Der Grosse Rat stellt die Ungültigkeit von Referenden fest, welche die von Verfassung und Gesetz gestellten Bedingungen nicht erfüllen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Kapitel I:",
+      "section": "32",
+      "title": "",
+      "content": "1 Die Gesetze, Verträge, Konkordate, Vereinbarungen oder Beschlüsse, die dem Referendum unterstellt sind, dürfen weder vor Ablauf der Referendumsfrist noch, gegebenenfalls, vor der Volksabstimmung in Kraft gesetzt werden. 2 Die Dekrete werden sofort in Kraft gesetzt. Falls 3000 Stimmberechtigte oder die Mehrheit des Grossen Rates es verlangen, sind sie im folgenden Jahr dem Volk zur Abstimmung zu unterbreiten. Werden sie nicht genehmigt, verlieren sie ihre Gültigkeit und können nicht mehr erneuert werden."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Kapitel II:",
+      "section": "33",
+      "title": "",
+      "content": "1 4000 Stimmberechtigte können die Ausarbeitung, die Annahme, die Abänderung oder die Aufhebung eines dem Referendum unterliegenden Gesetzes, Dekrets oder anderen Beschlusses verlangen, mit Ausnahme der Gesetze, Dekrete und Beschlüsse, über die das Volk seit weniger als vier Jahren abgestimmt hat, der bereits ausgeführten Beschlüsse und der Dekrete mit einer Gültigkeit unter einem Jahr. 2 Mit Ausnahme der in den Artikeln 34 Absatz 2 und 35 Absatz 1 genannten Fällen ist jede Volksinitiative innert drei Jahren nach deren Einreichung dem Volk zur Abstimmung zu unterbreiten. Diese Frist kann durch einen Beschluss des Grossen Rates höchstens um ein Jahr verlängert werden. 3 Der Grosse Rat stellt die Ungültigkeit einer Initiative fest, die: a. dem Bundesrecht oder der Kantonsverfassung widerspricht; b. mehr als eine Materie beinhaltet; c. die Einheit der Form nicht beachtet; d. nicht ausführbar ist; e. nicht in den Bereich eines der Initiative unterliegenden Erlasses fällt. 4 Wenn ein Initiativbegehren neue Staatsausgaben oder die Aufhebung bestehender Einnahmen zur Folge hat, welche das finanzielle Gleichgewicht gefährden, so wird der Grosse Rat die Initiative ergänzen, indem er neue Einnahmequellen, den Abbau staatlicher Aufgaben oder andere Sparmassnahmen vorschlägt."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Kapitel II:",
+      "section": "34",
+      "title": "",
+      "content": "1 Die Initiative kann, sofern sie nicht auf einen Beschluss abzielt, in der Form des ausgearbeiteten Entwurfes eingereicht werden. 2 Stimmt der Grosse Rat der Initiative zu, findet eine Volksabstimmung nur auf Begehren von 3000 Stimmberechtigten oder der absoluten Mehrheit des Grossen Rates statt. 3 Lehnt der Grosse Rat die Initiative ab, hat er diese unverändert dem Volk zur Abstimmung zu unterbreiten; er kann aber deren Verwerfung empfehlen oder ebenfalls einen Gegenentwurf ausarbeiten. 4 Nimmt der Grosse Rat einen Gegenentwurf an, werden die Stimmbürger eingeladen, sich auf dem gleichen Stimmzettel über folgende drei Fragen auszusprechen: a. Wollen Sie die Volksinitiative annehmen? b. Wollen Sie den Gegenentwurf annehmen? c. Falls beide Vorlagen die Mehrheit der gültig Stimmenden erhalten, soll die Initiative oder der Gegenentwurf in Kraft treten?"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Kapitel II:",
+      "section": "35",
+      "title": "",
+      "content": "1 Der Initiative in Form der allgemeinen Anregung wird vom Grossen Rat Folge gegeben, indem er entscheidet, ob die von ihm angenommenen oder abgeänderten Bestimmungen in die Verfassung oder in einen Gesetzes- oder Verwaltungserlass aufzunehmen sind; wird die Initiative in einem Gesetz oder einem Verwaltungserlass verwirklicht, unterliegt sie nur dann der Volksabstimmung, wenn 3000 Stimmberechtigte oder die Mehrheit des Grossen Rates es verlangen. 2 Lehnt der Grosse Rat die Initiative ab, unterbreitet er sie unverändert und mit seiner Stellungnahme dem Volk zur Abstimmung. 3 Verwirft das Volk die Initiative, wird sie abgeschrieben. 4 Nimmt das Volk die Initiative an, ist der Grosse Rat verpflichtet, ihr unverzüglich Folge zu geben. 5 Bei der Ausarbeitung der von der Initiative in Form der allgemeinen Anregung verlangten Bestimmungen hat der Grosse Rat den Absichten der Initianten zu entsprechen."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "V. Titel: Öffentliche Gewalten",
+      "section": "36",
+      "title": "",
+      "content": "Die öffentlichen Gewalten sind: a. Die gesetzgebende Gewalt. b. Die vollziehende und verwaltende Gewalt. c. Die richterliche Gewalt."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "I. Kapitel:",
+      "section": "37",
+      "title": "",
+      "content": "1 Unter Vorbehalt der dem Volk eingeräumten Rechte wird die gesetzgebende Gewalt vom Grossen Rat ausgeübt. 2 Er besitzt jede andere Befugnis, die ihm durch Verfassung oder Gesetz eingeräumt ist."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "I. Kapitel:",
+      "section": "38",
+      "title": "",
+      "content": "1 Der Grosse Rat arbeitet die Verfassungsbestimmungen, die Gesetze und die Dekrete aus. Vorbehalten bleiben die Artikel 31–35 und 100–106. 2 Unter Vorbehalt der Befugnisse des Volkes und Staatsrates, genehmigt er die Verträge und Konkordate und Konventionen. 3 Er übt die Rechte aus, die den Kantonen in den Artikeln 86, 89, 89 bis und 93 der Bundesverfassung vorbehalten sind und beantwortet die Vernehmlassungen des Bundes über atomare Einrichtungen. [BS 1 3; AS 1949 1511 , 1977 807 2228 ]. Den genannten Bestimmungen entsprechen heute die Art. 45, 136, 140, 141, 151, 159, 160 und 165 der BV vom 18. April 1999 ( SR 101 )."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "I. Kapitel:",
+      "section": "39",
+      "title": "",
+      "content": "1 Der Grosse Rat entscheidet über die Gültigkeit der Wahl seiner Mitglieder. 2 Er wählt das Kantonsgericht, dessen Präsidenten und Vizepräsidenten sowie die Mitglieder des Büros der Staatsanwaltschaft. Angenommen in der Volksabstimmung vom 25. Sept. 2017 , in Kraft seit 1. Febr. 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ( BBl 2018 33 Art. 3, 2017 5849 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "I. Kapitel:",
+      "section": "40",
+      "title": "",
+      "content": "1 Der Grosse Rat hat die Oberaufsicht über die Geschäftsführung des Staatsrates, der autonomen Körperschaften und Anstalten des öffentlichen Rechts, der Gerichtsbehörden sowie über die Vertreter des Staates in den Gesellschaften, an denen der Kanton eine Mehrheitsbeteiligung besitzt. Er prüft die Geschäftsführung und berät über deren Genehmigung. 2 Er kann jederzeit von der ausführenden Gewalt Rechenschaft über eine Handlung ihrer Verwaltung verlangen. 3 Das Gesetz kann gewisse Aufgaben des Staates autonomen Körperschaften oder Anstalten öffentlichen Rechts übertragen."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "",
+      "content": "Der Grosse Rat hat namentlich folgende Befugnisse: a. er beschliesst den Voranschlag und genehmigt die Rechnungen, die veröffentlicht werden; b. er beteiligt sich im Rahmen des Gesetzes an der Planung; c. er beschliesst die ausserordentlichen Ausgaben, bewilligt die Konzessionen und erteilt die Ermächtigung zu Liegenschaftstransaktionen, zur Aufnahme von Darlehen sowie zu Bürgschaften und anderen analogen Garantien unter Vorbehalt der in der Verfassung oder im Gesetz vorgesehenen Ausnahmen; d. er setzt die Gehälter der Magistraten, Beamten und Angestellten des Staates fest unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen; e. er übt das Begnadigungsrecht aus."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "",
+      "content": "1 Der Grosse Rat erlässt die Rechtsnormen in Form des Gesetzes, das grundsätzlich für eine unbegrenzte Dauer in Kraft gesetzt wird. Er kann indessen auch eine Inkraftsetzung mit begrenzter Dauer vorsehen. 2 Er erlässt in Form von Ausführungsgesetzen die zum Vollzug des übergeordneten Rechtes absolut notwendigen Bestimmungen. 3 Erfordern es die Umstände, so kann er jedoch auf dem Dekretsweg dringliche Bestimmungen von begrenzter Dauer erlassen (Art. 32 Abs. 2). 4 Der Grosse Rat behandelt alle übrigen Geschäfte in Form von Beschlüssen."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "",
+      "content": "1 Das Gesetz legt die Grundzüge der Organisation des Grossen Rates sowie seiner Beziehungen zum Staatsrat und zu den Gerichtsbehörden fest. Im Übrigen organisiert sich der Grosse Rat selbst. 2 Es regelt die Teilnahme der Mitglieder des Staatsrates an den Sitzungen des Grossen Rates und der parlamentarischen Kommissionen."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "",
+      "content": "1 Der Grosse Rat versammelt sich von Rechts wegen: a. zur konstituierenden Session am siebten Montag nach seiner Gesamterneuerung; b. zu den ordentlichen Sessionen gemäss den im Gesetz festgelegten Terminen. 2 Der Grosse Rat versammelt sich zu ausserordentlichen Sessionen: a. wenn er es selber beschliesst; b. auf Einladung des Staatsrates; c. auf Begehren von 20 Abgeordneten unter Angabe der zu behandelnden Gegenstände. Angenommen in der Volksabstimmung vom 19. Mai 2019 , in Kraft seit 1. Nov. 2020. Gewährleistungsbeschluss vom 11. März 2020 ( BBl 2020 4671 Art. 4 147 ). Angenommen in der Volksabstimmung vom 24. Sept. 2000 , in Kraft seit 1. Mai 2002. Gewährleistungsbeschluss vom 11. Dez. 2001 ( BBl 2001 6542 Art. 1 Ziff. 7 4879 )."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "",
+      "content": "1 Der Grosse Rat wählt für die Dauer eines Jahres einen Präsidenten und zwei Vizepräsidenten. 2 Der Grosse Rat verfügt über einen unabhängigen Parlamentsdienst. Angenommen in der Volksabstimmung vom 24. Sept. 2000 , in Kraft seit 1. Mai 2002. Gewährleistungsbeschluss vom 11. Dez. 2001 ( BBl 2001 6542 Art. 1 Ziff. 7 4879 )."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "",
+      "content": "1 Der Grosse Rat bezeichnet die ständigen und nicht ständigen Kommissionen, welche seine Beratungen vorbereiten. Diese Befugnis kann an das Büro delegiert werden. 2 Die Abgeordneten können politische Gruppen von mindestens fünf Mitgliedern bilden. 3 Grundsätzlich müssen die politischen Gruppen in den Kommissionen angemessen vertreten sein."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "",
+      "content": "1 Der Grosse Rat kann nur in Anwesenheit der absoluten Mehrheit seiner Mitglieder gültig beraten. 2 Er fasst seine Beschlüsse mit der absoluten Mehrheit."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "",
+      "content": "1 Die Sitzungen des Grossen Rates sind öffentlich. 2 Sofern es die Umstände erfordern, kann er jedoch geheime Verhandlungen beschliessen."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "",
+      "content": "1 Gesetzes- und Dekretsentwürfe werden in zwei Lesungen durchberaten. 2 Die Beschlüsse bilden Gegenstand einer einzigen Lesung. 3 Der Grosse Rat kann in allen Fällen eine einzige oder eine zusätzliche Lesung beschliessen. Angenommen in der Volksabstimmung vom 24. Sept. 2000 , in Kraft seit 1. Mai 2002. Gewährleistungsbeschluss vom 11. Dez. 2001 ( BBl 2001 6542 Art. 1 Ziff. 7 4879 )."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "",
+      "content": "1 Die Abgeordneten üben ihr Mandat frei aus. 2 Die Abgeordneten können ohne Ermächtigung des Grossen Rates für die von ihnen vor der Versammlung oder in Kommissionen gemachten Äusserungen nicht strafrechtlich verfolgt werden. 3 Ausser bei Ertappen auf frischer Tat können sie während den Sessionen ohne Ermächtigung der Versammlung nicht verhaftet werden."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "",
+      "content": "1 Jedem Mitglied des Grossen Rates steht das Recht auf Einreichung einer Initiative, einer Motion, eines Postulates, einer Interpellation, einer Resolution und einer einfachen Anfrage zu. 2 Das Gesetz umschreibt inhaltlich diese Rechte und regelt ihre Ausübung."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "II. Kapitel: Vollziehende Gewalt",
+      "section": "52",
+      "title": "",
+      "content": "1 Die Vollziehungs- und Verwaltungsgewalt ist einem aus fünf Mitgliedern gebildeten Staatsrate anvertraut. 2 Einer derselben wird aus den Wählern des Kantonsteiles ernannt, welcher die gegenwärtigen Bezirke Goms, Brig, Visp, Raron und Leuk umfasst; einer als jenen der Bezirke Siders, Sitten, Ering und Gundis, und einer aus jenen der Bezirke Martinach, Entremont, St. Moritz und Monthey. 3 Die zwei andern werden aus den sämtlichen Wählern des Kantons ernannt. Jedoch darf nicht mehr als ein Staatsrat aus den Wählern des nämlichen Bezirkes ernannt werden. 4 Die Mitglieder des Staatsrates werden am gleichen Tage wie die Mitglieder des Grossen Rates direkt vom Volke gewählt und treten ihr Amt am darauffolgenden ersten Mal an. Ihre Wahl erfolgt nach dem Mehrheitssystem. Der Staatsrat konstituiert sich alljährlich selbst. Der ausscheidende Präsident ist nicht unmittelbar wieder wählbar. 5 Die frei gewordene Stelle eines Staatsrates ist nach 60 Tagen wieder zu besetzen, insofern die Gesamterneuerung nicht innert vier Monaten erfolgt. 6 Die Wahl der Mitglieder des Staatsrates findet mittelst des gleichen Listenskrutiniums statt. Werden die Wahlverhandlungen am bestimmten Tage nicht vollendet, so sind dieselben am darauffolgenden dritten Sonntag wieder aufzunehmen. In diesem Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekanntgegeben. 7 Hat sich im ersten Wahlgange die absolute Mehrheit nicht auf so viele Personen vereinigt, als zu wählen sind, so findet ein zweiter Wahlgang statt. In diesem zweiten Wahlgang gelten diejenigen als gewählt, welche die meisten Stimmen, und wäre es auch nicht die absolute Mehrheit derselben, erhalten haben. Wenn jedoch im zweiten Wahlgang die Zahl der zu besetzenden Sitze jener der vorgeschlagenen Kandidaten entspricht, werden diese ohne Urnengang als gewählt erklärt. Die stille Wahl findet ebenfalls auf den ersten Wahlgang bei Ersatzwahlen Anwendung, sofern nur ein einziger Kandidat auftritt und nur ein Sitz wieder zu besetzen ist. 8 Ist die Zahl derjenigen, welche die absolute Mehrheit auf sich vereinigt haben, grösser als die Zahl der zu Wählenden, so gelten diejenigen, die die meisten Stimmen auf sich vereinigt haben, als gewählt. 9 Haben zwei oder mehrere Bürger des nämlichen Bezirkes die absolute Mehrheit erhalten, so gilt nur derjenige als gewählt, der die meisten Stimmen erhalten hat. 10 Bei Stimmengleichheit entscheidet das Los. Angenommen in der Volksabstimmung vom 26. Dez. 1920 , in Kraft seit 7. Jan. 1921 (Bd. XXVII 110; ABL 1921 10). Gewährleistungsbeschluss vom 17. Febr. 1921 ( AS 37 142 ; BBl 1921 I 141 ). Zweiter Satz anngenommen in der Volksabstimmung vom 19. Mai 2019 , in Kraft seit 1. Nov. 2020. Gewährleistungsbeschluss vom 11. März 2020 ( BBl 2020 4671 Art. 4 147 ). Angenommen in der Volksabstimmung vom 21. Jan. 1996 , in Kraft seit 1. Febr. 1997. Gewährleistungsbeschluss vom 5. Juni 1997 ( BBl 1997 III 955 Art. 1 Ziff. 5, I 1393 ). Angenommen in der Volksabstimmung vom 21. Jan. 1996 , in Kraft seit 1. Febr. 1997. Gewährleistungsbeschluss vom 5. Juni 1997 ( BBl 1997 III 955 Art. 1 Ziff. 5, I 1393 )."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "",
+      "content": "1 Der Staatsrat übt die vollziehende und verwaltende Gewalt aus und besitzt jede Befugnis, die ihm durch Verfassung oder Gesetz erteilt wird. 2 Er handelt als Kollegialbehörde. 3 Die wichtigen Geschäfte bleiben immer in seiner Zuständigkeit. 4 Er verteilt die Geschäfte unter die Departemente, deren Zahl und Befugnisse durch eine Verordnung, die der Genehmigung des Grossen Rates unterliegt, festgelegt werden. 5 Im Übrigen organisiert sich der Staatsrat selber."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "",
+      "content": "In seinen Beziehungen zum Grossen Rat verfügt der Staatsrat namentlich über folgende Befugnisse: a. er legt die Verfassungs-, Gesetzes-, Dekrets- und Beschlussentwürfe vor; b. er erstattet Bericht über die Volksinitiativen, die Initiativen, Motionen, Postulate und Resolutionen der Abgeordneten und antwortet auf ihre Interpellationen und Anfragen; c. er unterbreitet dem Grossen Rat den Entwurf des Voranschlages, die Staatsrechnung und den Verwaltungsbericht; d. er kann dem Grossen Rat Vorschläge unterbreiten; e. er unterbreitet dem Grossen Rat die Konkordats-, Vertrags- und Vereinbarungsentwürfe, die Rechtsnormen enthalten oder die in seine Zuständigkeit fallende Ausgaben zur Folge haben."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "",
+      "content": "Der Staatsrat übt namentlich folgende Verwaltungsbefugnisse aus: a. er ernennt das Staatspersonal unter Vorbehalt der im Gesetz vorgesehenen Ausnahmen; b. er überwacht die ihm unterstellten Behörden sowie die öffentlich-rechtlichen Körperschaften und Anstalten; c. er vertritt den Staat, schliesst die Verträge, Konkordate und Vereinbarungen öffentlichen Rechts ab und antwortet auf die vom Kanton verlangten Vernehmlassungen; d. er leitet die Verwaltung, plant und koordiniert ihre Tätigkeiten."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "",
+      "content": "1 Der Staatsrat gewährleistet die öffentliche Ordnung und verfügt zu diesem Zweck über die Polizei- und die kantonalen Truppen. 2 Er übt im Falle grosser und unmittelbar bevorstehender Gefahr die ausserordentliche Gewalt aus und benachrichtigt unverzüglich den Grossen Rat über die Massnahmen, die er trifft."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "",
+      "content": "1 Der Staatsrat erlässt in Reglementsform die zur Anwendung kantonaler Gesetze und Dekrete notwendigen Bestimmungen. 2 Das Gesetz kann dem Staatsrat die Befugnis zum Erlass von Verordnungen übertragen, indem es deren Zweck und die ihren Inhalt bestimmenden Grundsätze festlegt. Die Delegation muss sich auf einen genau umschriebenen Bereich beziehen. Die Verordnungen können der Genehmigung des Grossen Rates unterstellt werden. 3 Der Staatsrat behandelt die anderen Geschäfte in Form von Beschlüssen und Entscheiden."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "",
+      "content": "1 Der Staatsrat veröffentlicht die Rechtsnormen und setzt sie in Kraft, es sei denn, der Grosse Rat beschliesst darüber selber und sorgt für ihre Anwendung. 2 Er setzt die direktanwendbaren Verfassungsbestimmungen unmittelbar nach ihrer Genehmigung durch die Bundesversammlung in Kraft."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "",
+      "content": "1 Die Regierung hat in jedem Bezirk einen Regierungsstatthalter und einen Stellvertreter desselben. 2 Die Befugnisse des Regierungsstatthalters sind durch das Gesetz bestimmt."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "III. Kapitel: Richterliche Gewalt",
+      "section": "60",
+      "title": "",
+      "content": "1 Die richterliche Gewalt ist unabhängig. 2 und 3 … Aufgehoben in der Volksabstimmung vom 24. Okt. 1993 , mit Wirkung seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "III. Kapitel: Richterliche Gewalt",
+      "section": "61",
+      "title": "",
+      "content": "Das Kantonsgericht erstattet alljährlich dem Grossen Rate durch das Organ des Staatsrates Bericht über alle Zweige der Justizverwaltung."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "III. Kapitel: Richterliche Gewalt",
+      "section": "62",
+      "title": "",
+      "content": "1 Es besteht in jeder Gemeinde oder in jedem Amtsbezirke ein Richter und ein Richterstatthalter; für jeden Kreis ein Zivil-, ein Korrektions- und ein Kriminalgericht; und für den Kanton ein Kantonsgericht. 2 Die Mitglieder des Kantonsgerichtes sollen die Kenntnis der beiden Landessprachen besitzen."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "III. Kapitel: Richterliche Gewalt",
+      "section": "63",
+      "title": "",
+      "content": "1 Die Anzahl der Kreise, die Kompetenz der Gerichte, deren Zusammensetzung, die Wahl und Besoldungsweise der Richter sowie auch die Unverträglichkeit zwischen den richterlichen und andern Amtsverrichtungen werden durch das Gesetz bestimmt. 2 Es können nur vier Kreisgerichte bestehen. 3 Die Richter der Amtsbezirke oder der Gemeinden und deren Ersatzmänner werden durch die Wähler des Amtsbezirkes oder der Gemeinde gewählt. 4 Bei der Bildung der Amtsbezirke wird auf die Bevölkerung und die topographische Lage der Gemeinden gebührende Rücksicht genommen. 5 Die Abstimmung findet in jeder Gemeinde statt."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "III. Kapitel: Richterliche Gewalt",
+      "section": "64",
+      "title": "",
+      "content": "Der Gesetzgebung bleibt es vorbehalten, ein Handelsgericht und ein oder mehrere gewerbliche Schiedsgerichte einzuführen."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "III. Kapitel: Richterliche Gewalt",
+      "section": "65",
+      "title": "",
+      "content": "1 Es besteht ein Verwaltungsgericht sowie ein Gericht, das über Kompetenzstreitigkeiten zwischen der vollziehenden und der richterlichen Gewalt zu erkennen hat. 2 Diese Gerichte werden durch eigene Gesetze organisiert."
+    },
+    {
+      "provision_ref": "art65a",
+      "chapter": "III. Kapitel: Richterliche Gewalt",
+      "section": "65a",
+      "title": "",
+      "content": "1 Der Justizrat ist eine unabhängige Justizaufsichtsbehörde. 2 Er übt über die kantonalen Gerichtsbehörden und die Magistraten der Staatsanwaltschaft die administrative und disziplinarische Aufsicht aus. Die ausschliessliche Kompetenz des Grossen Rates, die von ihm gewählten Magistraten aus wichtigen Gründen ihres Amtes zu entheben, bleibt vorbehalten. 3 Er ist der Oberaufsicht des Grossen Rates unterstellt. 4 Der Grosse Rat wählt die Mitglieder des Justizrates, die nicht vom Gesetz bestimmt werden. 5 Ausserdem legt das Gesetz Folgendes fest: a. die Zusammensetzung, die Ernennungsweise und die Organisation des Justizrates; b. den Rechtsmittelweg gegen die Entscheide des Justizrates; c. die Beziehungen zwischen dem Justizrat und dem Grossen Rat, dem Kantonsgericht und der Staatsanwaltschaft; d. die Mitarbeit des Justizrates bei den richterlichen Wahlen. Angenommen in der Volksabstimmung vom 25. Sept. 2017 , in Kraft seit 1. Febr. 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ( BBl 2018 33 Art. 3, 2017 5849 )."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "I. Kapitel: Bezirksrat",
+      "section": "66",
+      "title": "",
+      "content": "1 Es besteht in jedem Bezirke ein auf vier Jahre gewählter Bezirksrat. 2 Der Gemeinderat wählt seine Delegierten auf denselben im Verhältnis von einem auf 300 Seelen Bevölkerung. 3 Der Bruch von 151 wird für ein Ganzes gerechnet. 4 Jede Gemeinde, welches immer ihre Bevölkerung sein mag, ernennt wenigstens einen Abgeordneten. 5 Der Regierungsstatthalter oder dessen Substitut führt beim Bezirksrate den Vor- Sitz."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "I. Kapitel: Bezirksrat",
+      "section": "67",
+      "title": "",
+      "content": "1 Der Bezirksrat Schliesst die Rechnungen des Bezirkes ab und verteilt die demselben zufallenden Lasten unter die Gemeinden, unter Vorbehalt des Rekurses an den Staatsrat. 2 Er nimmt alljährlich Kenntnis von dem Berichte über die Finanzverwaltung des Staates. 3 Er vertritt den Bezirk und wacht im besondern über dessen ökonomische Entwicklung und die Verwertung der landwirtschaftlichen Produkte desselben."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "I. Kapitel: Bezirksrat",
+      "section": "68",
+      "title": "",
+      "content": "Das Gesetz bestimmt die Organisation und die weitern Amtsbefugnisse dieses Rates."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "II. Kapitel:",
+      "section": "69",
+      "title": "",
+      "content": "Die Gemeinden ordnen innerhalb der Schranken der Verfassung und der Gesetze ihre Angelegenheiten selbständig. Sie sind für die Aufgaben zuständig, die örtlicher Natur sind und jene, die sie allein oder zusammen mit andern Gemeinden lösen können."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "II. Kapitel:",
+      "section": "70",
+      "title": "",
+      "content": "1 Die Gemeinden üben ihre Tätigkeit so aus, dass sie mit dem Gemeinwohl und dem Interesse der übrigen Gemeinwesen vereinbar ist. 2 Sie führen ihre eigenen sowie die ihnen durch Gesetz übertragenen Aufgaben aus. 3 Das Gemeindevermögen muss zweckmässig verwendet und sorgfältig verwaltet werden."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "II. Kapitel:",
+      "section": "71",
+      "title": "",
+      "content": "1 Die Gemeinden können sich zur gemeinsamen Lösung öffentlicher Aufgaben zusammenschliessen. Sie bilden zu diesem Zwecke öffentlich-rechtliche mit Rechtspersönlichkeit ausgestattete Verbände. Die Gemeinden können auch auf jede andere Art zusammenarbeiten. Die Grundsätze bezüglich dieser Zusammenarbeit, sowie der Gründung und der Tätigkeit dieser Gemeindeverbände werden durch das Gesetz bestimmt. 2 Der Staatsrat kann unter gewissen vom Gesetz bezeichneten Bedingungen Gemeinden zwingen, zusammenzuarbeiten oder sich zu öffentlich-rechtlichen Verbänden zusammenzuschliessen."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "II. Kapitel:",
+      "section": "72",
+      "title": "",
+      "content": "1 In jeder Gemeinde bestehen folgende Organe: a. eine Versammlung der in der Gemeinde stimmberechtigten Bürger; b. ein Gemeinderat, der von der Gemeindeversammlung gewählt wird. 2 Die Gemeindeversammlung wählt aus der Mitte der Gemeinderäte einen Präsidenten und einen Vize-Präsidenten. 3 Im Weiteren bestimmt das Gesetz die Grundsätze der Gemeindeorganisation."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "II. Kapitel:",
+      "section": "73",
+      "title": "",
+      "content": "1 Die Gemeindeversammlung kann, sofern die Gemeinde über 700 Einwohner zählt, einen Generalrat wählen, dessen Organisation und Befugnisse vom Gesetz bestimmt werden. 2 Gegen die Beschlüsse, die der Generalrat anstelle der Gemeindeversammlung fasst, steht den Bürgern das fakultative Referendum zu. Das Gesetz regelt die Ausübung dieses Rechts. 3 Diese Bestimmungen gelten nicht für die Burgergemeinde."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "II. Kapitel:",
+      "section": "74",
+      "title": "",
+      "content": "1 Die Gemeinden sind berechtigt, das Initiativrecht einzuführen. In den Gemeinden, die dieses Recht besitzen, können die Bürger an den Gemeinderat Initiativbegehren stellen in Form einer allgemeinen Anregung über den Erlass oder die Abänderung von Reglementen, die in die Zuständigkeit der Gemeindeversammlung fallen. 2 Das Gesetz regelt die Einführung und die Ausübung dieses Rechtes."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "",
+      "content": "1 Die Gemeinden sind innerhalb der Schranken des Artikels 69 der Aufsicht des Staatsrates unterstellt. Das Gesetz bestimmt die Art und Weise dieser Aufsicht, insbesondere was die Verwaltung betrifft. Sofern die Verfassung und die Gesetze nicht ausdrücklich etwas Gegenteiliges vorsehen, beschränkt sich die Überprüfungsbefugnis des Staatsrates auf die Gesetzmässigkeit. 2 Die von den Gemeinden ausgearbeiteten Reglemente müssen vom Staatsrat genehmigt werden. 3 Das Gesetz kann vorsehen, dass wichtige Vorhaben der Gemeinden der Homologation oder der Genehmigung des Staatsrates unterliegen. 4 Das Genehmigungsverfahren wird durch das Gesetz geregelt. Angenommen in der Volksabstimmung vom 26. Sept. 2004 , in Kraft seit 1. Febr. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ( BBl 2005 5995 Art. 1 Ziff. 6 2891 )."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "",
+      "content": "Als Gemeinden gelten: a. die Einwohnergemeinden, b. die Burgergemeinden, c. … Aufgehoben in der Volksabstimmung vom 10. Juni 1990 , mit Wirkung seit 1. Aug. 1993. Gewährleistungsbeschluss vom 3. Okt. 1991 ( BBl 1991 IV 198 Art. 1 Ziff. 7 II 1593 )."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "",
+      "content": "1 Die Einwohnergemeinde besteht aus den auf dem Gemeindegebiet wohnsässigen Personen. 2 Das Gebiet der Einwohnergemeinde ist unter Vorbehalt des Artikels 26 gewährleistet."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "",
+      "content": "1 Die Urversammlung setzt sich zusammen aus den in der Gemeinde stimmberechtigten Einwohnern. 2 Sie wählt einen Gemeinderat von 3 bis 15 Mitgliedern, den Präsidenten und Vize-Präsidenten und gegebenenfalls den Generalrat. 3 In den Gemeinden ohne Generalrat entscheidet die Urversammlung insbesondere über: a. die Gemeindereglemente, ausser in den durch das Gesetz bestimmten Ausnahmen; b. die wichtigen Vorhaben betreffend Verkauf, Gewährung von beschränkten dinglichen Rechten, Tausch, Verpachtung, Veräusserung von Vermögenswerten, Gewährung von Darlehen, Kreditaufnahmen, Leistung von Bürgschaften, Erteilung und Übertragung von Wasserkraftkonzessionen; c. die neuen nicht gebundenen Ausgaben, deren Höhe durch das Gesetz festzulegen ist; d. den Voranschlag und die Rechnung. 4 In den Gemeinden mit Generalrat tritt dieser an die Stelle der Urversammlung und übt mindestens deren Rechte aus, ausgenommen in Wahlangelegenheiten. 5 Das Gesetz bestimmt in beiden Fällen die weitem Zuständigkeiten Sowie die Ausübung dieser Rechte. Angenommen in der Volksabstimmung vom 26. Sept. 2004 , in Kraft seit 1. Febr. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ( BBl 2005 5995 Art. 1 Ziff. 6 2891 )."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "",
+      "content": "1 Dem Gemeinderat obliegen folgende Aufgaben: a. Er besorgt die allgemeine Verwaltung der Gemeinde; b. Er entwirft die Gemeindereglemente und sorgt für deren Anwendung; c. Er sorgt für die Vollziehung der kantonalen Gesetzgebung; d. Er ernennt die Angestellten; e. er erstellt den Entwurf des Voranschlages; f. Er erstellt die Rechnung. 2 In den Gemeinden ohne Burgerrat übt der Gemeinderat dessen Funktion aus. Angenommen in der Volksabstimmung vom 26. Sept. 2004 , in Kraft seit 1. Febr. 2006. Gewährleistungsbeschluss vom 6. Okt. 2005 ( BBl 2005 5995 Art. 1 Ziff. 6 2891 )."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "",
+      "content": "Die Burgergemeinde ist eine Körperschaft des öffentlichen Rechtes und hat als solche die ihr von der Gesetzgebung übertragenen Aufgaben im öffentlichen Interesse zu erfüllen."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "",
+      "content": "1 Die Burgerversammlung besteht aus den Burgern, welche im Gebiet der Burgergemeinde ihren Wohnsitz haben. Die Gesetzgebung kann die Ausübung bestimmter Rechte auf die im Kanton wohnsässigen Burger ausdehnen. 2 Die Burgerversammlung hat in Burgerangelegenheiten die gleichen Befugnisse wie die Urversammlung. Sie entscheidet überdies über die Aufnahme neuer Burger."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "",
+      "content": "1 Die Burgerversammlung ist berechtigt, die Bildung eines getrennten Burgerrates zu verlangen. Dieses Begehren muss gemäss den gesetzlichen Vorschriften am Ende einer Verwaltungsperiode gestellt werden. 2 Der Burgerrat besteht aus mindestens 3 und höchstens 9 Mitgliedern."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 10. Juni 1990 , mit Wirkung seit 1. Aug. 1993. Gewährleistungsbeschluss vom 3. Okt. 1991 ( BBl 1991 IV 198 Art. 1 Ziff. 7 II 1593 )."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "VII. Titel: Wahlmodus, Bedingungen der Wahlfähigkeit, Dauer der öffentlichen Ämter der öffentlichen Ämter",
+      "section": "84",
+      "title": "",
+      "content": "1 Der Grosse Rat setzt sich aus 130, unter die Bezirke zu verteilenden Abgeordneten und ebensovielen Ersatzmännern zusammen, die direkt vom Volk gewählt werden. 2 Der Bezirk Raron, der sich aus zwei Halb-Bezirken mit eigenen Organen und Befugnissen zusammensetzt, bildet zwei Wahlkreise. 3 Die Sitze werden wie folgt unter die Bezirke und Halb-Bezirke verteilt: Die Gesamtzahl der schweizerischen Wohnbevölkerung wird durch 130 geteilt. Der so erhaltene Quotient wird auf die nächsthöhere Zahl aufgerundet und bildet dann die Verteilungszahl. Jeder Bezirk oder Halb-Bezirk erhält sovielmal einen Abgeordneten und einen Ersatzmann zugeteilt, als die Verteilungszahl in der Zahl seiner schweizerischen Wohnbevölkerung enthalten ist. Werden durch diese Verteilung nicht alle Sitze ermittelt, so fallen die verbleibenden Sitze den Bezirken und Halb-Bezirken zu, welche die grössten Zahlenreste aufweisen. 4 Der Staatsrat setzt nach jeder Volkszählung die jedem Bezirk und Halb-Bezirk zuzuteilende Anzahl Sitze fest. 5 Die Volksabstimmung findet in den Gemeinden statt. 6 Die Wahlen erfolgen bezirks- und halbbezirksweise, und zwar nach dem Proportional-Wahlverfahren. Die Anwendungsart dieses Grundsatzes ist durch das Gesetz bestimmt. Angenommen in der Volksabstimmung vom 9. Juni 1985 , in Kraft seit 1. Jan. 1987. Gewährleistungsbeschluss vom 21. März 1986 ( BBl 1986 I 893 Art. 1 Ziff. 5 113 )."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "VII. Titel: Wahlmodus, Bedingungen der Wahlfähigkeit, Dauer der öffentlichen Ämter der öffentlichen Ämter",
+      "section": "85",
+      "title": "",
+      "content": "1 Der Grosse Rat, der Staatsrat, die Gerichtsbeamten, die Gemeinderäte und die Burgerräte sind für eine Amtsdauer von vier Jahren gewählt. 2 Der Präsident und der Vizepräsident des Staatsrates sind alljährlich einer Neuwahl unterworfen. Der Präsident kann nicht unmittelbar wieder gewählt werden."
+    },
+    {
+      "provision_ref": "art85a",
+      "chapter": "VII. Titel: Wahlmodus, Bedingungen der Wahlfähigkeit, Dauer der öffentlichen Ämter der öffentlichen Ämter",
+      "section": "85a",
+      "title": "",
+      "content": "1 Die Abgeordneten auf den Ständerat werden bei der ordentlichen Gesamterneuerung des Nationalrates direkt vom Volke gewählt. Diese Wahlen erfolgen im ganzen Kanton als einziger Wahlkreis nach dem Mehrheitssystem. 2 Die Wahl des Ständerates findet mittelst des gleichen Listenskrutiniums statt. Werden die Wahlen am bestimmten Tag nicht vollendet, so sind dieselben am darauffolgenden dritten Sonntag wieder aufzunehm. In diesem Falle wird das Ergebnis des ersten Wahlganges und die Wiederaufnahme der Wahlverhandlungen unverzüglich bekanntgegeben. 3 Hat sich im ersten Wahlgang die absolute Mehrheit nicht auf so viele Abgeordnete vereinigt, als zu wählen sind, so findet ein zweiter Wahlgang statt. In diesem zweiten Wahlgang gelten diejenigen als gewählt, welche die meisten Stimmen, und wäre es auch nicht die absolute Mehrheit derselben, erhalten haben. Wenn jedoch im zweiten Wahlgang die Zahl der zu wählenden Abgeordneten jener der vorgeschlagenen Kandidaten entspricht, werden diese ohne Urnengang als gewählt erklärt. Die stille Wahl findet ebenfalls auf den ersten Wahlgang bei Ersatzwahlen Anwendung, sofern nur ein einziger Kandidat auftritt und nur ein Sitz wieder zu besetzen ist. 4 Ist die Zahl derjenigen, welche die absolute Mehrheit erhalten haben, grösser als die Zahl der zu Wählenden, so gelten diejenigen, die die meisten Stimmen auf sich Vereinigt haben, als gewählt. 5 Bei Stimmengleichheit entscheidet das Los. Angenommen in der Volksabstimmung vom 26. Dez. 1920 , in Kraft seit 7. Jan. 1921 (Bd. XXVII 110; ABL 1921 10). Gewährleistungsbeschluss vom 17. Febr. 1921 ( AS 37 142 ; BBl 1921 I 141 ). Angenommen in der Volksabstimmung vom 11. März 1934 , in Kraft seit 6. Juli 1934 (Bd. XXXXIV 55 56). Gewährleistungsbeschluss vom 22. Juni 1934 ( AS 50 493 ; BBl 1934 I 969 ). Zweiter Satz anngenommen in der Volksabstimmung vom 19. Mai 2019 , in Kraft seit 1. Nov. 2020. Gewährleistungsbeschluss vom 11. März 2020 ( BBl 2020 4671 Art. 4 147 ). Angenommen in der Volksabstimmung vom 21. Jan. 1996 , in Kraft seit 1. Febr. 1997. Gewährleistungsbeschluss vom 5. Juni 1997 ( BBl 1997 III 955 Art. 1 Ziff. 5, I 1393 ). Angenommen in der Volksabstimmung vom 21. Jan. 1996 , in Kraft seit 1. Febr. 1997. Gewährleistungsbeschluss vom 5. Juni 1997 ( BBl 1997 III 955 Art. 1 Ziff. 5, I 1393 )."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "",
+      "content": "1 Die Wahl der Mitglieder und der Ersatzmänner des Grossen Rates findet für jede neue Amtsperiode am ersten Sonntag März statt. 2 Der neugewählte Grosse Rat tritt mit der Eröffnung der konstituierenden Session in Amtstätigkeit."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "",
+      "content": "1 Die Mitglieder des Generalrates werden vom Wahlvolk nach dem Proporzsystem gewählt. 2 Die Mitglieder des Gemeinde- und Burgerrates werden vom Wahlvolk nach dem Proporzsystem gewählt. In den Burgergemeinden und in den Einwohnergemeinden mit weniger als der im Gesetz festgelegten Einwohnerzahl kann das Wahlvolk mit der Mehrheit seiner Mitglieder unter den im Gesetz bestimmten Voraussetzungen einen Wechsel des Wahlsystems beschliessen. Das Majorzsystem wird in den Burgergemeinden und in den Einwohnergemeinden, welche dieses System im Zeitpunkt des Inkrafttretens der vorliegenden Reform kennen, beibehalten. 3 Der Präsident, der Vizepräsident, der Richter und der Vizerichter werden vom Wahlvolk nach dem Majorzsystem gewählt. 4 Das Gesetz bestimmt die Modalitäten der Wahl und das Datum des Urnengangs. Angenommen in der Volksabstimmung vom 21. Okt. 2007 , in Kraft seit 1. April 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ( BBl 2008 5787 Art. 1 Ziff. 3 1417 )."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "",
+      "content": "1 Die Bürger und Bürgerinnen üben ihre politischen Rechte mit der Erfüllung des 18. Altersjahres aus. 2 Alle Stimmfähigen sind in die öffentlichen Ämter wählbar. Angenommen in der Volksabstimmung vom 2. Juni 1991 , in Kraft seit 16. Aug. 1991. Gewährleistungsbeschluss vom 3. Okt. 1991 ( BBl 1991 IV 200 Art. 1 Ziff. 5 III 1057 )."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "",
+      "content": "1 … 2 Jeder Bürger kann nur in einer Einwohner- und Burgergemeinde das Stimmrecht ausüben. Angenommen in der Volksabstimmung vom 10. Juni 1990 , in Kraft seit 1. Aug. 1993. Gewährleistungsbeschluss vom 3. Okt. 1991 ( BBl 1991 IV 198 Art. 1 Ziff. 7 II 1593 ). Aufgehoben in der Volksabstimmung vom 24. Okt. 1993 , mit Wirkung seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "",
+      "content": "1 Das Gesetz regelt die Unvereinbarkeiten. 2 Es sucht namentlich zu verhindern, dass: a. ein Bürger gleichzeitig Funktionen von mehreren öffentlichen Gewalten ausübt; b. die gleiche Person zwei einander untergeordneten Organen angehört; c. die Mitglieder derselben Familie in der gleichen Behörde sitzen; d. der Bürger, der eine öffentliche Beamtung inne hat, noch andere Tätigkeiten ausübt, die sich bei der Erfüllung seiner Funktion nachteilig auswirken könnten. 3 Unter Vorbehalt gesetzlicher Ausnahmen gelten die Unvereinbarkeiten auch für die Ersatzmänner und die Substituten. 4 Das Gesetz kann andere Ausnahmen, namentlich für die Gemeindeordnung, vorsehen. 5 Nur ein einziges Mitglied des Staatsrates darf in den eidgenössischen Räten sitzen. Angenommen in der Volksabstimmung vom 24. Okt. 1993 , in Kraft seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 24. Okt. 1993 , mit Wirkung seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "",
+      "content": "Die Fälle des Ausschlusses vom Stimm- und Wahlrecht sind durch die Kantons- und Bundesgesetzgebung bestimmt."
+    },
+    {
+      "provision_ref": "art9399",
+      "section": "9399",
+      "title": "",
+      "content": "Aufgehoben in der Volksabstimmung vom 24. Okt. 1993 , mit Wirkung seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "VIII. Titel: Revision der Verfassung",
+      "section": "100",
+      "title": "",
+      "content": "1 6000 Stimmberechtigte können die Total- oder Teilrevision der Verfassung verlangen. 2 Jede Volksinitiative ist innert drei Jahren nach deren Einreichung dem Volk zur Abstimmung zu unterbreiten. Diese Frist kann durch eine Beschluss des Grossen Rates höchstens um ein Jahr verlängert werden. 3 Der Grosse Rat stellt die Ungültigkeit einer Initiative fest, die: a. dem Bundesrecht widerspricht; b. mehr als eine Materie beinhaltet; c. die Einheit der Form nicht beachtet; d. nicht in den Bereich der Verfassung fällt; e. nicht ausführbar ist. Angenommen in der Volksabstimmung vom 24. Okt. 1993 , in Kraft seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "VIII. Titel: Revision der Verfassung",
+      "section": "101",
+      "title": "",
+      "content": "1 Die Initiative in Form der allgemeinen Anregung wird mit einer Stellungnahme des Grossen Rates dem Volk zur Abstimmung unterbreitet. 2 Verwirft das Volk die Initiative, wird sie abgeschrieben. 3 Nimmt das Volk die Initiative an, ist der Grosse Rat verpflichtet, ihr unverzüglich Folge zu geben. 4 Bei der Ausarbeitung der von der Initiative in Form der allgemeinen Anregung verlangten Bestimmungen hat der Grosse Rat den Absichten der Initianten zu entsprechen. 5 Das Volk entscheidet gleichzeitig, ob im Falle der Annahme der Initiative die Totalrevision durch den Grossen Rat oder durch einen Verfassungsrat durchzuführen ist. Angenommen in der Volksabstimmung vom 24. Okt. 1993 , in Kraft seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "VIII. Titel: Revision der Verfassung",
+      "section": "102",
+      "title": "",
+      "content": "1 Die Teilrevision der Verfassung kann in Form eines ausgearbeiteten Entwurfes verlangt werden. 2 Der Grosse Rat kann die Ablehnung oder die Annahme empfehlen oder einen Gegenentwurf ausarbeiten. 3 Arbeitet der Grosse Rat einen Gegenentwurf aus, berät er darüber in zwei ordentlichen Sessionen. Er kann eine zusätzliche Lesung beschliessen. 4 Nimmt der Grosse Rat einen Gegenentwurf an, werden die Stimmberechtigten eingeladen, sich auf dem gleichen Stimmzettel über folgende drei Fragen auszusprechen: a. Wollen Sie die Volksinitiative annehmen? b. Wollen Sie den Gegenentwurf annehmen? c. Falls beide Vorlagen die absolute Mehrheit der Stimmenden erhalten, soll die Initiative oder der Gegenentwurf in Kraft treten? Angenommen in der Volksabstimmung vom 24. Okt. 1993 , in Kraft seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "",
+      "content": "1 Findet die Revision zufolge des Volksentscheides durch den Grossen Rat Statt, so wird dieselbe in zwei ordentlichen Sessionen beraten. 2 Findet dieselbe durch einen Verfassungsrat Statt, so wird sie in zwei Lesungen beraten. 3 Die Verfassungsratswahlen erfolgen auf der gleichen Grundlage wie die Wahl der Abgeordneten auf den Grossen Rat. Auf dieselben ist keiner der für die letztere vorgesehenen Unverträglichkeitsfälle anwendbar."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "",
+      "content": "1 Der Grosse Rat kann auch von sich aus eine Verfassungsrevision durchführen. 2 Die Abänderungen bilden zuerst Gegenstand einer Lesung über die Zweckmässigkeit, gefolgt von zwei Lesungen über den Text, und zwar in ordentlichen Sessionen. 3 Der Grosse Rat kann in jedem Fall eine zusätzliche Lesung beschliessen. Er kann auch verlangen, dass sich das Volk über verschiedene Varianten ausspricht. Angenommen in der Volksabstimmung vom 24. Okt. 1993 , in Kraft seit 1. Juni 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ( BBl 1995 III 567 Art. 1 Ziff. 5 I 969 )."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "",
+      "content": "Die durch den Grossen Rat oder durch einen Verfassungsrat revidierte Verfassung wird dem Volke zur Annahme oder Verwerfung unterbreitet."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "",
+      "content": "Bei den in Vollziehung der Artikel 102 und 105 angeordneten Abstimmungen entscheidet die absolute Mehrheit der an der Abstimmung teilnehmenden Bürger."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "",
+      "content": "1 Jedes aus einer Volksinitiative hervorgegangene Revisionsbegehren wird an den Grossen Rat gerichtet. 2 Die das Begehren unterstützenden Unterschriften werden gemeindeweise abgegeben und die Stimmberechtigung der Unterzeichner muss durch den Gemeindepräsidenten bescheinigt werden. Dieser hat sich auch von der Echtheit der ihm verdächtig scheinenden Unterschriften zu versichern."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "IX. Titel:",
+      "section": "108",
+      "title": "",
+      "content": "1 Die vom Grossen Rat vor dem Datum der Inkraftsetzung der neuen Verfassungsbestimmungen angenommenen Erlasse unterliegen gemäss dem bisherigen Artikel 30 der Kantonsverfassung dem obligatorischen Referendum. 2 Die bei der Staatskanzlei vor diesem Datum eingereichten Volksinitiativen unterliegen den alten Artikeln 31–35 oder den bisherigen Artikeln 101–107 der Kantonsverfassung. 3 Der Grosse Rat ist befugt, die Reihenfolge und die Nummerierung der bisherigen Artikel 49, 50, 55, 56 und 57 der Kantonsverfassung zu ändern, sofern der neue, die Unvereinbarkeiten regelnde Artikel 90 vom Volk nicht angenommen wird."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "IX. Titel:",
+      "section": "109",
+      "title": "",
+      "content": "Die bisherigen Artikel 49, 50, 55, 56, 57, 60 Absätze 2 und 3, 89 Absatz 1, 91, 93–99 bleiben bis zur Annahme des vom neuen Artikel 90 Absatz 1 vorgesehenen Gesetzes in Kraft. Bis zu diesem Datum ist der Grosse Rat jedoch befugt, die Reihenfolge und die Nummerierung der Artikel soweit als notwendig zu ändern."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,482 @@
+{
+  "id": "sr-362-0",
+  "type": "statute",
+  "title": "Verordnung vom 8. März 2013 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2013/179/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Gegenstand und Begriffe",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt: a. die Verantwortung für den nationalen Teil des Schengener Informationssystems (N-SIS), die Systemarchitektur des N-SIS sowie das Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros; b. die Zugriffsrechte und die Zuständigkeiten der Behörden in Bezug auf das N-SIS; b bis . die Kompetenz zum Abschluss von Verträgen von beschränkter Tragweite in Verbindung mit folgenden Verordnungen: 1. Verordnung (EU) 2018/1861, 2. Verordnung (EU) 2018/1862, 3. Verordnung (EU) 2019/817, 4. Verordnung (EU) 2019/818, 5. Verordnung (EU 2020/493; c. die Organisation und die Aufgaben des SIRENE-Büros; d. den Austausch von Zusatzinformationen durch das SIRENE-Büro; e. die Verfahren, die Voraussetzungen, die Massnahmen und die Kennzeichnung der Personen- und Sachausschreibungen im N-SIS; f. die Bearbeitung und die Aufbewahrungsdauer der Daten; g. die Rechte der betroffenen Personen; h. die Datensicherheit, die Datenschutzberatung sowie die Aufsicht über die Datenbearbeitung. 2 Diese Verordnung gilt, soweit die Schengen-Assoziierungsabkommen nichts anderes vorsehen. 3 Die Schengen-Assoziierungsabkommen sind in Anhang 1 aufgeführt. Eingefügt durch Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Aug. 2020 ( AS 2020 2841 ). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 ). Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006, ABl. L 312 vom 7.12.2018, S. 14; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15. Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 ). Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission, ABl. L 312 vom 7.12.2018, S. 56; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1. Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 ). Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/1240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, ABl. L 135 vom 22.5.2019, S. 27; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15. Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 ). Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, ABl. L 135 vom 22.5.2019, S. 85; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1. Verordnung (EU) 2020/493 des Europäischen Parlaments und des Rates vom 30. März 2020 über das System über gefälschte und echte Dokumente online (FADO) und zur Aufhebung der Gemeinsamen Massnahme 98/700/JI des Rates, Fassung gemäss ABl. L 107 vom 6.4.2020, S. 1."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "Für diese Verordnung gelten folgende Begriffe: a. Ausschreibung: ein Datensatz zum Zweck der Einreise- und Aufenthaltsverweigerung oder der Personen- und Sachfahndung, der im Schengener Informationssystem (SIS) gespeichert werden soll oder bereits gespeichert ist; b. ausgehende Ausschreibung: eine von den schweizerischen Behörden erfasste und freigegebene Ausschreibung; c. eingehende Ausschreibung: eine von den Behörden eines anderen Staates, der durch eines der Schengen-Assoziierungsabkommen gebunden ist (Schengen-Staat), erfasste und freigegebene Ausschreibung; d. Zusatzinformationen: nicht im SIS gespeicherte Informationen, die mit Ausschreibungen in Zusammenhang stehen und zwischen den SIRENE-Büros ausgetauscht werden; e. ergänzende Daten: im SIS gespeicherte und mit SIS-Ausschreibungen verknüpfte Daten; f. Drittstaat: jeder Staat, der nicht Mitgliedstaat der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) ist; g. Kennzeichnung: Markierung einer Ausschreibung, die zur Folge hat, dass die mit der Ausschreibung verlangte Massnahme von einem bestimmten Schengen-Staat nicht vollzogen wird oder dass dieser Staat stattdessen eine subsidiäre Massnahme vollzieht; h. SIRENE: Anträge auf Zusatzinformationen bei der nationalen Anlauf- und Verbindungsstelle ( S upplementary I nformation RE quest at the N ational E ntry); i. terroristische Straftaten : die in Anhang 1 a aufgeführten Straftaten; j. sonstige schwere Straftaten : die in Anhang 1 b aufgeführten Straftaten. Diese Abk. sind in Anhang 1 aufgeführt. Eingefügt durch Ziff. I der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ( AS 2021 368 ). Eingefügt durch Ziff. I der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ( AS 2021 368 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Kapitel: Systemverantwortung, Systemarchitektur sowie Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros Aktenverwaltungssystem des SIRENE-Büros",
+      "section": "3",
+      "title": "Systemverantwortung für das N-SIS",
+      "content": "1 Das Bundesamt für Polizei (fedpol) trägt die Verantwortung für das N-SIS. 2 Es legt in einem Bearbeitungsreglement namentlich die Massnahmen fest, die zur Gewährleistung des Datenschutzes und der Datensicherheit notwendig sind. 3 Die Kantone sind in ihrem Bereich für Massnahmen nach Absatz 2 verantwortlich."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Kapitel: Systemverantwortung, Systemarchitektur sowie Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros Aktenverwaltungssystem des SIRENE-Büros",
+      "section": "4",
+      "title": "Systemarchitektur",
+      "content": "1 Das N-SIS umfasst einen Bestand von Datensätzen, der eine Kopie der im zentralen System der EU enthaltenen Datensätze darstellt (nationale Kopie). 2 Es kommuniziert über ein verschlüsseltes Netz mit dem von der EU betriebenen zentralen System. 3 Die nationale Kopie dient insbesondere zur Abfrage im automatisierten Verfahren. 4 Die Bearbeitung von SIS-Daten erfolgt über das N-SIS. 5 Der Zugriff auf Daten des N-SIS erfolgt über: a. das automatisierte Polizeifahndungssystem (RIPOL) nach Artikel 15 BPI; b. das zentrale Migrationsinformationssystem (ZEMIS) nach Artikel 1 des Bundesgesetzes vom 20. Juni 2003 über das Informationssystem für den Ausländer- und den Asylbereich; c. das Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros; d. das Passagier-Informationssystem (API-System) nach Artikel 104 a des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005 (AIG). 6 Das Bearbeitungsreglement nach Artikel 3 Absatz 2 legt fest: a. in welchen Fällen Daten aus dem RIPOL, aus dem ZEMIS sowie aus dem Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros in einem automatisierten Verfahren in das N-SIS überführt werden; b. die automatisierte Übermittlung von Daten aus dem RIPOL und dem ZEMIS in das Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros, insbesondere bei festgestellten Mehrfachausschreibungen. SR 142.51 Eingefügt durch Anhang Ziff. 2 der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ( AS 2015 3035 ). SR 142.20 Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ( SR 170.512 ) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Kapitel: Systemverantwortung, Systemarchitektur sowie Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros Aktenverwaltungssystem des SIRENE-Büros",
+      "section": "5",
+      "title": "Geschäfts- und Aktenverwaltungssystem",
+      "content": "1 Das Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros wird als automatisiertes Geschäftsvorgangsbewältigungssystem geführt. Es dokumentiert die Tätigkeit des SIRENE-Büros und verwaltet die Unterlagen und Dossiers, die im Zusammenhang mit Ausschreibungen und dem Austausch von Zusatzinformationen stehen. 2 Das System enthält die ausgetauschten Zusatzinformationen sowie weitere Mitteilungen, die im Zusammenhang mit einer Ausschreibung stehen, insbesondere solche, die per Telefon, E-Mail, Brief und Fax an das SIRENE-Büro gerichtet sind oder von ihm ausgehen. Im System können die im Strafregister-Informationssystem (VOSTRA) einsehbaren Daten (Art. 21 Abs. 5 der VOSTRA-Verordnung vom 29. September 2006) gespeichert werden. 3 Die im System bearbeiteten Daten können nach Ausschreibungen, Personen oder Sachen erschlossen werden. Die Daten können mit dem N-SIS, dem RIPOL und dem ZEMIS verknüpft werden. 4 Fedpol erlässt ein Bearbeitungsreglement über das System. 5 Der Umfang der Zugriffs- und Bearbeitungsrechte der Mitarbeiterinnen und Mitarbeiter von fedpol, des Bundesamtes für Justiz (BJ) und des Staatssekretariates für Migration (SEM) hinsichtlich der Daten des Geschäfts- und Aktenverwaltungssystems des SIRENE-Büros ist in Anhang 2 festgelegt. SR 331 Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Kapitel: Berechtigungen der Behörden im N-SIS",
+      "section": "6",
+      "title": "Zur Meldung berechtigte Behörden",
+      "content": "Die folgenden Behörden sind zur Erfüllung ihrer Aufgaben nach Artikel 16 Absatz 2 BPI berechtigt, Ausschreibungen für die Verbreitung im SIS zu melden: a. die Behörden nach Artikel 16 Absatz 4 Buchstaben a–j BPI; b. die kantonalen Justizbehörden, Erbschaftsbehörden und Vormundschaftsbehörden, soweit sie Aufgaben nach Artikel 16 Absatz 2 Buchstaben c und d BPI wahrnehmen; c. die für den Vollzug der Landesverweisung zuständigen Behörden, soweit sie Aufgaben nach Artikel 16 Absatz 2 Buchstabe b BPI wahrnehmen. Eingefügt durch Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Kapitel: Berechtigungen der Behörden im N-SIS",
+      "section": "7",
+      "title": "Zugriffsberechtigte Behörden",
+      "content": "1 : a. bei fedpol: 1. der Rechtsdienst: zum Erlass von Entfernungs- und Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 4 und 68 Absatz 3 AIG, 2. die für das RIPOL zuständigen Dienststellen: zur Kontrolle und Freigabe von Personen- und Sachausschreibungen, 3. die Dienststellen, die für den Interpol-Schriftverkehr zuständig sind, sowie die Einsatzzentrale und das SIRENE-Büro: zur Wahrnehmung ihrer Aufgaben im Bereich des interkantonalen und internationalen polizeilichen Nachrichtenaustausches sowie zur Kontrolle und Freigabe von Personenausschreibungen, 4. die Bundeskriminalpolizei, 5. die Sektion Ausweisschriften und Nachforschungen nach vermissten Personen: für Nachforschungen im Zusammenhang mit dem Aufenthalt von Personen sowie der Bearbeitung von Meldungen über gestohlene, sonst abhanden gekommene oder ungültig gemachte Ausweise, 6. die für die Führung des automatisierten Fingerabdruckidentifikationssystems (AFIS) zuständige Dienststelle: zur Bearbeitung erkennungsdienstlicher Daten, 7. die Meldestelle Geldwäscherei; b. die Bundesanwaltschaft: im Rahmen ihrer Zuständigkeiten für die Bekämpfung internationaler Verbrechen und Vergehen sowie für die Verfolgung von Straftaten, die der Bundesgerichtsbarkeit unterstehen; c. im BJ: 1. der Direktionsbereich Internationale Rechtshilfe: im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981, 2. die Zentralbehörde zur Behandlung internationaler Kindesentführungen: im Zusammenhang mit ihren Aufgaben nach dem Übereinkommen vom 25. Oktober 1980 über die zivilrechtlichen Aspekte internationaler Kindesentführung; d. die kantonalen Polizei- und Justizbehörden sowie die zum Vollzug der Landesverweisung zuständigen Behörden; e. in der Eidgenössischen Zollverwaltung: 1. das Grenzwachtkorps, 2. die Hauptabteilung Zollfahndung: im Rahmen ihrer Aufgaben der Vorermittlung, Untersuchung, Strafverfolgung und Strafvollstreckung sowie der internationalen Amts- und Rechtshilfe, 3. die Zollstellen: – das Zollinspektorat: zur Überwachung und Kontrolle des Personen- und des Warenverkehrs, – alle anderen Zollstellen: zur Überwachung und Kontrolle des Warenverkehrs; f. der Direktionsbereich Zuwanderung und Integration im SEM: 1. für die Prüfung eines Visumsgesuchs, die Erteilung eines Aufenthaltstitels, die Anordnung und Überprüfung von Einreise- und Aufenthaltsverweigerungen gegenüber Drittstaatsangehörigen sowie für die Kontrolle und Freigabe solcher Ausschreibungen im SIS, 2. für den systematischen Abgleich von Daten des API-Systems mit Daten des SIS zur Verbesserung der Grenzkontrollen und zur wirksamen Bekämpfung der rechtswidrigen Einreisen in den Schengen-Raum und der rechtswidrigen Durchreisen durch die internationalen Transitzonen der Flughäfen, 3. im Rahmen von Identifikationsmassnahmen und Sicherheitsüberprüfungen; g. die schweizerischen Vertretungen im Ausland: zur Prüfung eines Visumsgesuchs; h. die für den Vollzug des Nachrichtendienstgesetzes vom 25. September 2015 (NDG) zuständigen Einheiten des Nachrichtendienstes des Bundes: zur Feststellung des Aufenthaltsorts von Personen und des Standorts von Fahrzeugen sowie zur verdeckten Registrierung oder zur gezielten Kontrolle von Personen und Fahrzeugen nach Massgabe ihrer Aufgaben im Rahmen des NDG; i. die kantonalen Migrationsbehörden: 1. für die Prüfung eines Visumsgesuchs, die Erteilung eines Aufenthaltstitels sowie zur Überprüfung von Ausschreibungen zur Einreise- und Aufenthaltsverweigerung gegenüber Drittstaatsangehörigen im SIS, 2. im Rahmen von Identifikationsmassnahmen und Sicherheitsüberprüfungen; j. die Strassenverkehrsämter: zur Überprüfung, ob das ihnen vorgeführte Fahrzeug gestohlen oder sonst abhanden gekommen ist oder ob es zur Beweissicherung in Strafverfahren gesucht wird. 2 Der Umfang der Zugriffs- und Bearbeitungsrechte der Behörden hinsichtlich der Ausschreibungskategorien im SIS ist in Anhang 3 Kapitel 1 festgelegt. Fassung gemäss Anhang Ziff. 2 der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ( AS 2015 3035 ). SR 142.20 SR 351.1 SR 0.211.230.02 Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4615 ). Fassung gemäss Anhang Ziff. 2 der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ( AS 2015 3035 ). Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). Eingefügt durch Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ( AS 2019 1257 ). Fassung gemäss Anhang 4 Ziff. II 8 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ( AS 2017 4151 ). SR 121 Fassung gemäss Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ( AS 2019 1257 )."
+    },
+    {
+      "provision_ref": "art7a",
+      "chapter": "36",
+      "section": "7a",
+      "title": "a Abschluss völkerrechtlicher Verträge im Zusammenhang mit dem Schengener Informationssystem",
+      "content": "1 Fedpol ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7 a des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 (RVOG) darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnungen (EU) 2018/1861 und (EU) 2018/1862 erlassen wurden und Folgendes regeln: a. die Aufgaben des SIRENE-Büros und den Austausch von Zusatzinformationen in Form eines Handbuchs mit der Bezeichnung «SIRENE-Handbuch», (Art. 8 Abs. 4 der Verordnungen (EU) 2018/1861 und (EU) 2018/1862); b. den gemeinsamen Standard, Protokolle und das technische Verfahren für das N-SIS (Art. 9 Abs. 5 der Verordnungen (EU) 2018/1861 und (EU) 2018/1862); c. den Inhalt der Protokolle zu automatisierten Abfragen von Fahrzeugen im System zur «Automatischen Fahrzeugfahndung und Verkehrsüberwachung (AFV)» (Art. 12 Abs. 8 der Verordnung (EU) 2018/1862); d. die technischen Vorschriften für die Eingabe, Aktualisierung, Löschung und Abfrage der Daten und Zusatzinformationen (Art. 20 Abs. 3 der Verordnung (EU) 2018/1861 und Art. 20 Abs. 4, 26 Abs. 6, 32 Abs. 9, 34 Abs. 3, 36 Abs. 6 und 62 Abs. 4 der Verordnung (EU) 2018/1862); e. Vorschriften zur Kategorisierung von Personenausschreibungen, Arten von Fällen und zur Eingabe der Daten bei Verknüpfung mit Sachausschreibungen (Art. 32 Abs. 9 der Verordnung (EU) 2018/1862); f. Mindestqualitätsstandards und technische Spezifikationen zu Lichtbildern, Gesichtsbildern, daktyloskopischen Daten und DNA-Profilen, (Art. 32 Abs. 4 der Verordnung (EU) 2018/1861 und Art. 42 Abs. 5 der Verordnung (EU) 2018/1862); g. technische Vorschriften zur Eingabe und Weiterverarbeitung von Daten zur Behandlung von Fällen von Identitätsmissbrauch (Art. 47 Abs. 4 der Verordnung (EU) 2018/1861 und Art. 62 Abs. 4 der Verordnung (EU) 2018/1862); h. technische Vorschriften für die Verknüpfung von Ausschreibungen (Art. 48 Absatz 6 der Verordnung (EU) 2018/1861 und Art. 63 Abs. 6 der Verordnung (EU) 2018/1862). 2 Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7 a RVOG darstellen und sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnungen (EU) 2018/1861 und (EU) 2018/1862 erlassen wurden und Folgendes regeln: a. weitere Umstände, in denen Lichtbilder und Gesichtsbilder zur Identifizierung von Personen genutzt werden dürfen (Art. 33 Abs. 4 der Verordnung (EU) 2018/1861); b. neue Unterkategorien von Sachen (Art. 38 Abs. 3 der Verordnung (EU) 2018/1862). SR 172.010 Siehe Fussnote zu Art. 1 Abs. 1 Bst. b bis Ziff. 1 Siehe Fussnote zu Art. 1 Abs. 1 Bst. b bis Ziff. 2"
+    },
+    {
+      "provision_ref": "art7b",
+      "chapter": "36",
+      "section": "7b",
+      "title": "b Abschluss völkerrechtlicher Verträge im Zusammenhang mit der Interoperabilität zwischen den Informationssystemen der Zusammenarbeit von Schengen/Dublin",
+      "content": "Fedpol ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7 a RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnungen (EU) 2019/817 und (EU) 2019/818 erlassen wurden und Folgendes regeln: a. die technischen Einzelheiten zu den Nutzerprofilen für das Europäische Suchportal (ESP; Art. 8 Abs. 2 der Verordnungen [EU] 2019/817 und [EU] 2019/818); b. Vorschriften für die Erstellung von Verknüpfungen zwischen Daten aus unterschiedlichen Informationssystemen (Art. 28 Abs. 7 der Verordnungen (EU) 2019/817 und (EU) 2019/818); c. Modalitäten der Zusammenarbeit im Falle eines Sicherheitsvorfalls zwischen den betroffenen Schengen-Staaten, der ETIAS-Zentralstelle, Europol und eu-LISA (Art. 43 Abs. 5 der Verordnungen (EU) 2019/817 und (EU) 2019/818); d. das technische Verfahren für Abfragen der Schengen/Dublin-Informationssysteme und deren Komponenten, von Europol-Daten und Interpol-Datenbanken durch das ESP und das Format der vom ESP erteilten Antworten (Art. 9 Abs. 7 der Verordnungen [EU] 2019/817 und [EU] 2019/818); e. die Leistungsanforderungen und praktischen Vorkehrungen für die Überwachung der Leistung des Gemeinsamen Dienstes für den Abgleich biometrischer Daten (sBMS; Art. 13 Abs. 5 der Verordnungen [EU] 2019/817 und [EU] 2019/818); f. die Spezifikationen der technischen Lösung zur Verwaltung von Anträgen der Nutzer auf Zugang und zur Erleichterung der Erhebung der aufgeführten Informationen für die Zwecke der Erstellung von Berichten und Statistiken (Art. 74 Abs. 10 der Verordnung [EU] 2019/818 und Art. 78 Abs. 10 der Verordnung [EU] 2019/817). 2 Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zu den Verordnungen (EU) 2019/817 und (EU) 2019/818, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7 a RVOG darstellen und sofern die delegierten Rechtsakte gestützt auf Artikel 39 Absatz 5 der Verordnungen (EU) 2019/817 und (EU) 2019/818 erlassen wurden und den Betrieb des zentralen Speichers für Berichte und Statistiken (CRRS), einschliesslich spezifischer Garantien für die Verarbeitung personenbezogener Daten und die für den Speicher geltenden Sicherheitsvorschriften, regeln. SR 172.010 Siehe Fussnoten zu Art. 1 Abs. 1 Bst. b bis Ziff. 3 Siehe Fussnoten zu Art. 1 Abs. 1 Bst. b bis Ziff. 4 Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 ). Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 ). Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 ). Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 ). Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ( AS 2021 504 )."
+    },
+    {
+      "provision_ref": "art7c",
+      "section": "7c",
+      "title": "c Abschluss völkerrechtlicher Verträge im Zusammenhang mit dem System über gefälschte und echte Dokumente online (FADO)",
+      "content": "Fedpol ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7 a RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf Artikel 6 Absatz 1 der Verordnung (EU) 2020/493 erlassen wurden und Folgendes regeln: a. die Systemarchitektur; b. die technischen Spezifikationen für die Eingabe von Informationen und für deren Speicherung; c. die Verfahren für die Kontrolle und Überprüfung der im FADO-System enthaltenen Informationen. SR 172.010 Siehe Fussnote zu Art. 1 Abs. 1 Bst. b bis Ziff. 5"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "4. Kapitel: SIRENE-Büro",
+      "section": "8",
+      "title": "Organisation",
+      "content": "1 Fedpol führt das schweizerische SIRENE-Büro. Es kann organisatorisch-technische Weisungen erlassen, welche die Aufgaben des SIRENE-Büros konkretisieren. 2 Das SIRENE-Büro ist Anlauf- und Verbindungsstelle für: a. die verschiedenen Behörden der Schweiz; b. die SIRENE-Büros und weitere für die SIS-Zusammenarbeit zuständige Behörden der Schengen-Staaten. 3 Es stellt einen 24-Stunden-Bereitschaftsdienst sicher. Fassung gemäss Ziff. I der V vom 17. Aug. 2016, in Kraft seit 1. Sept. 2016 ( AS 2016 2945 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Kapitel: SIRENE-Büro",
+      "section": "9",
+      "title": "Aufgaben",
+      "content": "Das SIRENE-Büro ist mit folgenden Aufgaben betraut: a. Es ist zuständig für die Konsultationsverfahren der Schweizer Behörden sowie diejenigen der anderen Schengen-Staaten im Rahmen einer Ausschreibung. b. Es gibt auf Anordnung des BJ Ausschreibungen zur Festnahme zum Zweck der Auslieferung frei. c. Es gibt alle übrigen Personenausschreibungen frei; ausgenommen sind die Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung durch das SEM. d. Es überprüft die ausgehenden Ausschreibungen samt ergänzenden Daten sowie die Zusatzinformationen auf ihre formelle Zulässigkeit, Richtigkeit, Vollständigkeit und Aktualität; ausgenommen sind die Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung durch das SEM. e. Es veranlasst die Kennzeichnung eingehender Ausschreibungen zur Festnahme zum Zweck der Auslieferung auf Anordnung des BJ. f. Es veranlasst die Kennzeichnung eingehender Ausschreibungen von Vermissten und eingehender Ausschreibungen zwecks verdeckter Registrierung oder gezielter Kontrolle. g. Es kennzeichnet ausgehende Ausschreibungen auf Verlangen anderer SIRENE-Büros. h. Es führt den Meinungsaustausch nach Artikel 13 Absatz 4 auf Anordnung der ausschreibenden Behörde durch. i. Es führt den Meinungsaustausch nach Artikel 40 Absatz 1 auf Anordnung der ausschreibenden Behörde durch. j. Es ist verantwortlich für den Empfang, den Austausch und die Aufbewahrung von Zusatzinformationen. k. Es berät und unterstützt die Behörden des Bundes und der Kantone sowie die internationalen Partner im Zusammenhang mit dem SIS. l. Es nimmt Verknüpfungen nach Artikel 14 vor. m. Es prüft, ob Mehrfachausschreibungen bestehen. n. Es führt das Verfahren für Fälle des Missbrauchs der Identität einer Person durch und ergänzt ausgehende Ausschreibungen nach Artikel 42."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "10",
+      "title": "Voraussetzung für die Datenfreigabe",
+      "content": "Eine Ausschreibung kann nur freigegeben werden, wenn der Datensatz bereits im ZEMIS oder im RIPOL erfasst ist."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "11",
+      "title": "Daten",
+      "content": "1 Die im SIS gespeicherten Personen- und Sachdaten sind in Anhang 3 Kapitel 2 abschliessend aufgeführt. 2 Bei Personenausschreibungen sind alle Daten nach Anhang 3 Kapitel 2 Ziffer 2.1 zu erfassen, soweit sie verfügbar sind. Zwingend zu erfassen sind folgende Daten: a. Nachnamen und Vornamen, alternativ Geburtsnamen, frühere Namen oder Aliasnamen; b. Geburtsdatum; c. Geschlecht; d. Ausschreibungsgrund; e. die zu ergreifende Massnahme; f. Fingerabdrücke und Personenbilder, sofern vorhanden. 3 Bei Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung sind zusätzlich die zugrunde liegende Verfügung oder das zugrunde liegende Urteil zu erfassen sowie eine Bezugnahme auf die Entscheidung, die der Ausschreibung zugrunde liegt. Eingefügt durch Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art11a",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "11a",
+      "title": "a Abfrage anhand daktyloskopischer Daten",
+      "content": "Eine Abfrage nur anhand daktyloskopischer Daten darf erfolgen: a. zu Identifikationszwecken, wenn die Identität der Person nicht anhand von Daten zu deren Identität festgestellt werden kann; oder b. wenn diese an Tatorten terroristischer oder sonstiger schwerer Straftaten aufgefunden wurden, sie mit hoher Wahrscheinlichkeit einem Täter oder einer Täterin zuzuordnen sind und die Abfrage gleichzeitig im AFIS erfolgt. Eingefügt durch Ziff. I der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ( AS 2021 368 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "12",
+      "title": "Personenausschreibungen über andere Fahndungskanäle",
+      "content": "Ausschreibungen im SIS und der diesbezügliche Informationsaustausch haben immer Vorrang vor Ausschreibungen und dem Informationsaustausch über Interpol oder andere internationale Fahndungskanäle."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "13",
+      "title": "Kennzeichnung",
+      "content": "1 Das SIRENE-Büro verlangt vom SIRENE-Büro des ausschreibenden Schengen-Staates die Kennzeichnung einer eingehenden Ausschreibung einer vermissten Person oder einer Person oder Sache zwecks verdeckter Registrierung oder gezielter Kontrolle, wenn die Ausschreibung nicht vereinbar ist mit: a. dem schweizerischen Recht; b. den sich aus völkerrechtlichen Verträgen ergebenden Verpflichtungen; oder c. wesentlichen nationalen Interessen. 2 Es verlangt die Kennzeichnung einer Ausschreibung einer Person zur Festnahme zum Zweck der Auslieferung, wenn nach den anwendbaren völkerrechtlichen Verträgen ein Grund für die Ablehnung der Auslieferung gegeben ist und das schweizerische Recht die Auslieferung nicht zulässt. 3 Die Kennzeichnung hat zur Folge, dass die in der Ausschreibung verlangte Massnahme in der Schweiz nicht vollzogen wird. 4 Verlangt der ausschreibende Schengen-Staat in besonders dringenden und schwerwiegenden Fällen den Vollzug der Massnahme, so leitet das SIRENE-Büro dieses Ersuchen unverzüglich an die für die Bearbeitung der Ausschreibung zuständige schweizerische Behörde weiter. Diese überprüft ihre ursprüngliche Forderung auf Kennzeichnung der Ausschreibung."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Verknüpfungen zwischen Ausschreibungen",
+      "content": "1 Das SIRENE-Büro kann zwei oder mehr ausgehende Ausschreibungen miteinander verknüpfen, wenn dafür eine eindeutige operationelle Notwendigkeit besteht. 2 Eine Verknüpfung hat keine Auswirkungen auf die zu ergreifende Massnahme oder auf die Aufbewahrungsdauer der miteinander verknüpften Ausschreibungen. 3 Die Verknüpfung bewirkt keine Änderung der Zugriffsrechte. 4 Verknüpfungen sind für Behörden nur dann ersichtlich, wenn sie über ein Zugriffsrecht auf die entsprechend verknüpften Ausschreibungen verfügen. 5 Ist eine von einem anderen Schengen-Staat vorgenommene Verknüpfung zwischen Ausschreibungen nicht mit dem schweizerischen Recht oder mit den internationalen Verpflichtungen der Schweiz vereinbar, so muss das SIRENE-Büro die erforderlichen Massnahmen ergreifen, um sicherzustellen, dass die Verknüpfung für die schweizerischen Behörden nicht ersichtlich ist."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Austausch von Zusatzinformationen",
+      "content": "1 Das SIRENE-Büro tauscht im Einklang mit den Bestimmungen des SIRENE-Handbuchs in den folgenden Fällen mit anderen SIRENE-Büros und den zuständigen Schweizer Behörden Zusatzinformationen aus, die im Zusammenhang mit der Ausschreibung erforderlich sind: a. bei Freigabe einer Ausschreibung; b. nach einem Treffer, damit die geeigneten Massnahmen ergriffen werden können; c. in Fällen, in denen die erforderlichen Massnahmen nicht ergriffen werden können; d. bei Fragen der Qualität der Daten; e. bei Fragen der Kompatibilität und Priorität von Ausschreibungen; f. in Fällen, in denen Ausschreibungen verknüpft werden; g. in Fällen des Missbrauchs der Identität einer Person; h. bei Fragen des Auskunftsrechts; i. im Rahmen von Konsultationsverfahren vor Erteilung eines Aufenthaltstitels für zur Einreise- und Aufenthaltsverweigerung ausgeschriebene Drittstaatsangehörige oder zur Prüfung, ob ausreichend Gründe für die Einziehung des Aufenthaltstitels vorliegen, wenn Drittstaatsangehörige über einen gültigen Aufenthaltstitel eines EU-Staates verfügen, aber zur Einreise- und Aufenthaltsverweigerung ausgeschrieben sind. 2 Der Austausch von Zusatzinformationen erfolgt ausschliesslich im Einzelfall. Vorbehalten bleibt Artikel 26. Siehe Fussnote zu Art. 8 Abs. 1."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "2. Abschnitt: Verfahren",
+      "section": "16",
+      "title": "Personenausschreibungen",
+      "content": "1 Die Behörden erfassen die Personenausschreibung im RIPOL oder im ZEMIS und übermitteln dem SIRENE-Büro alle relevanten Zusatzinformationen. 2 ... 3 In dringenden Fällen richten sich die Behörden nach Absatz 1 direkt an das SIRENE-Büro. 4 Vorbehalten bleiben die speziell geregelten Verfahren für Ausschreibungen zur Festnahme zum Zweck der Auslieferung (Art. 24 und 25). Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). Aufgehoben durch Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, mit Wirkung seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "2. Abschnitt: Verfahren",
+      "section": "17",
+      "title": "Sachausschreibungen",
+      "content": "1 Die Behörden erfassen die Sachausschreibungen im RIPOL und übermitteln diese dem Fachbereich RIPOL Sachfahndung und ungeklärte Straftaten. Die Sachausschreibungen sind sofort im SIS sichtbar. 2 Sind die Voraussetzungen für eine Ausschreibung erfüllt, so gibt der Fachbereich RIPOL Sachfahndung und ungeklärte Straftaten die Daten frei, und die Ausschreibung bleibt bestehen. Weist der Fachbereich die Daten an die ausschreibende Behörde zurück, so wird die Ausschreibung unverzüglich automatisch gelöscht. 3 Sachausschreibungen werden durch das RIPOL automatisch im SIS ausgeschrieben, wenn sie über eines der folgenden Informationssysteme erfasst wurden: a. über das Informationssystem Verkehrszulassung (IVZ) nach den Artikeln 89 a –89 h des Strassenverkehrsgesetzes vom 19. Dezember 1958; b. über das Informationssystem Ausweisschriften (ISA) nach Artikel 11 des Ausweisgesetzes vom 22. Juni 2001; c. über das Informationssystem für Reisepapiere (ISR) nach Artikel 111 AIG. Fassung gemäss Anhang 4 Ziff. II 3 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ( AS 2018 4997 ). SR 741.01 SR 143.1 SR 142.20"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "2. Abschnitt: Verfahren",
+      "section": "18",
+      "title": "Verfahren bei einem Treffer in der Schweiz",
+      "content": "1 Ergibt eine Abfrage nach einer Person oder einer Sache, dass diese ausgeschrieben ist, so kontaktiert die abfragende Behörde unverzüglich das SIRENE-Büro. Sie übermittelt dem SIRENE-Büro schriftlich alle im Zusammenhang mit der Ausschreibung erforderlichen Informationen, insbesondere: a. Personalien oder Identifikationsmerkmale der Gegenstände; b. Abfragezeitpunkt und -umstände; c. ergriffene Massnahmen. 2 Das SIRENE-Büro holt auf Ersuchen der abfragenden Behörde Zusatzinformationen beim SIRENE-Büro des ausschreibenden Staates ein. Es teilt der abfragenden Behörde die übermittelten Zusatzinformationen mit und berät sie im Zusammenhang mit den zu treffenden Massnahmen. 3 Es informiert unverzüglich das BJ, wenn eine zur Festnahme zum Zweck der Auslieferung ausgeschriebene Person angehalten wird. 4 Es informiert unverzüglich den Rechtsdienst fedpol, wenn eine Person angehalten wird, die nach Artikel 67 Absatz 4 oder 68 Absatz 3 AIG zur Einreise- und Aufenthaltsverweigerung ausgeschrieben ist. 5 Es informiert unverzüglich die zuständige Vollzugsbehörde, wenn eine Person angehalten wird, die zur Landesverweisung ausgeschrieben ist. SR 142.20 Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). Eingefügt durch Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Verfahren bei einem Treffer im Ausland",
+      "content": "1 Bei ausländischen Treffermeldungen im Zusammenhang mit einer schweizerischen Ausschreibung kontaktiert das SIRENE-Büro die ausschreibende Behörde und spricht mit ihr die zu treffenden Massnahmen ab. 2 Das SIRENE-Büro fordert bei Bedarf von der ausschreibenden Behörde Zusatzinformationen an und übermittelt diese an das SIRENE-Büro des Schengen-Staates, in dem der Treffer erfolgt ist. 3 Bei einer Ausschreibung zur Einreise- und Aufenthaltsverweigerung kann die Kontaktnahme nach Absatz 1 unterbleiben, wenn die in einer Ausschreibung vorgesehene Massnahme ergriffen wurde."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "1. Abschnitt: Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung zur Einreise- und Aufenthaltsverweigerung",
+      "section": "20",
+      "title": "Voraussetzung",
+      "content": "Drittstaatsangehörige können nur zur Einreise- und Aufenthaltsverweigerung ausgeschrieben werden, wenn der entsprechende Entscheid einer Verwaltungs- oder einer Justizbehörde vorliegt. Die Ausschreibung der Landesverweisung im SIS wird vom urteilenden Gericht angeordnet. Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "1. Abschnitt: Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung zur Einreise- und Aufenthaltsverweigerung",
+      "section": "21",
+      "title": "Ausschreibungsverfahren",
+      "content": "1 Das SEM erfasst die Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung im ZEMIS. Es kann die im AFIS vorhandenen biometrischen erkennungsdienstlichen Daten automatisiert an das N-SIS liefern. 1bis Die für den Vollzug der Landesverweisung zuständigen Behörden stellen die Ausschreibung der betroffenen Person im RIPOL sicher. 2 Für die vom Rechtsdienst fedpol nach den Artikeln 67 Absatz 4 und 68 Absatz 3 AIG verfügten Einreiseverbote richtet sich das Ausschreibungsverfahren nach Artikel 16 Absatz 1. 3 Das SEM, der Rechtsdienst fedpol und die für den Vollzug der Landesverweisung zuständigen Behörden stellen sicher, dass das SIRENE-Büro zum Zweck des Austauschs von Zusatzinformationen die erforderlichen Informationen zu ihren Entscheiden unverzüglich, spätestens aber zwölf Stunden nach Eingang der Anfrage, erhält. Fassung gemäss Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ( AS 2019 1257 ). Eingefügt durch Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). SR 142.20 Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "1. Abschnitt: Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung zur Einreise- und Aufenthaltsverweigerung",
+      "section": "22",
+      "title": "Massnahmen",
+      "content": "1 Im Trefferfall an der Grenze wird die Einreise verweigert, sofern nicht das Verfahren nach Absatz 3 zur Anwendung gelangt. 2 Im Trefferfall im Inland bestimmen die für den Vollzug des AIG oder der Landesverweisung zuständigen Behörden die zu ergreifende Massnahme im Einzelfall nach den anwendbaren Rechtsgrundlagen, sofern nicht das Verfahren nach Absatz 3 zur Anwendung gelangt. 3 Sind Drittstaatsangehörige ausgeschrieben, die in Anwendung des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit oder des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation Freizügigkeit geniessen, so konsultiert das SIRENE-Büro den ausschreibenden Schengen-Staat, um den schweizerischen Behörden unverzüglich die Gründe, die zu einer Ausschreibung geführt haben, mitzuteilen. SR 142.20 Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). SR 0.142.112.681 SR 0.632.31"
+    },
+    {
+      "provision_ref": "art22a",
+      "section": "22a",
+      "title": ". 22 a Aufgaben der für den Vollzug der Ausschreibungen zuständigen Behörden",
+      "content": "1 Die für den Vollzug der Ausschreibung zur Einreiseverweigerung zuständigen Behörden prüfen, ob die Voraussetzungen für eine Ausschreibung im SIS erfüllt sind. 2 Sie übermitteln dem SIRENE-Büro die folgenden Dokumente und Angaben: a. das Urteil oder die Verfügung, die dem Verbot der Einreise zugrunde liegt; b. den Entscheid, der dieses Verbot auf den Schengenraum ausdehnt; c. eine Zusammenfassung der Gründe für die Massnahmen; und d. erkennungsdienstliche Angaben zur ausgeschriebenen Person, sofern vorhanden. 3 Sie nehmen die ihnen vom SIRENE-Büro mitgeteilten Änderungen von Personalien im System vor. 4 Sie nehmen die mitgeteilten Änderungen bezüglich der Ausschreibung und bezüglich der Verfügungen und Urteile, die der Ausschreibung zugrunde liegen, im System vor. 5 Sie stellen ihre Erreichbarkeit sicher. Eingefügt durch Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Abschnitt: Ausschreibungen von Personen zur Festnahme zum Zweck der Auslieferung der Auslieferung",
+      "section": "23",
+      "title": "Voraussetzungen",
+      "content": "Die Ausschreibung von Personen zur Festnahme zum Zweck der Auslieferung kann nur erfolgen: a. auf Anordnung des BJ; und b. wenn ein Haftbefehl, eine Urkunde mit gleicher Rechtswirkung oder ein rechtskräftiges und vollstreckbares Urteil vorliegt."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "2. Abschnitt: Ausschreibungen von Personen zur Festnahme zum Zweck der Auslieferung der Auslieferung",
+      "section": "24",
+      "title": "Ausschreibungsverfahren",
+      "content": "1 Das BJ handelt auf schriftlichen Antrag der kantonalen oder der eidgenössischen Strafverfolgungs-, Gerichts- oder Strafvollstreckungsbehörde. 2 Es übermittelt dem SIRENE-Büro die erforderlichen Angaben zur Freigabe der Ausschreibung. 3 Stellt das SIRENE-Büro fest, dass die Ausschreibungsunterlagen unvollständig oder mangelhaft sind, so benachrichtigt es unverzüglich das BJ. 4 Das BJ stellt sicher, dass das SIRENE-Büro zum Zweck des Austauschs von Zusatzinformationen jederzeit Einsicht in die Originaldokumente nehmen kann."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "2. Abschnitt: Ausschreibungen von Personen zur Festnahme zum Zweck der Auslieferung der Auslieferung",
+      "section": "25",
+      "title": "Dringlichkeitsverfahren",
+      "content": "1 Duldet die Ausschreibung keinen Aufschub, so kann das BJ sie gegenüber dem SIRENE-Büro auch per E-Mail, per Fax oder telefonisch anordnen. 2 In dringenden Fällen ausserhalb der Bürozeiten kann die Behörde nach Artikel 24 Absatz 1 ihr Ausschreibungsersuchen direkt an das SIRENE-Büro richten. 3 Wird das Ausschreibungsersuchen direkt an das SIRENE-Büro gerichtet, so nimmt dieses Rücksprache mit dem BJ und gibt die Ausschreibung auf dessen Anordnung frei. 4 Fehlen Dokumente oder Daten oder sind sie mangelhaft, so nimmt das SIRENE-Büro mit den zuständigen Behörden des Bundes oder der Kantone Rücksprache. 5 Das schriftliche Ersuchen und die entsprechenden Dokumente sind in jedem Fall spätestens am nächsten Werktag dem BJ nachzureichen; andernfalls wird die Ausschreibung wieder gelöscht."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "2. Abschnitt: Ausschreibungen von Personen zur Festnahme zum Zweck der Auslieferung der Auslieferung",
+      "section": "26",
+      "title": "Zusatzinformationen",
+      "content": "1 Das SIRENE-Büro informiert sämtliche Schengen-Staaten im Wege des Austausches von Zusatzinformationen automatisch über neue Ausschreibungen von Personen zur Festnahme zum Zweck der Auslieferung. 2 Das SIRENE-Büro übermittelt an alle Schengen-Staaten gleichzeitig mit der Freigabe der Ausschreibung die folgenden Zusatzinformationen: a. die um Festnahme ersuchende Behörde; b. das Vorliegen eines Haftbefehls, einer Urkunde mit gleicher Rechtswirkung oder eines rechtskräftigen und vollstreckbaren Urteils; c. die Art und die rechtliche Würdigung der Straftat; d. die Beschreibung der Umstände, unter denen die Straftat begangen wurde, einschliesslich der Zeit, des Orts und der Art der Teilnahme; e. soweit möglich die Folgen der Straftat; f. alle sonstigen Informationen nach Anhang 4, die für die Vollstreckung der Ausschreibung erforderlich oder von Nutzen sind. 3 Übermittelt werden dürfen ausschliesslich die Informationen nach Anhang 4."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "2. Abschnitt: Ausschreibungen von Personen zur Festnahme zum Zweck der Auslieferung der Auslieferung",
+      "section": "27",
+      "title": "Umwandlung von gekennzeichneten Ausschreibungen",
+      "content": "Verlangt ein Schengen-Staat die Kennzeichnung einer ausgehenden Ausschreibung, so wandelt das SIRENE-Büro nach Rücksprache mit dem BJ die Ausschreibung für diesen Staat in eine Ausschreibung zur Aufenthaltsnachforschung um."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "3. Abschnitt: Ausschreibungen von Vermissten",
+      "section": "28",
+      "title": "Vermisste",
+      "content": "Personen können ausgeschrieben werden als: a. Vermisste, die im Interesse ihres eigenen Schutzes oder zur Gefahrenabwehr angehalten und in Gewahrsam genommen werden müssen; oder b. Vermisste, deren Aufenthalt ermittelt wird."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "3. Abschnitt: Ausschreibungen von Vermissten",
+      "section": "29",
+      "title": "Voraussetzungen",
+      "content": "Personen dürfen nur dann als Vermisste nach Artikel 28 Buchstabe a ausgeschrieben werden, wenn sie: a. aufgrund der Anordnung einer zuständigen Behörde zwangsweise untergebracht werden müssen; oder b. minderjährig sind."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "3. Abschnitt: Ausschreibungen von Vermissten",
+      "section": "30",
+      "title": "Massnahmen",
+      "content": "1 Das SIRENE-Büro teilt dem ausschreibenden Schengen-Staat den Aufenthaltsort der Person mit. Bei volljährigen Vermissten bedarf die Mitteilung des Aufenthaltsortes der Zustimmung der betroffenen Person. 2 Verweigert eine volljährige vermisste Person die Zustimmung zur Mitteilung des Aufenthaltsortes, so teilt das SIRENE-Büro dem ausschreibenden Schengen-Staat lediglich mit, dass die Person gefunden wurde. 3 Erhält das SIRENE-Büro von einem anderen SIRENE-Büro eine Mitteilung nach Absatz 1 oder 2, so leitet es diese der ausschreibenden Behörde weiter und ersucht um Löschung der entsprechenden Ausschreibung. 4 Personen, die nach Artikel 28 Buchstabe a ausgeschrieben sind, dürfen in Gewahrsam genommen und an der Weiterreise gehindert werden, wenn die Voraussetzungen für eine zwangsweise Unterbringung gemäss der schweizerischen Gesetzgebung erfüllt sind. Die Erfüllung der Voraussetzungen ist in jedem Einzelfall konkret zu prüfen. 5 Sind die Voraussetzungen für eine zwangsweise Unterbringung nicht erfüllt, so dürfen minderjährige Vermisste in Gewahrsam genommen und an der Weiterreise gehindert werden, wenn eine Person, der die elterliche Sorge zusteht, dies verlangt hat."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "4. Abschnitt: Ausschreibungen von Personen, die im Hinblick auf ihre Teilnahme an einem Strafverfahren gesucht werden an einem Strafverfahren gesucht werden",
+      "section": "31",
+      "title": "Voraussetzungen",
+      "content": "1 Die Ausschreibung von Personen im Hinblick auf ihre Teilnahme an einem Strafverfahren kann nur auf Antrag einer Strafverfolgungs- oder einer Gerichtsbehörde erfolgen. 2 Es dürfen ausschliesslich folgende Personen ausgeschrieben werden: a. Zeuginnen und Zeugen; b. Beschuldigte, die im Rahmen eines Strafverfahrens vor der Strafverfolgungsbehörde oder vor Gericht erscheinen müssen; c. Beschuldigte oder Verurteilte, denen ein Strafurteil, andere Schriftstücke oder die Ladung zum Antritt einer Freiheitsstrafe zugestellt werden müssen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "4. Abschnitt: Ausschreibungen von Personen, die im Hinblick auf ihre Teilnahme an einem Strafverfahren gesucht werden an einem Strafverfahren gesucht werden",
+      "section": "32",
+      "title": "Massnahme",
+      "content": "Das SIRENE-Büro teilt dem ausschreibenden Schengen-Staat den Wohnsitz oder Aufenthaltsort der Person mit."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "5. Abschnitt: Personen- und Sachausschreibungen zum Zweck der verdeckten Registrierung oder der gezielten Kontrolle",
+      "section": "33",
+      "title": "Voraussetzungen",
+      "content": "1 Zum Zweck der verdeckten Registrierung oder der gezielten Kontrolle können Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container ausgeschrieben werden. 2 Die Ausschreibung von Personen zwecks verdeckter Registrierung oder gezielter Kontrolle ist nur zulässig, soweit das Bundesrecht oder das kantonale Recht diese zur Strafverfolgung, zur Abwehr von Gefahren für die öffentliche Sicherheit oder zur Wahrung der inneren oder äusseren Sicherheit der Schweiz vorsehen und wenn: a. tatsächliche Anhaltspunkte dafür vorliegen, dass die betroffene Person eine schwere Straftat plant oder begeht; b. die Gesamtbeurteilung einer Person, insbesondere aufgrund der bisher von ihr begangenen Straftaten, erwarten lässt, dass sie auch künftig schwere Straftaten begehen wird; oder c. tatsächliche Anhaltspunkte dafür vorliegen, dass von der betroffenen Person eine erhebliche Gefährdung oder andere erhebliche Gefahren für die innere oder äussere Sicherheit ausgehen. 3 Das SIRENE-Büro informiert die anderen Schengen-Staaten über Ausschreibungen nach Absatz 2 Buchstabe c. 4 Die Ausschreibung von Fahrzeugen, Wasserfahrzeugen, Luftfahrzeugen und Containern zwecks verdeckter Registrierung oder gezielter Kontrolle ist nur zulässig, soweit das Bundesrecht oder das kantonale Recht diese vorsehen und wenn tatsächliche Anhaltspunkte dafür vorliegen, dass eine Verbindung zu schweren Straftaten oder zu erheblichen Gefahren nach Absatz 2 bestehen. 5 Als schwere Straftaten im Sinne der Absätze 2 und 4 gelten die Straftaten nach Artikel 286 Absatz 2 der Strafprozessordnung. SR 312.0"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "5. Abschnitt: Personen- und Sachausschreibungen zum Zweck der verdeckten Registrierung oder der gezielten Kontrolle",
+      "section": "34",
+      "title": "Massnahmen",
+      "content": "1 Die zuständigen Behörden können folgende Informationen, die sie anlässlich von polizeilichen Überprüfungen erhoben haben, über das SIRENE-Büro an den ausschreibenden Schengen-Staat übermitteln lassen: a. Ort, Zeit und Anlass der Kontrolle; b. Reiseweg und Reiseziel; c. Begleitpersonen oder Insassen des Fahrzeugs, Wasserfahrzeugs oder Luftfahrzeugs, bei denen begründeterweise davon ausgegangen werden kann, dass sie mit der betreffenden Person in Verbindung stehen; d. benutztes Fahrzeug, Wasserfahrzeug, Luftfahrzeug oder benutzter Container; e. mitgeführte Sachen; f. Umstände des Auffindens der Person oder des Fahrzeugs, Wasserfahrzeugs, Luftfahrzeugs oder Containers. 2 Eine Behörde kann Daten nur übermitteln lassen, wenn sie selber verdeckte Registrierungen oder gezielte Kontrollen vornehmen kann. 3 Hat sie keine Befugnis, gezielte Kontrollen vorzunehmen, so sind die Informationen im Sinne einer verdeckten Registrierung zu übermitteln, sofern die Behörde verdeckte Registrierungen vornehmen darf."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "6. Abschnitt: Sachausschreibungen zur Sicherstellung oder Beweissicherung in Strafverfahren in Strafverfahren",
+      "section": "35",
+      "title": "Voraussetzungen",
+      "content": "Folgende Gegenstände können zur Sicherstellung oder Beweissicherung in Strafverfahren ausgeschrieben werden: a. Motorfahrzeuge mit einem Hubraum von mehr als 50 cm 3 , Wasserfahrzeuge und Luftfahrzeuge; b. Anhänger mit einem Leergewicht von mehr als 750 kg, Wohnwagen, industrielle Ausrüstungen, Aussenbordmotoren und Container; c. Feuerwaffen; d. gestohlene, unterschlagene oder sonst abhanden gekommene Blankodokumente; e. gestohlene, unterschlagene, sonst abhanden gekommene oder für ungültig erklärte ausgefüllte Identitätsdokumente wie Pässe, Personalausweise, Führerausweise, Aufenthaltstitel und Reisedokumente; f. gestohlene, unterschlagene, sonst abhanden gekommene oder für ungültig erklärte Fahrzeugpapiere und Motorfahrzeug-Kennzeichen; g. Banknoten; h. gestohlene, unterschlagene, sonst abhanden gekommene oder für ungültig erklärte Wertpapiere und Zahlungsmittel wie Cheques, Kreditkarten, Obligationen, Aktien und Anteilspapiere."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "6. Abschnitt: Sachausschreibungen zur Sicherstellung oder Beweissicherung in Strafverfahren in Strafverfahren",
+      "section": "36",
+      "title": "Massnahmen",
+      "content": "Bei einem Treffer stimmt das SIRENE-Büro die erforderlichen Massnahmen mit dem SIRENE-Büro des ausschreibenden Schengen-Staates ab. Zu diesem Zweck können auch Personendaten übermittelt werden."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "1. Abschnitt: Datenbearbeitung und -aufbewahrung",
+      "section": "37",
+      "title": "Bearbeitungsgrundsatz",
+      "content": "1 Daten dürfen nur durch die Behörde, welche die Daten im SIS ausgeschrieben hat, geändert, ergänzt, berichtigt, aktualisiert oder gelöscht werden. 2 Ausgenommen sind Prüfungen von Mehrfachausschreibungen durch das SIRENE-Büro nach Artikel 9 Buchstabe m und Ergänzungen von Ausschreibungen in Fällen des Missbrauchs der Identität einer Person nach Artikel 9 Buchstabe n."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "1. Abschnitt: Datenbearbeitung und -aufbewahrung",
+      "section": "38",
+      "title": "Bearbeitung zu anderen Zwecken",
+      "content": "1 Jede Bearbeitung der in einer eingehenden Ausschreibung enthaltenen Information zu einem anderen Zweck als jenem, zu dem die Ausschreibung eingegeben wurde, benötigt die Zustimmung des ausschreibenden Schengen-Staates und muss in Verbindung mit einem spezifischen Fall stehen. 2 Die Bearbeitung ist nur zulässig: a. zur Abwehr einer schwerwiegenden und unmittelbar bevorstehenden Gefahr für die öffentliche Sicherheit und Ordnung; b. aus schwerwiegenden Gründen der inneren Sicherheit; oder c. zur Verhütung einer schweren Straftat. 3 Als schwere Straftaten im Sinne von Absatz 2 Buchstabe c gelten die Straftaten nach Artikel 286 Absatz 2 der Strafprozessordnung. SR 312.0"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "1. Abschnitt: Datenbearbeitung und -aufbewahrung",
+      "section": "39",
+      "title": "Qualität der Daten",
+      "content": "1 Die ausschreibende Behörde ist für die Richtigkeit und Aktualität der Daten sowie die Rechtmässigkeit der Eingabe in das SIS verantwortlich. 2 Bestehen Anhaltspunkte, dass Daten unrichtig sind oder unrechtmässig bearbeitet wurden, so ist dies dem SIRENE-Büro unverzüglich mitzuteilen; die diesbezüglichen Dokumente sind ihm schriftlich zu übermitteln. 3 Wird bei einer ausgehenden Ausschreibung bekannt, dass Daten unrichtig sind oder eine unrechtmässige Bearbeitung erfolgte, so informiert das SIRENE-Büro unverzüglich die für die Ausschreibung zuständige Behörde. Diese nimmt die erforderlichen Anpassungen im ZEMIS oder im RIPOL vor. Bei einer eingehenden Ausschreibung leitet das SIRENE-Büro dem ausschreibenden Schengen-Staat die Information innerhalb von zehn Tagen weiter. Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "1. Abschnitt: Datenbearbeitung und -aufbewahrung",
+      "section": "40",
+      "title": "Unterscheidung von Personen mit ähnlichen Merkmalen",
+      "content": "1 Das SIRENE-Büro setzt sich mit den anderen SIRENE-Büros oder der ausschreibenden Behörde in Verbindung, falls bei der Erfassung oder Freigabe einer neuen Ausschreibung festgestellt wird, dass bereits eine Person mit denselben Identitätsmerkmalen ausgeschrieben ist. Es überprüft, ob es sich um dieselbe Person handelt. 2 Stellt sich bei der Überprüfung heraus, dass es sich bei der neu ausgeschriebenen Person tatsächlich um die bereits ausgeschriebene handelt, so wendet das SIRENE-Büro das Verfahren nach Artikel 41 an. 3 Stellt sich bei der Überprüfung heraus, dass es sich um zwei verschiedene Personen handelt, so müssen der neuen Ausschreibung die erforderlichen Informationen zur Verhinderung einer falschen Identifizierung hinzugefügt werden."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "1. Abschnitt: Datenbearbeitung und -aufbewahrung",
+      "section": "41",
+      "title": "Mehrfachausschreibungen",
+      "content": "1 Eine Person oder Sache kann nicht Gegenstand von mehr als einer ausgehenden Ausschreibung sein. 2 Wird bei der Ausschreibung einer Person oder Sache festgestellt, dass diese bereits Gegenstand einer ausgehenden Ausschreibung ist, so ermittelt das SIRENE-Büro den Vorrang der Ausschreibungen anhand des SIRENE-Handbuchs und nach Rücksprache mit den ausschreibenden Behörden. 3 Wird bei der Ausschreibung einer Person festgestellt, dass diese bereits Gegenstand einer eingehenden Ausschreibung ist, so stimmt sich das SIRENE-Büro über die Aufnahme der neuen Ausschreibung mit dem SIRENE-Büro des Schengen-Staates ab, der als erster die Person ausgeschrieben hat. 4 Verlangt ein Schengen-Staat eine Abstimmung zwischen einer eigenen und einer bestehenden ausgehenden Ausschreibung, so führt das SIRENE-Büro nach Absprache mit der ausschreibenden Behörde den Meinungsaustausch. Siehe Fussnote zu Art. 8 Abs. 1."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Vorgehen bei Fällen des Missbrauchs der Identität einer Person",
+      "content": "1 Behauptet eine Person, nicht die ausgeschriebene Person zu sein, so tauschen die SIRENE-Büros Zusatzinformationen aus. Ergibt die Überprüfung, dass es sich tatsächlich um zwei verschiedene Personen handelt, so ersucht das SIRENE-Büro, dass die betreffende Personalie gelöscht wird, oder ergänzt die Ausschreibung um Daten über die Person, deren Identität missbraucht wurde, sofern ihre ausdrückliche Genehmigung vorliegt. 2 Daten zu Personen, deren Identität missbraucht wurde, dürfen nur zu folgenden Zwecken verwendet werden: a. um die Unterscheidung zwischen der Person, deren Identität missbraucht wurde, und der tatsächlich ausgeschriebenen Person zu ermöglichen; b. um der Person, deren Identität missbraucht wurde, zu ermöglichen, ihre Identität zu beweisen und nachzuweisen, dass ihre Identität missbraucht wurde. 3 Zu Personen, deren Identität missbraucht wurde, dürfen ausschliesslich die folgenden Personendaten erfasst und bearbeitet werden: a. Nachnamen und Vornamen, Geburtsnamen und frühere Namen sowie Aliasnamen; b. besondere unveränderliche körperliche Merkmale; c. Geburtsdatum und -ort; d. Geschlecht; e. Fotos; f. Fingerabdrücke; g. Staatsangehörigkeiten; h. Nummern und Ausstellungsdaten von Ausweisen. 4 Die Daten nach Absatz 3 werden zum selben Zeitpunkt wie die entsprechende Ausschreibung oder auf Antrag der betreffenden Person gelöscht. 5 Die Daten nach Absatz 3 sind für Behörden nur dann ersichtlich, wenn sie über ein Zugriffsrecht auf die entsprechende Ausschreibung verfügen."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Dauer der Personenausschreibungen",
+      "content": "1 Personenausschreibungen müssen gelöscht werden, wenn der Zweck der Ausschreibung erfüllt ist. 2 Sie werden nach drei Jahren automatisch gelöscht. Personenausschreibungen zum Zweck der verdeckten Registrierung oder der gezielten Kontrolle werden nach einem Jahr automatisch gelöscht. 3 Das SIRENE-Büro, die für den Vollzug der Landesverweisung zuständigen Behörden und, für Ausschreibungen von Drittstaatsangehörigen zur Einreise- und Aufenthaltsverweigerung, das SEM werden mit einem Vorlauf von vier Monaten automatisch auf die im System programmierte Löschung hingewiesen. 4 Das SIRENE-Büro prüft in Absprache mit der im RIPOL ausschreibenden Behörde die Erforderlichkeit einer Verlängerung, bevor die Ausschreibung automatisch gelöscht wird. 5 Eine Ausschreibung kann verlängert werden, wenn dies für ihren Zweck erforderlich ist. Voraussetzung dafür ist eine individuelle Bewertung; diese ist zu protokollieren. 6 Im Fall einer Verlängerung gelten die Absätze 1–3 entsprechend. Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 )."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Dauer der Sachausschreibungen",
+      "content": "1 Sachausschreibungen müssen gelöscht werden, wenn der Zweck der Ausschreibung erfüllt ist. 2 Sachausschreibungen zum Zweck der verdeckten Registrierung oder der gezielten Kontrolle werden spätestens nach fünf Jahren automatisch gelöscht. 3 Sachausschreibungen zur Sicherstellung oder Beweissicherung in Strafverfahren werden spätestens nach zehn Jahren automatisch gelöscht. 4 Eine Ausschreibung kann verlängert werden, wenn dies für ihren Zweck erforderlich ist. Voraussetzung dafür ist eine individuelle Bewertung; diese ist zu protokollieren. 5 Im Fall einer Verlängerung gelten die Absätze 1–3 entsprechend."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Aufbewahrungsdauer von Zusatzinformationen",
+      "content": "1 Zusatzinformationen, die sich auf bestimmte oder bestimmbare Personen beziehen, müssen gelöscht werden, wenn der verfolgte Zweck erfüllt ist. 2 Sie werden spätestens ein Jahr nach der Löschung der zugehörigen Ausschreibungen der betroffenen Person gelöscht. 3 Ungeachtet von Absatz 2 können folgende Daten in eidgenössischen oder kantonalen Informationssystemen aufbewahrt werden: a. Daten zu ausgehenden Ausschreibungen; b. Daten zu eingehenden Ausschreibungen, in deren Zusammenhang Massnahmen ergriffen wurden. 4 Die Aufbewahrungsdauer richtet sich in den Fällen nach Absatz 3 nach den Bestimmungen für die jeweiligen Informationssysteme."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Ausschluss der Bekanntgabe von Daten an Drittstaaten und internationale Organisationen",
+      "content": "Daten, die im SIS bearbeitet werden, dürfen Drittstaaten oder internationalen Organisationen nicht bekannt gegeben werden."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Datenaustausch mit Europol und Eurojust",
+      "content": "1 Europol hat im Rahmen seiner Aufgaben Zugriff im Abrufverfahren auf die nach den Artikeln 23, 32 und 34 in das SIS eingegebenen Daten. Die Bearbeitung der durch die Abfrage im SIS eingeholten Informationen unterliegt der Zustimmung der ausschreibenden Behörde. Die Bearbeitung muss nach Massgabe des Abkommens vom 24. September 2004 zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt erfolgen. Europol kann die Schweiz um weitere Informationen ersuchen, sofern die Ausschreibung von der Schweiz ausgeht. 2 Die nationalen Mitglieder von Eurojust und die sie unterstützenden Personen haben im Rahmen ihrer Aufgaben Zugriff im Abrufverfahren auf die nach den Artikeln 23, 27, 30 und 34 in das SIS eingegebenen Daten. Stellt sich bei der Abfrage durch ein nationales Mitglied von Eurojust heraus, dass eine Ausschreibung der Schweiz im SIS erfasst ist, so informiert das Mitglied die Schweiz darüber. Die bei einer solchen Abfrage erlangten Informationen dürfen nur mit Zustimmung der ausschreibenden Behörde an Drittländer und -stellen bekannt gegeben werden. 3 Die Benutzer nach den Absätzen 1 und 2 dürfen nur auf die Daten zugreifen, die zur Erfüllung ihrer Aufgaben erforderlich sind. SR 0.362.2"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Archivierung",
+      "content": "1 Fedpol bietet dem Bundesarchiv die folgenden nicht länger benötigten oder zur Löschung bestimmten Daten und die dazugehörigen Unterlagen zur Archivierung an: a. Daten zu ausgehenden Ausschreibungen; b. Daten zu eingehenden Ausschreibungen, in deren Zusammenhang Massnahmen ergriffen wurden. 2 Vom Bundesarchiv als nicht archivwürdig bezeichnete Daten und Unterlagen werden vernichtet."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Statistik",
+      "content": "1 Das SIRENE-Büro erstellt jährlich anonymisierte Statistiken mit Angaben über die Anzahl: a. Ausschreibungen pro Ausschreibungskategorie; b. Treffer pro Ausschreibungskategorie; c. Zugriffe auf das SIS; d. Ausschreibungen, deren Erfassungsdauer verlängert worden ist. 1bis Es erstellt separate Statistiken über den Informationsaustausch mit Europol. 2 Das SEM und die Sektion N-SIS und internationale Anwendungen liefern dem SIRENE-Büro die für die Erstellung der Statistiken benötigten Daten. 3 Im Rahmen der Meldepflichten nach den Schengen-Assoziierungsabkommen können die Statistiken den Organen der EU bekannt gegeben werden. Eingefügt durch Ziff. I der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ( AS 2021 368 ). Diese Abk. sind in Anhang 1 aufgeführt."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "2. Abschnitt: Rechte der Betroffenen",
+      "section": "50",
+      "title": "Geltendmachung des Auskunfts-, Berichtigungs- oder Löschungsrechts",
+      "content": "1 Will eine Person ihr Auskunfts-, Berichtigungs- oder Löschungsrecht geltend machen, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch bei fedpol einzureichen. 2 Fedpol entscheidet über das Gesuch nach Rücksprache mit der ausschreibenden Behörde. Über ein Gesuch im Zusammenhang mit eingehenden Ausschreibungen entscheidet fedpol, nachdem es dem ausschreibenden Schengen-Staat Gelegenheit zur Stellungnahme gegeben hat. 3 Erhält das SIRENE-Büro von einem Schengen-Staat Gelegenheit zur Stellungnahme zu einem Auskunfts-, Berichtigungs- oder Löschungsbegehren, so verfasst der Rechtsdienst fedpol die Stellungnahme unter Einbezug der ausschreibenden Behörden. 4 Stellt eine Person ein Gesuch um Auskunft, so ist sie grundsätzlich innert 30 Tagen seit Eingang ihres Gesuchs zu informieren. Kann die Auskunft nicht innert dieser Frist erfolgen, so ist die Person darüber in Kenntnis zu setzen. Die Auskunft hat jedoch spätestens 60 Tage nach Stellung des Auskunftsgesuchs zu erfolgen. 5 Stellt eine Person ein Gesuch um Berichtigung oder Löschung, so ist sie spätestens drei Monate nach Eingang ihres Gesuchs über die getroffenen Massnahmen zu informieren."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "2. Abschnitt: Rechte der Betroffenen",
+      "section": "51",
+      "title": "",
+      "content": "1 Drittstaatsangehörige, die Gegenstand einer Ausschreibung zur Einreise- und Aufenthaltsverweigerung sind, erhalten von Amtes wegen die in Artikel 8 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz (DSG) genannten Informationen. 2 Die Auskunftserteilung nach Absatz 1 kann unterbleiben, wenn: a. die Personendaten nicht bei dem oder der betroffenen Drittstaatsangehörigen erhoben wurden und die Information der betroffenen Person unmöglich ist oder unverhältnismässigen Aufwand erfordert; b. der oder die betroffene Drittstaatsangehörige bereits über die Informationen verfügt; oder c. eine Einschränkung des Rechts auf Information nach Artikel 9 DSG vorgesehen ist. Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ( AS 2017 563 ). SR 235.1"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "2. Abschnitt: Rechte der Betroffenen",
+      "section": "52",
+      "title": "Schadenersatz",
+      "content": "Die Haftung für Schäden im Zusammenhang mit dem Betrieb des SIS richtet sich nach den Artikeln 19 a –19 c des Verantwortlichkeitsgesetzes vom 14. März 1958. SR 170.32"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "3. Abschnitt: Datensicherheit, Datenschutzberatung und Aufsicht über die Datenbearbeitung die Datenbearbeitung",
+      "section": "53",
+      "title": "Datensicherheit",
+      "content": "1 Die Datensicherheit richtet sich nach: a. der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz; b. der Cyberrisikenverordnung vom 27. Mai 2020; c. ... 2 Fedpol legt im Bearbeitungsreglement nach Artikel 3 Absatz 2 die organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten der Daten fest und regelt die automatische Protokollierung der Datenbearbeitung und der Dateneinsicht. SR 235.11 Fassung gemäss Anhang Ziff. 12 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ( AS 2020 5871 ). SR 120.73 Aufgehoben durch Anhang Ziff. 22 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ( AS 2021 132 )."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "3. Abschnitt: Datensicherheit, Datenschutzberatung und Aufsicht über die Datenbearbeitung die Datenbearbeitung",
+      "section": "54",
+      "title": "Datenschutzberatung",
+      "content": "1 Die Datenschutzberaterin oder der Datenschutzberater des Eidgenössischen Justiz- und Polizeidepartements (EJPD) unterstützt die Einhaltung der Datenschutzvorschriften durch Koordination der Aufgabenerfüllung der Datenschutzberaterinnen und Datenschutzberater der beteiligten Bundesämter des Departements. 2 Die Datenschutzberaterinnen und Datenschutzberater dieser Bundesämter sorgen für: a. die Information der Personen, die Daten bearbeiten; b. die Ausbildung dieser Personen; c. die erforderlichen Kontrollen; d. die rasche Behebung von Mängeln; e. die Meldung des Koordinationsbedarfs an die Datenschutzberaterin oder den Datenschutzberater des EJPD."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "3. Abschnitt: Datensicherheit, Datenschutzberatung und Aufsicht über die Datenbearbeitung die Datenbearbeitung",
+      "section": "55",
+      "title": "Aufsicht über die Bearbeitung von Daten",
+      "content": "1 Die kantonalen Datenschutzbehörden und der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) arbeiten im Rahmen ihrer jeweiligen Zuständigkeiten aktiv zusammen und sorgen für eine koordinierte Aufsicht über die Bearbeitung von Personendaten. 2 Der EDÖB übt insbesondere die Aufsicht über die Bearbeitung personenbezogener SIS-Daten aus. Er koordiniert die Aufsichtstätigkeit mit den kantonalen Datenschutzbehörden. 3 Er arbeitet bei der Wahrnehmung seiner Aufgaben eng mit dem Europäischen Datenschutzbeauftragten zusammen; für diesen ist er nationale Ansprechstelle."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "8. Kapitel: Schlussbestimmungen",
+      "section": "56",
+      "title": "Änderung der Anhänge",
+      "content": "Das EJPD kann die Anhänge im Einvernehmen mit den betroffenen Departementen anpassen."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "8. Kapitel: Schlussbestimmungen",
+      "section": "57",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die N-SIS-Verordnung vom 7. Mai 2008 wird aufgehoben. [ AS 2008 2229 4943 Ziff. I 21 6305 Anhang Ziff. 17, 2009 6937 Anhang 4 Ziff. II 18]"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "8. Kapitel: Schlussbestimmungen",
+      "section": "58",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 9. April 2013 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ausschreibung:",
+      "definition": "Ausschreibung: ein Datensatz zum Zweck der Einreise- und Aufenthaltsverweigerung oder der Personen- und Sachfahndung, der im Schengener Informationssystem (SIS) gespeichert werden soll oder bereits gespeichert ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "ausgehende Ausschreibung:",
+      "definition": "ausgehende Ausschreibung: eine von den schweizerischen Behörden erfasste und freigegebene Ausschreibung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "eingehende Ausschreibung:",
+      "definition": "eingehende Ausschreibung: eine von den Behörden eines anderen Staates, der durch eines der Schengen-Assoziierungsabkommen gebunden ist (Schengen-Staat), erfasste und freigegebene Ausschreibung;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Zusatzinformationen:",
+      "definition": "Zusatzinformationen: nicht im SIS gespeicherte Informationen, die mit Ausschreibungen in Zusammenhang stehen und zwischen den SIRENE-Büros ausgetauscht werden;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "ergänzende Daten:",
+      "definition": "ergänzende Daten: im SIS gespeicherte und mit SIS-Ausschreibungen verknüpfte Daten;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Drittstaat:",
+      "definition": "Drittstaat: jeder Staat, der nicht Mitgliedstaat der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) ist;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kennzeichnung:",
+      "definition": "Kennzeichnung: Markierung einer Ausschreibung, die zur Folge hat, dass die mit der Ausschreibung verlangte Massnahme von einem bestimmten Schengen-Staat nicht vollzogen wird oder dass dieser Staat stattdessen eine subsidiäre Massnahme vollzieht;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "SIRENE:",
+      "definition": "SIRENE: Anträge auf Zusatzinformationen bei der nationalen Anlauf- und Verbindungsstelle ( S upplementary I nformation RE quest at the N ational E ntry);",
+      "source_provision": "art2"
+    }
+  ]
+}

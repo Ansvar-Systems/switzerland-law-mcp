@@ -1,0 +1,384 @@
+{
+  "id": "sr-814-41",
+  "type": "statute",
+  "title": "Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)",
+  "title_en": "Noise Abatement Ordinance of 15 December 1986 (NAO)",
+  "short_name": "LSV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Aim and scope",
+      "content": "1 This Ordinance is intended to protect against harmful and disturbing noise. 2 It regulates: a. the limitation of exterior noise emissions caused by the operation of new and existing installations in accordance with Article 7 of the Act; b. the designation and development of building zones in areas exposed to noise; c. the issuing of planning permission for buildings with rooms sensitive to noise and lying in areas exposed to noise; d. the soundproofing against exterior and interior noise of new buildings with rooms sensitive to noise; e. the soundproofing against exterior noise of existing buildings with rooms sensitive to noise; f. the determination of the exposure to exterior noise and its rating based on exposure limit values. 3 It does not regulate: a. protection against noise originating from an industrial site as long as this only affects industrial buildings and dwellings within the site; b. protection against infra- and ultrasound. 4 … Repealed by No I of the O of 12 April 2000, with effect from 1 May 2000 ( AS 2000 1388 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "1 Stationary installations are buildings, transport facilities, building facilities and other immobile equipment that generate exterior noise during operation. These include in particular roads, railway installations, aerodromes, industrial, commercial and agricultural installations, firing ranges and permanent military firing ranges and training grounds. 2 New stationary installations also include stationary installations and buildings whose use has been completely altered. 3 Emission limitation measures are technical, structural or functional modifications to installations, or measures to redirect, restrict or calm the flow of traffic, or structural measures along the emission path. The purpose of the measures is to prevent or reduce the generation or propagation of exterior noise. 4 Improvements are emission limitation measures for existing stationary installations. 5 Exposure limit values include impact thresholds, planning values and alarm values. These are set according to the noise characteristics, the time of day and the sensitivity to noise of the buildings and areas to be protected. 6 Rooms sensitive to noise are: a. rooms in dwellings with the exception of kitchens without dining facilities, washrooms and storerooms; b. rooms in industrial buildings that are regularly occupied by persons for sustained periods of time, with the exception of those for farm animals and those with high levels of industrial noise."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 Emission Limitation Measures from Vehicles",
+      "section": "3",
+      "title": "",
+      "content": "1 Noise emitted from motorised vehicles, aircraft, water craft and railways must be reduced as far as possible by technical and operational means, and to the extent that this is economically acceptable. 2 Emission limitation measures are governed by the legislation on road traffic, civil aviation, inland navigation or the railways, provided the vehicle concerned is covered by one of these categories of legislation. 3 Emission limitation measures for other vehicles is governed by the provisions on mobile appliances and machines."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Emission Limitation Measures for Mobile Appliances and Machines",
+      "section": "4",
+      "title": "Principles",
+      "content": "1 The emissions of exterior noise from mobile appliances and machines must be reduced to the extent that: a. this is technically and operationally feasible and economically acceptable; and that b. the well-being of the affected population is not seriously impaired. 2 The enforcement authorities shall order operational and structural measures, or those for proper maintenance. 3 Where it is not possible to avoid exposure to highly disturbing noise due to the operation of military equipment, machines and weapons, the enforcement authorities shall relax the requirements. 4 The emissions of appliances and machines that are used to operate a stationary installation are limited according to the provisions on stationary installations."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Emission Limitation Measures for Mobile Appliances and Machines",
+      "section": "5",
+      "title": "Conformity assessment and marking of equipment and machines",
+      "content": "1 Equipment and machines may be placed on the market only following a conformity assessment and the appropriate marking. 2 The Federal Department of the Environment, Transport, Energy and Communications (DETEC) shall specify: a. the types of equipment and machines subject to the conformity assessment and marking; b. the requirements for preventive emission limitation measures and marking, taking into account internationally recognised standards; c. the documents to be submitted for the purpose of the conformity assessment; d. the test, measurement and calculation procedures; e. the subsequent controls; f. the recognition of foreign test results and labelling. Amended by No I of the O of 23 Aug. 2006, in force since 1 Nov. 2006 ( AS 2006 3693 ). Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3223 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Emission Limitation Measures for Mobile Appliances and Machines",
+      "section": "6",
+      "title": "Regulations on noise from building sites",
+      "content": "The Federal Office for the Environment (FOEN) shall issue regulations covering structural and operational measures to control noise from building sites. Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ( AS 2023 582 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Chapter 3 New and Modified Stationary Installations",
+      "section": "7",
+      "title": "Emission limitation measures for new stationary installations",
+      "content": "1 Noise emissions from new stationary installations shall be limited as directed by the enforcement authorities insofar as: a. this is technically and operationally feasible and economically acceptable; and b. the noise exposure level resulting from the installation alone does not exceed the planning values. 2 The enforcement authorities shall relax the requirements in cases where compliance with the planning values would place a disproportionate burden on the installation and there is an overriding public interest, particularly regarding questions of spatial planning. The impact thresholds must not, however, be exceeded. 3 In the case of new air-to-water heat pumps that are primarily used for space heating or for heating drinking water and whose noise emissions do not exceed the planning values, further emission limitation measures in accordance with paragraph 1 letter a shall only be taken if a limitation of emissions of at least 3 dB can be achieved with no more than one per cent of the investment costs of the system. Amended by No I of the O of 16 June 1997, in force since 1 Aug. 1997 ( AS 1997 1588 ). Inserted by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ( AS 2023 582 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Chapter 3 New and Modified Stationary Installations",
+      "section": "8",
+      "title": "Emission limitation measures for modified stationary installations",
+      "content": "1 Where a stationary installation that already exists when this Ordinance comes into force is modified, the noise emissions from the new or modified parts of the installation must be limited as directed by the enforcement authorities as far as this is technically and operationally feasible and economically acceptable. 2 If the installation is significantly modified, the noise emissions from the installation as a whole must be limited at least to the extent that the impact thresholds are not exceeded. 3 Conversions, extensions and operational changes carried out by the person responsible for the installation constitute significant modifications to stationary installations if it is anticipated that the noise exposure level will rise perceptibly as a result either of the installation itself or of the increased demand on existing transport facilities. The rebuilding of an installation constitutes a significant modification irrespective of the circumstances. 4 If a new stationary installation is modified, Article 7 applies. Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3223 ). Amended by No I of the O of 16 June 1997, in force since 1 Aug. 1997 ( AS 1997 1588 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Chapter 3 New and Modified Stationary Installations",
+      "section": "9",
+      "title": "Increased demand on transport facilities",
+      "content": "The operation of new or significantly modified stationary installations must not lead to a situation in which: a. owing to the increased demand made on a transport facility, the impact thresholds are exceeded; or b. owing to the increased demand made on a transport facility in need of remediation, the noise exposure level rises perceptibly."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Soundproofing measures in existing buildings",
+      "content": "1 If the requirements specified in Articles 7 paragraph 2 and 8 paragraph 2 or in Article 9 are not fulfilled by new or significantly modified public or licensed stationary installations, the enforcement authorities shall require the owners of existing buildings exposed to noise to soundproof the windows of rooms sensitive to noise in accordance with Annex 1. 2 With the approval of the enforcement authorities, building owners may carry out other structural soundproofing measures provided these reduce the noise within the rooms to the same extent. 3 Soundproofing measures need not be taken if: a. no perceptible reduction of the noise level in the building is to be expected; b. they conflict with the overriding interest of preserving local character or monuments; c. the building is due to be demolished within three years of putting the new or modified installation into service, or the rooms concerned will be converted to purposes not sensitive to noise within this period."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Costs",
+      "content": "1 The person responsible for the new or significantly modified installation bears the costs of limiting the emission it causes. 2 If the building owner is required to take soundproofing measures according to Article 10 paragraph 1, the person responsible for the installation also bears the customary local costs proven to be due for: a. engineering and supervision of works; b. soundproofing of the windows in accordance with Annex 1 and the resulting necessary adaptations; c. the financing if the person responsible has failed to contribute despite being requested to do so by the building owner; d. any fees due. 3 If the building owner is required to take soundproofing measures according to Article 10 paragraph 2, the person responsible for the installation bears the customary local costs proven to be due insofar as these do not exceed those under paragraph 2. The building owner bears the remaining costs. 4 Where the need for emission limitation measures or soundproofing measures arises as a result of noise from several installations, the costs are divided among the installations in proportion to their contribution to the noise exposure level. 5 The building owner bears the costs for maintenance and renewal of the soundproofing measures."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Inspection",
+      "content": "The enforcement authorities shall inspect the new or modified installation within one year of its being put into service to check whether the emission limitation and soundproofing measures ordered have been taken. In the event of any doubt, they carry out tests to assess the effectiveness of the measures."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 1 Improvements and Soundproofing Measures",
+      "section": "13",
+      "title": "Improvements",
+      "content": "1 In the case of stationary installations that contribute significantly to the impact thresholds being exceeded, the enforcement authorities shall order the necessary improvement measures, after hearing the persons responsible for the installations. 2 The installations shall be improved to the extent that: a. is technically and operationally feasible and economically acceptable; and b. the impact thresholds are no longer exceeded. 3 Unless there are overriding interests, the enforcement authorities give priority to measures which prevent or reduce noise generation in preference to those which simply prevent or reduce noise propagation. 4 Improvements need not be carried out if: a. the impact thresholds are exceeded only in building zones that have not yet been developed; b. due to the cantonal building and planning legislation, planning, design or structural measures taken at the site exposed to the noise will satisfy the impact thresholds before the time limit specified in Article 17."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 1 Improvements and Soundproofing Measures",
+      "section": "14",
+      "title": "Relaxation of the requirements for improvements",
+      "content": "1 The enforcement authorities shall relax the requirements in cases where: a. improvements would result in unreasonable operational limitations or costs; b. overriding interests, namely those of the preservation of local character, nature and landscape protection, traffic and operational safety, or national security, conflict with the improvement objective. 2 Unlicensed private installations must not, however, exceed the alarm values."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 1 Improvements and Soundproofing Measures",
+      "section": "15",
+      "title": "Soundproofing measures for existing buildings",
+      "content": "1 If, as a result of relaxing the requirements, the alarm values for public or licensed stationary installations cannot be complied with, the enforcement authorities shall require the owners of existing buildings exposed to noise to soundproof the windows of rooms sensitive to noise in accordance with Annex 1. 2 With the approval of the enforcement authorities, building owners may take other soundproofing measures in the building provided these reduce the noise within the rooms to the same extent. 3 Soundproofing measures need not be taken if: a. no perceptible reduction of noise in the building is to be expected; b. they conflict with the overriding interest of preserving local character or monuments; c. the building is due to be demolished within three years of the soundproofing measures being ordered, or the rooms will be converted to purposes not sensitive to noise within this period."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 1 Improvements and Soundproofing Measures",
+      "section": "16",
+      "title": "Costs",
+      "content": "1 The person responsible for the installation bears the costs of its improvement. 2 The person responsible for a public or licensed installation also bears the costs of soundproofing measures for existing buildings under Article 11, unless an exemption has been granted under Article 20 paragraph 2 of the Act. 3 Where improvements or soundproofing measures are required as a result of noise from several installations, the costs are divided among the installations in proportion to their contribution to the noise exposure level. 4 The building owner bears the costs of maintenance and renewal of the soundproofing measures."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 1 Improvements and Soundproofing Measures",
+      "section": "17",
+      "title": "Time limits",
+      "content": "1 The enforcement authorities set the time limits for implementing improvements and soundproofing measures according to their urgency. 2 In assessing urgency, the following factors are decisive: a. the extent to which the impact thresholds are exceeded; b. the number of persons affected by the noise; c. the cost-benefit relationship. 3 The improvements and soundproofing measures must be completed within 15 years of this Ordinance coming into force. 4 The time limit (para. 3) for improvements and soundproofing measures on roads are extended: a. for national roads until 31 March 2015; b. for trunk roads according to Article 12 of the Federal Act of 22 March 1985 on the Application of the Earmarked Mineral Oil Tax (MinOA), and for other roads until 31 March 2018 . 5 The time limits specified in the Federal Act of 24 March 2000 on Railways Noise Abatement apply to the completion of improvements and soundproofing measures on railway installations. 6 The improvements and soundproofing measures must be completed: a. at military aerodromes by 31 July 2020; b. at civil aerodromes that are used by heavy aircraft by 31 May 2016; c. at civil shooting ranges that require compulsory improvements as a result of the Amendment of 23 August 2006 of Annex 7: by 1 November 2016; d. at military firing ranges and training grounds: by 31 July 2025. SR 725.116.2 Inserted by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ( AS 2004 4167 ). SR 742.144 Inserted by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ( AS 2004 4167 ). AS 2006 3693 Inserted by No I of the O of 23 Aug. 2006 ( AS 2006 3693 ). Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3223 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Inspection",
+      "content": "Within one year of completion, the enforcement authorities shall inspect the improvements and soundproofing measures to check compliance with the measures ordered. In case of doubt, they carry out tests to assess the effectiveness of the measures."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "",
+      "content": "Repealed by No I of the O of 1 Sept. 2004, with effect from 1 Oct. 2004 ( AS 2004 4167 )."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Periodical surveys",
+      "content": "1 The FOEN shall enquire regularly of the enforcement authorities as to the status of the improvements and the noise protection measures, in particular concerning roads, railway installations, aerodromes, shooting ranges and military shooting ranges and training areas. 2 For roads, the enforcement authorities must provide the following documents in particular by 31 March each year: a. a summary of: 1. the roads or sections of road requiring improvements, 2. the time frame within which these roads and sections of road will be improved, 3. the total costs of these improvements and noise protection measures, and 4. the number of persons exposed to noise levels above the impact thresholds and alarm values; b. a report on: 1. the improvements made to roads and sections of road, and the soundproofing measures implemented in the previous year, and 2. the effectiveness and the costs of these improvements and noise protection measures. 3 For national roads, it shall obtain the information under Paragraph 2 from the Federal Roads Office. For trunk roads and other roads it shall obtain this information from the cantons. The information must be submitted in accordance with the requirements of the FOEN. 4 The FOEN shall assess the information in particular in relation to the progress made with improvements and the costs and effectiveness of the measures. It shall inform the enforcement authorities of the results and publishes them. Amended by No I 14 of the O of 7 Nov. 2007 on the New System of Fiscal Equalisation and Division of Tasks between the Confederation and the Cantons, in force since 1 Jan. 2008 ( AS 2007 5823 ). Name in accordance with No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ( AS 2023 582 ). This amendment has been made throughout the text."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 2",
+      "section": "21",
+      "title": "Eligibility for subsidies",
+      "content": "1 The Confederation shall grant subsidies for improvements and soundproofing measures on existing infrastructure for: a. trunk roads according to Article 12 MinOA; b. other roads. 2 The subsidies granted under paragraph 1 letter a form part of the global payments according to Article 13 MinOA. The payments under paragraph 1 letter b are granted globally for the road sections defined with the cantons in programme agreements. 3 ... Amended by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ( AS 2018 965 ). SR 725.116.2 Inserted by No I of the O of 21 Feb. 2018 ( AS 2018 965 ). Repealed by No I of the O of 12 May 2021, with effect from 1 July 2021 ( AS 2021 293 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 2",
+      "section": "22",
+      "title": "Application",
+      "content": "1 The canton submits the application for subsidies for improvements and soundproofing measures for roads according to Article 21 paragraph 1 letter b to the FOEN. 2 The application must in particular contain information on: a. the roads or road sections to be improved during the period covered by the programme agreement; b. the improvements and soundproofing measures planned and their cost; c. the efficiency of the measures."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 2",
+      "section": "23",
+      "title": "Programme agreement",
+      "content": "1 The FOEN concludes the programme agreement with the cantonal authorities responsible. 2 The programme agreement covers in particular: a. the roads or road sections to be improved; b. the amount paid by the Confederation; c. the control procedures. 3 The programme agreement applies for four years; in justified cases a longer or shorter period may be agreed. 4 The FOEN issues directives on the procedure followed for programme agreements and on the information and documentation relating to the subjects of the programme agreement. Amended by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ( AS 2018 965 )."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 2",
+      "section": "24",
+      "title": "Determination of the subsidy",
+      "content": "1 The amount of the subsidy for improvements is determined by: a. the number of people who are protected by these measures; and b. the reduction in noise pollution. 2 For soundproofing measures on existing buildings, CHF 400 is allocated per soundproof window or other equally effective structural noise protection measure. 3 The amount of the subsidy is negotiated between the Confederation and the canton."
+    },
+    {
+      "provision_ref": "art24a24b",
+      "section": "24a24b",
+      "title": "a and 24 b",
+      "content": "Repealed"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Payment",
+      "content": "Global subsidies are paid out in instalments."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Reports and controls",
+      "content": "1 The canton shall report annually to the competent Federal Office on the use of the subsidies. 2 The FOEN shall verify by random sample: a. implementation of individual measures in accordance with the programme goals; b. use of the payments made."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Inadequate fulfilment and misuse of subsidies",
+      "content": "1 The FOEN shall withhold all or part of the instalment payments during the programme if the canton: a. fails to fulfil its reporting duty (Art. 26 para. 1); b. fails to meet its obligations to a substantial extent through its own fault. 2 If on conclusion of the programme it emerges that the canton has failed to meet its obligations, the competent Federal Office shall require the canton to rectify the situation; it shall set the Canton an appropriate deadline for doing so. 3 If installations for which subsidies have been made are used for a purpose other than that intended, the FOEN may require the canton to cease or make good the misuse within a reasonable period. 4 If the defects are not rectified or the misuse does not stop or is not remedied, the subsidies may be reclaimed in accordance with Articles 28 and 29 of the Subsidies Act of 5 October 1990. SR 616.1"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "",
+      "content": "Repealed"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Chapter 5 Requirements for Building Zones and Planning Permission in Areas exposed to Noise",
+      "section": "29",
+      "title": "Designation of new building zones and new zones with higher noise abatement requirements",
+      "content": "1 New building zones for buildings with rooms sensitive to noise and new no-build zones with higher noise abatement requirements shall be designated only in areas in which noise exposure does not exceed the planning values or in which these values can be complied with by planning, design or structural measures. 2 … Repealed by No I of the O of 16 June 1997, with effect from 1 Aug. 1997 ( AS 1997 1588 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Chapter 5 Requirements for Building Zones and Planning Permission in Areas exposed to Noise",
+      "section": "30",
+      "title": "Development of building zones",
+      "content": "Building zones for buildings with rooms sensitive to noise that have not yet been developed when the Act comes into force may only be developed to the extent that the planning values are complied with or can be complied with by a change in the type of use, or by planning, design or structural measures. The enforcement authorities may grant exceptions for small sections of building zones. Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3223 )."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Chapter 5 Requirements for Building Zones and Planning Permission in Areas exposed to Noise",
+      "section": "31",
+      "title": "Planning permission in areas subject to noise",
+      "content": "1 If the impact thresholds are exceeded, new buildings and significant modifications to buildings with rooms sensitive to noise may only be authorised if the values can be complied with: a. by locating the rooms sensitive to noise on the side of the building away from the source of the noise; or b. by structural or design measures which shield the building against noise. 2 If the impact thresholds cannot be complied with by measures under paragraph 1, planning permission may be granted only if there is an overriding interest in constructing the building and the cantonal authorities agree. 3 The landowners bear the costs of the measures. Amended by No I of the O of 16 June 1997, in force since 1 Aug. 1997 ( AS 1997 1588 )."
+    },
+    {
+      "provision_ref": "art31a",
+      "chapter": "Chapter 5 Requirements for Building Zones and Planning Permission in Areas exposed to Noise",
+      "section": "31a",
+      "title": "a Special provisions for airports used by large aircraft",
+      "content": "1 In the case of airports that are used by large aircraft, the planning values and impact thresholds under Annex 5 number 222 are complied with at night if: a. no flight operations are planned between 24 and 06 hours; b. rooms sensitive to noise are protected against exterior and interior noise as a minimum in accordance with the increased requirements for soundproofing under SIA Standard 181 of 1 June 2006 of the Swiss Society of Engineers and Architects; and c. the bedrooms: 1. have a window that closes automatically between 22 and 24 hours and can be opened automatically at other times, and 2. are designed to guarantee an appropriate indoor climate. 2 When designating or developing building zones, the competent authority shall ensure that the requirements set out in paragraph 1 letters b and c are made binding on property owners. 3 The FOEN may issue recommendations on the enforcement of paragraph 1 letter c. In doing so, it shall take account of the relevant technical standards. Inserted by No I of the O of 28 Nov. 2014, in force since 2 Feb. 2015 ( AS 2014 4501 ). The said standard may be inspected free of charge at the Swiss Society of Engineers and Architects (SIA), Selnaustrasse 16, 8027 Zurich, or obtained for a free from www.sia.ch."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Chapter 6 Soundproofing of New Buildings",
+      "section": "32",
+      "title": "Requirements",
+      "content": "1 The project owner of a new building shall ensure that the soundproofing of the external building elements and partitions of rooms sensitive to noise, and of the stairs and building facilities complies with recognised codes of building practice. These are in particular, for noise from civil aerodromes that are used by heavy aircraft, the stricter requirements, and for noise from other stationary installations, the minimum requirements, of SIA Standard No 181 of the Swiss Society of Engineers and Architects. 2 If the impact thresholds are exceeded but the requirements of Article 31 paragraph 2 for granting planning permission are fulfilled, the enforcement authorities shall impose stricter requirements for the soundproofing of the external building elements appropriately. 3 The requirements also apply to the external building elements, partitions, stairways and building facilities that are converted, replaced or newly installed. On request, the enforcement authorities grant relief if compliance with the requirements would involve unreasonable cost. Sentence amended by No I of the O of 12 April 2000, in force since 1 May 2000 ( AS 2000 1388 )."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Chapter 6 Soundproofing of New Buildings",
+      "section": "33",
+      "title": "External building elements, partitions and building facilities",
+      "content": "1 External building elements form the external boundary of a room (e.g. windows, external doors, external walls, roofs). 2 Partitions (e.g. internal walls, ceilings, doors) serve to separate individual units, such as dwellings, within the building. 3 Building facilities are fixed installations such as heating, ventilation, supply and disposal systems, lifts and washing machines."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Chapter 6 Soundproofing of New Buildings",
+      "section": "34",
+      "title": "Application for planning permission",
+      "content": "1 The project owner must specify in the application: a. the exterior noise pollution in the event that the impact thresholds are exceeded; b. the use to which the rooms are put; c. the external building elements and partitions of rooms sensitive to noise. 2 For building projects in areas in which the impact thresholds are exceeded, the enforcement authorities may demand details of the soundproofing of the external building elements."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Chapter 6 Soundproofing of New Buildings",
+      "section": "35",
+      "title": "Inspections",
+      "content": "After building works are completed, the enforcement authorities shall make random checks to verify whether the soundproofing measures comply with the requirements. In the event of any doubt, they must carry out a more detailed inspection."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Section 1 Investigation",
+      "section": "36",
+      "title": "Obligation to investigate",
+      "content": "1 The enforcement authorities shall investigate the exposure to exterior noise due to stationary installations, or order its investigation if they have grounds to believe that the relevant exposure limit values are being exceeded or that this is to be expected. 2 They shall take account of increases and reductions in noise exposure levels that are to be expected due to: a. the construction, alteration or improvement of stationary installations, in particular if the projects in question have already been approved or made available for public inspection at the time of the investigation; and b. the construction, alteration or demolition of other structures if the projects have been made available for public inspection at the time of the investigation. 3 … Amended by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ( AS 2004 4167 ). Repealed by Art. 15 of the O of 4 Dec. 2015 on Railway Noise Abatement Measures, with effect from 1 Jan. 2016 ( AS 2015 5691 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Section 1 Investigation",
+      "section": "37",
+      "title": "Noise pollution register",
+      "content": "1 In the case of roads, railway installations, aerodromes and military firing ranges and training grounds, the enforcement authorities shall record in specific registers (noise pollution registers) the noise exposure levels measured in accordance with Article 36. 2 The noise pollution registers specify: a. the noise pollution measured; b. the calculation procedure used; c. the input data for the calculation; d. the classification of the areas exposed to noise in the land use plan; e. the sensitivity levels applicable; f. the installations and their owners; g. the number of persons who are affected by noise exposure levels above the applicable exposure limit values. 3 The enforcement authorities are responsible for the supervision and revision of the registers. 4 On request, they submit the noise pollution registers to the FOEN. The Office may issue recommendations on the standardised recording and presentation of the data. 5 The Federal Office for Civil Aviation is responsible for measurement of noise exposure levels produced by Basel Mulhouse Airport on Swiss territory. 6 Any person may have access to the noise pollution register provided that confidentiality with respect to manufacturing and business secrets is ensured, and no conflict with other interests that override exists. Amended by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ( AS 2004 4167 ). Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3223 )."
+    },
+    {
+      "provision_ref": "art37a",
+      "chapter": "Section 1 Investigation",
+      "section": "37a",
+      "title": "a Determination and control of noise exposure levels",
+      "content": "1 The enforcement authorities state the permitted noise exposure level in their decision on the construction, alteration or improvement of an installation. 2 If it is established or anticipated that the noise exposure levels due to an installation will deviate significantly and permanently from those quoted in the decision, the enforcement authorities shall take the necessary measures. 3 The FOEN may issue recommendations on the standardised recording and presentation of the noise exposure levels in these decisions. Inserted by No I of the O of 12 April 2000 ( AS 2000 1388 ). Amended by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ( AS 2004 4167 )."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Method of determination",
+      "content": "1 Noise exposure levels are determined in the form of a rating sound level, Lr, or a maximum sound level, Lmax, on the basis of calculations or measurements. 2 Noise exposure levels due to aircraft shall principally be determined by calculation. The calculations are carried out using recognised state-of-the-art methods. The FOEN shall recommend suitable calculation procedures. 3 The requirements for calculation procedures and measuring instruments are given in Annex 2. Amended by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ( AS 2004 4167 4313 ). Inserted by No I of the O of 12 April 2000, in force since 1 May 2000 ( AS 2000 1388 ). Originally para. 2."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Point of determination",
+      "content": "1 For buildings, noise exposure levels shall be determined at the centre of open windows in rooms sensitive to noise. Noise exposure levels due to aircraft may also be determined in the vicinity of the building. 2 In the non-developed sector of zones with higher noise abatement requirements, noise exposure levels shall be measured 1.5 m above the ground. 3 In building zones that have not yet been developed, noise exposure levels shall be measured at points where the building and planning legislation allows the building of rooms sensitive to noise. The correction of 7 May 2019 concerns the French text only ( AS 2019 1337 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Section 2 Rating",
+      "section": "40",
+      "title": "Exposure limit values",
+      "content": "1 The enforcement authorities shall rate the exposure to exterior noise due to stationary installations on the basis of the exposure limit values specified in Annexes 3 ff. 2 The exposure limit value, it is also considered exceeded if it is less than the sum of the levels of exposure to similar types of noise generated by several installations. This does not apply to the planning values for new stationary installations (Art. 7 para. 1). 3 In the absence of exposure limit values, the enforcement authorities shall rate the noise exposure levels in accordance with Article 15 of the Act. They shall also take account of Articles 19 and 23 of the Act."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Section 2 Rating",
+      "section": "41",
+      "title": "Validity of the exposure limit values",
+      "content": "1 The exposure limit values apply to buildings with rooms sensitive to noise. 2 They also apply: a. in yet undeveloped building zones in areas where the construction of buildings with rooms sensitive to noise is allowed under the building and planning legislation; b. in the non-developed areas of zones with higher noise abatement requirements. 3 For areas and buildings in which, as a rule, people are present either only during the day or only at night, no exposure limit values apply at night or during the day."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Section 2 Rating",
+      "section": "42",
+      "title": "Special exposure limit values for rooms in industrial buildings",
+      "content": "1 For rooms in industrial buildings (Art. 2 para. 6 let. b) lying in areas of sensitivity levels I, II or III, the planning and impact thresholds shall be increased by 5 dB(A). 2 Paragraph 1 does not apply to rooms in schools, institutions and homes. It applies to hotels and guesthouses only if these can be adequately ventilated when the windows are closed."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Section 2 Rating",
+      "section": "43",
+      "title": "Sensitivity levels",
+      "content": "1 In land use zones according to Articles 14 ff. of the Spatial Planning Act of 22 June 1979, the following sensitivity levels apply: a. sensitivity level I in zones with higher noise abatement requirements, notably in leisure zones; b. sensitivity level II in zones in which operations that emit noise are not permitted, notably in residential zones and zones for public buildings and installations; c. sensitivity level III in zones in which operations emitting a certain level of noise are permitted, notably in residential and industrial zones (mixed zones) and agricultural zones; d. sensitivity level IV in zones in which operations emitting a high level of noise are permitted, notably in industrial zones. 2 Parts of land use zones rated as sensitivity levels I or II may be assigned the next higher level if they are already exposed to noise. SR 700"
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Section 2 Rating",
+      "section": "44",
+      "title": "Procedures",
+      "content": "1 The cantons shall ensure that sensitivity levels are assigned to the land use zones in the building regulations or land use plans of the communes. 2 The sensitivity levels are assigned at the time of designation or modification of the land use zones, or at the time of modification of the building regulations. 3 Prior to assignment, the cantons shall determine the sensitivity levels on a case by case basis in accordance with Article 43. 4 … Amended by No IV 31 of the O of 22 Aug. 2007 on the Formal Revision of Federal Legislation, in force since 1 Jan. 2008 ( AS 2007 4477 ). Repealed by No 1 of the O of 27 June 1995, with effect from 1 Aug. 1995 ( AS 1995 3694 )."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Section 1 Enforcement",
+      "section": "45",
+      "title": "",
+      "content": "1 The cantons shall enforce this Ordinance unless it delegates enforcement to the Confederation. 2 If the federal authorities apply other federal laws or international treaties or decisions that relate to the subject matter of this Ordinance, they shall also enforce this Ordinance. The cooperation of the FOEN and the cantons is governed by Article 41 paragraphs 2 and 4 of the Act; statutory duties of secrecy are reserved. 3 The following authorities are responsible for enforcing the provisions governing emission limitation measures (Art. 4, 7–9 and 12), improvements (Art. 13, 14, 16–18 and 20) and the determination and control of noise exposure levels (Art. 36, 37, 37a and 40): a. for railway installations: 1. DETEC, where the provisions relate to major railway projects under the Annex to the Railways Act of 20 December 1957 and are implemented by means of a planning approval procedure, 2. in other cases, the Federal Office of Transport; b. for civil aerodromes: 1. DETEC, where the provisions relate to buildings and installations under Article 37 of the Air Navigation Act of 21 December 1948 that are used for operation of an aerodrome and are implemented by means of a planning approval procedure, 2. in other cases, the Federal Office of Civil Aviation; c. for national roads: 1. DETEC, where the provisions are implemented by means of a planning approval procedure, 2. in other cases the Federal Roads Office; d. for national defence installations: the Federal Department of Defence, Civil Protection and Sport; e. for electrical installations: 1. the Swiss Federal Office of Energy in cases where the Federal Inspectorate for Heavy Current Installations (ESTI) has been unable to deal with objections from or resolve disputes with the Federal authorities concerned, in accordance with Article 16 paragraph 2 letter b of the Electricity Act of 24 June 1902, 2. in other cases the ESTI; f. for cable railway installations according to Article 2 of the Cable Railways Act of 23 June 2006: the Federal Office of Transport. 4 In cases where the responsibility for ordering emission limitation measures and improvements lies with the federal authorities, but that for noise protection lies with the cantonal authorities, the two authorities shall coordinate the necessary measures. 5 For national roads, DETEC is also responsible for enforcing the provisions governing soundproofing measures (Art. 10 and 15). It coordinates the enforcement of these provisions with the soundproofing measures that are arranged by the cantons. Amended by No II 14 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-making Procedures, in force since 1 March 2000 ( AS 2000 703 ). Inserted by Annex 2 No 9 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ( AS 2008 2809 ). SR 742.101 SR 748.0 SR 734.0 SR 743.01 Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3223 ). Inserted by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3223 )."
+    },
+    {
+      "provision_ref": "art45a",
+      "section": "45a",
+      "title": "a National noise pollution survey",
+      "content": "The FOEN shall conduct a national survey of noise pollution. It shall publish a geo-referenced presentation of the noise pollution in particular for road, railway and aircraft noise and for noise from military firing ranges and training grounds. It shall updates this presentation at least every five years. Inserted by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ( AS 2010 3223 )."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Geoinformation",
+      "content": "The FOEN shall provide specifications for the minimal geodata models and presentation models for official geodata under this Ordinance, for which it is designated as the federal specialist authority in Annex 1 to the Geoinformation Ordinance of 21 May 2008 . Amended by Annex 2 No 9 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ( AS 2008 2809 ). SR 510.620"
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "47",
+      "title": "Stationary installations and buildings",
+      "content": "1 Stationary installations are deemed to be new stationary installations if the decision authorising the start of building work has not yet taken full legal effect when this Ordinance comes into force. 2 For stationary installations that are to be modified, Articles 8-12 apply only if the decision authorising the modification has not yet taken full legal effect when this Ordinance comes into force. 3 Buildings are deemed to be new buildings if planning permission has not yet taken full legal effect when this Ordinance comes into force. 4 For buildings that must be modified, Articles 31 and 32 paragraph 3 apply only if planning permission has not yet taken full legal effect when this Ordinance comes into force. Amended by No I of the O of 23 Aug. 2006, in force since 1 Nov. 2006 ( AS 2006 3693 )."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "48",
+      "title": "",
+      "content": "Repealed by No I of the O of 30 June 2010, with effect from 1 Aug. 2010 ( AS 2010 3223 )."
+    },
+    {
+      "provision_ref": "art48a",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "48a",
+      "title": "",
+      "content": "Inserted by No I of the O of 1 Sept. 2004 ( AS 2004 4167 ). Repealed by No I of the O of 21 Feb. 2018, with effect from 1 April 2018 ( AS 2018 965 )."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "49",
+      "title": "",
+      "content": "Repealed by No IV 31 of the O of 22 August 2007 on the Formal Revision of Federal Legislation, with effect from 1 Jan. 2008 ( AS 2007 4477 )."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Section 3 Commencement",
+      "section": "50",
+      "title": "",
+      "content": "This Ordinance comes into force on 1 April 1987."
+    }
+  ],
+  "definitions": []
+}

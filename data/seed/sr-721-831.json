@@ -1,0 +1,152 @@
+{
+  "id": "sr-721-831",
+  "type": "statute",
+  "title": "Verordnung vom 12. Februar 1918 über die Berechnung des Wasserzinses (Wasserzinsverordnung, WZV)",
+  "title_en": "",
+  "short_name": "WZV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/34/209_210_223/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "",
+      "content": "1 Der Berechnung des höchstzulässigen Wasserzinses ist das Jahresmittel der Bruttoleistungen (mittlere Bruttoleistung) in Kilowatt zugrunde zu legen. 2 Für die Berechnung des Wasserzinses kann auch eine von dieser Verordnung abweichende Methode festgelegt werden. Der geforderte Wasserzins darf jedoch nicht höher sein, als wenn er nach dieser Verordnung berechnet würde. Fassung gemäss Ziff. I der V vom 6. Okt. 1986, in Kraft seit 1. Jan. 1986 ( AS 1986 1789 )."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "",
+      "content": "1 Die mittlere Bruttoleistung ist aus den nutzbaren Wassermengen und den nutzbaren Gefällen zu berechnen. 2 ... 3 Für diese Berechnung sind die Wassermengen und die Gefälle massgebend, wie sie sich auf Grund der verleihungsgemäss ausgeführten Anlage ergeben. 4 Bei Anlagen, bei denen das Gefälle durch die Wassermenge nicht wesentlich beeinflusst wird, sowie bei Anlagen von geringer Bedeutung kann die mittlere Bruttoleistung aufgrund des Jahresmittels der nutzbaren Gefälle berechnet werden. 5 Wenn die Dauerkurve der mittleren täglichen Abflussmengen des Gewässers nicht bekannt ist, wird sie ermittelt durch Vergleich mit jenen von vergleichbaren Gebieten. 6 Lässt sich die mittlere Bruttoleistung nur mit besonderen Schwierigkeiten durch Messung von Wassermengen und Gefällen feststellen, so kann sie durch Messung der erzeugten elektrischen Energie ermittelt werden, jedoch unter Berücksichtigung der Teile der nutzbaren Wassermengen und Gefälle, welche nicht ausgenützt worden sind. Die Verleihungsbehörde trifft die erforderlichen Anordnungen. Fassung gemäss Ziff. I des BRB vom 30. Dez. 1953, in Kraft seit 1. Jan. 1953 ( AS 1954 230 ). Fassung gemäss Ziff. I der V vom 6. Okt. 1986, in Kraft seit 1. Jan. 1986 ( AS 1986 1789 ). Aufgehoben durch Ziff. I der V vom 6. Okt. 1986 ( AS 1986 1789 ). Fassung gemäss Ziff. I der V vom 6. Okt. 1986, in Kraft seit 1. Jan. 1986 ( AS 1986 1789 ). Fassung gemäss Ziff. I der V vom 6. Okt. 1986, in Kraft seit 1. Jan. 1986 ( AS 1986 1789 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "",
+      "content": "1 Die mittlere Bruttoleistung wird nach der Verleihung aufgrund der jährlichen Feststellungen berechnet. 2 Ist der Beliehene damit einverstanden, so kann die Verleihungsbehörde die für die vergangenen Jahre berechnete durchschnittliche mittlere Bruttoleistung für eine Anzahl weiterer Jahre anwenden. 3 Tritt jedoch während dieser Zeit infolge baulicher Vorkehren irgendwelcher Art eine Änderung in den Nutzungsverhältnissen ein, so kann sowohl die Verleihungsbehörde als auch der Beliehene jederzeit eine erneute Ermittlung der mittleren Bruttoleistung verlangen. Fassung gemäss Ziff. I der V vom 6. Okt. 1986, in Kraft seit 1. Jan. 1986 ( AS 1986 1789 )."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "",
+      "content": "Als nutzbares Gefälle wird angesehen der Höhenunterschied des Wasserstandes zwischen dem Ort der Entnahme des Wassers aus dem öffentlichen Gewässer und dessen Wiederabgabe in dasselbe."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "1 Ist das tatsächlich ausgenützte Gefälle kleiner als das auf Grund der Verleihung nutzbare Gefälle, so ist das letztere in die Berechnung einzusetzen. 2 Wenn das tatsächlich ausgenützte Gefälle grösser ist als das verliehene Gefälle, so wird das erstere in die Berechnung eingesetzt. Fassung gemäss Ziff. I des BRB vom 30. Dez. 1953, in Kraft seit 1. Jan. 1953 ( AS 1954 230 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": "Liegen Entnahmestelle und Abgabestelle in verschiedenen Gewässern desselben hydrographischen Einzugsgebietes und wird das Wasser an einer Stelle des öffentlichen Gewässers abgegeben, die höher liegt als der natürliche Zusammenfluss der einbezogenen Gewässer, so ist der Höhenunterschied des Wasserstandes zwischen der Wasserabgabestelle und dem Wasserstand beim Zusammenfluss, soweit dieses Gefälle nicht in einer andern Kraftanlage zweckmässig verwendet werden kann, in das nutzbare Gefälle einzubeziehen."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "Liegen Entnahmestelle und Abgabestelle in Gewässern verschiedener hydrographischer Einzugsgebiete, so sind die Folgen einer solchen Überleitung bei der Gefällsberechnung angemessen zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "",
+      "content": "Für Gewässer, die künstlich in Sammelbecken oder in das Oberwasser einer Anlage eingeleitet werden, ist auch der Höhenunterschied zwischen dem Wasserstand bei der Ableitung aus dem öffentlichen Gewässer und dem Wasserstand im Sammelbecken oder im Oberwasser als nutzbares Gefälle anzurechnen."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "Bei Pumpwerkanlagen, die zur Kraftgewinnung dienen und bei denen Wasserentnahmestelle und Wasserabgabestelle nicht zusammenfallen, gilt als nutzbares Gefälle der Höhenunterschied zwischen dem Wasserstand der Entnahmestelle und der Abgabestelle im öffentlichen Gewässer; die ausserhalb des öffentlichen Gewässers aufgewendete Förderhöhe und erzielte Gefällshöhe fallen ausser Betracht."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "",
+      "content": "1 Wird die natürliche Geschwindigkeit des Wassers in öffentlichen Gewässern ohne künstliches Gerinne als Triebkraft benutzt, so gilt die Geschwindigkeitshöhe als nutzbares Gefälle. 2 Die Geschwindigkeitshöhe wird berechnet aus der mittleren Geschwindigkeit des Wassers bei mittlerer Wasserspiegelhöhe an der Nutzungsstelle."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "Wird das einer Anlage zur Verfügung stehende nutzbare Gefälle durch die Beseitigung gefällsaufzehrender Hindernisse im öffentlichen Gewässer vermehrt, so ist das vermehrte Gefälle insoweit in Anrechnung zu bringen, als es in der Anlage, wie sie in der Verleihung vorgesehen ist, verwendet werden kann."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "",
+      "content": "Wird dem Beliehenen eines vor dem 25. Oktober 1908 begründeten Wasserrechtes eine Erhöhung des in der Verleihung vorgesehenen Gefälles bewilligt, so ist der für diese Kraftvermehrung zu entrichtende Wasserzins nach den Vorschriften dieser Verordnung zu berechnen."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "",
+      "content": "Der Ort der Wasserentnahme befindet sich: a. bei Kraftwerken mit überstautem Gefälle (reinen Stauwerken) auf der Oberseite des Stauwerkes; b. bei Kraftwerken mit ganz oder teilweise umgangenem Gefälle (Anlagen mit Ableitungen) im öffentlichen Gewässer vor der Ableitungsvorrichtung; c. bei Benützung künstlicher oder natürlicher Sammelbecken (Seen und Grundwasserbecken) in diesen selbst, ohne Rücksicht darauf, ob die Wasserableitung unter dem Drucke des Wassers im Sammelbecken steht; d. bei Benützung von Grundwässern und Quellen an deren Fassungsstelle."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "",
+      "content": "Der Ort der Wasserabgabe befindet sich sowohl bei Kraftwerken mit überstautem Gefälle (reinen Stauwerken), als auch bei Kraftwerken mit ganz oder teilweise umgangenem Gefälle (Anlagen mit Ableitungen) im öffentlichen Gewässer bei der Einmündung des Werkgerinnes."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "",
+      "content": "1 Zum Zwecke der Feststellung des Wasserstandes am Ort der Entnahme und am Ort der Abgabe sind die betreffenden Wasserspiegelhöhen an Pegeln und soweit erforderlich in Verbindung mit Limnigraphen zu beobachten. 2 Haben Dritte ein Interesse an der Einhaltung der Staugrenze, so sind zudem gut sichtbare Stauzeichen anzubringen. 3 Die Meterteilung der Pegelskalen und die Höhe der Stauzeichen sind auf den schweizerischen Nivellementhorizont (Meereshöhe des Repère Pierre du Niton = 373,6 m) zu beziehen."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "",
+      "content": "1 Zum Zwecke der Berechnung der nutzbaren Wassermengen sind die gesamten im öffentlichen Gewässer vorhandenen Abflussmengen festzustellen; davon sind in Abzug zu bringen die Wassermengen, die auf Grund der Verleihung im öffentlichen Gewässer zu verbleiben haben oder nach Massgabe der Bestimmungen des Gesetzes oder der Verleihung abgegeben werden müssen. 2 Die alsdann noch vorhandenen Wassermengen gelten, soweit sie die Aufnahmefähigkeit der in der Verleihung vorgesehenen Anlage nicht überschreiten, als nutzbare Wassermengen; die Schluckfähigkeit von Wassermotoren, die in der Verleihung als ständige Reservemotoren vorgesehen sind, fällt nicht in Anrechnung. 3 Sind im öffentlichen Gewässer Wassermengen vorhanden, die aus einem anderen Gewässer zugeleitet worden sind, so sind die Folgen einer solchen Überleitung bei der Bestimmung der nutzbaren Wassermengen angemessen zu berücksichtigen. Eingefügt durch Ziff. I des BRB vom 30. Dez. 1953, in Kraft seit 1. Jan. 1953 ( AS 1954 230 )."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "",
+      "content": "Überschreitet die tatsächlich benutzte Wassermenge die verliehene Wassermenge, so ist die erstere in die Berechnung einzusetzen."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "",
+      "content": "1 Bei Pumpwerkanlagen, die das Wasser einer auch zu anderweitiger Krafterzeugung verliehenen Gewässerstrecke entnehmen, gilt als nutzbare Wassermenge die wirkliche Fördermenge. 2 In allen andern Fällen gilt als nutzbare Wassermenge die dem Pumpwerk zur Verfügung stehende Wassermenge, soweit sie seine Leistungsfähigkeit (max. Fördermenge) nicht überschreitet."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "",
+      "content": "1 Die sekundlichen Abflussmengen sind auf direktem Wege zu messen; die Messung erfolgt durch Eichung oder durch Geschwindigkeitsmessungen mittels des Flügelinstrumentes. 2 Andere Messverfahren sind zulässig, wenn sie unter gleichen Messverhältnissen den nämlichen Genauigkeitsgrad des Messergebnisses gewährleisten. 3 Die indirekte Bestimmung der Wassermengen auf ausschliesslich rechnerischem Wege ist nur zulässig, wenn ein den Anforderungen dieser Verordnung entsprechendes Messverfahren nicht möglich ist."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "",
+      "content": "Erfolgt die Wassernutzung aus einem natürlichen oder künstlichen Sammelbecken, so kann die verfügbare Wassermenge bestimmt werden aus der Änderung des Wasserstandes im Sammelbecken, sowie aus den künstlichen Abflussmengen (Betriebswassermenge im Unterwasserkanal) und den natürlichen Abflussmengen (Überlauf bzw. Abfluss im natürlichen Gerinne)."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "",
+      "content": "1 Die Messung der Abflussmengen im öffentlichen Gewässer hat wenn möglich an einer durch die Gefällsnutzung unbeeinflussten Stelle zu erfolgen, die die ganze, der Anlage zur Verfügung stehende Wassermenge vereinigt. 2 Bei Anlagen mit Sammelbecken kann die Messung der Zuflussmengen der einbezogenen Gewässer durch Messung der Wasserstände im Sammelbecken und der Abflussmengen im Unterwasserkanal sowie an den Überlaufstellen erfolgen. 3 Werden Gewässer künstlich in Sammelbecken oder in das Oberwasser einer Anlage eingeleitet, so ist die Messung der vorhandenen Wassermengen im öffentlichen Gewässer vorzunehmen. Fassung gemäss Ziff. I des BRB vom 30. Dez. 1953, in Kraft seit 1. Jan. 1953 ( AS 1954 230 ). Fassung gemäss Ziff. I des BRB vom 30. Dez. 1953, in Kraft seit 1. Jan. 1953 ( AS 1954 230 )."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "",
+      "content": "1 Der höchstzulässige Wasserzins für Werke mit Sammelbecken wird ermittelt, wie wenn diese Werke als Laufwerke betrieben würden. Wenn indessen die so ermittelte Erzeugungsmöglichkeit dank des Sammelbeckens durch die wirkliche Erzeugung übertroffen wird, so wird die entsprechende zusätzliche Bruttokraft in Anrechnung gebracht. Statt auf die Erzeugung kann auf die genutzte Wassermenge abgestellt werden. 2 und 3 … Fassung gemäss Ziff. I des BRB vom 30. Dez. 1953, in Kraft seit 1. Jan. 1953 ( AS 1954 230 ). Aufgehoben durch Ziff. I der V vom 6. Okt. 1986, mit Wirkung seit 1. Jan. 1986 ( AS 1986 1789 )."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "",
+      "content": "1 Vom 1. Januar 1918 an hat die Berechnung des Wasserzinses für die seit dem 25. Oktober 1908 begründeten Wasserrechte nach den Bestimmungen dieser Verordnung zu erfolgen. 2 Sind dem Inhaber eines ältern Wasserrechts nach dem 25. Oktober 1908 neue Wasserkräfte verliehen worden, so gelten die Bestimmungen dieser Verordnung für den für diese neuen Wasserkräfte zu entrichtenden Wasserzins."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,168 @@
+{
+  "id": "sr-120-73",
+  "type": "statute",
+  "title": "Verordnung vom 27. Mai 2020 über den Schutz vor Cyberrisiken in der Bundesverwaltung (Cyberrisikenverordnung, CyRV)",
+  "title_en": "Ordinance of 27 May 2020 on Protection against Cyber Risks in the Federal Administration (Cyber Risks Ordinance, CyRV)",
+  "short_name": "CyRV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2020/416/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "This Ordinance regulates the organisation of the Federal Administration for its protection against cyber risks as well as the tasks and responsibilities of the various offices in the cyber security domain."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Scope of application",
+      "content": "This Ordinance applies to: a. the administrative units of the central Federal Administration in accordance with Article 7 the Government and Administration Ordinance of 25 November 1998; b. the offices that undertake in accordance with Article 2 paragraph 2 of the Ordinance of 25 November 2020 on the Digital Transformation and ICT (DTIO) to comply therewith. SR 172.010.1 Amended by Annex No 1 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ( AS 2020 5871 ). SR 172.010.58"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "3",
+      "title": "Definitions",
+      "content": "In this Ordinance: a. cyber security means the desired state in which data processing via information and communication infrastructures, in particular the exchange of data between persons and organisations, works as intended; b. cyber incident means an unintended or intended but unauthorised event that leads to the confidentiality, integrity, availability or comprehensibility of data being adversely affected or that may lead to malfunctions; c. cyber risk means the risk of a cyber incident, the extent of which is measured by the product of the probability of occurrence and the extent of the damage potentially caused; d. resilience means the ability of a system, organisation or society to withstand internal or external disruptions and to maintain proper functionality or restore it as quickly and completely as possible; e. information technology security means the aspect of cyber security that relates to technical systems; f. IT security directives means the security standards that apply to the organisational measures, processes, services and technology; g. critical infrastructures means processes, systems and facilities that are essential for the proper functioning of the economy or the well-being of the population."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Chapter 2 Principles governing Protection against Cyber Risks",
+      "section": "4",
+      "title": "Goals",
+      "content": "1 The Federal Administration shall ensure that its organs and systems are suitably resilient to cyber risks. 2 It shall work with the cantons, the communes, the private sector, society, academia and international partners provided this serves to protect its own security interests, and shall encourage the exchange of information."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Chapter 2 Principles governing Protection against Cyber Risks",
+      "section": "5",
+      "title": "National strategy for the protection of Switzerland against cyber risks",
+      "content": "The Federal Council shall set out in a national strategy for the protection of Switzerland against cyber risks (NCS) the strategic framework for improving the prevention and early detection of and the reaction and resilience to cyber risks."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Chapter 2 Principles governing Protection against Cyber Risks",
+      "section": "6",
+      "title": "Domains",
+      "content": "The measures to protect against cyber risks are divided into the following three domains: a. cyber security domain: all measures that serve to prevent and manage incidents and to improve resilience against cyber risks and that strengthen international cooperation for this purpose; b. cyber defence domain: all intelligence and military measures designed to protect critical systems, defend against attacks in cyberspace, ensure the operational readiness of the Armed Forces in all situations, and build capacities and capabilities to provide subsidiary support to civilian authorities; they include active measures to recognise threats, to identify aggressors and to disrupt and stop attacks; c. cyber prosecution domain: all measures taken by the police and federal and cantonal prosecutors to combat cyber crime."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 1 Cross-Departmental Cooperation",
+      "section": "7",
+      "title": "Federal Council",
+      "content": "The Federal Council shall carry out the following tasks: a. It monitors the implementation of the NCS on the basis of the strategic controlling and decides on measures as required. b. It shall within the scope of its responsibilities specify the areas in which directives on protection against cyber risks are required or must be revised. c. It shall issue directives on protecting the Federal Administration against cyber risks. d. It shall authorise derogations from its directives."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 1 Cross-Departmental Cooperation",
+      "section": "8",
+      "title": "Cyber Core Group",
+      "content": "1 The Cyber Core Group (CyCG) shall comprise: a. the Federal Cyber Security Delegate (Art. 6 a of the Federal Department of Finance Organisation Ordinance of 17 Feb. 2010) as the representative of the Federal Department of Finance (FDF); b. a representative of the Federal Department of Defence, Civil Protection and Sport (DDPS); c. a representative of the Federal Department of Justice and Police (FDJP); d. a representative of the cantons appointed by the Conference of Cantonal Governments. 2 The Federal Cyber Security Delegate chairs the Group. 3 The CyCG shall inform representatives of other federal administrative units that are active in connection with cyber risks about its agenda and may invite them to attend individual meetings. Where matters have a foreign policy dimension, it may involve the Federal Department of Foreign Affairs (FDFA). In addition it may involve experts from the private sector and the universities. 4 The CyCG has the following tasks in particular: a. It assesses current cyber risks and their potential development on the basis of information from the domains of cyber security, cyber defence and cyber prosecution. b. It continuously evaluates the existing systems in the domains of cyber security, cyber defence and cyber prosecution and checks whether these are adapted to the threat situation. c. It provides support, if necessary with other offices, for interdepartmental incident management. d. It informs the Federal Security Core Group (SCG) about cyber incidents and developments that are relevant to foreign and security-policy. 5 The three departments represented in the CyCG shall make information available for the joint assessment of a situation. 6 The Federal Intelligence Service is responsible for presenting the overall cyber threat situation to the CyCG. SR 172.215.1"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 1 Cross-Departmental Cooperation",
+      "section": "9",
+      "title": "Steering Committee for the National Strategy for the Protection of Switzerland against Cyber Risks",
+      "content": "1 The Federal Council shall appoint a Steering Committee for the National Strategy for the Protection of Switzerland against Cyber Risks (NCS StC). 2 The NCS StC shall comprise the Federal Cyber Security Delegate, representatives from the cantons appointed by the Conference of Cantonal Governments, representatives of business and the universities and representatives of the administrative units that are responsible for implementing any NCS measures in accordance with the NCS implementation plan. Each department and the Federal Chancellery shall appoint at least one representative to the NCS StC. 3 The Federal Cyber Security Delegate chairs the Steering Committee. 4 The NCS StC has the following tasks: a. It ensures the strategic coherence of the implementation of NCS measures and checks their progress continuously by a process of strategic controlling. b. It draws up proposals for special measures in the event of the delayed or incomplete implementation of NCS measures. c. It ensures the ongoing further development of the NCS; to do so it monitors the development of the threat situation in consultation with the CyCG and devises proposals for the adjustment of the NCS as required. d. It prepares a report each year on the implementation of the NCS for the Federal Council and the public. e. It ensures all the offices concerned from the Confederation, cantons, business and universities take a coordinated approach to implementing the NCS measures. f. It ensures that in implementing the NCS measures account is taken of the risk policy of the Confederation, the national strategy to protect critical infrastructures and the Federal Council strategies in relation to information technology."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "IT Security Committee",
+      "content": "1 The IT Security Committee (ITSC) comprises a representative of the National Cyber Security Centre (NCSC), the departmental and the Federal Chancellery IT security officers and the IT security officers for standard information and communication technology services (ICT). 2 Additional persons may be included in an advisory capacity on a case-by-case basis. 3 The NCSC representative chairs the committee. 4 The ITSC acts as a consultative body for the NCSC on IT security issues in the Federal Administration. Footnote not relevant to English text"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "The Cyber Security Delegate",
+      "content": "1 The Federal Cyber Security Delegate has the following tasks: [tab] a. He or she chairs the NCSC. b. He or she ensures the best possible coordination of cross-departmental work in the domains of cyber security, cyber defence and cyber prosecution. c. He or she ensures the visibility of the activities of the Confederation related to cyber risks, contributes to achieving the best possible conditions for an innovative cyber security economy, is the relevant federal contact person for cyber risks and represents the Confederation in the relevant committees and working groups; he or she ensures the best possible coordination of the work of the cantons and of the Confederation to protect Switzerland against cyber risks. d. He or she represents the NCSC in the federal crisis units. e. He or she shall issue IT security directives. f. He or she decides on derogations from the directives that he or she issues; if the derogations also affect directives issued by the Federal Chancellery on the digital transformation und ICT steering, he or she shall consult the Federal Chancellery beforehand. 2 He or she shall regularly inform the FDF on behalf of the Federal Council about the status of information technology security in the departments and the Federal Chancellery. 3 He or she may participate in the preparation of Federal Administration IT directives that relate to cyber security and in security-relevant IT projects. In particular he or she may request information, comment thereon and request changes. 4 He or she may, after consulting the Swiss Federal Audit Office, request audits of information technology security. Amended by Annex No 1 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ( AS 2020 5871 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 2 Units in the Cyber Security Domain",
+      "section": "12",
+      "title": "National Cyber Security Centre",
+      "content": "1 The NCSC is the centre of excellence of the Confederation for cyber risks and coordinates the work of the Confederation in the cyber security domain. It has the following tasks: a. It runs the National Contact Point for Cyber Risks; this receives reports from the Federal Administration, the private sector, the cantons and the public, analyses them and may issue recommendations thereon. b. It ensures with its cooperation partners in the Federal Administration that subsidiary support is given to operators of critical infrastructures and encourages these operators to exchange information on cyber risks. c. It runs the Computer Emergency Response Team (GovCERT); this is the national specialist service responsible for technical aspects of incident management, analysing technical questions, assessing the threat situation from a technical viewpoint and providing technical support to the National Contact Point. d. It runs a specialist service for the federal information technology security; this shall draw up IT security directives, advise the administrative units on their implementation and monitor the status of information technology security in the departments and the Federal Chancellery. e. It provides the federal IT security officers (FITSOs). f. It coordinates the implementation of the NCS, conducts strategic controls and prepares the meetings of the CyCG and of the NCS StC. g. It has a pool of experts from which experts are provided to support the individual offices in implementing NCS measures and in developing, implementing and checking standards and regulations in relation to cyber security. h. It contributes with specific information to raising awareness of cyber risks in the Federal Administration and among the general public, provides information on the current situation and gives instructions on preventive and reactive measures. i. It runs a resilient analysis and communications infrastructure that must function independently of the other federal IT systems. j. It informs the CyCG and, on matters of importance to foreign and security policy, the SCG about relevant cyber incidents. 2 It may, provided this directly or indirectly serves to protect the Federal Administration against cyber risks, process data on cyber incidents and associated communication flows. It may disclose such data to government and private security teams, provided: a. the data provider agrees; and b. no statutory duties of confidentiality are infringed. 3 A disclosure of personal data abroad is only permitted if the related requirements of the federal legislation on data protection are complied with. 4 Sensitive personal data may only be processed if there is a statutory basis for processing such data with the means available within the federal IT systems. 5 After consulting with the offices concerned, the NCSC shall assume overall responsibility within the Federal Administration for managing a cyber incident if the incident poses a risk to the proper functioning of the Federal Administration. In doing so, it has the following tasks and powers: a. It may require the service providers and recipients concerned to provide it with all necessary information. b. It may order immediate measures. c. It shall update the management of the administrative units concerned on the current situation. 6 If, following a cyber incident, the risk to the confidentiality or the efficiency of the Federal Administration is sufficiently reduced by the measures taken and if the required follow-up work and its funding have been defined, the NCSC shall reassign responsibility for the further processing to the offices concerned."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 2 Units in the Cyber Security Domain",
+      "section": "13",
+      "title": "Departments and Federal Chancellery",
+      "content": "1 The departments and the Federal Chancellery shall report to the NCSC at the end of the year on the status of information technology security. 2 The internal service providers in accordance with Article 9 DTIO shall submit regular reports to the NCSC on weaknesses and cyber incidents that have been detected and on measures planned and taken for their rectification. 3 The departments and the Federal Chancellery shall each appoint an IT security officer (ITSOD). SR 172.010.58 Amended by Annex No 1 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ( AS 2020 5871 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Administrative units and their service providers",
+      "content": "1 The administrative units shall each appoint an IT security officer (ITSOO). The Digital Transformation and ICT Steering Sector at the Federal Chancellery shall also appoint an IT security officer for the ICT standard services. 2 The administrative units are responsible for protecting their computer systems, applications and data (protected systems). They shall carry out the following tasks: a. They shall check their protected systems regularly and take the required security measures; they shall in particular ensure that these measures are documented for the individual protected systems in the current manner. b. They are responsible for compliance with the IT security directives and the decisions of the Federal Council, the NCSC and the departments or the Federal Chancellery within the scope of their responsibilities. c. They are responsible, subject to Article 12 paragraph 5, for managing cyber incidents that affect their protected systems. d. When obtaining services from an external service provider, they shall ensure that the IT security directives form part of the contractual relationship with that provider. e. They shall verify that external service providers are in compliance with the IT security directives requirements in a suitable manner. 3 The service providers shall ensure that they have the capacities required to manage cyber incidents that affect their own systems and those of their service procurers. 4 The service providers shall report any weaknesses and security incidents immediately to the service recipients. 5 The service recipients shall work with the service providers to define a process for managing cyber incidents. The process shall in particular regulate the decision-making powers in relation to immediate measures. 6 If it is not possible to manage a cyber incident in accordance with the defined process, the parties concerned shall inform the NCSC so that it can decide on what further action to take. 7 The administrative units shall consult the NCSC in connection with security-relevant IT directives as well as projects. 8 The administrative units are responsible for developing, implementing and checking standards and regulations in relation to cyber security in their sectors. The NCSC shall wherever possible provide them with experts from the pool mentioned in Article 12 paragraph 1 letter g. Amended by Annex No 1 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ( AS 2020 5871 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Chapter 4 Final Provisions",
+      "section": "15",
+      "title": "Amendment of other legislation",
+      "content": "The amendment of other legislation is regulated in the Annex."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Chapter 4 Final Provisions",
+      "section": "16",
+      "title": "Transitional provision to Article 2 letter b",
+      "content": "1 Authorities and offices that have undertaken by agreement with the Federal IT Steering Unit (FITSU) to comply with the provisions of the Federal Administration Information Technology Ordinance of 9 December 2011 (FAITO) before this Ordinance comes into force shall be subject until 31 December 2021 to the obligations in accordance with this Ordinance to the extent under the current law. 2 They shall be subject to this Ordinance from 1 January 2022, unless the agreement is terminated on or before 31 December 2021. AS 2011 6093 , 2015 4873 , 2016 1783 3445 , 2018 1093 , 2020 2107 Amended by Annex No 1 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ( AS 2020 5871 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Chapter 4 Final Provisions",
+      "section": "17",
+      "title": "Transitional provision to Article 11 paragraph 1 letter e",
+      "content": "1 ICT security directives and permitted exceptions issued by the FITSU before this Ordinance comes into force shall continue to apply. 2 The NCSC shall decide on amendments to the directives and authorised exceptions."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Chapter 4 Final Provisions",
+      "section": "18",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 July 2020."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "cyber incident",
+      "definition": "cyber incident means an unintended or intended but unauthorised event that leads to the confidentiality, integrity, availability or comprehensibility of data being adversely affected or that may lead to malfunctions;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "cyber risk",
+      "definition": "cyber risk means the risk of a cyber incident, the extent of which is measured by the product of the probability of occurrence and the extent of the damage potentially caused;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "resilience",
+      "definition": "resilience means the ability of a system, organisation or society to withstand internal or external disruptions and to maintain proper functionality or restore it as quickly and completely as possible;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "information technology security",
+      "definition": "information technology security means the aspect of cyber security that relates to technical systems;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "IT security directives",
+      "definition": "IT security directives means the security standards that apply to the organisational measures, processes, services and technology;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "critical infrastructures",
+      "definition": "critical infrastructures means processes, systems and facilities that are essential for the proper functioning of the economy or the well-being of the population.",
+      "source_provision": "art3"
+    }
+  ]
+}

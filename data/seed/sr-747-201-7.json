@@ -1,0 +1,493 @@
+{
+  "id": "sr-747-201-7",
+  "type": "statute",
+  "title": "Verordnung vom 14. März 1994 über Bau und Betrieb von Schiffen und Anlagen für den gewerbsmässigen Personentransport (Schiffbauverordnung, SBV)",
+  "title_en": "",
+  "short_name": "SBV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt den Bau und Betrieb von Schiffen und Infrastrukturanlagen öffentlicher Schifffahrtsunternehmen. 2 Für den Bau, die Ausrüstung und den Betrieb von Fahrgastschiffen von Schifffahrtsunternehmen ohne eidgenössische Konzession gelten nur die Artikel 5–14, 17–19, 21–40, 43, 44 Absätze 1–3, 45 Absätze 1 und 2, 45 a , 46, 47, 48 Absatz 1, 49–51, 57 und 57 a und die dazugehörigen Ausführungsbestimmungen des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK). 3 Für den Bau, die Ausrüstung und den Betrieb von Schiffen für den gewerbsmässigen Transport von höchstens zwölf Fahrgästen gelten nur die Artikel 22, 27 Absätze 1 und 2, 28–36, 38 und 39 und die dazugehörigen Ausführungsbestimmungen des Departements sowie die Artikel 107–114, 124 und 131–140 a der Binnenschifffahrtsverordnung vom 8. November 1978. 4 Vorbehalten bleiben internationale Vereinbarungen und die darauf beruhenden Vorschriften. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). SR 747.201.1"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. öffentliche Schifffahrtsunternehmen: eidgenössisch konzessionierte und eidgenössisch bewilligte Schifffahrtsunternehmen; b. Infrastrukturanlagen: Bauten und Einrichtungen, die für den Betrieb von Schiffen notwendig sind, namentlich Landungsanlagen, Werften und Betankungsanlagen; c. besondere Energieträger: Brenn- oder Treibstoffe, die nicht zu Benzin, Dieselbrennstoff, Dampfenergie oder elektrischer Energie zählen; in Zweifelsfällen entscheidet das Bundesamt für Verkehr (BAV) über die Zuordnung eines Energieträgers; d. Risikoanalyse: systematisches Verfahren zur vorgängigen Analyse der Risiken nach der Inbetriebnahme (Betriebsphase): 1. einer Infrastrukturanlage; zu berücksichtigen sind der Verwendungszweck und die Umgebung, in der die Infrastrukturanlage gebaut wird, 2. eines Schiffes; zu berücksichtigen sind der Schiffstyp, der Verwendungszweck und die Umgebung, in der das Schiff verkehren wird; e. Sicherheitsbericht: Bericht (Baubeschreibung), mit dem nachgewiesen wird, dass das Schiff oder die Infrastrukturanlage sicher und gemäss den Vorschriften dieser Verordnung und den Ausführungsbestimmungen gebaut und betrieben werden kann, und in dem Massnahmen festlegt werden, mit denen Risiken begegnet wird; f. Sachverständigenprüfbericht: Bericht eines oder einer Sachverständigen, in dem ausgewiesen wird, ob das von ihm oder ihr geprüfte Objekt die jeweils anwendbaren Vorschriften erfüllt. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Aufsicht",
+      "content": "1 Aufsichtsbehörde für die eidgenössisch konzessionierten Schifffahrtsunternehmen ist das BAV. 2 Aufsichtsbehörde für Schifffahrtsunternehmen ohne eidgenössische Konzession sind die zuständigen kantonalen Behörden. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Gebühren",
+      "content": "Das BAV erhebt Gebühren nach der Verordnung vom 1. Juli 1987 über die Gebühren im Aufgabenbereich des Bundesamtes für Verkehr. Ausdruck gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). Diese Änd. wurde im ganzen Erlass berücksichtigt. [ AS 1987 1052 , 1992 573 Art. 25 Abs. 3, 1993 1375 Art. 7 2599 , 1996 146 Ziff. I 3 470 Art. 55 Abs. 3. AS 1999 754 Anhang Ziff. 1]. Siehe heute die Gebührenverordnung BAV vom 25. Nov. 1998 ( SR 742.102 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Sorgfaltsregeln",
+      "content": "1 Planung, Berechnung, Bau und Instandhaltung der Schiffe und Infrastrukturanlagen müssen den Bestimmungen dieser Verordnung und den Ausführungsbestimmungen entsprechen sowie nach den anerkannten Regeln der Technik und unter der Leitung von Fachleuten ausgeführt werden. 2 Als anerkannte Regeln der Technik gelten insbesondere die jeweils gültigen Vorschriften anerkannter Klassifikationsgesellschaften über den Schiffbau sowie die den Schiffbau betreffenden nationalen und internationalen Vorschriften und Normen. In Zweifelsfällen entscheidet das BAV. 3 Die Schiffs- und Anlagenteile, insbesondere die Überwachungs- und Bedienungseinrichtungen, müssen so konstruiert und eingebaut sein, dass sie einen sicheren Betrieb ermöglichen. Sie müssen zudem wartungs- und kontrollgerecht sowie bedienerfreundlich konstruiert sein. 4 Bei den für die Sicherheit wesentlichen Teilen muss nachgewiesen werden können, dass die verwendeten Werkstoffe funktionsgerechte Eigenschaften besitzen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art5a",
+      "section": "5a",
+      "title": "a Sachverständige",
+      "content": "1 Als Sachverständige dürfen nur Personen beigezogen werden, die: a. im zu prüfenden Bereich eine Aus- oder Weiterbildung abgeschlossen haben, die der Komplexität und der Sicherheitsrelevanz des Projekts angemessen ist; b. Anlagen oder Teilsysteme auf Schiffen, die mit den zu prüfenden Anlagen und Teilsystemen vergleichbar sind, bereits selbst entwickelt, gebaut oder eingebaut oder solche Anlagen oder Teilsysteme bereits selbst geprüft und begutachtet haben; und c. unabhängig sind. 2 Unabhängig ist eine Person, wenn: a. sie in der betreffenden Sache nicht in anderer Funktion vorbefasst ist; b. sie keinen Weisungen unterliegt; und c. deren Vergütung nicht vom Ergebnis der Prüfung abhängt. 3 Als Sachverständige dürfen auch juristische Personen beigezogen werden, wenn diese Sachverständige nach Absatz 1 beschäftigen. Eingefügt durch Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Berücksichtigung anderer Interessen",
+      "content": "1 Den Belangen der Raumplanung, des Umweltschutzes sowie des Natur- und Heimatschutzes ist bei Planung, Bau, Betrieb und Instandhaltung von Infrastrukturanlagen Rechnung zu tragen. 2 Die Bedürfnisse von Menschen mit Behinderungen sind bei Planung, Bau und Betrieb von Schiffen und Infrastrukturanlagen angemessen zu berücksichtigen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Ergänzende Vorschriften",
+      "content": "Soweit diese Verordnung und ihre Ausführungsbestimmungen keine abweichenden Vorschriften enthalten, gilt: a. für Bau, Betrieb und Instandhaltung der elektrischen Teile der Schiffe und Infrastrukturanlagen: die Elektrizitätsgesetzgebung des Bundes, insbesondere die Niederspannungs-Installationsverordnung vom 7. November 2001; b. für die Verwendung von Druckluft- und Dampfkesselanlagen: die Druckgeräteverwendungsverordnung vom 15. Juni 2007; c. für Antriebsanlagen: die Verordnung vom 13. Dezember 1993 über die Abgasemissionen von Schiffsmotoren auf schweizerischen Gewässern; d. für die Ausrüstung der Schiffe mit Lichtern und Schallgeräten: die Binnenschifffahrtsverordnung vom 8. November 1978. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). SR 734.27 SR 832.312.12 [ AS 1993 3333 , 1997 558 , 1999 754 Anhang Ziff. 7, 2006 4705 Ziff. II 71, 2007 2313 , 2008 301 . AS 2015 4401 Art. 20]. Siehe heute: die V vom 14. Okt. 2015 über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ( SR 747.201.3 ). SR 747.201.1"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Abweichungen von den Vorschriften",
+      "content": "1 Die zuständige Behörde kann in Ausnahmefällen Massnahmen anordnen, die von den Vorschriften dieser Verordnung abweichen, um Gefahren für Menschen oder Sachen abzuwenden. 2 Sie kann bei einfachen Betriebsverhältnissen oder bei neuen Erkenntnissen in Ausnahmefällen Massnahmen bewilligen, die von den Vorschriften dieser Verordnung abweichen, wenn der Gesuchsteller oder die Gesuchstellerin anhand einer Risikoanalyse nachweist, dass der Schutz der Umwelt sichergestellt ist und durch die bewilligte Massnahme: a. der gleiche Grad an Sicherheit gewährleistet ist; oder b. kein inakzeptables Risiko entsteht und alle verhältnismässigen risikoreduzierenden Massnahmen ergriffen werden. 3 Sie kann in Ausnahmefällen den Einsatz von Schiffen, die den Vorschriften dieser Verordnung nicht entsprechen, für Sonderzwecke im Rahmen von zeitlich begrenzten Veranstaltungen bewilligen, wenn dadurch ein unverhältnismässig hoher Aufwand vermieden wird. Die Sicherheit der Fahrgäste und der Besatzung an Bord sowie der Schutz der Umwelt müssen gewährleistet sein. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Anerkennung anderer Atteste",
+      "content": "Die zuständige Behörde kann ganz oder teilweise von der Prüfung einzelner Bauteile oder der verwendeten Werkstoffe absehen, wenn eine gültige Bescheinigung einer in- oder ausländischen Behörde oder anerkannten Prüf- oder Zertifizierungsstelle vorliegt."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Aufgaben und Befugnisse der Aufsichtsbehörde",
+      "content": "1 Die zuständige Behörde überwacht Bau, Betrieb und Instandhaltung der Schiffe und Infrastrukturanlagen risikoorientiert. 2 Sie kann Sicherheitsberichte, Risikoanalysen sowie andere Nachweise verlangen. Sie kann stichprobenweise selbst Prüfungen vornehmen. 3 Stellt die zuständige Behörde fest, dass ein Schiff oder eine Infrastrukturanlage die Sicherheit von Personen, die Sicherheit von Gütern oder den Schutz der Umwelt gefährden kann, oder liegen hierfür konkrete Anhaltspunkte vor, so ordnet sie an, dass das Schifffahrtsunternehmen die Massnahmen trifft, die erforderlich sind, damit die Sicherheit und der Schutz der Umwelt gewährleistet werden können. 4 Genügen die vom Schifffahrtsunternehmen getroffenen Massnahmen nicht, um die Sicherheit und den Schutz der Umwelt zu gewährleisten, so kann die zuständige Behörde: a. anordnen, dass das Schifffahrtsunternehmen weitergehende Massnahmen trifft; oder b. Dritte beauftragen, die geeigneten Massnahmen zu treffen. 5 Sie kann den Betrieb mit sofortiger Wirkung einschränken oder untersagen, den Schiffsausweis entziehen oder eine Infrastrukturanlage sperren, sofern die Sicherheit oder der Schutz der Umwelt dies gebietet. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Mitwirkung",
+      "content": "1 Die Schifffahrtsunternehmen haben den Vertretern und Vertreterinnen der zuständigen Behörde jederzeit Auskunft zu erteilen und sämtliche relevanten Dokumente herauszugeben sowie freie Fahrt und Zutritt zu den Schiffen und Infrastrukturanlagen zu gewähren. 2 Sie haben die Vertreter und Vertreterinnen der zuständigen Behörde sowie die von ihr beauftragten Sachverständigen bei ihrer Prüf- und Kontrolltätigkeit unentgeltlich zu unterstützen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Verantwortlichkeit der Schifffahrtsunternehmen",
+      "content": "Die Schifffahrtsunternehmen sorgen für den vorschriftsgemässen Bau der Schiffe und Infrastrukturanlagen sowie für deren sicheren Betrieb und deren Instandhaltung. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Betriebsorganisation",
+      "content": "Die Betriebsorganisation muss den Eigenheiten der Schifffahrtsunternehmen sowie dem technischen Stand der Schiffe, der Antriebsanlagen, der Hilfsaggregate, der verwendeten Energieträger und der Infrastrukturanlagen entsprechen und die Instandhaltung gewährleisten. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Betriebsvorschriften",
+      "content": "Die Schifffahrtsunternehmen erlassen die notwendigen Betriebsvorschriften. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Meldepflicht der öffentlichen Schifffahrtsunternehmen",
+      "content": "1 Die öffentlichen Schifffahrtsunternehmen erstatten dem BAV regelmässig Bericht über den Zustand ihrer Schiffe und Infrastrukturanlagen. Das UVEK erlässt Vorschriften über Art, Umfang und Zeitpunkt der zu erstattenden Meldungen. 2 Im Übrigen gilt die Verordnung vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). SR 742.161"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "1. Abschnitt: Infrastrukturanlagen",
+      "section": "16",
+      "title": "Grundsatz",
+      "content": "Das Plangenehmigungsverfahren für Infrastrukturanlagen, die ausschliesslich oder überwiegend dem Betrieb eines öffentlichen Schifffahrtsunternehmens dienen, sowie jenes für Infrastrukturanlagen Dritter (Nebenanlagen) richten sich nach den Artikeln 18 und 18 m des Eisenbahngesetzes vom 20. Dezember 1957 und nach der Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für Eisenbahnanlagen. SR 742.101 SR 742.142.1"
+    },
+    {
+      "provision_ref": "art16a",
+      "chapter": "1. Abschnitt: Infrastrukturanlagen",
+      "section": "16a",
+      "title": "a Infrastrukturanlagen für das Tanken und Lagern besonderer Energieträger",
+      "content": "1 Dient eine Infrastrukturanlage der Betankung von Schiffen mit besonderen Energieträgern oder der Lagerung besonderer Energieträger, so muss der Gesuchsteller oder die Gesuchstellerin anhand eines Sicherheitsberichtes nachweisen, dass die Infrastrukturanlage sicher und gemäss den Vorschriften dieser Verordnung und der Ausführungsbestimmungen gebaut und betrieben werden kann. 2 Der Sicherheitsbericht muss auf einer Risikoanalyse basieren und von einem oder einer Sachverständigen geprüft werden. Der oder die Sachverständige muss das Resultat der Prüfung in einem Sachverständigenprüfbericht festhalten. 3 Der Gesuchsteller oder die Gesuchstellerin kann beantragen, dass auf die Prüfung durch einen Sachverständigen oder eine Sachverständige verzichtet wird. Die zuständige Behörde berücksichtigt beim Entscheid die möglichen Gefahren des betreffenden Energieträgers. Sie gibt dem Antrag statt, wenn zu erwarten ist, dass die Prüfung nicht dazu beitragen kann, Fehler mit Auswirkungen auf die Sicherheit zu vermeiden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "2. Abschnitt: Schiffe",
+      "section": "17",
+      "title": "Grundsatz",
+      "content": "1 Schiffe dürfen erst gebaut, umgebaut oder erneuert werden, wenn die zuständige Behörde die Pläne und Berechnungen genehmigt hat. 2 Sollen bestehende Schiffe angeschafft werden, so sind deren Pläne und Berechnungen von der zuständigen Behörde zu genehmigen. 3 Für jedes Schiff muss anhand eines Sicherheitsberichtes nachgewiesen werden, dass: a. das Schiff sicher und gemäss den Vorschriften dieser Verordnung und der Ausführungsbestimmungen gebaut und betrieben werden kann; und b. die Schiffs- und Anlageteile, insbesondere die Überwachungs- und Bedienungseinrichtungen: 1. so konstruiert sind, dass sie einen sicheren Betrieb ermöglichen, und 2. wartungs- und kontrollgerecht sowie bedienerfreundlich konstruiert sind. 4 Das UVEK bestimmt, welche weiteren Unterlagen zusammen mit dem Plangenehmigungsgesuch eingereicht werden müssen. 5 Die zuständige Behörde kann verlangen, dass der Gesuchsteller oder die Gesuchstellerin Unterlagen von einem oder einer Sachverständigen prüfen lässt. 6 Sie kann die Pläne und Berechnungen selbst prüfen oder von einem oder einer Sachverständigen prüfen lassen. Im zweiten Fall muss der oder die Sachverständige das Resultat der Prüfung in einem Sachverständigenprüfbericht festhalten. 7 Sie kann das Plangenehmigungsverfahren für Schiffe, Bauteile und Ausrüstungsgegenstände, die mehrfach in gleicher Weise und in gleicher Funktion Anwendung finden, vereinfachen."
+    },
+    {
+      "provision_ref": "art17a",
+      "chapter": "2. Abschnitt: Schiffe",
+      "section": "17a",
+      "title": "a Schiffe mit besonderen Energieträgern",
+      "content": "1 Der Sicherheitsbericht nach Artikel 17 Absatz 3 muss auf einer Risikoanalyse basieren und von einem oder einer Sachverständigen geprüft werden. Der oder die Sachverständige muss das Resultat der Prüfung in einem Sachverständigenprüfbericht festhalten. 2 Der Gesuchsteller oder die Gesuchstellerin kann beantragen, dass auf die Prüfung durch den Sachverständigen oder die Sachverständige verzichtet wird. Die zuständige Behörde berücksichtigt beim Entscheid die möglichen Gefahren des betreffenden Energieträgers. Sie gibt dem Antrag statt, wenn zu erwarten ist, dass die Prüfung nicht dazu beitragen kann, Fehler mit Auswirkungen auf die Sicherheit zu vermeiden."
+    },
+    {
+      "provision_ref": "art17b",
+      "chapter": "2. Abschnitt: Schiffe",
+      "section": "17b",
+      "title": "b Dampfkessel- und Druckluftanlagen",
+      "content": "Das Schifffahrtsunternehmen hat der zuständigen Behörde vorzulegen: a. für Dampfkesselanlagen, die für den Antrieb von Schiffen oder von Hilfsaggregaten an Bord vorgesehen sind: eine Risikoanalyse sowie eine Erklärung des Herstellers, aus der hervorgeht, dass die Anlage den grundlegenden Sicherheitsanforderungen von Anhang I der Richtlinie 97/23/EG oder einer Vorschrift mit vergleichbaren Anforderungen entspricht; der Teil der Anlage, für welche die Konformität festgestellt wurde, muss in der Risikoanalyse nicht berücksichtigt werden; b. für Druckluftanlagen, die in den Geltungsbereich der Richtlinie 97/23/EG fallen: eine Risikoanalyse sowie eine Erklärung des Herstellers, aus der hervorgeht, dass die Druckluftanlage den Bestimmungen dieser Richtlinie entspricht. Richtlinie 97/23/EG des Europäischen Parlamentes und des Rates vom 29. Mai 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Druckgeräte, ABl. L 181 vom 9.7.1997, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 1882/2003, ABl. L 284 vom 31.10.2003, S. 1."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "3. Kapitel: Betriebsbewilligung",
+      "section": "18",
+      "title": "Grundsatz",
+      "content": "Schiffe dürfen nur mit einer Bewilligung der zuständigen Behörde in Betrieb genommen und betrieben werden. Für Bauten und Infrastrukturanlagen öffentlicher Schifffahrtsunternehmen bestimmt das BAV mit der Plangenehmigung, ob eine Betriebsbewilligung nach Artikel 20 erforderlich ist. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art18a",
+      "chapter": "3. Kapitel: Betriebsbewilligung",
+      "section": "18a",
+      "title": "a Prüfung für die Erteilung des Schiffsausweises",
+      "content": "Im Rahmen der Erteilung des Schiffsausweises nach Artikel 96 der Binnenschifffahrtsverordnung vom 8. November 1978 prüft die zuständige Behörde, ob das Schiff den Anforderungen der vorliegenden Verordnung, der dazugehörigen Ausführungsbestimmungen sowie den anwendbaren Bestimmungen der Binnenschifffahrtsverordnung genügt. Eingefügt durch Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). SR 747.201.1"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "3. Kapitel: Betriebsbewilligung",
+      "section": "19",
+      "title": "Schiffe",
+      "content": "1 Bei Schiffen gilt der Schiffsausweis als Betriebsbewilligung. 2 Mit Schiffen ohne Schiffsausweis dürfen nur Probefahrten durchgeführt werden. Probefahrten müssen von der zuständigen Behörde bewilligt werden. Es dürfen sich nur Personen an Bord befinden, die am Bau oder der Erprobung unmittelbar beteiligt sind. Die zuständige Behörde kann die Bewilligung von Probefahrten mit weiteren Auflagen verbinden. 3 ... Aufgehoben durch Ziff. I der V vom 11. Dez. 2015, mit Wirkung seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "3. Kapitel: Betriebsbewilligung",
+      "section": "20",
+      "title": "Infrastrukturanlagen",
+      "content": "Infrastrukturanlagen dürfen nur mit einer Betriebsbewilligung des BAV in Betrieb genommen und betrieben werden. Das Verfahren richtet sich nach Artikel 18 w des Eisenbahngesetzes vom 20. Dezember 1957. Das BAV kann die Betriebsbewilligung mit Auflagen versehen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). SR 742.101"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "3. Kapitel: Betriebsbewilligung",
+      "section": "21",
+      "title": "Umbauten",
+      "content": "1 Nach Umbauten, die sich wesentlich auf die Sicherheit auswirken, kann für Schiffe und Infrastrukturanlagen eine erneute praktische Erprobung angeordnet werden. 2 Der Schiffsausweis ist gegebenenfalls anzupassen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "1. Abschnitt: Schiffbauliche Anforderungen",
+      "section": "22",
+      "title": "Grundsatz",
+      "content": "1 Schiffe müssen nach den Regeln der Technik so gebaut sein, dass die Sicherheit der Fahrgäste und der Besatzung unter allen zu erwartenden Betriebsbedingungen gewährleistet ist und die Bestimmungen des Umwelt- und Gewässerschutzes eingehalten werden. 2 Sie sind in ihrer Art und Grösse auf die örtlichen und betrieblichen Verhältnisse abzustimmen. Das UVEK teilt die Gewässer in Zonen ein. 3 Die zuständige Behörde kann den Nachweis ausreichender Betriebssicherheit und Funktionstüchtigkeit von Bauteilen und Ausrüstungsgegenständen verlangen. Sie kann sich Eigenschaft und Qualität von Werkstoffen belegen lassen. Ausdruck gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "1. Abschnitt: Schiffbauliche Anforderungen",
+      "section": "23",
+      "title": "Ladung",
+      "content": "1 Die zuständige Behörde bestimmt die höchstzulässige Zahl der Fahrgäste und die höchstzulässige Ladung in Tonnen unter Berücksichtigung der Schiffsart, der Stabilität, des Freibords, des Sicherheitsabstandes und der Schwimmfähigkeit im Leckfall. 2 Auf einzelnen Schiffen können mit Bewilligung der zuständigen Behörde für zwei Erwachsene drei Kinder unter zwölf Jahren gerechnet werden. Die zuständige Behörde legt die Überschreitung der höchstzulässigen Zahl der Fahrgäste fest und berücksichtigt dabei die Schwimmfähigkeit im Leckfall, die Stabilität, den Freibord und den Sicherheitsabstand sowie den Allgemeinzustand des Schiffes. Die Überschreitung darf in keinem Fall mehr als 20 Prozent betragen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "1. Abschnitt: Schiffbauliche Anforderungen",
+      "section": "24",
+      "title": "Stabilität",
+      "content": "1 Die ausreichende Stabilität des intakten Schiffes (Intaktstabilität) ist nachzuweisen unter Ansatz: a. des krängenden Momentes aus seitlicher Personenverschiebung; b. des krängenden Momentes aus seitlichem Winddruck; c. des krängenden Momentes aus der Zentrifugalkraft beim Ruderlegen. 2 Die ausreichende Stabilität im Leckfall des Schiffes (Leckstabilität) ist für alle Phasen der Überflutung mit Einschluss des Endzustandes nachzuweisen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "1. Abschnitt: Schiffbauliche Anforderungen",
+      "section": "25",
+      "title": "Freibord und Sicherheitsabstand",
+      "content": "1 Freibord und Sicherheitsabstand setzen sich zusammen aus dem Restfreibord beziehungsweise dem Restsicherheitsabstand und der seitlichen Eintauchung durch Krängung. 2 Der Restfreibord des beladenen und gekrängten Schiffes muss grösser als 0,20 m sein; der Restsicherheitsabstand des beladenen und gekrängten Schiffes muss bei Schiffen mit vollkommen geschlossenem Deck grösser als 0,20 m und bei Schiffen mit vollständig oder teilweise fehlendem Deck grösser als 0,30 m sein. 3 Mindestfreibord und Mindestsicherheitsabstand eines Schiffes richten sich nach dem Fahrgebiet (Zone), in dem das Schiff verkehrt."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "1. Abschnitt: Schiffbauliche Anforderungen",
+      "section": "26",
+      "title": "Schwimmfähigkeit im Leckfall",
+      "content": "1 Die Schwimmfähigkeit im Leckfall ist für jedes Schiff nachzuweisen. Der Nachweis ist erbracht, wenn die Vorschriften über die Leckstabilität eingehalten werden und die Tauchgrenze in keiner Phase der Überflutung mit Einschluss des Endzustandes überschritten wird. 2 Als Tauchgrenze wird eine durchgehende Linie auf der Aussenhautbeplattung des Schiffes angenommen, die mindestens 100 mm unterhalb des Schnittpunktes der Beplattung mit der Oberfläche des Schottendecks und mindestens 100 mm unterhalb des tiefsten Punktes, an dem die Aussenhaut nicht mehr wasserdicht ist, vom Bug zum Heck verläuft. 3 Als Leckfall wird eine teilweise Überflutung des Schiffskörpers angenommen, deren Ausdehnung von der Schiffsklasse abhängig ist."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Schotte",
+      "content": "1 Jedes Schiff ist mit einem wasserdichten Kollisionsschott zu versehen. 2 Schiffe mit einer Länge von mehr als 20 m in der Konstruktionswasserlinie sind mit einem wasserdichten Heckschott in angemessenem Abstand vom hinteren Lot auszurüsten. 3 Zusätzlich sind wasserdichte Schotte einzubauen, deren Anzahl und Position im Schiff sich aus den Anforderungen an die Schwimmfähigkeit im Leckfall ergeben."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Steuerstand",
+      "content": "1 Steuerstände müssen so angeordnet und eingerichtet sein, dass sie ein sicheres Führen des Schiffes gewährleisten. Das Fahrwasser und die zum An- und Ablegen nötigen Einrichtungen müssen vom Steuerstand ausreichend überblickt werden können. 2 ... 3 Die Beleuchtung des Schiffes darf den Schiffsführer oder die Schiffsführerin nicht behindern. Aufgehoben durch Ziff. I der V vom 11. Dez. 2015, mit Wirkung seit 1. Febr. 2021 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "2. Abschnitt: Maschinenbauliche Anforderungen",
+      "section": "29",
+      "title": "Maschinenanlagen und Brennstoffanlagen",
+      "content": "1 Die Maschinenanlagen und Hilfsaggregate sowie die dazugehörenden Einrichtungen müssen sicherheitstechnisch einwandfrei ausgeführt und eingebaut sein. 2 Für Schiffe, deren Länge in der Konstruktionswasserlinie 20 m nicht überschreitet, kann die Verwendung benzinbetriebener Aussenbordmotoren beantragt werden. Die zuständige Behörde bewilligt die Verwendung solcher Motoren, wenn die Sicherheit dadurch nicht beeinträchtigt wird. Sie kann vom Gesuchsteller oder von der Gesuchstellerin Sicherheitsnachweise verlangen sowie Auflagen zum Bau und Betrieb solcher Schiffe machen. 3 Der Schiffsantrieb, insbesondere die für den Vortrieb verantwortlichen Einrichtungen an Bord, muss zuverlässig in Gang gesetzt, gestoppt und umgesteuert werden können. 4 Brennstoffbehälter sind an geeigneter und sicherer Stelle im Schiff fest einzubauen. Der Abstand der Behälterwand zum Schiffsrumpf muss möglichst gross sein. Für Behälter zur Lagerung besonderer Energieträger sowie für Einrichtungen und Rohrleitungssysteme, die während des Schiffsbetriebs mit besonderen Energieträgern gefüllt sind, kann die zuständige Behörde die Einhaltung besonderer Sicherheitsabstände zum Schiffsrumpf anordnen. 5 Die Behälter und Leitungen müssen aus Materialien bestehen, die zur dauernden Lagerung von Brennstoffen oder besonderen Energieträgern geeignet sind und den zu erwartenden Belastungen standhalten. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art29a",
+      "chapter": "2. Abschnitt: Maschinenbauliche Anforderungen",
+      "section": "29a",
+      "title": "a Einrichtungen für besondere Energieträger",
+      "content": "Das UVEK erlässt Bestimmungen über die Einrichtungen zur Verwendung und Lagerung besonderer Energieträger für den Schiffsantrieb und für den Betrieb von Hilfsaggregaten an Bord von Fahrgastschiffen. Die Bestimmungen orientieren sich an den anerkannten Regeln der Technik. Eingefügt durch Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "2. Abschnitt: Maschinenbauliche Anforderungen",
+      "section": "30",
+      "title": "Ruder- und Steueranlagen",
+      "content": "1 Schiffe müssen entsprechend ihrer Verwendung, ihrer Hauptabmessungen und ihrer Einsatzbedingungen mit zuverlässigen Ruder- oder Steueranlagen ausgerüstet sein, die gute Manövriereigenschaften sicherstellen. 2 Sofern nicht zwei voneinander unabhängige Ruder- oder Steueranlagen bestehen, muss eine von der Hauptsteuerung unabhängige Ruder- oder Notsteueranlage vorhanden sein. 3 Die Lage der Ruder- oder Steueranlage muss im Steuerstand und auf den Nockfahrständen eindeutig erkennbar sein. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "2. Abschnitt: Maschinenbauliche Anforderungen",
+      "section": "31",
+      "title": "Lenzanlagen",
+      "content": "1 Schiffe müssen mit Lenzanlagen ausgerüstet sein, mit denen die durch Schotte abgegrenzten Abteilungen gelenzt werden können. 2 Lenzpumpen müssen selbstansaugend sein. Sie sind in ständiger Betriebsbereitschaft zu halten und müssen leicht und zuverlässig eingesetzt werden können. Anzahl, Aufstellung und Antrieb der Lenzpumpen sowie die Dimensionierung der Lenzleitungen richten sich nach der Schiffsgrösse. 3 Lenzanlagen müssen so eingebaut sein, dass sie bei einer Kollision oder im Leckfall einsatzfähig bleiben. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Andere Anlagen für den Schiffsbetrieb",
+      "content": "Das UVEK erlässt Bestimmungen über den Einbau, die Verwendung und die Sicherheit von weiteren Anlagen für den Schiffsbetrieb, wie Dampfkesselanlagen, Druckluftanlagen, elektrische Anlagen oder Flüssiggasanlagen für Haushaltszwecke. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "3. Abschnitt: Besondere Baubestimmungen",
+      "section": "33",
+      "title": "Schiffskörper",
+      "content": "Der Schiffskörper muss eine ausreichende Festigkeit besitzen, um den im Betrieb zu erwartenden Beanspruchungen standzuhalten."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "3. Abschnitt: Besondere Baubestimmungen",
+      "section": "34",
+      "title": "Notausstiege und Fluchtwege",
+      "content": "1 Jedes Schiff muss über Notausstiege aus Räumen unter Deck und über Fluchtwege verfügen, damit es rasch und sicher evakuiert werden kann. 2 Notausstiege und Fluchtwege müssen jederzeit ungehindert benützt werden können. 3 Sie müssen deutlich markiert sein."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "3. Abschnitt: Besondere Baubestimmungen",
+      "section": "35",
+      "title": "Verkehrswege",
+      "content": "1 Treppen, Gänge und Fussböden müssen gleitsicher sein. 2 Treppen müssen innerhalb der Schiffsaufbauten liegen und beidseitig mit durchlaufenden Handläufen versehen sein. 3 Die für Fahrgäste bestimmten freien Decks müssen mit einem festen Schanzkleid oder einer Reling von mindestens 1 m Höhe umgeben sein, die so beschaffen sind, dass Kleinkinder nicht über Bord fallen können."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "3. Abschnitt: Besondere Baubestimmungen",
+      "section": "36",
+      "title": "Brandschutz",
+      "content": "1 Die für den Innenausbau verwendeten Materialien wie Verkleidungs- und Isolierstoffe und Bodenbeläge sowie das Mobiliar in den Innenräumen müssen schwerbrennbar sein. 2 Farben und Lacke, die auf Bauteilen des Innenausbaus appliziert werden, dürfen nicht leichtbrennbar sein. Im Brandfall dürfen kein Rauch in gefährlichem Ausmass und keine giftigen Gase entstehen. 3 Schiffe sind mit einer Brandmeldeanlage auszurüsten, die Räume mit besonderer Brandgefährdung wirksam überwacht. Die Anlage muss für den Einsatz an Bord von Schiffen geeignet sein. 4 Die Verwendung und Lagerung von flüssigen Brennstoffen mit einem Flammpunkt unter 55 °C zu Heiz-, Beleuchtungs- oder Kochzwecken ist verboten. Von diesem Verbot sind Flüssiggasanlagen für Haushaltszwecke ausgenommen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "4. Abschnitt: Ausrüstung",
+      "section": "37",
+      "title": "Grundsatz",
+      "content": "1 Schiffe müssen ihrer Grösse und ihrem Verwendungszweck entsprechend eingerichtet und ausgerüstet sein. 2 Die vorgeschriebene Ausrüstung muss stets in gebrauchsfähigem Zustand an geeigneter Stelle an Bord untergebracht sein. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "4. Abschnitt: Ausrüstung",
+      "section": "38",
+      "title": "Ankereinrichtung",
+      "content": "1 Schiffe müssen mit einem Buganker ausgerüstet sein. 2 Schiffe, die Flüsse befahren, sind zusätzlich mit einem Heckanker auszurüsten. Auf den Heckanker kann verzichtet werden, wenn das Schiff bei Ausfall eines Hauptantriebes mit Maschinenkraft aufgedreht werden kann."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "4. Abschnitt: Ausrüstung",
+      "section": "39",
+      "title": "Anlagen zur Brandbekämpfung",
+      "content": "1 Schiffe müssen über ständig betriebsbereite Feuerlöschanlagen verfügen, mit denen jede Art von Brand wirksam bekämpft werden kann. 2 Die Mindestausrüstung zur Brandbekämpfung besteht aus Handfeuerlöschgeräten sowie aus Feuerlöschpumpen, -schläuchen und -leitungen. 3 Maschinen- und Elektroräume sind mit fest installierten Feuerlöschanlagen auszurüsten. 4 Bei Schiffen, welche mit besonderen Energieträgern betrieben werden, entscheidet die zuständige Behörde über den Einbau fest installierter Feuerlöschanlagen. Sie berücksichtigt dabei die Brand- oder Explosionsgefahr des betreffenden Energieträgers und die Einrichtungen in den betreffenden Räumen. 5 Die Feuerlöschanlagen müssen leicht zugänglich aufgestellt und durch Hinweisschilder deutlich markiert sein. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "4. Abschnitt: Ausrüstung",
+      "section": "40",
+      "title": "Rettungsmaterial",
+      "content": "1 Jedes Fahrgastschiff ist mit einer ausreichenden Anzahl von Rettungsmitteln für die Besatzung und die Fahrgäste auszurüsten. 2 Rettungsgeräte müssen an Bord so verwahrt werden, dass sie bei Bedarf leicht und sicher erreicht werden können und ihre Verteilung ohne Verzögerung möglich ist. Rettungsgeräte und allfällige Hilfsmittel müssen regelmässig gewartet werden. 3 Der Minimalbestand an Einzelrettungsmitteln auf Schiffen beträgt 100 Prozent der im Schiffsausweis eingetragenen höchstzulässigen Fahrgastzahl. 4 Das UVEK erlässt Vorschriften über die Art der zugelassenen Rettungsmittel sowie die Zusammensetzung des Gesamtbestandes. Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ( AS 2007 911 ). Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ( AS 2007 911 )."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "5. Kapitel: Bau und Ausrüstung von Infrastrukturanlagen",
+      "section": "41",
+      "title": "Grundsatz",
+      "content": "Die Infrastrukturanlagen müssen so beschaffen sein, dass bei ihrer bestimmungsgemässen Verwendung und bei Beachtung der gebotenen Sorgfalt Leben und Gesundheit von Personen nicht gefährdet werden. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "5. Kapitel: Bau und Ausrüstung von Infrastrukturanlagen",
+      "section": "42",
+      "title": "Landungsanlagen",
+      "content": "1 Landungsanlagen sind so zu erstellen, dass Personen nicht unbeabsichtigt ins Wasser fallen können. 2 Die Landungsanlagen sind mit Rettungsmaterial und in der Regel mit einer Beleuchtung auszurüsten. 3 An grösseren Stationen sollen die Fahrgäste nach Möglichkeit über einen geschützten Warteraum verfügen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "6. Kapitel: Betrieb",
+      "section": "43",
+      "title": "Personal",
+      "content": "1 Der Betrieb eines Schiffes, einschliesslich der Vorbereitung der Einrichtungen und Anlagen für dessen Betrieb und einschliesslich der erforderlichen Arbeiten an diesen Einrichtungen und Anlagen nach Abschluss der Fahrten, darf nur ausgebildetem und geprüftem Personal übertragen werden. 2 Das UVEK regelt die Ausbildung, die Prüfung und die Voraussetzungen für den Einsatz des Schiffspersonals in Schifffahrtsunternehmen. 3 Es legt Anforderungen an das Personal fest, das: a. Einrichtungen und Anlagen auf mit besonderen Energieträgern betriebenen Schiffen bedient; oder b. Infrastrukturanlagen zur Lagerung besonderer Energieträger und zur Betankung von Schiffen mit solchen Energieträgern bedient. 4 Das Schiffspersonal muss mit der Einrichtung und Ausrüstung an Bord der Schiffe vertraut sein und diese bedienen können. Die Schifffahrtsunternehmen sorgen für die Aus- und Weiterbildung sowie für die Einhaltung der in den Ausführungsbestimmungen vorgeschriebenen periodischen Prüfungen des Schiffspersonals und führen darüber geeignete Aufzeichnungen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "6. Kapitel: Betrieb",
+      "section": "44",
+      "title": "Besatzung",
+      "content": "1 Die Besatzung auf Schiffen in Fahrt muss so zusammengesetzt und ausgebildet sein, dass die Sicherheit der an Bord befindlichen Personen gewährleistet ist. 2 Auf stillliegenden Schiffen, auf denen sich Fahrgäste aufhalten, kann die Besatzung angemessen reduziert werden. 3 Das UVEK bestimmt den Minimalbestand der Besatzung auf Schiffen. 4 Für die Besatzung der eidgenössisch konzessionierten Schifffahrtsunternehmen gelten Artikel 15, die Kapitel 4, 5 und 7 und Artikel 41 Absatz 1 Buchstabe a der Verordnung vom 4. November 2009 über die sicherheitsrelevanten Tätigkeiten im Eisenbahnbereich sinngemäss. 5 Die von den eidgenössisch konzessionierten Schifffahrtsunternehmen bezeichneten Personen für die Kontrolle der Dienstfähigkeit müssen eine leitende Stellung im Schifffahrtsbereich mit entsprechender Fachqualifikation haben. SR 742.141.2 Eingefügt durch Ziff. I 8 der V vom 4. Nov. 2009 (erste Phase der Bahnreform 2) ( AS 2009 5959 ). Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). Eingefügt durch Ziff. I 8 der V vom 4. Nov. 2009 (erste Phase der Bahnreform 2) ( AS 2009 5959 ). Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "6. Kapitel: Betrieb",
+      "section": "45",
+      "title": "Schiffsführer oder Schiffsführerin",
+      "content": "1 Der Schiffsführer oder die Schiffsführerin übt die Befehlsgewalt an Bord aus und sorgt für Ruhe und Ordnung. 2 Die zuständige Behörde stellt aufgrund einer theoretischen und praktischen Prüfung den Führerausweis aus. Dieser kann mit Auflagen verbunden sein. 3 Die eidgenössisch konzessionierten Schifffahrtsunternehmen erstatten dem BAV unverzüglich Meldung bei Mutationen des Schiffsführerbestandes. Eingefügt durch Ziff. I 8 der V vom 4. Nov. 2009 (erste Phase der Bahnreform 2), in Kraft seit 1. Jan. 2010 ( AS 2009 5959 )."
+    },
+    {
+      "provision_ref": "art45a",
+      "section": "45a",
+      "title": "a Technische Leitung für Schiffe mit besonderen Energieträgern",
+      "content": "1 Schifffahrtsunternehmen, die für den Antrieb von Schiffen oder den Betrieb von Hilfsaggregaten besondere Energieträger verwenden, ernennen einen technischen Leiter oder eine technische Leiterin sowie mindestens einen Stellvertreter oder eine Stellvertreterin. 2 Der technische Leiter oder die technische Leiterin und der Stellvertreter oder die Stellvertreterin müssen nicht im Schifffahrtsunternehmen angestellt sein. 3 Schifffahrtsunternehmen übertragen dem technischen Leiter oder der technischen Leiterin die Verantwortung für die sicherheitsrelevanten Aspekte des Betriebs und der Instandhaltung der Schiffe und räumen ihm oder ihr sowie dem Stellvertreter oder der Stellvertreterin die entsprechenden Kompetenzen ausdrücklich ein. 4 Bei Störungen und Unfällen trifft der technische Leiter oder die technische Leiterin oder der Stellvertreter oder die Stellvertreterin die nötigen Anordnungen. 5 Die technischen Leiter und Leiterinnen sowie ihre Stellvertreter und Stellvertreterinnen müssen über eine geeignete Ausbildung verfügen und die zur Bedienung und zur Instandhaltung der Bauten, Anlagen und Schiffe nötigen Kenntnisse und Erfahrung haben. 6 Das UVEK kann Vorschriften über die erforderliche Ausbildung der technischen Leiter und Leiterinnen sowie der Stellvertreter und Stellvertreterinnen erlassen. Eingefügt durch Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Notfallkonzept und Rettungs- und Sicherheitsdienst",
+      "content": "1 Das Schifffahrtsunternehmen muss über ein Notfallkonzept verfügen, das sicherstellt, dass die Personen an Bord bei einem Ereignis auf einem Schiff rechtzeitig in Sicherheit gebracht werden können. Sind zur Umsetzung des Notfallkonzeptes Ereignisdienste erforderlich, so muss das Notfallkonzept mit diesen vereinbart werden. 2 Soweit es mit der Sicherheit des eigenen Schiffes vereinbar ist, hat der Schiffsführer oder die Schiffsführerin unverzüglich Hilfe zu leisten, wenn er oder sie Notsignale oder die Notlage eines anderen Schiffes oder einer Person wahrnimmt. 3 Das Schifffahrtsunternehmen muss das Schiffspersonal im Rettungs- und Sicherheitsdienst ausbilden, regelmässig Übungen durchführen und über den Zeitpunkt, die beteiligten Personen sowie die Art und Dauer der Übung Aufzeichnungen führen. 4 Das UVEK regelt den Rettungs- und Sicherheitsdienst. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Signal-, Fernmelde- und Navigationsanlagen",
+      "content": "1 Wenn es die Verkehrssicherheit oder die Sicherheit an Bord erfordert, sind für die Verbindung zwischen Schiff und Land oder zwischen Schiffen Signal-, Fernmelde- oder Navigationsanlagen einzurichten. 2 Die Anlagen unterliegen der Plangenehmigung (Art. 16)."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Schwierige nautische Verhältnisse",
+      "content": "1 Bei schwierigen nautischen Verhältnissen ist der Verkehr einzuschränken oder einzustellen. 2 Die öffentlichen Schifffahrtsunternehmen stellen für die Begegnung ihrer Kursschiffe bei unsichtigem Wetter Regeln auf. Bei Meinungsverschiedenheiten entscheidet das BAV endgültig."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "7. Kapitel: Instandhaltung",
+      "section": "49",
+      "title": "Grundsatz",
+      "content": "Die Schifffahrtsunternehmen müssen ihre Schiffe, deren Einrichtungen und Ausrüstung sowie ihre Infrastrukturanlagen so instand halten und erneuern, dass die Sicherheit jederzeit gewährleistet ist. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art49a",
+      "chapter": "7. Kapitel: Instandhaltung",
+      "section": "49a",
+      "title": "a Beizug Dritter",
+      "content": "1 Verfügt das Schifffahrtsunternehmen nicht über das erforderliche Fachwissen oder die notwendigen Einrichtungen und Geräte, um bestimmte Instandhaltungsarbeiten durchzuführen, so hat es für die Instandhaltung ihrer Schiffe und Infrastrukturanlagen ausgewiesen fachkundige Dritte beizuziehen. 2 Verantwortlich für die Instandhaltung ist das Schifffahrtsunternehmen. Insbesondere muss es über den Stand der Instandhaltungsarbeiten informiert sein. 3 Genügt die betriebseigene Planung, Durchführung oder Überwachung der Instandhaltung nicht, so kann die zuständige Behörde den Beizug Dritter anordnen. Eingefügt durch Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "7. Kapitel: Instandhaltung",
+      "section": "50",
+      "title": "Kontrollen, Prüfungen, Instandhaltung und Schiffsbuch",
+      "content": "1 Die Schifffahrtsunternehmen sorgen für die termin- und fachgerechte Durchführung der vorgeschriebenen Kontrollen und Prüfungen. 2 Für jedes Schiff eines Schifffahrtsunternehmens ist ein Schiffsbuch zu führen, in dem Folgendes festzuhalten ist: a. die Ergebnisse der vorgeschriebenen Kontrollen und Prüfungen; b. die Instandhaltungs- und Erneuerungsarbeiten; c. die technischen Betriebsstörungen und die im Anschluss daran getroffenen Massnahmen. 3 Das UVEK legt die Mindestanforderungen an die Fristen, die Art und den Umfang der periodischen Kontrollen und Prüfungen der Schiffe, von deren Einrichtungen und Ausrüstung sowie der Infrastrukturanlagen fest. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "7. Kapitel: Instandhaltung",
+      "section": "51",
+      "title": "Massnahmen bei ungenügender Sicherheit",
+      "content": "1 Die Schifffahrtunternehmen müssen Schiffe, die den Sicherheitsanforderungen nicht mehr genügen, aus dem Verkehr ziehen. 2 Sie dürfen Landungsanlagen, die den Sicherheitsanforderungen nicht mehr genügen, nicht weiter bedienen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "8. Kapitel:",
+      "section": "52",
+      "title": "Transportvertrag",
+      "content": "Für den Transportvertrag gelten die Vorschriften des Transportgesetzes vom 4. Oktober 1985 sowie der Transportverordnung vom 5. November 1986. [ AS 1986 1974 , 1994 2290 Ziff. V, 1995 3517 Ziff. I 10 4093 Anhang Ziff. 13, 1998 2856 . AS 2009 5597 Ziff. III]. Siehe heute: das Personenbeförderungsgesetz vom 20. März 2009 ( SR 745.1 ). [ AS 1986 1991 , 1994 1848 , 1996 3035 , 1999 719 , 2004 2697 . AS 2009 6025 Art. 6]. Siehe heute: die V vom 4. Nov. 2009 über die Personenbeförderung ( SR 745.11 )."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "8. Kapitel:",
+      "section": "53",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. II 73 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ( AS 2006 4705 )."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "8. Kapitel:",
+      "section": "54",
+      "title": "Strafbestimmungen",
+      "content": "Widerhandlungen gegen die Vorschriften dieser Verordnung und die gestützt darauf erlassenen Ausführungsbestimmungen und Verfügungen werden nach Artikel 48 des Bundesgesetzes vom 3. Oktober 1975 über die Binnenschifffahrt bestraft."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "55",
+      "title": "Ausführungsbestimmungen",
+      "content": "Das UVEK erlässt die Ausführungsbestimmungen."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "56",
+      "title": "Änderung bisherigen Rechts",
+      "content": "... Die Änderungen können unter AS 1994 1011 konsultiert werden."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "57",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Schiffs- und Führerausweise, die vor dem Inkrafttreten dieser Verordnung ausgestellt wurden, behalten ihre Gültigkeit. 2 Die Vorschriften über Bau und Ausrüstung von Schiffen finden auf Schiffe, die beim Inkrafttreten dieser Verordnung bereits in Betrieb sind, grundsätzlich keine Anwendung. Das UVEK legt in den Ausführungsbestimmungen die Ausnahmen fest; die Übergangsfrist für die Anpassung an die neuen Vorschriften beträgt vier Jahre. 3 Für Schiffe, die beim Inkrafttreten dieser Verordnung auf Kiel gelegt sind, gilt das bisherige Recht. 4 Bei Umbauten von Schiffen müssen ausschliesslich die vom Umbau direkt betroffenen Bereiche den neuen Vorschriften angepasst werden. Wird ein Schiff umgebaut, damit es künftig mit besonderen Energieträgern betrieben werden kann, so entscheidet die zuständige Behörde unter Berücksichtigung der möglichen Gefahren des betreffenden Energieträgers über die Bereiche, welche den Vorschriften anzupassen sind. 5 Soll die Kapazität eines Schiffes erhöht werden, so legt die zuständige Behörde fest, welchen Anforderungen es genügen muss. Für die zur Bewilligung der Kapazitätserhöhung erforderlichen Prüfungen und Nachweise gelten die neuen Vorschriften. 6 Die Vorschriften über Bau und Ausrüstung von Anlagen finden auf Infrastrukturanlagen, die beim Inkrafttreten dieser Verordnung bereits in Betrieb sind, grundsätzlich keine Anwendung. Die Anpassung an die neuen Vorschriften ist bei Erweiterungen, Umbauten oder bedeutenden Reparaturen vorzunehmen. Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 ). Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art57a",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "57a",
+      "title": "a Übergangsbestimmungen zur Änderung vom 11. Dezember 2015",
+      "content": "1 Dampfkessel- und Druckluftanlagen, die nach bisherigem Recht auf Fahrgastschiffen zugelassen waren, nach Inkrafttreten der Änderung vom 11. Dezember 2015 die Anforderungen nach Artikel 17 b jedoch noch nicht erfüllen, dürfen so lange weiter betrieben werden, wie die vorgeschriebenen periodischen Kontrollen keine Beanstandungen ergeben und die Betriebssicherheit gewährleistet ist. 2 Schifffahrtsunternehmen ohne eidgenössische Konzession oder Bewilligung haben die Betriebsvorschriften nach Artikel 14 bis zum 1. Februar 2019 zu erlassen. 3 Für Schiffe, welche zum Zeitpunkt des Inkrafttretens der Änderungen vom 11. Dezember 2015 bereits in Betrieb sind, muss kein Sicherheitsbericht nach Artikel 17 eingereicht werden. Bei Umbauten solcher Schiffe entscheidet die zuständige Behörde über die Notwendigkeit der Vorlage eines Sicherheitsberichtes sowie über dessen Umfang. 4 Für Mobiliar in Innenräumen von Schiffen, das zum Zeitpunkt des Inkrafttretens der Änderungen vom 11. Dezember 2015 verwendet wird, müssen die Anforderungen nach Artikel 36 Absatz 1 bis zum 1. Februar 2036 erfüllt sein. Das UVEK kann in den Ausführungsbestimmungen Erleichterungen für bestimmte Schiffsklassen vorsehen. 5 Bei Umbauten von Maschinen- und Elektroräumen auf Schiffen, die mit herkömmlichen Energieträgern betrieben werden, prüft und entscheidet die zuständige Behörde im Einzelfall, ob der Einbau fest installierter Feuerlöschanlagen nach Artikel 39 Absatz 3 technisch möglich und wirtschaftlich vertretbar ist. 6 Das Notfallkonzept nach Artikel 46 Absatz 1 muss bis zum 1. Februar 2019 vorliegen. 7 Schifffahrtsunternehmen ohne eidgenössische Konzession oder Bewilligung haben das Schiffsbuch nach Artikel 50 Absatz 2 bis zum 1. Februar 2019 zu erstellen. Eingefügt durch Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ( AS 2016 159 )."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 1994 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "öffentliche Schifffahrtsunternehmen:",
+      "definition": "öffentliche Schifffahrtsunternehmen: eidgenössisch konzessionierte und eidgenössisch bewilligte Schifffahrtsunternehmen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Infrastrukturanlagen:",
+      "definition": "Infrastrukturanlagen: Bauten und Einrichtungen, die für den Betrieb von Schiffen notwendig sind, namentlich Landungsanlagen, Werften und Betankungsanlagen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "besondere Energieträger:",
+      "definition": "besondere Energieträger: Brenn- oder Treibstoffe, die nicht zu Benzin, Dieselbrennstoff, Dampfenergie oder elektrischer Energie zählen; in Zweifelsfällen entscheidet das Bundesamt für Verkehr (BAV) über die Zuordnung eines Energieträgers;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Risikoanalyse:",
+      "definition": "Risikoanalyse: systematisches Verfahren zur vorgängigen Analyse der Risiken nach der Inbetriebnahme (Betriebsphase): 1. einer Infrastrukturanlage; zu berücksichtigen sind der Verwendungszweck und die Umgebung, in der die Infrastrukturanlage gebaut wird,",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Sicherheitsbericht:",
+      "definition": "Sicherheitsbericht: Bericht (Baubeschreibung), mit dem nachgewiesen wird, dass das Schiff oder die Infrastrukturanlage sicher und gemäss den Vorschriften dieser Verordnung und den Ausführungsbestimmungen gebaut und betrieben werden kann, und in dem Massnahmen festlegt werden, mit denen Risiken begegnet wird;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Sachverständigenprüfbericht:",
+      "definition": "Sachverständigenprüfbericht: Bericht eines oder einer Sachverständigen, in dem ausgewiesen wird, ob das von ihm oder ihr geprüfte Objekt die jeweils anwendbaren Vorschriften erfüllt.",
+      "source_provision": "art2"
+    }
+  ]
+}

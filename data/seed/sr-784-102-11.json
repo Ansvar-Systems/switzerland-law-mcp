@@ -1,0 +1,126 @@
+{
+  "id": "sr-784-102-11",
+  "type": "statute",
+  "title": "Verordnung des BAKOM vom 18. November 2020 über die Nutzung des Funkfrequenzspektrums (VVNF) ",
+  "title_en": "",
+  "short_name": "VVNF",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2020/914/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Frequenznutzung ohne Konzession, ohne vorgängige Meldung und ohne Fähigkeitszeugnis",
+      "content": "1 Die Frequenznutzungen, für die nach Artikel 8 Absatz 2 Buchstaben a, b und d VNF keine Konzession, keine vorgängige Meldung und kein Fähigkeitszeugnis erforderlich sind, sind in Anhang 1 geregelt. 2 Frequenzen unter 8,3 kHz können unter Einhaltung der geltenden Vorschriften frei genutzt werden."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Aussendung des Ruf- und Kennzeichens",
+      "content": "1 Die Nutzerinnen und Nutzer des Funkfrequenzspektrums, die einer Einschränkung nach Artikel 22 Absatz 2 des Fernmeldegesetzes vom 30. April 1997 (FMG) unterliegen, müssen das Ruf- oder Kennzeichen bei der Verbindungsaufnahme und anschliessend alle 10 Minuten aussenden. 2 Absatz 1 ist nicht anwendbar auf die Nutzung von Funkanlagen für die Verbreitung von Radio- und Fernsehprogrammen. SR 784.10"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Koordinationskanal",
+      "content": "1 Der Koordinationskanal (K-Kanal) dient der Übertragung von Nachrichten zur Koordination des Einsatzes von Organisationen, die bei Schadenereignissen oder Unfällen Hilfe leisten. 2 Die Organisationen dürfen ihren internen Funkverkehr nicht über den K-Kanal abwickeln. 3 Bei Übungen am K-Kanal muss jedem Anruf das Wort «Übung» oder «Verbindungskontrolle» beigefügt werden. Stört eine Organisation bei einer Übung den Funkverkehr einer anderen Organisation, die Hilfe leistet, so muss sie ihren Funkverkehr sofort einstellen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Flug- und Schiffsfunk",
+      "section": "4",
+      "title": "Flugfunk",
+      "content": "Die Frequenzbereiche, die für die Teilnahme am Flugfunk, an der Flugnavigation und an der Flugüberwachung zur Verfügung stehen, sind in Anhang 2 aufgelistet."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Flug- und Schiffsfunk",
+      "section": "5",
+      "title": "Schiffsfunk",
+      "content": "Die Frequenzbereiche, die für die Teilnahme am Schiffsfunk auf hoher See und auf den internationalen Wasserstrassen (Rheinschifffahrt) zur Verfügung stehen, sind in Anhang 3 aufgelistet."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Amateurfunk",
+      "section": "6",
+      "title": "Frequenzbereiche",
+      "content": "Die Frequenzbereiche, die Inhaberinnen und Inhabern eines Fähigkeitszeugnisses nach Artikel 44 Absatz 1 Buchstabe a Ziffern 1–3 VNF sowie Inhaberinnen und Inhabern eines Fähigkeitszeugnisses nach Artikel 44 Absatz 1 Buchstabe a Ziffer 4 VNF zur Verfügung stehen, sind in Anhang 4 aufgelistet."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Amateurfunk",
+      "section": "7",
+      "title": "Zusätze für Rufzeichen",
+      "content": "1 Betreibt die Inhaberin oder der Inhaber eines Rufzeichens nach Artikel 47 f der Verordnung vom 6. Oktober 1997 über die Adressierungselemente im Fernmeldebereich eine bewegliche Funkanlage in einem Land- oder Luftfahrzeug, auf einem Binnenschiff, einem Seeschiff oder an einem anderen Standort, so kann sie oder er ihr oder sein Rufzeichen mit einem der folgenden Zusätze ergänzen: Standort Zusatz für Radiotelefonie Zusatz für Morsetelegrafie Landfahrzeug oder Binnenschiff «mobile» «/M» Seeschiff «maritime mobile» «/MM» Luftfahrzeug «aeronautical mobile» «/AM» Anderer Standort «portable» «/P» 2 Die Inhaberin oder der Inhaber darf andere Zusätze verwenden, wenn sie betrieblich notwendig sind und vom Rufzeichen mit einem Binde- oder Schrägstrich getrennt werden. 3 Betreibt die Inhaberin oder der Inhaber eines der folgenden Fähigkeitszeugnisse ihre oder seine Funkanlage im Fürstentum Liechtenstein, so muss sie oder er dem Rufzeichen den nachstehenden Zusatz voranstellen: a. Fähigkeitszeugnisse nach Artikel 44 Absatz 1 Buchstabe a Ziffern 1–3 VNF: «HBØ/» (HB Null Schrägstrich); b. Fähigkeitszeugnisse nach Artikel 44 Absatz 1 Buchstabe a Ziffer 4 VNF: «HBØY/» (HB Null Yankee Schrägstrich). SR 784.104"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "4. Abschnitt: Prüfungen für Funkerinnen und Funker",
+      "section": "8",
+      "title": "Durchführung",
+      "content": "1 Die Prüfungen für Funkerinnen und Funker werden auf Deutsch, Französisch und Italienisch durchgeführt. Die Kandidatinnen und Kandidaten können die Prüfungssprache frei wählen. 2 Ort, Datum und Zeit der Prüfungen werden vom BAKOM festgelegt. 3 An die Prüfung ist ein amtlicher persönlicher Ausweis mitzubringen. 4 Die Geräte und Simulatoren für die Durchführung der praktischen Prüfungen für den Erwerb der Fähigkeitszeugnisse nach Artikel 51 Absatz 1 Buchstaben a und b VNF werden vom BAKOM zur Verfügung gestellt. 5 Die Prüfungen sind nicht öffentlich. Fassung gemäss Ziff. I der V des BAKOM vom 18. April 2024, in Kraft seit 1. Juni 2024 ( AS 2024 179 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Abschnitt: Prüfungen für Funkerinnen und Funker",
+      "section": "9",
+      "title": "Teilerlass",
+      "content": "Wer über ein Fähigkeitszeugnis in einem Prüfbereich verfügt, kann dem BAKOM Antrag auf teilweisen Erlass von Prüfungsinhalten stellen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Prüfungen für Funkerinnen und Funker",
+      "section": "10",
+      "title": "Hilfsmittel",
+      "content": "Die zulässigen Hilfsmittel sind in den Prüfungsvorschriften festgelegt. Wer unerlaubte Hilfsmittel verwendet, wird von der Prüfung ausgeschlossen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Prüfungen für Funkerinnen und Funker",
+      "section": "11",
+      "title": "Voraussetzung für das Bestehen der Prüfung",
+      "content": "Die Prüfung hat bestanden, wer mindestens 70 Prozent der maximalen Punktzahl erreicht. Besteht die Prüfung aus einem theoretischen und einem praktischen Teil, so müssen für jeden Prüfungsteil mindestens 70 Prozent der maximalen Punktzahl erreicht werden. Fassung gemäss Ziff. I der V des BAKOM vom 18. April 2024, in Kraft seit 1. Juni 2024 ( AS 2024 179 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Prüfungen für Funkerinnen und Funker",
+      "section": "12",
+      "title": "Prüfungsvorschriften",
+      "content": "Die Vorschriften für die Prüfung zum Erwerb der Fähigkeitszeugnisse nach Artikel 51 Absatz 1 VNF sind in Anhang 5 geregelt."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Prüfungen für Funkerinnen und Funker",
+      "section": "13",
+      "title": "Nachprüfung",
+      "content": "1 Besteht die Prüfung aus einem theoretischen und einem praktischen Teil, so kann der Teil, in welchem das Resultat ungenügend war, innerhalb eines Jahres wiederholt werden. 2 Wer die Nachprüfung nicht bestanden hat, kann die gesamte Prüfung erneut ablegen. Fassung gemäss Ziff. I der V des BAKOM vom 18. April 2024, in Kraft seit 1. Juni 2024 ( AS 2024 179 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Prüfungen für Funkerinnen und Funker",
+      "section": "14",
+      "title": "Prüfungsgebühren",
+      "content": "1 Die Gebühren nach den Artikeln 39–42 GebV-FMG müssen spätestens acht Tage vor der Prüfung auf dem Konto des BAKOM gutgeschrieben sein. 2 Wer der Prüfung fernbleibt, muss die Grundgebühr bezahlen, wenn sie oder er sich nicht mindestens acht Tage vor der Prüfung schriftlich abgemeldet hat. 3 Wer von der Prüfung ausgeschlossen wird oder diese vorzeitig verlässt, hat keinen Anspruch auf Rückerstattung."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "15",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung des BAKOM vom 9. März 2007 über Frequenzmanagement und Funkkonzessionen wird aufgehoben. [ AS 2007 1023 , 7087 ; 2009 1089 , 4231 ; 2011 5267 ; 2012 6573 ; 2015 2775 , 4979 ; 2016 1685 ; 2017 3203 , 7145 ; 2018 2689 ; 2019 989 , 2573 , 4247 ; 2020 1223 , 3565 ]"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2021 in Kraft."
+    }
+  ],
+  "definitions": []
+}

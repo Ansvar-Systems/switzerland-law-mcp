@@ -1,0 +1,44 @@
+{
+  "id": "sr-172-220-111-343-2",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 28. März 2002 über die Bewertung der besonderen Funktionen im EDI (Funktionenbewertungsverordnung EDI)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2002/305/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Allgemeine Bestimmungen",
+      "content": "Diese Verordnung umschreibt die Voraussetzungen für die Zuweisung der besonderen Funktionen im EDI zu einer Lohnklasse (LK) nach Artikel 36 BPV."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Bewertungsgrundlagen",
+      "content": "1 Massgebend für die Funktionsbewertung sind die erforderliche Vorbildung, der Umfang des Aufgabenkreises sowie das Mass der betrieblichen Anforderungen, Belastungen und Verantwortlichkeiten. Ferner werden die fachliche Breite, Verschiedenartigkeit und Komplexität der Aufgaben sowie die Führungsanforderungen berücksichtigt. 2 Grundlagen der Funktionsbewertung sind die Aufgaben, die in der Stellenbeschreibung festgehalten sind. Wenn eine Funktion verschiedenartige Tätigkeiten umfasst, so richtet sich die Funktionsbewertung in erster Linie nach den Aufgaben, die den überwiegenden Teil der Arbeitszeit beanspruchen. Die weiteren Aufgaben sind angemessen zu berücksichtigen. 3 Funktionen mit vergleichbaren Voraussetzungen und Aufgaben sind gleich zu bewerten. Für Funktionen, die in einer Organisationseinheit nur vereinzelt vorkommen, sind Vergleiche mit anderen Organisationseinheiten anzustellen. 4 Die dauernde und vollumfängliche Stellvertretung kann mit einer zusätzlichen Lohnklasse abgegolten werden. 5 Wird für eine Stelle eine spezifische Ausbildung verlangt, so gilt dieses Erfordernis als erfüllt, wenn die entsprechende Abschlussprüfung bestanden ist. 6 Im Rahmen dieser Verordnung können für die Zuweisung der einzelnen Funktionen zu einer Lohnklasse verfeinerte Funktionsbewertungsinstrumente angewendet werden."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Funktionsverzeichnis",
+      "content": "Die Funktionsbewertungen sind im Anhang aufgeführt."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung vom 12. Mai 1989 über die Wahlerfordernisse und Beförderungsbedingungen für Ämter des EDI wird aufgehoben. In der AS nicht publiziert."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. April 2002 in Kraft."
+    }
+  ],
+  "definitions": []
+}

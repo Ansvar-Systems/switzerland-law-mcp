@@ -1,0 +1,219 @@
+{
+  "id": "sr-235-3",
+  "type": "statute",
+  "title": "Bundesgesetz vom 28. September 2018 über den Datenschutz im Rahmen der Anwendung des Schengen-Besitzstands in Strafsachen (Schengen-Datenschutzgesetz, SDSG)",
+  "title_en": "",
+  "short_name": "SDSG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2019/112/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Dieses Gesetz regelt die Bearbeitung von Personendaten durch Bundesorgane zum Zweck der Verhütung, Aufklärung oder Verfolgung von Straftaten oder der Strafvollstreckung, einschliesslich des Schutzes vor und der Abwehr von Gefahren für die öffentliche Sicherheit: a. im Rahmen der Anwendung des Schengen-Besitzstands; b. im Rahmen der Anwendung internationaler Verträge, die mit der Europäischen Union oder mit Staaten, die mit der Schweiz über eines der Schengen- Assoziierungsabkommen verbunden sind (Schengen-Staaten), abgeschlossen worden sind und die bezüglich des Datenschutzes auf die Richtlinie (EU) 2016/680 verweisen. 2 Die Schengen-Assoziierungsabkommen sind im Anhang aufgeführt."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Verhältnis zu anderen Erlassen",
+      "content": "1 Dieses Gesetz gilt nicht für die Rechte der betroffenen Personen in hängigen Verfahren vor den eidgenössischen Gerichten und in hängigen Verfahren nach der Strafprozessordnung oder nach dem Rechtshilfegesetz vom 20. März 1981; diese werden durch das anwendbare Verfahrensrecht geregelt. 2 Soweit in diesem Gesetz keine besonderen Vorschriften bestehen, ist das Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG) anwendbar; die Anwendbarkeit anderer Bundesgesetze bleibt vorbehalten. SR 312.0 SR 351.1 SR 235.1"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "1 In diesem Gesetz bedeuten: a. besonders schützenswerte Personendaten : 1. Daten über die religiösen, weltanschaulichen und politischen Ansichten oder Tätigkeiten, 2. Daten über die Gesundheit, die Intimsphäre oder die Zugehörigkeit zu einer Rasse oder Ethnie, 3. genetische Daten, 4. biometrische Daten, die eine natürliche Person eindeutig identifizieren, 5. Daten über Massnahmen der sozialen Hilfe, 6. Daten über administrative oder strafrechtliche Verfolgungen und Sanktionen; b. Profiling : jede Art der automatisierten Bearbeitung von Personendaten, die darin besteht, dass diese Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftlicher Lage, Gesundheit, persönlicher Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen; c. Verletzung der Datensicherheit : jede Verletzung der Sicherheit, die ungeachtet der Absicht oder der Widerrechtlichkeit dazu führt, dass Personendaten verloren gehen, gelöscht, vernichtet oder verändert werden oder Unbefugten offengelegt oder zugänglich gemacht werden; d. automatisierte Einzelentscheidung : jede Entscheidung, die ausschliesslich auf einer automatisierten Bearbeitung, einschliesslich Profiling, beruht und die für die betroffene Person mit einer Rechtsfolge verbunden ist oder sie erheblich beeinträchtigt; e. Auftragsbearbeiter : private Person oder Bundesorgan, die oder das im Auftrag des verantwortlichen Bundesorgans Personendaten bearbeitet. 2 Im Übrigen finden die Begriffe nach Artikel 3 DSG Anwendung. SR 235.1"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Grundsätze",
+      "content": "1 Personendaten müssen rechtmässig bearbeitet werden. 2 Die Bearbeitung muss nach Treu und Glauben erfolgen und verhältnismässig sein. 3 Personendaten dürfen nur zu einem bestimmten und für die betroffene Person erkennbaren Zweck beschafft werden; sie dürfen nur so bearbeitet werden, dass es mit diesem Zweck vereinbar ist. 4 Sie werden vernichtet oder anonymisiert, sobald sie zum Zweck der Bearbeitung nicht mehr erforderlich sind. 5 Wer Personendaten bearbeitet, muss sich über deren Richtigkeit vergewissern. Sie oder er muss alle angemessenen Massnahmen treffen, damit die Daten berichtigt, gelöscht oder vernichtet werden, die im Hinblick auf den Zweck ihrer Beschaffung oder Bearbeitung unrichtig oder unvollständig sind."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Datenschutz durch Technik und datenschutzfreundliche Voreinstellungen",
+      "content": "1 Die Bundesorgane sind verpflichtet, die Datenbearbeitung ab der Planung technisch und organisatorisch so auszugestalten, dass die Datenschutzvorschriften eingehalten werden, insbesondere die Grundsätze nach Artikel 4. 2 Die technischen und organisatorischen Massnahmen müssen insbesondere dem Stand der Technik, der Art und dem Umfang der Datenbearbeitung sowie den Risiken, welche die Bearbeitung für die Grundrechte der betroffenen Personen mit sich bringt, angemessen sein. 3 Die Bundesorgane sind verpflichtet, mittels geeigneter Voreinstellungen sicherzustellen, dass die Bearbeitung der Personendaten auf das für den Verwendungszweck nötige Mindestmass beschränkt ist."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Rechtsgrundlagen betreffend die Bearbeitung von Personendaten",
+      "content": "1 Die Bundesorgane dürfen Personendaten nur bearbeiten, wenn dafür eine gesetzliche Grundlage besteht. 2 Eine Grundlage in einem Gesetz im formellen Sinn ist in folgenden Fällen erforderlich: a. Es handelt sich um die Bearbeitung von besonders schützenswerten Personendaten. b. Es handelt sich um die Bearbeitung von Persönlichkeitsprofilen. c. Es handelt sich um ein Profiling. d. Die Art und Weise der Datenbearbeitung kann zu einem schwerwiegenden Eingriff in die Grundrechte der betroffenen Person führen. 3 In Abweichung von den Absätzen 1 und 2 können die Bundesorgane Personendaten bearbeiten, wenn eine der folgenden Voraussetzungen erfüllt ist: a. Die Bearbeitung ist notwendig, um das Leben oder die körperliche Unver-sehrtheit der betroffenen Person oder eines Dritten zu schützen. b. Die betroffene Person hat ihre Personendaten allgemein zugänglich gemacht und eine Bearbeitung nicht ausdrücklich untersagt."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Rechtsgrundlagen betreffend die Bekanntgabe von Personendaten",
+      "content": "1 Die Bundesorgane dürfen Personendaten nur bekanntgeben, wenn dafür eine gesetzliche Grundlage im Sinne von Artikel 6 Absätze 1 und 2 besteht. 2 Sie dürfen Personendaten in Abweichung von Absatz 1 im Einzelfall bekanntgeben, wenn eine der folgenden Voraussetzungen erfüllt ist: a. Die Bekanntgabe der Personendaten ist für das verantwortliche Bundesorgan oder für die Empfängerin oder den Empfänger zur Erfüllung einer gesetzlichen Aufgabe unentbehrlich. b. Die Bekanntgabe der Personendaten ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person oder eines Dritten zu schützen. c. Die betroffene Person hat ihre Personendaten allgemein zugänglich gemacht und eine Bekanntgabe nicht ausdrücklich untersagt. 3 Im Übrigen ist Artikel 19 Absätze 1 bis –4 DSG anwendbar. SR 235.1"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Bekanntgabe von Personendaten ins Ausland",
+      "content": "1 Für die Bekanntgabe von Personendaten an die zuständigen Behörden von Schengen-Staaten dürfen nicht strengere Datenschutzregeln gelten als für die Bekanntgabe von Personendaten an schweizerische Strafbehörden. 2 Die Bekanntgabe von Personendaten an einen Drittstaat oder an ein internationales Organ wird durch die Spezialbestimmungen des anwendbaren Bundesrechts geregelt."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Verantwortliches Bundesorgan und Kontrolle",
+      "content": "1 Für den Datenschutz ist das Bundesorgan verantwortlich, das die Personendaten in Erfüllung seiner Aufgaben bearbeitet oder bearbeiten lässt. 2 Bearbeitet das Bundesorgan Personendaten zusammen mit anderen Bundesorganen, mit kantonalen Organen oder mit Privaten, so regelt der Bundesrat das Kontrollverfahren und die Verantwortung für den Datenschutz."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Bearbeitung durch Auftragsbearbeiter",
+      "content": "1 Die Bearbeitung von Personendaten kann einem Auftragsbearbeiter übertragen werden, wenn die Voraussetzungen nach Artikel 10 a DSG erfüllt sind. 2 Der Auftragsbearbeiter darf die Bearbeitung nur mit vorgängiger schriftlicher Genehmigung des Bundesorgans einem Dritten übertragen. SR 235.1"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Abschnitt: Pflichten der Bundesorgane und der Auftragsbearbeiter",
+      "section": "11",
+      "title": "Automatisierte Einzelentscheidung",
+      "content": "1 Das Bundesorgan informiert die betroffene Person über eine ihr gegenüber ergangene automatisierte Einzelentscheidung (Art. 3 Abs. 1 Bst. d); es kennzeichnet die Entscheidung entsprechend. 2 Es gibt der betroffenen Person auf Antrag die Möglichkeit, ihren Standpunkt darzulegen. Die betroffene Person kann verlangen, dass ihr das angewandte Verfahren mitgeteilt und die Entscheidung von einer natürlichen Person überprüft wird. 3 Absatz 2 gilt nicht, wenn der betroffenen Person gegen die Entscheidung ein Rechtsmittel zur Verfügung steht."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "2. Abschnitt: Pflichten der Bundesorgane und der Auftragsbearbeiter",
+      "section": "12",
+      "title": "Verzeichnis der Bearbeitungstätigkeiten",
+      "content": "1 Die Bundesorgane und Auftragsbearbeiter führen ein Verzeichnis ihrer Bearbeitungstätigkeiten. 2 Die Verzeichnisse der Bundesorgane enthalten mindestens: a. den Namen des Bundesorgans; b. den Bearbeitungszweck; c. eine Beschreibung der Kategorien betroffener Personen und der Kategorien bearbeiteter Personendaten; d. die Kategorien der Empfängerinnen und Empfänger; e. die Aufbewahrungsdauer der Personendaten oder, wenn dies nicht möglich ist, die Kriterien zur Festlegung dieser Dauer; f. wenn möglich eine allgemeine Beschreibung der Massnahmen zur Gewährleistung der Datensicherheit nach Artikel 7 DSG; g. die Angabe des Drittstaates oder des internationalen Organs, welchem Personendaten bekanntgegeben werden, sowie die vorgesehenen Garantien zum Schutz der Personendaten. 3 Das Verzeichnis des Auftragsbearbeiters enthält Angaben zur Identität des Auftragsbearbeiters und des Bundesorgans, zu den Kategorien von Bearbeitungen, die im Auftrag des Bundesorgans durchgeführt werden, sowie die Angaben nach Absatz 2 Buchstabe f. SR 235.1"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "2. Abschnitt: Pflichten der Bundesorgane und der Auftragsbearbeiter",
+      "section": "13",
+      "title": "Datenschutz-Folgenabschätzung",
+      "content": "1 Das Bundesorgan erstellt vorgängig eine Datenschutz-Folgenabschätzung, wenn eine Bearbeitung ein hohes Risiko für die Grundrechte der betroffenen Person mit sich bringen kann. Sind mehrere ähnliche Bearbeitungsvorgänge geplant, so kann eine gemeinsame Abschätzung erstellt werden. 2 Das hohe Risiko ergibt sich, insbesondere bei Verwendung neuer Technologien, aus der Art, dem Umfang, den Umständen und dem Zweck der Bearbeitung. Es liegt namentlich vor: a. bei der umfangreichen Bearbeitung von besonders schützenswerten Personendaten oder von Persönlichkeitsprofilen; b. bei einem Profiling. 3 Die Datenschutz-Folgenabschätzung enthält eine Beschreibung der geplanten Bearbeitung, eine Bewertung der Risiken für die Grundrechte der betroffenen Person sowie die Massnahmen zum Schutz der Grundrechte."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "2. Abschnitt: Pflichten der Bundesorgane und der Auftragsbearbeiter",
+      "section": "14",
+      "title": "Konsultation des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten",
+      "content": "1 Ergibt sich aus der Datenschutz- Folgenabschätzung, dass die geplante Bearbeitung ein hohes Risiko für die Grundrechte der betroffenen Person zur Folge hätte, wenn das Bundesorgan keine Massnahmen träfe, so holt es vorgängig die Stellungnahme des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (Beauftragter) ein. 2 Der Beauftragte teilt dem Bundesorgan innerhalb von zwei Monaten seine Einwände gegen die geplante Bearbeitung mit. Diese Frist kann um einen Monat verlängert werden, wenn es sich um eine komplexe Datenbearbeitung handelt. 3 Hat der Beauftragte Einwände gegen die geplante Bearbeitung, so schlägt er dem Bundesorgan geeignete Massnahmen vor."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Meldung von Verletzungen der Datensicherheit",
+      "content": "1 Das Bundesorgan meldet dem Beauftragten so rasch wie möglich eine Verletzung der Datensicherheit, die voraussichtlich zu einem hohen Risiko für die Grundrechte der betroffenen Person führt. 2 In der Meldung nennt es mindestens die Art der Verletzung der Datensicherheit, deren Folgen und die ergriffenen oder vorgesehenen Massnahmen, um die Verletzung zu beheben. 3 Der Auftragsbearbeiter meldet dem Bundesorgan so rasch wie möglich eine Verletzung der Datensicherheit. 4 Das Bundesorgan informiert die betroffene Person, wenn es zu ihrem Schutz erforderlich ist oder der Beauftragte es verlangt. 5 Es kann die Information an die betroffene Person einschränken, aufschieben oder darauf verzichten, wenn: a. dies aufgrund überwiegender Interessen Dritter erforderlich ist; b. dies aufgrund überwiegender öffentlicher Interessen, insbesondere zur Wahrung der inneren oder äusseren Sicherheit der Schweiz, erforderlich ist; c. die Mitteilung der Information eine Ermittlung, eine Untersuchung oder ein behördliches oder gerichtliches Verfahren gefährden kann; d. die Information unmöglich ist oder einen unverhältnismässigen Aufwand erfordert; oder e. die Information der betroffenen Person durch eine öffentliche Bekanntmachung in vergleichbarer Weise sichergestellt ist."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Datenschutzverantwortliche oder -verantwortlicher",
+      "content": "1 Die Bundesorgane ernennen eine Datenschutzverantwortliche oder einen Datenschutzverantwortlichen. Sie können eine gemeinsame Datenschutzverantwortliche oder einen gemeinsamen Datenschutzverantwortlichen bezeichnen. 2 Die oder der Datenschutzverantwortliche muss folgende Voraussetzungen erfüllen: a. Sie oder er verfügt über die erforderlichen Fachkenntnisse. b. Sie oder er übt keine Tätigkeiten aus, die mit ihren oder seinen Aufgaben als Datenschutzverantwortliche oder Datenschutzverantwortlicher unvereinbar sind. 3 Die oder der Datenschutzverantwortliche hat insbesondere folgende Aufgaben: a. Sie oder er unterstützt die Bundesorgane. b. Sie oder er fördert die Information und die Ausbildung der Mitarbeiterinnen und Mitarbeiter. c. Sie oder er wirkt beim Vollzug der Datenschutzvorschriften mit und empfiehlt Massnahmen, wenn sie oder er feststellt, dass Datenschutzvorschriften verletzt wurden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Abschnitt: Rechte der betroffenen Personen",
+      "section": "17",
+      "title": "Auskunftsrecht",
+      "content": "1 Das Auskunftsrecht der betroffenen Person richtet sich nach Artikel 8 DSG. Darüber hinaus teilt das Bundesorgan der betroffenen Person mit: a. diejenigen Informationen, die für die betroffene Person erforderlich sind, damit sie ihre Rechte nach dem vorliegenden Gesetz geltend machen kann; b. die Aufbewahrungsdauer der Personendaten oder, falls dies nicht möglich ist, die Kriterien zur Festlegung dieser Dauer. 2 Die Spezialbestimmungen in anderen Bundesgesetzen bleiben vorbehalten. SR 235.1"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "3. Abschnitt: Rechte der betroffenen Personen",
+      "section": "18",
+      "title": "Einschränkung des Auskunftsrechts",
+      "content": "1 Die Einschränkung des Auskunftsrechts richtet sich nach Artikel 9 Absätze 1–3 und 5 DSG. Darüber hinaus kann das Bundesorgan die Auskunft verweigern, einschränken oder aufschieben, wenn das Auskunftsgesuch offensichtlich unbegründet oder querulatorisch ist. 2 Die Spezialbestimmungen in anderen Bundesgesetzen bleiben vorbehalten. SR 235.1"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "3. Abschnitt: Rechte der betroffenen Personen",
+      "section": "19",
+      "title": "Weitere Ansprüche und Verfahren",
+      "content": "1 Wer ein schutzwürdiges Interesse hat, kann vom verantwortlichen Bundesorgan verlangen, dass es: a. die widerrechtliche Bearbeitung unterlässt; b. die Folgen einer widerrechtlichen Bearbeitung beseitigt; c. die Widerrechtlichkeit der Bearbeitung feststellt. 2 Die Gesuchstellerin oder der Gesuchsteller kann insbesondere verlangen, dass das Bundesorgan: a. die betreffenden Personendaten berichtigt, löscht oder vernichtet; b. seinen Entscheid, namentlich über die Berichtigung, Löschung oder Ver-nichtung, die Sperrung der Bekanntgabe nach Artikel 20 DSG oder den Bestreitungsvermerk nach Absatz 4 veröffentlicht oder Dritten mitteilt. 3 Statt die Personendaten zu löschen oder zu vernichten, schränkt das Bundesorgan die Bearbeitung ein, wenn: a. die betroffene Person die Richtigkeit der Personendaten bestreitet und weder die Richtigkeit noch die Unrichtigkeit festgestellt werden kann; b. überwiegende Interessen Dritter dies erfordern; c. ein überwiegendes öffentliches Interesse, namentlich die innere oder die äussere Sicherheit der Schweiz, dies erfordert; d. die Löschung oder Vernichtung der Personendaten eine Ermittlung, eine Untersuchung oder ein behördliches oder gerichtliches Verfahren gefährden kann. 4 Kann weder die Richtigkeit noch die Unrichtigkeit der Personendaten festgestellt werden, so bringt das Bundesorgan bei den Daten einen Bestreitungsvermerk an. 5 Das Verfahren richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968 (VwVG). Die Ausnahmen nach den Artikeln 2 und 3 VwVG gelten nicht. 6 Die Spezialbestimmungen in anderen Bundesgesetzen bleiben vorbehalten. SR 235.1 SR 172.021"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten",
+      "content": "Solange ein Verfahren betreffend den Zugang zu amtlichen Dokumenten im Sinne des Öffentlichkeitsgesetzes vom 17. Dezember 2004, welche Personendaten enthalten, im Gange ist, kann die betroffene Person im Rahmen dieses Verfahrens die Rechte geltend machen, die ihr aufgrund von Artikel 19 des vorliegenden Gesetzes bezogen auf diejenigen Dokumente zustehen, die Gegenstand des Zugangsverfahrens sind. SR 152.3"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "4. Abschnitt: Aufsicht",
+      "section": "21",
+      "title": "Beauftragter",
+      "content": "1 Der Beauftragte beaufsichtigt die Anwendung der bundesrechtlichen Datenschutzvorschriften. 2 Von der Aufsicht durch den Beauftragten sind ausgenommen: a. die eidgenössischen Gerichte; b. die Bundesanwaltschaft, betreffend die Bearbeitung von Personendaten im Rahmen von Strafverfahren; c. Bundesbehörden, betreffend die Bearbeitung von Personendaten im Rahmen von Verfahren der internationalen Rechtshilfe in Strafsachen."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "4. Abschnitt: Aufsicht",
+      "section": "22",
+      "title": "Untersuchung",
+      "content": "1 Der Beauftragte eröffnet von Amtes wegen oder auf Anzeige hin eine Untersuchung gegen das Bundesorgan oder den Auftragsbearbeiter, wenn Anzeichen bestehen, dass eine Datenbearbeitung gegen die Datenschutzvorschriften verstossen könnte. 2 Er kann von der Eröffnung einer Untersuchung absehen, wenn die Verletzung der Datenschutzvorschriften von geringfügiger Bedeutung ist. 3 Das Bundesorgan oder der Auftragsbearbeiter erteilt dem Beauftragten alle Auskünfte und stellt ihm alle Unterlagen zur Verfügung, die für die Untersuchung notwendig sind. Das Auskunftsverweigerungsrecht richtet sich nach den Artikeln 16 und 17 VwVG. 4 Hat die betroffene Person Anzeige erstattet, so informiert der Beauftragte sie über die gestützt darauf unternommenen Schritte und das Ergebnis einer allfälligen Untersuchung. SR 172.021"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "4. Abschnitt: Aufsicht",
+      "section": "23",
+      "title": "Befugnisse",
+      "content": "1 Kommt das Bundesorgan oder der Auftragsbearbeiter den Mitwirkungspflichten nicht nach, so kann der Beauftragte im Rahmen der Untersuchung insbesondere Folgendes anordnen: a. Zugang zu allen Auskünften, Unterlagen, Verzeichnissen der Bearbeitungstätigkeiten und Personendaten, die für die Untersuchung erforderlich sind; b. Zugang zu Räumlichkeiten und Anlagen; c. Zeugeneinvernahmen; d. Begutachtungen durch Sachverständige. 2 Er kann für die Dauer der Untersuchung zudem vorsorgliche Massnahmen anordnen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "4. Abschnitt: Aufsicht",
+      "section": "24",
+      "title": "Verwaltungsmassnahmen",
+      "content": "1 Liegt eine Verletzung von Datenschutzvorschriften vor, so kann der Beauftragte verfügen, dass die Bearbeitung ganz oder teilweise angepasst, unterbrochen oder abgebrochen wird und die Personendaten ganz oder teilweise gelöscht oder vernichtet werden. 2 Er kann die Bekanntgabe ins Ausland aufschieben oder untersagen, wenn sie gegen die anwendbaren gesetzlichen Bestimmungen betreffend die Bekanntgabe von Personendaten an einen Drittstaat oder an ein internationales Organ verstösst. 3 Hat das Bundesorgan oder der Auftragsbearbeiter während der Untersuchung die erforderlichen Massnahmen getroffen, um die Einhaltung der Datenschutzvorschriften wiederherzustellen, so kann der Beauftragte sich darauf beschränken, eine Verwarnung auszusprechen."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "4. Abschnitt: Aufsicht",
+      "section": "25",
+      "title": "Verfahren",
+      "content": "1 Das Untersuchungsverfahren sowie Verfügungen nach den Artikeln 23 und 24 richten sich nach dem VwVG. 2 Unter Vorbehalt von Artikel 349 h des Strafgesetzbuches ist nur das Bundesorgan oder der Auftragsbearbeiter, gegen das oder den eine Untersuchung eröffnet wurde, Partei. 3 Der Beauftragte kann Beschwerdeentscheide des Bundesverwaltungsgerichts anfechten. SR 172.021 SR 311.0"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "5. Abschnitt: Amtshilfe zwischen dem Beauftragten und ausländischen Behörden",
+      "section": "26",
+      "title": "",
+      "content": "1 Der Beauftragte kann mit der Behörde eines Schengen-Staates, die für den Datenschutz zuständig ist, für die Erfüllung ihrer jeweiligen gesetzlich vorgesehenen Aufgaben im Bereich des Datenschutzes Informationen oder Personendaten austauschen, wenn folgende Voraussetzungen erfüllt sind: a. Die Gegenseitigkeit der Amtshilfe ist sichergestellt. b. Die Informationen und Personendaten werden nur für das den Datenschutz betreffende Verfahren verwendet, das dem Amtshilfeersuchen zugrunde liegt. c. Die empfangende Behörde verpflichtet sich, die Berufs- sowie Geschäfts- und Fabrikationsgeheimnisse zu wahren. d. Die Informationen und Personendaten werden Dritten nur bekanntgegeben, wenn die Behörde, die sie übermittelt hat, dies vorgängig genehmigt. e. Die empfangende Behörde verpflichtet sich, die Auflagen und Einschränkungen der Behörde einzuhalten, die ihr die Informationen und Personendaten übermittelt hat. 2 Um sein Amtshilfegesuch zu begründen oder um dem Ersuchen einer Behörde Folge zu leisten, kann der Beauftragte insbesondere folgende Angaben machen: a. den Namen des verantwortlichen Bundesorgans, des Auftragsbearbeiters oder anderer beteiligter Dritter; b. die Kategorien der betroffenen Personen; c. die Identität der betroffenen Personen, falls deren Mitteilung unentbehrlich ist, damit der Beauftragte oder die für den Datenschutz zuständige Behörde eines Schengen-Staates ihre gesetzlichen Aufgaben erfüllen können; d. bearbeitete Personendaten oder Kategorien bearbeiteter Personendaten; e. den Bearbeitungszweck; f. die Empfängerinnen und Empfänger oder die Kategorien der Empfängerinnen und Empfänger; g. die technischen und organisatorischen Massnahmen. 3 Bevor der Beauftragte der Behörde eines Schengen-Staates, die für den Datenschutz zuständig ist, Informationen bekanntgibt, die Berufs-, Geschäfts- oder Fabrikationsgeheimnisse enthalten können, informiert er die betroffenen Personen, die Trägerinnen dieser Geheimnisse sind, und lädt sie zur Stellungnahme ein, es sei denn, dies ist nicht möglich oder erfordert einen unverhältnismässigen Aufwand."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "6. Abschnitt: Übergangbestimmung betreffend laufende Verfahren",
+      "section": "27",
+      "title": "",
+      "content": "Dieses Gesetz gilt nicht für Untersuchungen des Beauftragten, die im Zeitpunkt des Inkrafttretens hängig sind; es ist ebenfalls nicht anwendbar auf hängige Beschwerden gegen erstinstanzliche Entscheide, die vor dem Inkrafttreten ergangen sind. Diese Fälle unterstehen dem bisherigen Recht. Datum des Inkrafttretens: 1. März 2019 BRB vom 30. Januar 2019 ( AS 2019 625 , hier 638)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "besonders schützenswerte Personendaten",
+      "definition": "besonders schützenswerte Personendaten : 1. Daten über die religiösen, weltanschaulichen und politischen Ansichten oder Tätigkeiten,",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Profiling",
+      "definition": "Profiling : jede Art der automatisierten Bearbeitung von Personendaten, die darin besteht, dass diese Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftlicher Lage, Gesundheit, persönlicher Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Verletzung der Datensicherheit",
+      "definition": "Verletzung der Datensicherheit : jede Verletzung der Sicherheit, die ungeachtet der Absicht oder der Widerrechtlichkeit dazu führt, dass Personendaten verloren gehen, gelöscht, vernichtet oder verändert werden oder Unbefugten offengelegt oder zugänglich gemacht werden;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "automatisierte Einzelentscheidung",
+      "definition": "automatisierte Einzelentscheidung : jede Entscheidung, die ausschliesslich auf einer automatisierten Bearbeitung, einschliesslich Profiling, beruht und die für die betroffene Person mit einer Rechtsfolge verbunden ist oder sie erheblich beeinträchtigt;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Auftragsbearbeiter",
+      "definition": "Auftragsbearbeiter : private Person oder Bundesorgan, die oder das im Auftrag des verantwortlichen Bundesorgans Personendaten bearbeitet.",
+      "source_provision": "art3"
+    }
+  ]
+}

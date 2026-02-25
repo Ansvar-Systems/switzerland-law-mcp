@@ -1,0 +1,278 @@
+{
+  "id": "sr-120",
+  "type": "statute",
+  "title": "Bundesgesetz vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit (BWIS)",
+  "title_en": "",
+  "short_name": "BWIS",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1998/1546_1546_1546/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Zweck, Aufgaben und Schranken",
+      "section": "1",
+      "title": "Zweck",
+      "content": "Dieses Gesetz dient der Sicherung der demokratischen und rechtsstaatlichen Grundlagen der Schweiz sowie dem Schutz der Freiheitsrechte ihrer Bevölkerung."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Zweck, Aufgaben und Schranken",
+      "section": "2",
+      "title": "Aufgaben",
+      "content": "1 Der Bund trifft vorbeugende polizeiliche Massnahmen nach diesem Gesetz, um Gefährdungen der inneren Sicherheit frühzeitig abzuwehren. 2 Vorbeugende polizeiliche Massnahmen sind: a. Personensicherheitsprüfungen; b. Massnahmen zum Schutz von Bundesbehörden, völkerrechtlich geschützten Personen, ständigen diplomatischen Missionen, konsularischen Posten und internationalen Organisationen; c. Sicherstellung, Beschlagnahme und Einziehung von Propagandamaterial mit zu Gewalt aufrufendem Inhalt; d. Beschlagnahme gefährlicher Gegenstände nach Artikel 13 f , soweit dies zur Erfüllung der Aufgaben nach diesem Gesetz erforderlich ist; e. Massnahmen nach dem 5 a . Abschnitt zur Verhinderung von Gewalt anlässlich von Sportveranstaltungen. Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Zweck, Aufgaben und Schranken",
+      "section": "3",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Aufgabenteilung",
+      "section": "4",
+      "title": "Grundsatz",
+      "content": "1 Für die innere Sicherheit seines Gebietes ist in erster Linie der Kanton verantwortlich. 2 Soweit der Bund nach Verfassung und Gesetz für die innere Sicherheit verantwortlich ist, leisten ihm die Kantone Amts- und Vollzugshilfe."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Aufgabenteilung",
+      "section": "5",
+      "title": "Aufgabenerfüllung durch den Bund",
+      "content": "Der Bundesrat erlässt ein Leitbild der Massnahmen zum Schutz von: a. Bundesbehörden; b. völkerrechtlich geschützten Personen; c. Personen, denen der Bund nach Artikel 2 des Gaststaatgesetzes vom 22. Juni 2007 Vorrechte, Immunitäten oder Erleichterungen gewährt. Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). SR 192.12"
+    },
+    {
+      "provision_ref": "art5a",
+      "chapter": "2. Abschnitt: Aufgabenteilung",
+      "section": "5a",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I des BG vom 23. Dez. 2011 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Aufgabenteilung",
+      "section": "6",
+      "title": "Aufgabenerfüllung durch die Kantone",
+      "content": "1 Jeder Kanton bestimmt die Behörde, die beim Vollzug dieses Gesetzes mit dem Bundesamt für Polizei (fedpol) zusammenarbeitet. Er legt den Dienstweg so fest, dass dringliche Einzelaufträge des Bundes ohne Verzug durchgeführt werden. 2 Hat ein Kanton sicherheitspolizeiliche Aufgaben bestimmten Gemeinden übertragen, so arbeiten diese wie ein Kanton direkt mit den Bundesbehörden zusammen. 3 Personen, die von den Kantonen mit Aufgaben nach diesem Gesetz betraut sind, unterstehen dem kantonalen Dienstrecht und der kantonalen Dienstaufsicht. Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "2. Abschnitt: Aufgabenteilung",
+      "section": "79",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Informationsbearbeitung",
+      "section": "10",
+      "title": "Informationspflichten von fedpol",
+      "content": "Fedpol informiert die andern Sicherheitsorgane des Bundes und die Kantone sowie die an polizeilichen Aufgaben mitwirkenden Bundesorgane über alle Vorgänge, welche die innere Sicherheit in ihrem Aufgabenbereich beeinträchtigen können. Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art10a",
+      "chapter": "3. Abschnitt: Informationsbearbeitung",
+      "section": "10a",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I des BG vom 23. Dez. 2011 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art1113",
+      "chapter": "3. Abschnitt: Informationsbearbeitung",
+      "section": "1113",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art13a",
+      "chapter": "3. Abschnitt: Informationsbearbeitung",
+      "section": "13a",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I des BG vom 24. März 2006 ( AS 2006 3703 ; BBl 2005 5613 ). Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art13b13d",
+      "chapter": "3. Abschnitt: Informationsbearbeitung",
+      "section": "13b13d",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I des BG vom 23. Dez. 2011 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art13e",
+      "section": "13e",
+      "title": "e Sicherstellung, Beschlagnahme und Einziehung von Propagandamaterial",
+      "content": "1 Die Polizei- und die Zollbehörden stellen, ungeachtet der Menge, Beschaffenheit und Art, Material sicher, das Propagandazwecken dienen kann und dessen Inhalt konkret und ernsthaft zur Gewalttätigkeit gegen Menschen oder Sachen aufruft. 2 Sie übermitteln das Material dem Nachrichtendienst des Bundes (NDB). Über die Beschlagnahme und die Einziehung entscheidet fedpol nach Anhörung des NDB. Das Verwaltungsverfahrensgesetz vom 20. Dezember 1968 ist anwendbar. 3 Stossen die zuständigen Mitarbeiterinnen und Mitarbeiter des NDB oder von fedpol auf entsprechendes Material, so können sie es direkt sicherstellen. 4 Liegt ein Verdacht auf eine strafbare Handlung vor, so übermittelt die sicherstellende Behörde das Material der zuständigen Strafbehörde. 5 Bei Verbreitung von Propagandamaterial nach Absatz 1 über das Internet kann fedpol nach Anhörung des NDB: a. die Löschung der betreffenden Website verfügen, wenn das Propagandamaterial auf einem schweizerischen Rechner liegt; a bis . den Widerruf der zur Verbreitung verwendeten Domain-Namen zweiter Ebene anordnen, die einer Internet-Domain untergeordnet sind, deren Verwaltung in den Zuständigkeitsbereich der Schweiz fällt; b. dem schweizerischen Provider empfehlen, die betreffende Webseite zu sperren, wenn das Propagandamaterial nicht auf einem schweizerischen Rechner liegt. Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). SR 172.021 Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). Eingefügt durch Anhang Ziff. 1 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ( AS 2020 6159 ; BBl 2017 6559 )."
+    },
+    {
+      "provision_ref": "art13f",
+      "section": "13f",
+      "title": "f Beschlagnahme gefährlicher Gegenstände",
+      "content": "Fedpol kann gefährliche Gegenstände nach Artikel 4 Absatz 6 des Waffengesetzes vom 20. Juni 1997 beschlagnahmen, soweit dies zur Erfüllung der Aufgaben nach diesem Gesetz erforderlich ist. Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). SR 514.54"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Informationsbeschaffung",
+      "content": "1 Fedpol und die Kantone beschaffen die Informationen, die zur Erfüllung der Aufgaben nach diesem Gesetz notwendig sind. Sie können diese Daten beschaffen, selbst wenn dies für die betroffenen Personen nicht erkennbar ist. 2 Personendaten können beschafft werden durch: a. Auswerten öffentlich zugänglicher Quellen; b. Einholen von Auskünften; c. Einsicht in amtliche Akten; d. Entgegennahme und Auswerten von Meldungen; e. Nachforschen nach der Identität oder dem Aufenthalt von Personen; f. Beobachten von Vorgängen an öffentlichen und allgemein zugänglichen Orten, auch mittels Bild- und Tonaufzeichnungen; g. Feststellen der Bewegungen und der Kontakte von Personen. 3 Der Einsatz strafprozessualer Zwangsmassnahmen ist nur im Rahmen eines gerichtspolizeilichen Ermittlungsverfahrens oder einer Voruntersuchung zulässig. Dasselbe gilt für das Beobachten von Vorgängen in privaten Räumen. Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art14a14c",
+      "section": "14a14c",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I des BG vom 23. Dez. 2011 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art1518",
+      "section": "1518",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Personensicherheitsprüfungen",
+      "section": "19",
+      "title": "Personenkreis",
+      "content": "1 Der Bundesrat kann Sicherheitsprüfungen vorsehen für Bedienstete des Bundes, Angehörige der Armee und des Zivilschutzes sowie Dritte, die an klassifizierten Projekten im Bereich der inneren und äusseren Sicherheit mitwirken, wenn sie bei ihrer Tätigkeit: a. regelmässigen und weit reichenden Einblick in die Regierungstätigkeit oder in wichtige sicherheitspolitische Geschäfte haben und darauf Einfluss nehmen können; b. regelmässig Zugang zu Geheimnissen der inneren oder der äusseren Sicherheit oder zu Informationen haben, deren Aufdeckung die Erfüllung wesentlicher Aufgaben des Bundes gefährden könnte; c. als Angehörige der Armee und des Zivilschutzes Zugang zu klassifizierten Informationen, Materialien oder Anlagen haben; d. als Vertragspartner oder deren Mitarbeiter an klassifizierten Projekten des Bundes mitwirken oder aufgrund von Geheimschutzvereinbarungen überprüft werden müssen; e. regelmässig Zugang zu besonders schützenswerten Personendaten haben, deren Offenbarung die Persönlichkeitsrechte der Betroffenen schwerwiegend beeinträchtigen könnte. 2 Die Kantone können für ihre Bediensteten, die unmittelbar bei Aufgaben des Bundes nach diesem Gesetz mitwirken, ebenfalls eine Sicherheitsprüfung durchführen. Sie können die Mitwirkung des NDB beanspruchen. 3 Die Sicherheitsprüfung wird durchgeführt, bevor das Amt oder die Funktion übertragen oder der Auftrag erteilt wird. Die Prüfung darf nur durchgeführt werden, wenn die betreffende Person ihre Einwilligung gegeben hat. Angehörige der Armee dürfen auch ohne Einwilligung überprüft werden, sofern die Prüfung für die Ausübung der aktuellen oder vorgesehenen militärischen Funktion erforderlich ist. Der Bundesrat kann die periodische Wiederholung vorsehen. 4 Der Bundesrat erlässt eine Liste der Ämter in der Bundesverwaltung und der Funktionen der Armee, für die eine Sicherheitsprüfung durchgeführt werden muss. Die Departementsvorsteher und der Bundeskanzler können in Ausnahmefällen Personen prüfen lassen, deren Amt oder Funktion noch nicht in der Liste aufgenommen ist, jedoch die Voraussetzungen nach Absatz 1 erfüllt. Fassung gemäss Ziff. II 1 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ( AS 2011 5891 ; BBl 2010 6055 ). Fassung gemäss Ziff. II 1 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ( AS 2011 5891 ; BBl 2010 6055 ). Fassung gemäss Anhang Ziff. 1 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ( AS 2016 4277 , 2017 2297 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Abschnitt: Personensicherheitsprüfungen",
+      "section": "20",
+      "title": "Prüfungsinhalt",
+      "content": "1 Bei der Sicherheitsprüfung werden sicherheitsrelevante Daten über die Lebensführung der betroffenen Person erhoben, insbesondere über ihre engen persönlichen Beziehungen und familiären Verhältnisse, ihre finanzielle Lage, ihre Beziehungen zum Ausland und Aktivitäten, welche die innere oder die äussere Sicherheit in rechtswidriger Weise gefährden können. Über die Ausübung verfassungsmässiger Rechte werden keine Daten erhoben. 2 Die Daten können erhoben werden: a. über den NDB aus den Registern der Sicherheits- und der Strafverfolgungsorgane von Bund und Kantonen sowie aus dem Strafregister; b. aus den Registern der Betreibungs- und Konkursbehörden der Kantone und der Einwohnerkontrollen; c. im Auftrag der Prüfbehörden (Art. 21 Abs. 1) durch Erhebung der zuständigen kantonalen Polizei über die zu prüfende Person; d. durch Einholen von Auskünften und Akten bei den zuständigen Strafverfolgungsbehörden, Gerichten und Strafvollzugsbehörden über laufende, abgeschlossene oder eingestellte Strafverfahren sowie Strafvollzüge; e. durch Befragung von Drittpersonen, wenn die betroffene Person zugestimmt hat; f. durch persönliche Befragung der betroffenen Person. Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Fassung gemäss Anhang Ziff. 1 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ( AS 2016 4277 , 2017 2297 ; BBl 2014 6955 )."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Durchführung der Prüfung",
+      "content": "1 Der Bundesrat bezeichnet die Prüfbehörden, welche die Sicherheitsprüfungen in Zusammenarbeit mit dem NDB durchführen. Die Prüfbehörden sind weisungsungebunden. 2 Die Prüfbehörde teilt der geprüften Person das Ergebnis der Abklärungen und ihre Beurteilung des Sicherheitsrisikos mit. Die geprüfte Person kann innert zehn Tagen Einsicht in die Prüfungsunterlagen nehmen und die Berichtigung falscher Daten verlangen sowie bei Akten des Bundes die Entfernung überholter Daten verlangen oder einen Bestreitungsvermerk anbringen lassen. Für die Einschränkung der Auskunft gilt Artikel 9 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz (DSG). 3 Wird die Sicherheitserklärung nicht erteilt oder mit Vorbehalten versehen, so kann die betroffene Person Beschwerde beim Bundesverwaltungsgericht führen. 4 Die Prüfbehörde unterbreitet ihre Beurteilung des Sicherheitsrisikos schriftlich der entscheidenden Instanz, die für die Wahl oder die Übertragung der Funktion zuständig ist. Die entscheidende Instanz ist an die Beurteilung der Prüfbehörde nicht gebunden. Der Bundesrat regelt die Zuständigkeiten bei den Sicherheitsprüfungen nach Artikel 19 Absatz 1 Buchstabe d. 5 Der Bundesrat regelt die Einzelheiten der Sicherheitsprüfung, insbesondere die Einsichtsrechte der Betroffenen und der ernennenden Behörde, sowie Aufbewahrung, weitere Verwendung und Löschung der Daten. Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). SR 235.1 Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). Fassung gemäss Ziff. II 1 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Aug. 2008 ( AS 2008 3437 ; BBl 2007 6121 ). Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ( AS 2012 3745 ; BBl 2007 5037 , 2010 7841 ). Zweiter Satz aufgehoben durch Ziff. II 1 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ( AS 2008 3437 ; BBl 2007 6121 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "5. Abschnitt: Aufgaben zum Schutz von Personen und Gebäuden",
+      "section": "22",
+      "title": "Grundsätze",
+      "content": "1 Fedpol sorgt in Zusammenarbeit mit den kantonalen Behörden für den Schutz der Behörden und der Gebäude des Bundes sowie der Personen und Gebäude, für welche der Bund völkerrechtliche Schutzpflichten erfüllen muss. 2 Der Bundesrat kann für diese Aufgaben staatliche oder private Schutzdienste einsetzen. 3 Er kann andere geeignete Bedienstete für Schutzaufgaben einsetzen oder bei besonderem Bedarf oder bei erhöhter Bedrohung nach Absprache mit den kantonalen Regierungen den zuständigen kantonalen Behörden zur Verfügung stellen. 4 Das nach diesem Gesetz zum Schutz von Personen, Behörden und Gebäuden eingesetzte Personal darf zur Erfüllung seines Auftrags und, soweit die zu schützenden Rechtsgüter es rechtfertigen, polizeilichen Zwang und polizeiliche Massnahmen anwenden. Das Zwangsanwendungsgesetz vom 20. März 2008 ist anwendbar. Ausdruck gemäss Ziff. I 1 der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ( AS 2008 6261 ). Diese Änderung wurde im ganzen Erlass berücksichtigt. SR 364 Eingefügt durch Anhang Ziff. 1 des Zwangsanwendungsgesetzes vom 20. März 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5463 ; BBl 2006 2489 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "5. Abschnitt: Aufgaben zum Schutz von Personen und Gebäuden",
+      "section": "23",
+      "title": "Schutz der Bundesbehörden",
+      "content": "1 Der Bundesrat bestimmt: a. die Personen, die im Auftrag des Bundes eine öffentliche Funktion ausüben und zu deren Gunsten nach Massgabe der mit dieser Funktion verbundenen Gefährdungslage Schutzmassnahmen getroffen werden; b. die Gebäude des Bundes, in denen zum Schutz der Personen und Einrichtungen das Personal von fedpol eingesetzt wird; c. ... 1bis In begründeten Fällen kann der Bundesrat eine Verlängerung von Schutzmassnahmen zugunsten von Personen nach Absatz 1 Buchstabe a auch nach dem Ausscheiden aus ihrer Funktion vorsehen. 2 Für alle Gebäude, in denen Bundesbehörden untergebracht sind, wird das Hausrecht nach Artikel 62 f des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 (RVOG) in seinen Gebäuden vom Bund ausgeübt. Er trifft die geeigneten Schutzmassnahmen in Absprache mit fedpol. 3 Die Kantone gewährleisten den Schutz des übrigen Eigentums des Bundes nach Massgabe von Artikel 62 e Absatz 1 RVOG. 3bis Bestehen konkrete Gründe zur Annahme, dass eine bestimmte Person gegenüber Personen oder Gebäuden, die nach Absatz 1 unter Schutz stehen, eine Straftat begehen wird, so kann die für den Schutz zuständige Behörde diese Person aufsuchen, sie auf ihr Verhalten ansprechen und sie auf die Folgen allfälliger Straftaten hinweisen. 4 Die Baubehörden des Bundes legen im Einvernehmen mit fedpol und den untergebrachten Departementen, Gruppen und Ämtern und andern Bundesbehörden die baulichen und technischen Schutzmassnahmen fest. 5 ... Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). SR 172.010 Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). Fassung gemäss Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art23a",
+      "section": "23a",
+      "title": "a Informations- und Dokumentationssystem",
+      "content": "1 Fedpol bearbeitet die Informationen, die für die Anordnung von Massnahmen zum Schutz von Personen und Gebäuden nach diesem Abschnitt notwendig sind, in einem eigenen Informations- und Dokumentationssystem. 2 Das Informations- und Dokumentationssystem enthält Daten über sicherheitsrelevante Ereignisse und damit in Verbindung stehende Personen. 3 Die Daten werden spätestens fünf Jahre, nachdem der Schutzbedarf nicht mehr gegeben ist, vernichtet. 4 Das Auskunftsrecht und das Recht, Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 DSG. Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 ). SR 235.1"
+    },
+    {
+      "provision_ref": "art23b",
+      "section": "23b",
+      "title": "b Daten, Datenkategorien und Schranken der Datenbearbeitung",
+      "content": "1 Fedpol bearbeitet nur Daten von Personen: a. für deren Sicherheit fedpol zuständig ist; b. von denen aufgrund begründeter Anhaltspunkte angenommen werden muss, dass von ihnen eine konkrete Gefahr für die Sicherheit von Behörden, Gebäuden und Einrichtungen des Bundes ausgeht. 2 Es dürfen ausschliesslich folgende Daten bearbeitet werden: a. Name, Vorname, Geburtsdatum, Geburtsort, Heimatort und Wohnadresse; b. Aufnahmen in Bild und Ton; c. besonders schützenswerte Personendaten und Persönlichkeitsprofile, soweit sie für die Beurteilung des Grades der Gefährlichkeit notwendig sind, wie Informationen über den Gesundheitszustand, über Verurteilungen oder hängige Verfahren, über Mitgliedschaften in Parteien, Gesellschaften, Vereinen, Organisationen und Institutionen sowie Angaben über deren leitende Organe. 3 Informationen über die politische Betätigung und über die Ausübung der Meinungs-, der Versammlungs- und der Vereinigungsfreiheit dürfen nicht bearbeitet werden. Die Bearbeitung ist ausnahmsweise zulässig, wenn begründete Anhaltspunkte bestehen, dass eine Organisation oder ihr angehörende Personen die Ausübung der politischen Rechte oder der Grundrechte als Vorwand nehmen, um strafbare Handlungen vorzubereiten oder durchzuführen. Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art23c",
+      "section": "23c",
+      "title": "c Zugriffsrechte und Datenweitergabe",
+      "content": "1 Der Zugriff auf das Informations- und Dokumentationssystem mittels automatisierten Abrufverfahrens ist auf diejenigen Stellen von fedpol beschränkt, die: a. die Gefährdung von Behörden, Gebäuden und Einrichtungen des Bundes beurteilen; b. Personenschutzmassnahmen anordnen und durchführen. 2 Folgenden Stellen und Personen dürfen Daten, einschliesslich besonders schützenswerte Personendaten und Persönlichkeitsprofile, bekannt gegeben werden: a. Departementen, Amtsstellen und Sicherheitsorganen der zivilen und militärischen Verwaltung zum Schutz von Behörden, Gebäuden und Einrichtungen sowie zur Durchführung von Personenschutzmassnahmen; b. für Staatsschutz oder Terrorbekämpfung zuständigen Stellen bei fedpol und beim NDB; c. Gebäudeverantwortlichen des Bundes zur Verhinderung des unberechtigten Zutritts von Personen; d. in- und ausländischen Vertretungen sowie internationalen Organen zum Schutz völkerrechtlich geschützter Personen; e. in- und ausländischen Polizeiorganen zur Erfüllung sicherheitspolizeilicher Aufgaben; f. Verantwortlichen von Anlässen und Privaten, soweit die Bekanntgabe notwendig ist, um eine schwere und unmittelbare Gefahr abzuwehren. Eingefügt durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Erfüllung der völkerrechtlichen Schutzpflichten",
+      "content": "Die Kantone treffen in Absprache mit fedpol die Massnahmen auf ihrem Gebiet, die für die Erfüllung der völkerrechtlichen Schutzpflichten der Schweiz notwendig sind; wenn nötig arbeiten sie mit den Sicherheitsdiensten der auf ihrem Gebiet niedergelassenen internationalen oder diplomatischen Vertretungen sowie den ausländischen Polizeibehörden zusammen, die für die Sicherheitsfragen im Grenzgebiet zuständig sind."
+    },
+    {
+      "provision_ref": "art24a",
+      "chapter": "51",
+      "section": "24a",
+      "title": "a Informationen über Gewalttätigkeiten anlässlich von Sportveranstaltungen",
+      "content": "1 Fedpol betreibt ein elektronisches Informationssystem, in das Daten über Personen aufgenommen werden, die sich anlässlich von Sportveranstaltungen im In‑ und Ausland gewalttätig verhalten haben. 2 In das Informationssystem dürfen Informationen über Personen, gegen die Ausreisesperren, Massnahmen nach kantonalem Recht im Zusammenhang mit Gewalttätigkeiten anlässlich von Sportveranstaltungen oder andere Massnahmen wie Stadionverbote verhängt worden sind, aufgenommen werden, wenn: a. die Massnahme von einer richterlichen Behörde ausgesprochen oder bestätigt worden ist; b. die Massnahme aufgrund einer strafbaren Handlung ausgesprochen worden ist, die zur Anzeige an die zuständigen Behörden gebracht wurde; oder c. die Massnahme zur Wahrung der Sicherheit von Personen oder der Sportveranstaltung notwendig ist und glaubhaft gemacht werden kann, dass die Massnahme begründet ist. 3 Das elektronische Informationssystem kann folgende Daten enthalten: Foto; Name; Vorname; Geburtsdatum; Geburtsort; Heimatort; Wohnadresse; Art der Massnahme und Grund der Massnahme wie Verurteilung, Strafuntersuchung, Meldungen der Polizei, Videoaufnahmen; verfügende Behörde; Verstösse gegen Massnahmen; Organisationen; Ereignisse. 4 Die Behörden und Amtsstellen nach Artikel 13, die über Informationen nach Absatz 1 verfügen, sind zu deren Weitergabe an fedpol verpflichtet. 5 Die Vollzugsbehörden können besonders schützenswerte Personendaten bearbeiten, soweit es die Durchführung ihrer Aufgaben erfordert. 6 Fedpol prüft, ob die Informationen, die ihm übermittelt werden, richtig und erheblich im Sinne von Absatz 2 sind. Es vernichtet unrichtige oder unerhebliche Informationen und benachrichtigt darüber den Absender. 7 Das Informationssystem steht den für den Vollzug dieses Gesetzes zuständigen Stellen von fedpol sowie den Polizeibehörden der Kantone, der Schweizerischen Zentralstelle für Hooliganismus (Zentralstelle) und den Zollbehörden über ein Abrufverfahren zur Verfügung. Der Bundesrat legt die Voraussetzungen für die Aufbewahrung und Löschung der Daten fest. Er bestimmt den Anschluss der kantonalen Sicherheitsorgane im Einzelnen und regelt die Zugriffsrechte. 8 Die Vollzugsbehörden können Personendaten nach Absatz 1 an Organisatoren von Sportveranstaltungen in der Schweiz weitergeben, wenn die Daten für die Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich bestimmter Veranstaltungen nötig sind. Die Empfänger der Daten dürfen diese nur im Rahmen des Vollzuges der Massnahmen an Dritte weitergeben. Der Bundesrat regelt, wie die Daten durch die Empfänger und durch Dritte bearbeitet werden. 9 Fedpol und die Zentralstelle können Personendaten an ausländische Polizeibehörden und Sicherheitsorgane weitergeben. Die Weitergabe richtet sich nach den Voraussetzungen von Artikel 17 Absätze 3–5. Die Daten dürfen nur weitergegeben werden, wenn der Empfänger garantiert, dass sie ausschliesslich der Anordnung von Massnahmen zur Verhinderung von Gewalttätigkeiten anlässlich von Sportveranstaltungen dienen. Der Quellenschutz ist zu wahren. 10 Das Recht, Auskünfte über die Daten im Informationssystem zu bekommen, und das Recht, die Daten berichtigen zu lassen, richten sich nach den Artikeln 5 und 8 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz. Fedpol teilt der betroffenen Person die Erfassung und Löschung ihrer Daten im Informationssystem mit. Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ( AS 2009 5091 ; BBl 2007 6465 ). SR 235.1"
+    },
+    {
+      "provision_ref": "art24b",
+      "section": "24b",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. Jan. 2010 ( AS 2009 5091 ; BBl 2007 6465 )."
+    },
+    {
+      "provision_ref": "art24c",
+      "section": "24c",
+      "title": "c Ausreisebeschränkung",
+      "content": "1 Einer Person kann die Ausreise aus der Schweiz in ein bestimmtes Land für eine bestimmte Zeitdauer untersagt werden, wenn: a. gegen sie ein Rayonverbot besteht, weil sie sich anlässlich von Sportveranstaltungen nachweislich an Gewalttätigkeiten gegen Personen oder Sachen beteiligt hat; und b. aufgrund ihres Verhaltens angenommen werden muss, dass sie sich anlässlich einer Sportveranstaltung im Bestimmungsland an Gewalttätigkeiten beteiligen wird. 2 Eine Ausreisebeschränkung kann auch gegen eine Person verfügt werden, gegen die kein Rayonverbot besteht, sofern konkrete und aktuelle Tatsachen die Annahme begründen, dass sie sich im Bestimmungsland an Gewalttätigkeiten beteiligen werden. 3 Die Ausreisebeschränkung gilt frühestens drei Tage vor der Sportveranstaltung und dauert längstens bis einen Tag nach deren Ende. 4 Während der Dauer der Beschränkung ist jede Ausreise verboten, mit der ein Aufenthalt im Bestimmungsland angestrebt wird. Ausnahmen können von fedpol bewilligt werden, wenn die betreffende Person wichtige Gründe für den Aufenthalt im Bestimmungsland geltend macht. 5 Fedpol verfügt die Ausreisebeschränkung. Die Kantone und die Zentralstelle können Ausreisebeschränkungen beantragen. 6 Die Ausreisebeschränkung wird im automatisierten Polizeifahndungssystem (RIPOL; Art. 15 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes) ausgeschrieben. Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ( AS 2009 5091 ; BBl 2007 6465 ). SR 361 Fassung gemäss Anhang 1 Ziff. 1 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ( AS 2008 4989 ; BBl 2006 5061 )."
+    },
+    {
+      "provision_ref": "art24d24e",
+      "section": "24d24e",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. Jan. 2010 ( AS 2009 5091 ; BBl 2007 6465 )."
+    },
+    {
+      "provision_ref": "art24f",
+      "section": "24f",
+      "title": "f Untere Altersgrenze",
+      "content": "Massnahmen nach Artikel 24 c können nur gegen Personen verfügt werden, die das 12. Altersjahr vollendet haben. Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ( AS 2009 5091 ; BBl 2007 6465 )."
+    },
+    {
+      "provision_ref": "art24g",
+      "section": "24g",
+      "title": "g Aufschiebende Wirkung",
+      "content": "Einer Beschwerde gegen eine Verfügung über Massnahmen nach Artikel 24 c kommt aufschiebende Wirkung zu, wenn dadurch der Zweck der Massnahme nicht gefährdet wird und wenn die Beschwerdeinstanz oder das Gericht diese in einem Zwischenentscheid ausdrücklich gewährt. Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ( AS 2009 5091 ; BBl 2007 6465 )."
+    },
+    {
+      "provision_ref": "art24h",
+      "section": "24h",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. Jan. 2010 ( AS 2009 5091 ; BBl 2007 6465 )."
+    },
+    {
+      "provision_ref": "art2527",
+      "chapter": "6. Abschnitt: Organisatorische Bestimmungen",
+      "section": "2527",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "6. Abschnitt: Organisatorische Bestimmungen",
+      "section": "28",
+      "title": "Finanzielle Leistungen an die Kantone",
+      "content": "1 ... 2 Der Bund leistet an Kantone, die in grossem Ausmass Schutzaufgaben nach dem fünften Abschnitt erfüllen müssen, sowie bei ausserordentlichen Ereignissen eine angemessene Abgeltung. 3 Der Bund gewährt dem Schweizerischen Polizeiinstitut Neuenburg Finanzhilfen für die im Interesse des Bundes erbrachten Leistungen. Aufgehoben durch Anhang Ziff. II 1 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ( AS 2017 4095 ; BBl 2014 2105 )."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "6. Abschnitt: Organisatorische Bestimmungen",
+      "section": "29",
+      "title": "Ausbildung",
+      "content": "Bund und Kantone arbeiten bei der Ausbildung im Bereiche der inneren Sicherheit zusammen, insbesondere durch gemeinsame Ausbildungsangebote."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "30",
+      "title": "Vollzug",
+      "content": "Der Bundesrat vollzieht dieses Gesetz. Er erlässt die Ausführungsbestimmungen."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "31",
+      "title": "Änderung bisherigen Rechts",
+      "content": "... Die Änderung kann unter AS 1998 1546 konsultiert werden."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "32",
+      "title": "Referendum und Inkrafttreten",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 4. Abschnitt: 1. Januar 1999 alle übrigen Bestimmungen: 1. Juli 1998 BRB vom 15. Juni 1998"
+    }
+  ],
+  "definitions": []
+}

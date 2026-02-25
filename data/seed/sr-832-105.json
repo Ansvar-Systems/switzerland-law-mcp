@@ -1,0 +1,158 @@
+{
+  "id": "sr-832-105",
+  "type": "statute",
+  "title": "Verordnung vom 14. Februar 2007 über die Versichertenkarte für die obligatorische Krankenpflegeversicherung (VVK)",
+  "title_en": "",
+  "short_name": "VVK",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/101/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Grundsatz",
+      "section": "1",
+      "title": "",
+      "content": "1 Die Versicherer müssen allen nach der Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV) versicherungspflichtigen Personen eine Versichertenkarte ausstellen. 2 Personen, die nach Artikel 1 Absatz 2 Buchstaben d und e KVV in der Schweiz versicherungspflichtig sind, aber ausser über die internationale Leistungsaushilfe keine Leistungen zulasten der obligatorischen Krankenpflegeversicherung im Gebiet der Schweiz beziehen können, wird keine Versichertenkarte ausgestellt. SR 832.102"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "2. Abschnitt: Technische Anforderungen",
+      "section": "2",
+      "title": "",
+      "content": "1 Die Versichertenkarte muss einen Mikroprozessor enthalten, der folgende Anwendungen unterstützt: a. Bearbeitung von Personendaten; b. Überprüfen der Berechtigung für den Datenzugriff; c. Sperren von Daten mit einem persönlichen Geheimcode (PIN-Code); d. weitere Anwendungen für kantonale Modellversuche. 2 Die von den Versicherern herausgegebenen Karten müssen untereinander kompatibel sein."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "3. Abschnitt: Daten für die Rechnungstellung",
+      "section": "3",
+      "title": "Aufgedruckte Daten",
+      "content": "1 Der Versicherer muss auf der Versichertenkarte folgende Daten aufdrucken: a. Name und Vorname der versicherten Person; b. AHV-Nummer; c. Geburtsdatum der versicherten Person; d. Geschlecht der versicherten Person; e. Name und Kennnummer des Versicherers (BAG-Nummer); f. Kennnummer der Versichertenkarte; g. Ablaufdatum der Versichertenkarte. 2 Auf der Rückseite der Versichertenkarte können zusätzlich die Daten der Europäischen Krankenversicherungskarte aufgedruckt sein. In diesem Fall muss die Kennnummer der Versichertenkarte mit der Kennnummer der Europäischen Krankenversicherungskarte identisch sein. 3 Das Eidgenössische Departement des Inneren legt die Anforderungen an die grafische Gestaltung fest. Fassung gemäss Anhang Ziff. II 37 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ( AS 2021 800 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "3. Abschnitt: Daten für die Rechnungstellung",
+      "section": "4",
+      "title": "Elektronische Daten",
+      "content": "1 Der Versicherer muss die Daten nach Artikel 3 Absatz 1 elektronisch auf der Versichertenkarte abspeichern. 2 Er kann zusätzlich folgende Angaben elektronisch auf der Versichertenkarte abspeichern: a. Zustelladresse der versicherten Person; b. Rechnungsadresse des Versicherers; c. besondere Versicherungsformen nach Artikel 62 KVG; d. Angabe, ob die Unfalldeckung nach Artikel 8 KVG sistiert ist; e. Angaben über Zusatzversicherungen, sofern die versicherte Person damit einverstanden ist; f. Daten der Europäischen Krankenversicherungskarte. 3 Der Versicherer darf den Entscheid der versicherten Person über die Aufnahme oder die Nichtaufnahme von Angaben über Zusatzversicherungen nach Absatz 2 Buchstabe e weder mit Vorteilen noch mit Nachteilen beeinflussen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Daten für die Rechnungstellung",
+      "section": "5",
+      "title": "AHV-Nummer",
+      "content": "1 Vor der Ausstellung der Versichertenkarte muss der Versicherer die AHV-Nummer bei der zuständigen Stelle verifizieren und nötigenfalls deren Zuweisung veranlassen. 2 Er muss zum Schutz der AHV-Nummer die technischen und organisatorischen Massnahmen nach Artikel 153 d des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung treffen. 3 Die Leistungserbringer melden der Zentralen Ausgleichsstelle der AHV die systematische Verwendung der AHV-Nummer gemäss Artikel 134 ter der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung. Sie können eine Stelle bezeichnen, welche eine Sammelmeldung macht. Fassung gemäss Anhang Ziff. II 37 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ( AS 2021 800 ). SR 831.10 SR 831.101"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Umfang der Daten",
+      "content": "1 Die Personen nach dem Anhang können zur Verbesserung der Effizienz, der Sicherheit und der Qualität der medizinischen Behandlung folgende Daten in elektronischer Form auf der Versichertenkarte abspeichern, sofern die versicherte Person damit einverstanden ist: a. Blutgruppen- und Transfusionsdaten; b. Immunisierungsdaten; c. Transplantationsdaten; d. Allergien; e. Krankheiten und Unfallfolgen; f. in medizinisch begründeten Fällen einen zusätzlichen Eintrag; g. Medikation; h. eine oder mehrere Kontaktadressen für den Notfall; i. Hinweis auf bestehende Patientenverfügungen. 2 Sie müssen die Daten nach Absatz 1 Buchstaben a–g mit ihrer EAN-Nummer (European Article Numbering) und dem Datum des Eintrages versehen. 3 Sie sind nicht verpflichtet, die Daten nach Absatz 1 aufzunehmen. 4 Der Versicherer darf den Entscheid der versicherten Person über die Aufnahme oder die Nichtaufnahme von Daten nach Absatz 1 weder mit Vorteilen noch mit Nachteilen beeinflussen."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Zugriff auf die Daten nach Artikel 6",
+      "content": "1 Die Personen nach dem Anhang haben Zugriff auf die Daten nach Artikel 6. Der Umfang der Bearbeitung richtet sich nach dem Anhang. 2 Der Zugriff erfolgt mit einem elektronischen Leistungserbringernachweis. 3 Die Personen nach dem Anhang dürfen die Daten nach Artikel 6 nur mit Einwilligung der versicherten Person bearbeiten. 4 Die versicherte Person kann die Daten nach Artikel 6 Absatz 1 Buchstaben a–g mit einem PIN-Code sperren. 5 Ist es für die Versorgung im Notfall erforderlich und kann die versicherte Person ihre Einwilligung nicht erteilen, so dürfen die Personen nach dem Anhang ohne Einwilligung der versicherten Person auf die Daten nach Artikel 6 zugreifen."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Elektronischer Leistungserbringernachweis",
+      "content": "1 Der elektronische Leistungserbringernachweis muss eine Authentifizierung der zugriffsberechtigten Person ermöglichen. 2 Für die Ausgabe der elektronischen Leistungserbringernachweise sind die zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassenen Leistungserbringer zuständig. Sie können diese Aufgabe auch Dritten übertragen. 3 Die Leistungserbringer müssen sicherstellen, dass der elektronische Leistungserbringernachweis nur den Personen nach dem Anhang ausgestellt wird, die über eine nach den Vorschriften des Bundes oder der Kantone anerkannte Ausbildung verfügen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "5. Abschnitt: Rechte und Pflichten",
+      "section": "9",
+      "title": "Rechte der versicherten Person",
+      "content": "1 Die versicherte Person hat das Recht, über die auf der Versichertenkarte enthaltenen Daten informiert zu werden und sie nötigenfalls berichtigen zu lassen. Freiwillig aufgenommene Daten kann sie jederzeit löschen lassen. Diese Rechte kann sie für die Daten nach den Artikeln 3 und 4 beim Versicherer und für die Daten nach Artikel 6 bei den Personen nach dem Anhang geltend machen. 2 Sie kann die Offenlegung der Daten nach Artikel 6 ohne Angabe von Gründen verweigern."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "5. Abschnitt: Rechte und Pflichten",
+      "section": "10",
+      "title": "Pflichten der versicherten Person",
+      "content": "1 Die versicherte Person muss dem Leistungserbringer die Versichertenkarte beim Bezug von Leistungen vorweisen. 2 Weist die versicherte Person die Versichertenkarte nicht vor und verursacht sie dadurch zusätzliche Aufwendungen bei der Vergütung von Leistungen, so kann der Versicherer eine angemessene Gebühr erheben. 3 Nach Beendigung des Versicherungsverhältnisses und nach Ablauf der Gültigkeitsdauer muss die versicherte Person die Versichertenkarte dem Versicherer auf Verlangen zurückgeben."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "5. Abschnitt: Rechte und Pflichten",
+      "section": "11",
+      "title": "Rechte des Versicherers",
+      "content": "1 Das Eigentum an der Versichertenkarte bleibt beim Versicherer, der sie ausgestellt hat. 2 Der Versicherer kann die Gültigkeit der Versichertenkarte befristen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Rechte und Pflichten",
+      "section": "12",
+      "title": "Pflichten des Versicherers",
+      "content": "Bei Abgabe der Versichertenkarte muss der Versicherer die versicherte Person schriftlich, ausführlich und verständlich über die ihr zustehenden Rechte und Pflichten informieren. Diese Information muss insbesondere umfassen: a. die Pflicht zur Verwendung der Karte beim Bezug von Leistungen; b. die Aufklärung über die Rechte nach Artikel 9; c. die Aufklärung darüber, wer berechtigt ist, Daten von der Versichertenkarte abzurufen und zu welchen Zwecken diese bearbeitet werden; d. den Hinweis, die Daten nach Artikel 6 vor der Rückgabe der Versichertenkarte an den Versicherer löschen zu lassen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Rechte und Pflichten",
+      "section": "13",
+      "title": "Pflichten der Personen nach dem Anhang",
+      "content": "Personen nach dem Anhang, die Daten nach Artikel 6 auf der Versichertenkarte abspeichern, sind verpflichtet, die versicherte Person über ihre Rechte aufzuklären. Diese Information muss insbesondere umfassen: a. die Aufklärung über die Rechte nach Artikel 9; b. die Aufklärung darüber, wer die Daten zu welchen Zwecken bearbeiten kann; c. den Hinweis auf die Möglichkeit, die Daten mittels PIN-Code zu sperren sowie die Vor- und Nachteile einer solchen Sperrung; d. den Hinweis, die Daten nach Artikel 6 vor Rückgabe der Versichertenkarte an den Versicherer löschen zu lassen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "6. Abschnitt: Rechnungstellung",
+      "section": "14",
+      "title": "Übernahme der Daten für die Rechnungstellung",
+      "content": "Der Leistungserbringer muss die für die Rechnungstellung erforderlichen Daten von der Versichertenkarte übernehmen. Er kann die Daten auch über ein Online-Verfahren abfragen."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "6. Abschnitt: Rechnungstellung",
+      "section": "15",
+      "title": "Online-Verfahren",
+      "content": "1 Der Versicherer muss ein Online-Verfahren anbieten. Er muss dem Leistungserbringer folgende Informationen zur Verfügung stellen: a. Angaben darüber, ob ein Versicherungsverhältnis besteht; b. Gültigkeit der Versichertenkarte; c. Daten nach Artikel 3 Absatz 1. 2 Bei der Abfrage im Online-Verfahren kann der Versicherer dem Leistungserbringer zusätzlich die Informationen nach Artikel 4 Absatz 2 zur Verfügung stellen. 3 Die Abfrage im Online-Verfahren darf nur im Einverständnis der versicherten Person erfolgen. 4 Der Versicherer muss das Online-Verfahren so einrichten, dass die Abfrage nur mittels der Kennnummer der Versichertenkarte erfolgen kann. 5 Der Versicherer und der Leistungserbringer müssen durch angemessene technische Vorkehren eine sichere Datenübermittlung gewährleisten."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "7. Abschnitt: Kantonale Modellversuche",
+      "section": "16",
+      "title": "",
+      "content": "1 Im Rahmen von kantonalen Modellversuchen im Gesundheitsbereich ist die erweiterte Nutzung der Versichertenkarte über den Zweck von Artikel 42 a Absatz 2 KVG und über die Nutzungsmöglichkeiten nach Artikel 42 a Absatz 4 KVG hinaus möglich, sofern dies im kantonalen Recht vorgesehen ist. Die Funktion der Versichertenkarte nach Artikel 42 a Absätze 1–3 KVG muss gewährleistet bleiben. 2 Das kantonale Recht muss: a. den Rahmen und den Zweck des Versuchs festlegen; b. eine zeitliche Befristung des Versuchs festlegen; c. das zuständige kantonale Organ bezeichnen; d. die Freiwilligkeit der Teilnahme der Versicherten und der Leistungserbringer gewährleisten; e. die im Rahmen des Versuchs bearbeiteten Personendaten festlegen; f. die Zugriffsrechte auf Personendaten regeln. 3 Der Modellversuch ist durch eine Evaluation des Kantons zu begleiten. Der Kanton erstattet dem Bundesamt für Gesundheit über den Modellversuch Bericht."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "8. Abschnitt: Technische Standards",
+      "section": "17",
+      "title": "",
+      "content": "Das Eidgenössische Departement des Inneren legt unter Einbezug der interessierten Kreise die technischen Standards für die Versichertenkarte und das Online-Verfahren fest. Bei der Festlegung der technischen Standards ist die internationale Normung zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "18",
+      "title": "Änderung bisherigen Rechts",
+      "content": "… Die Änderung kann unter AS 2007 497 konsultiert werden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "19",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 26. Nov. 2008, mit Wirkung seit 1. Jan. 2009 ( AS 2008 6145 )."
+    },
+    {
+      "provision_ref": "art19a",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "19a",
+      "title": "a Übergangsbestimmungen zur Änderung vom 26. November 2008",
+      "content": "1 Die Versicherer müssen die Versichertenkarte bis zum 1. Januar 2010 ausstellen. 2 Sie müssen das Online-Verfahren nach Artikel 15 bis zum 1. Januar 2010 einrichten. 3 Die Versicherer und die Leistungserbringer müssen die sichere Datenübermittlung nach Artikel 15 Absatz 5 ab dem 1. Januar 2010 gewährleisten. Eingefügt durch Ziff. I der V vom 26. Nov. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 6145 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "9. Abschnitt: Schlussbestimmungen",
+      "section": "20",
+      "title": "Inkrafttreten",
+      "content": "1 Diese Verordnung tritt unter Vorbehalt der Absätze 2 und 3 am 1. März 2007 in Kraft. 2 Artikel 5 tritt zusammen mit der Änderung vom 23. Juni 2006 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung («Neue AHV-Versichertennummer») in Kraft. 3 Artikel 18 tritt am 1. Januar 2010 in Kraft. AS 2007 5259 Fassung gemäss Ziff. I der V vom 26. Nov. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 6145 )."
+    }
+  ],
+  "definitions": []
+}

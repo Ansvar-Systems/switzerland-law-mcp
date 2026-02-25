@@ -1,0 +1,238 @@
+{
+  "id": "sr-510-622-4",
+  "type": "statute",
+  "title": "Verordnung vom 2. September 2009 über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV)",
+  "title_en": "",
+  "short_name": "ÖREBKV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2009/553/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (Kataster) nach Artikel 16 GeoIG. 2 Soweit diese Verordnung keine besonderen Vorschriften enthält, gilt die Geoinformationsverordnung vom 21. Mai 2008 (GeoIV). SR 510.620"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Hauptfunktion, Zusatzinformationen und Zusatzfunktionen",
+      "content": "1 Der Kataster enthält zuverlässige Informationen über die von Bund und Kantonen bezeichneten rechtskräftigen öffentlich-rechtlichen Eigentumsbeschränkungen und macht diese Informationen zugänglich (Art. 3). 2 Er kann Zusatzinformationen enthalten (Art. 8 b ). 3 Er kann von den Kantonen als amtliches Publikationsorgan im Bereich der öffentlich-rechtlichen Eigentumsbeschränkungen verwendet werden. Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Inhalt, Massgeblichkeit und Informationstiefe",
+      "section": "3",
+      "title": "Inhalt",
+      "content": "Inhalt des Katasters sind: a. die in Anhang 1 GeoIV als Gegenstand des Katasters bezeichneten Geobasisdaten; b. die vom Kanton in Anwendung von Artikel 16 Absatz 3 GeoIG bezeichneten eigentümerverbindlichen Geobasisdaten; c. die Rechtsvorschriften, die zusammen mit den Geobasisdaten als Einheit die Eigentumsbeschränkung unmittelbar umschreiben und für die das gleiche Verfahren massgebend ist; d. die Hinweise auf die gesetzlichen Grundlagen der Eigentumsbeschränkungen; e. … SR 510.620 Aufgehoben durch Ziff. I der V vom 20. Sept. 2019, mit Wirkung seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "2. Abschnitt: Inhalt, Massgeblichkeit und Informationstiefe",
+      "section": "3a",
+      "title": "a Massgeblichkeit",
+      "content": "Widersprechen sich der Inhalt des Katasters und die rechtskräftigen Beschlüsse über die öffentlich-rechtliche Eigentumsbeschränkung, so gehen die Letzteren vor. Eingefügt durch Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Inhalt, Massgeblichkeit und Informationstiefe",
+      "section": "4",
+      "title": "Informationstiefe",
+      "content": "1 Das Bundesamt für Landestopografie legt ein fachbereichsübergreifendes Rahmenmodell für die Katasterdaten fest, welches insbesondere die minimale Struktur für die Datenmodelle enthält. 2 Die jeweils zuständige Fachstelle des Bundes legt im Datenmodell nach Artikel 9 GeoIV und im zugehörigen Darstellungsmodell nach Artikel 11 GeoIV fest, welche Geobasisdaten im Lagebezug der amtlichen Vermessung bereitgestellt und dargestellt werden. 3 Sie erlässt Mindestvorschriften für die Abbildung der Rechtsvorschriften und der Hinweise auf die gesetzlichen Grundlagen. SR 510.620"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Aufnahme in den Kataster",
+      "section": "5",
+      "title": "Bereitstellung der Daten",
+      "content": "1 Die Stelle nach Artikel 8 Absatz 1 GeoIG stellt der für den Kataster verantwortlichen Stelle nach Artikel 17 Absatz 2 die erhobenen und nachgeführten Daten nach Artikel 3 in elektronischer Form zur Verfügung. 2 Sie bestätigt der für den Kataster verantwortlichen Stelle, dass die Daten die folgenden Anforderungen erfüllen: a. Sie bilden Eigentumsbeschränkungen ab, die vom zuständigen Organ in dem von der Fachgesetzgebung vorgeschriebenen Verfahren beschlossen und genehmigt worden sind. b. Sie sind in Kraft. c. Sie wurden unter der Verantwortung des zuständigen Organs auf die Übereinstimmung mit dem Beschluss überprüft. 3 Die Geobasisdaten des Bundesrechts müssen den Vorgaben nach Artikel 4 Absatz 2 entsprechen, jene der zusätzlich vom Kanton bezeichneten Geobasisdaten den allgemeinen minimalen qualitativen und technischen Anforderungen für Geobasisdaten des Bundesrechts."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Aufnahme in den Kataster",
+      "section": "6",
+      "title": "Prüfung durch die für den Kataster verantwortliche Stelle",
+      "content": "Die für den Kataster verantwortliche Stelle überprüft, ob die Bestätigung nach Artikel 5 Absatz 2 vorliegt und ob die überlieferten Daten den Anforderungen nach Artikel 5 Absatz 3 entsprechen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Aufnahme in den Kataster",
+      "section": "7",
+      "title": "Aufnahme und Änderung der Daten",
+      "content": "1 Die Daten werden nach Eintritt der Rechtskraft in den Kataster aufgenommen. Vorbehalten bleibt ihre Publikation nach Artikel 2 Absatz 3 vor Eintritt der Rechtskraft. 2 Der Zeitpunkt der Aufnahme oder der letzten Änderung der Daten muss jederzeit ersichtlich sein. Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Aufnahme in den Kataster",
+      "section": "8",
+      "title": "Aufnahmeverfahren",
+      "content": "Der Kanton regelt die Einzelheiten des Aufnahmeverfahrens."
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "11",
+      "section": "8a",
+      "title": "a Hinweis auf das Grundbuch",
+      "content": "Der Kataster weist in genereller Weise auf Eigentumsbeschränkungen hin, die im Grundbuch angemerkt sind."
+    },
+    {
+      "provision_ref": "art8b",
+      "chapter": "11",
+      "section": "8b",
+      "title": "b Zusatzinformationen",
+      "content": "1 Zusätzlich zu den Inhalten des Katasters können im Kataster dargestellt werden: a. Informationen über geplante oder laufende Änderungen öffentlich-rechtlicher Eigentumsbeschränkungen; b. als unverbindliche Informationen weitere Geobasisdaten des Bundesrechts nach Anhang 1 GeoIV und Geobasisdaten des kantonalen Rechts; c. Hinweise, die dem Verständnis der öffentlich-rechtlichen Eigentumsbeschränkungen dienen. 2 Die für den Kataster verantwortliche Stelle stellt Zusatzinformationen über die rechtlichen Vorwirkungen von laufenden Änderungen öffentlich-rechtlicher Eigentumsbeschränkungen dar, die ihr von der zuständigen Fachstelle des Bundes zur Verfügung gestellt werden. Die Artikel 5–8 sind sinngemäss anwendbar. 3 Das Bundesamt für Landestopografie kann Mindestvorschriften über die Zusatzinformationen erlassen. 4 Die Artikel 17 und 18 GeoIG sind auf die Zusatzinformationen nicht anwendbar. SR 510.620"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Abschnitt: Formen des Zugangs",
+      "section": "9",
+      "title": "Geodienste",
+      "content": "1 Die Inhalte des Katasters werden durch einen Darstellungsdienst zugänglich gemacht. Vorbehalten bleibt Artikel 4 Absatz 2. 2 Die Stelle nach Artikel 8 Absatz 1 GeoIG stellt die betreffenden Geobasisdaten zusätzlich in einem Download-Dienst zur Verfügung. Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Formen des Zugangs",
+      "section": "10",
+      "title": "Auszug",
+      "content": "1 Der Auszug besteht aus einer digitalen oder analogen Darstellung der Inhalte und Zusatzinformationen des Katasters über ein Grundstück, soweit es flächenmässig ausgeschieden werden kann, mit Ausnahme der Miteigentumsanteile. 2 Er enthält mindestens: a. die Geobasisdaten nach Artikel 3 Buchstaben a und b; b. die genaue Bezeichnung der Rechtsvorschriften im Sinne von Artikel 3 Buchstabe c; c. die Hinweise auf die gesetzlichen Grundlagen nach Artikel 3 Buchstabe d; d. Informationen über geplante oder laufende Änderungen öffentlich-rechtlicher Eigentumsbeschränkungen nach Artikel 8 b Absatz 1 Buchstabe a. 3 Die Daten über öffentlich-rechtliche Eigentumsbeschränkungen werden den Grenzen der Grundstücke gemäss den Daten der amtlichen Vermessung überlagert. 4 Der Auszug informiert darüber, welche Inhalte des Katasters dargestellt und welche Inhalte weggelassen werden. 5 Das Bundesamt für Landestopografie erlässt Weisungen über die Erstellung und Darstellung von Auszügen. Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 ). Fassung gemäss Anhang Ziff. 7 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 529 )."
+    },
+    {
+      "provision_ref": "art1112",
+      "chapter": "4. Abschnitt: Formen des Zugangs",
+      "section": "1112",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 20. Sept. 2019, mit Wirkung seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Formen des Zugangs",
+      "section": "13",
+      "title": "Suchdienst",
+      "content": "Das Bundesamt für Landestopografie ermöglicht den Zugang zu den Katastern der Kantone durch einen Suchdienst nach Artikel 36 Buchstabe b GeoIV. SR 510.620"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Beglaubigung",
+      "section": "14",
+      "title": "Beglaubigter Auszug",
+      "content": "1 Der Kanton kann die Beglaubigung von Auszügen vorsehen. Er bezeichnet die für die Erstellung und Abgabe beglaubigter Auszüge zuständige Stelle. 2 Beglaubigte Auszüge werden auf Antrag abgegeben. 3 Mit der Beglaubigung wird amtlich bestätigt: a. dass die wiedergegebenen Daten dem mit Datum bezeichneten Stand des Katasters entsprechen; b. dass die Grenzen der Grundstücke gemäss den Daten der amtlichen Vermessung dem mit Datum bezeichneten Stand entsprechen. 4 Der Kanton regelt die Einzelheiten des Beglaubigungsverfahrens. Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 ). Fassung gemäss Anhang Ziff. 7 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 529 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Beglaubigung",
+      "section": "15",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 20. Sept. 2019, mit Wirkung seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: …",
+      "section": "16",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 20. Sept. 2019, mit Wirkung seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "7. Abschnitt: Organisation",
+      "section": "17",
+      "title": "Katasterführung",
+      "content": "1 Der Kanton regelt die Organisation des Katasters. 2 Er bezeichnet eine für den Kataster verantwortliche Stelle. 3 Er gewährleistet den zentralen Zugang zum Kataster."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "7. Abschnitt: Organisation",
+      "section": "18",
+      "title": "Oberaufsicht",
+      "content": "1 Das Bundesamt für Landestopografie übt die Oberaufsicht über die Führung der Kataster aus. 2 Es kann namentlich: a. allgemeine Weisungen und Empfehlungen über die Einführung, Einrichtung und Führung des Katasters sowie über den Vollzug dieser Verordnung erlassen; b. Überprüfungen der für den Kataster verantwortlichen Stellen durchführen; c. Einsicht in alle die Katasterführung betreffenden amtlichen Akten nehmen; d. dem Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) zuhanden des Bundesrates die Ersatzvornahme beantragen; e. zu Zwecken der Statistik und Evaluation Daten erheben oder durch beauftragte Dritte erheben lassen. 3 Es stellt für alle vom Bund vorgegebenen Modelle allgemein zugängliche Prüfinstrumente zur Verfügung."
+    },
+    {
+      "provision_ref": "art18a",
+      "chapter": "7. Abschnitt: Organisation",
+      "section": "18a",
+      "title": "a Verwaltungsvereinbarung mit Liechtenstein",
+      "content": "Das VBS kann mit dem Fürstentum Liechtenstein einen kündbaren und befristeten völkerrechtlichen Vertrag über die vollständige oder teilweise Übertragung von Aufgaben betreffend den liechtensteinischen Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen an das Bundesamt für Landestopografie abschliessen, namentlich betreffend die Unterstützung und Kontrolle der Katasterführung und die Oberaufsicht über den Kataster im Sinne von Artikel 18. Eingefügt durch Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "7. Abschnitt: Organisation",
+      "section": "19",
+      "title": "Strategie des Bundes",
+      "content": "Das VBS legt die Strategie des Bundes für den Kataster fest."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "8. Abschnitt: Finanzierung",
+      "section": "20",
+      "title": "Bundesbeitrag",
+      "content": "1 Von den Bundesbeiträgen werden im Rahmen der bewilligten Kredite: a. höchstens 10 Prozent als Globalbeiträge für Schwergewichtsprojekte verwendet; b. mindestens 90 Prozent als Globalbeiträge an die Betriebs- und Weiterentwicklungskosten der Kantone ausgerichtet. 2 Die Höhe des Globalbeitrags für Schwergewichtsprojekte wird zwischen dem VBS und dem jeweils betroffenen Kanton ausgehandelt. 3 Die Mittel für die Globalbeiträge an die Betriebs- und Weiterentwicklungskosten der Kantone werden so bemessen, dass sie durchschnittlich rund die Hälfte der geschätzten Betriebs- und Weiterentwicklungskosten der Kantone decken. Sie werden wie folgt auf die einzelnen Kantone aufgeteilt: a. ein Fünftel zu gleichen Teilen auf alle Kantone; b. drei Fünftel nach der Einwohnerzahl der Kantone; c. ein Fünftel nach der Fläche der Kantone. Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 ). Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "8. Abschnitt: Finanzierung",
+      "section": "21",
+      "title": "Programmvereinbarungen",
+      "content": "1 Gegenstand der Programmvereinbarungen zwischen dem VBS und den Kantonen sind insbesondere: a. die Leistungen des Kantons; b. die Beitragsleistungen des Bundes; c. das Controlling; d. die Einzelheiten der Finanzaufsicht. 2 Die Dauer der Programmvereinbarung beträgt vier Jahre. Es können Teilziele für eine kürzere Dauer vereinbart werden."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "8. Abschnitt: Finanzierung",
+      "section": "22",
+      "title": "Berichterstattung und Kontrolle",
+      "content": "1 Der Kanton erstattet dem Bundesamt für Landestopografie jährlich Bericht über die Verwendung der Beiträge. 2 Das Bundesamt kontrolliert stichprobenweise: a. die Ausführung einzelner Massnahmen gemäss den Programmzielen; b. die Verwendung der ausgerichteten Beiträge."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "8. Abschnitt: Finanzierung",
+      "section": "23",
+      "title": "Mangelhafte Erfüllung",
+      "content": "1 Das Bundesamt für Landestopografie hält die Tranchenzahlungen während der Programmdauer ganz oder teilweise zurück, wenn der Kanton: a. seiner Berichterstattungspflicht (Art. 22 Abs. 1) nicht nachkommt; b. eine erhebliche Störung seiner Leistung schuldhaft verursacht. 2 Stellt sich nach der Programmdauer heraus, dass die Leistung mangelhaft ist, so verlangt das Bundesamt für Landestopografie vom Kanton Nachbesserung; es setzt ihm dafür eine angemessene Frist. 3 Werden die Mängel nicht behoben oder wird eine Zweckentfremdung nicht rückgängig gemacht, so richtet sich die Rückforderung nach den Artikeln 28 und 29 des Subventionsgesetzes vom 5. Oktober 1990. SR 616.1"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "9. Abschnitt: Mitwirkung",
+      "section": "24",
+      "title": "",
+      "content": "Bei der Vorbereitung von Vorgaben des Bundes im Geltungsbereich dieser Verordnung, die nicht ausschliesslich die Bundesverwaltung betreffen, stellt der Bund die Mitwirkung der Kantone und die Anhörung der Partnerorganisationen auf geeignete Weise sicher."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "25",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art2630",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "2630",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 20. Sept. 2019, mit Wirkung seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "31",
+      "title": "Begleitgremium",
+      "content": "1 Zur Koordination der Einführung und der Weiterentwicklung des Katasters sowie zur Überwachung und Begleitung der Evaluation nach Artikel 43 GeoIG setzt das Bundesamt für Landestopografie ein Begleitgremium ein. 2 Dieses setzt sich zusammen aus Vertreterinnen und Vertretern der kantonalen Fachkonferenzen, der zuständigen Fachstellen des Bundes, der Gemeinden sowie des Koordinationsorgans nach Artikel 48 GeoIV. 3 Es berät das Bundesamt für Landestopografie während der Einführung und der Weiterentwicklung bis vier Betriebsjahre nach Abschluss der Evaluation. 4 Das Bundesamt für Landestopografie legt die Aufgaben und die Organisation des Begleitgremiums im Einzelnen fest. Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 ). SR 510.620"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "32",
+      "title": "Frist für die Evaluation",
+      "content": "Die Frist für die Evaluation nach Artikel 43 Absatz 1 GeoIG endet am 31. Dezember 2021. Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3095 )."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "33",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Oktober 2009 in Kraft."
+    }
+  ],
+  "definitions": []
+}

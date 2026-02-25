@@ -1,0 +1,38 @@
+{
+  "id": "sr-831-426-3",
+  "type": "statute",
+  "title": "Verordnung vom 16. September 1987 über die Anpassung der laufenden Hinterlassenen- und Invalidenrenten an die Preisentwicklung",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1987/1343_1343_1343/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Erstmalige Anpassung",
+      "content": "1 Die Hinterlassenen- und Invalidenrenten werden erstmals nach einer Laufzeit von drei Jahren auf den Beginn des folgenden Kalenderjahres der Preisentwicklung angepasst. 2 Der Anpassungssatz entspricht der Zunahme des Landesindexes der Konsumentenpreise zwischen dem Stand im September des Jahres, in dem die Rente zu laufen beginnt und dem Stand im September des Jahres vor der Anpassung. Das Bundesamt für Sozialversicherung gibt den Anpassungssatz bekannt. Siehe die diesbezüglichen Veröffentlichungen im BBl."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Nachfolgende Anpassungen",
+      "content": "1 Die nachfolgenden Anpassungen erfolgen auf den gleichen Zeitpunkt wie die Anpassungen der Renten der Alters- und Hinterlassenenversicherung. 2 Der Anpassungssatz entspricht der Zunahme des Landesindexes der Konsumentenpreise zwischen dem Stand im September des Jahres vor der letzten Anpassung und dem Stand im September des Jahres vor der neuen Anpassung. Das Bundesamt für Sozialversicherung gibt die Anpassungssätze bekannt. Fassung gemäss Ziff. I der V vom 24. Juni 1992, in Kraft seit 1. Jan. 1992 ( AS 1992 1289 ). Siehe die diesbezüglichen Veröffentlichungen im BBl."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Sonderfälle",
+      "content": "Wird eine Invalidenrente durch eine Hinterlassenenrente ersetzt oder erfährt eine laufende Rente Änderungen, so wird die bisherige Laufzeit berücksichtigt."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 1988 in Kraft."
+    }
+  ],
+  "definitions": []
+}

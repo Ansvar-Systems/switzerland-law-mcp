@@ -1,0 +1,26 @@
+{
+  "id": "sr-120-421",
+  "type": "statute",
+  "title": "Verordnung der Bundeskanzlei vom 30. November 2011 über die Personensicherheitsprüfungen (PSPV-BK)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2011/838/en",
+  "provisions": [
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Übergangsbestimmung",
+      "content": "Bei Personen in Funktionen, für deren Ausübung bisher keine Personensicherheitsprüfung oder eine Personensicherheitsprüfung nach einer tieferen Prüfstufe durchgeführt werden musste, ist die neu vorgeschriebene Personensicherheitsprüfung spätestens einen Monat nach Inkrafttreten dieser Verordnung einzuleiten."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2012 in Kraft."
+    }
+  ],
+  "definitions": []
+}

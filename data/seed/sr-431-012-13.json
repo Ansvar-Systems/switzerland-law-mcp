@@ -1,0 +1,56 @@
+{
+  "id": "sr-431-012-13",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 17. Dezember 2013 über die Verknüpfung statistischer Daten (Datenverknüpfungsverordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2013/872/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt die Organisation, den Ablauf, den Datenschutz und die Datensicherheit bei der Verknüpfung statistischer Daten durch das Bundesamt für Statistik (BFS) sowie die Voraussetzungen und die Organisation des Einbezugs Dritter in den Verknüpfungsprozess. 2 Sie regelt zudem die Anforderungen an die beteiligten Statistikstellen der Kantone und Gemeinden."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Organisation und Ablauf der Datenverknüpfung",
+      "content": "1 Die Durchführung von Datenverknüpfungen im BFS setzt ein schriftliches und begründetes Gesuch an die Direktion des BFS voraus. 2 Das Gesuch wird von den betroffenen Fachsektionen, vom Methodendienst und vom Rechtsdienst des BFS auf seine fachliche, methodische und rechtliche Durchführbarkeit und Gültigkeit überprüft. 3 Über die Zulässigkeit und die Durchführung von Datenverknüpfungen entscheidet die Direktion des BFS. 4 Für die Verwaltung und Herausgabe der zur Durchführung von Datenverknüpfungen erforderlichen Verbindungsschlüssel und für die Überwachung der Datenverknüpfungen ist der Direktionsstab zuständig."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Datenschutz und Datensicherheit",
+      "content": "1 Die zur Durchführung von Datenverknüpfungen erforderlichen Verbindungschlüssel werden zentral und in besonders gesicherter Form aufbewahrt. 2 Die Benutzung eines Verbindungsschlüssels im Einzelfall setzt die schriftliche Erlaubnis der Direktion des BFS voraus. 3 Die Abgabe der Verbindungsschlüssel erfolgt durch den Direktionsstab an die zur Durchführung der Datenverknüpfung berechtigten Einzelpersonen. Sie wird protokolliert. 4 Das BFS stellt sicher, dass Datenverknüpfungen nach dem jeweils aktuellen Stand der Technik und unter Einhaltung vorbildlicher statistischer Verfahren durchgeführt werden."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Einbezug Dritter in den Verknüpfungsprozess",
+      "content": "1 Die Form und der Inhalt der Mitwirkung Dritter an der Durchführung der Datenverknüpfung sowie die Nutzung der verknüpften Daten werden vorgängig in einem Datenschutzvertrag geregelt. 2 In den Verknüpfungsprozess einbezogene Dritte erledigen ihre Arbeiten an einem gesicherten Arbeitsplatz innerhalb des BFS, der weder Datenimporte noch Datenexporte zulässt. 3 Das BFS übergibt den Dritten die verknüpften Daten, nachdem es deren Form und Inhalt überprüft hat."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Anforderungen an die beteiligten Statistikstellen der Kantone und Gemeinden",
+      "content": "Statistikstellen der Kantone und Gemeinden dürfen Verknüpfungen von Daten des BFS nur durchführen, wenn sie: a. über das erforderliche statistische Knowhow verfügen, um Datenverknüpfungen inhaltlich und methodisch fachgerecht sowie in der erforderlichen Qualität durchzuführen; b. ausschliesslich eine statistische Tätigkeit ausüben, die unabhängig ist von Aufsichts-, Vollzugs- oder Regulierungstätigkeiten; c. die statistische Geheimhaltung und den Schutz von Personendaten gewährleisten; und d. alle statistischen Arbeiten unter Wahrung der wissenschaftlichen Unabhängigkeit und Objektivität durchführen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Bearbeitungsreglement",
+      "content": "Das BFS erlässt ein Bearbeitungsreglement, das die weiteren Einzelheiten der Durchführung von Datenverknüpfungen regelt."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 15. Januar 2014 in Kraft."
+    }
+  ],
+  "definitions": []
+}

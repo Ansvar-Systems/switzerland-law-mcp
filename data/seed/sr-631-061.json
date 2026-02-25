@@ -1,0 +1,136 @@
+{
+  "id": "sr-631-061",
+  "type": "statute",
+  "title": "Verordnung vom 23. August 2017 über die Bearbeitung von Personendaten im Bundesamt für Zoll und Grenzsicherheit (Datenbearbeitungsverordnung für das BAZG, DBZV)",
+  "title_en": "",
+  "short_name": "DBZV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/535/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und anwendbares Recht",
+      "content": "1 Diese Verordnung regelt die Bearbeitung von Personendaten im (). 2 Das Informationssystem für Strafsachen (Art. 110 a ZG) wird in der Verordnung vom 20. September 2013 über das Informationssystem für Strafsachen des geregelt. 3 Das Informationssystem für Bildaufnahme-, Bildaufzeichnungs- und andere Überwachungsgeräte (Art. 110 f ZG) wird in der Verordnung vom 4. April 2007 über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch das geregelt. SR 313.041 SR 631.053"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Anhänge",
+      "content": "1 Die Anhänge regeln für die Informationssysteme des : a. den Zweck; b. den Inhalt; c. die Berechtigungen zur Datenbearbeitung, die Datenbekanntgabe und die Dauer der Datenaufbewahrung, sofern von den Vorgaben nach den Artikeln 4, 6 und 8 abgewichen wird; d. gegebenenfalls den Datenaustausch mit anderen Informationssystemen und die Veröffentlichung der Daten. 2 Wo in den Anhängen von Personalien die Rede ist, ist darunter soweit notwendig zu verstehen: a. für natürliche Personen: Name, Vorname(n), Ausweisnummer, Ledigname, Aliasname, Name und Vorname(n) des Vaters und der Mutter, Geburtsdatum, Geburtsort, Heimatort, Geschlecht, Zivilstand, Beruf, Sprache, Strassenbezeichnung, Wohnort, Nummern von Telefon, Mobiltelefon und Telefax, E-Mail-Adresse, Bankverbindung, erforderliche Angabe für die rechtliche Vertreterin oder den rechtlichen Vertreter; b. für juristische Personen und Personenvereinigungen: Name, Unternehmen, Unternehmensidentifikationsnummer (UID), Rechtsform, Strassenbezeichnung, Sitz, handelnde Personen oder Organe, Nummern von Telefon, Mobiltelefon und Telefax, E-Mail-Adresse, Bankverbindung, erforderliche Angabe für die rechtliche Vertreterin oder den rechtlichen Vertreter."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Zuständigkeit und Verantwortung",
+      "content": "1 Das ist für die in dieser Verordnung geregelten Informationssysteme zuständig. 2 Es trägt die Verantwortung für die von ihr bearbeiteten Daten und für deren Inhalt."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Organisation",
+      "content": "1 Die Informationssysteme mittels elektronischer Datenverarbeitung werden als eigenständige Applikationen oder auf der Plattform der Büroautomation im Auftrag des vom Bundesamt für Informatik und Telekommunikation (BIT) betrieben. Dieses ist für den Betrieb der Informationssysteme verantwortlich. 2 Werden gleiche Daten von verschiedenen Stellen des bearbeitet, so können die entsprechenden Informationssysteme vernetzt werden, sofern dies für eine effiziente Datenbearbeitung notwendig ist."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "5",
+      "title": "Grundsatz",
+      "content": "1 Personendaten dürfen nur im Rahmen des Zwecks nach dem jeweiligen Anhang bearbeitet werden. 2 Das Beschaffen von Personendaten muss für die betroffenen Personen erkennbar sein. 3 Die Mitarbeiterinnen und Mitarbeiter des verfügen über diejenigen Berechtigungen zur Datenbearbeitung, die zur Erfüllung ihrer Aufgaben notwendig sind, es sei denn, der betreffende Anhang sieht eine abweichende Regelung vor."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "6",
+      "title": "Zentrale Plattformen zur Datenauswertung",
+      "content": "1 Das kann Plattformen errichten und betreiben, auf denen die Daten aus den Informationssystemen nach dieser Verordnung ausgewertet werden. 2 Die Auswertungen können nur für statistische Zwecke, für Risikoanalysen und für die Führungs- und Steuerungsunterstützung des vorgenommen werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "7",
+      "title": "Datenbekanntgabe",
+      "content": "1 Das gibt im Einzelfall Daten aus den Informationssystemen anderen Behörden in der Schweiz sowie Dritten bekannt, wenn eine Informationspflicht hierfür gesetzlich vorgesehen ist. 2 Im Abrufverfahren dürfen Daten nur bekanntgegeben werden, soweit der betreffende Anhang dies ausdrücklich vorsieht."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "8",
+      "title": "Rechte der betroffenen Personen",
+      "content": "Die Rechte der betroffenen Personen, insbesondere das Auskunfts-, Berichtigungs- und Vernichtungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992 über den Datenschutz und seinen Ausführungsbestimmungen. SR 235.1"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "9",
+      "title": "Pflichten des BAZG",
+      "content": "Unrichtige Daten sowie Daten, die dieser Verordnung nicht entsprechen, sind von Amtes wegen zu berichtigen oder zu vernichten."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "10",
+      "title": "Aufbewahrung und Vernichtung von Daten",
+      "content": "1 Die in den Informationssystemen enthaltenen Daten werden während höchstens fünf Jahren ab der Erfassung aufbewahrt, sofern der betreffende Anhang keine andere Frist vorsieht. 2 Sie werden nach Ablauf der Aufbewahrungsfrist vernichtet, sofern sie nicht archiviert werden. 3 Daten aus Informationssystemen, deren Betrieb eingestellt wird, werden noch während höchstens fünf Jahren ab der Erfassung aufbewahrt. Danach werden sie vernichtet, es sei denn, sie werden archiviert."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "11",
+      "title": "Archivierung von Daten",
+      "content": "Nicht mehr benötigte Daten sowie Daten, deren Aufbewahrungsfrist abgelaufen ist, werden dem Bundesarchiv zur Archivierung angeboten. Angebot, Bewertung und Ablieferung richten sich nach dem Archivierungsgesetz vom 26. Juni 1998. SR 152.1"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Datensicherheit",
+      "content": "1 Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz sowie die Cyberrisikenverordnung vom 27. Mai 2020. 2 Daten, Programme und dazugehörige Dokumentationen sind gegen unbefugtes Bearbeiten sowie gegen Zerstörung und Entwendung zu schützen. Sie müssen wiederhergestellt werden können. 3 Die jeweils zuständige Stelle des legt den Zugriff auf die einzelnen Informationssysteme für jede Benutzerin und jeden Benutzer mit individuellen Benutzerprofilen, Passwörtern und Log-ins in Absprache mit dem BIT so fest, dass die Benutzerin oder der Benutzer die Informationssysteme nur im Umfang ihrer Zuständigkeit benutzen kann. Gemeinschaftspasswörter und Sammel-Log-ins sind nur ausnahmsweise zulässig. 4 Das erlässt in Absprache mit dem BIT Vorschriften über organisatorische und technische Massnahmen für die Datensicherheit und sorgt dafür, dass die Datenbearbeitung automatisch protokolliert wird. SR 235.11 SR 120.73 Fassung gemäss Anhang Ziff. 17 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ( AS 2020 5871 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Statistik",
+      "content": "1 Personendaten dürfen nur dann zu Reporting- und Statistikzwecken verwendet werden, wenn der betreffende Anhang dies vorsieht. 2 Personendaten dürfen nur für interne Geschäftskontrollen und für die interne Geschäftsplanung bearbeitet werden. 3 Daten, die zu statistischen Zwecken benötigt oder veröffentlicht werden, dürfen keine Rückschlüsse auf die betroffenen Personen erlauben. 4 Die Frist für die Aufbewahrung und Vernichtung der Bearbeitungsresultate richtet sich nach Artikel 10."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Auswertung des Intranet- und Internetangebots des BAZG",
+      "content": "1 Zur Auswertung des Intranet- und Internetangebots des kann das die Daten von Personen bearbeiten, die von diesem Angebot Gebrauch machen (Logfiles). 2 Die Personendaten dürfen nur für diese Auswertung und nur so lange wie unbedingt nötig bearbeitet werden. Sie sind nach der Auswertung zu vernichten oder zu anonymisieren."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "3. Abschnitt: Schlussbestimmungen",
+      "section": "15",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Datenbearbeitungsverordnung für die EZV vom 4. April 2007 wird aufgehoben. [ AS 2007 1715 ; 2008 583 Ziff. III 2; 2009 709 Art. 10, 5577 Art. 44 Ziff. 1, 6233 Ziff. III; 2012 3477 Anhang Ziff. 3; 2013 3111 Anhang Ziff. II 2, 3835 ; 2015 4917 Anhang Ziff. 1; 2016 2667 Anhang Ziff. 2, 4525 Ziff. I 4]"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "Änderung eines anderen Erlasses",
+      "content": "... Die Änderungen können unter AS 2017 4891 konsultiert werden."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Abschnitt: Schlussbestimmungen",
+      "section": "17",
+      "title": "Übergangsbestimmungen",
+      "content": "Daten aus den folgenden Informationssystemen nach der Datenbearbeitungsverordnung für die EZV vom 4. April 2007, die im Zeitpunkt des Inkrafttretens der vorliegenden Verordnung nicht mehr betrieben werden, werden, sofern sie nicht archiviert werden, vernichtet, sobald sie nicht mehr benötigt werden, spätestens jedoch nach fünf Jahren ab der Erfassung: a. Nachweise der Zollveranlagung für die Zulassung von Luftfahrzeugen; Form 15.15 (Anhang A 14); b. Kontrolle der Zollveranlagung schweizerischer und ausländischer Luftfahrzeuge (Anhang A 15); c. Unternehmen, die im konzessionierten Linienverkehr mit Gesellschaftswagen tätig sind (Anhang A 17); d. Personen, die um Rückerstattung der Pauschalen Schwerverkehrsabgabe (PSVA) für Auslandfahrten, Fahrten im UKV und für Holztransporte ersuchen (Anhang A 18); e. Nachweis der Zollveranlagung für die ordentliche Zulassung von Schiffen; Form 15.10 (Anhang A 19); f. Vorermittlungen und Spezialanalyse des BAZG (Anhang A 35); g. Verwendungsverpflichtungen Mineralölsteuer (Anhang A 40); h. Kontrolle des Schwefelgehalts von Heizöl extraleicht, Benzin und Dieselöl (Anhang A 43); i. Verzeichnis der von der Sektion Untersuchung der Zollkreisdirektionen geführten Strafuntersuchungen (Anhang B 7); j. Einfuhr von Erzeugnissen der Freizonen Hochsavoyens und der Landschaft Gex (Anhang B 8); k. Reporting, Risikoanalyse und Statistik auf Stufe Zollstelle (Anhang C 1); l. Informatiksysteme Röntgenanlagen (Anhang C 2); m. Zollanmeldungen auf Flugplätzen (Anhang C 4); n. Flugplanauswertung auf Flugplätzen (Anhang C 5); o. Grenzübertrittsbewilligungen ausserhalb zugelassener Grenzübertrittsstellen oder ausserhalb der Öffnungszeiten der Zollstelle (Anhang C 7); p. Artenschutz (Anhang C 10). [ AS 2007 1715 ; 2008 583 Ziff. III 2; 2009 709 Art. 10, 5577 Art. 44 Ziff. 1, 6233 Ziff. III; 2012 3477 Anhang Ziff. 3; 2013 3111 Anhang Ziff. II 2, 3835 ; 2015 4917 Anhang Ziff. 1; 2016 2667 Anhang Ziff. 2, 4525 Ziff. I 4]"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Oktober 2017 in Kraft."
+    }
+  ],
+  "definitions": []
+}

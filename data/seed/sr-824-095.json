@@ -1,0 +1,146 @@
+{
+  "id": "sr-824-095",
+  "type": "statute",
+  "title": "Verordnung vom 20. August 2014 über das Informationssystem des Zivildienstes",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/482/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Geltungsbereich",
+      "content": "Diese Verordnung regelt die Bearbeitung von Daten im Rahmen des Vollzugs des Zivildienstes durch Behörden und durch Dritte, die nach Artikel 79 Absatz 2 ZDG mit Vollzugsaufgaben betraut sind (Vollzugsbeauftragte)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Verantwortliche Stellen",
+      "content": "1 Das Bundesamt für Zivildienst (ZIVI) ist verantwortlich für die Entwicklung und den Betrieb des automatisierten Informationssystems des Zivildienstes (E-ZIVI). 2 Es kann für die technische Entwicklung und den Betrieb von E-ZIVI andere Bundesstellen und private Anbieter beiziehen. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ( SR 170.512.1 ) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Zweck von E-ZIVI",
+      "content": "Mit E-ZIVI werden alle Belange des Vollzugs des Zivildienstes unterstützt: a. die Durchführung des Zulassungsverfahrens zum Zivildienst; b. die Durchführung des Verfahrens der Anerkennung von Einsatzbetrieben; c. die Vorbereitung, die Durchführung, die Verwaltung, die Kontrolle und die Auswertung von Einsätzen; d. die Durchführung von Inspektionen und Wirkungskontrollen in Einsatzbetrieben sowie die Betreuung der Einsatzbetriebe; e. die Vorbereitung, die Durchführung, die Finanzierung, die Verwaltung, die Kontrolle und die Auswertung von Einführungstagen für gesuchstellende Personen und von Ausbildungskursen für zivildienstpflichtige Personen; f. die Durchführung von Disziplinarverfahren und die Bearbeitung von Schadenersatzbegehren; g. die Bearbeitung von Beratungsbegehren zivildienstpflichtiger Personen; h. die Erhebung von Abgaben von den Einsatzbetrieben und die Gewährung von Finanzhilfen an dieselben; i. die Mitwirkung in Beschwerdeverfahren; j. die Kreditoren- und die Debitorenbuchhaltung; k. die Dokumentation; l. die Statistik; m. die Authentifizierung der Benützerinnen und Benützer eines Extranets. Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6699 ). Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6699 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Veröffentlichung von Stammdaten und Einsatzmöglichkeiten",
+      "content": "Die Stammdaten und die Einsatzmöglichkeiten von anerkannten Einsatzbetrieben können auf der Webseite des ZIVI jedermann zugänglich gemacht werden, sofern die betroffenen Betriebe damit einverstanden sind."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Struktur von E-ZIVI und Datenbearbeitung",
+      "section": "5",
+      "title": "Struktur und Inhalt von E-ZIVI",
+      "content": "1 E-ZIVI besteht aus den folgenden Untersystemen: a. dem Verwaltungssystem (VS); b. dem Kundensystem (KS); c. dem «Business Intelligence System» (BIS). 2 E-ZIVI enthält Daten über: a. gesuchstellende und zivildienstpflichtige Personen; b. gesuchstellende Institutionen und anerkannte Einsatzbetriebe; c. Ausbildungsbetriebe sowie Kursleiterinnen und Kursleiter; d. Einsätze sowie Einführungstage und Ausbildungskurse; e. Disziplinar- und Beschwerdeverfahren; f. Ergebnisse von Inspektionen und Wirkungskontrollen. 3 Das BIS enthält Daten über Prozess- und Geschäftskennzahlen zur Leistungsüberwachung, Steuerung und Optimierung der Geschäftsprozesse des ZIVI. Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6699 ). Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6699 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Struktur von E-ZIVI und Datenbearbeitung",
+      "section": "6",
+      "title": "Datenbeschaffung",
+      "content": "Die Daten in E-ZIVI werden beschafft bei: a. den gesuchstellenden und den zivildienstpflichtigen Personen; b. den gesuchstellenden Institutionen und den anerkannten Einsatzbetrieben; c. den Ausbildungsbetrieben; d. den Datenempfängerinnen und -empfängern nach Artikel 8. Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6699 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Struktur von E-ZIVI und Datenbearbeitung",
+      "section": "7",
+      "title": "Zugriffs- und Bearbeitungsrechte",
+      "content": "1 Auf die Daten im VS haben das ZIVI und die Vollzugsbeauftragten im Rahmen ihrer gesetzlichen Aufgaben Zugriff. 2 Auf die Daten im KS haben die zuständigen Behörden im Rahmen ihrer gesetzlichen Aufgaben im Abrufverfahren Zugriff. 3 Die Daten im KS von gesuchstellenden und zivildienstpflichtigen Personen sowie von gesuchstellenden Institutionen und anerkannten Einsatzbetrieben können nur abgefragt werden, sofern die betreffende Person, Institution oder der betreffende Einsatzbetrieb sich damit einverstanden erklärt hat. 4 Die individuellen Zugriffs- und Bearbeitungsrechte sind im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Struktur von E-ZIVI und Datenbearbeitung",
+      "section": "8",
+      "title": "Bekanntgabe von Personendaten",
+      "content": "Das ZIVI gibt den folgenden Stellen und Personen zu den nachstehenden Zwecken Personendaten bekannt: a. den SBB: zur Abrechnung der Fahrten von zivildienstleistenden Personen in öffentlichen Verkehrsmitteln; b. schweizerischen Amtsstellen und allenfalls weiteren spezialisierten Institutionen: zur Gewährleistung der Sicherheit der zivildienstpflichtigen Person im Zusammenhang mit Auslandeinsätzen sowie zur Begutachtung von Anerkennungsgesuchen von Einsatzbetrieben, die Einsätze im Ausland oder in der Landwirtschaft anbieten wollen, und von Finanzhilfegesuchen von Einsatzbetrieben; c. den zivildienstpflichtigen Personen und den Einsatzbetrieben: zur Vorbereitung von Einsätzen mit Hilfe des KS; d. den Arbeitgeberinnen und Arbeitgebern von zivildienstleistenden Personen: zur Feststellung der Unkündbarkeit des Arbeitsvertrags während der Sperrfristen nach Artikel 336 c Absatz 1 Buchstabe a des Obligationenrechts; e. den Krankenkassen: zur Sistierung der Versicherungspflicht der zivildienstleistenden Personen; f. dem Betreiber des E-Shops des ZIVI: zur Administration der Ausrüstungsgegenstände für die Kennzeichnung der zivildienstpflichtigen Personen; g. dem Bundesamt für Bauten und Logistik: für Druckaufträge; h. dem Bundesamt für Informatik und Telekommunikation: für Massenversände auf elektronischem Weg; i. den Hotelleriebetrieben: zur Buchung von Übernachtungen der zivildienstleistenden Personen; j. den vom ZIVI bezeichneten Fachstellen: zur Durchführung der medizinischen Untersuchungen und zur Festlegung von Präventivmassnahmen im Hinblick auf Auslandeinsätze; k. Institutionen, die im Hinblick auf Auslandeinsätze im Auftrag von Einsatzbetrieben Assessments durchführen; l. auf Evaluationen spezialisierten Dienstleistungserbringern: zur Durchführung der Befragungen von gesuchstellenden und zivildienstpflichtigen Personen, Einsatzbetrieben sowie Kursleiterinnen und -leitern zwecks Auswertung von Einführungstagen, Ausbildungskursen und Einsätzen. Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1927 ). SR 220 Eingefügt durch Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1927 ). Eingefügt durch Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ( AS 2016 1927 ). Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6699 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Aufsicht und Koordination",
+      "content": "1 Das ZIVI übt die Aufsicht aus über: a. die Bearbeitung der Personendaten nach dieser Verordnung; b. die Einhaltung des Datenschutzes und der Datensicherheit durch die privaten Personen und Institutionen, die an E-ZIVI beteiligt sind. 2 Es koordiniert seine Tätigkeiten mit den an E-ZIVI beteiligten Behörden des Bundes und den beigezogenen privaten Personen und Institutionen. 3 Es erteilt die individuellen Bearbeitungsrechte für E-ZIVI."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "10",
+      "title": "Sorgfaltspflichten",
+      "content": "1 Die an E-ZIVI beteiligten Behörden sorgen in ihrem Bereich dafür, dass die Personendaten vorschriftsgemäss bearbeitet werden. 2 Die mit Vollzugsaufgaben betrauten privaten Personen und Institutionen sorgen in ihrem Bereich dafür, dass die Personendaten vorschriftsgemäss bearbeitet werden. 3 Die Behörden und die privaten Personen und Institutionen stellen sicher, dass die Personendaten, die sie in den Untersystemen nach Artikel 5 Absatz 1 eintragen oder die sie den zuständigen Stellen bekannt geben, vollständig, richtig und nachgeführt sind."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "11",
+      "title": "Datensicherheit",
+      "content": "1 Die Datensicherheit richtet sich nach: a. den Artikeln 8–12 der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz; b. der Cyberrisikenverordnung vom 27. Mai 2020; c. den Weisungen des Bundesrates vom 16. Januar 2019 über die IKT-Sicherheit in der Bundesverwaltung. 2 Die nach Artikel 7 berechtigten Behörden und privaten Personen und Institutionen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, damit ihre Personendaten vor Verlust, vor Entwendung und gegen unbefugte Bearbeitung oder Kenntnisnahme geschützt sind. 3 Das ZIVI erlässt ein Bearbeitungsreglement, das die erforderlichen Regelungen über organisatorische und sicherheitstechnische Massnahmen sowie die nötigen Bestimmungen über die Kontrolle der Datenbearbeitung enthält. 4 Es sorgt dafür, dass automatisch protokolliert wird, welche Benützerin oder welcher Benützer zu welchem Zeitpunkt den aktuellen Datenstand herbeigeführt hat. SR 235.11 Fassung gemäss Anhang Ziff. 19 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ( AS 2020 5871 ). SR 120.73 Fassung gemäss Anhang Ziff. 19 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ( AS 2020 5871 ). BBl 2019 1303 Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 6699 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Aufbewahrung, Archivierung und Statistik",
+      "section": "12",
+      "title": "Aufbewahrung",
+      "content": "Während fünf Jahren werden aufbewahrt: a. die Daten über zivildienstpflichtige Personen, ab dem Ende ihrer Zivildienstpflicht; b. die Daten über Einsatzbetriebe, ab dem Wegfall ihrer Anerkennung; c. die Daten über Ausbildungsinstitutionen, ab dem Ende des Kalenderjahres, in dem der letzte Ausbildungskurs stattgefunden hat."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Aufbewahrung, Archivierung und Statistik",
+      "section": "13",
+      "title": "Archivierung",
+      "content": "1 Nach Ablauf der Aufbewahrungsdauer werden nach Artikel 21 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz alle Daten vom ZIVI dem Bundesarchiv abgeliefert, anonymisiert oder vernichtet. 2 Die dem Bundesarchiv abgelieferten Daten werden in E-ZIVI vernichtet. SR 235.1"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Aufbewahrung, Archivierung und Statistik",
+      "section": "14",
+      "title": "Statistik",
+      "content": "Das ZIVI gibt dem Bundesamt für Statistik die Daten bekannt, die es zur Erfüllung seiner Aufgaben benötigt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Finanzierung",
+      "section": "15",
+      "title": "",
+      "content": "1 Der Bund finanziert die Entwicklung und den Betrieb von E-ZIVI sowie die Erschliessung und den Betrieb der Datenleitungen zu den direkt am VS und am BIS angeschlossenen Stellen und Personen. 2 Die an E-ZIVI direkt angeschlossenen Stellen und Personen übernehmen die Kosten für die Anschaffung und den Betrieb ihrer Geräte sowie der benötigten Software. Das ZIVI legt die Bedingungen fest, welche diese Geräte und die Software erfüllen müssen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung vom 30. Juni 2004 über das Informationssystem des Zivildienstes wird aufgehoben. [ AS 2004 3633 , 2007 4525 Ziff. II 9, 2009 1119 ]"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "17",
+      "title": "Übergangsbestimmung",
+      "content": "1 Das Informationssystem ZIVI+ ist spätestens neun Monate nach Inkrafttreten dieser Verordnung ausser Betrieb zu setzen. 2 Die Daten aus dem Informationssystem ZIVI+ werden innerhalb von neun Monaten nach Inkrafttreten dieser Verordnung in E-ZIVI überführt. 3 Ausgenommen sind Daten aus ZIVI+ betreffend Personen, die zu einer Arbeitsleistung verpflichtet wurden. Diese Daten sind spätestens neun Monate nach Inkrafttreten dieser Verordnung dem Bundesarchiv abzuliefern oder zu vernichten."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "18",
+      "title": "Übergangsordnung für Fälle schwerwiegender Störungen in der Einführungsphase",
+      "content": "Falls nach Inkrafttreten dieser Verordnung das bisherige Informationssystem ZIVI+ zur Überbrückung schwerwiegender technischer oder organisatorischer Störungen weiter betrieben oder wieder in Betrieb genommen werden muss, bleibt die Verordnung vom 30. Juni 2004 über das Informationssystem des Zivildienstes während längstens neun Monaten nach Inkrafttreten dieser Verordnung in ihrer bisher geltenden Fassung anwendbar. [ AS 2004 3633 , 2007 4525 Ziff. II 9, 2009 1119 ]"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "19",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 15. September 2014 in Kraft."
+    }
+  ],
+  "definitions": []
+}

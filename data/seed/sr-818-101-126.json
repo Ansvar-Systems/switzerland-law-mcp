@@ -1,0 +1,140 @@
+{
+  "id": "sr-818-101-126",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 1. Dezember 2015 über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen (VMüK)",
+  "title_en": "",
+  "short_name": "VMüK",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/892/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt, welche Beobachtungen übertragbarer Krankheiten des Menschen gemeldet werden müssen von: a. Ärztinnen und Ärzten, Spitälern und anderen öffentlichen und privaten Institutionen des Gesundheitswesens; b. Laboratorien; c. den zuständigen kantonalen Behörden; d. Führerinnen und Führern von Schiffen und Luftfahrzeugen. 2 Sie legt die Meldeinhalte, die Meldekriterien, den Zeitpunkt der Meldung, die Meldefristen, die Meldewege und die Art der Übermittlung fest."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Meldungen von klinischen Befunden",
+      "content": "1 Die zu meldenden klinischen Befunde sind in Anhang 1 aufgeführt. 2 Die meldepflichtigen Personen müssen mit der Meldung des klinischen Befunds folgende Angaben zu ihrer Person übermitteln: a. Vorname und Name; b. Global Location Number (GLN), sofern die Meldung elektronisch übermittelt wird; c. Telefonnummer und E‑Mail-Adresse; d. Adresse des Betriebs, in dem sie tätig sind; e. Unternehmens-Identifikationsnummer (UID) des Unternehmens und Be-triebs-Identifikationsnummer (BUR-Nummer) des Betriebs, in dem sie tätig sind, sofern die Meldung elektronisch übermittelt wird. 3 Die meldepflichtigen Institutionen müssen mit der Meldung des klinischen Befunds folgende Angaben übermitteln: a. Bezeichnung der Institution, gegebenenfalls der Abteilung und der Funktion der meldenden Person; b. UID und BUR-Nummer der Institution, sofern die Meldung elektronisch übermittelt wird; c. Vorname und Name der für Auskünfte zuständigen Ansprechperson (Art. 12 Abs. 2 EpV); d. Telefonnummer und E‑Mail-Adresse; e. Adresse. Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 792 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Ergänzungsmeldungen von klinischen Befunden",
+      "content": "1 Die ergänzend zu meldenden klinischen Befunde sind in Anhang 2 aufgeführt. 2 Meldepflichtige Personen müssen zusätzlich zu den Angaben nach Absatz 1 die Angaben nach Artikel 2 Absätze 2 und 3 übermitteln."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Meldungen von laboranalytischen Befunden",
+      "content": "1 Die zu meldenden laboranalytischen Befunde sind in Anhang 3 aufgeführt. 2 Die meldepflichtigen Laboratorien müssen mit der Meldung des laboranalytischen Befunds folgende Angaben übermitteln: a. Bezeichnung des Laboratoriums; b. Vorname und Name der verantwortlichen Laborleiterin oder des verantwortlichen Laborleiters; c. Telefonnummer und E‑Mail-Adresse; d. Adresse; e. UID und BUR-Nummer des Laboratoriums. 3 Sie müssen mit der Meldung des laboranalytischen Befunds folgende Angaben zur auftraggebenden Ärztin oder zum auftraggebenden Arzt übermitteln: a. Vorname und Name; b. GLN; c. Telefonnummer und E‑Mail-Adresse; d. Adresse des Betriebs, in dem die auftraggebende Ärztin oder der auftraggebende Arzt tätig ist; e. UID des Unternehmens und BUR-Nummer des Betriebs, in dem die auftraggebende Ärztin oder der auftraggebende Arzt tätig ist. Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 792 ). Fassung gemäss Ziff. I der V des EDI vom 8. Okt. 2025, in Kraft seit 1. Jan. 2026 ( AS 2025 632 ). Fassung gemäss Ziff. I der V des EDI vom 8. Okt. 2025, in Kraft seit 1. Jan. 2026 ( AS 2025 632 ). Fassung gemäss Ziff. I der V des EDI vom 8. Okt. 2025, in Kraft seit 1. Jan. 2026 ( AS 2025 632 )."
+    },
+    {
+      "provision_ref": "art4a",
+      "section": "4a",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V des EDI vom 28. Okt. 2020 ( AS 2020 4493 ). Aufgehoben durch Ziff. I der V des EDI vom 29. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ( AS 2023 792 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V des EDI vom 25. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ( AS 2021 852 )."
+    },
+    {
+      "provision_ref": "art5a",
+      "section": "5a",
+      "title": "a Meldungen von epidemiologischen Befunden",
+      "content": "1 Die zu meldenden epidemiologischen Befunde sind in Anhang 5 aufgeführt. 2 Die meldepflichtigen Personen müssen mit der Meldung des epidemiologischen Befunds folgende Angaben zu ihrer Person übermitteln: a. Vorname und Name; b. GLN, sofern die Meldung elektronisch übermittelt wird; c. Telefonnummer und E‑Mail-Adresse; d. Adresse des Betriebs, in dem sie tätig sind; e. UID des Unternehmens und BUR-Nummer des Betriebs, in dem sie tätig sind, sofern die Meldung elektronisch übermittelt wird. 3 Die meldepflichtigen Institutionen müssen mit der Meldung des epidemiologischen Befunds folgende Angaben übermitteln: a. Bezeichnung der Institution, gegebenenfalls der Abteilung und der Funktion der meldenden Person; b. UID und BUR-Nummer der Institution, sofern die Meldung elektronisch übermittelt wird; c. Vorname und Name der für Auskünfte zuständigen Ansprechperson (Art. 12 Abs. 2 EpV); d. Telefonnummer und E‑Mail-Adresse; e. Adresse. Eingefügt durch Ziff. I der V des EDI vom 1. Nov. 2019 ( AS 2019 3583 ). Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 792 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Meldungen von Beobachtungen, die auf eine Gefahr für die öffentliche Gesundheit hinweisen",
+      "content": "1 Die zuständigen kantonalen Behörden sowie Führerinnen und Führer von Schiffen und Luftfahrzeugen müssen Ereignisse wie Krankheits- oder Todesfälle oder Kontaminationen, die ungewöhnlich oder unerwartet sind oder gehäuft auftreten und auf eine Gefahr für die öffentliche Gesundheit hinweisen, in Anwendung des Entscheidungsschemas nach Anlage 2 der Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005 (IGV) melden. 2 Sie müssen folgende Angaben übermitteln: a. Art des Ereignisses; b. Bezeichnung der Behörde oder Vorname und Name der Führerin oder des Führers des Schiffs oder des Luftfahrzeugs; c. Flug- oder Schiffsnummer; d. Telefonnummer und E‑Mail-Adresse; e. Adresse. SR 0.818.103 Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 792 ). Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ( AS 2023 792 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Meldepflichtiges Laboratorium",
+      "content": "1 Meldepflichtig ist das Laboratorium, das die erste Untersuchung durchführt. 2 Bei Aufträgen an ein Laboratorium im Ausland ist das auftraggebende Laboratorium meldepflichtig."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Meldekriterien",
+      "content": "Die erregerspezifischen Kriterien für die Meldungen von klinischen Befunden, die Ergänzungsmeldungen von klinischen Befunden, die Meldungen von laboranalytischen Befunden und die Meldung von epidemiologischen Befunden sind in den Anhängen 1–3 sowie 5 festgehalten. Fassung gemäss Ziff. I der V des EDI vom 1. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3583 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Zeitpunkt der Meldung",
+      "content": "1 Eine Beobachtung muss gemeldet werden, sobald die erregerspezifischen Meldekriterien nach Anhang 1, 2, 3 oder 5 erfüllt sind. 2 Sie muss auch gemeldet werden, wenn einzelne Angaben zur Beobachtung oder zur Person fehlen. Fehlende Angaben sind so rasch als möglich nachzumelden. Fassung gemäss Ziff. I der V des EDI vom 1. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3583 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Meldefristen",
+      "content": "1 Eine Beobachtung ist innerhalb der erregerspezifischen Frist nach Anhang 1, 2, 3 oder 5 zu melden. Meldefristen mit Stundenangaben gelten auch ausserhalb der Werktage. 2 Muss die Kantonsärztin oder der Kantonsarzt eine Meldung an das Bundesamt für Gesundheit (BAG) weiterleiten, so gelten die folgenden Fristen: a. für Meldungen zu klinischen Befunden: die erregerspezifischen Fristen nach Anhang 1; b. für Ergänzungsmeldungen zu klinischen Befunden: eine Woche; c. für Meldungen zu epidemiologischen Befunden: die spezifischen Fristen in Bezug auf die Beobachtung nach Anhang 5. Fassung gemäss Ziff. I der V des EDI vom 1. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3583 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Meldewege für klinische Befunde",
+      "content": "1 Klinische Befunde müssen an die Kantonsärztin oder den Kantonsarzt des Kantons gemeldet werden, in dem die betroffene Person ihren Wohnsitz hat oder sich aufhält. Ist der Wohnsitz oder Aufenthaltsort der betroffenen Person unbekannt, so muss der Befund der Kantonsärztin oder dem Kantonsarzt des Kantons gemeldet werden, in dem die meldepflichtige Beobachtung gemacht wurde. 2 Anhang 1 legt fest, welche klinischen Befunde zusätzlich direkt dem BAG gemeldet werden müssen. 3 Elektronische Meldungen müssen ausschliesslich an das BAG gerichtet werden; dieses leitet sie unverzüglich an die Kantonsärztinnen und Kantonsärzte weiter."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Meldewege für laboranalytische Befunde",
+      "content": "1 Laboranalytische Befunde müssen dem BAG elektronisch gemäss den Vorgaben des BAG gemeldet werden. Das BAG leitet den Befund mittels des Informationssystems nach Artikel 60 des Epidemiengesetzes vom 28. September 2012 unverzüglich der Kantonsärztin oder dem Kantonsarzt des Kantons weiter, in dem die betroffene Person ihren Wohnsitz hat oder sich aufhält. Ist der Wohnsitz oder Aufenthaltsort der betroffenen Person nicht bekannt, so muss der Befund der Kantonsärztin oder dem Kantonsarzt des Kantons gemeldet werden, in dem die Beobachtung gemacht wurde. 2 Laboranalytische Befunde aufgrund von Umweltproben müssen dem BAG und gleichzeitig der Kantonsärztin oder dem Kantonsarzt des Kantons gemeldet werden, in dem die Probe entnommen wurde. Fassung gemäss Ziff. I der V des EDI vom 8. Okt. 2025, in Kraft seit 1. Jan. 2026 ( AS 2025 632 ). SR 818.101"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V des EDI vom 25. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ( AS 2021 852 )."
+    },
+    {
+      "provision_ref": "art13a",
+      "section": "13a",
+      "title": "a Meldewege für epidemiologische Befunde",
+      "content": "1 Epidemiologische Befunde müssen der Kantonsärztin oder dem Kantonsarzt des Kantons gemeldet werden, in dem sich die Ärztin oder der Arzt, das Spital oder die öffentliche und private Institution des Gesundheitswesens befindet, welche die Beobachtung gemacht hat. 2 Elektronische Meldungen müssen ausschliesslich an das BAG gerichtet werden; dieses leitet sie unverzüglich an die Kantonsärztinnen und Kantonsärzte weiter. Eingefügt durch Ziff. I der V des EDI vom 1. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3583 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Meldewege für Beobachtungen, die auf eine Gefahr für die öffentliche Gesundheit hinweisen",
+      "content": "1 Macht die Führerin oder der Führer eines Schiffs eine Beobachtung, die auf eine Gefahr für die öffentliche Gesundheit hinweist, so informiert sie oder er den Betreiber einer Hafenanlage. Der Betreiber der Hafenanlage leitet die Meldung an die zuständige Kantonsärztin oder den zuständigen Kantonsarzt weiter. Diese oder dieser informiert das BAG. 2 Macht die Führerin oder der Führer eines Luftfahrzeugs im internationalen gewerbsmässigen Luftverkehr eine Beobachtung, die auf eine Gefahr für die öffentliche Gesundheit hinweist, so informiert sie oder er den Flugsicherungsdienst. Der Flugsicherungsdienst leitet die Meldung an den Flughafenhalter sowie die zuständige Flughafengrenzärztin oder den zuständigen Flughafengrenzarzt weiter. Diese oder dieser informiert das BAG. Dieses informiert die zuständige Kantonsärztin oder den zuständigen Kantonsarzt."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Meldemittel",
+      "content": "1 Klinische Befunde nach Anhang 1 müssen mit den vom BAG zur Verfügung gestellten Formularen per Post, Kurier oder Fax oder mittels des vom BAG bezeichneten Systems elektronisch übermittelt werden. 2 Laboranalytische Befunde nach Anhang 3 müssen mittels des vom BAG bezeichneten Systems elektronisch übermittelt werden. 3 Klinische und laboranalytische Befunde, die nach den Anhängen 1 und 3 innerhalb von zwei Stunden zu melden sind, müssen telefonisch übermittelt werden. 4 Führerinnen und Führer von Schiffen sowie von Luftfahrzeugen im internationalen gewerbsmässigen Luftverkehr müssen zur Meldung ihrer Beobachtung das effizienteste Kommunikationsmittel verwenden, das ihnen zur Verfügung steht. Fassung gemäss Ziff. I der V des EDI vom 8. Okt. 2025, in Kraft seit 1. Jan. 2026 ( AS 2025 632 )."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Überprüfung der Meldeinhalte",
+      "content": "Das BAG überprüft in Zusammenarbeit mit den Kantonsärztinnen und Kantonsärzten nach Bedarf, mindestens aber einmal pro Jahr, die Meldeinhalte auf Notwendigkeit und Zweckmässigkeit."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung des EDI vom 13. Januar 1999 über Arzt- und Labormeldungen wird aufgehoben. [ AS 1999 1100 ; 2003 5205 ; 2006 105 ; 2013 3847 ]"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

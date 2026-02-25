@@ -1,0 +1,74 @@
+{
+  "id": "sr-642-142-1",
+  "type": "statute",
+  "title": "Verordnung vom 13. November 2019 über die ermässigte Besteuerung von Gewinnen aus Patenten und vergleichbaren Rechten (Patentbox-Verordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2019/699/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Beginn und Ende",
+      "content": "1 Die ermässigte Besteuerung des Gewinns aus einem Patent oder vergleichbaren Recht beginnt am Beginn der Steuerperiode, in der das Recht erteilt wird. 2 Sie endet am Ende der Steuerperiode, in der das Recht erlischt. 3 Entfällt der Schutz des Rechts rückwirkend, so hat dies auf die Besteuerung in den vorangegangenen Steuerperioden keinen Einfluss. In der laufenden Steuerperiode wird keine ermässigte Besteuerung mehr gewährt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Berechnungsgrundsatz",
+      "content": "Der ermässigt steuerbare Reingewinn wird ermittelt, indem der Reingewinn aus den einzelnen Patenten und vergleichbaren Rechten vor Steueraufwand mit dem entsprechenden Nexusquotienten multipliziert wird und die Ergebnisse dieser Multiplikationen addiert werden."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Berechnung bei in Produkten enthaltenen Patenten und vergleichbaren Rechten",
+      "content": "1 Soweit die Patente und vergleichbaren Rechte in einem Produkt enthalten sind, ermittelt sich der ermässigt steuerbare Reingewinn aus diesen Rechten anhand des Reingewinns aus dem Produkt vor Steueraufwand. Dieser Reingewinn wird zusätzlich vermindert um: a. 6 Prozent der dem Produkt zugewiesenen Kosten; b. das Markenentgelt. 2 Das Ergebnis dieser Berechnung wird mit dem entsprechenden Nexusquotienten multipliziert. 3 Ist der Reingewinn aus dem Produkt nicht bekannt, so werden vor der Berechnung nach den Absätzen 1 und 2 vom gesamten steuerbaren Reingewinn vor Steueraufwand folgende Erfolge abgezogen: a. der Finanzerfolg; b. der Liegenschaftserfolg; c. der Beteiligungserfolg; d. der Erfolg, der auf ein Produkt entfällt, das kein Patent oder vergleichbares Recht enthält; e. der Erfolg, der auf ein Produkt entfällt, das ein Patent oder vergleichbares Recht enthält, für welches die steuerpflichtige Person keine ermässigte Besteuerung beantragt. 4 Der nach Absatz 3 ermittelte Reingewinn wird auf die Produkte verteilt, die ein Patent oder vergleichbares Recht enthalten und für welche die steuerpflichtige Person eine ermässigte Besteuerung beantragt."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Berechnung nach Produktfamilien",
+      "content": "1 Weisen die Produkte nur geringe Abweichungen voneinander auf und liegen ihnen dieselben Patente oder vergleichbaren Rechte zugrunde (Produktfamilien), so wird die Berechnung nach Artikel 3 auf Antrag der steuerpflichtigen Person pro Produktfamilie vorgenommen. 2 Die Berechnung nach Produktfamilien ist über die gesamte Laufzeit der zugrunde liegenden Rechte beizubehalten."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Nexusquotient",
+      "content": "1 Der Nexusquotient berechnet sich für eine Steuerperiode pro Patent, vergleichbares Recht, Produkt oder Produktfamilie nach der folgenden Formel, beträgt jedoch höchstens 100 Prozent: a = sämtlicher dem Recht, dem Produkt oder der Produktfamilie zurechenbarer, bisher angefallener Aufwand für Forschung und Entwicklung, welche die steuerpflichtige Person selbst im Inland durchgeführt hat; b = sämtlicher dem Recht, dem Produkt oder der Produktfamilie zurechenbarer, bei der steuerpflichtigen Person bisher angefallener Aufwand für Forschung und Entwicklung, welche Konzerngesellschaften nach Artikel 963 des Obligationenrechts (OR) im Inland oder unabhängige Dritte im Inland oder Ausland durchgeführt haben; c = sämtlicher bisher angefallener Aufwand für den Erwerb von Rechten, die in einem Produkt enthalten sind; d = sämtlicher dem Recht, dem Produkt oder der Produktfamilie zurechenbarer, bei der steuerpflichtigen Person bisher angefallener Aufwand für Forschung und Entwicklung, welche Konzerngesellschaften nach Artikel 963 OR, Geschäftsbetriebe und Betriebsstätten im Ausland durchgeführt haben; 130 % = Faktor zur Abgeltung des tatsächlich bei Konzerngesellschaften nach Artikel 963 OR, Geschäftsbetrieben und Betriebsstätten im Ausland angefallenen Aufwands für Forschung und Entwicklung sowie zur Abgeltung des Aufwands für den Erwerb von Rechten, die in einem Produkt enthalten sind. 2 Zur Berechnung des Nexusquotienten bei der erstmaligen ermässigten Besteuerung gilt als bisher angefallener Aufwand der Aufwand der laufenden und der zehn vorangegangenen Steuerperioden. Die steuerpflichtige Person kann Aufwand weiter zurückliegender Steuerperioden geltend machen. 3 Zur Berechnung des Nexusquotienten in den folgenden Steuerperioden wird der laufende Aufwand zum Aufwand nach Absatz 2 hinzugerechnet. Der weiter als zwanzig Steuerperioden zurückliegende Aufwand wird jedoch nicht mehr berücksichtigt; dabei gilt der nach Absatz 2 berechnete Aufwand gesamthaft als in der Steuerperiode der erstmaligen ermässigten Besteuerung angefallen. 4 Zins-, Miet- und Liegenschaftsaufwand bleibt unberücksichtigt. SR 220"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Verluste",
+      "content": "1 Ergibt sich aus der Berechnung nach den Artikeln 2–5 ein Verlust, so erfolgt keine ermässigte Besteuerung. 2 Ergibt sich vor Anwendung des Nexusquotienten oder bei Produkten vor Ermittlung des Reingewinns nach Artikel 3 Absatz 1 ein Verlust, so wird in den folgenden Steuerperioden der Reingewinn, der ermässigt besteuert werden könnte, im Umfang dieses Verlusts nicht ermässigt besteuert."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Hinzurechnung bisherigen Forschungs- und Entwicklungsaufwands bei erstmaliger ermässigter Besteuerung",
+      "content": "1 Bei der erstmaligen ermässigten Besteuerung nach Artikel 24 b Absatz 3 StHG wird der in den zehn vorangegangenen Steuerperioden berücksichtigte Forschungs- und Entwicklungsaufwand zum steuerbaren Reingewinn hinzugerechnet. Nicht direkt den Patenten, vergleichbaren Rechten, Produkten oder Produktfamilien zurechenbarer Forschungs- und Entwicklungsaufwand, insbesondere Aufwand für die Grundlagenforschung, wird auf sämtliche Rechte, Produkte oder Produktfamilien verteilt. 2 Zins-, Miet- und Liegenschaftsaufwand bleibt unberücksichtigt."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Zuordnung des Aufwands zu einzelnen Rechten, Produkten oder Produktfamilien",
+      "content": "1 Die steuerpflichtige Person hat den Forschungs- und Entwicklungsaufwand und den dazugehörigen Reingewinn zu dokumentieren. Dabei muss sie insbesondere den Forschungs- und Entwicklungsaufwand und den Reingewinn den einzelnen Patenten und vergleichbaren Rechten zuordnen. Die Steuerbehörde kann diese Dokumentation einfordern. 2 Erbringt eine steuerpflichtige Person den Nachweis, dass eine Zuordnung des Forschungs- und Entwicklungsaufwands und des dazugehörigen Reingewinns zu den einzelnen Rechten nicht sachgerecht ist, so kann sie diesen Aufwand und Reingewinn den einzelnen Produkten oder Produktfamilien zuordnen."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Berechnung des Nexusquotienten bei fehlender Zuordnung",
+      "content": "1 Kann bei der erstmaligen ermässigten Besteuerung der in den vorangegangenen Steuerperioden angefallene Forschungs- und Entwicklungsaufwand nicht den einzelnen Patenten, vergleichbaren Rechten, Produkten oder Produktfamilien zugeordnet werden, so wird bei der Berechnung des Nexusquotienten der gesamte Forschungs- und Entwicklungsaufwand der laufenden und der vier vorangegangenen Steuerperioden berücksichtigt. 2 Diese Berechnung ist für drei weitere Steuerperioden beizubehalten. Danach wird der den einzelnen Rechten, Produkten oder Produktfamilien zugeordnete Forschungs- und Entwicklungsaufwand ab der Steuerperiode der erstmaligen ermässigten Besteuerung in die Berechnung einbezogen."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2020 in Kraft."
+    }
+  ],
+  "definitions": []
+}

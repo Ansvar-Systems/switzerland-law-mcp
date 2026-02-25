@@ -1,0 +1,240 @@
+{
+  "id": "sr-211-432-21",
+  "type": "statute",
+  "title": "Verordnung des VBS vom 24. August 2023 über die amtliche Vermessung (VAV-VBS)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2023/530/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Inhalt der amtlichen Vermessung",
+      "section": "1",
+      "title": "Punktzeichen",
+      "content": "Die Punktzeichen der amtlichen Vermessung bezeichnen die Fixpunkte und Grenzpunkte im Gelände."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Inhalt der amtlichen Vermessung",
+      "section": "2",
+      "title": "Fixpunkte",
+      "content": "1 Fixpunkte sind Bezugspunkte der amtlichen Vermessung, die durch Messungen und Ausgleichungsverfahren im Bezugssystem der Landesvermessung bestimmt und im Gelände durch Fixpunktzeichen dauerhaft und eindeutig gekennzeichnet sind. 2 Lagefixpunkte sind nach ihrer Lage und in der Regel nach ihrer Höhe bestimmt. Höhenfixpunkte sind nach ihrer Lage und Höhe bestimmt. 3 Die Lagefixpunkte gliedern sich in solche der Landesvermessung (Kategorie 1: LFP1) und solche der amtlichen Vermessung (Kategorie 2: LFP2, Kategorie 3: LFP3). 4 Die Höhenfixpunkte gliedern sich in solche der Landesvermessung (Kategorie 1: HFP1) und solche der amtlichen Vermessung (Kategorie 2: HFP2, Kategorie 3: HFP3). 5 Die Lage und die Anzahl der Fixpunkte richten sich nach den Bedürfnissen der Nachführung. 6 Die Fachstelle Eidgenössische Vermessungsdirektion erlässt Weisungen über die Einzelheiten der Anforderungen an die Fixpunkte."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Inhalt der amtlichen Vermessung",
+      "section": "3",
+      "title": "Daten: Inhalt",
+      "content": "Die Daten der amtlichen Vermessung umfassen die Daten des Plans für das Grundbuch (Art. 7 VAV) und weitere Informationen, insbesondere die Daten zu: a. den Punktzeichen; b. den bestehenden oder projektierten Gebäuden nach den Artikeln 2 Buchstabe b und 7 Absatz 1 Buchstaben a und b sowie Absatz 2 der Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnungsregister sowie den übrigen bestehenden oder projektierten Bauten und Anlagen; c. den bestehenden oder projektierten Verkehrswegen; d. den Gewässern; e. der weiteren Beschaffenheit der Erdoberfläche; f. weiteren Objekten, soweit diese für die Nutzung des Grundstücks, für die amtliche Vermessung oder für die Erstellung von abgeleiteten amtlichen Produkten (Art. 6) von Bedeutung sind; g. den geografischen Namen; h. den technischen und administrativen Einteilungen. SR 431.841"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Inhalt der amtlichen Vermessung",
+      "section": "4",
+      "title": "Daten: Genauigkeit und Zuverlässigkeit",
+      "content": "1 Die Daten der amtlichen Vermessung müssen eine für den Gebrauch differenzierte und angemessene Genauigkeit aufweisen. 2 Für die Genauigkeitsanforderungen an die Daten gelten folgende Toleranzstufen (TS) für die nachfolgend genannten Gebiete: a. TS 1: Stadtgebiete; b. TS 2: Bauzonen und überbaute Gebiete; c. TS 3: intensiv genutzte Landwirtschafts- und Forstwirtschaftsgebiete; d. TS 4: extensiv genutzte Landwirtschafts- und Forstwirtschaftsgebiete; e. TS 5: Sömmerungsgebiete und unproduktive Gebiete. 3 Die Kantone sind für die Zuordnung der Gebiete zuständig. 4 Für den Plan für das Grundbuch erlassen die Fachstelle Eidgenössische Vermessungsdirektion und das Eidgenössische Amt für Grundbuch- und Bodenrecht (EGBA) gemeinsame Weisungen über die minimalen Anforderungen an die Genauigkeit und Zuverlässigkeit der Daten für jede Toleranzstufe. Für die übrigen Daten der amtlichen Vermessung erlässt die Fachstelle Eidgenössische Vermessungsdirektion Weisungen über diese Anforderungen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Inhalt der amtlichen Vermessung",
+      "section": "5",
+      "title": "Technische und administrative Dokumente",
+      "content": "1 Die technischen und administrativen Dokumente der amtlichen Vermessung sind: a. die Prüfprotokolle; b. die Originale der Messdokumentation; c. die Arbeitsunterlagen und Dokumente der Qualitätskontrollen; d. der Flächenvergleich bei Erneuerung; e. der Unternehmerbericht. 2 Die Fachstelle Eidgenössische Vermessungsdirektion erlässt Weisungen über die Einzelheiten, insbesondere über Inhalt, Form und Darstellung der Dokumente."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Abgeleitete amtliche Produkte",
+      "content": "Aus den Daten der amtlichen Vermessung werden die folgenden amtlichen Produkte abgeleitet: a. Situationsplan; b. Basisplan; c. Datenabgabe in der Form des vereinfachten Geodatenmodells (Art. 13); d. Meldungen der amtlichen Vermessung an Dritte."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Geodatenmodell",
+      "section": "7",
+      "title": "Grundsätze",
+      "content": "1 Das Geodatenmodell der amtlichen Vermessung wird auf die Bedürfnisse der Nutzerinnen und Nutzer ausgerichtet. 2 Es wird modular so aufgebaut, dass die einzelnen Module möglichst unabhängig voneinander geändert und ergänzt werden können. 3 Soweit zulässig und möglich, wird bei der Modellierung ein Abgleich mit anderen Geobasisdaten des Bundesrechts vorgenommen, welche gleiche oder ähnliche Objekte enthalten. Objekte aus Geodatenmodellen anderer Geobasisdaten des Bundesrechts können in das Geodatenmodell der amtlichen Vermessung eingebunden werden, wenn sie den Anforderungen der amtlichen Vermessung genügen. 4 Zum Geodatenmodell gehören Darstellungsmodelle für: a. den Situationsplan; b. den Plan für das Grundbuch; c. den Mutationsplan; d. den Basisplan; e. Auszüge (Art. 23); f. weitere Visualisierungen. 5 Die Fachstelle Eidgenössische Vermessungsdirektion erlässt Weisungen über das Geodatenmodell mit zugehörigen Darstellungsmodellen im Sinne der Artikel 9–11 der Geoinformationsverordnung vom 21. Mai 2008 (GeoIV). 6 Das Geodatenmodell und die Darstellungsmodelle werden im Internet veröffentlicht. SR 510.620"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Geodatenmodell",
+      "section": "8",
+      "title": "Beschreibungssprache",
+      "content": "Die Beschreibungssprache für das Geodatenmodell entspricht dem Standard eCH-0031 INTERLIS 2 Referenzhandbuch (Stand 7. September 2016) . Dieser Standard kann im Internet unter www.ech.ch kostenlos eingesehen werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Geodatenmodell",
+      "section": "9",
+      "title": "Objekte",
+      "content": "1 Objekte im Datenmodell können folgende Geometrien aufweisen: a. Punkte; b. Strecken und Kreisbogen; c. Flächen; d. Volumen. 2 Jedes Objekt hat einen eineindeutigen, unveränderbaren Identifikator. 3 Jedes Objekt weist das Datum seiner letzten Änderung aus. 4 Im Übrigen findet der Standard eCH-0129 Datenstandard Objektwesen (Version 4.0 vom 7. Juni 2017) Anwendung. Dieser Standard kann im Internet unter www.ech.ch kostenlos eingesehen werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Geodatenmodell",
+      "section": "10",
+      "title": "Metadaten",
+      "content": "Das Geodatenmodell muss für alle Liegenschaften, alle flächenmässig ausgeschiedenen selbstständigen und dauernden Rechte an Grundstücken sowie alle Bergwerke das Erheben, Nachführen und Verwalten der folgenden Metadaten unterstützen: a. Stand der Vermessung (analog, digital oder unvermessen); b. Informationen über die Zuständigkeiten, wie Namen und Adressen der Nachführungsgeometerinnen oder Nachführungsgeometer, und Angaben zur Datenabgabe; c. Informationen zum Grundbuch, wie Informationen über den Grundbuchkreis und die Adresse des Grundbuchamts; d. Informationen über die laufenden Arbeiten; e. statistische Daten im Zusammenhang mit der Gemeinde."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "2. Abschnitt: Geodatenmodell",
+      "section": "11",
+      "title": "Prüfung der Modellkonformität",
+      "content": "1 Die Fachstelle Eidgenössische Vermessungsdirektion stellt im Internet ein Instrument zur Verfügung, mit dem die Daten hinsichtlich der Konformität mit dem Geodatenmodell überprüft werden können. 2 Sie führt zur Qualitätssicherung eine periodische Prüfung der Datenqualität durch; sie kann die summarischen Resultate dieser Prüfung veröffentlichen."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Änderungen",
+      "content": "1 Die Fachstelle Eidgenössische Vermessungsdirektion teilt Änderungen des Geodatenmodells den Kantonen mit und veröffentlicht die Änderungen im Internet. 2 Sie setzt den Kantonen eine Frist für die Umsetzung der Änderungen."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Vereinfachtes Geodatenmodell",
+      "content": "1 Die Fachstelle Eidgenössische Vermessungsdirektion gibt ein aus dem Geodatenmodell der amtlichen Vermessung abgeleitetes vereinfachtes Geodatenmodell vor. Sie trägt dabei der vereinfachten Datenabgabe in verschiedenen üblichen Datentransferformaten Rechnung. 2 Sie veröffentlicht das vereinfachte Geodatenmodell im Internet. 3 Ändert sie das Geodatenmodell, so passt sie das vereinfachte Geodatenmodell gleichzeitig daran an. 4 Die Kantone verwenden für die Datenabgabe im vereinfachten Geodatenmodell die jeweils an das Geodatenmodell angepasste Version."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Abschnitt: Arbeiten der amtlichen Vermessung",
+      "section": "14",
+      "title": "Periodische Nachführung",
+      "content": "1 Die periodische Nachführung kann einzeln für bestimmte Module erfolgen. 2 Die Fachstelle Eidgenössische Vermessungsdirektion erlässt Weisungen über die Einzelheiten der Nachführung."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "3. Abschnitt: Arbeiten der amtlichen Vermessung",
+      "section": "15",
+      "title": "Massnahmen infolge von Naturereignissen",
+      "content": "Nach einem Naturereignis wird für das betroffene Gebiet möglichst rasch eine ausserordentliche Nachführung durchgeführt. Diese umfasst alle Massnahmen, die für die Wiederherstellung der amtlichen Vermessung erforderlich sind."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Abschnitt: Arbeiten der amtlichen Vermessung",
+      "section": "16",
+      "title": "Überführung militärischer Anlagen in eine zivile Nutzung",
+      "content": "1 Militärische Anlagen, die einer zivilen Nutzung zugeführt werden, werden in die amtliche Vermessung aufgenommen. 2 Die Armasuisse Immobilien erteilt den Auftrag für die Nachführung der amtlichen Vermessung. 3 Die Kosten der Nachführung trägt die Armasuisse Immobilien."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Abschnitt: Arbeiten der amtlichen Vermessung",
+      "section": "17",
+      "title": "Arbeiten auf dem Bahngebiet",
+      "content": "Arbeiten der amtlichen Vermessung im Bahngebiet sind mit dem Eisenbahnunternehmen vorgängig abzusprechen."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Verwaltung der amtlichen Vermessung",
+      "section": "18",
+      "title": "Grundsätze",
+      "content": "1 Die Verwaltung der amtlichen Vermessung umfasst die organisatorischen und technischen Massnahmen zum Zweck der Datenverwaltung, der nachhaltigen Verfügbarkeit, der Archivierung, der Historisierung und der Erhaltung des Wertes der Daten der amtlichen Vermessung sowie der technischen und administrativen Dokumente. 2 Die kleinste Einheit für die Verwaltung der Daten sowie der technischen und administrativen Dokumente der amtlichen Vermessung ist die Gemeinde; die Daten und Dokumente müssen gemeindeweise zur Verfügung gestellt werden können. 3 Die kantonale Vermessungsaufsicht prüft periodisch die Einhaltung der Vorschriften über die Verwaltung der amtlichen Vermessung, insbesondere die Gewährleistung der Informationssicherheit."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Verwaltung der amtlichen Vermessung",
+      "section": "19",
+      "title": "Informationssicherheit",
+      "content": "1 Wer Daten der amtlichen Vermessung verwaltet, sorgt in Anwendung der Standards ISO/IEC 27001:2013 und ISO/IEC 27005:2018 für die Daten- und Informationssicherheit. 2 Die originären Daten müssen in einer Dateninfrastruktur verwaltet werden, die sich in der Schweiz befindet. Die Betreiberin der Dateninfrastruktur muss ihren Sitz in der Schweiz haben. Vertraglich muss sichergestellt sein, dass die kantonale Vermessungsaufsicht jederzeit Zugriff auf die Daten hat. 3 Die kantonale Vermessungsaufsicht prüft die Informationssicherheit: a. bei Betrieben, die nach ISO/IEC 27001:2013 zertifiziert sind, durch Überprüfung der Aktualität der Zertifizierung; b. bei allen anderen Betrieben, durch Überprüfung der Einhaltung des Standards ISO/IEC 27001:2013 unter Anwendung des Standards ISO/IEC 27004:2016. Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Abschnitt: Verwaltung der amtlichen Vermessung",
+      "section": "20",
+      "title": "Qualitätsprüfung bei Änderungen im Datenbestand",
+      "content": "1 Nach Änderungen im Datenbestand hat die für die Änderung verantwortliche Stelle den neuen Datenbestand mit dem Instrument nach Artikel 11 Absatz 1 zu überprüfen. 2 Das zurückgemeldete Ergebnis der Qualitätsprüfung ist ein Dokument der Qualitätskontrolle nach Artikel 5 Absatz 1 Buchstabe c."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "4. Abschnitt: Verwaltung der amtlichen Vermessung",
+      "section": "21",
+      "title": "Archivierung und Historisierung",
+      "content": "1 Die Kantone erstellen ein Archivierungskonzept nach Artikel 16 Absatz 2 GeoIV und regeln die Historisierung für: a. die Daten der amtlichen Vermessung; b. die technischen und administrativen Dokumente; c. die Mutationsurkunden; d. die Bestandteile und Grundlagen der amtlichen Vermessung alter Ordnung. 2 Die Fachstelle Eidgenössische Vermessungsdirektion erlässt Weisungen über die Archivierung und Historisierung. Sie konsultiert das EGBA vor Erlass dieser Weisungen. SR 510.620"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "4. Abschnitt: Verwaltung der amtlichen Vermessung",
+      "section": "22",
+      "title": "Unterhalt der Punktzeichen",
+      "content": "Die Kantone sorgen für den Schutz und Unterhalt der Punktzeichen, sofern dies nicht Aufgabe der Landesvermessung ist."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Auszüge",
+      "content": "1 Ein Auszug besteht aus einer analogen oder digitalen Darstellung der Inhalte der Daten der amtlichen Vermessung über eine Liegenschaft, ein flächenmässig ausgeschiedenes selbstständiges und dauerndes Recht an einem Grundstück oder ein Bergwerk. 2 Auf Verlangen enthält ein Auszug nur einzelne Module des Geodatenmodells, immer jedoch die Grenzen der Liegenschaft oder des selbstständigen und dauernden Rechts oder das Bergwerk. 3 Die Fachstelle Eidgenössische Vermessungsdirektion erlässt Weisungen über den Inhalt und die Darstellung der Auszüge aus der amtlichen Vermessung."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "5. Abschnitt: Organisation und Durchführung",
+      "section": "24",
+      "title": "Kantonaler Umsetzungsplan",
+      "content": "Der kantonale Umsetzungsplan gibt Auskunft über Art, Umfang, Termine und Kosten der Arbeiten der amtlichen Vermessung, insbesondere über: a. die Arbeiten der Ersterhebung; b. die Arbeiten der Erneuerung; c. besondere Anpassungen von aussergewöhnlich hohem nationalem Interesse; d. die periodische Nachführung; e. den Ersatz von provisorischen Numerisierungen durch eine Ersterhebung oder Erneuerung; f. die Pilotprojekte; g. die generelle Kostenschätzung."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "5. Abschnitt: Organisation und Durchführung",
+      "section": "25",
+      "title": "Download-Dienst und Schnittstellen",
+      "content": "Die Fachstelle Eidgenössische Vermessungsdirektion erlässt Weisungen über die Einzelheiten des Download-Dienstes und weiterer Schnittstellen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "5. Abschnitt: Organisation und Durchführung",
+      "section": "26",
+      "title": "Meldungen an Dritte",
+      "content": "Auf Meldungen der amtlichen Vermessung an Dritte (Art. 6 Bst. d) findet der Standard eCH-0131 (Version 2.0 vom 7. Juni 2017) Anwendung. Dieser Standard kann im Internet unter www.ech.ch kostenlos eingesehen werden."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "5. Abschnitt: Organisation und Durchführung",
+      "section": "27",
+      "title": "Datenabgabe im vereinfachten Geodatenmodell",
+      "content": "Auf Gesuch des Kantons gibt die Fachstelle Eidgenössische Vermessungsdirektion die Daten der amtlichen Vermessung im vereinfachten Geodatenmodell (Art. 13) ab."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "28",
+      "title": "Übergang von alter zu neuer Ordnung: Ersterhebung bei definitiv anerkannten Vermessungen",
+      "content": "1 Definitiv anerkannte Vermessungen, die gemäss den vor dem 15. Dezember 1910 geltenden Vorschriften erstellt worden sind, müssen durch eine Ersterhebung nach neuer Ordnung ersetzt werden. 2 Andere definitiv anerkannte Vermessungen, die gemäss den vor dem 10. Juni 1919 geltenden Vorschriften erstellt worden sind, müssen durch eine Ersterhebung nach neuer Ordnung ersetzt werden, wenn: a. die ursprüngliche Bestimmung deren Polygonzüge und Detailpunkte die 1919 geltenden Toleranzen überschreitet; oder b. die Detailaufnahme in der Instruktionszone II gemäss Buchstabe a nach dem Messtischverfahren erfolgt ist."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "29",
+      "title": "Übergang von alter zu neuer Ordnung: Provisorische Numerisierung",
+      "content": "Die Artikel 5 Buchstaben f, h und i, 61 Absatz 2, 77 und 89–108 der Technischen Verordnung des VBS vom 10. Juni 1994 über die amtliche Vermessung (TVAV) gelten für die provisorische Numerisierung weiter. AS 1994 1864 ; 2003 514 ; 2008 2759"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "30",
+      "title": "Weitergeltung des Rechts nach alter Ordnung",
+      "content": "Für Arbeiten, die nach alter Ordnung durch- oder weitergeführt werden, gelten weiter: a. die Anleitung vom 24. Dezember 1927 für die Erstellung des Übersichtsplanes bei Grundbuchvermessungen; b. die Weisungen vom 28. November 1974 für die Vervielfältigung und Nachführung des Übersichtsplanes bei Grundbuchvermessungen; c. die Weisungen vom 28. November 1974 für die Anwendung der automatischen Datenverarbeitung in der Parzellarvermessung. BS 2 613 AS 1975 109 AS 1975 115"
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "31",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Technische Verordnung des VBS vom 10. Juni 1994 über die amtliche Vermessung wird aufgehoben. [ AS 1994 1864 ; 2003 514 ; 2008 2759 ]"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "32",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Die Fachstelle Eidgenössische Vermessungsdirektion gibt auf den Zeitpunkt des Inkrafttretens dieser Verordnung ein Geodatenmodell der amtlichen Vermessung vor, welches das Datenmodell der amtlichen Vermessung nach Artikel 7 und Anhang A der TVAV ersetzt. 2 Der Wechsel zum neuen Geodatenmodell der amtlichen Vermessung muss bis zum 31. Dezember 2027 vollzogen werden. Jeder Kanton legt den Zeitpunkt des Modellwechsels für sein ganzes Kantonsgebiet fest. Er passt seine gesetzlichen Grundlagen auf diesen Zeitpunkt hin an. Bis zum Zeitpunkt des Modellwechsels gelten die Bestimmungen über das bisherige Datenmodell weiter. 3 Der Übergang der Beschreibungssprache von der Norm SN 612030 (Ausgabe 1998, Vermessung und Geoinformation – INTERLIS 1) zum Standard eCH-0031 INTERLIS 2 - Referenzhandbuch (Stand 7. September 2016) muss bis zum 31. Dezember 2027 vollzogen werden. 4 Die Armasuisse Immobilien trägt die Kosten der Nachführung der amtlichen Vermessung von militärischen Anlagen, die zwischen dem 1. Juli 2008 und dem Inkrafttreten dieser Verordnung einer zivilen Nutzung zugeführt wurden. AS 1994 1864 ; 2003 514 ; 2008 2759 Dieser Standards können im Internet unter www.ech.ch kostenlos eingesehen werden."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2024 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,150 @@
+{
+  "id": "sr-235-24",
+  "type": "statute",
+  "title": "Verordnung vom 9. Dezember 2011 über das Informationssystem EDAssist+",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/21/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt den Betrieb und die Benützung des Informationssystems EDAssist+ (EDAssist+)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Zweck",
+      "content": "EDAssist+ dient dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) zur: a. Online-Registrierung von im oder von ins Ausland reisenden Personen; b. Bearbeitung von Suchmeldungen vermisster Personen; c. Einleitung von Massnahmen durch das EDA im Krisen- oder Katastrophenfall; d. Erfassung und Bearbeitung von Anliegen aus der Bevölkerung; e. Bearbeitung konsularischer Schutzfälle nach den Artikeln 16, 17 und 22 des Reglements des schweizerischen diplomatischen und konsularischen Dienstes vom 24. November 1967. [ AS 1967 1994 , 1978 1402 , 2004 2915 Art. 99 Abs. 2, 2007 4477 Ziff. IV 8, 2015 357 Ziff. II]"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Betrieb",
+      "content": "EDAssist+ wird von der Konsularischen Direktion (KD) des EDA betrieben."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Struktur von EDAssist+",
+      "content": "EDAssist+ besteht aus den folgenden Bereichen: a. Online-Registrierung; b. Such- und Rückmeldungen; c. Krisen und Katastrophen; d. Helpline; e. Konsularschutz."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "5",
+      "title": "Online-Registrierung",
+      "content": "1 Wer im Ausland oder ins Ausland reist, kann seine Daten im Bereich «Online-Registrierung» erfassen. 2 Welche Daten erfasst werden, ist in Anhang 1 aufgeführt. 3 Die Erfassung ist Personen nach Artikel 4 Absatz 1 und Absatz 2 Buchstaben a und b des Gesetzes vorbehalten."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "6",
+      "title": "Such- und Rückmeldungen",
+      "content": "1 Im Bereich «Such- und Rückmeldungen» werden Daten bearbeitet von Personen nach Artikel 4 Absätze 1 und 2 Buchstaben a und b des Gesetzes, die vermisst werden. 2 Es werden überdies Daten von Personen bearbeitet, die eine Suchmeldung aufgegeben haben. 3 Welche Daten bearbeitet werden, ist in den Anhängen 2 und 3 aufgeführt. 4 Die Daten werden von der KD und von den schweizerischen diplomatischen und konsularischen Vertretungen im Ausland (Vertretungen) erfasst. Daten nach Anhang 2 Ziffern 1–10 und Anhang 3 Ziffern 1–6, die Personen betreffen, die im Informationssystem E-VERA (E-VERA) eingetragen sind, werden in einem automatisierten Verfahren aus E-VERA übernommen. Fassung gemäss Art. 17 Ziff. 1 der Verordnung E-VERA vom 17. Aug. 2016, in Kraft seit 1. Sept. 2016 ( AS 2016 2933 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "7",
+      "title": "Krisen und Katastrophen",
+      "content": "1 Im Bereich «Krisen und Katastrophen» werden Daten bearbeitet von Personen nach Artikel 4 Absätze 1 und 2 Buchstaben a und b des Gesetzes, die von einer Krise oder Katastrophe betroffen sind. 2 Welche Daten bearbeitet werden, ist in Anhang 4 aufgeführt. 3 Die Daten werden von der KD und von den Vertretungen erfasst. Daten nach Anhang 4 Ziffern 1–10, welche Personen betreffen, die in E-VERA eingetragen sind, werden in einem automatisierten Verfahren aus E-VERA übernommen. Ausdruck gemäss Art. 17 Ziff. 1 der Verordnung E-VERA vom 17. Aug. 2016, in Kraft seit 1. Sept. 2016 ( AS 2016 2933 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "8",
+      "title": "Helpline",
+      "content": "1 Im Bereich «Helpline» werden Daten von Personen bearbeitet, die elektronisch, schriftlich oder telefonisch mit einem Anliegen an die KD oder an die Vertretungen gelangen. 2 Welche Daten bearbeitet werden, ist in Anhang 5 aufgeführt. 3 Die Daten werden von der KD und von den Vertretungen erfasst."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "9",
+      "title": "Konsularschutz",
+      "content": "1 Im Bereich «Konsularschutz» werden Daten bearbeitet von Personen nach Artikel 4 Absätze 1 und 2 Buchstabe a und b des Gesetzes, die im Rahmen des konsularischen Schutzes betreut werden. 2 Welche Daten bearbeitet werden, ist in Anhang 6 aufgeführt. 3 Die Daten werden von der KD und von den Vertretungen erfasst. Daten nach Anhang 6 Ziffern 1–10, welche Personen betreffen, die in E-VERA eingetragen sind, werden in einem automatisierten Verfahren aus E-VERA übernommen."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Bearbeitungsrechte",
+      "content": "1 Die KD und die Vertretungen haben das Recht, alle Daten in EDAssist+ zu bearbeiten. 2 Personen nach Artikel 5 haben das Recht, ihre Daten im Abrufverfahren zu bearbeiten. 3 Das Krisenmanagementzentrum des EDA hat zur Erfüllung seiner Aufgaben ein Leserecht für alle Daten in EDAssist+. Eingefügt durch Art. 17 Ziff. 1 der Verordnung E-VERA vom 17. Aug. 2016, in Kraft seit 1. Sept. 2016 ( AS 2016 2933 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Aufbewahrung, Archivierung und Vernichtung der Daten",
+      "content": "1 Die Daten nach Anhang 1 werden spätestens 30 Tage nach Ablauf der angegebenen Reisedauer vernichtet. 2 Die Daten nach den Anhängen 2–6 mit dem Status «deaktiviert» oder «archiviert» werden spätestens 5 Jahre nach dem letzten Zugriff vernichtet. 3 Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung des Bundes."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Systemverwaltung",
+      "content": "1 Die Systemadministratorinnen und -administratoren verwalten die Computersysteme, Datenbanken und Applikationen. Sie planen, installieren, konfigurieren und betreuen die technische Infrastruktur von EDAssist+. 2 Die oder der Anwendungsverantwortliche bildet die Schnittstelle zwischen den Systemadministratorinnen und ‑administratoren und den Benutzerinnen und Benutzern. Sie oder er stellt die Benutzerzufriedenheit sicher und führt Bedürfnisabklärungen für die Weiterentwicklung von EDAssist+ durch. Sie oder er gehört der KD an."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Erteilung der individuellen Zugriffsberechtigung",
+      "content": "1 Die oder der Anwendungsverantwortliche erteilt den Mitarbeiterinnen und Mitarbeitern der KD und der Vertretungen die individuelle Zugriffsberechtigung. 2 Sie oder er überprüft jährlich, ob die Voraussetzungen für die Zugriffsberechtigung weiterhin erfüllt sind."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "14",
+      "title": "Auskunfts- und Berichtigungsrecht",
+      "content": "1 Jede Person kann bei der KD schriftlich und unter Ausweisung ihrer Identität Auskunft über ihre Daten sowie die Berichtigung unrichtiger Daten verlangen. 2 Die Auskunft erfolgt schriftlich und kostenlos. 3 Die Auskunft kann nach Artikel 9 des Bundesgesetzes vom 19. Juni 1992 über den Datenschutz verweigert, eingeschränkt oder aufgeschoben werden. SR 235.1"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "15",
+      "title": "Sorgfaltspflichten",
+      "content": "1 Die KD sorgt dafür, dass die Daten vorschriftsgemäss bearbeitet werden. 2 Sie stellt sicher, dass die Daten in EDAssist+ richtig, vollständig und nachgeführt sind; ausgenommen sind die Daten im Bereich «Online-Registrierung»."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "16",
+      "title": "Daten- und Informatiksicherheit",
+      "content": "1 Die Daten- und die Informatiksicherheit richten sich nach: a. der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz; b. der Cyberrisikenverordnung vom 27. Mai 2020. 2 Die KD erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung. 3 Sie trifft organisatorische und technische Massnahmen gegen das unbefugte Bearbeiten sowie das Entwenden von Daten. SR 235.11 SR 120.73 Fassung gemäss Anhang Ziff. 13 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ( AS 2021 132 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "17",
+      "title": "Protokollierung",
+      "content": "Die Zugriffe und die Änderungen in EDAssist+ werden laufend protokolliert. Die Protokolle werden ein Jahr aufbewahrt."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "3. Abschnitt: Datenschutz und Informatiksicherheit",
+      "section": "18",
+      "title": "Aufsicht",
+      "content": "1 Die KD übt die Aufsicht über die Bearbeitung der Daten in EDAssist+ im Sinne dieser Verordnung aus. 2 Das EDA übt die Aufsicht über die Einhaltung des Datenschutzes und der Datensicherheit aus."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "19",
+      "title": "Änderung bisherigen Rechts",
+      "content": "... Die Änderung kann unter AS 2012 337 konsultiert werden."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "20",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Februar 2012 in Kraft."
+    }
+  ],
+  "definitions": []
+}

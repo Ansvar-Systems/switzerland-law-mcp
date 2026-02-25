@@ -1,0 +1,91 @@
+{
+  "id": "sr-732-114-5",
+  "type": "statute",
+  "title": "Verordnung des UVEK vom 16. April 2008 über die Methodik und die Randbedingungen zur Überprüfung der Kriterien für die vorläufige Ausserbetriebnahme von Kernkraftwerken",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/269/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt:",
+      "section": "1",
+      "title": "",
+      "content": "Diese Verordnung regelt die Methodik und die Randbedingungen zur Überprüfung der Kriterien gemäss Art. 44 Abs. 1 KEV. SR 732.11"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "2. Abschnitt: Kernkühlung",
+      "section": "2",
+      "title": "",
+      "content": "1 Der Inhaber der Betriebsbewilligung (Bewilligungsinhaber) hat die Kernkühlung unverzüglich zu überprüfen, wenn: a. er annehmen muss, dass das Kriterium nach Art. 44 Abs. 1 Bst. a KEV erfüllt ist; b. in seinem Kernkraftwerk Ereignisse oder Befunde eingetreten sind, die nach der internationalen Störfall-Bewertungsskala INES nach Anhang 6 Ziffer 2 der KEV der Stufe 1 oder höher zugeordnet werden; c. in einem anderen in- oder ausländischen Kernkraftwerk Ereignisse oder Befunde eingetreten sind, die nach der internationalen Störfall-Bewertungsskala INES nach Anhang 6 Ziffer 2 der KEV der Stufe 2 oder höher zugeordnet werden; d. die Aufsichtsbehörde nach Artikel 6 KEV dies anordnet. 2 Er teilt das Ergebnis der Überprüfung unverzüglich der Aufsichtsbehörde mit. 3 Die Aufsichtsbehörde wird beauftragt, die Anforderungen an die Überprüfung der Kernkühlung in Richtlinien zu regeln. Fassung gemäss Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 187 ). Fassung gemäss Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 187 ). Fassung gemäss Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 187 ). SR 732.11 Eingefügt durch Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 187 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Kernkühlung",
+      "section": "3",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V des UVEK vom 7. Dez. 2018, mit Wirkung seit 1. Febr. 2019 ( AS 2019 187 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "3. Abschnitt: Integrität des Primärkreislaufs",
+      "section": "4",
+      "title": "Versprödung des Reaktordruckbehälters",
+      "content": "1 Der Bewilligungsinhaber hat die aktuelle justierte Sprödbruch-Referenztemperatur und die aktuelle Hochlagenenergie des Reaktordruckbehältermaterials aus Kerbschlagbiegeversuchen oder bruchmechanischen Versuchen periodisch zu bestimmen. 2 Als anerkannte Regeln der Technik zur Bestimmung der aktuellen justierten Sprödbruch-Referenztemperatur und der aktuellen Hochlagenenergie aus Kerbschlagbiegeversuchen oder bruchmechanischen Versuchen gelten die Normen der USNRC. 3 Der Bewilligungsinhaber hat das Kernkraftwerk unverzüglich vorläufig ausser Betrieb zu nehmen, wenn: a. die aktuelle justierte Sprödbruch-Referenztemperatur von der Innenwand in einer Tiefe von einem Viertel der Wanddicke den Wert von 93 °C erreicht; oder b. die aktuelle Hochlagenenergie aus Kerbschlagbiegeversuchen unter 68 Joule absinkt. United States Nuclear Regulatory Commission: Regulatory Guide 1.99 Rev. 2."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Integrität des Primärkreislaufs",
+      "section": "5",
+      "title": "Risse im Primärkreislauf",
+      "content": "1 Der Bewilligungsinhaber hat die druckführenden mechanischen Ausrüstungen der Sicherheitsklasse 1 nach Anhang 4 Ziffer 3.1 Buchstabe a KEV mit Ausnahme der Rohrleitungen mit Nennweiten kleiner oder gleich 25 mm periodisch auf Risse und laufend auf Leckagen zu prüfen. 2 Er hat das Kernkraftwerk unverzüglich vorläufig ausser Betrieb zu nehmen, wenn wanddurchdringende Risse festgestellt werden. Fassung gemäss Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 187 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Integrität des Primärkreislaufs",
+      "section": "6",
+      "title": "Wandstärken des Primärkreislaufs",
+      "content": "1 Der Bewilligungsinhaber hat die druckführenden mechanischen Ausrüstungen der Sicherheitsklasse 1 nach Anhang 4 Ziffer 3.1 Buchstabe a KEV mit Ausnahme der Rohrleitungen mit Nennweiten kleiner oder gleich 25 mm periodisch auf Wandstärkenabnahme zu prüfen. 2 Als anerkannte Regeln der Technik zur Bestimmung der Mindestwandstärke gelten die Normen des ASME-Codes. 3 Der Bewilligungsinhaber hat das Kernkraftwerk unverzüglich vorläufig ausser Betrieb zu nehmen, wenn die rechnerische Mindestwandstärke für den Auslegungsdruck unterschritten wird (ohne Zuschläge, Sicherheitsfaktor gleich 1.0). American Society of Mechanical Engineers, Boiler and Pressure Vessel Code, ASME III, Subsection NB, NB‑3640, Ausgabe 2004."
+    },
+    {
+      "provision_ref": "art6a",
+      "chapter": "3. Abschnitt: Integrität des Primärkreislaufs",
+      "section": "6a",
+      "title": "a Unverzügliche Überprüfung des Primärkreislaufs",
+      "content": "Die Bestimmung nach Artikel 4 und die Prüfungen nach den Artikeln 5 und 6 sind unverzüglich durchzuführen, wenn Ereignisse oder Befunde vorliegen oder auf Anordnung der Aufsichtsbehörde. Eingefügt durch Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 187 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "4. Abschnitt: Integrität des Containments",
+      "section": "7",
+      "title": "Wandstärke der Stahldruckschale",
+      "content": "1 Der Bewilligungsinhaber hat die Stahldruckschale periodisch auf Wandstärkenabnahme hin zu prüfen. 2 Als anerkannte Regeln der Technik zur Bestimmung der Mindestwandstärke der Stahldruckschale gelten die Normen des ASME-Codes. 3 Der Bewilligungsinhaber hat das Kernkraftwerk unverzüglich vorläufig ausser Betrieb zu nehmen, wenn die rechnerische Mindestwandstärke für den Auslegungsdruck unterschritten wird (ohne Zuschläge, Sicherheitsfaktor gleich 1.0). American Society of Mechanical Engineers, Boiler and Pressure Vessel Code, ASME III, Subsection NE, NE‑3320, Ausgabe 2004."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "4. Abschnitt: Integrität des Containments",
+      "section": "8",
+      "title": "Risse und Abplatzungen der Betonhülle",
+      "content": "1 Der Bewilligungsinhaber hat den Zustand der Betonhülle des Containments periodisch zu prüfen. 2 Er hat das Kernkraftwerk unverzüglich vorläufig ausser Betrieb zu nehmen, wenn d urch Risse von mehr als 0,5 mm Breite und durch Abplatzungen: a. mehr als 20 % der Betonoberfläche beschädigt sind; oder b. im Bereich von vorgespannten Bauteilen mehr als 10 % der Betonoberfläche beschädigt sind."
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "4. Abschnitt: Integrität des Containments",
+      "section": "8a",
+      "title": "a Unverzügliche Überprüfung des Containments",
+      "content": "Die Prüfungen nach den Artikeln 7 und 8 sind unverzüglich durchzuführen, wenn Ereignisse oder Befunde vorliegen oder auf Anordnung der Aufsichtsbehörde. Eingefügt durch Ziff. I der V des UVEK vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ( AS 2019 187 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "5. Abschnitt: Inkrafttreten",
+      "section": "9",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. Mai 2008 in Kraft."
+    }
+  ],
+  "definitions": []
+}

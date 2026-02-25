@@ -1,0 +1,201 @@
+{
+  "id": "sr-142-206",
+  "type": "statute",
+  "title": "Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (EESV)",
+  "title_en": "Ordinance of 10 November 2021 on the Entry/Exit System (EESO)",
+  "short_name": "EESV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2021/734/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 Subject Matter and Definitions",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "This Ordinance governs: a. the list of data in the Entry/Exit System (EES), the bodies with rights of access thereto and the scope of rights of access in accordance with Regulation (EU) 2017/2226; b. the procedures for consulting and accessing EES data; c. access to EES data via the central access point for law enforcement; d. the correction, amendment and erasure of data; e. the rights of data subjects, data protection, data security and the supervision of data processing. Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 , last amended by OJ L 327, 9.12.2017, p. 20."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 Subject Matter and Definitions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "1 In this Ordinance: a. Schengen State means a State bound by one of the Schengen Association Agreements; b. Schengen external borders means borders established in accordance with Article 29 paragraph 1 of the Ordinance of 15 August 2018 on Entry and the Granting of Visas; c. third-country national means a national of a State that is neither a Member State of the European Union (EU) nor of the European Free Trade Association; d. terrorist offence means an offence under Annex 1 a of the N-SIS Ordinance of 8 March 2013; e. other serious offence means an offence under Annex 1 b of the N-SIS Ordinance. 2 The Schengen Association Agreements are listed in Annex 1. SR 142.204 SR 362.0"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 2 List of EES Data and Access Authorisations",
+      "section": "3",
+      "title": "",
+      "content": "The list of data in the EES, the bodies with rights of access thereto and the scope of the rights of access are set out in Annex 2."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 3 Procedure for Consulting and Accessing EES data",
+      "section": "4",
+      "title": "Consultation for checking visa applications and making visa decisions",
+      "content": "1 The EES shall be consulted directly via the national visa system (ORBIS) to check visa applications and to decide on such applications or to decide on the annulment, revocation or extension of a visa, using one or more of the following data: a. surname, first name, date of birth, gender, nationality (personal data); b. type and number of the travel document, code of the issuing State, expiry date (travel document data); c. number of the visa sticker, code of the issuing State (visa-related data); d. fingerprints, facial image (biometric data). 2 If the search produces a hit, the authorised body may request the data in categories I-VI in accordance with Annex 2."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 3 Procedure for Consulting and Accessing EES data",
+      "section": "5",
+      "title": "Consultation during checks at Schengen external borders or on Swiss territory",
+      "content": "1 The EES shall be consulted during checks on third-country nationals at the Schengen external borders or to verify the legal residence of third-country nationals on Swiss territory on the basis of one or more items of personal data or travel document data. 2 If the search produces a hit, the biometric data of the person concerned recorded live shall be compared with their stored biometric data. 3 If the comparison results in a match, the authorised body may consult the data in Categories I-VI in accordance with Annex 2. 4 If the search does not produce any hits or if the consulting body has doubts about the identity of the person concerned, the consulting body shall consult the EES for identification purposes."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 3 Procedure for Consulting and Accessing EES data",
+      "section": "6",
+      "title": "Collection and updating of data",
+      "content": "1 If consultation of the EES during checks on third-country nationals in accordance with Article 5 reveals that no personal EES dossier has yet been created for the person concerned, the consulting body may create one. 2 If consultation reveals that the time of entry into or exit from the Schengen area or the refusal of entry was not recorded in the EES for the person concerned, the consulting body may record this. 3 If consultation reveals that data on the person concerned has already been recorded in the EES, the consulting body may update this data. Erratum of 13 Sept. 2023, concerns only the Italian text ( AS 2023 508 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 3 Procedure for Consulting and Accessing EES data",
+      "section": "7",
+      "title": "Consultation for identification purposes",
+      "content": "1 Consultation of the EES in order to identify third-country nationals who may already have been registered under a different identity or who do not or who no longer fulfil the requirements for entry to or residence in the Schengen area shall carried out using the biometric data recorded live. 2 If the search produces a hit, the authorised body may consult the data in categories I-VI in accordance with Annex 2."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Consultation of the automated calculator",
+      "content": "(Art. 103 c para. 3 FNIA) 1 The authorised bodies may consult the automated calculator online in order to determine whether the third-country national concerned has exceeded the authorised period of stay in the Schengen area. 2 The calculator provides the data for category VI in accordance with Annex 2."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Access to the list generated by the information mechanism",
+      "content": "(Art. 103 f let. j FNIA) 1 The following SEM bodies may access the list of third-country nationals who have exceeded the authorised period of stay in the Schengen area generated by the information mechanism in accordance with Article 12 of Regulation (EU) 2017/2226: a. the Planning and Resources Directorate: to compile statistics; b. the Immigration and Integration Directorate: to fulfil their tasks in relation to visas, travel documents and identification. 2 The list contains the data of categories I, II, V and VI according to Annex 2. See footnote to Art. 1 let. a."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 4 Access to EES Data via the Central Access Point for Security and Law Enforcement",
+      "section": "10",
+      "title": "Authorised entities",
+      "content": "(Art. 103 c para. 4 FNIA) 1 The following federal bodies in accordance with Article 103 c paragraph 4 letters a-c FNIA may request EES data from the fedpol Operations and Alarm Centre (OAC fedpol) for the prevention, detection or investigation of terrorist offences or other serious criminal offences within the scope of their statutory duties: a. at fedpol: 1. the Directorate of Federal Criminal Police, 2. the Directorate of International Police Cooperation; b. at the Federal Intelligence Service: 1. the Procurement Section, 2. the Evaluation Section, 3. Counter Terrorism Coordination, 4. Intelligence Service Coordination, 5. Counter Extremism Coordination, 6. Non-Proliferation Coordination, 7. the Aliens Service Division; c. at the Office of the Attorney General of Switzerland: 1. the Judgment Enforcement Unit: for the enforcement of decisions by the federal criminal justice authorities where the cantons do not have jurisdiction, in particular in application of Article 82 paragraph 1 of the Ordinance of 24 October 2007 on Admission, Period of Stay and Employment, 2. the divisions for state security and criminal organisations, white-collar crime, mutual legal assistance, terrorism, international criminal law and cybercrime in Bern and in the branches in Lausanne, Lugano and Zurich: for the investigation and prosecution of criminal offences that are subject to federal jurisdiction under Articles 23 and 24 of the Criminal Procedure Code or specific federal primary legislation. 2 The police and prosecution authorities of the cantons in accordance with Article 103 c paragraph 4 letter d FNIA may request EES data from the OAC fedpol for the prevention, detection or investigation of terrorist offences or other serious criminal offences within the scope of their statutory duties. SR 142.201 SR 312.0"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 4 Access to EES Data via the Central Access Point for Security and Law Enforcement",
+      "section": "11",
+      "title": "Procedure for obtaining the data",
+      "content": "(Art. 103 f let. b FNIA) In order to obtain EES data, the authorised agencies must submit a request to the OAC fedpol stating the reasons therefor."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 4 Access to EES Data via the Central Access Point for Security and Law Enforcement",
+      "section": "12",
+      "title": "Conditions for obtaining the data",
+      "content": "(Art. 103 f let. b and h FNIA) 1 The conditions for obtaining the data are that: a. the requested data are required: 1. to identify previous journeys and stays on the territory of any Schengen States by known persons who are suspected of terrorist offences or other serious criminal offences, have committed such offences or are suspected victims of such offences, or 2. to identify unknown persons who are suspected of terrorist offences or other serious criminal offences, have committed such offences or are suspected victims of such offences; b. the disclosure of data is proportionate; and c. there is evidence or reason to believe that the disclosure of the data will contribute to the fulfilment of the purpose pursued. 2 The OAC fedpol shall check whether the requirements are met before disclosing the data. 3 The receipt of data for the identification of unknown persons in accordance with paragraph 1 letter a number 2 additionally requires that the authorities authorised to access the data have searched the Automated Fingerprint Identification System (AFIS) in accordance with the Ordinance of 6 December 2013 on the Processing of Biometric Identification Data. 4 No prior search of the AFIS is required in cases where: a. a search appears to be futile from the outset; or b. an imminent threat to life must be averted in connection with a terrorist offence or other serious criminal offence. SR 361.3"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Procedure in urgent cases",
+      "content": "In urgent cases in which an imminent threat to life must be averted in connection with a terrorist offence or other serious criminal offence, the OAC fedpol shall process the application without delay and subsequently check whether the requirements of Article 12 were met and whether the case was indeed urgent."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Retrieval and transmission of data",
+      "content": "(Art. 103 f let. b FNIA) 1 If the conditions for obtaining the data are met, the OAC fedpol shall request the data from the EES. 2 For the purpose referred to in Article 12 paragraph 1 letter a number 1, the search shall be based on personal data, travel document data, visa-related data or biometric data. If the search results in one or more hits, the OAC fedpol may transmit the data in categories I-VI in accordance with Annex 2 to the requesting authority. 3 For the purpose set out in Article 12 paragraph 1 letter a number 2, the search shall be based on biometric data. If the search results in a hit, the OAC fedpol may transmit the category I data in accordance with Annex 2 to the requesting authority."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Exchange of information with EU Member States that do not apply Regulation (EU) 2017/2226",
+      "content": "(Art. 103 c para. 4, 103 e and 103 f let. i FNIA) 1 The EU Member States referred to in Article 103 e FNIA may address their requests to obtain the data to the authorities authorised to access the data in accordance with Article 10. 2 The procedure, conditions for obtaining the data, and the retrieval and transmission of the data are governed by Articles 11-14 mutatis mutandis ."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 5 Correction, Completion and Erasure of Data",
+      "section": "16",
+      "title": "Erasure of data of third-country nationals who are no longer subject to the EES",
+      "content": "(Art. 103 f let. d FNIA) The data in categories I-VI according to Annex 2 of third-country nationals who are no longer subject to the EES shall be deleted by SEM as soon as the person concerned: a. has submitted an application for asylum in Switzerland; b. has obtained a visa for a longer-term stay in Switzerland; c. holds a residence permit in Switzerland; or d. has acquired Swiss citizenship."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 5 Correction, Completion and Erasure of Data",
+      "section": "17",
+      "title": "Correction, completion or erasure of data from the information mechanism",
+      "content": "(Art. 103 f let. d FNIA) On request, SEM shall correct, complete or delete data of third-country nationals who are reported by the information mechanism if the person making the request can prove that: a. they were forced by unforeseeable, serious events to exceed the duration of their authorised stay in the Schengen area; b. they are now authorised to stay in the Schengen area."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 6 Rights of Data Subjects, Data Protection, Data Security and Supervision of Data Processing",
+      "section": "18",
+      "title": "Right of data subjects to information about the data",
+      "content": "1 The right to information is governed by the Data Protection Act of 25 September 2020. 2 SEM processes the requests for information. SR 235.1 Amended by Annex 2 No II 5 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 6 Rights of Data Subjects, Data Protection, Data Security and Supervision of Data Processing",
+      "section": "19",
+      "title": "Right of data subjects to rectification, completion or erasure of data",
+      "content": "(Art. 103 f let. d FNIA) 1 The procedure for exercising the right to rectify, complete or erase data in the EES is governed by Article 52 of Regulation (EU) 2017/2226. 2 SEM processes requests to correct, complete or delete data. See footnote to Art. 1 let. a."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 6 Rights of Data Subjects, Data Protection, Data Security and Supervision of Data Processing",
+      "section": "20",
+      "title": "Data security",
+      "content": "(Art. 103 f let. e FNIA) 1 For authorised entities, data security is governed by Article 43 of Regulation (EU) 2017/2226. They shall take the required measures to ensure data security. 2 Data security for the federal authorities is also governed by: a. the Data Protection Ordinance of 31 August 2022; b. the Information Security Ordinance of 8 November 2023. See footnote to Art. 1 let. a. Amended by Annex 2 No II 5 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ( AS 2022 568 ). SR 235.11 Amended by Annex 2 No II 3 of the Information Security Ordinance of 8 Nov. 2023, in force since 1 Jan. 2024 ( AS 2023 735 ). SR 128.1"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 6 Rights of Data Subjects, Data Protection, Data Security and Supervision of Data Processing",
+      "section": "21",
+      "title": "Statistics",
+      "content": "1 SEM may compile statistics on the EES in cooperation with the Federal Statistical Office. 2 The rights of access for this purpose are set out in Annex 2. 3 The statistics must not allow any conclusions to be drawn about the persons concerned."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Responsibility for data processing",
+      "content": "(Art. 103 f let. g FNIA) SEM is the national authority pursuant to Article 39(1) of Regulation (EU) 2017/2226. It is responsible for performing the tasks defined therein. See footnote to Art. 1 let. a."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Supervision of data processing",
+      "content": "(Art. 103 f let. f FNIA) 1 The cantonal data protection authorities and the Federal Data Protection and Information Commissioner (FDPIC) shall work together within the scope of their respective responsibilities and coordinate the supervision of the processing of personal data. 2 In fulfilling its duties, the FDPIC shall work with the European Data Protection Supervisor, for whom the FDPIC is the national contact point. 3 It is the national supervisory authority in accordance with Article 55(2) of Regulation (EU) 2017/2226. It is responsible for the fulfilment of the tasks defined therein. See footnote to Art. 1 let. a."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 7 Commencement",
+      "section": "24",
+      "title": "",
+      "content": "This Ordinance comes into force on 1 May 2022."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Schengen State",
+      "definition": "Schengen State means a State bound by one of the Schengen Association Agreements;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Schengen external borders",
+      "definition": "Schengen external borders means borders established in accordance with Article 29 paragraph 1 of the Ordinance of 15 August 2018 on Entry and the Granting of Visas;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "third-country national",
+      "definition": "third-country national means a national of a State that is neither a Member State of the European Union (EU) nor of the European Free Trade Association;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "terrorist offence",
+      "definition": "terrorist offence means an offence under Annex 1 a of the N-SIS Ordinance of 8 March 2013;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "other serious offence",
+      "definition": "other serious offence means an offence under Annex 1 b of the N-SIS Ordinance.",
+      "source_provision": "art2"
+    }
+  ]
+}

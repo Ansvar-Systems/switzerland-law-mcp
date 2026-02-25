@@ -1,0 +1,405 @@
+{
+  "id": "sr-952-031-11",
+  "type": "statute",
+  "title": "Verordnung der FINMA über das Handels- und das Bankenbuch sowie die anrechenbaren Eigenmittel der Banken und Wertpapierhäuser (HBEV-FINMA)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2024/139/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Gegenstand",
+      "section": "1",
+      "title": "",
+      "content": "Diese Verordnung regelt das Handels- und das Bankenbuch sowie die anrechenbaren Eigenmittel."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Erstzuordnung und Umbuchung von Positionen",
+      "section": "2",
+      "title": "Anforderungen an Verfahren, Dokumentation und interne Kontrolle",
+      "content": "(Art. 5 Abs. 5 ERV) 1 Die Bank muss über klar definierte Grundsätze und Verfahren verfügen, die die korrekte Erstzuordnung und Umbuchung von Positionen zum Bankenbuch oder zum Handelsbuch nach den Artikeln 4 b –5 a ERV sicherstellen. Die Grundsätze und Verfahren müssen die Risikomanagementfähigkeiten und ‑vorgaben der Bank berücksichtigen und sind in Weisungen festzuhalten. 2 Die Einhaltung dieser Weisungen ist zu dokumentieren und laufend zu kontrollieren. 3 Wird die Einhaltung der Weisungen nicht im Rahmen der aufsichtsrechtlichen Prüfung geprüft, so ist sie jährlich zu überprüfen durch: a. die interne Revision oder, für Banken der Kategorien 4 und 5 nach Anhang 3 der Bankenverordnung vom 30. April 2014 (BankV), die die Voraussetzungen nach Artikel 83 Absatz 3 ERV erfüllen, durch eine andere interne Kontrollinstanz, sofern diese unabhängig ist; oder b. eine zur Prüfung nach Artikel 11 a Absatz 1 Buchstabe a der Revisionsaufsichtsverordnung vom 22. August 2007 zugelassene Prüfgesellschaft. 4 Die FINMA kann nach Ziffer 25.13 des Basler Mindeststandards zu risikobasierten Kapitalanforderungen (RBC) in der Fassung nach Anhang 1 ERV die entsprechende Dokumentation einverlangen. SR 952.02 SR 221.302.3"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Erstzuordnung und Umbuchung von Positionen",
+      "section": "3",
+      "title": "Abweichungsmöglichkeiten bei der Erstzuordnung",
+      "content": "(Art. 5 Abs. 3 und 4 ERV) 1 Bei der Erstzuordnung können Positionen in Abweichung von Artikel 5 Absatz 3 Buchstaben a–f ERV ausnahmsweise dem Bankenbuch statt dem Handelsbuch zugeordnet werden, sofern diese Positionen nicht zu einem der Zwecke nach Artikel 5 Absatz 2 ERV gehalten werden. 2 In Abweichung von Artikel 5 Absatz 3 Buchstabe g ERV können Kredit- und Aktienderivate, die zur Absicherung von Kredit- oder Aktienrisiken im Bankenbuch gehalten werden und durch Überdeckung zu einer Netto-Short-Kreditposition oder Netto-Short-Aktienposition im Bankenbuch führen, weiterhin im Bankenbuch gehalten werden. Bei der Berechnung der Mindesteigenmittel für Marktrisiken ist die Netto-Short-Kreditposition oder Netto-Short-Aktienposition jedoch in die Handelsbuchpositionen einzubeziehen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Erstzuordnung und Umbuchung von Positionen",
+      "section": "4",
+      "title": "Umbuchungen",
+      "content": "(Art. 5 a Abs. 2 ERV) 1 Positionen dürfen nicht vom Handelsbuch ins Bankenbuch oder umgekehrt umgebucht werden. 2 Als Umbuchung gilt auch der Verkauf einer Position vom Handelsbuch ans Bankenbuch oder umgekehrt. 3 Die Umbuchung ist ausnahmsweise zulässig, wenn ausserordentliche Umstände vorliegen, insbesondere bei einer Änderung der Rechnungslegungsstandards oder bei Aufgabe einer Geschäftstätigkeit im Handelsbereich. Nicht als ausserordentliche Umstände gelten Marktereignisse, Veränderungen der Liquidität von Instrumenten oder Änderungen des Haltezwecks einer Position. 4 Wird der Kauf einer neuen Position für das Bankenbuch von einer externen Gegenpartei oder der Verkauf einer bestehenden Position im Bankenbuch an eine externe Gegenpartei aus rein operativen Gründen und im Auftrag der entsprechenden Bankenbucheinheit über eine bankeigene Handelseinheit abgewickelt, so gilt dies nicht als Umbuchung vom Handels- ins Bankenbuch oder umgekehrt, falls die Position zu keinem Zeitpunkt dem Handelsgeschäft zugeordnet wird. 5 Wird eine Position aufgrund der Rechnungslegung neu dem Handelsgeschäft zugeordnet, so darf sie nach Artikel 5 Absatz 3 Buchstabe a ERV umgebucht werden."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Umbuchungsverfahren und Wirkung",
+      "content": "(Art. 5 a Abs. 2 ERV) 1 Umbuchungen müssen von der Geschäftsleitung der Bank bewilligt werden. Die Geschäftsleitung kann die Erteilung der Bewilligungen delegieren. Die Delegation sowie entsprechende Eskalationsverfahren sind in den internen Weisungen nach Artikel 7 Absatz 3 zu regeln. 2 Die Umbuchungen sind irreversibel, ausser die Eigenschaften der Position ändern sich."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Zuschläge auf die Mindesteigenmittel",
+      "content": "(Art. 5 a ERV) 1 Der Zuschlag nach Artikel 5 a Absatz 1 ERV ist im Zeitpunkt der Umbuchung zu berechnen. 2 Er darf über die Laufzeit der Position entsprechend reduziert werden, je näher das Fälligkeitsdatum oder das Ablaufdatum der Position rückt. Solche Reduktionen benötigen die Zustimmung der FINMA."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Dokumentations-, Berichterstattungs- und Offenlegungspflichten in Bezug auf abweichende Erstzuordnungen und Umbuchungen",
+      "section": "7",
+      "title": "Dokumentationspflicht",
+      "content": "(Art. 5 Abs. 5 und 5 a Abs. 2 ERV) 1 Abweichende Erstzuordnungen nach Artikel 3 und Umbuchungen nach Artikel 4 müssen einzeln dokumentiert werden. 2 Die Bank muss über Grundsätze und Verfahren für abweichende Erstzuordnungen und Umbuchungen verfügen. Diese Grundsätze und Verfahren sind in Weisungen festzuhalten, die den Anforderungen an die Weisungen nach Artikel 2 unterliegen. 3 Diese Weisungen zu abweichenden Erstzuordnungen und Umbuchungen und jegliche Änderungen davon müssen: a. für Banken der Kategorien 1 und 2 nach Anhang 3 BankV vor ihrem Erlass durch die FINMA bewilligt werden; b. von Banken der Kategorie 3 nach Anhang 3 BankV der FINMA zur Kenntnis gebracht werden; c. von Banken der Kategorien 4 und 5 nach Anhang 3 BankV der FINMA auf Verlangen zur Kenntnis gebracht werden. SR 952.02"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Dokumentations-, Berichterstattungs- und Offenlegungspflichten in Bezug auf abweichende Erstzuordnungen und Umbuchungen",
+      "section": "8",
+      "title": "Berichterstattungspflicht",
+      "content": "(Art. 5 Abs. 5 und 5 a Abs. 2 ERV) 1 Alle abweichenden Erstzuordnungen nach Artikel 3 und alle Umbuchungen nach Artikel 4 müssen in einem Bericht festgehalten werden. Anzugeben sind insbesondere Zeitpunkt, Wesentlichkeit, Instrument und Begründung. 2 Im Bericht ist darzustellen, ob eine Umbuchung zum Zeitpunkt, in dem sie getätigt wurde, zu einer Reduktion der Mindesteigenmittel führte und wie der entsprechende Zuschlag auf die Mindesteigenmittel nach Artikel 5 a Absatz 1 ERV berechnet wurde. 3 Der Bericht ist zu erstellen: a. quartalsweise von Banken der Kategorien 1 und 2 nach Anhang 3 BankV; b. jährlich von Banken der Kategorien 3, 4 und 5 nach Anhang 3 BankV. 4 Banken der Kategorien 1, 2 und 3 müssen den Bericht der FINMA einreichen. SR 952.02"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Dokumentations-, Berichterstattungs- und Offenlegungspflichten in Bezug auf abweichende Erstzuordnungen und Umbuchungen",
+      "section": "9",
+      "title": "Offenlegungspflicht",
+      "content": "(Art. 5 Abs. 5 und 5 a Abs. 2 ERV) Die Offenlegungspflicht betreffend Umbuchungen und allfällige Zuschläge auf die Mindesteigenmittel richtet sich nach der Verordnung der FINMA vom 6. März 2024 über die Offenlegungspflichten der Banken und Wertpapierhäuser. SR 952.022.2"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Interner Risikotransfer",
+      "section": "10",
+      "title": "Begriff",
+      "content": "Als interner Risikotransfer gilt eine aufgrund einer internen schriftlichen Vereinbarung erfolgende Verschiebung von Risiken: a. innerhalb des Bankenbuchs; b. vom Bankenbuch ins Handelsbuch oder umgekehrt; c. innerhalb des Handelsbuchs zwischen verschiedenen Handelseinheiten im Handelsbuch (Handelsdesks)."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Interner Risikotransfer",
+      "section": "11",
+      "title": "Transfer vom Handelsbuch ins Bankenbuch",
+      "content": "Ein interner Risikotransfer vom Handelsbuch ins Bankenbuch ist zulässig, wird jedoch bei der Berechnung der Mindesteigenmittel nicht berücksichtigt."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Interner Risikotransfer",
+      "section": "12",
+      "title": "Transfer von Kredit- und Aktienpreisrisiken vom Bankenbuch ins Handelsbuch",
+      "content": "1 Bei der Berechnung der Mindesteigenmittel für das Bankenbuch kann ein interner Risikotransfer vom Bankenbuch ins Handelsbuch zur Absicherung von Kredit- und Aktienpreisrisiken des Bankenbuchs unter folgenden Voraussetzungen berücksichtigt werden: a. Die Bank hat von einer anerkannten Gegenpartei eine externe Absicherung im Handelsbuch gekauft, die die genau gleichen Eigenschaften aufweist wie die interne Absicherung, die für den internen Risikotransfer vom Handelsbuch ans Bankenbuch verkauft wurde, sodass die Risiken vollständig aufgehoben werden. b. Im Fall einer Kreditrisikoposition erfüllt die externe Absicherung die Anforderungen nach den Artikeln 67–75 der Verordnung der FINMA vom 6. März 2024 über die Kreditrisiken der Banken und Wertpapierhäuser; 2 Die externe Absicherung kann aus mehreren Positionen mit verschiedenen Gegenparteien bestehen, sofern die Summe der externen Absicherungen gleich gross ist wie die interne Absicherung. 3 Bei der Berechnung der Mindesteigenmittel für das Handelsbuch gilt Folgendes: a. Sind die Voraussetzungen nach Absatz 1 erfüllt, so werden sowohl die intern ans Bankenbuch verkaufte Absicherung als auch die extern gekaufte Absicherung berücksichtigt. b. Sind die Voraussetzungen nach Absatz 1 nicht erfüllt, so wird eine allfällige extern gekaufte Absicherung berücksichtigt, nicht aber die intern ans Bankenbuch verkaufte Absicherung. 4 Entsteht durch einen internen Risikotransfer eine Netto-Shortposition von Kredit- oder Aktienpreisrisiken im Bankenbuch, so gilt Artikel 3 Absatz 2. SR 952.033.21"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Interner Risikotransfer",
+      "section": "13",
+      "title": "Transfer von allgemeinen Zinsrisiken vom Bankenbuch ins Handelsbuch",
+      "content": "1 Bei der Berechnung der Mindesteigenmittel für das Handelsbuch kann ein interner Risikotransfer vom Bankenbuch ins Handelsbuch zur Absicherung von allgemeinen Zinsrisiken des Bankenbuchs berücksichtigt werden, wenn einer der beiden folgenden Fälle vorliegt: a. Die Bank hat von einer anerkannten Gegenpartei eine externe Absicherung im Handelsbuch gekauft, die die genau gleichen Eigenschaften aufweist wie die interne Absicherung, die für den internen Risikotransfer vom Handelsbuch ans Bankenbuch verkauft wurde, sodass die Risiken vollständig aufgehoben werden. b. Die Bank verfügt über ein Handelsdesk, das nur für den internen Risikotransfer von allgemeinen Zinsrisiken aus dem Bankenbuch ins Handelsbuch eingesetzt wird ( internal risk transfer desk , IRT-Desk). 2 Die Mindesteigenmittel für das IRT-Desk müssen getrennt von allen anderen Handelsbuchpositionen berechnet werden und es sind folgende Anforderungen zu erfüllen: a. Kauft das IRT-Desk für den internen Risikotransfer eine interne Absicherung von einem anderen Handelsdesk, so wird diese interne Absicherung bei der Berechnung der Mindesteigenmittel nur dann berücksichtigt, falls das andere Handelsdesk eine genau gleiche externe Absicherung von einer Gegenpartei kauft, sodass die Risiken vollständig aufgehoben werden. b. Kauft das IRT-Desk eine Absicherung direkt von einer externen Gegenpartei, so wird diese externe Absicherung bei der Berechnung der Mindesteigenmittel des IRT-Desk berücksichtigt. 3 Die externe Absicherung nach Absatz 1 Buchstabe a oder Absatz 2 Buchstabe a kann aus mehreren Positionen mit verschiedenen Gegenparteien bestehen, sofern die Summe der externen Absicherungen gleich gross ist wie die interne Absicherung. 4 Wird der interne Risikotransfer vom Bankenbuch ins Handelsbuch nach den Absätzen 1 und 2 bei der Berechnung der Mindesteigenmittel berücksichtigt, so ist die zugehörige interne Absicherung bei der Berechnung der Zinsrisiken im Bankenbuch ebenfalls zu berücksichtigen."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Transfer von einem Handelsdesk zu einem anderen Handelsdesk",
+      "content": "1 Interne Risikotransfers zwischen Handelsdesks innerhalb des Handelsbuchs sind bei der Berechnung der Mindesteigenmittel zu berücksichtigen. Handelt es sich bei einem dieser Handelsdesks um das IRT-Desk, so gelten die Einschränkungen nach Artikel 13 Absatz 2 Buchstabe a. 2 Absatz 1 gilt sinngemäss für interne Risikotransfers innerhalb des Handelsbuchs von aus dem Bankenbuch stammenden Währungs-, Goldpreis- und Rohstoffrisiken, die nach Artikel 81 a Absatz 2 ERV mit Mindesteigenmitteln für Marktrisiken zu unterlegen sind."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Dokumentations- und Bewilligungspflicht",
+      "content": "1 Die Banken müssen dokumentieren, welche Risiken mit einem internen Risikotransfer im Bankenbuch abgesichert werden. Für die Dokumentation, die Verfahren und die interne Kontrolle gelten die Anforderungen nach Artikel 2. 2 Verfügt eine Bank mit einer Bewilligung zur Anwendung des Marktrisiko-Modell-ansatzes über ein IRT-Desk, so muss sie dieses von der FINMA bewilligen lassen (Ziffer 25.25 RBC in der Fassung nach Anhang 1 ERV)."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Vorsichtige Bewertung",
+      "section": "16",
+      "title": "Grundsatz",
+      "content": "Die vorsichtige Bewertung der Positionen des Handelsbuchs und des Bankenbuchs nach Artikel 5 b ERV muss auf der Basis von Marktpreisen oder, wenn die Bewertung auf der Basis von Marktpreisen nicht möglich ist, auf der Basis von Modellpreisen erfolgen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Vorsichtige Bewertung",
+      "section": "17",
+      "title": "Generelle Anforderungen",
+      "content": "1 Die Bank muss fähig sein, auch in Stresszeiten eine vorsichtige und zuverlässige Bewertung sicherzustellen und alternative Bewertungsmethoden einzusetzen, wenn Marktpreise, Inputgrössen oder Ansätze für eine ordentliche Bewertung nicht mehr zur Verfügung stehen, insbesondere wegen Illiquidität oder Marktunterbrüchen. 2 Sie muss über Weisungen und dokumentierte Verfahren für den Bewertungsprozess verfügen, in denen sie insbesondere festlegt: a. wie der Bewertungsprozess ins Risikomanagementsystem integriert wird; b. wie die Notwendigkeit von Bewertungsanpassungen beurteilt wird und wie die Bewertungsanpassungen berechnet werden; c. wie Marktpreise oder Inputgrössen regelmässig und unabhängig vom Handel überprüft werden; d. die Verantwortlichkeiten der an der Bewertung beteiligten Stellen; e. die Quellen für die Marktinformationen und die Überprüfung von deren Eignung; f. die Vorschriften für den Einsatz von nicht beobachtbaren Inputgrössen; g. die Häufigkeit der Bewertung; h. den Zeitpunkt für die Erhebung von Tagesschlusspreisen; i. die Verfahren für Bewertungsanpassungen; j. die Monatsend- und Ad-hoc-Abstimmungsverfahren. 3 Sie muss sicherstellen, dass die für den Bewertungsprozess zuständige Organisationseinheit: a. vom Handel unabhängig ist; b. die Bewertung auf der Basis von Marktpreisen und die Bewertung auf der Basis von Modellpreisen mindestens monatlich überprüft; und c. bis zur Geschäftsleitungsebene über den Bewertungsprozess, die Bewertungen und deren Angemessenheit Bericht erstattet."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Vorsichtige Bewertung",
+      "section": "18",
+      "title": "Bewertung auf der Basis von Marktpreisen",
+      "content": "1 Für die vorsichtige Bewertung auf der Basis von Marktpreisen sind die Positionen auf der Grundlage einfach feststellbarer, aus neutralen Quellen bezogener Glattstellungspreise zu bewerten. 2 Als Glattstellungspreis für eine Long- oder Shortposition ist die jeweils vorsichtigere Seite der Geld-Brief-Spanne zu verwenden. Für Positionen, für welche die Bank ein bedeutender Market-Maker ist und die sie zu Mittelkursen glattstellen kann, können diese Mittelkurse verwendet werden. 3 Soweit möglich und sinnvoll, muss die Bewertung auf der Basis von beobachtbaren Inputgrössen erfolgen. Beobachtbare Inputgrössen aus Notverkäufen müssen ebenfalls angemessen berücksichtigt werden. 4 Die Bewertung muss mindestens täglich erfolgen, ausser ein Marktpreis ist ausnahmsweise nicht verfügbar."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Vorsichtige Bewertung",
+      "section": "19",
+      "title": "Bewertung auf der Basis von Modellpreisen: generelle Anforderungen",
+      "content": "1 Für die vorsichtige Bewertung auf der Basis von Modellpreisen sind die Positionen mithilfe eines Modells auf der Grundlage von Marktdaten zu bewerten. 2 Die Marktdaten müssen, soweit möglich, aus denselben Quellen bezogen werden wie die Marktpreise. Die Eignung der Marktdaten für die Bewertung der einzelnen Positionen ist regelmässig zu überprüfen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "4. Abschnitt: Vorsichtige Bewertung",
+      "section": "20",
+      "title": "Bewertung auf der Basis von Modellpreisen: Anforderungen ans Modell",
+      "content": "1 Soweit verfügbar, muss das Modell für jede einzelne Position allgemein anerkannte Bewertungsmethoden verwenden. 2 Handelt es sich um ein Modell, das von der Bank selbst entwickelt wurde, so muss es den folgenden Anforderungen genügen: a. Es basiert auf geeigneten Annahmen, die von angemessen qualifizierten, nicht an der Entwicklung des Modells beteiligten Dritten beurteilt und kritisch überprüft wurden. b. Es wurde unabhängig vom Handel entwickelt oder abgenommen, und die Modellannahmen sowie die technische Umsetzung des Modells wurden unabhängig vom Handel validiert. 3 Eine Sicherheitskopie des Modells ist aufzubewahren. Die Bewertungen sind periodisch anhand dieser Sicherheitskopie zu überprüfen. 4 Das Modell muss regelmässig auf die Angemessenheit seiner Annahmen und Ergebnisse überprüft werden."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Bewertung auf der Basis von Modellpreisen: Anforderungen an die Geschäftsleitung und ans Risikomanagement",
+      "content": "1 Wendet eine Bank die Bewertung auf der Basis von Modellpreisen an, so muss: a. die Geschäftsleitung wissen, für welche Positionen diese Bewertung vorgenommen wird, und das Ausmass der Unsicherheit kennen, die dadurch in der Berichterstattung über die Risiken eines Geschäfts und über dessen Beitrag zum Erfolg enthalten ist; b. das Risikomanagement die Schwächen des verwendeten Modells kennen und diese in den Bewertungsergebnissen bestmöglich berücksichtigen. 2 Die Bank muss ein Verfahren für die Kontrolle von Änderungen am Modell vorsehen."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Bewertungsanpassungen",
+      "content": "1 Mindestens in folgenden Fällen ist formell zu überprüfen, ob Bewertungsanpassungen vorzunehmen sind: a. bei noch nicht eingenommenen Kreditspreads; b. bei Glattstellungskosten; c. bei operationellen Risiken; d. bei vorzeitiger Tilgung; e. bei Geldanlage- und Refinanzierungskosten; f. bei zukünftigen Verwaltungskosten; g. bei Modellrisiken. 2 Bei wenig liquiden Positionen sind bei der Entscheidung, ob und in welcher Höhe Bewertungsanpassungen notwendig sind, zusätzlich insbesondere folgende Faktoren zu überprüfen: a. die Zeit, die notwendig ist, um eine Position zu verkaufen oder um eine Position oder deren Risiken abzusichern; b. die durchschnittliche Volatilität der Geld-Brief-Spannen; c. die Verfügbarkeit von unabhängigen Marktkursen; d. das Ausmass, in dem eine Bewertung auf der Basis von Modellpreisen vorgenommen wird. 3 Bei grossen Positionen und Altbeständen ist bei der Entscheidung, ob und in welcher Höhe Bewertungsanpassungen notwendig sind, zusätzlich das Risiko erhöhter Preisverluste bei Glattstellung zu berücksichtigen. 4 Bei komplexen Produkten, die auf der Basis von Modellpreisen bewertet werden, insbesondere bei Verbriefungen sowie bei Kreditausfallversicherungen, die nach Ausfall einer bestimmten Anzahl Gegenparteien zum Tragen kommen (N th -to-Default-Kreditderivate), sind bei der Entscheidung, ob und in welcher Höhe Bewertungsanpassungen notwendig sind, zusätzlich folgende Modellrisiken zu prüfen: a. fehlerhafte Bewertungsmethodik; b. nicht beobachtbare und fehlerhafte Kalibrierungsparameter im Bewertungsmodell. 5 Bewertungsanpassungen sind wenn möglich auf Stufe einzelner Positionen vorzunehmen."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Überprüfung der Bewertungsanpassungen, Weisungen",
+      "content": "1 Die Bank muss die Angemessenheit der vorgenommenen Bewertungsanpassungen laufend überprüfen. 2 Sie muss über Weisungen verfügen, welche die Voraussetzungen und die Verfahren für Bewertungsanpassungen regeln."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Bewertungen von Drittparteien",
+      "content": "Die Pflichten betreffend Bewertungsanpassungen nach den Artikeln 22 und 23 gelten auch für die von der Bank verwendeten Bewertungen von Drittparteien."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "25",
+      "title": "Nachweis der Zuordnung der Kapitalbestandteile",
+      "content": "Die Bank muss auf Verlangen der FINMA die korrekte Zuordnung ihrer Kapitalbestandteile nachweisen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "26",
+      "title": "Anrechnung von Beteiligungstiteln unterschiedlicher Qualität",
+      "content": "(Art. 20 Abs. 5 und 22 Abs. 1 bis ERV) 1 Beteiligungstitel unterschiedlicher Qualität können gleichzeitig als hartes Kernkapital ( Common Equity Tier 1 , CET1) angerechnet werden, wenn sie hinsichtlich Gewinn- und Verlustbeteiligung, einschliesslich der Behandlung im Fall einer Liquidation, gleichberechtigt sind. 2 Für Banken und Finanzgruppen, die unter der Aufsicht der FINMA stehen, die als Aktiengesellschaften organisiert sind und deren Stammaktien an einer Schweizer Börse oder einem gleichwertigen ausländischen regulierten Markt kotiert sind, ist Absatz 1 nicht anwendbar; es können nur die Stammaktien als hartes Kernkapital angerechnet werden. 3 Beteiligungstitel, die nicht als hartes Kernkapital angerechnet werden können, werden als zusätzliches Kernkapital ( Additional Tier 1 , AT1) oder als Ergänzungskapital ( Tier 2 Capital , T2) angerechnet, sofern sie die dafür massgebenden Voraussetzungen erfüllen."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "27",
+      "title": "Partizipationskapital",
+      "content": "(Art. 20 Abs. 5 und 23 ERV) 1 Gesellschaftskapital in der Form von Partizipationskapital wird nach Artikel 26 als Kapitalbestandteil angerechnet. 2 Partizipationskapital kann auch dann als zusätzliches Kernkapital angerechnet werden, wenn weder eine Wandlung in hartes Kernkapital noch eine Forderungsreduktion nach Artikel 27 Absatz 3 ERV in den Statuten vorgesehen ist. 3 Voraussetzung für die Anrechnung nach den Absätzen 1 und 2 ist eine Regelung in den Statuten der Bank, wonach das Tragen von Verlusten von Partizipationskapital im Zeitpunkt drohender Insolvenz ( Point of Non-viability , PONV) den Anforderungen nach Artikel 29 ERV entspricht, indem das Partizipationskapital jegliche Privilegierung gegenüber anderen Beteiligungstiteln im PONV unwiderruflich und entschädigungslos verliert."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "28",
+      "title": "Agio",
+      "content": "(Art. 20 Abs. 5 ERV) Fliessen bei Ausgabe von Gesellschaftskapital den gesetzlichen Reserven einer Bank ohne Einschränkung oder Zweckbestimmung Mittel über den Nominalwert hinaus zu (Agio), so gelten diese ungeachtet der Qualifizierung des konkreten Eigenkapitalinstruments als hartes Kernkapital."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "1. Abschnitt: Grundsätze",
+      "section": "29",
+      "title": "Gewinn des laufenden Geschäftsjahrs",
+      "content": "(Art. 21 Abs. 1 Bst. e ERV) 1 Der geschätzte Gewinnausschüttungsanteil bestimmt sich anhand der konkreten Umstände, insbesondere anhand der Ausschüttungspraxis der vergangenen Jahre oder der Planung der Bank. 2 Die Bank ist nicht verpflichtet, den vom Zwischengewinn in Abzug gebrachten Gewinnausschüttungsanteil später tatsächlich auszuschütten."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "2. Abschnitt: Minderheitsanteile am Kapital von konsolidierten Unternehmen",
+      "section": "30",
+      "title": "Voraussetzungen zur Anrechnung von Minderheitsanteilen am Kapital von konsolidierten Unternehmen als Eigenmittel",
+      "content": "(Art. 20 Abs. 5, 21 Abs. 2, 27 Abs. 4 bis und 6 sowie 30 Abs. 3 ERV) Die Bank kann Minderheitsanteile am Kapital von voll konsolidierten Unternehmen als Eigenmittel anrechnen, wenn: a. das voll konsolidierte Unternehmen eine Bank ist oder ein Unternehmen, das mit einer Bank vergleichbare Anforderungen erfüllen muss und das einer mit einer Bank vergleichbaren Aufsicht untersteht; und b. die Kapitalanteile: 1. bei der konsolidierenden Bank als anrechenbare Kapitalbestandteile gelten würden, wenn die Bank sie selbst ausgegeben hätte, 2. von Investoren gehalten werden, die weder mit der konsolidierenden Bank noch mit einer allfälligen Holding der Finanzgruppe noch mit einer sonstigen Gruppengesellschaft direkt oder indirekt verbunden sind, 3. in keiner Form direkt oder indirekt durch die konsolidierende Bank, die Holding der Finanzgruppe oder sonstige Gruppengesellschaften finanziert sind."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "2. Abschnitt: Minderheitsanteile am Kapital von konsolidierten Unternehmen",
+      "section": "31",
+      "title": "Begrenzung in der konsolidierten Anrechnung",
+      "content": "1 Minderheitsanteile können nur in dem Umfang konsolidiert als Eigenmittel angerechnet werden, in dem sie in den voll konsolidierten Unternehmen anteilmässig der Erfüllung der Eigenmittelanforderungen nach den Artikeln 41–45 a ERV mittels Unterlegung der nach Risiko gewichteten Positionen mit Eigenmitteln in den Kapitalqualitäten nach Artikel 42 c ERV dienen. 2 Nicht konsolidiert als Eigenmittel angerechnet werden können Minderheitsanteile, die die Eigenmittelanforderungen an die voll konsolidierten Unternehmen übersteigen. Diese Eigenmittelanforderungen berechnen sich pro Unternehmen wie folgt, wobei der tiefere Wert entscheidend ist: a. nach den lokal geltenden gesamten Eigenmittelanforderungen ans voll konsolidierte Unternehmen; b. nach den anteilig auf die Minderheitsanteile entfallenden erforderlichen Eigenmitteln nach den Artikeln 41–45 a ERV in den Qualitäten nach Artikel 42 c ERV. 3 Im Fall einer voll konsolidierten systemrelevanten Bank mit Sitz in der Schweiz berechnen sich die Eigenmittelanforderungen nach Absatz 2 Buchstaben a und b nach dem 5. Titel ERV ohne Berücksichtigung von dessen 4. Kapitel."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "2. Abschnitt: Minderheitsanteile am Kapital von konsolidierten Unternehmen",
+      "section": "32",
+      "title": "Emission von Eigenmitteln durch eine nichtoperative Zweckgesellschaft",
+      "content": "(Art. 27 Abs. 4 bis , 28 und 30 Abs. 4 ERV) Zusätzliches Kernkapital oder Ergänzungskapital, das durch eine nichtoperative Zweckgesellschaft ( Special Purpose Entity ) ausgegeben und gruppenintern weitergegeben wird, ist vollständig anrechenbar."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "3. Abschnitt: Eigenmittel von Banken öffentlichen Rechts und von Privatbankiers",
+      "section": "33",
+      "title": "Garantie zugunsten einer Bank öffentlichen Rechts",
+      "content": "(Art. 20 Abs. 5, 27 Abs. 4 bis und 30 Abs. 4 Bst. a ERV) Banken öffentlichen Rechts dürfen Garantien eines Gemeinwesens, insbesondere einer Gemeinde oder eines Kantons, nicht als Eigenmittel anrechnen."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "3. Abschnitt: Eigenmittel von Banken öffentlichen Rechts und von Privatbankiers",
+      "section": "34",
+      "title": "Dotationskapital",
+      "content": "(Art. 20 Abs. 5, 23 und 24 ERV) 1 Das Dotationskapital einer Bank öffentlichen Recht wird als hartes Kernkapital angerechnet, wenn: a. es der Bank unbefristet zur Verfügung gestellt wird oder die Voraussetzungen von Artikel 24 ERV erfüllt sind; b. es Verluste vorrangig trägt; und c. die Bank nicht zur Ausschüttung an den Eigner verpflichtet ist. 2 Als Ausschüttung gelten alle Formen der Abgeltung an den Eigner, unabhängig von ihrer Bezeichnung, mit Ausnahme einer angemessenen Entschädigung für eine allfällige Staatsgarantie."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "3. Abschnitt: Eigenmittel von Banken öffentlichen Rechts und von Privatbankiers",
+      "section": "35",
+      "title": "Privatbankiers",
+      "content": "(Art. 25 und 30 Abs. 4 ERV) 1 Bei Privatbankiers richtet sich die Anrechenbarkeit von Kapitalbestandteilen nach den Bestimmungen im Gesellschaftsvertrag über: a. die Gewinnbeteiligung; b. die Verlusttragung bei Fortführung des Geschäftsbetriebes; und c. einen allfälligen Anspruch auf das Liquidationsergebnis. 2 Die unbeschränkte Haftung von Gesellschafterinnen und Gesellschaftern kann nicht als Eigenmittel angerechnet werden. Sie darf hingegen abgegolten werden. 3 Kapital- und Kommanditeinlage dürfen beide gleichzeitig als hartes Kernkapital angerechnet werden, wenn: a. die Verlusttragung im gleichen Zeitpunkt und im Verhältnis zur Einlage erfolgt; b. der Anspruch auf das Ergebnis einer allfälligen Liquidation anteilig ist; und c. ein Unterschied in der Gewinnbeteiligung von Gesellschafterinnen und Gesellschaftern untereinander ausschliesslich auf eine allfällige Abgeltung der unbeschränkten Haftung und nicht auf eine unterschiedliche Behandlung der Kapitalbestandteile zurückzuführen ist. 4 Sind nur die Voraussetzungen nach Absatz 3 Buchstaben b und c erfüllt, so wird nur der vorrangig verlusttragende Kapitalbestandteil als hartes Kernkapital angerechnet. Die Anrechenbarkeit des nachrangig verlusttragenden Kapitalbestandteils als zusätzliches Kernkapital oder als Ergänzungskapital ist im Einzelfall und unter Berücksichtigung der gesamten Umstände zu beurteilen. 5 Ist eine Kapital- oder Kommanditeinlage der Bank zeitlich befristet zur Verfügung gestellt oder besteht gemäss Gesellschaftsvertrag ein Anspruch auf eine Ausschüttung unabhängig vom Betriebsergebnis der Bank, so kann eine solche Einlage höchstens als Ergänzungskapital angerechnet werden."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "4. Abschnitt: Kapitalinstrumente ausserhalb des harten Kernkapitals",
+      "section": "36",
+      "title": "Umfang der Verlusttragung bei Eintritt des Triggers",
+      "content": "(Art. 27 ERV) Die Forderungsreduktion oder die Wandlung nach Artikel 27 Absatz 3 ERV betreffend ein Schuldinstrument des zusätzlichen Kernkapitals muss bis zur Höhe des vollständigen Nominalwerts möglich sein."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "4. Abschnitt: Kapitalinstrumente ausserhalb des harten Kernkapitals",
+      "section": "37",
+      "title": "Kapitalinstrumente in der Finanzgruppe",
+      "content": "(Art. 27 Abs. 4 bis , 28 und 30 Abs. 4 ERV) 1 Gibt eine schweizerische Bank zusätzliches Kernkapital oder Ergänzungskapital über ein prudenziell beaufsichtigtes voll konsolidiertes Unternehmen im Ausland aus und werden diese Mittel über ein gruppeninternes Kapitalinstrument an eine inländische Konzerneinheit weitergegeben, so entscheidet die FINMA über die konsolidierte Anrechnung dieser Mittel. Sie berücksichtigt dabei die Vorgaben des Sitzstaates des voll konsolidierten Unternehmens betreffend den PONV. 2 Sehen die im Ausland ausgegebenen Kapitalinstrumente nach Absatz 1 im PONV die Wandlung in hartes Kernkapital vor, so muss die Bank im Rahmen der vertraglichen Bestimmungen sicherstellen, dass die Wirkung eines PONV beim gruppeninternen Kapitalinstrument dazu nicht im Widerspruch steht. 3 Kapitalinstrumente, die durch eine nichtoperative Zweckgesellschaft ausgegeben wurden, dürfen nur dann nach den Artikeln 28 und 30 Absatz 3 ERV konsolidiert angerechnet werden, wenn beim gruppeninternen Kapitalinstrument ebenso vertraglich eine Bestimmung über den PONV vorgesehen ist."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "4. Abschnitt: Kapitalinstrumente ausserhalb des harten Kernkapitals",
+      "section": "38",
+      "title": "Hilfeleistung der öffentlichen Hand",
+      "content": "(Art. 27 Abs. 4 bis und 29 Abs. 2 Bst. a ERV) Nicht als Hilfeleistung der öffentlichen Hand nach Artikel 29 Absatz 2 Buchstabe a ERV gelten: a. Handlungen der öffentlichen Hand, die überwiegend kommerziellen Charakter haben und die auch eine Drittpartei hätte vornehmen können; b. Handlungen des Gemeinwesens als Eigentümer einer Bank, die ein Dritteigentümer in einer vergleichbaren Situation ebenfalls zur Verbesserung der finanziellen Lage einer Bank unternehmen würde."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "4. Abschnitt: Kapitalinstrumente ausserhalb des harten Kernkapitals",
+      "section": "39",
+      "title": "Wertberichtigungen und Rückstellungen: nach dem SA-BIZ und der RelV-FINMA",
+      "content": "(Art. 30 Abs. 4 und 50 Abs. 1 Bst. a ERV) 1 Bei Positionen, die nach dem internationalen Standardansatz für Kreditrisiken (SA‑BIZ) (Art. 50 Abs. 1 Bst. a ERV) behandelt werden, können Wertberichtigungen auf nicht gefährdeten Positionen nach Artikel 25 der Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 (RelV-FINMA) und Rückstellungen nach Artikel 28 Absatz 6 RelV-FINMA: a. als Ergänzungskapital angerechnet werden; oder b. mit den entsprechenden Aktiv- oder Ausserbilanzpositionen vor der Risikogewichtung verrechnet werden. 2 Die Anrechnung als Ergänzungskapital ist möglich bis zu höchstens 1,25 Prozent der nach den Kreditrisiken gewichteten Positionen nach Artikel 49 Absatz 1 ERV, ausgenommen Positionen nach dessen Buchstabe e. 3 Die Verrechnung nach Absatz 1 Buchstabe b muss innerhalb der Positionsklassen nach Artikel 63 ERV erfolgen. 4 Kommen bei der Verrechnung innerhalb einer Positionsklasse unterschiedliche Risikogewichte zur Anwendung, so sind die Wertberichtigungen und Rückstellungen anteilmässig aufzuteilen. Die Anteile entsprechen je Risikogewicht dem Verhältnis der zugehörigen ungewichteten Positionen zum Total aller ungewichteten Positionen der Positionsklasse. 5 Die verrechneten Wertberichtigungen und Rückstellungen dürfen nicht als Ergänzungskapital angerechnet werden. SR 952.024.1"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Wertberichtigungen und Rückstellungen: nach dem SA-BIZ und internationalen Rechnungslegungsstandards",
+      "content": "(Art. 31 Abs. 3 ERV) 1 Banken, die einen anerkannten internationalen Rechnungslegungsstandard anwenden, müssen die gemäss dem jeweiligen Standard erfassten Wertberichtigungen und Rückstellungen für Ausfallrisiken sinngemäss nach Artikel 39 behandeln. 2 Die Wertberichtigungen und Rückstellungen der Stufen 1 und 2, die nach dem International Financial Reporting Standard 9 (IFRS 9) des International Accounting Standards Board in der jeweils geltenden Fassung ermittelt werden, können zur Deckung der Ausfallrisiken auf nicht gefährdeten Forderungen als Ergänzungskapital angerechnet werden. Der Standard kann im Internet gegen Bezahlung abgerufen werden unter: www.ifrs.org > Issued Accounting Standards > IFRS Accounting Standards Navigator."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Wertberichtigungen nach dem IRB",
+      "content": "(Art. 30 Abs. 4 ERV) 1 Banken, die den auf internen Ratings basierenden Ansatz ( Internal Ratings-based Approach, IRB) anwenden, können mit Zustimmung der FINMA einen allfälligen Überschuss an Wertberichtigungen vor Steuern als Ergänzungskapital anrechnen. 2 Ein Überschuss liegt vor, wenn die Wertberichtigungen nach Ziffer 35.4 des Basler Mindeststandards zur Berechnung der nach Risiko gewichteten Positionen für Kreditrisiken (CRE) in der Fassung nach Anhang 1 ERV die nach dem IRB berechneten erwarteten Verluste übersteigen. 3 Er kann höchstens im Umfang von 0,6 Prozent der Summe der nach dem IRB gewichteten Positionen angerechnet werden."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Als Ergänzungskapital anrechenbare Reserven",
+      "content": "(Art. 30 Abs. 4 Bst. c ERV) 1 Als Ergänzungskapital sind anrechenbar: a. stille Reserven in der Position Rückstellungen, sofern sie auf einem besonderen Konto ausgeschieden und als Eigenmittel gekennzeichnet werden; b. stille Reserven in den Positionen Beteiligungen und Sachanlagen; c. Reserven in den gemäss Niederstwertprinzip zu bilanzierenden Beteiligungstiteln und Obligationen in den Finanzanlagen. 2 Von den stillen Reserven nach Absatz 1 Buchstaben a und b müssen vor der Anrechnung die latenten Steuerverpflichtungen ( Deferred Tax Liabilities , DTL) abgezogen werden, sofern keine entsprechende Rückstellung für Steuerverpflichtungen gebildet wird. 3 Die Prüfgesellschaft muss die Anrechenbarkeit der Bestandteile nach Absatz 1 Buchstaben a und b als Ergänzungskapital in ihrem Bericht nach Artikel 9 der Finanzmarktprüfverordnung vom 5. November 2014 bestätigen. 4 Die Reserven nach Absatz 1 Buchstabe c können höchstens im Umfang von 45 Prozent des nicht realisierten Gewinns angerechnet werden. SR 956.161"
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Nachrangigkeit bei Kapitalinstrumenten von Kantonalbanken mit Staatsgarantie",
+      "content": "(Art. 27 Abs. 4 bis und 30 Abs. 4 Bst. a ERV) Kantonalbanken mit Staatsgarantie können ihnen gewährte nachrangige Darlehen nur dann als zusätzliches Kernkapital oder als Ergänzungskapital anrechnen, wenn die Deckung dieser Darlehen durch die Staatsgarantie im Rahmen der vertraglichen Bestimmungen oder von Gesetzes wegen ausdrücklich ausgeschlossen ist."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Kapitaleinlagen unbeschränkt haftender Gesellschafterinnen und Gesellschafter bei Privatbankiers",
+      "content": "(Art. 30 Abs. 4 Bst. b ERV) Bei Privatbankiers können Kapitaleinlagen unbeschränkt haftender Gesellschafterinnen und Gesellschafter, die den Anforderungen nach Artikel 25 ERV nicht genügen, als Ergänzungskapital angerechnet werden, wenn: a. sie die gemeinsamen Anforderungen an Eigenmittel nach Artikel 20 ERV erfüllen; und b. eine Auszahlung von Guthaben an Gesellschafterinnen und Gesellschafter durch die Bank nur zulässig ist, sofern die verbleibenden Eigenmittel den Anforderungen nach den Artikeln 41–47 e ERV genügen."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "5. Abschnitt: Korrekturen",
+      "section": "45",
+      "title": "Verrechnung latenter Steuerverpflichtungen",
+      "content": "(Art. 31 Abs. 2 sowie 32 Abs. 1 Bst. d und 2 ERV) 1 Die Verrechnung von DTL mit latenten Steueransprüchen ( Deferred Tax Assets , DTA) nach Artikel 32 Absatz 2 ERV ist nur möglich, soweit die DTL nicht bereits im Rahmen der Bestimmung des massgebenden Betrags eines Aktivums nach Artikel 31 Absatz 2 ERV berücksichtigt wurden. 2 DTL müssen vor einer Verrechnung den folgenden zwei DTA-Kategorien anteilsmässig zugewiesen werden, entsprechend den Anteilen der DTA an diesen Kategorien: a. DTA aufgrund zeitlicher Diskrepanzen, die den Abzügen nach Schwellenwerten nach Artikel 39 Absatz 1 Buchstabe b ERV unterliegen; und b. DTA im Zusammenhang mit operationellen Verlusten, die nach Artikel 32 Absatz 1 Buchstabe d ERV voll zum Abzug gelangen."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "5. Abschnitt: Korrekturen",
+      "section": "46",
+      "title": "Software",
+      "content": "Wird Software nach dem anwendbaren Rechnungslegungsstandard als immaterieller Wert behandelt, so ist ihr Wert nach Artikel 32 Absatz 1 Buchstabe c ERV vom harten Kernkapital abzuziehen."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "5. Abschnitt: Korrekturen",
+      "section": "47",
+      "title": "Forderungen gegenüber leistungsorientierten Einrichtungen der beruflichen Vorsorge",
+      "content": "1 Abweichend von Artikel 32 Absatz 1 Buchstabe f ERV muss die Bank Forderungen gegenüber leistungsorientierten Einrichtungen der beruflichen Vorsorge ( Defined Benefit Pension Fund Assets ) nicht vom harten Kernkapital abziehen, wenn sie jederzeit uneingeschränkte Verfügungsgewalt über das Aktivum hat. 2 Die uneingeschränkte Verfügungsgewalt ist insbesondere dann nicht gegeben, wenn die Bank für die Verfügung über das Aktivum die Zustimmung eines Organs der Einrichtung der beruflichen Vorsorge benötigt. 3 Nicht abziehen muss sie namentlich Kredite an eine Einrichtung der beruflichen Vorsorge die dieser keinen Anspruch auf Verrechnung einräumen, insbesondere keinen Anspruch auf Verrechnung mit Beitragsforderungen."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "5. Abschnitt: Korrekturen",
+      "section": "48",
+      "title": "Abzugsoptionen im Rahmen der Konsolidierungsbestimmungen",
+      "content": "Auf Abzüge nach Artikel 32 Absatz 1 Buchstabe i ERV, die die Bank gestützt auf eine in den Konsolidierungsbestimmungen vorgesehene Abzugsoption vornimmt, finden die Artikel 35–38 und 40 ERV keine Anwendung."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "5. Abschnitt: Korrekturen",
+      "section": "49",
+      "title": "Nettoposition",
+      "content": "Bei der Berechnung der Nettoposition nach den Artikeln 32 Absatz 1 Buchstabe g und 34 ERV in Verbindung mit Artikel 4 Absatz 1 Buchstabe f ERV muss die Bank bestimmen, ob zusätzlich zu den in Artikel 52 ERV aufgeführten Investitionsformen weitere vertragliche Verpflichtungen zum Erwerb eigener Eigenkapitalinstrumente bestehen, und gegebenenfalls solche Instrumente in die Berechnung einbeziehen."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "5. Abschnitt: Korrekturen",
+      "section": "50",
+      "title": "Abzug nach Schwellenwerten bei Eigenkapitalinstrumenten",
+      "content": "1 Als Eigenkapitalinstrument nach Artikel 33 Absatz 1 ERV gelten auch indirekt oder synthetisch gehaltene Eigenkapitalinstrumente. 2 Indirekt gehaltene die ihrerseits Eigenkapitalinstrumente eines Unternehmens des Finanzbereichs hält. 3 Synthetisch gehaltene Eigenkapitalinstrumente sind Finanzkontrakte, deren Wert unmittelbar mit dem Wert des Eigenkapitalinstruments eines Unternehmens des Finanzbereichs verbunden ist."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "6. Abschnitt: Besondere Bestimmungen für Banken mit anerkannten internationalen Rechnungslegungsstandards",
+      "section": "51",
+      "title": "Zusätzliche Korrekturen: Grundsatz",
+      "content": "Banken, die die Konzernrechnung nach einem anerkannten internationalen Rechnungslegungsstandard erstellen, müssen sich auf konsolidierter Stufe für die Berechnung der anrechenbaren Eigenmittel und der Mindesteigenmittel sowie für die Risikoverteilungsvorschriften auf den Abschluss nach dem verwendeten internationalen Standard abstützen. Massgebend ist die Konzernrechnung für den Konsolidierungskreis nach Artikel 7 ERV."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "6. Abschnitt: Besondere Bestimmungen für Banken mit anerkannten internationalen Rechnungslegungsstandards",
+      "section": "52",
+      "title": "Zusätzliche Korrekturen nach IFRS-Standard",
+      "content": "Banken, die die Konzernrechnung nach IFRS-Standard erstellen, müssen bei der Berechnung der anrechenbaren Eigenmittel und der Mindesteigenmittel folgende Korrekturen vornehmen: a. Abzug der positiven, in den Reserven und in den Minderheitsanteilen enthaltenen Bewertungsdifferenzen betreffend Beteiligungstitel, Instrumente mit Beteiligungscharakter, Schuldtitel und andere Aktiven, deren Bewertung zum Fair Value direkt die Eigenmittel beeinflusst ( Other Comprehensive Income , OCI); b. Abzug der nicht realisierten Gewinne und Hinzurechnung der nicht realisierten Verluste betreffend die zum Fair Value bewerteten Passiven des laufenden Jahres und der vorangegangenen Jahre aufgrund der über das OCI erfassten Veränderung der eigenen Kreditwürdigkeit; c. Abzug der erfolgswirksam erfassten positiven Bewertungsdifferenzen betreffend Renditeliegenschaften, die im Ergebnis des laufenden Jahres in den Reserven einschliesslich Gewinnvortrag und in den Minderheitsanteilen enthalten sind; d. Abzug der über das OCI erfassten positiven Bewertungsdifferenzen bei übrigen Sachanlagen, die in den Reserven und in den Minderheitsanteilen enthalten sind; e. Abzug der Gewinne und Hinzurechnung der Verluste aus der über das OCI erfassten Bewertung von Cashflow-Absicherungen ( Cash Flow Hedges ). Der Standard kann im Internet gegen Bezahlung abgerufen werden unter: www.ifrs.org > Issued Accounting Standards > IFRS Accounting Standards Navigator."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "6. Abschnitt: Besondere Bestimmungen für Banken mit anerkannten internationalen Rechnungslegungsstandards",
+      "section": "53",
+      "title": "Zusätzliche Korrekturen nach dem US-GAAP-Standard",
+      "content": "Für Banken, die die Konzernrechnung nach den «United States Generally Accepted Accounting Principles» (US-GAAP-Standard) des Financial Accounting Standards Board erstellen, gilt Artikel 52 sinngemäss. Der Standard kann im Internet kostenlos abgerufen werden unter: www.fasb.org > Standards > Accounting Standards Codification."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "6. Abschnitt: Besondere Bestimmungen für Banken mit anerkannten internationalen Rechnungslegungsstandards",
+      "section": "54",
+      "title": "Weitere Korrekturen",
+      "content": "1 Für weitere Korrekturen bedarf die Bank der Zustimmung der FINMA. Die FINMA kann zusätzliche Informationen verlangen, sofern dies zur Beurteilung der Angemessenheit dieser Korrekturen erforderlich ist. 2 Die FINMA kann zusätzliche Korrekturen verlangen, soweit dies aus aufsichtsrechtlicher Sicht angemessen ist, insbesondere bei starken periodischen Schwankungen der anrechenbaren Eigenmittel oder bei umfangreichen nicht realisierten Gewinnen."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "6. Abschnitt: Besondere Bestimmungen für Banken mit anerkannten internationalen Rechnungslegungsstandards",
+      "section": "55",
+      "title": "Meldung von Änderungen im US-GAAP-Abschluss",
+      "content": "Bei Änderung des US-GAAP-Standards oder der internen Verfahren zur Anwendung des Standards muss die Bank unverzüglich mit der FINMA Kontakt aufnehmen und ihr Informationen zu den auf Finanzinstrumente angewendeten Bewertungsprinzipien liefern. Die FINMA verfügt die allenfalls notwendigen Anpassungen der internen Verfahren und Bewertungsprinzipien."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Positionswerte bei der Berechnung der Mindesteigenmittel",
+      "content": "1 Werden nicht realisierte Netto-Gewinne von Aktiven nach Steuern vom harten Kernkapital abgezogen, so dürfen die Mindesteigenmittel für diese Aktiven auf deren Buchwert, abzüglich der nicht realisierten Brutto-Gewinne vor Steuern, berechnet werden. 2 Werden nicht realisierte Netto-Verluste von Aktiven nach Steuern zum harten Kernkapital hinzugerechnet, so sind die Mindesteigenmittel für diese Aktiven auf deren Buchwert, zuzüglich der nicht realisierten Brutto-Verluste vor Steuern, zu berechnen."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Basis des Einzelabschlusses für aufsichtsrechtliche Zwecke",
+      "content": "1 Die anrechenbaren Eigenmittel, die Mindesteigenmittel sowie die Positionen für die Risikoverteilung sind auf Stufe Einzelinstitut auf der Basis der statutarischen Jahresrechnung und der Zwischenabschlüsse nach dem 4. Kapitel 1. Abschnitt BankV zu berechnen. 2 Bei Vorliegen besonderer Umstände kann die Bank die anrechenbaren Eigenmittel, die Mindesteigenmittel sowie die Positionen für die Risikoverteilung mit Zustimmung der FINMA auf Stufe Einzelinstitut basierend auf einem anerkannten internationalen Standard berechnen. SR 952.02"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "4. Kapitel: Inkrafttreten",
+      "section": "58",
+      "title": "",
+      "content": "Diese Verordnung tritt am 1. Januar 2025 in Kraft."
+    }
+  ],
+  "definitions": []
+}

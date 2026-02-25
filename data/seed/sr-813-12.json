@@ -1,0 +1,675 @@
+{
+  "id": "sr-813-12",
+  "type": "statute",
+  "title": "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgang mit Biozidprodukten (Biozidprodukteverordnung, VBP) ",
+  "title_en": "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Biocidal Products (Ordinance on Biocidal Products, OBP)",
+  "short_name": "VBP",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2005/468/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Purpose",
+      "content": "This Ordinance regulates: a. the placing on the market of biocidal products and of treated articles (Art. 2 para. 2 let. j); it also regulates, in particular, for biocidal products and for active substances for use in biocidal products: 1. the types of authorisation, including the recognition of authorisations of a Member State of the European Union (EU) or the European Free Trade Association (EFTA) and of Union authorisations, and including parallel trade in biocidal products, 2. the authorisation procedures, 3. the protection and use of owners’ data from previous applications for the benefit of subsequent applicants, 4. classification, packaging, labelling and the safety data sheet; b. particular aspects of the handling of biocidal products and treated articles. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art1a",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1a",
+      "title": "a Scope",
+      "content": "1 This Ordinance applies to biocidal products and treated articles. In the absence of provisions to the contrary, biocidal product families are deemed to be equivalent to biocidal products. 2 With regard to biocidal products and treated articles consisting of or containing pathogenic microorganisms, the provisions of this Ordinance on placing on the market are also applicable to import for non-professional or non-commercial purposes. 3 This Ordinance does not apply to: a. biocidal products or treated articles which are placed on the market solely in accordance with legislation on therapeutic products, foodstuffs, feedstuffs or plant protection products for the specified purposes; b. the transit of biocidal products or treated articles under customs supervision, provided that they do not undergo any processing or transformation; c. the transport of biocidal products or treated articles by road, rail, water, air or pipelines; d. foodstuffs or feedstuffs used as repellents or attractants; e. biocidal products used as processing aids as defined in Article 3 paragraph 2 letter i of the Feedstuffs Ordinance of 26 October 2011 (FsO) and in Article 2 paragraph 1 No 23 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016 (FUO); f ... 4 For imported biocidal products and treated articles that are simply relabelled and exported otherwise unmodified, Articles 42 and 45 apply. 5 For biocidal products and treated articles that are exported and which contain hazardous substances or preparations, the PIC Ordinance of 10 November 2004 applies. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). SR 916.307 SR 817.02 The reference was amended on 1 May 2017 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ( SR 170.512 ). Repealed by No III 2 of the O of 22 March 2017, with effect from 1 May 2017 ( AS 2017 2593 ). Inserted by No III 2 of the O of 22 March 2017, in force since 1 May 2017 ( AS 2017 2593 ). SR 814.82 Inserted by No III 2 of the O of 22 March 2017, in force since 1 May 2017 ( AS 2017 2593 )."
+    },
+    {
+      "provision_ref": "art1b",
+      "section": "1b",
+      "title": "b Changes to this Ordinance and priority of international treaties",
+      "content": "1 Where it is empowered to do so under this Ordinance, the Federal Department of Home Affairs (FDHA), in consultation with the Federal Department of the Environment, Transport, Energy and Communications (DETEC) and the Federal Department of Economic Affairs, Education and Research (EAER), shall make changes to provisions of this Ordinance concerning the authorisation and placing on the market of biocidal products in order to take scientific and technical progress into account. 2 Where procedural aspects for the authorisation or placing on the market of biocidal products are not specified in this Ordinance, the details shall be regulated by the FDHA, if it is empowered to do so, in consultation with DETEC and the EAER. 3 With regard to changes as specified in paragraphs 1 and 2, the FDHA shall take into consideration delegated acts or implementing acts adopted by the European Commission in accordance with Regulation (EU) No 528/2012. 4 Adjustments to technical details of minor importance in this Ordinance shall be made by the Federal Office of Public Health (FOPH), if it is empowered to do so, in consultation with the Federal Office for the Environment (FOEN) and the State Secretariat for Economic Affairs (SECO). 5 Where this Ordinance regulates matters which are the subject of an international treaty, responsibilities shall be governed, not by this Ordinance, but by the treaty, insofar as responsibilities are regulated by the latter. 6 The Notification Authority shall publicise on its website the responsibilities arising from the international treaty. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products, OJ L 167 of 27 June 2012, p. 1; last amended by Regulation (EU) No 334/2014, OJ L 103 of 5 April 2014, p. 22. Amended by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ( AS 2022 220 ). www.anmeldestelle.admin.ch > Topics > Chemicals Legislation and Guidelines > Chemicals Legislation > Ordinance on Biocidal Products (OBP) > MRA Switzerland-EU Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "",
+      "content": "1 By way of clarification of the definitions given in the ChemA, in this Ordinance: a. biocidal products means: 1. substances, preparations or objects, in the form in which they are supplied to the user, consisting of, containing or generating one or more active substances, intended to destroy, deter, render harmless, prevent the action of, or otherwise exert a controlling effect on, any harmful organism by any means other than mere physical or mechanical action, 2. substances or preparations generated from substances or preparations which are not themselves biocidal products as defined in number 1, and which are intended for the purpose for which biocidal products as defined in number 1 are intended; b. product type means one of the categories of biocidal products specified in Annex 10; c. manufacturer means any natural or legal person who, by way of profession or trade, manufactures or extracts substances or preparations. 2 In addition, in this Ordinance: a. substance of concern means a substance, other than the active substance, which has an inherent capacity to cause an adverse effect, immediately or in the more distant future, on humans, in particular vulnerable groups, animals or the environment and is present or is produced in a biocidal product in sufficient concentration to present risks of such an effect; such a substance, unless there are other grounds for concern, would be, in particular: 1. a substance classified as dangerous or that meets the criteria to be classified as such according to Article 2 paragraph 2 in conjunction with Annex VI Numbers 2–5 of Directive 67/548/EEC, and that is present in the biocidal product at a concentration leading the product to be classified as dangerous within the meaning of Article 1 paragraph 2 in conjunction with Articles 5, 6 and 7 of Directive 1999/45/EC, 2. a substance classified as hazardous or that meets the criteria to be classified as such according to Article 2 paragraph 2 in conjunction with Parts 2–5 of Annex I to Regulation (EC) No 1272/2008 (CLP Regulation), and that is present in the biocidal product at a concentration leading the product to be regarded as hazardous within the meaning of that Regulation, or 3. a substance which meets the criteria for being a persistent organic pollutant (POP) under Regulation (EC) No 850/2004, or which meets the criteria for being persistent, bioaccumulative and toxic (PBT) or very persistent and very bioaccumulative (vPvB) in accordance with Annex XIII to Regulation (EC) No 1907/2006 (REACH Regulation); b. biocidal product family means a group of biocidal products having the following properties in common: 1. similar uses, 2. the same active substances, 3. similar composition with specified variations, 4. similar level of risk, 5. similar efficacy; c. harmful organism means an organism, including pathogenic agents, which has an unwanted presence or a detrimental effect on humans or their activities, on products they use or produce, or on animals or the environment; d. microorganisms means microbiological entities, especially bacteria, algae, fungi, protozoa, viruses and viroids; cell cultures, prions and biologically active genetic material are also included in this category; e. letter of access means a document, signed by the person authorised to use protected data, which states that the data may be used by the Notification Authority and, if necessary, by the competent authority of a state party for the purpose of granting an authorisation of a biocidal product; f. existing active substance means a substance which was on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated research and development; g. new active substance means an active substance of a biocidal product which is not an existing active substance; h. active substance which is a candidate for substitution means an active substance which meets the criteria specified in Article 10 paragraph 1 of Regulation (EU) No 528/2012; i. residue means a substance present in or on products of plant or animal origin, water resources, drinking water, food, feed or elsewhere in the environment and resulting from the use of a biocidal product, including such a substance’s metabolites, breakdown or reaction products; j treated article means a substance, preparation or object which does not have a primary biocidal function, but which has been treated with, or intentionally incorporates, one or more biocidal products; k. national authorisation means an authorisation granted by the competent authority of an EU or EFTA Member State for the placing on the market of a biocidal product in its territory; l. Union authorisation means an authorisation granted by the European Commission for the placing on the market of a biocidal product in the territory of the EU; m. nanomaterial means a natural or manufactured active substance or non-active substance containing particles, in an unbound state or as an aggregate or as an agglomerate and where, for 50% or more of the particles in the number size distribution, one or more external dimensions are in the size range 1–100 nm; fullerenes, graphene flakes and single-wall carbon nanotubes with one or more external dimensions below 1 nm are deemed to be nanomaterials; in addition, for nanomaterials, the following definitions apply: 1. particle means a minute piece of matter with defined physical boundaries, 2. agglomerate means a collection of weakly bound particles or aggregates where the resulting external surface area is similar to the sum of the surface areas of the individual components, 3. aggregate means a particle comprising strongly bound or fused particles; n. technical equivalence means similarity, as regards the chemical composition and hazard profile, between a substance produced either from a source different to the reference source, or from the reference source but following a change to the manufacturing process or manufacturing location, and the substance from the reference source in respect of which the initial risk assessment was carried out; o. vulnerable groups means persons needing specific consideration when assessing the acute and chronic health effects of biocidal products; these include pregnant and breastfeeding women, the unborn, infants and children, the elderly, and workers and other persons subject to high exposure to biocidal products over the long term. 3 The following terms are to be understood as defined in Article 2 of the Chemicals Ordinance of 18 May 2005 (ChemO): a. substance; b. object; c. product and process-orientated research and development; d. scientific research and development. 4 The correspondence of expressions between Regulation (EU) No 528/2012 and this Ordinance set out in Annex 3 Number 1 applies. 4bis Where reference is made in this Ordinance to provisions of Regulation (EU) No 528/ 2012 which themselves refer to other provisions of EU law, the Swiss law in Annex 3 Number 2 applies instead of that EU law. 5 Any other terms which are used in various senses in the legislation underlying this Ordinance are used here as defined in the ChemA. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances, OJ L 196 of 16 August 1967, p. 1; last amended by Directive 2013/21/EU, OJ L 158 of 10 June 2013, p. 240. Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of danger"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "33",
+      "section": "2",
+      "title": "a",
+      "content": "1 The release of active substances of product types 7, 8, 10, 18 and 21 in accordance with Annex 10 into drinking water, surface waters and groundwater shall constitute a potential significant risk. 2 The aim is to ensure that the concentrations of active substances in accordance with paragraph 1 measured in waters do not exceed the following limits: a. for active substances or their breakdown products in waters that are used or intended to be used for drinking water: 0.1 μg/l; b. for active substances in surface waters: 1. the limits in accordance with Annex 2 Section 11 paragraph 3 number 4 of the Waters Protection Ordinance of 28. Oktober 1998 (WPO) (ecotoxicological limits), or 2. if the active substance is not listed in Annex 2 WPO: the concentration specified on approval below which no effect on aquatic organisms is expected. 3 The FOEN shall ascertain the extent to which the aim has been achieved with the aid of indicators. 4 For this purpose, it shall each year use the available measurement data to calculate for each active substance in accordance with paragraph 1 the ratio of the number of waters analysed in which an exceedance has been measured to the total number of waters analysed. SR 814.201"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 General Provisions",
+      "section": "3",
+      "title": "Authorisation or declaration and labelling",
+      "content": "1 Biocidal products may only be placed on the market or used professionally or commercially if they are authorised by the Notification Authority and labelled in accordance with this Ordinance. 2 For biocidal products which are imported for professional or commercial purposes, the condition specified in paragraph 1 must be fulfilled before they are first supplied or first used. 3 The following biocidal products may be placed on the market or used professionally or commercially without authorisation, provided that they have been declared to the Notification Authority in accordance with Article 13 c , 13 d or 13 f and no opinion has been issued by the Notification Authority within the time limits specified in Article 19 paragraph 2: a. biocidal products which have been authorised in an EU or EFTA Member State under the simplified procedure specified in Article 26 of Regulation (EU) No 528/2012; b. biocidal products belonging to an authorised biocidal product family; c. biocidal products released for purposes of research and development. 4 As regards the handling of biocidal products in accordance with paragraph 3 letter c, if these products are or contain microorganisms, they are subject to the provisions of the Containment Ordinance of 9 May 2012 (ContainO) and of the Release Ordinance of 10 September 2008 (RO). 5 The placing on the market of a biocidal product whose development is based on used genetic resources or on traditional knowledge based thereon, is subject to the provisions of the Nagoya Ordinance of 11 December 2015 (NagO). Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). See footnote to Art. 1 b para. 3. SR 814.912 SR 814.911 SR 451.61 Inserted by Annex No 3 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ( AS 2016 277 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 General Provisions",
+      "section": "4",
+      "title": "Biocidal products not eligible for authorisation",
+      "content": "1 Biocidal products of the following product types according to Annex 10 are not to be authorised: a. Product type 15 (avicides); b. Product type 17 (piscicides); c. Product type 20 (control of other vertebrates). 2 Biocidal products as specified in paragraph 1 may be used for purposes of research and development in accordance with Articles 13 e and 13 f . 3 They may be authorised in order to deal with exceptional situations in accordance with Article 30. 4 Use or authorisation according to paragraphs 2 and 3 are subject to the restrictions specified in the Chemical Risk Reduction Ordinance of 18 May 2005 (ORRChem) and the provisions of the ContainO and the RO. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). SR 814.81 SR 814.912 SR 814.911"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Scope of authorisation and person making the application",
+      "content": "1 Authorisation applies: a. to an individual biocidal product: 1. with a particular composition, 2. with a particular trade name or two or more trade names, 3. for a particular use or two or more uses, 4. from a particular manufacturer or two or more manufacturers; b. to a biocidal product family. 2 Authorisation is granted to one person only. 3 Only persons domiciled in Switzerland or with a registered office or branch in Switzerland may apply for and hold an authorisation. This is without prejudice to the provisions of an international treaty. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": "Repealed by No I of the O of 20 June 2014, with effect from 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Types of authorisation",
+      "content": "1 The following types of authorisation exist for biocidal products: a. authorisation A L based on a comprehensive evaluation of the biocidal product: for biocidal products which: 1. contain at least one active substance listed in Annex 2, and otherwise contain only active substances that are listed in Annex 1, or 2. contain only active substances listed in Annex 1 but are not eligible for the simplified authorisation procedure under Article 25 letters c and d of Regulation (EU) No 528/2012; b. authorisation A nL based on a comprehensive evaluation of the biocidal product and its active substances: for biocidal products containing at least one active substance which is not listed either in Annex 1 or in Annex 2 or included in the list of notified active substances for use in biocidal products referred to in Annex II of Regulation (EU) No 1062/2014 (list of notified active substances); c. authorisation A N : for biocidal products: 1. containing at least one active substance included in the list of notified active substances but for which a decision on listing in Annex 1 or 2 is still outstanding, and 2. whose other active substances are included in one of these lists; d. authorisation A C (confirmation) based on a summary procedure: for biocidal products: 1. containing at least one active substance included in the list of notified active substances but for which a decision on listing in Annex 1 or 2 is still outstanding, 2. whose other active substances are included in one of these lists, 3. for which an application for authorisation A C was submitted to the Notification Authority no later than 31 July 2006, and 4. which are still on the market when the Amendment of 20 June 2014 to this Ordinance comes into force; e. derogations : for biocidal products used to deal with exceptional situations; f. simplified authorisation : for biocidal products which are eligible for the simplified procedure in accordance with Article 25 of Regulation (EU) No 528/2012; g. recognition : for biocidal products: 1. which have been authorised in an EU or EFTA Member State in accordance with Article 33 of Regulation (EU) No 528/2012, or 2. for which an application has been submitted in accordance with Article 34 of Regulation (EU) No 528/2012; h. recognition of a Union authorisation : for biocidal products for which a Union authorisation has been granted by the European Commission; i. authorisation of the same biocidal products : for biocidal products which: 1. are identical to biocidal products already authorised, and 2. are placed on the market by the authorisation holder or by third parties under the same terms and conditions as the biocidal products already authorised; j. authorisation for parallel trade : for biocidal products : 1. that are authorised in an EU or EFTA member state and are identical to a biocidal product that has been granted authorisation Z L or recognition in Switzerland, or 2. that are placed on the market in an EU or EFTA member state in accordance with the national provisions and are identical to a biocidal product that has been granted authorisation Z N or Z B in Switzerland. 2 Unless otherwise indicated by a provision of this Ordinance, authorisation in this Ordinance is to be understood as referring to all the types of authorisation listed in paragraph 1. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). See footnote to Art. 1 b para. 3. Amended by No I of the FOPH O of the of 5 Sept. 20232019, in force since 1 Oct. 2023 ( AS 2023 518 ). Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of all existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council, OJ L 294 of 10 October 2014, p. 1; last amended by Delegated Regulation (EU) 2022/825, OJ L 147 of 30.5.2022, p. 3. Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). See footnote to Art. 1 b para. 3. Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Period of validity",
+      "content": "1 Authorisations in accordance with Article 7 and the placing on the market of biocidal products for which authorisation is not required (Art. 3 para. 3) are subject to a time limit. The following maximum periods of validity apply: a. for authorisation A L : 1. 10 years, without prejudice to numbers 2–4, [tab] 2. 5 years for biocidal products with an active substance which is a candidate for substitution, if a comparative assessment has been performed in accordance with Article 23 of Regulation (EU) No 528/2012, 3. 5 years for biocidal products with active substances authorised in accordance with Article 5 paragraph 2 of Regulation (EU) No 528/2012, 4. 4 years for biocidal products with an active substance which is a candidate for substitution, if no comparative assessment has been performed in accordance with Article 23 of Regulation (EU) No 528/2012; b. for authorisation A nL : 1. 4 years, or 2. if earlier, until the following time: – until 3 years after the last active substance in the biocidal product has been listed in Annex 1 or 2, or – until the Notification Authority, having regard to the European Commission’s decision not to approve the active substance or include it in Annex I to Regulation (EU) No 528/2012, cancels the authorisation; c. for authorisations A N and A C : 1. 6 months after the last active substance in the biocidal product is listed in Annex 1 or 2, 2. 3 years after the last active substance in the biocidal product is listed in Annex 1 or 2, provided that the authorisation holder meets the requirements of Article 22 paragraph 2, or 3. until the Notification Authority, having regard to the European Commission’s decision not to approve the active substance or include it in Annex I to Regulation (EU) No 528/2012, cancels the authorisation; d. for derogations: 1. 180 days for derogations under Article 30 paragraph 1 plus no more than 550 days if a requested extension is granted, 2. 3 years for derogations under Article 30 a paragraph 1, 3. for as long as necessary for derogations under Article 30b; e. for recognition: [tab] for as long as the authorisation of the reference product is valid; f. for recognition of a Union authorisation: for as long as the Union authorisation is valid; g. for authorisation for parallel trade: 1. for as long as the authorisation of the reference product is valid, or 2. if the authorisation of the reference product is withdrawn at the request of the authorisation holder and the requirements specified in Article 11 are still met: until the date on which the authorisation for the reference product would normally have expired; h. for the placing on the market of a biocidal product authorised under a simplified procedure in an EU or EFTA Member State: for as long as the authorisation is valid in the EU or EFTA Member State; i. for the placing on the market of a product within a biocidal product family: for as long as the authorisation for the biocidal product family is valid; j. for release for purposes of research and development: for the declared test duration; k. for simplified authorisation: 10 years; l. for the authorisation of the same biocidal products: 1. – 10 years for authorisations based on an ordinary authorisation Z L , – 5 years for authorisations based on an authorisation Z L with an active substance that is a candidate for substitution, or – 4 years for authorisations based on an authorisation Z L with an active substance authorised under Article 5 paragraph 2 of Regulation (EU) 528/2012, 2. 10 years for biocidal products whose authorisation is based on a recognition or a recognition of a Union authorisation, 3. for as long as the term of authorisation for the reference product applies for biocidal products whose authorisation is based on an authorisation Z N or Z B . 2–4 ... 5 If the authorisation has expired, Article 26 a governs any further placing on the market, supply to end consumers and the professional or commercial use of the biocidal product. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). See footnote to Art. 1 b para. 3. Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Correction of 24 Sept. 2019 ( AS 2019 3037 ). Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 ). Inserted by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Repealed by No I of the O of 31 Jan. 2018, with effect from 1 March 2018 ( AS 2018 817 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 2 Active Substances",
+      "section": "9",
+      "title": "Lists of active substances",
+      "content": "1 With regard to authorisation, the following lists of active substances apply: a. the list of active substances under Article 25 letter a of Regulation (EU) No 528/2012 (list of active substances eligible for the simplified procedure) contained in Annex 1; b. the list of approved active substances in accordance with Article 9 paragraph 1 letter a of Regulation (EU) No 528/2012 (Union list of approved active substances) contained in Annex 2; c. the list of notified active substances for use in biocidal products in accordance with Regulation (EU) No 1062/2014 (list of notified active substances). 2 The correspondence of expressions used in the EU acts referred to in the Union list of approved active substances and those used in this Ordinance is set out in Annex 3 Number 3. 2bis Where reference is made in this Ordinance to provisions of EU implementing acts on approvals of active substances which themselves refer to other provisions of EU law, the Swiss law set out in Annex 3 Number 4 applies instead of the EU law. 3 Active substances on the Union list of approved active substances that are considered candidates for substitution in accordance with Article 10 of Regulation (EU) No 528/2012 are designated as such in Annex 2. 4 For active substances containing nanomaterials, Article 4 paragraph 4 of Regulation (EU) No 528/2012 applies mutatis mutandis . 5 The FDHA, in consultation with DETEC and the EAER, shall issue a list of substances which may be used under an authorisation A nL , indicating their uses. Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). See footnote to Art. 1 b para. 3. See footnote to Art. 7 para. 1 let. b."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 2 Active Substances",
+      "section": "10",
+      "title": "Amendment of the active substance lists",
+      "content": "The FOPH, in consultation with the FOEN and SECO, shall amend: a. Annexes 1–3; b. the reference in Article 7 paragraph 1 letter b to the list of notified active substances. Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "75",
+      "section": "11",
+      "title": "General conditions",
+      "content": "1 Without prejudice to Article 11 g , a biocidal product shall be granted authorisation A L or A nL if the following conditions are met: a. It is established, according to the common principles specified in Annex VI to Regulation (EU) No 528/2012, that: 1. the biocidal product is sufficiently effective; 2. it has no unacceptable effects on target organisms, such as unacceptable resistance or cross-resistance, or unnecessary suffering or pain for vertebrates; 3. no immediate or delayed unacceptable effects are to be expected, from the biocidal product or its residues, on the health of humans, and in particular that of vulnerable groups, or animals, either directly or indirectly, through drinking water, food, feed, air, or through other indirect effects; and 4. no unacceptable effects are to be expected, from the biocidal product or its residues, on the environment, having particular regard to the following considerations: – the fate and distribution of the biocidal product in the environment, – contamination of surface waters (including estuarial and seawater), groundwater and drinking water, air and soil, taking into account locations distant from its use following long-range environmental transportation, – the impact of the biocidal product on non-target organisms, – the impact of the biocidal product on biodiversity and the ecosystem. b. The chemical identity, quantity and technical equivalence of active substances in the biocidal product and, where appropriate, any toxicologically or ecotoxicologically significant and relevant impurities and non-active substances, and its residues of toxicological or environmental significance, which result from uses to be authorised, can be determined using analytical methods referred to in Annexes II and III to Regulation (EU) No 528/2012. c. The physical and chemical properties are acceptable for purposes of use, transport and storage. d. The risk to human health and the environment posed by nanomaterials used in the biocidal product has been assessed separately. e. Existing or, where appropriate, newly specified maximum concentrations, maximum residue levels or specific migration limits in or on food or feed, in accordance with the following provisions, are complied with: 1. Article 49 paragraphs 3 and 4 letter c and 10 paragraph 4 letter e FUO; 2. Article 36 paragraph 1 of the FsO. 2 Biocidal products with active substances listed in Annex 1 or 2 must additionally meet the requirements specified for the active substances in these lists. 3 If biocidal products contain active substances which are not listed in Annex 1 or 2 or included in the list of notified active substances, the active substances must meet the requirements specified in Articles 4 and 5 of Regulation (EU) No 528/2012. 4 Biocidal products intended for direct application to the human body may only contain non-active substances designated by the FDHA as permissible for the category concerned in accordance with Article 54 FUO. This does not exclude the presence of technically unavoidable residues, provided that they do not pose a health risk. 5 Biocidal products consisting of or containing genetically modified organisms must meet the requirements of the RO. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). See footnote to Art. 1 b para. 3. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). SR 817.02 . The reference was amended on 1 May 2017 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ( SR 170.512 ). SR 916.307 The reference was amended on 1 May 2017 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ( SR 170.512 ). SR 814.911"
+    },
+    {
+      "provision_ref": "art11a",
+      "section": "11a",
+      "title": "a Request for setting of limits",
+      "content": "1 In connection with an application for authorisation, the applicant may submit a request to the Notification Authority for maximum levels, maximum concentrations or specific migration limits to be set for active substances for which none are specified in the legislation referred to in Article 11 paragraph 1 letter e. 2 The Notification Authority shall forward the request referred to in paragraph 1: a. for Article 11 paragraph 1 letter e number 1: to the Federal Food Safety and Veterinary Office (FSVO); b. for Article 11 paragraph 1 letter e number 2: to the Federal Office for Agriculture (FOAG). Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art11b",
+      "section": "11b",
+      "title": "b Evaluation factors",
+      "content": "The evaluation of whether a biocidal product meets the criteria specified in Article 11 paragraph 1 letter a shall take into account the following factors: a. realistic worst case conditions under which the biocidal product may be used; b. the way in which treated articles treated with or containing the biocidal product may be used; c. the consequences of use and disposal of the biocidal product; d. cumulative effects; e. synergistic effects. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art11c",
+      "section": "11c",
+      "title": "c Restriction of authorisation to particular uses",
+      "content": "The Notification Authority shall only authorise a biocidal product for those uses for which the information required in accordance with Annex 5 is available. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art11d",
+      "section": "11d",
+      "title": "d Biocidal products for use by the general public",
+      "content": "A biocidal product shall not be authorised for placing on the market for use by the general public if: a. it meets the criteria of the CLP Regulation in order to be classified as follows: 1. acute oral toxicity category 1, 2 or 3, 2. acute dermal toxicity category 1, 2 or 3, 3. acute inhalation toxicity (gases and dust/mist) category 1, 2 or 3, 4. acute inhalation toxicity (vapours) category 1 or 2, 5. specific target organ toxicity by single or repeated exposure category 1, 6. a category 1A or 1B carcinogen, 7. a category 1A or 1B mutagen, or 8. toxic for reproduction category 1A or 1B; b. it consists of, contains or generates a substance with properties meeting the criteria for being PBT or vPvB in accordance with Annex XIII to the REACH Regulation; c. it has endocrine-disrupting properties meeting the criteria specified in Delegated Regulation (EU) 2017/2100; or d. it has developmental neurotoxic or immunotoxic effects. Inserted by No I of the O of 20 June 2014 ( AS 2014 2073 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). See footnote to Art. 2 para. 2 let. a No 2. Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ( AS 2023 709 ). Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396 of 30 December 2006, p. 1; last amended by Regulation (EU) No 2015/830, OJ L 132 of 29 May 2015, p. 8. Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ( AS 2023 709 ). Commission Delegated Regulation (EU) 2017/2100 of 4 September 2017 setting out scientific criteria for the determination of endocrine-disrupting properties pursuant to Regulation (EU) No 528/2012 of the European Parliament and Council, amended by OJ L 301 of 17.11.2017, p. 1."
+    },
+    {
+      "provision_ref": "art11e",
+      "section": "11e",
+      "title": "e Exceptions to the requirements",
+      "content": "1 A biocidal product which does not fully meet the conditions specified in Article 11 paragraph 1 letter a numbers 3 and 4 or which has the properties specified in Article 11 d letter b may be authorised in exceptional cases where not authorising the biocidal product would result in disproportionate negative impacts for society when compared to the risks to human health, animal health or the environment arising from the use of the biocidal product under the conditions laid down in the authorisation. 2 The use of a biocidal product authorised in accordance with paragraph 1 shall be subject to appropriate risk mitigation measures to ensure that exposure of humans and the environment to that biocidal product is minimised. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). The reference was amended on 1 March 2018 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ( SR 170.512 )."
+    },
+    {
+      "provision_ref": "art11f",
+      "section": "11f",
+      "title": "f Special provisions for biocidal product families",
+      "content": "1 A biocidal product family must be assessed according to the common principles specified in Annex VI to Regulation (EU) No 528/2012. The assessment must consider the maximum risks to human health, animal health and the environment and the minimum level of efficacy over the whole potential range of products within the biocidal product family. 2 A biocidal product family shall only be authorised if: a. the following are explicitly identified in the application: 1. the maximum risks to human health, animal health and the environment, and the minimum level of efficacy, on which the applicant’s assessment is based, and 2. the permitted variations in composition and uses referred to in Article 2 paragraph 2 letter b, together with the respective classification, hazard and precautionary statements and any appropriate risk mitigation measures; and b. it is evident from the assessment referred to in paragraph 1 that all the biocidal products within the family comply with the conditions specified in Article 11. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). See footnote to Art. 1 b para. 3."
+    },
+    {
+      "provision_ref": "art11g",
+      "section": "11g",
+      "title": "g Comparative assessment of biocidal products with an active substance which is a candidate for substitution",
+      "content": "1 In the examination of an application for authorisation of a biocidal product containing an active substance which is a candidate for substitution, the assessment authorities shall perform a comparative assessment in accordance with Article 23 of Regulation (EU) No 528/2012 as part of the evaluation specified in Article 17. 2 The Notification Authority, in consultation with the assessment authorities, shall prohibit or restrict the placing on the market or the professional or commercial use of a biocidal product containing an active substance which is a candidate for substitution if the comparative assessment demonstrates that: a. for the uses specified in the application, another authorised biocidal product or a non-chemical control or prevention method already exists which presents a significantly lower overall risk for human health, animal health and the environment, is sufficiently effective and presents no other significant economic or practical disadvantages; and b. the chemical diversity of the active substances is adequate to minimise the occurrence of resistance in the harmful organism. 3 By way of derogation from paragraphs 1 and 2, a biocidal product may, in exceptional cases, be authorised without a comparative assessment if it is necessary to acquire experience first through using the product in practice. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). See footnote to Art. 1 b para. 3."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "98",
+      "section": "11",
+      "title": "h",
+      "content": "A biocidal product shall be authorised under a simplified procedure if the following conditions are met: a. all the active substances contained in the biocidal product are listed in Annex I and satisfy any restriction specified in that Annex; b. the biocidal product does not contain any substance of concern; c. the biocidal product does not contain any nanomaterials; d. the biocidal product is sufficiently effective; e. the handling of the biocidal product and its intended use do not require personal protective equipment."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3",
+      "section": "12",
+      "title": "Recognition",
+      "content": "1 An authorisation from a Member State of the EU or EFTA shall be recognised if there is nothing to suggest that the product could not also be authorised in Switzerland. 2 The Notification Authority, in consultation with the assessment authorities, may amend the conditions or requirements imposed with the authorisation in an EU or EFTA Member State on the basis of the evaluation in accordance with Article 17 or a comparative assessment in accordance with Article 11 g , provided that such a measure can be justified on the following grounds: a. the protection of the environment; b. the protection of health and life of humans, particularly of vulnerable groups, or of animals or plants; c. public policy or public security; d. the protection of national treasures possessing artistic, historic or archaeological value; or e. the target organisms not being present in harmful quantities. 3 The labelling and safety data sheet must be adapted to the requirements set out in Articles 38 and 40. 4 Authorisations of biocidal products consisting of or containing genetically modified microorganisms shall not be recognised. 5 Article 14 a bis applies to the recognition of a Union authorisation."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3",
+      "section": "13",
+      "title": "Authorisation A N",
+      "content": "1 A biocidal product shall be granted authorisation A N provided the applicant demonstrates that, according to the latest scientific and technical knowledge, and when used as intended: a. no unacceptable effects on humans, animals or the environment are to be expected from it or its residues; and b. in the case of a wood preservative or a disinfectant: it is sufficiently effective. [tab] 2 It shall only be authorised for placing on the market for use by the general public if it has none of the properties mentioned in Article 11 d . Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 ). Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art13a",
+      "chapter": "Section 3",
+      "section": "13a",
+      "title": "a Authorisation for parallel trade",
+      "content": "1 For a biocidal product which is authorised in an EU or EFTA Member State (state of origin), the Notification Authority, in consultation with the assessment authorities, shall, on receiving an application to this effect, grant an authorisation for parallel trade if it determines that the biocidal product is identical to a biocidal product which it has already authorised (reference product). 1bis For a biocidal product that is placed on the market in the state of origin with a notified active substance in accordance with the national provisions there, the Notification Authority shall, on receiving an application to this effect, grant an authorisation for parallel trade provided the applicant can demonstrate that the biocidal product is identical to a reference product. 2 A biocidal product shall be considered identical to the reference product if the following requirements are met: a. It has been manufactured by the same company, by an associated undertaking or under licence in accordance with the same manufacturing process. b. The products are identical in specification and content in respect of the active substances and the type of formulation. c. The products are identical in respect of the non-active substances present. d. The products are either the same or equivalent in packaging size, material or form, in terms of the potential adverse impact on human health, animal health or the environment. [tab] 3 The authorisation for parallel trade shall contain the same conditions for placing on the market and use as in the authorisation for the reference product. Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art13b",
+      "chapter": "104",
+      "section": "13b",
+      "title": "b",
+      "content": "Anyone who wishes to place biocidal products consisting of or containing pathogenic microorganisms on the market must comply with the obligation to guarantee liability in accordance with Article 14 of the RO. SR 814.911"
+    },
+    {
+      "provision_ref": "art13c",
+      "chapter": "106",
+      "section": "13c",
+      "title": "c Biocidal products from the EU or EFTA authorised under the simplified procedure",
+      "content": "Anyone who professionally or commercially imports biocidal products which have been authorised in an EU or EFTA Member State under the simplified procedure specified in Article 26 of Regulation (EU) No 528/2012 must declare the trade name and the authorisation number to the Notification Authority at least 30 days before placing them on the market for the first time. See footnote to Art. 1 b para. 3."
+    },
+    {
+      "provision_ref": "art13d",
+      "chapter": "106",
+      "section": "13d",
+      "title": "d Biocidal products within a biocidal product family",
+      "content": "1 The holder of an authorisation for a biocidal product family must declare to the Notification Authority each product within the biocidal product family at least 30 days before placing it on the market for the first time. 2 The declaration must indicate the exact composition, the trade name, the authorisation number for the biocidal product family and if applicable a unique formula identifier (UFI) in accordance with Article 14 a . 3 Declaration is not required if: a. a particular product is explicitly identified in the authorisation for the biocidal product family; or b. the variation in composition concerns only pigments, perfumes and dyes within the variations permitted according to the authorisation, unless the variation is associated with a change in the trade name. Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 )."
+    },
+    {
+      "provision_ref": "art13e",
+      "chapter": "109",
+      "section": "13e",
+      "title": "e Record-keeping requirements for research and development",
+      "content": "1 Anyone who, for purposes of research and development, handles unauthorised biocidal products or non-approved active substances for use in biocidal products must keep records detailing the following: a. identity of the biocidal products or active substances; b. labelling data; c. quantities supplied; d. name and address of the person receiving the biocidal products or active substances; e. all available data concerning possible effects on humans, animals or the environment. 2 The records shall be made available to the Notification Authority on request. 3 The Notification Authority may, if necessary, request further information."
+    },
+    {
+      "provision_ref": "art13f",
+      "chapter": "109",
+      "section": "13f",
+      "title": "f Declaration requirements for handling in release tests",
+      "content": "1 Anyone who, for purposes of research and development, handles unauthorised biocidal products or non-approved active substances for use in biocidal products in such a way that they may be released into the environment must declare this to the Notification Authority 45 days before they are so handled for the first time. 2 The declaration must include the records specified in Article 13 e paragraph 1. 3 If the proposed release tests could have unacceptable effects on humans, particularly on vulnerable groups, on animals or on the environment, the Notification Authority may: a. make the conduct of the test subject to conditions, concerning in particular: 1. the duration of experiments or tests, 2. the maximum quantities to be used, 3. restriction of the area of use; b. prohibit the test. 4 If the biocidal products or active substances under investigation are genetically modified or pathogenic microorganisms, or if they contain such microorganisms, the procedure shall be based on the RO . SR 814.911"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 4",
+      "section": "14",
+      "title": "General provisions",
+      "content": "1 An application for authorisation of a biocidal product must be submitted to the Notification Authority. 2 The content of the application shall be in accordance with the following Annexes: a. for applications for authorisation A L or A nL : Annex 5; b. for applications for simplified authorisation: Annex 6; c. for applications for recognition: Annex 7; d. for applications for authorisation A N : Annex 8; e. for applications for authorisation for parallel trade: Annex 8 a . 3 An application for authorisation of a biocidal product consisting of or containing genetically modified microorganisms must additionally comply with the requirements of the RO. 4 The application and documents must be submitted: a. in the electronic format specified by the Notification Authority; b. in an official language or in English; if the application concerns a biocidal product consisting of or containing genetically modified or pathogenic microorganisms, at least the summary of the application must be written in an official language. 5 The Notification Authority may, at the request of an assessment authority, require the provision of models or drafts of the packaging, labelling or leaflets. SR 814.911"
+    },
+    {
+      "provision_ref": "art14a",
+      "chapter": "Section 4",
+      "section": "14a",
+      "title": "a Unique formula identifier",
+      "content": "1 Applications under Article 14 paragraph 2 letters a, c, d and e must, if the biocidal product must be labelled in accordance with Article 38 a with a UFI or already has a UFI, also indicate the UFI in addition to the information specified in Article 14. 2 The UFI is generated in accordance with Article 15 a paragraph 2 ChemO. 3 If no UFI is available when the application is submitted, it must be communicated to the Notification Authority no later than 30 days before the product is placed on the market for the first time. 4 In the case of applications for the recognition of authorisation, the information required in connection with the UFI under Annex VIII of the EU CLP Regulation must be submitted to the Notification Authority in the electronic format that it specifies at least 30 days before the product is placed on the market for the first time. Inserted by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 ). SR 813.11"
+    },
+    {
+      "provision_ref": "art14abis",
+      "section": "14abis",
+      "title": "a bis Recognition of a Union authorisation",
+      "content": "1 For the recognition of a Union authorisation, the same regulations apply as for the recognition of an authorisation from an EU or EFTA Member State, unless the Union authorisations are the subject of an international treaty with the EU. 2 If the Union authorisations are the subject of an international treaty with the EU, and if the data specified in Article 14 b paragraph 3 letter b is accessible to the Notification Authority, the following provisions apply for the recognition of a Union authorisation: a. An application submitted to the European Chemicals Agency (ECHA) for the granting, renewal, amendment or withdrawal of a Union authorisation shall be considered to have been submitted to the Notification Authority at the same time. b. The Notification Authority, in consultation with the assessment authorities, shall take a decision on the application within 30 days after the adoption of a decision by the European Commission; it shall be guided by the European Commission’s decision, having regard to the criteria specified in Article 12 paragraph 2. 3 If a biocidal product has a UFI, the Notification Authority must be notified at least 30 days before the product is placed on the market for the first time of: a. the UFI; b. the information required in connection with the UFI under Annex VIII of the EU CLP Regulation in the electronic format that the Notification Authority specifies. Originally: Art. 14 a. Inserted by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 )."
+    },
+    {
+      "provision_ref": "art14b",
+      "section": "14b",
+      "title": "b Waiving of data requirements",
+      "content": "1 Data which it is not scientifically necessary to supply or which it is not technically possible to generate need not be provided. The justification for adaptations to data requirements shall be stated in the application. 2 The FDHA, in consultation with DETEC and the EAER, shall define when the waiving of data requirements is justified on the basis of likely exposure; in so doing, it shall take into consideration delegated acts adopted by the European Commission in accordance with Article 21 paragraph 3 of Regulation (EU) No 528/2012. 3 The Notification Authority shall indicate the data which does not need to be provided because: a. it has been published by the ECHA; or b. it is accessible to the Notification Authority under an international treaty. See footnote to Art. 1 b para. 3."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Identical biocidal products",
+      "content": "1 A biocidal product that is the same as a biocidal product which has already been granted authorisation A N , A C , A L or recognition, or for which an application to this effect is pending, may be authorised as an identical biocidal product under a special procedure. 2 The FDHA may, in consultation with DETEC and the EAER, specify the details of the procedure referred to in paragraph 1; in so doing, it shall take into consideration any implementing act adopted by the European Commission in accordance with Article 17 paragraph 7 of Regulation (EU) No 528/2012. 3 If the applicant is not identical with the holder of the authorisation for the same biocidal product already authorised, or with the submitter of a pending application, then the applicant must submit a letter of access under the procedure referred to in paragraph 1. See footnote to Art. 1 b para. 3."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Advance on costs, validation and forwarding",
+      "content": "1 The Notification Authority shall require the applicant to pay an advance on costs. 2 Upon receipt of the advance on costs, the Notification Authority shall verify, within the set time limit (Art. 19 para. 1 let. a and b), if necessary in consultation with the assessment authorities, whether the application is complete (validation), without assessing the quality or the adequacy of the data or justifications submitted. 3 If the application is incomplete, it shall, after consulting the applicant, set a reasonable time limit for the submission of additional information. This time limit shall not normally exceed 90 days. 4 It shall validate the additional information submitted, if necessary in consultation with the assessment authorities, within the set time limit (Art. 19 para. 1 let. c). 5 After validation, it shall forward the application with the complete documentation to the assessment authorities . 6 If the application concerns a biocidal product consisting of or containing genetically modified microorganisms, it shall conduct the authorisation procedure itself, taking account of the RO. SR 814.911"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Evaluation",
+      "content": "1 The assessment authorities shall evaluate the documents within their area of responsibility as follows: a. documents for A L and A nL authorisations and simplified authorisations, and for recognitions: according to the principles specified in Annex VI to Regulation (EU) No 528/2012; b. documents for the evaluation of Union authorisations that are submitted to the Notification Authority on the basis of international agreement: under the provisions of Articles 43–46 of Regulation (EU) No 528/2012 and Implementing Regulation (EU) No 354/2013; this also applies to the evaluation of amendments and extensions to Union authorisations; c. documents for the evaluation of an active substance that are submitted to the Notification Authority on the basis of international agreement: under the provisions of Chapters II and III of Regulation (EU) No 528/2012 and Chapter II of Delegated Regulation (EU) No 1062/2014; the foregoing also applies when evaluating the extension of the approval of an active substance; c bis . documents for Z N authorisations: from the point of view of whether the active substance is suitable for the use and product type applied for; in the event of increased risk or in other justified cases, an assessment shall be carried out in accordance with letter d; d. other documents: according to the latest scientific and technical knowledge. 2 ... 3 For biocidal products containing an active substance which is a candidate for substitution, the assessment authorities shall perform a comparative assessment as specified in Article 11g. 4 The assessment authorities shall inform the Notification Authority of the results of their evaluation. 5 In the case of applications for authorisation A L , A nL and simplified authorisation, the Notification Authority, after validation, shall, in consultation with the assessment authorities, within the set time limit (Art. 19 para. 1 let. d–j), prepare an assessment report summarising the conclusions of the evaluation and the reasons for granting or refusing to grant authorisation. 6 Where it appears that additional information is necessary to carry out the evaluation, the Notification Authority shall ask the applicant to submit such information within a specified time limit. The Notification Authority may ask the applicant to provide samples, if this is necessary for the evaluation. 7 The Notification Authority shall send the draft assessment report to the applicant and provide him with the opportunity to submit comments within 30 days. See footnote to Art. 1 b para. 3. Commission Implementing Regulation (EU) No 354/2013 of 18 April 2013 on changes of biocidal products authorised in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council, Amended by OJ L 109 of 19.4.2013, p. 4. Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ( AS 2023 709 ). Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council, OJ L 294 of 10.10.2014, p. 1. Inserted by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Repealed by No I of the O of 31 Jan. 2018, with effect from 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "",
+      "content": "Repealed"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Time limits for processing",
+      "content": "1 Subject to receipt of the advance on costs, the Notification Authority shall take a decision, without undue delay and at the latest within the following time limits, on: a. validation of an application for authorisation A L or A nL : 30 days b. validation of an application for recognition: 30 days c. validation of additional information for an application for authorisation A L or A nL : 30 days d. evaluation of an application for authorisation A L : 365 days e. evaluation of an application for authorisation A nL : 550 days f. evaluation of an application for recognition: 90 days g. evaluation of an application for recognition in accordance with Article 34 of Regulation (EU) No 528/2012 after receipt of the draft assessment report from the reference Member State: 120 days h. evaluation of an application for simplified authorisation: 90 days i. evaluation of an application for authorisation for parallel trade: 60 days j. evaluation of an application for authorisation A N : 60 days k. assessment of whether, for the renewal of an authorisation A L or A nL , a full evaluation as specified in Article 26 paragraph 5 is required: 90 days l. full evaluation for the renewal of an authorisation A L or A nL : 365 days m. non-full evaluation for the renewal of an authorisation A L or A nL : 180 days 2 For biocidal products for which authorisation is not required, as specified in Article 3 paragraph 3, the Notification Authority shall, if necessary, issue an opinion within the following time limits: a. biocidal products authorised under a simplified procedure in an EU or EFTA Member State: 30 days b. biocidal products within an authorised biocidal product family: 30 days c. biocidal products released for purposes of research and development: 45 days 3 If the Notification Authority asks for additional documents, the time limit «clock» shall be stopped until the additional information has been submitted. Altogether, the clock shall be stopped for no more than 180 days, unless a longer period is justified on account of the type of additional information requested or exceptional circumstances. 4 The FDHA may, in consultation with DETEC and the EAER, specify further time limits for processing. Otherwise, the limits specified in the Ordinance of 25 May 2011 on Principles and Time Limits for Authorisation Procedures apply. See footnote to Art. 1 b para. 3. SR 172.010.14"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Ruling",
+      "content": "1 The Notification Authority shall decide on authorisation in the form of a ruling. 2 The ruling, except in the case of an authorisation A N , shall include: a. the conditions for the placing on the market and use of the biocidal product; b. a summary of the biocidal product characteristics, comprising: 1. the trade name of the biocidal product, 2. the name and address of the authorisation holder, 3. the date of the authorisation and the date of its expiry, 4. the product type and, where relevant, an exact description of the authorised use, 5. the categories of users, 6. the Swiss authorisation number, together with, in the case of a biocidal product family, the suffixes to apply to individual biocidal products within the biocidal product family, 7. the name and address of the manufacturer of the biocidal product and of the active substances it contains, including details of the manufacturing sites, 8. the type of formulation of the biocidal product, and the qualitative and quantitative composition in terms of the active substances and non-active substances, knowledge of which is essential for proper use of biocidal products; in the case of a biocidal product family, a minimum and maximum percentage shall be indicated for each active and non-active substance, where the minimum percentage indicated for certain substances may be 0%, 9. the hazard and precautionary statements, 10. the target harmful organisms, 11. the application doses and instructions for use, 12. the particulars of likely direct or indirect adverse effects, 13. first aid instructions and emergency measures to protect the environment, 14. instructions for safe disposal of the product and its packaging, 15. conditions of storage and shelf-life of the biocidal product under normal conditions of storage, 16. where relevant, other information about the biocidal product; c. information on the amount of fees. 3 The ruling for an authorisation A N shall include: a. the conditions for the placing on the market and use of the biocidal product; b. the trade name of the biocidal product; c. the name and address of the authorisation holder; d. the date of the authorisation and the date of its expiry; e. the Swiss authorisation number; f. the product type and, where relevant, an exact description of the authorised use; g. the categories of users; h. the name and address of the manufacturer of the biocidal product and of the active substances it contains; i. each active substance and its content in the product; j. where relevant, other information or details of the safety data sheet; k. information on the amount of fees; l. where relevant, other information."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Obligation to report unexpected effects",
+      "content": "The holder of an authorisation must spontaneously and immediately report to the Notification Authority any new information concerning the biocidal product or the active substances it contains which could affect the authorisation, and in particular: a. new findings on the adverse effects of any active substance or of the biocidal product for humans, in particular vulnerable groups, animals or the environment; b. development of resistance; c. new data or information indicating that the biocidal product is not sufficiently effective."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Listing of a notified active substance in Annex 1 or 2",
+      "content": "1 Where the European Commission approves a notified active substance or its inclusion in Annex I to Regulation (EU) No 528/2012 and if the FOPH in agreement with the FOEN and SECO approves the listing of this notified active substance in Annex 1 or 2, the Notification Authority shall immediately inform the holder of an authorisation A N or A C for a biocidal product with this active substance accordingly, provided this is the last notified active substance in the biocidal product. 2 The holder of the authorisation for this biocidal product must, by the date of the inclusion of the last active substance, submit to the Notification Authority: a. an application for: 1. authorisation A L , 2. simplified authorisation, 3. recognition in parallel in accordance with Article 34 of Regulation (EU) No 528/2012, or 4. authorisation as the same biocidal product, if an application for authorisation A L or for recognition in parallel is pending for an identical product; or b. evidence that authorisation under letter a or Union authorisation is being sought. Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 ). See footnote to Art. 1 b para. 3."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Review",
+      "content": "1 The Notification Authority may review an authorisation at any time. 2 It shall carry out a review if: a. it receives new information in accordance with Article 21; b. there are indications that the conditions for authorisation specified in Article 11 or 11 b are no longer met. 3 Either on its own initiative or at the request of an assessment authority, it shall ask the holder for additional information, documents or investigations which are required for the review."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Amendment",
+      "content": "1 The Notification Authority, in consultation with the assessment authorities, shall amend an authorisation if: a. the conditions for authorisation specified in Article 11 or 11 b or in Section 3 are no longer met; b. the authorisation was granted on the basis of false or misleading information; c. after the authorisation was granted, the holder failed to comply with the obligations arising from this Ordinance. d. a review in accordance with Article 9 paragraph 3 of the Waters Protection Act of 24 January 1991 indicates that an amendment is required in order that the limits specified are no longer repeatedly and widely exceeded. 2 It shall amend an authorisation at the reasoned request of the authorisation holder. Such amendments shall be handled in accordance with the following procedures: a. administrative change: under a simplified notification procedure; b. minor change: under a procedure with a reduced evaluation period; c. major change: under a procedure with an evaluation period proportionate to the extent of the proposed change. 3 The FDHA, in consultation with DETEC and the EAER, shall specify the details of the procedures referred to in paragraph 2; in so doing, it shall take into consideration the implementing act adopted by the European Commission in accordance with Article 51 of Regulation (EU) No 528/2012. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). Inserted by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ( AS 2023 709 ). SR 814.20 See footnote to Art. 1 b para. 3."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Cancellation",
+      "content": "1 For cancellation, the conditions specified in Article 24 paragraph 1 and 2 apply. 2 ... 3 The Notification Authority may, in consultation with the assessment authorities, withdraw an authorisation for parallel trade if the authorisation of the biocidal product is cancelled in the state of origin for reasons of efficacy or safety . Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). Repealed by No I of the O of 31 Jan. 2018, with effect from 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Renewal",
+      "content": "1 The holder of an authorisation may apply for renewal. 2 The application for renewal must be submitted to the Notification Authority: a. 550 days before the expiry of an authorisation A L or A nL ; b. 2 months before the expiry of a simplified authorisation; c. 550 days before the expiry of a recognition; d. 1 month before the expiry of an authorisation for exceptional situations. 3 For the renewal of an authorisation A L or A nL , the application must include the following: a. all the data required in accordance with Annex 5 which the applicant has generated since the initial authorisation or, where appropriate, previous renewal; b. the applicant’s assessment of whether the conclusions of the initial or, where appropriate, previous assessment remain valid and any supporting information. 4 The Notification Authority shall review the existing authorisation. In order to assess the risks of the biocidal product, it may ask the applicant to provide samples or additional information. 5 For authorisations A L or A nL , the Notification Authority, in consultation with the assessment authorities, shall decide within the set time limit (Art. 19 para. 1 let. k) whether a full evaluation is required in accordance with Article 31 paragraph 5 of Regulation (EU) No 528/2012, and it shall issue a ruling within the set time limit (Art. 19 para. 1 let. l and m), taking into account, where applicable, a comparative assessment carried out in accordance with Article 11 g . 6 It may extend the period of validity of an existing authorisation until the final decision on renewal has been taken. 7 For renewals, the maximum periods of validity specified in Article 8 paragraph 1 apply. 8 The Notification Authority may renew an authorisation A N or A C if the evaluation of an application is delayed under Article 22 paragraph 2. 9 Authorisations A nL based on an evaluation and recommendation of an EU or EFTA Member State cannot be renewed. 10 The FDHA may, in consultation with DETEC and the EAER, regulate the procedure for the renewal of recognitions; in doing so, it shall take account of delegated acts adopted by the European Commission in accordance with Article 40 of Regulation (EU) No 528/2012. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). The correction of 22 Oct. 2019 concerns the French text only ( AS 2019 3221 ). See footnote to Art. 1 b para. 3. Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Inserted by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "142",
+      "section": "26",
+      "title": "a",
+      "content": "1 If the Notification Authority revokes or does not extend an authorisation or if the time limit for the authorisation under Article 8 has expired, the Notification Authority shall grant the following sales deadlines, provided no unacceptable effects on humans, animals or the environment are anticipated: a. The biocidal product may remain on the market following the revocation, non-extension or expiry of its authorisation for no more than 360 days. b. The biocidal product may be supplied to end consumers for no more than 360 further days. 2 The Notification Authority shall prohibit the professional or commercial use of a biocidal product following the revocation, non-extension or expiry of its authorisation if unacceptable effects on humans, animals or the environment are anticipated. 3 If an authorisation is amended, the biocidal product may remain on the market with the same labelling and be supplied to end consumers following the amendment of the authorisation for the periods set out in paragraph 1."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 5 Use of Data from Previous Applicants and Data Protection Period",
+      "section": "27",
+      "title": "Use of other owners’ data",
+      "content": "1 The Notification Authority shall waive the requirement for data from the applicant and rely on the owner’s data if: a. the applicant presents a letter of access from the data owner; or b. the data protection period has expired. 2 For all data submitted, the applicant shall indicate to the Notification Authority whether it is the data owner or is authorised to use the data on the basis of a letter of access. 3 If a letter of access is held, the applicant shall also indicate to the Notification Authority the name and address of the data owner. 4 The applicant shall inform the Notification Authority without delay about any changes to the ownership of the data. 5 Anyone who holds a letter of access to active substance data may allow applicants for authorisation of a biocidal product containing this active substance to make reference to this letter of access. 6 The provisions of this Section are without prejudice to the rules of competition law and intellectual property law. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art27a",
+      "chapter": "Section 5 Use of Data from Previous Applicants and Data Protection Period",
+      "section": "27a",
+      "title": "a Letter of access",
+      "content": "1 A letter of access must contain at least the following information: a. the name and contact details of the data owner and the beneficiary; b. the name of the active substance or biocidal product for which access to the data is authorised; c. the date on which the letter of access takes effect; d. a list of the submitted data to which reference may be made on the basis of the letter of access. 2 Revocation of a letter of access shall not affect the validity of the authorisation issued on the basis of the letter of access. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 5 Use of Data from Previous Applicants and Data Protection Period",
+      "section": "28",
+      "title": "Data protection period",
+      "content": "1 For data submitted to the Notification Authority in accordance with this Ordinance, the following protection periods apply: a. for data submitted with a view to the approval of an existing active substance: 10 years from the first day of the month following the date of the approval of the relevant active substance for the particular product type by the European Commission in accordance with Article 9 of Regulation (EU) No 528/2012; b. for data submitted with a view to the approval of a new active substance: 15 years from the first day of the month following the date of the approval of the relevant active substance for the particular product type by the European Commission in accordance with Article 9 of Regulation (EU) No 528/2012; c. for data submitted with a view to the renewal or review of the approval of a new active substance : 5 years from the first day of the month following the date of the renewal or review of the approval by the European Commission in accordance with Article 14 paragraph 4 of Regulation (EU) No 528/2012; d. for data submitted with a view to the authorisation of a biocidal product containing only existing active substances: 10 years from the first day of the month following the date of the authorisation by the Notification Authority or by the competent authority in accordance with Regulation (EU) No 528/2012; e. for data submitted with a view to the authorisation of a biocidal product containing a new active substance: 15 years from the first day of the month following the date of the authorisation by the Notification Authority or by the competent authority in accordance with Regulation (EU) No 528/2012; f. for data submitted with a view to the renewal or amendment of the authorisation of a biocidal product: 5 years from the first day of the month following the date of the authorisation by the Notification Authority or the date of the decision concerning the renewal or amendment of the authorisation by the competent authority in accordance with Regulation (EU) No 528/2012. 2 The protection period shall start when data is submitted for the first time. 3 It cannot be renewed. 4 By way of derogation from paragraph 1, the data protection periods for existing active substances listed in combination with a product type in Annex II to Regulation (EU) No 1062/2014 – including data not involving tests on vertebrates – but for which a decision on inclusion in Annex I to Directive 98/8/EC was not taken before 1 September 2013 shall expire no later than 31 December 2025. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). See footnote to Art. 1 b para. 3. See footnote to Art. 7 para. 1 let. b. Directive 98/8/EC of the European Parliament and of the Council of 16 February 1998 concerning the placing of biocidal products on the market, OJ L 123 of 24 April 1998, p. 1; last amended by Directive 2013/44/EU, OJ L 204 of 31 July 2013, p. 49. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "",
+      "content": "1 For the applicant’s obligation to make advance enquiries so as to avoid tests on vertebrates, Article 31 paragraph 1 and Article 32 paragraphs 1, 3 and 4 of the ChemO apply mutatis mutandis ; where reference is made in the ChemO to the notification of a substance, this shall be understood for the purposes of this Ordinance as the authorisation of a biocidal product, and where reference is made in the ChemO to the previous notifiers, this shall be understood for the purposes of this Ordinance as the data owners. 2 When making advance enquiries, the applicant must provide evidence that he intends to apply for an authorisation himself. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). SR 813.11 Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art29a",
+      "section": "29a",
+      "title": "a Compensation for data sharing",
+      "content": "1 The applicant and the data owner shall make every effort to reach an agreement on the sharing of the data to be used in accordance with Article 31 paragraph 3 letter a of the ChemO. 2 The parties may seek an arbitrator’s opinion. 3 The Notification Authority shall be bound by the arbitrator’s opinion unless, within 30 days, the parties raise objections in accordance with Article 189 paragraph 3 of the Civil Procedure Code. 4 If no agreement can be reached between the parties, the applicant shall inform the Notification Authority accordingly, at the earliest one month after receipt of the information specified in Article 31 paragraph 3 letter b of the ChemO. At the same time, the applicant shall inform the data owner. 5 At the earliest 60 days after being informed by the applicant, the Notification Authority shall inform the parties that it will use the data for the benefit of the applicant, provided that the latter can demonstrate that he: a. has made every effort to reach an agreement; and b. has paid the owner a share of the costs incurred in producing the data or has undertaken to do so via a signed acknowledgement of indebtedness. 6 At the request of the owner, the Notification Authority shall determine the appropriate level of compensation, taking into account the acknowledgment of indebtedness issued by or the payment already made by the applicant. 7 In deciding on the level of compensation for data sharing, the Notification Authority shall ensure that due consideration is given to the principles of fairness, transparency and non-discrimination. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). SR 813.11 Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). SR 272 Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art29b",
+      "section": "29b",
+      "title": "b Use of data for subsequent applications",
+      "content": "1 If the protection period specified in Article 28 has expired, the applicant may request that the data from an existing authorisation be used by the Notification Authority for his benefit, if he provides evidence: a. where the protection period has expired for data on the active substance used: that it is technically equivalent to the active substance in a biocidal product already authorised, including the degree of purity and the nature of any impurities; b. where the protection period has expired for data on the biocidal product: 1. that it is the same as the biocidal product already authorised, or 2. that the differences are not significant in relation to the risk assessment and the active substances are technically equivalent as defined in letter a. 2 The Notification Authority shall issue a general ruling, published in the Federal Gazette. It shall inform the holder of the existing authorisation and, if known, the owner of the data on the active substance or the biocidal product. 3 Depending on the particular case, the applicant shall submit the following data to the Notification Authority: a. all the data required for the identification of the biocidal product, including its composition; b. the data required to identify the active substance and to establish technical equivalence; c. the data required to demonstrate that the biocidal product is comparable to the authorised biocidal product with regard to risks and efficacy. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Section 6",
+      "section": "30",
+      "title": "Authorisation of biocidal products to control an unforeseen danger",
+      "content": "1 In order to control an unforeseen danger which cannot be contained by other means, the Notification Authority may, in consultation with the assessment authorities, authorise certain biocidal products for limited and controlled use in derogation from the provisions of Articles 4 and 5 and Sections 2–4 of this Chapter. The foregoing does not apply to biocidal products that are or contain genetically modified micro-organisms. 2 Biocidal products authorised under paragraph 1 may, in derogation from the provisions of Article 38 paragraph 2 letter b, be labelled solely in the official language of the place of use or in English. 3 With regard to biocidal products consisting of or containing pathogenic microorganisms, the requirements of the ContainO and the RO must additionally be met for authorisation under paragraph 1. SR 814.912 SR 814.911"
+    },
+    {
+      "provision_ref": "art30a",
+      "chapter": "Section 6",
+      "section": "30a",
+      "title": "a Provisional authorisation of biocidal products that contain an as yet unapproved active substance",
+      "content": "1 The Notification Authority may in agreement with the assessment authorities provisionally authorise a biocidal product that contains an active substance that has yet to be approved. The provisional authorisation shall be granted if: a. the applicant for the as yet unapproved active substance submits a recommendation from an EU or EFTA member state that the active substance be approved; and b. the assessment authorities, having regard to Article 11 b , take the view that the biocidal product provisionally meets the requirements of Article 11 paragraph 1 letters a–c. 2 The Notification Authority shall revoke the provisional authorisation if the European Commission decides not to approve the active substance. The correction of 5 May 2022 concerns the French text only ( AS 2022 274 )."
+    },
+    {
+      "provision_ref": "art30b",
+      "chapter": "Section 6",
+      "section": "30b",
+      "title": "b Authorisation of biocidal products to protect cultural heritage",
+      "content": "Where it is essential for the protection of cultural heritage and if there is no suitable alterative available, the Notification Authority may in agreement with the assessment authorities authorise a biocidal product that contains an active substance that has not been approved."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "165",
+      "section": "30",
+      "title": "c",
+      "content": "1 Any person who places a biocidal product on the market for the first time must declare the following data to the Notification Authority for each year by 31 May of the following year at the latest: a. name, address, email address and telephone number; b. trade name and Swiss authorisation number for the biocidal product; c. quantity placed on the market; d. the active substances that the biocidal product contains and their concentration; e. the product type of the biocidal product in accordance with Annex 10. 2 The declaration must be made in the electronic format stipulated by the Notification Authority."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Chapter 3",
+      "section": "31",
+      "title": "Placing on the market",
+      "content": "1 A treated article shall not be placed on the market unless all active substances contained in the biocidal products that it was treated with or incorporates: a. are listed in Annex 2 for the relevant product type and use, or in Annex 1, and any conditions or restrictions specified therein are met; or b. are employed in a biocidal product granted authorisation A nL for the relevant use. 2 Active substances in a biocidal product in accordance with paragraph 1 letter b must be appropriately included in the list specified in Article 9 paragraph 5. 3 Paragraph 1 does not apply to treated articles where the sole treatment undertaken was the fumigation or disinfection of premises or containers used for storage or transport and where no residues are expected to remain from such treatment. Reference amended on 1 March 2018 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ( SR 170.512 )."
+    },
+    {
+      "provision_ref": "art31a",
+      "chapter": "Chapter 3",
+      "section": "31a",
+      "title": "a Labelling",
+      "content": "1 Anyone who is responsible for the placing on the market of treated articles must: a. label them in accordance with Article 58 paragraphs 3, 4 and 6 of Regulation (EU) No 528/2012; and b. include in the instructions for use the relevant information specified in the ORRChem. 2 The labelling must be in at least one official language of the place where the treated article is placed on the market. See footnote to Art. 1 b para. 3. SR 814.81 Amended by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ( AS 2022 220 )."
+    },
+    {
+      "provision_ref": "art31b",
+      "chapter": "Chapter 3",
+      "section": "31b",
+      "title": "b Additional obligations",
+      "content": "1 Anyone who is responsible for the placing on the market of treated articles must, on request, provide consumers with information on the biocidal treatment of the treated articles within 45 days. 2 The duty of care specified in Article 41 paragraphs 1 and 2 applies mutatis mutandis . 3 The above provisions are without prejudice to the restrictions specified in the ORRChem. SR 814.81"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "",
+      "content": "Repealed"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Chapter 4",
+      "section": "33",
+      "title": "Confidentiality",
+      "content": "1 The applicant must identify any data which, in his view, is subject to manufacturing and commercial secrecy, or whose disclosure would jeopardise the privacy or safety of the person concerned, and is therefore to be treated as confidential. A detailed justification must be provided. 2 The Notification Authority, in consultation with the assessment authorities, shall decide which data is to be treated as confidential. 3 Disclosure of the following data shall normally be deemed to undermine the protection of the commercial interests or the privacy or safety of the person concerned: a. details of the full composition of a biocidal product; b. the precise tonnage of the active substance or biocidal product manufactured or placed on the market; c. links: 1. between the manufacturer of an active substance and the applicant for or holder of the authorisation of a biocidal product, or 2. between the applicant for or holder of the authorisation of a biocidal product and the persons responsible for distribution of the product; d. names and addresses of persons involved in testing on vertebrates. 4 Data on biocidal products and active substances which is classified as confidential by the Notification Authority shall be treated as confidential by the enforcement authorities in accordance with Articles 73–76 of the ChemO . 5 Data for the recognition of an authorisation which is classified as confidential by an EU or EFTA Member State, or by the ECHA, shall be treated as confidential. 6 Access to data on biocidal products or active substances consisting of, containing or obtained from genetically modified microorganisms is governed by Article 18 of the GTA. [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Exclusion of confidentiality",
+      "content": "1 After authorisation has been granted, the following information shall not be treated as confidential under any circumstances: a. the name and address of the applicant; b. the name and address of the biocidal product manufacturer; c. the name and address of the active substance manufacturer; d. the content of the active substances in the biocidal product; e. the name of the biocidal product; f. physical and chemical data concerning the biocidal product; g. a summary of the results of the tests required to establish the efficacy of the active substance or the biocidal product, effects on humans, animals and the environment, and, where applicable, resistance-promoting properties; h. analytical methods which can reliably determine active substances as specified in Article 11 paragraph 1 letter b; i. any methods for rendering the active substance or biocidal product harmless; j. recommended methods and precautions to reduce dangers from handling, transport and use, as well as from fire or other hazards; k. procedures to be followed and measures to be taken in the event of spillage or leakage; l. first aid and medical advice to be given in the event of injury to persons; m. methods for disposal of the biocidal product and its packaging; n. information contained in the safety data sheet. 2 The publication of non-confidential data on biocidal products is governed by Article 73 paragraph 6 of the ChemO. [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 ).). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Chapter 5 Classification, Packaging, Denaturation, Labelling and Safety Data Sheet",
+      "section": "35",
+      "title": "Classification",
+      "content": "1 Articles 6 and 7 of the ChemO apply mutatis mutandis to the classification of biocidal products and of active substances for use in biocidal products; where the ChemO refers to the manufacturer, this shall be understood for the purposes of this Ordinance as the applicant. 2 Where appropriate, the information included in the ruling referred to in Article 20 shall be taken into account. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 )."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Chapter 5 Classification, Packaging, Denaturation, Labelling and Safety Data Sheet",
+      "section": "36",
+      "title": "Packaging",
+      "content": "1 Biocidal products and active substances for use in biocidal products must be packaged in accordance with Articles 8 and 9 of the ChemO mutatis mutandis . Where the ChemO refers: a. to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder; b. to dangerous substances and preparations, this shall be understood for the purposes of this Ordinance as all biocidal products and active substances for use in biocidal products. 2 Where appropriate, the information included in the ruling referred to in Article 20 shall be taken into account. 3 Biocidal products which may be mistaken for foodstuffs within the meaning of the Foodstuffs Act of 20 June 2014 or for animal feedstuffs within the meaning of Article 3 paragraph 1 of the Feedstuffs Ordinance of 26 May 1999 must be packaged to minimise the likelihood of such a mistake being made. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). SR 813.11 Amended by Annex 10 No II 3 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ( AS 2025 565 ). SR 817.0 . The reference was amended on 1 May 2017 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ( SR 170.512 ). [ AS 1999 1780 , 2748 Annex 5 No 6; 2001 3294 No II 14; 2002 4065 ; 2003 4927 ; 2005 973 , 2695 No II 19, 5555 ; 2007 4477 No IV 70; 2008 3655 , 4377 Annex 5 No 14; 2009 2599 ; 2011 2405 . AS 2011 5409 Art. 77]. See now: the O of 26 Oct. 2011 ( SR 916.307 ). Correction of 23 Dec. 2014 ( AS 2014 4719 )."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Denaturation",
+      "content": "Biocidal products which may be mistaken for foodstuffs or animal feedstuffs and which are available to the general public must contain components to discourage their consumption."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Labelling",
+      "content": "1 The label must not be misleading in respect of the risks from the biocidal product to human health, animal health or the environment or its efficacy. It must not, in any case, mention the indications «low-risk biocidal product», «non-toxic», «harmless», «natural», «environmentally friendly», «animal friendly» or similar indications. 2 Biocidal products and active substances for use in biocidal products must be labelled: a. in accordance with the summary of the biocidal product characteristics referred to in Article 20 paragraph 2 letter b; and b. in accordance with Articles 10, 11 and 93 paragraph 1 letter b of the ChemO mutatis mutandis ; where the ChemO refers: 1. to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder, 2. to dangerous substances and preparations, this shall be understood for the purposes of this Ordinance as all biocidal products and active substances for use in biocidal products. 3 In addition to the details specified in paragraph 2, the following must be indicated on the label: a. the identity of every active substance and its concentration in metric units; b. the Swiss authorisation number; c. the type of formulation; d. the uses for which the biocidal product is authorised; e. directions for use; in particular, for each use provided for under the terms of the ruling, the following are to be specified: 1. the frequency of application, 2. the dose rate, expressed in metric units, in a manner which is meaningful and comprehensible to the user; f. particulars of likely direct or indirect adverse side effects and any directions for first aid; g. the nanomaterials contained in the product, if any, and any specific related risks, and, following each reference to nanomaterials, the word «nano» in brackets; h. if accompanied by a leaflet: the sentence «Read attached instructions before use» and, where applicable, warnings for vulnerable groups; i. directions for the safe disposal of the biocidal product and its packaging, including, where relevant, any prohibition on the reuse of packaging; j. the formulation batch number or designation; k. the expiry date relevant to normal conditions of storage; l. where applicable, the following details: 1. the time to onset of the biocidal effect, 2. the interval to be observed between applications of the biocidal product, 3. the interval to be observed between application and the next use of the product treated, or the next access by humans or animals to the area where the biocidal product has been used, including particulars concerning: – decontamination means and measures and duration of necessary ventilation of treated areas – adequate cleaning of equipment – precautionary measures during use and transport. 4 Where applicable, the following must also be indicated: a. the categories of users; b. information on any specific danger to the environment, particularly concerning protection of non-target organisms and avoidance of contamination of water; c. for biocidal products consisting of or containing microorganisms: labelling requirements in accordance with Directive 2000/54/EC. 5 Where this is necessary because of the size or the function of the biocidal product, the information specified in paragraph 3 letters c, e, f and i–l and paragraph 4 letter b must be indicated as follows: a. on the packaging; or b. in an accompanying leaflet contained in the packaging. 6 ... Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). SR 813.11 Amended by Annex 10 No II 3 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ( AS 2025 565 ). Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). Directive 2000/54/EC of the European Parliament and of the Council of 18 September 2000 on the protection of workers from risks related to exposure to biological agents at work, OJ L 262 of 17 October 2000, p. 21. Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 ). Repealed by No I of the O of 5 June 2015, with effect from 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art38a",
+      "section": "38a",
+      "title": "38 a Labelling of specific biocidal products classified as dangerous",
+      "content": "Where a biocidal product is placed on the market that is classified as dangerous within the meaning of Article 3 ChemO because of the physical or health hazards it presents, the authorisation holder must not only indicate the information in accordance with Article 38 paragraphs 2–4 but also the UFI in accordance with the provisions of Article 15 a paragraphs 3 and 4 ChemO. Inserted by No I of the O of 18 Nov. 2020 ( AS 2020 5125 ). Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ( AS 2023 709 ). SR 813.11"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "",
+      "content": "1 In addition to the requirements specified in Article 38, biocidal products consisting of or containing genetically modified microorganisms must be appropriately labelled. 2 One of the following descriptions must be used for the labelling: a. «aus gentechnisch verändertem X/produit à partir de X modifié par génie génétique/da X modificato/a con tecnologia genetica»; or b. «aus genetisch verändertem X/produit à partir de X génétiquement modifié/da X geneticamente modificato/a». 3 The information specified in Article 38 paragraph 4 letter b shall be indicated on the label. The other information shall be indicated in accordance with Article 38 paragraph 5 letter a or b, depending on the conditions met. 4 No labelling is required for biocidal products containing unintentional traces of approved genetically modified microorganisms accounting for less than 0.1 per cent by mass. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 )."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Safety data sheet",
+      "content": "1 For biocidal products and for active substances for use in biocidal products, safety data sheets must, if applicable, be compiled, provided and updated in accordance with Articles 5 and 18–22 of the ChemO mutatis mutandis ; where the ChemO refers to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder. 2 For active substances included in the lists specified in Article 9 paragraph 1 letters a–c, the exposure scenarios referred to in Article 20 paragraph 2 of the ChemO need not be attached. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). SR 813.11 Amended by No I of the O of 15 Nov. 2023, in force since 1 Jan. 2024 ( AS 2023 709 )."
+    },
+    {
+      "provision_ref": "art40a",
+      "section": "40a",
+      "title": "a Documentation and samples",
+      "content": "1 The manufacturer of a biocidal product shall maintain, in relation to the manufacturing process, appropriate documentation in paper or electronic format relevant for the quality and safety of the biocidal product to be placed on the market. 2 The documentation shall include as a minimum: a. safety data sheets and specifications of active substances and other ingredients used for manufacturing the biocidal product; b. records of the various manufacturing operations performed; c. results of internal quality controls; d. identification of production batches. 3 The manufacturer shall store production batch samples. [tab] 4 The documentation and the samples must be retained in accordance with Article 45 paragraph 2 of the ChemO. [tab] 5 Safety data sheets must be retained in accordance with Article 23 ChemO. Inserted by No I of the O of 28 Feb. 2007 ( AS 2007 851 ). Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Chapter 6 Handling of Biocidal Products",
+      "section": "41",
+      "title": "Duty of care",
+      "content": "1 Anyone handling a biocidal product and its wastes must use them properly and ensure that they cannot endanger humans, animals or the environment. 1bis Proper use shall involve the rational application of a combination of physical, biological, chemical or other measures as appropriate, whereby the use of biocidal products is limited to the minimum necessary and appropriate precautionary steps are taken. 2 The information given on the packaging and safety data sheet and the instructions for use must be taken into account. 3 The biocidal product must be used only for the intended purpose. Only equipment which allows the biocidal product to be applied correctly and in a targeted manner may be used. 4 ... Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Repealed by No I of the O of 20 June 2014, with effect from 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art41a",
+      "chapter": "Chapter 6 Handling of Biocidal Products",
+      "section": "41a",
+      "title": "",
+      "content": "Inserted by Enclosure No 1 of the O of 10 Nov. 2010 ( AS 2010 5223 ). Repealed by Annex No 1 of the O of 7 Nov. 2012, with effect from 1 Dec. 2012 ( AS 2012 6103 )."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Chapter 6 Handling of Biocidal Products",
+      "section": "42",
+      "title": "Storage",
+      "content": "Articles 57 and 62 of the ChemO apply mutatis mutandis to the storage of biocidal products. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 )."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Supply",
+      "content": "1 For the supply of biocidal products, the following apply: a. the terms of the ruling referred to in Article 20; b. Articles 58, 59 and 63–66 of the ChemO mutatis mutandis . 2 For biocidal products that meet the criteria specified in Article 11 d letter a, Article 64 paragraph 1, Article 65 paragraph 1 and Article 66 paragraph 1 letter a of the ChemO apply mutatis mutandis . Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Take-back and return obligations",
+      "content": "1 Anyone who places biocidal products on the market must take back from the user any biocidal products supplied which are no longer being used and must dispose of them appropriately; biocidal products supplied retail must be taken back free of charge. 2 The obligation to return biocidal products is regulated by Number 5 of Annex 2.4 to the ORRChem. SR 814.81"
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Theft, loss or erroneous placing on the market",
+      "content": "1 Article 67 paragraphs 1 and 2 of the ChemO apply mutatis mutandis to the theft or loss of biocidal products whose labelling contains an element specified in number 1.2 letter a or b, or number 2.2 letter a or b, of Annex 5 to the ChemO. 2 Article 67 paragraphs 3 and 4 of the ChemO apply mutatis mutandis to the erroneous placing on the market of biocidal products. Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). SR 813.11"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "",
+      "content": "Repealed by No I of the O of 20 June 2014, with effect from 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Restrictions on use",
+      "content": "1 The restrictions specified in Article 13 of the RO apply to biocidal products consisting of or containing pathogenic microorganisms. 2 In addition, the restrictions and obligations specified in Annex 2.4 to the ORRChem apply to biocidal products of product types 2,6, 7, 8, 10, 14 and 21. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). SR 814.911 SR 814.81 Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ( AS 2020 5125 )."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Authorisation for use",
+      "content": "An authorisation is required for the use of certain biocidal products; the provisions are set out in Articles 4–6 of the ORRChem. SR 814.81"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Certificate",
+      "content": "Anyone who uses biocidal products as specified in Article 7 paragraph 1 letter a numbers 2–4 and paragraph 2 of the ORRChem requires a certificate in accordance with Articles 7–12 of the ORRChem. Correction of 23 Dec. 2014 ( AS 2014 4719 ). SR 814.81"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Advertising",
+      "content": "1 Biocidal products must not be promoted unless they: a. are authorised; or b. are placed on the market or used in accordance with Article 3 paragraph 3 letter a or b. 2 Article 38 paragraph 1 applies mutatis mutandis to advertising. 3 Any advertisement for biocidal products must include the following phrases, which shall be clearly distinguishable and legible in relation to the whole advertisement: a. «Use biocides safely»; the word «biocides» may be replaced with a reference to the product type according to Annex 10; b. «Always read the label and product information before use». 4 Anyone who advertises dangerous biocidal products which the general public can purchase without seeing the labelling beforehand must indicate their hazardous properties in a comprehensible and clearly legible or audible manner. 5 Otherwise, Article 60 and, for samples, Article 68 of the ChemO apply mutatis mutandis . Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art50a",
+      "chapter": "Section 1 Confederation",
+      "section": "50a",
+      "title": "a Harmonisation of enforcement",
+      "content": "1 In the enforcement of this Ordinance, the Swiss authorities shall be guided by the legislation currently applicable in the EU, and in particular by delegated acts or implementing acts adopted by the European Commission in accordance with Regulation (EU) No 528/2012 and by Technical Notes for Guidance issued by the European Commission and the ECHA. 2 The Notification Authority, in consultation with the assessment authorities, shall prepare guidelines for the harmonisation of enforcement. It shall publish the guidelines on its website. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). See footnote to Art. 1 b para. 3. www.anmeldestelle.admin.ch > Topics > Chemicals Legislation and Guidelines > Chemicals Legislation > Ordinance on Biocidal Products (OBP) > MRA Switzerland-EU Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Section 1 Confederation",
+      "section": "51",
+      "title": "Notification Authority and steering committee",
+      "content": "Provisions concerning the Notification Authority and the associated steering committee are set out in Article 77 of the ChemO . Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Section 1 Confederation",
+      "section": "52",
+      "title": "Assessment authorities",
+      "content": "The assessment authorities for biocidal products are: a. the FOPH: for matters concerning the protection of human life and health; b. the FOEN: for matters concerning protection of the environment and indirect protection of human beings; c. the SECO: for matters concerning the protection of workers; d. the FOAG: for agronomic matters; e. the FSVO: for matters concerning food safety and animal health. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Duties of the Notification Authority and cooperation",
+      "content": "1 The Notification Authority has the following duties: a. it obtains the evaluations and opinions of the competent assessment authorities; b. it makes decisions in consultation with the assessment authorities; c. using random sampling, it analyses the composition of biocidal products placed on the market; d. it publishes the following lists in an appropriate form: 1. the list referred to in Article 95 paragraph 1 of Regulation (EU) No 528/2012, 2. the list of persons who have submitted the following documents: – documents complying with Annex II to Regulation (EU) No 528/2012 or with Annex IIA or IVA and, where relevant, IIIA to Directive 98/8/EC or – a letter of access to active substance data as referred to in letter d number 2 first indent, 3. the list of persons for whose benefit it has used data in accordance with Article 29 a paragraph 5; e. it shall make available the electronic formats for the submission of applications for authorisation and for declarations. 2 It shall request the cantonal enforcement authorities, where appropriate at the request of the assessment authorities: a. to carry out checks in accordance with Article 58; b. to take random samples for analyses in accordance with paragraph 1 letter c. 3 Where in this Ordinance provision is made for opinions to be obtained from the assessment authorities, their requests are binding on the Notification Authority. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). See footnote to Art. 1 b para. 3. See footnote to Art. 28 para. 4. Correction of 23 Dec. 2014 ( AS 2014 4719 ). Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Toxicological Information Centre",
+      "content": "Article 79 of the ChemO applies with regard to the Toxicological Information Centre. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 )."
+    },
+    {
+      "provision_ref": "art54a",
+      "section": "54a",
+      "title": "a Biocidal products helpdesk",
+      "content": "1 The Notification Authority shall operate a biocidal products helpdesk in cooperation with the assessment authorities. 2 The helpdesk shall provide advice to applicants, in particular to SMEs, and to any other interested parties on their respective responsibilities and obligations under this Ordinance. 3 In particular, it shall provide advice to applicants about the possibility of adapting the data requirements specified in Annex 5 Number 2.2 paragraph 1. Inserted by No I of the O of 20 June 2014, in force since 15 July 2014( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "",
+      "content": "Repealed by No I of the O of 20 June 2014, with effect from 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Monitoring of imports and exports",
+      "content": "1 Customs offices shall check, at the request of the Notification Authority, whether biocidal products or treated articles comply with the provisions of this Ordinance. 2 The assessment authorities may ask the Notification Authority to submit a request as specified in paragraph 1. 3 If they suspect any infringement, the customs offices are entitled to withhold biocidal products or treated articles at the border and call in the other executive authorities under this Ordinance. These authorities shall carry out further enquiries and take the required measures. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 )."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Fees and advance on costs",
+      "content": "1 The obligation to pay fees and the calculation of fees for administrative action by the federal enforcement authorities in accordance with this Ordinance is based on the Chemicals Fees Ordinance of 18 May 2005. 2 No fees are payable for the recognition of a Union authorisation in accordance with Article 14 a bis paragraph 2. 3 For an application for authorisation or for the amendment thereof, the applicant must pay an advance on costs. This shall be determined by the Notification Authority on the basis of the likely amount of fees. 4 Payment of the advance on costs is a prerequisite for the processing of the application by the Notification Authority. 5 Paragraphs 3 and 4 do not apply to authorisations A C and A N , or to authorisations of identical biocidal products which are identical to an authorisation A C or A N . Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). SR 813.153.1"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Section 2 Cantons",
+      "section": "58",
+      "title": "Further checks",
+      "content": "1 The cantonal enforcement authorities shall inspect biocidal products and treated articles which are placed on the market or used by the manufacturers themselves. 2 They shall verify whether: a. the biocidal products placed on the market have an authorisation; b. for biocidal products used for purposes of research and development, the provisions of Articles 13 e and 13 f are being complied with; c. the rulings issued under Article 20 are being complied with, especially whether the rules concerning packaging and labelling and concerning the compilation of safety data sheets are being followed; d. the rules concerning the provision and retention of safety data sheets are being followed; e. the special provisions concerning the handling of biocidal products are being complied with; f. the requirements for treated articles specified in Articles 31 and 31 a are being complied with; g. the provisions of Article 13 a concerning parallel trade are being complied with. 3 They shall carry out random sampling at the request of the Notification Authority. 4 In addition, they have the powers set out in Article 42 of the ChemA. 5 If the biocidal products inspected give grounds for complaint, the inspection authority must inform the Notification Authority and the cantonal authority responsible for issuing an order in accordance with Article 59. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Section 2 Cantons",
+      "section": "59",
+      "title": "Order of the cantonal enforcement authority",
+      "content": "If an inspection reveals infringements of the provisions set out in Article 58 paragraph 2, the competent authority in the canton in which the authorisation holder or the manufacturer, distributor or user is domiciled or has its registered office or branch must order the necessary measures. In the case of infringements of Articles 41–49, the competent authority in the canton in which the infringement took place may also issue the order. The cantons shall coordinate the required measures. Amended by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ( AS 2022 220 )."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Section 3 Delegation of Duties and Powers to Third Parties",
+      "section": "60",
+      "title": "",
+      "content": "1 The competent federal bodies may delegate to appropriate public corporations or private persons all or some of the duties and powers assigned to them by this Ordinance. 2 To the extent that enforcement of health protection is concerned, delegation is limited to the following: a. analytical examination of random samples (Art. 53 para. 1 let. c); b. checking of applications for completeness in accordance with Article 16 paragraph 2 and evaluation of documents in accordance with Article 17. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Section 4 Passing-on of Data",
+      "section": "61",
+      "title": "",
+      "content": "Articles 74–76 of the ChemO apply mutatis mutandis to the passing-on of data concerning biocidal products. Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ( AS 2015 1985 ). [ AS 2005 2721 ; 2007 821 ; 2009 401 , 805 ; 2010 5223 ; 2011 5227 ; 2012 6103 , 6659 ; 2013 201 , 2673 , 3041 No I 3; 2014 2073 Annex 11 No 1, 3857 . AS 2015 1903 Art. 91]. See now: the O of 5 June 2015 ( SR 813.11 )."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Section 1 Transitional Provisions to the Amendment of 20 June 2014",
+      "section": "62",
+      "title": "Pending applications",
+      "content": "1 An application for authorisation A L or A nL , or for recognition of a biocidal product, which is pending at the time the Amendment of 20 June 2014 to this Ordinance comes into force shall be evaluated by the Notification Authority in accordance with existing legislation. 2 The risk assessment of the active substance in the biocidal product for which an application for authorisation is pending shall, however, be carried out: a. in accordance with Articles 11–11 f , if the active substance has not been approved by the European Commission or listed in Annex 2; b. in accordance with Article 11 g , if the active substance is a candidate for substitution on the basis of a decision adopted by the European Commission. 3 Where the risk assessment of the active substance under the new legislation identifies concerns arising from the provisions newly applicable with the entry into force of the Amendment of 20 June 2014 to this Ordinance, the applicant shall be given the opportunity to submit additional information to the Notification Authority. Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 )."
+    },
+    {
+      "provision_ref": "art62a62b",
+      "chapter": "Section 1 Transitional Provisions to the Amendment of 20 June 2014",
+      "section": "62a62b",
+      "title": "",
+      "content": "Inserted by No I of the O of 20 June 2014 ( AS 2014 2073 ). Repealed by No I of the O of 18 Nov. 2020, with effect from 15 Dec. 2020 ( AS 2020 5125 )."
+    },
+    {
+      "provision_ref": "art62c",
+      "chapter": "Section 1 Transitional Provisions to the Amendment of 20 June 2014",
+      "section": "62c",
+      "title": "c Treated articles",
+      "content": "1 By way of derogation from Article 31 paragraph 1, a treated article may, after the commencement of the Amendment of 20 June 2014 to this Ordinance, be placed on the market for the first time until the date specified in paragraph 2 if it meets one of the following conditions: a. It was treated with or intentionally incorporates one or more biocidal products containing only active substances that are included in the list of notified active substances. b. For the active substances it contains, an application for approval for the relevant product type is submitted to the European Commission by 1 September 2016. c. It contains only a combination of active substances included in the list of notified active substances and active substances included in the list drawn up in Annex 2 for the relevant product type and use or included in Annex 1. 2 The treated articles specified in paragraph 1 may be placed on the market for the first time until one of the following dates: a. the date on which approval is granted by the European Commission for the relevant product type and use of the last active substance which is to be authorised and is contained in the biocidal product; b. the date falling 180 days after a decision by the European Commission not to approve one of the active substances for the relevant use. 3 … Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ( AS 2014 2073 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ( AS 2018 817 ). Repealed by No I of the O of 15 Nov. 2023, with effect from 1 Jan. 2023 ( AS 2023 709 )."
+    },
+    {
+      "provision_ref": "art62d",
+      "section": "62d",
+      "title": "",
+      "content": "Inserted by No I of the O of 20 June 2014 ( AS 2014 2073 ). Repealed by No I of the O of 18 Nov. 2020, with effect from 15 Dec. 2020 ( AS 2020 5125 )."
+    },
+    {
+      "provision_ref": "art62e",
+      "chapter": "Section 2",
+      "section": "62e",
+      "title": "e Transitional Provision to the Amendment of 18 November 2020",
+      "content": "The following biocidal products, notwithstanding that they do not have a UFI on 1 January 2022, may be placed on the market at the latest until 31 December 2025 without indicating the UFI in accordance with Article 14 a : a. biocidal products intended for professional users; b. biocidal products intended for private users and placed on the market before 1 January 2022."
+    },
+    {
+      "provision_ref": "art62f",
+      "chapter": "Section 2",
+      "section": "62f",
+      "title": "f Transitional Provision to the Amendment of 11 March 2022",
+      "content": "Biocidal products that are labelled in accordance with the previous law pursuant to Article 10 paragraph 3 letter b ChemO may be supplied to third parties until 31 December 2025. Inserted by Annex No 1 of the O of 11 March 2022, in force since 1 May 2022 ( AS 2022 220 ). SR 813.11"
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "Section 2",
+      "section": "63",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 August 2005."
+    }
+  ],
+  "definitions": []
+}

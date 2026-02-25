@@ -1,0 +1,152 @@
+{
+  "id": "sr-941-221-2",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 15. August 1986 über Gewichtstücke",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1986/2022_2022_2022/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt die Zulassung, Eichung und messtechnischen Eigenschaften von eichpflichtigen Gewichtstücken. 2 … Aufgehoben durch Ziff. I 11 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), mit Wirkung seit 1. Januar 2013 ( AS 2012 7183 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Bezugsbedingungen",
+      "content": "Es gelten folgende Werte: Temperatur der Gewichtstücke 20°C Dichte der Bezugs-Gewichtstücke 8000 kg/m 3 Luftdichte 1,2 kg/m 3"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Gewichtstück, Gewichtstückreihe",
+      "content": "1 Ein Gewichtstück ist eine messtechnische Verkörperung der Masse, deren konstruktive und metrologische Eigenschaften wie Form, Abmessungen, Werkstoff, Oberflächengüte, Nennwert und Fehlergrenzen vorgeschrieben sind. 2 Eine Gewichtstückreihe oder ein Satz von Gewichtstücken ist so zusammengesetzt, dass die Wägung einer Last im Bereich zwischen dem kleinsten Nennwert und der Summe der Nennwerte aller Gewichtstücke des Satzes in einer Stufung durchgeführt werden kann, bei welcher die Masse des Gewichtstückes mit dem kleinsten Nennwert die Reihe bestimmt. 3 … Ausdruck gemäss Ziff. I der V des EJPD vom 21. November 1995, in Kraft seit 1. Februar 1996 ( AS 1995 5646 ). Aufgehoben durch Ziff. I 11 der V vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), mit Wirkung seit 1. Januar 2013 ( AS 2012 7183 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Wägewert, Masse",
+      "content": "1 Der Wägewert ist der durch Wägung in Luft ohne Luftauftriebskorrektur ermittelte Näherungswert für die Masse. 2 Der Wert der Masse wird aus dem Wägewert unter Berücksichtigung der Luftauftriebskorrektur ermittelt; in Handel und Verkehr wird für die Gewichtstücke die konventionelle Dichte von 8000 kg/m 3 angenommen, ohne Rücksicht auf ihre wahre Dichte. Der Fehler, mit dem der so berechnete Wert der Masse behaftet ist, darf in jedem Fall vernachlässigt werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "5",
+      "title": "",
+      "content": "1 Gewichtstücke werden durch ihre konventionelle Masse charakterisiert. 2 Die konventionelle Masse eines Körpers ist gleich der Masse eines Massenormals von der Dichte 8000 kg/m 3 , das diesem Körper bei der Temperatur von 20° C und in der Luft der Dichte 1,2 kg/m 3 das Gleichgewicht hält. 3 Die konventionelle Masse m k eines Gewichtstückes der Masse m und der Dichte p ausgedrückt in Kilogramm je Kubikmeter beträgt bei 20°C: m k = m Fassung gemäss Ziff. I der V des EJPD vom 21. November 1995, in Kraft seit 1. Februar 1996 ( AS 1995 5646 ). Fassung gemäss Ziff. I der V des EJPD des EJPD vom 21. November 1995, in Kraft seit 1. Februar 1996 ( AS 1995 5646 ). Ausdruck gemäss Ziff. I der V des EJPD vom 21. November 1995, in Kraft seit 1. Februar 1996 ( AS 1995 5646 ). Ausdruck gemäss Ziff. I der V des EJPD vom 21. November 1995, in Kraft seit 1. Februar 1996 ( AS 1995 5646 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Anforderungen an die Gewichtstücke",
+      "section": "6",
+      "title": "Zulassung",
+      "content": "1 Zur Eichung zugelassen sind Gewichtstücke von 1 mg bis 50 kg, die den Anforderungen nach Absatz 2 genügen. Sie unterstehen der allgemeinen Zulassung nach Anhang 5 Ziffer 1.2 der Messmittelverordnung vom 15. Februar 2006. 2 Aufbau und messtechnische Eigenschaften der Gewichtstücke müssen dem Stand der Technik entsprechen, wie er insbesondere in den internationalen OIML-Empfehlungen im Anhang zum Ausdruck kommt (OIML: Organisation Internationale de Métrologie Légale). Fassung gemäss Ziff. I der V des EJPD vom 2. Oktober 2006 ( AS 2006 4193 ). Fassung gemäss Ziff. I der V des EJPD vom 21. November 1995, in Kraft seit 1. Februar 1996 ( AS 1995 5646 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Anforderungen an die Gewichtstücke",
+      "section": "7",
+      "title": "Nennwerte",
+      "content": "1 Die Nennwerte der Gewichtstücke können dezimale Vielfache oder Teile der nach Absatz 2 zulässigen Masseeinheiten oder das Doppelte oder die Hälfte von dezimalen Vielfachen oder Teilen jener Einheiten betragen. 2 Für die Bezeichnung von Gewichtstücken sind nebst der Basiseinheit der Masse (kg) folgende Masseeinheiten zulässig: Tonne (t), Gramm (g) und Milligramm (mg)."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Anforderungen an die Gewichtstücke",
+      "section": "8",
+      "title": "Reihen von Gewichtstücken",
+      "content": "Die nachstehenden Folgen von Nennwerten sind für die Reihen von Gewichtstücken zulässig: (1,1,2,5) 10 n kg (1,1,1,2,5) 10 n kg (1,2,2,5) 10 n kg (1,1,2,2,5) 10 n kg wobei n die Zahl Null oder eine positive oder negative ganze Zahl ist."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Anforderungen an die Gewichtstücke",
+      "section": "9",
+      "title": "Genauigkeitsklassen",
+      "content": "Die Gewichtstücke sind in neun Genauigkeitsklassen eingeteilt: E 1 , E 2 , F 1 , F 2 , M 1 , M 1–2 , M 2 , M 2–3 , M 3 . Fassung gemäss Ziff. I der V des EJPD vom 2. Oktober 2006 ( AS 2006 4193 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "2. Abschnitt: Anforderungen an die Gewichtstücke",
+      "section": "10",
+      "title": "Fehlergrenzen",
+      "content": "1 Die Eichfehlergrenzen und die Verkehrsfehlergrenzen der Gewichtstücke, bezogen auf die konventionelle Masse, betragen: Nennwert Genauigkeitsklasse, Eichfehlergrenzen in ± mg E 1 E 2 F 1 F 2 M 1 M 2 M 3 50 kg 25 80 250 800 2 500 8 000 25 000 20 kg 10 30 100 300 1 000 3 000 10 000 10 kg 5 16 50 160 500 1 600 5 000 5 kg 2,5 8,0 25 80 250 800 2 500 2 kg 1,0 3,0 10 30 100 300 1 000 1 kg 0,50 1,6 5 16 50 160 500 500 g 0,25 0,80 2,5 8,0 25 80 250 200 g 0,10 0,30 1,0 3,0 10 30 100 100 g 0,05 0,16 0,5 1,6 5 16 50 50 g 0,030 0,10 0,30 1,0 3,0 10 30 20 g 0,025 0,08 0,25 0,8 2,5 8 25 10 g 0,020 0,06 0,20 0,6 2,0 6 20 5 g 0,016 0,05 0,16 0,5 1,6 5 16 2 g 0,012 0,04 0,12 0,4 1,2 4 12 1 g 0,010 0,03 0,10 0,3 1,0 3 10 500 mg 0,008 0,025 0,08 0,25 0,8 2,5 – 200 mg 0,006 0,020 0,06 0,20 0,6 2,0 – 100 mg 0,005 0,016 0,05 0,16 0,5 1,6 – 50 mg 0,004 0,012 0,040 0,12 0,40 – – 20 mg 0,003 0,010 0,030 0,10 0,30 – – 10 mg 0,003 0,008 0,025 0,08 0,25 – – 5 mg 0,003 0,006 0,020 0,06 0,20 – – 2 mg 0,003 0,006 0,020 0,06 0,20 – – 1 mg 0,003 0,006 0,020 0,06 0,20 – – 2 Die Eich- und Verkehrsfehlergrenzen für Gewichtstücke von 50 kg der Zwischenklassen M 1–2 und M 2–3 , bezogen auf die konventionelle Masse, betragen: a. ± 5 000 mg für die Genauigkeitsklasse M 1–2 ; b. ± 16 000 mg für die Genauigkeitsklasse M 2–3 . Fassung gemäss Ziff. I der V des EJPD vom 2. Oktober 2006 ( AS 2006 4193 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V des EJPD vom 21. November 1995 ( AS 1995 5646 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Eichung",
+      "section": "12",
+      "title": "Durchführung der Eichung",
+      "content": "1 Die Eichung eines Gewichtstückes ist durch Vergleich mit einem Gewichtstück aus einer höheren Genauigkeitsklasse, mindestens M 1 , vorzunehmen. Das Messverfahren bei der Eichung der Gewichtstücke der höchsten Genauigkeitsklasse wird vom Eidgenössischen Institut für Metrologie (METAS) bestimmt. 2 Gewichtstücke sind einzeln zu eichen. Die Prüfung ist entweder durch direkten Vergleich oder durch Substitution durchzuführen. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. November 2004 ( SR 170.512.1 ) angepasst. Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Eichung",
+      "section": "13",
+      "title": "Zuständigkeit",
+      "content": "Zuständig sind für die Durchführung der Eichung: a. von Gewichtstücken der Genauigkeitsklassen M 1–2 , M 2 , M 2–3 und M 3 : ein kantonales Eichamt; b. von Gewichtstücken der Genauigkeitsklassen F 1 , F 2 und M 1 : ein besonders zu diesem Zweck ausgerüstetes kantonales Eichamt oder, wenn ein solches nicht vorhanden ist, das METAS; c. von Gewichtstücke der Genauigkeitsklassen E 1 und E 2 : das METAS oder eine Eichstelle. Fassung gemäss Ziff. I 11 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Januar 2013 ( AS 2012 7183 )."
+    },
+    {
+      "provision_ref": "art13a",
+      "chapter": "3. Abschnitt: Eichung",
+      "section": "13a",
+      "title": "a Nacheichung",
+      "content": "Die Nacheichung erfolgt: a. für Gewichtstücke der Genauigkeitsklassen F 1 , F 2 , M 1 , M 1–2 , M 2 , M 2–3 und M 3 : alle vier Jahre; b. für Gewichtstücke der Genauigkeitsklassen E 1 und E 2 : alle sechs Jahre. Eingefügt durch Ziff. I 11 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Januar 2013 ( AS 2012 7183 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Abschnitt: Eichung",
+      "section": "14",
+      "title": "Erfüllung der Eichpflicht",
+      "content": "1 Die Eichpflicht ist erfüllt, wenn das Gewichtstück den Vorschriften dieser Verordnung genügt und wenn es geprüft und amtlich gestempelt ist; vorbehalten sind die Absätze 2 und 3. 2 Für Gewichtstücke von 1 g oder weniger ist die Eichpflicht erfüllt, wenn die Gewichtstücke geprüft und der Gewichtstückkasten amtlich gestempelt worden ist. 3 Für Gewichtstücke der Genauigkeitsklassen E 1 , E 2 und F 1 ist die Eichpflicht erfüllt, wenn nach der Prüfung der Gewichtstücke der Gewichtstückkasten amtlich gestempelt oder ein Eichzertifikat ausgestellt worden ist. Ausdruck gemäss Ziff. I der V des EJPD vom 21. Novenmber 1995, in Kraft seit 1. Februar 1996 ( AS 1995 5646 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I 11 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), mit Wirkung seit 1. Januar 2013 ( AS 2012 7183 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "Vollzug",
+      "content": "Soweit im Gesetz und in dieser Verordnung keine besonderen Bestimmungen enthalten sind, obliegt die Ausführung dieser Verordnung und ihre Überwachung in Handel und Verkehr den Kantonen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "17",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Artikel 60–66 der Vollziehungsverordnung vom 12. Januar 1912 betreffend die in Handel und Verkehr gebrauchten Längen- und Hohlmasse, Gewichte und Waagen werden aufgehoben. [BS 10 11; AS 1970 937 Art. 35 Abs. 2, 1971 1792 Art. 15 Abs. 2, 1973 449 Art. 23 2228 Art. 34, 1985 56 Art. 31 Abs. 1 Bst. b, 1986 2013 Art. 16 Bst. a . AS 1991 1306 Art. 9]"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "18",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Gewichtstücke, die den bisherigen Vorschriften entsprechen, können noch während fünf Jahren nach dem Inkrafttreten dieser Verordnung zur Ersteichung gestellt werden. 2 Gewichtstücke, die bis zum Inkrafttreten dieser Verordnung geeicht worden sind, dürfen noch während zwölf Jahren nachgeeicht werden. Sie dürfen danach weiterhin geeicht werden, wenn sie die allgemeinen Zulassungsbedingungen erfüllen, andernfalls müssen sie entwertet und aus dem Verkehr gezogen werden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "19",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 1987 in Kraft."
+    }
+  ],
+  "definitions": []
+}

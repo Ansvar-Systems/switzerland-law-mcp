@@ -1,0 +1,119 @@
+{
+  "id": "sr-817-022-42",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 16. Dezember 2016 über technologische Verfahren sowie technische Hilfsstoffe zur Behandlung von Lebensmitteln (VtVtH)",
+  "title_en": "",
+  "short_name": "VtVtH",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/162/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt: a. die Anwendungsbedingungen für: 1. biologische, chemische und physikalische Verfahren zur Verlängerung der Haltbarkeit von Lebensmitteln, 2. Verfahren zur Erhöhung der hygienisch-mikrobiologischen Sicherheit von Lebensmitteln; b. die Verwendung von Enzymen und Extraktionslösungsmitteln in Lebensmitteln. 2 Sie gilt nicht für: a. die thermische Verfahren und die Verarbeitungshygiene nach dem 4. Kapitel der Hygieneverordnung des EDI vom 16. Dezember 2016; b. Lebensmittelenzyme, die zur Herstellung von Lebensmittelzusatzstoffen und von Verarbeitungshilfsstoffen verwendet werden; c. Extraktionslösungsmittel, die bei der Herstellung von Lebensmittelzusatzstoffen, Nährstoffen oder Stoffen nach der Verordnung des EDI vom 16. Dezember 2016 über den Zusatz von Vitaminen, Mineralstoffen und sonstigen Stoffen zu Lebensmitteln verwendet werden, sofern diese Stoffe nicht in Anhang 1 aufgeführt sind; d. Mikroorganismenkulturen, die bei der herkömmlichen Erzeugung von Lebensmitteln eingesetzt werden und die Enzyme produzieren können, aber nicht spezifisch zu ihrer Herstellung verwendet werden. 3 Vorbehalten bleiben: a. die spezifischen Anforderungen der Verordnung des EDI vom 16. Dezember 2016 über neuartige Lebensmittel; b. die Bestimmungen über die Verwendung von Lebensmittelenzymen nach der Spezialgesetzgebung. SR 817.024.1 SR 817.022.32 SR 817.022.2"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Lebensmittelenzym: Erzeugnis, das aus Pflanzen, Tieren oder Mikroorganismen oder aus daraus hergestellten Erzeugnissen gewonnen wird; dazu gehören auch Erzeugnisse, die durch ein Fermentationsverfahren mit Mikroorganismen gewonnen werden und die: 1. ein Enzym oder mehrere Enzyme enthalten, die die Fähigkeit besitzen, eine spezifische biochemische Reaktion zu katalysieren, und 2. Lebensmitteln zugesetzt werden, um auf irgendeiner Stufe der Herstellung, Verarbeitung, Zubereitung, Behandlung, Verpackung, Beförderung oder Lagerung von Lebensmitteln einen technologischen Zweck zu erfüllen; b. Lebensmittelenzym-Zubereitung: Präparat aus einem oder mehreren Lebensmittelenzymen, dem Stoffe wie Lebensmittelzusatzstoffe oder andere Lebensmittelzutaten beigemischt wurden, um die Lagerung, den Verkauf, die Standardisierung, die Verdünnung oder die Lösung der Lebensmittelenzyme zu erleichtern; c. Lösungsmittel: Stoffe, mit denen Lebensmittel oder Bestandteile von Lebensmitteln aufgelöst werden können, einschliesslich der einzelnen Verunreinigungsstoffe, die in oder auf diesen Lebensmitteln vorhanden sind; d. Extraktionslösungsmittel: Lösungsmittel, die: 1. in einem Extraktionsverfahren bei der Bearbeitung von Rohstoffen, Lebensmitteln oder deren Bestandteilen oder Zutaten verwendet und aus dem Enderzeugnis entfernt werden, und 2. die unbeabsichtigte, aber technisch unvermeidbare Rückstände oder Rückstandsderivate in den Lebensmitteln oder Lebensmittelzutaten hinterlassen können."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Anwendungsbedingungen für die Verfahren zur Verlängerung der Haltbarkeit und zur Erhöhung der hygienisch-mikrobiologischen Sicherheit",
+      "section": "3",
+      "title": "Gemeinsame Bestimmungen",
+      "content": "1 Bei der Anwendung technologischer Verfahren und bei Behandlungen zur Verlängerung der Haltbarkeit und zur Erhöhung der hygienisch-mikrobiologischen Sicherheit hat die verantwortliche Person eines Lebensmittelbetriebes zu gewährleisten, dass: a. die behandelten Lebensmittel gesundheitlich unbedenklich bleiben; und b. sich die stoffliche Zusammensetzung sowie die physikalischen, ernährungsphysiologischen und sensorischen Eigenschaften der behandelten Lebensmittel möglichst wenig verändern. 2 Die Anwendung der Verfahren und der Behandlungen müssen im Rahmen der Selbstkontrolle in die gute Herstellungspraxis (GHP) und in die Verfahren nach dem Konzept der Gefahrenanalyse und der kritischen Kontrollpunkte (Hazard Analysis and Critical Control Points, HACCP-Konzept) integriert werden. 3 Bei der Anwendung von Verfahren und bei Behandlungen nach Anhang 2 gelten zusätzlich die dort beschriebenen Anwendungsbedingungen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Anwendungsbedingungen für die Verfahren zur Verlängerung der Haltbarkeit und zur Erhöhung der hygienisch-mikrobiologischen Sicherheit",
+      "section": "4",
+      "title": "Bestrahlung von Lebensmitteln",
+      "content": "1 Eine Bewilligung für die Bestrahlung von Lebensmitteln nach Artikel 28 LGV kann erteilt werden, wenn diese mindestens einem der folgenden Zwecke dient: a. der Verringerung von pathogenen Mikroorganismen; b. der Verringerung des Verderbs von Lebensmitteln durch Verzögerung oder Anhalten von Verfallsprozessen und durch Zerstörung von verderbfördernden Mikroorganismen; c. der Befreiung der Lebensmittel von Befall durch Schadorganismen von Pflanzen und Pflanzenerzeugnissen von Pflanzen. 2 Die technischen Vorgaben für die Bestrahlung richten sich nach Anhang 3."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Anwendungsbedingungen für die Verfahren zur Verlängerung der Haltbarkeit und zur Erhöhung der hygienisch-mikrobiologischen Sicherheit",
+      "section": "5",
+      "title": "Behandlung von Lebensmitteln tierischer Herkunft zur Entfernung von Oberflächenverunreinigungen",
+      "content": "Zulässig für die Behandlung von Lebensmitteln tierischer Herkunft zur Entfernung von Oberflächenverunreinigungen mit anderen Verfahren als dem Abspülen mit Trinkwasser sind die Verfahren nach Anhang 4."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Anwendungsbedingungen für die Verfahren zur Verlängerung der Haltbarkeit und zur Erhöhung der hygienisch-mikrobiologischen Sicherheit",
+      "section": "6",
+      "title": "Kennzeichnung",
+      "content": "Lebensmittel, die mit einem Verfahren zur Verlängerung der Haltbarkeit und zur Erhöhung der hygienisch-mikrobiologischen Sicherheit behandelt worden sind, sind nach Anhang 2 Teil A Ziffern 1 und 3 der Verordnung des EDI vom 16. Dezember 2016 betreffend die Information über Lebensmittel (LIV) zu kennzeichnen. SR 817.022.16"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Enzyme und Extraktionslösungsmittel",
+      "section": "7",
+      "title": "Voraussetzungen für die Verwendung von Enzymen",
+      "content": "1 Lebensmittelenzyme dürfen als solche in Verkehr gebracht und Lebensmitteln gemäss GHP zugesetzt werden. 2 Sie dürfen unter den folgenden Bedingungen verwendet werden: a. Das Enzym ist in der vorgeschlagenen Menge für Konsumentinnen und Konsumenten und aufgrund der bekannten wissenschaftlichen Daten gesundheitlich unbedenklich. b. Für die Verwendung des Enzyms besteht eine hinreichende technologische Notwendigkeit. c. Durch die Verwendung des Enzyms werden die Konsumentinnen und Konsumenten nicht getäuscht, insbesondere hinsichtlich der Frische, der Qualität und der Beschaffenheit der verwendeten Zutaten sowie der Natürlichkeit, des Herstellungsverfahrens oder dem Nährwert des Erzeugnisses."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Enzyme und Extraktionslösungsmittel",
+      "section": "8",
+      "title": "Voraussetzungen für die Verwendung von Extraktionslösungsitteln",
+      "content": "Die in Anhang 1 aufgeführten Stoffe dürfen bei der Herstellung von Lebensmitteln oder Lebensmittelzutaten nach den in diesem Anhang genannten Verwendungsbedingungen und unter Berücksichtigung der Rückstandshöchstwerte als Extraktionslösungsmittel verwendet werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Enzyme und Extraktionslösungsmittel",
+      "section": "9",
+      "title": "Kennzeichnung von Enzymen und Lebensmittelenzym-Zubereitungen, die als solche an Konsumentinnen und Konsumenten abgegeben werden",
+      "content": "Werden Lebensmittelenzyme und Lebensmittelenzym-Zubereitungen als solche an Konsumentinnen und Konsumenten abgegeben, so müssen auf der Verpackung oder dem Etikett zusätzlich zu den Angaben nach Artikel 3 LIV die folgenden Angaben angebracht werden: a. die Bezeichnung der einzelnen Lebensmittelenzyme oder falls eine solche Bezeichnung fehlt, die allgemein akzeptierte Bezeichnung der Enzyme nach der Nomenklatur der Internationalen Vereinigung für Biochemie und Molekularbiologie; b. die Angabe «für Lebensmittel», die Angabe «für Lebensmittel, begrenzte Verwendung» oder einen genaueren Hinweis auf die vorgesehene Verwendung in Lebensmitteln. SR 817.022.16 Die Nomenklatur kann bei der Internationalen Vereinigung für Biochemie und Molekularbiologie (International Union of Biochemistry and Molecular Biology, IUBMB) unter www.iubmb.org abgerufen werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Enzyme und Extraktionslösungsmittel",
+      "section": "10",
+      "title": "Kennzeichnung von Lebensmittelenzymen und Lebensmittelenzym-Zubereitungen, die nicht als solche an Konsumentinnen und Konsumenten abgegeben werden",
+      "content": "1 Werden Lebensmittelenzyme und Lebensmittelenzym-Zubereitungen, die nicht für die Abgabe an Konsumentinnen und Konsumenten bestimmt sind, einzeln oder gemischt mit anderen Lebensmittelenzymen, Lebensmittelenzym-Zubereitungen oder anderen Lebensmittelzutaten in den Verkehr gebracht, so müssen auf der Verpackung oder dem Behältnis zusätzlich zu den Angaben nach Artikel 3 Absatz 1 Buchstaben e–g, k und p LIV folgende Angaben angebracht werden: a. die Bezeichnung der einzelnen Lebensmittelenzyme, eine Handelsbezeichnung, die die Bezeichnung der einzelnen Lebensmittelenzyme enthält, oder falls eine solche Bezeichnung fehlt, die allgemein akzeptierte Bezeichnung nach der Nomenklatur der Internationalen Vereinigung für Biochemie und Molekularbiologie; b. die Angabe «für Lebensmittel», die Angabe «für Lebensmittel, begrenzte Verwendung» oder einen genaueren Hinweis auf die vorgesehene Verwendung in Lebensmitteln; c. die Höchstkonzentration der einzelnen Bestandteile oder der einzelnen Gruppen von Bestandteilen, die einer mengenmässigen Begrenzung in Lebensmitteln unterliegen; gilt die Höchstkonzentration für eine Gruppe von Bestandteilen, die einzeln oder gemeinsam verwendet werden, so kann der gemeinsame Prozentsatz als ein einziger Wert angegeben werden; die mengenmässige Begrenzung wird entweder zahlenmässig oder «gemäss GHP» ausgedrückt; d . Angaben in klarer und leicht verständlicher Formulierung, die es der Erwerberin oder dem Erwerber ermöglichen, die Bestimmungen bezüglich der Lebensmittelenzyme einzuhalten; e. die Aktivitäten der Lebensmittelenzyme; f. eine Liste aller Zutaten und Bestandteile in absteigender Reihenfolge ihres Anteils am Gesamtgewicht; g. gegebenenfalls Angaben nach Artikel 11 LIV über Lebensmittelenzyme oder sonstige Stoffe, auf die in diesem Artikel Bezug genommen wird. 2 Es genügt, wenn die Angaben nach Absatz 1 Buchstaben c, d und f und nach Artikel 3 Absatz 1 Buchstaben f, g, k und p LIV in den vor oder bei der Lieferung vorzulegenden Warenbegleitpapieren enthalten sind, sofern die Angabe «nicht für den Verkauf im Einzelhandel» auf der Verpackung oder dem Behältnis des betreffenden Erzeugnisses an gut sichtbarer Stelle angebracht ist. 3 Bei der Lieferung von Enzymen und Lebensmittelenzym-Zubereitungen in Tankwagen genügt es, wenn die Angaben nach Absatz 1 in den bei der Lieferung vorzulegenden Warenbegleitpapieren aufgeführt sind. SR 817.022.16 Die Nomenklatur kann bei der Internationalen Vereinigung für Biochemie und Molekularbiologie (International Union of Biochemistry and Molecular Biology, IUBMB) unter www.iubmb.org abgerufen werden."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Nachführen der Anhänge",
+      "section": "11",
+      "title": "",
+      "content": "1 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen passt die Anhänge dem Stand von Wissenschaft und Technik sowie dem Recht der wichtigsten Handelspartner der Schweiz an. 2 Es kann Übergangsbestimmungen festlegen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Schlussbestimmung",
+      "section": "12",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 2017 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Lebensmittelenzym:",
+      "definition": "Lebensmittelenzym: Erzeugnis, das aus Pflanzen, Tieren oder Mikroorganismen oder aus daraus hergestellten Erzeugnissen gewonnen wird; dazu gehören auch Erzeugnisse, die durch ein Fermentationsverfahren mit Mikroorganismen gewonnen werden und die: 1. ein Enzym oder mehrere Enzyme enthalten, die die Fähigkeit besitzen, eine spezifische biochemische Reaktion zu katalysieren, und",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Lebensmittelenzym-Zubereitung:",
+      "definition": "Lebensmittelenzym-Zubereitung: Präparat aus einem oder mehreren Lebensmittelenzymen, dem Stoffe wie Lebensmittelzusatzstoffe oder andere Lebensmittelzutaten beigemischt wurden, um die Lagerung, den Verkauf, die Standardisierung, die Verdünnung oder die Lösung der Lebensmittelenzyme zu erleichtern;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Lösungsmittel:",
+      "definition": "Lösungsmittel: Stoffe, mit denen Lebensmittel oder Bestandteile von Lebensmitteln aufgelöst werden können, einschliesslich der einzelnen Verunreinigungsstoffe, die in oder auf diesen Lebensmitteln vorhanden sind;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Extraktionslösungsmittel:",
+      "definition": "Extraktionslösungsmittel: Lösungsmittel, die: 1. in einem Extraktionsverfahren bei der Bearbeitung von Rohstoffen, Lebensmitteln oder deren Bestandteilen oder Zutaten verwendet und aus dem Enderzeugnis entfernt werden, und",
+      "source_provision": "art2"
+    }
+  ]
+}

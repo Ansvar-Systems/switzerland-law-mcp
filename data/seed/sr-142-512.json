@@ -1,0 +1,316 @@
+{
+  "id": "sr-142-512",
+  "type": "statute",
+  "title": "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssystem und das nationale Visumsystem (Visa-Informationssystem-Verordnung, VISV)",
+  "title_en": "Ordinance of 18 December 2013 on the Central Visa Information System and the National Visa System (Visa Information System-Ordinance, VISO)",
+  "short_name": "VISV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2014/2/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Subject matter",
+      "content": "This Ordinance regulates: a. responsibility for the National Visa System (ORBIS) and its content; b. the authorities' access rights to ORBIS; c. the authorities' access rights to the Central Visa Information System (C‑VIS); d. the procedure for transmitting C-VIS data via the central access point to the authorities under Articles 17 and 18; e. the processing and the retention period for the data; f. the rights of the persons concerned; g. data security, advice on data protection and the supervision of data processing."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "In this Ordinance: a. VIS Mail means a communication system that enables data transmission via the C-VIS infrastructure between states in which Regulation (EC) No 767/2008 (EU VIS Regulation) applies; b. third country means a state that is neither a member state of the European Union (EU) nor of the European Free Trade Association (EFTA); c. Schengen state means a state bound by any one of the Schengen Association Agreements; these agreements are listed in Annex 1 number 1; d. Dublin state means a state bound by any one of the Dublin Association Agreements; these agreements are listed in Annex 1 number 2. Regulation (EC) No 767/2008 of the European Parliament and of the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between member states on short-stay visas (VIS Regulation), OJ L 218 of 13.8.2008, p. 60; last amended by Regulation (EC) No 610/2013, OJ L 182 of 29.6.2013, p. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 Responsibility, Aim and Structure of the System",
+      "section": "3",
+      "title": "Responsibility",
+      "content": "1 The State Secretariat for Migration (SEM) is responsible for ORBIS. 2 It shall issue processing regulations, which in particular set out the measures required to guarantee data protection and data security. The name of this administrative unit was amended by Art. 16 para. 3 of the Publications O of 17 Nov. 2004 ( AS 2004 4937 ), in force since 1 Jan. 2015. This amendment has been made throughout the text."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 Responsibility, Aim and Structure of the System",
+      "section": "4",
+      "title": "Aim",
+      "content": "ORBIS has the following aims: a. to record and store the data on visa applications; b. to transmit the data recorded in application of the EU VIS Regulation to the C-VIS; c. to allow access to the C-VIS data. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 1 Responsibility, Aim and Structure of the System",
+      "section": "5",
+      "title": "Content and structure",
+      "content": "1 ORBIS contains the data specified in Annex 2 relating to each admissible visa application. 2 The data recorded in ORBIS in application of the EU VIS Regulation is transmitted automatically to the C-VIS. 3 All modifications and deletions of data recorded in ORBIS in application of the EU VIS Regulation are transmitted automatically via ORBIS to the C-VIS. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art5a",
+      "chapter": "Section 2 Recording the Data and Transmission to the C-VIS",
+      "section": "5a",
+      "title": "a Electronic visa applications for Schengen visas and temporary storage of data",
+      "content": "1 In the case of applications for Schengen visas, the applicant may send the personal data required for the application to the visa authority electronically. 2 The fees may be paid electronically. 3 The data under paragraph 1 may be stored on servers of the Federal Department of Justice and Police (FDJP) for a maximum of four months. Inserted by No II of the O of 2 Sept. 2015, in force since 1 Oct. 2015 ( AS 2015 3047 )."
+    },
+    {
+      "provision_ref": "art5b",
+      "chapter": "Section 2 Recording the Data and Transmission to the C-VIS",
+      "section": "5b",
+      "title": "b Data processing by external service providers",
+      "content": "1 The applicant may send the personal data required for the visa application to an external service provider that has been assigned tasks in connection with the visa procedure. 2 The external service provider shall record the personal data in compliance with the provisions of Annex X of Regulation (EC) No 810/2009 (Visa Code) and shall pass this on to the visa authority. Inserted by No II of the O of 2 Sept. 2015, in force since 1 Oct. 2015 ( AS 2015 3047 ). Regulation (EC) No 810/2009 of the European Parliament and of the Council of 13 July 2009 establishing a Community Code on Visas (Visa Code), OJ L 243 of 15.9.2009, p. 1; last amended by Regulation (EC) 2019/1155, OJ L 188 of 12.7.2019, p. 25. Amended by Annex No 2 of the O of 14 Aug. 2019, in force since 2 Feb. 2020 ( AS 2019 2633 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Recording the Data and Transmission to the C-VIS",
+      "section": "6",
+      "title": "",
+      "content": "1 If a visa application is admissible under Article 19 of the Visa Code , the visa authorities shall record the data specified in Annex 2 in in ORBIS accordance with Articles 8–14 of the EU VIS Regulation; the data in Category I must be recorded first and thereafter, depending on the course of the procedure, the data in Categories II–VI. 2 If the application relates to a short-stay or airport transit visa, the data in Categories I–VI is transmitted to the C-VIS in accordance with Article 5 paragraph 2. 3 The visa authorities shall also record the data in Category VII listed in Annex 2. This data is not transmitted to the C-VIS. Amended by No II of the O of 2 Sept. 2015, in force since 1 Oct. 2015 ( AS 2015 3047 ). See footnote to Art. 5 b para. 2. Term in accordance with No I of the O of 5 April 2017, in force since 1 May 2017 ( AS 2017 2551 ). This amendment has been made throughout the text. See footnote to Art. 2 let. a. Amended by No II of the O of 2 Sept. 2015, in force since 1 Oct. 2015 ( AS 2015 3047 ). Amended by Art. 69 para. 2 No 3 of the O of 15 Aug. 2018 on Entry and the Granting of Visas, in force since 15 Sept. 2018 ( AS 2018 3087 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Recording on behalf of another Schengen state",
+      "content": "1 If a Swiss authority records the data on a visa application on behalf of another Schengen state, it shall enter the names of the state concerned into ORBIS. 2 If the authority under paragraph 1 grants, refuses, revokes, annuls or extends a visa, or if it does not continue the verification of the application, the name of the state concerned is transmitted automatically to the C-VIS."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Owner the data transmitted to the C-VIS",
+      "content": "1 Switzerland is the owner of the data entered by the Swiss visa authorities when recording a visa application and making a corresponding decision, which is transmitted to the C-VIS. 2 The visa authorities may copy the fingerprints in a C-VIS application data file and enter them in a new application data file. They become owner of the new data file compiled thereby."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Links between application data files",
+      "content": "1 The visa authorities may establish or delete links between application data files where the applicant belongs to a group of travellers or to a family travelling together under Article 8 paragraph 4 of the EU VIS Regulation. 2 The Swiss authority recording the data of an application data file may link it with other data records relating to the same applicant in accordance with Article 8 paragraph 3 the EU VIS Regulation or the delete the corresponding links. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 3 Online Access to ORBIS",
+      "section": "10",
+      "title": "",
+      "content": "1 The following authorities have online access to the ORBIS data in order to fulfil the tasks assigned to them: a. at the SEM: 1. the Residence Authorisation Section and the Entry Section: to fulfil their tasks in relation to visas, travel documents and identification, 2. the Asylum Division: to verify the applications for asylum, 3. the Registrar's Office: for archiving, 4. the Information Technology Section and the Statistics Service: to compile visa statistics, 5. the Employment Market Admission Section: to verify applications under the legislation on foreign nationals; b. the border posts of the cantonal police authorities and the Border Guard: to carry out checks on persons and to grant exceptional visas; c. the Swiss representations abroad and the Swiss Mission to the UN in Geneva: to verify visa applications; d. the State Secretariat, the Directorate of Political Affairs and the Consular Directorate of the Federal Department of Foreign Affairs (FDFA): to verify visa applications and appeals that fall within the jurisdiction of the FDFA; e. the Central Compensation Office: to assess applications for benefits and to allocate and check OASI numbers; f. at the Federal Office of Police (fedpol): 1. the Legal Services Section: to issue rulings on measures banning entry to safeguard Switzerland's internal and external security in accordance with Articles 67 paragraph 4 and 68 paragraph 3 FNIA, 2. the authorities responsible for the computerised police search system (RIPOL): for identification of persons in connection with the supervision of the recording of RIPOL data under the RIPOL Ordinance of 15 October 2008, 3. the authorities responsible for international correspondence, and the operations centre: in order to identify persons in connection with the exchange of police intelligence at inter-cantonal and international levels and to verify measures banning entry to safeguard Switzerland's internal and external security, 4. the responsible authorities of the Federal Criminal Police: – in order to identify persons in connection with administrative and mutual legal assistance, in connection with security and criminal police duties and in connection with the exchange of police intelligence at inter-cantonal and international levels – to assess the suitability of a person for a witness protection programme and to carry out risk analyses, 5. the service for identity documents and tracing missing persons: to trace the whereabouts of such persons, 6. the authority responsible for operating the automated fingerprint identification system (AFIS): in order to identify persons under Article 102 paragraph 1 FNIA, 7. the responsible service at the Money Laundering Reporting Office: in order to identify persons and to determine their residency status in connection with the statutory duties of the Reporting Office to combat money laundering and its predicate offences, organised crime and the financing of terrorism under Article 23 of the Anti-Money Laundering Act of 10 October 1997; g. the cantonal and communal migration authorities and the cantonal and communal police authorities: to fulfil their duties in the field of immigration; h. the civil register offices and their supervisory authorities, and the Federal Civil Status Office: to verify the legality of the residence in Switzerland of persons engaged to be married who are not Swiss citizens and to notify the responsible authority of the identity of persons engaged to be married who are unable to prove the legality of their residence; i. at the Federal Office of Justice: 1. the International Mutual Assistance Unit: to fulfil its duties in connection with international mutual assistance proceedings under the Mutual Assistance Act of 20 March 1981, 2. the Private Law Unit: to fulfil its duties in connection with proceedings under the Federal Act of 21 December 2007 on International Child Abduction and the Hague Conventions on the Protection of Children and Adults; j. the Federal Intelligence Service: to verify measures banning entry to safeguard Switzerland's internal and external security under the Federal Act of 21 March 1997 on Measures to Safeguard Internal Security; k. the Federal Administrative Court: for the preparatory briefing procedure for appeals under the FNIA; l. the Federal Tax Administration: to fulfil their tasks in connection with: 1. the levying of Value Added Tax on goods and services supplied for consideration by taxable persons on Swiss territory (domestic tax) and on the acquisition by recipients on Swiss territory of supplies from businesses domiciled abroad (acquisition tax) and the levying of withholding tax, 2. the conduct of criminal proceedings and administrative or mutual legal assistance proceedings; m. the Federal Customs Administration: 1. to fulfil their tasks in levying Value Added Tax on the import of goods (import tax), 2. in order to identify persons in connection with customs investigations; n. ... 2 The access rights are regulated in Annex 2. [ AS 2008 5013 , 2009 6937 Annex 4 No II 15, 2011 1031 Annex 3 No 4, 2014 3789 No I 4. AS 2016 3931 Annex 2 No I]. See now the RIPOL O of 26 Oct. 2016 ( SR 361.0 ). SR 955.0 Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ( AS 2020 917 ). SR 351.1 SR 211.222.32 SR 120 Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ( AS 2018 4567 ). Repealed by No I of the O of 21 Nov. 2018, with effect from 1 Jan. 2019 ( AS 2018 4567 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 1 Online Consultation of the C-VIS",
+      "section": "11",
+      "title": "",
+      "content": "1 The following authorities may consult C-VIS data online in order to fulfil the duties assigned to them: a. at the SEM: 1. the Entry Section and the Admission and Residence Section: to fulfil their tasks in relation to visas, 2. the Dublin Sections and the employees in reception and processing centres responsible for verifying applications for asylum: to determine the Dublin state responsible for verifying an asylum application, 3. the Asylum Division: to verify asylum applications where Switzerland is responsible for deciding, 4. the Statistics Service: to compile visa statistics under Article 17 of the EU VIS Regulation; b. the border posts of the cantonal police authorities and the Border Guard: to issue exceptional visas; c. the Swiss representations abroad and the Swiss Mission to the UN in Geneva: to verify visa applications; d. the State Secretariat, the Consular Directorate and the Directorate of Political Affairs of the FDFA: to verify visa applications for which the FDFA is responsible; e. the Border Guard and the responsible cantonal and communal police authorities: 1. to conduct checks at the external borders of the Schengen area and on the sovereign territory of Switzerland, 2. to verify the identity of visa holders, to verify the authenticity of visas or to verify whether the requirements for entry into the sovereign territory of Switzerland or for residence there are met, 3. in order to identify persons without visas who do not or no longer meet the requirements for entry into the sovereign territory of Switzerland or for the residence there; f. the cantonal migration authorities and the communes to which the corresponding competences have been delegated by the cantons: to fulfil their duties in relation to visas. 2 The fedpol Operations Centre (fedpol OC) may consult C-VIS data online as central access point (Art. 20). 3 The rights to consult data are regulated in Annex 3. See footnote to Art. 2 let. a. Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ( AS 2020 917 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 2 Data Categories for Consulting the C-VIS and extent the Rights to Consult Data",
+      "section": "12",
+      "title": "Consultation to verify visa applications and for visa decisions",
+      "content": "1 The consultation of the C-VIS to verify visa applications and for visa decisions is carried out in accordance with Article 15 paragraph 2 the EU VIS Regulation on the basis of one or more of the following data: a. application number; b. first name, surname, name at birth (previous surname), sex, and date, place and country of birth; c. nature and number of the travel documents, issuing authority, date of issue and expiry date; d. first name, surname and address of the natural person or name and address of the legal entity issuing the invitation or that is required to bear the subsistence costs of the visa applicant during the stay, and the first name, surname and address of the contact person for the legal entity; e. fingerprints; f. the number of the visa vignette and date of issue of previously issued visas. 2 If the search produces a hit, the authority may consult the previous application data files for the applicant under Article 15 paragraph 3 of the EU VIS Regulation and the linked application data files under Article 8 paragraph 4 of the EU VIS Regulation. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 2 Data Categories for Consulting the C-VIS and extent the Rights to Consult Data",
+      "section": "13",
+      "title": "Consultation during checks on the Schengen external borders or on Swiss sovereign territory",
+      "content": "1 The consultation of the C-VIS during checks at crossing points on the external borders of the Schengen area in order to verify identity of the visa holder or the authenticity of the visa or to verify whether the requirements for entry into Schengen area are met is carried out in accordance with Article 18 paragraph 1 EU VIS Regulation on the basis of the visa vignette number and the visa holder's fingerprints. 2 If the search produces a hit, the authority may under Article 18 paragraph 4 EU VIS Regulation consult the data in categories I, II and V–VII in accordance with Annex 3. 3 The consultation of the C-VIS to verify the identity of the visa holder or the authenticity of the visa or to verify whether the requirements for entry into Swiss sovereign territory or for residence there are met is carried out in accordance with Article 19 paragraph 1 EU VIS Regulation on the basis of the visa vignette number and the visa holder's fingerprints or solely on the basis of the visa vignette number. 4 If the search produces a hit, the authority may under Article 19 paragraph 2 EU VIS Regulation consult the data in the categories mentioned in paragraph 2. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 2 Data Categories for Consulting the C-VIS and extent the Rights to Consult Data",
+      "section": "14",
+      "title": "Consultation for identification",
+      "content": "1 Consultation of the C-VIS solely on the basis of fingerprints may be carried out under Article 20 paragraph 1 EU VIS Regulation if: a. the verification of a visa holder under Article 13 was not successfully; b. there is doubt as to the identity of the visa holder or the authenticity of the visa or of the travel documents; c. the identity of a person without a visa must be verified. 2 If the consultation on the basis of fingerprints is not successful or if it cannot be used, a consultation on the basis of the following data may be carried out: a. first name, surname, name at birth (previous surname), sex, and date, place and country the birth; or b. nature and number of the travel documents, issuing authority, date of issue and expiry date. 3 The consultation under paragraph 2 may be carried out in combination with current nationality or nationality at birth. 4 If the search produces a hit, the authority may under Article 20 paragraph 2 EU VIS Regulation consult the data in categories I–VII in accordance with Annex 3. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Consultation to determine the responsible Dublin state",
+      "content": "1 The consultation of the C-VIS to determine the responsible Dublin state in accordance with Articles 12 and 34 of Regulation (EC) No 604/2013 (EU Dublin-Ordinance) is carried out on the basis of the asylum seeker's fingerprints. 2 If the consultation on the basis of the fingerprints is unsuccessful or cannot be used, the consultation may be carried out in accordance with the procedure under Article 14 paragraphs 2 and 3. 3 If the search produces a hit and if a visa has been issued or extended that expired no later than six months before the date on which the asylum application was filed, the data in categories I, II, VI and VII in accordance with Annex 3 may be consulted in accordance with Article 21 paragraph 2 the EU VIS Regulation. 4 Only applications that are linked due to the applicants belonging to the same family may be consulted. Regulation (EU) No 604/2013 of the European Parliament and of the Council 26 June 2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (recast), version in accordance with OJ L 180 of 29.6.2013, p. 31. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Consultation to verify asylum applications",
+      "content": "1 The consultation of the C-VIS to verify an asylum application is carried out on the basis of the asylum seeker's fingerprints. 2 If the consultation on the basis of the fingerprints is unsuccessful or cannot be used, the consultation may be carried out in accordance with the procedure under Article 14 paragraphs 2 and 3. 3 If the search produces a hit and if a visa has been issued, the data in categories I, II and V–VII in accordance with Annex 3 may be consulted in accordance with Article 22 paragraph 2 the EU VIS Regulation. 4 Only applications that are linked due to the applicants belonging to the same family may be consulted, together with the various related application data files for the same applicant. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 3 Access to C-VIS via the Central Access Point",
+      "section": "17",
+      "title": "Federal authorities that may request data",
+      "content": "The following federal authorities may request C-VIS data in accordance with Article 109 a paragraph 3 letters a–c FNIA: a. at fedpol: 1. the operations centre, 2. the Federal Criminal Police, 3. the International Identifications Service; b. at the Federal Intelligence Service: 1. the Procurement Section, 2. the Evaluation Section, 3. Counter Terrorism Coordination, 4. Intelligence Service Coordination, 5. Counter Extremism Coordination, 6. Non-Proliferation Coordination, 7. the Aliens Division; c. at the Office of the Attorney General of Switzerland: 1. the Legal Services Section: to implement the decisions of the Criminal Chamber of the Federal Criminal Court, in particular in application of Article 82 paragraph 1 of the Ordinance of 24 October 2007 on Admission, Period of Stay and Employment, 2. the divisions on international mutual assistance, state security, terrorism and white-collar crime in Bern, and the divisions on white-collar crime, organised crime and money laundering in the offices in Lausanne, Lugano and Zurich: to combat international felonies and misdemeanours and prosecute offences subject to federal jurisdiction in accordance with Articles 336 and 337 of the Criminal Code. SR 142.201 SR 311.0"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 3 Access to C-VIS via the Central Access Point",
+      "section": "18",
+      "title": "Cantonal and communal authorities that may request data",
+      "content": "The following cantonal and communal authorities may request C-VIS data in accordance with Article 109 a paragraph 3 letter d FNIA: a. the cantonal police authorities; b. the communal police authorities in the cities of Zurich, Winterthur, Lausanne, Chiasso and Lugano; c. the prosecution authorities via the cantonal police authorities."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 3 Access to C-VIS via the Central Access Point",
+      "section": "19",
+      "title": "Procedure for receiving data",
+      "content": "1 The authorities under Articles 17 and 18 shall submit an application for access to the C-VIS data with a statement of the grounds to fedpol OC in paper form or electronically. 2 In urgent exceptional cases, an authority may also submit an application verbally. The fedpol OC shall process the application immediately and verify subsequently whether the requirements under Article 20 have been met and whether it is actually an urgent exceptional case. Retrospective verification must be carried out immediately after the application is processed. 3 Fedpol set out the modalities of the procedure in processing regulations."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 3 Access to C-VIS via the Central Access Point",
+      "section": "20",
+      "title": "Requirements for receiving the data",
+      "content": "The fedpol OC shall verify whether: a. the data is required to prevent, disclose or investigate offences under Article 286 paragraph 2 letter a of the Criminal Procedure Code (CPC); b. its transmission is justified in the specific case; c. there are justified grounds to assume that its transmission will considerably assist in preventing, disclosing or investigating offences under Article 286 paragraph 2 letter a CPC. SR 312.0"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Consultation and transmission of the data",
+      "content": "1 If the requirements under Article 20 are met, the fedpol OC shall consult the C-VIS data. The consultation may be carried out only on the basis of the data specified in Article 5 paragraph 2 of Decision 2008/633/JHA (EU VIS Decision) and in accordance with the rights to consult data set out in Annex 3. 2 If the consultation produces a hit, the fedpol OC shall transmit the data specified in Article 5 paragraph 3 of the EU VIS Decision to the authority by secure means. Council Decision 2008/633/JHA of 23 June 2008 concerning access for consultation of the Visa Information System (VIS) by designated authorities of Member States and by Europol for the purposes of the prevention, detection and investigation of terrorist offences and of other serious criminal offences, version in accordance with OJ L 218 of 13.8.2008, p. 129."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Exchange of information with EU member states not bound by the EU VIS Regulation",
+      "content": "1 The EU member states where the EU VIS Regulation is not in force may submit applications to obtain C-VIS data either directly to the fedpol OC via the secure connections intended for criminal police correspondence or to the other authorities in accordance with Articles 17 and 18. 2 The fedpol OC shall verify the applications and respond to them directly. 3 The procedure is governed by Article 19. 4 The fedpol OC may, with a view to obtaining information in relation to visas, submit applications to the responsible authorities in the EU member states where the EU VIS Regulation is not in force. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Chapter 4 Consultation of Other Databases and VIS Mail",
+      "section": "23",
+      "title": "Consultation of other databases",
+      "content": "On receipt of a visa application, the visa authorities shall systematically consult the following databases via ORBIS, provided they are entitled to do so: a. the Central Migration Information System (ZEMIS) in accordance with the ZEMIS Ordinance of 12 April 2006; b. RIPOL in accordance with the RIPOL Ordinance of 15 October 2008; c. the Schengen Information System (SIS) in accordance with the N-SIS Ordinance of 8 March 2013; d. the Interpol Automated Search Facility database (ASF Interpol) in accordance with the Interpol Ordinance of 21 June 2013. SR 142.513 [ AS 2008 5013 , 2009 6937 Annex 4 No II 15, 2011 1031 Annex 3 No 4, 2014 3789 No I 4. AS 2016 3931 Annex 2 No I]. See now the RIPOL O of 26 Oct. 2016 ( SR 361.0 ). SR 362.0 Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ( AS 2020 917 ). SR 366.1"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Chapter 4 Consultation of Other Databases and VIS Mail",
+      "section": "24",
+      "title": "VIS Mail",
+      "content": "The federal and cantonal visa authorities and the communal authorities to which the related competences have been delegated shall use VIS Mail to transmit the following forms of information: a. communications in the context of consular cooperation in connection with a visa application or communications relating to requests to transmit documents connected with the visa application or copies of these documents in electronic form under Article 16 paragraph 3 EU VIS Regulation; b. communications on incorrect data in the C-VIS under Article 24 paragraph 2 EU VIS Regulation; c. a notice under Article 25 paragraph 2 EU VIS Regulation that an applicant has acquired the citizenship of a Schengen state; d. requests for consultations and answers relating to previous consultations between the central visa authorities under Article 22 paragraph 1 of the Visa Code and Article 16 paragraph 2 of the EU VIS Regulation; e. information about visas that are issued by consulates under Article 31 paragraph 1 of the Visa Code and Article 16 paragraph 3 der EU VIS Regulation to citizens of certain countries of origin or certain groups of citizens. See footnote to Art. 2 let. a. Inserted by No I of the O of 28 Oct. 2015, in force since 1 Jan. 2016 ( AS 2015 4235 ). See footnote to Art. 6 para. 1. Inserted by No I of the O of 28 Oct. 2015, in force since 1 Jan. 2016 ( AS 2015 4235 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 1 Data Processing",
+      "section": "25",
+      "title": "Processing principle",
+      "content": "Only Swiss authorities may modify the data that they transmit to C-VIS."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 1 Data Processing",
+      "section": "26",
+      "title": "Storing the data in ORBIS",
+      "content": "1 The ORBIS data shall be stored for a maximum of five years. 2 This period begins: a. in the case of the issue of a visa: on the day that the term of validity expires; b. in the case the extension of a visa: on the day that new term of validity; c. in the event of the withdrawal of the application or the termination or non-continuation of the verification of an application: on the creation of the application data file in ORBIS; d. in the event of the denial, cancellation or the revocation of a visa: with the corresponding decision of the visa authority."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 1 Data Processing",
+      "section": "27",
+      "title": "Deletion of data",
+      "content": "1 If a person acquires Swiss citizenship: a. the visa authorities shall immediately delete the application data files in ORBIS relating to the person concerned and if applicable the links with data records of his or her spouse, children or the group with which he or she travelled, provided the application data was recorded by the Swiss authorities; b. the SEM shall give immediate notice of this to the Schengen states that recorded the visa data. 2 The citizenship authorities must notify the SEM (Visa Principles Section) of the naturalisation. 3 If the decision to deny a visa is overturned by the competent appellate authority repealed, the data on the the rejection of the visa in ORBIS shall be deleted by the authority that denied the visa as soon as the appeal decision is final."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 1 Data Processing",
+      "section": "28",
+      "title": "Quality of data",
+      "content": "1 If there are indications that C-VIS data or ORBIS data recorded by the Swiss authorities is incorrect or incomplete or has been processed unlawfully, the SEM must be notified of this immediately in writing. 2 The SEM shall take the required action immediately."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 1 Data Processing",
+      "section": "29",
+      "title": "Storing the data from the C-VIS",
+      "content": "1 In accordance with Article 30 EU VIS Regulation, C-VIS data may be stored in ZEMIS, in ORBIS, in the RUMACA information system of the Border Guard or in corresponding information systems of the cantonal and communal police authorities if storage is required in the specific case and for as long as the relevant case is being processed. 2 The authorities under Articles 17 and 18 must immediately destroy the data received from the fedpol OC unless it is required for the purposes of the EU VIS Decision. They must destroy the data as soon as it is no longer required. 3 Any use of data in contravention of paragraphs 1 and 2 constitutes an abuse as defined in Article 120 d FNIA. See footnote to Art. 2 let. a. Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ( AS 2020 917 ). See footnote to Art. 21 para. 1."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Disclosure of data to third countries or international organisations",
+      "content": "1 The C-VIS data may neither be disclosed to third countries nor to international organisations. 2 The following C-VIS data about a person may be disclosed to third countries or international organisations in accordance with the Annex to the EU VIS Regulation in specific cases in order to prove the identity of a citizen of a third country, including for the purpose of repatriation, if the conditions under Article 31 the EU VIS Regulation are fulfilled: a. first name, surname, name at birth, sex, and date, place and country of birth; b. current nationality and nationality at birth; c. type and number of the travel documents, issuing authority, date of issue and expiry date; d. applicant's home address; e. for minors: first name and surname of the person holding custody or of the guardian. 3 The ORBIS data that is not transmitted to the C-VIS may be disclosed in the specific case in accordance with the conditions set out in Article 105 FNIA. See footnote to Art. 2 let. a."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Section 2 Rights of the Persons Concerned",
+      "section": "31",
+      "title": "Right to information or to correction or deletion of data",
+      "content": "1 If a person asserts his or her right to information or to the correction or deletion of data in ORBIS or in the C-VIS, he or she must provide proof of identity and submit a written application to the SEM. 2 The SEM shall process the request for information in consultation with the authority that recorded the data in ORBIS, or with the state that transmitted the data to the C-VIS. 3 It shall register the request for information. 4 If a person asserts his or her right to the correction or deletion of C-VIS data that was not recorded by the Swiss authorities, the SEM must contact the state that recorded the data within 14 days and must transmit the application to it. The SEM shall notify the person concerned of the transmission of the application. 5 It shall process requests for information, correction or deletion immediately. 6 It shall immediately confirm to the person concerned in writing that it has corrected or deleted the data. If it is not prepared to correct or delete the data, it shall provide reasons for this."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Section 2 Rights of the Persons Concerned",
+      "section": "32",
+      "title": "Duty to provide information",
+      "content": "1 When procuring biometric data and personal data on the applicant, the applicant shall be notified in writing of the following: a. the identity of the proprietor of the data collection; b. the purpose of processing the data in ORBIS and in the C-VIS; c. the categories of the data recipient; d. the duration of the storage of data in ORBIS and in the C-VIS; e. that the recording of the data is required to verify the application; f. that he or she has a right to information, correction and deletion, the procedure for asserting these rights and how to contact the Federal Data Protection and Information Commissioner (FDPIC). 2 The natural person or legal entity that has invited the applicant or must bear the costs of subsistence during his or her stay shall also receive the information under paragraph 1."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Section 2 Rights of the Persons Concerned",
+      "section": "33",
+      "title": "Liability",
+      "content": "Liability for loss or damage in connection with the operation of ORBIS is governed by the Government Liability Act of 14 March 1958, and in particular by its Articles 19 a –19 c , which apply mutatis mutandis. SR 170.32"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Section 3 Data Security, Advice on Data Protection and Supervision of Data Processing",
+      "section": "34",
+      "title": "Data security",
+      "content": "Data security is governed by: a. the Ordinance of 14 June 1993 to the Federal Act on Data Protection; b. the Cyber Risks Ordinance of 27 May 2020; c. the Federal Council directives of 16 January 2019 on ICT security in the Federal Administration. SR 235.11 Amended by Annex No 3 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ( AS 2020 5871 ). SR 120.73 Amended by Annex No 3 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ( AS 2020 5871 ). BBl 2019 1303"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 3 Data Security, Advice on Data Protection and Supervision of Data Processing",
+      "section": "35",
+      "title": "Statistics",
+      "content": "1 In order to fulfil its statutory duties, the SEM shall periodically compile statistics based on the data recorded in ORBIS. 2 It shall publish the most important statistics. 3 On request, it may provide authorities, private individuals or organisations with additional statistics that they require. 4 In consultation with the Swiss Federal Statistical Office, it may also compile statistics on the C-VIS. The access rights for this purpose are specified in Annex 3 adopted. 5 The statistics may not permit conclusions to be drawn as to the persons concerned."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Section 3 Data Security, Advice on Data Protection and Supervision of Data Processing",
+      "section": "36",
+      "title": "Advice on data protection",
+      "content": "1 The data protection adviser to the FDJP shall provide support to ensure compliance with the data protection regulations. He or she shall coordinate with the federal offices involved so that they fulfil their duties under paragraph 2. 2 The data protection advisers to the federal offices involved shall in their particular field ensure: a. that the persons processing data are properly informed; b. that these persons are properly trained; c. that the required checks are carried out; d. that defects are rectified rapidly; e. that the FDJP data protection adviser is notified of the need for coordination. Amended by No II of the O of 2 Sept. 2015, in force since 1 Oct. 2015 ( AS 2015 3047 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Section 3 Data Security, Advice on Data Protection and Supervision of Data Processing",
+      "section": "37",
+      "title": "Supervision of data processing",
+      "content": "1 The cantonal data protection authorities and the FDPIC shall work together within the limits of their respective responsibilities and coordinate supervision of the processing of personal data. 2 The FDPIC shall work with the European Data Protection Commissioner in fulfilling his duties; he is the national contact person for such matters. 3 He is the national authority under Article 41 paragraph 1 EU VIS Regulation and Articles 8 paragraph 5 and 11 EU VIS Decision. He is responsible for fulfilling the duties set out in these articles. See footnote to Art. 2 let. a. See footnote to Art. 21 para. 1."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Chapter 6 Final Provisions",
+      "section": "38",
+      "title": "Repeal of another enactment",
+      "content": "The Visa Information System Ordinance of 6 July 2011 is repealed. [ AS 2011 3861 4379 4451 ]"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Chapter 6 Final Provisions",
+      "section": "39",
+      "title": "Amendment of another enactment",
+      "content": "The amendment of another enactment is regulated in Annex 4."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Chapter 6 Final Provisions",
+      "section": "40",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 20 January 2014."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "VIS Mail",
+      "definition": "VIS Mail means a communication system that enables data transmission via the C-VIS infrastructure between states in which Regulation (EC) No 767/2008 (EU VIS Regulation) applies;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Schengen state",
+      "definition": "Schengen state means a state bound by any one of the Schengen Association Agreements; these agreements are listed in Annex 1 number 1;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Dublin state",
+      "definition": "Dublin state means a state bound by any one of the Dublin Association Agreements; these agreements are listed in Annex 1 number 2.",
+      "source_provision": "art2"
+    }
+  ]
+}

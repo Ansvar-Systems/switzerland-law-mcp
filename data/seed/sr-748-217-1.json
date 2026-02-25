@@ -1,0 +1,424 @@
+{
+  "id": "sr-748-217-1",
+  "type": "statute",
+  "title": "Bundesgesetz vom 7. Oktober 1959 über das Luftfahrzeugbuch",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1960/1245_1301_1297/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Erster Abschnitt: Anwendungsbereich",
+      "section": "1",
+      "title": "",
+      "content": "1 Dieses Gesetz findet Anwendung auf alle in das schweizerische Luftfahrzeugbuch aufgenommenen Luftfahrzeuge. 2 Luftfahrzeuge, die im schweizerischen Luftfahrzeugregister eingetragen sind, werden auf Antrag des Eigentümers in das Luftfahrzeugbuch aufgenommen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Erster Abschnitt: Anwendungsbereich",
+      "section": "2",
+      "title": "",
+      "content": "1 Auf ausländische Luftfahrzeuge findet dieses Gesetz nach Massgabe der staatsvertraglichen Vereinbarungen sinngemäss Anwendung. 2 Im übrigen richten sich Bestand und Wirkungen dinglicher Rechte an einem ausländischen Luftfahrzeug nach den am Orte des Registereintrags geltenden Regeln. Die Bestimmungen des Zivilgesetzbuches über Fahrnis zum Schutze des gutgläubigen Rechtserwerbs sind jedoch anwendbar, wenn sich das Luftfahrzeug zur Zeit der Begründung des Rechts in der Schweiz befand. SR 210"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Zweiter Abschnitt: Das Luftfahrzeugbuch",
+      "section": "3",
+      "title": "",
+      "content": "Über die dinglichen Rechte an den Luftfahrzeugen, welche diesem Gesetz unterworfen sind, wird vom Eidgenössischen Luftamt ein Luftfahrzeugbuch geführt."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Zweiter Abschnitt: Das Luftfahrzeugbuch",
+      "section": "4",
+      "title": "",
+      "content": "In das Luftfahrzeugbuch werden das Eigentum und die Pfandrechte an Luftfahrzeugen eingetragen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Zweiter Abschnitt: Das Luftfahrzeugbuch",
+      "section": "5",
+      "title": "",
+      "content": "Im Luftfahrzeugbuch können vorgemerkt werden: a. Verfügungsbeschränkungen auf Grund einer amtlichen Anordnung zur Sicherung streitiger oder vollziehbarer Ansprüche sowie auf Grund einer Pfändung; b. vorläufige Eintragungen zur Sicherung behaupteter dinglicher Rechte oder im Falle der vom Gesetz zugelassenen Ergänzung des Ausweises; c. das Recht auf Nachrücken eines Pfandrechts in eine vorgehende leere Pfandstelle; d. das Recht auf Benützung des Luftfahrzeugs, sofern es in einem Miet oder Chartervertrag auf mindestens sechs Monate vereinbart ist; e. das Aussonderungs- und Pfandrecht des Bundes nach Artikel 37 des Landesversorgungsgesetzes vom 17. Juni 2016. Fassung gemäss Anhang Ziff. 21 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ( AS 1995 1227 ; BBl 1991 III 1 ). Eingefügt durch Anhang 2 Ziff. II 5 des Landesversorgungsgesetzes vom 17. Juni 2016, in Kraft seit 1. Juni 2017 ( AS 2017 3097 ; BBl 2014 7119 ). SR 531"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Zweiter Abschnitt: Das Luftfahrzeugbuch",
+      "section": "6",
+      "title": "",
+      "content": "Die Zugehör eines Luftfahrzeugs wird auf Begehren des Eigentümers im Luftfahrzeugbuch angemerkt."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "Für die Einrichtung und Führung des Luftfahrzeugbuches gelten sinngemäss die Bestimmungen über das Grundbuch und das Schiffsregister, soweit nicht dieses Gesetz oder die Vollziehungsverordnung vom 2. September 1960 etwas anderes vorsehen. SR 748.217.11"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "",
+      "content": "1 Die Anmeldung eines Luftfahrzeugs zur Aufnahme in das Luftfahrzeugbuch erfolgt schriftlich. 2 Nach der Anmeldung fordert das Eidgenössische Luftamt öffentlich zur Einreichung allfälliger Einsprachen und zur Anmeldung allfällig bestehender Rechte Dritter auf. 3 Nach der Aufnahme führt das Eidgenössische Luftamt die Lastenbereinigung durch."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "Ein Luftfahrzeug wird im Luftfahrzeugbuch gestrichen, wenn der Eigentümer mit Zustimmung der dinglich Berechtigten die Löschung im Luftfahrzeugregister beantragt, oder wenn diese gemäss den Vollziehungsbestimmungen zum Luftfahrtgesetz vom 21. Dezember 1948 von Amtes wegen durchzuführen ist. SR 748.0"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "",
+      "content": "1 Sobald das Eidgenössische Luftamt das Vorliegen eines Streichungsgrundes feststellt, ist dieser im Luftfahrzeugbuch vorzumerken. 2 Solange ein Streichungsgrund vorgemerkt ist, kann der Eigentümer im Luftfahrzeugbuch nicht über das Luftfahrzeug verfügen."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "1 Drei Monate nach Eingang des Löschungsantrages oder nach der Durchführung eines allfälligen Einspracheverfahrens wird das Luftfahrzeug im Luftfahrzeugbuch gestrichen, sofern es nicht inzwischen gepfändet oder nicht eine Betreibung auf Pfandverwertung eingeleitet wurde. 2 Durch die Anmeldung eines gesetzlichen Pfandrechts wird die Wartefrist unterbrochen; mit der Eintragung beginnt sie von neuem."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "",
+      "content": "1 Vom Zeitpunkt der Streichung an unterliegt das Luftfahrzeug den Bestimmungen des Zivilgesetzbuches über Fahrnis. 2 Ist das Luftfahrzeug jedoch im Zeitpunkt der Streichung zur Aufnahme in das Luftfahrzeugbuch eines anderen Staates angemeldet, so bleiben die auf Grund dieses Gesetzes bewirkten Einträge und Vormerkungen noch während dreier Monate wirksam, soweit die am Ort des neuen Registereintrages geltenden Bestimmungen nicht entgegenstehen. SR 210"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "",
+      "content": "1 Das Luftfahrzeugbuch ist öffentlich. 2 Jedermann kann verlangen, dass ihm Einsicht gewährt oder beglaubigte Auszüge ausgefertigt werden. 3 Die Einwendung, dass jemand eine Eintragung im Luftfahrzeugbuch nicht gekannt habe, ist ausgeschlossen."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "",
+      "content": "Soweit für die Begründung eines dinglichen Rechtes die Eintragung in das Luftfahrzeugbuch vorgesehen ist, besteht dieses Recht als dingliches nur, wenn es aus dem Luftfahrzeugbuch ersichtlich ist."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "",
+      "content": "1 Die dinglichen Rechte entstehen und erhalten ihren Rang und ihr Datum durch die Eintragung in das Hauptbuch. 2 Ihre Wirkung wird auf den Zeitpunkt der Einschreibung in das Tagebuch zurückbezogen."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "",
+      "content": "1 Wer sich in gutem Glauben auf einen Eintrag im Luftfahrzeugbuch verlassen und daraufhin Eigentum oder ein Pfandrecht erworben hat, ist in diesem Erwerbe zu schützen. 2 Wurde indessen die Aufnahme des Luftfahrzeuges in das Luftfahrzeugbuch ungeachtet einer bereits bestehenden Aufnahme erwirkt, so kann dieser Schutz gegenüber dem gutgläubigen Inhaber eines dort eingetragenen dinglichen Rechts nicht geltend gemacht werden."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. 83 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ( AS 2006 2197 ; BBl 2001 4202 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "",
+      "content": "Die Eidgenossenschaft ist für allen Schaden verantwortlich, der aus der Führung des Luftfahrzeugbuches entsteht."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "",
+      "content": "Für die mit der Führung des Luftfahrzeugbuches zusammenhängenden amtlichen Verrichtungen erhebt das Eidgenössische Luftamt Gebühren."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Dritter Abschnitt: Die dinglichen Rechte an Luftfahrzeugen",
+      "section": "20",
+      "title": "",
+      "content": "Wer Eigentümer eines Luftfahrzeugs ist, hat das Eigentum an allen seinen Bestandteilen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Dritter Abschnitt: Die dinglichen Rechte an Luftfahrzeugen",
+      "section": "21",
+      "title": "",
+      "content": "1 Die Verfügung über ein Luftfahrzeug bezieht sich, wenn keine Ausnahme gemacht wird, auch auf seine Zugehör. 2 Zugehör sind die beweglichen Sachen, die nach der verkehrsüblichen Auffassung oder nach dem klaren Willen des Eigentümers dem Betrieb des Luftfahrzeugs dienen und sich im Zeitpunkt der Verfügung auf ihm befinden oder ausgebaut, aber noch nicht ersetzt und noch nicht auf ein anderes Luftfahrzeug verbracht worden sind."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Dritter Abschnitt: Die dinglichen Rechte an Luftfahrzeugen",
+      "section": "22",
+      "title": "",
+      "content": "1 Bestimmt bezeichnete Triebwerkeinheiten, die im Luftfahrzeugbuch mit einem Luftfahrzeug eingetragen sind, gelten ohne Rücksicht auf die tatsächliche Verbindung als dessen Bestandteile. 2 Andere Triebwerkeinheiten können Zugehör eines Luftfahrzeugs bilden."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Dritter Abschnitt: Die dinglichen Rechte an Luftfahrzeugen",
+      "section": "23",
+      "title": "",
+      "content": "1 Zum vertraglichen Erwerbe des Eigentums an einem Luftfahrzeug bedarf es der Eintragung in das Luftfahrzeugbuch. 2 Der Vertrag bedarf zu seiner Verbindlichkeit der Schriftform."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Dritter Abschnitt: Die dinglichen Rechte an Luftfahrzeugen",
+      "section": "24",
+      "title": "",
+      "content": "Ist jemand ungerechtfertigt im Luftfahrzeugbuch als Eigentümer eingetragen, so kann sein Eigentum, nachdem er das Luftfahrzeug in gutem Glauben fünf Jahre ununterbrochen und unangefochten besessen hat, nicht mehr angefochten werden."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "",
+      "content": "1 Das Eigentum geht unter mit der Löschung des Eintrages sowie mit dem vollständigen Untergang des Luftfahrzeugs. 2 Die Vorschriften über die Streichung und die Fälle ausserbuchlichen Eigentumserwerbes bleiben vorbehalten."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "",
+      "content": "1 Durch die Luftfahrzeugverschreibung kann eine beliebige, gegenwärtige oder zukünftige oder bloss mögliche Forderung pfandrechtlich sichergestellt werden. 2 Die Luftfahrzeugverschreibung wird auch bei Forderungen mit unbestimmtem oder wechselndem Betrage auf eine bestimmte Pfandstelle und einen bestimmten Höchstbetrag in Landesmünze errichtet."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "",
+      "content": "1 Für eine Forderung kann ein Gesamtpfandrecht an mehreren Luftfahrzeugen errichtet werden, wenn diese dem nämlichen Eigentümer gehören oder im Eigentum solidarisch verpflichteter Schuldner stehen. 2 Anleihensobligationen können mit einer Luftfahrzeugverschreibung für das ganze Anleihen sichergestellt werden."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "",
+      "content": "1 Das vertragliche Pfandrecht entsteht mit der Eintragung in das Luftfahrzeugbuch. 2 Der Vertrag bedarf zu seiner Verbindlichkeit der Schriftform."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "",
+      "content": "Das Pfandrecht an einem Luftfahrzeug kann ausgedehnt werden auf Ersatzteillager unter der Voraussetzung: a. dass ein fester Lagerort im In- oder Ausland besteht; b. dass sie räumlich von andern Ersatzteillagern getrennt sind; c. dass sie mit einer gut sichtbaren Aufschrift versehen sind, aus welcher die Verpfändung, der Name und die Adresse des Pfandgläubigers sowie die Eintragung des Pfandrechts im Luftfahrzeugbuch ersichtlich sind."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "",
+      "content": "Die Ausdehnung des Pfandrechts kann auch nachträglich erfolgen."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "",
+      "content": "Die Pfandstelle des Pfandrechts am Ersatzteillager ist von derjenigen des Pfandrechts am Luftfahrzeug unabhängig."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "",
+      "content": "1 Die Wirkungen des Pfandrechts am Ersatzteillager sind dieselben wie jene des Pfandrechts an Zugehör des Luftfahrzeugs. 2 Das Pfandrecht am Ersatzteillager wirkt jedoch nur zugunsten des Pfandgläubigers, zu dessen Pfandrecht am Luftfahrzeug es eingetragen ist."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "",
+      "content": "1 Das Pfandrecht geht unter mit der Löschung des Eintrages, mit dem vollständigen Untergang des Luftfahrzeugs und mit dessen Streichung im Luftfahrzeugbuch. 2 Ist das Luftfahrzeug vollständig untergegangen, so kann das Pfandrecht an einem mitverpfändeten Ersatzteillager sowie an Triebwerkeinheiten, die Bestandteile des Luftfahrzeugs bildeten, aber nicht mit ihm untergegangen sind, noch während sechs Monaten geltend gemacht werden."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "",
+      "content": "1 Ist der Eigentümer des Luftfahrzeugs nicht Schuldner der Pfandforderung, so kann er das Pfandrecht unter den gleichen Voraussetzungen ablösen, unter denen der Schuldner zur Tilgung der Forderung befugt ist; befriedigt er den Gläubiger, so geht das Forderungsrecht auf ihn über. 2 Eine Kündigung der Forderung durch den Gläubiger ist gegenüber dem Eigentümer des Luftfahrzeugs, der nicht Schuldner ist, nur dann wirksam, wenn sie gegenüber Schuldner und Eigentümer erfolgt."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "",
+      "content": "1 Übernimmt der Erwerber eines verpfändeten Luftfahrzeugs die Schuldpflicht, so gibt das Eidgenössische Luftamt dem Gläubiger davon Kenntnis. 2 Der frühere Schuldner wird frei, wenn der Gläubiger diesem gegenüber nicht binnen Jahresfrist schriftlich erklärt, ihn beibehalten zu wollen."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "",
+      "content": "Forderungen, für die ein Pfandrecht eingetragen ist, unterliegen keiner Verjährung."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "",
+      "content": "1 Das Pfandrecht belastet das Luftfahrzeug mit Einschluss aller Bestandteile und aller Zugehör. 2 Ausgenommen bleibt Zugehör, die nicht dem Eigentümer des Luftfahrzeugs gehört."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "",
+      "content": "1 Der Eigentümer hat das Recht, ohne Zustimmung des Pfandgläubigers Veränderungen am Luftfahrzeug und an dessen Zugehör vorzunehmen oder den Umtausch von Triebwerkeinheiten im Luftfahrzeugbuch zu veranlassen, sofern dadurch der Wert der Pfandsache nicht offenbar vermindert wird. 2 Ein Verzicht des Eigentümers auf dieses Recht ist unverbindlich."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "",
+      "content": "Der Pfandgläubiger hat ein gesetzliches Pfandrecht an Ersatzansprüchen, welche dem Eigentümer aus dauernder Beschlagnahme, Beschädigung, Zerstörung oder sonstigem Verlust des verpfändeten Luftfahrzeugs erwachsen."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "",
+      "content": "1 Wird ein verpfändetes Luftfahrzeug dauernd beschlagnahmt, beschädigt, zerstört oder geht es sonst wie verloren, und hat der Eigentümer für die Deckung solcher Schäden vorsorglich eigene Vermögenswerte ausgeschieden, so erwächst dem Pfandgläubiger mit der Beschlagnahme, Beschädigung, Zerstörung oder dem sonstigen Verlust ein gesetzliches Pfandrecht an diesen Werten. 2 Der Umfang des Pfandrechts richtet sich nach dem Rang der Luftfahrzeugverschreibung, dem Schaden und der Forderung. 3 Der Rang des Pfandrechts im Verhältnis zu Ersatzpfandrechten aus andern Schäden wird durch den Zeitpunkt der Schädigung bestimmt."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "",
+      "content": "Gegen angemessene Sicherstellung sind dem Eigentümer die mit einem Ersatzpfandrecht belasteten Werte zum Zwecke der Wiederherstellung oder zum Ersatz des Luftfahrzeugs herauszugeben."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "",
+      "content": "1 Vermindert der Eigentümer oder Halter den Wert eines verpfändeten Luftfahrzeugs, so kann ihm der Gläubiger durch den Richter jede weitere schädliche Einwirkung untersagen lassen. Das gleiche gilt für Werte, an denen ein Ersatzpfandrecht des Gläubigers entstehen kann. 2 Der Gläubiger kann vom Richter ermächtigt werden, die zweckdienlichen Vorkehren zu treffen. Er kann solche auch ohne Ermächtigung vornehmen, wenn Gefahr im Verzug ist. Für die Kosten kann er vom Eigentümer Ersatz verlangen."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "",
+      "content": "1 Ist eine Wertverminderung eingetreten, so kann der Pfandgläubiger vom Schuldner die Sicherung seiner Ansprüche oder die Wiederherstellung des früheren Zustandes verlangen, soweit er nicht durch ein Ersatzpfandrecht gesichert ist. 2 Droht die Gefahr einer Wertverminderung, so kann er die Sicherung verlangen. 3 Wird dem Verlangen innerhalb einer vom Richter angesetzten Frist nicht entsprochen, so kann der Gläubiger eine zu seiner Sicherung ausreichende Abzahlung der Schuld beanspruchen."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "",
+      "content": "Wird im Luftfahrzeugbuch für ein verpfändetes Luftfahrzeug ein Streichungsgrund vorgemerkt, so kann der Gläubiger die Bezahlung der Schuld beanspruchen."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "",
+      "content": "Das Pfandrecht bietet dem Gläubiger Sicherheit für die Kapitalforderung, die Kosten der Betreibung sowie für drei zur Zeit der Konkurseröffnung oder des Pfandverwertungsbegehrens verfallene Jahreszinse und den seit dem letzten Zinstage laufenden Zins."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "",
+      "content": "Der Gläubiger hat ein Recht darauf, sich im Falle der Nichtbefriedigung auf dem Wege der Zwangsvollstreckung aus dem Erlös des Luftfahrzeugs bezahlt zu machen."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "",
+      "content": "Ein gesetzliches Pfandrecht an einem bestimmten Luftfahrzeug besteht: a. für Forderungen aus Rettung oder Bergung des Luftfahrzeugs; b. für Forderungen aus ausserordentlichen Aufwendungen, die unumgänglich notwendig waren, um das Luftfahrzeug zu erhalten oder Ansprüche gegen Dritte zu sichern, die im Fall von dauernder Beschlagnahme, Beschädigung, Zerstörung oder sonstigem Verlust Ersatz zu leisten haben."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "",
+      "content": "Das gesetzliche Pfandrecht erlischt, wenn der Berechtigte nicht binnen dreier Monate nach Entstehung seiner Forderung: a. dem Eidgenössischen Luftamt eine vom Schuldner und vom Eigentümer unterzeichnete Anerkennung der Forderungen und des Pfandrechts einreicht oder Klage einleitet, und b. das Pfandrecht zur Eintragung im Luftfahrzeugbuch anmeldet."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "",
+      "content": "1 Die gesetzlichen Pfandrechte gehen allen andern bis zum Zeitpunkt der Anmeldung begründeten dinglichen Rechten im Range vor. 2 Im Verhältnis der gesetzlichen Pfandrechte unter sich haben jene für Forderungen aus späteren Ereignissen den Vorrang; gesetzliche Pfandrechte für Forderungen, die auf das gleiche Ereignis zurückzuführen sind, stehen im gleichen Rang."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "",
+      "content": "1 Die gesetzlichen Pfandrechte haben die gleichen Wirkungen wie die Luftfahrzeugverschreibung. 2 Dem Inhaber eines gesetzlichen Pfandrechts steht bei Beschlagnahme, Beschädigung, Zerstörung oder sonstigem Verlust des Luftfahrzeugs kein Ersatzpfandrecht zu."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "",
+      "content": "An Luftfahrzeugen und Ersatzteillagern kann weder ein Retentionsrecht noch ein Faustpfand oder gesetzliches Pfandrecht anderer als in diesem Gesetz vorgesehener Art geltend gemacht werden."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Vierter Abschnitt: Die Zwangsvollstreckung in Luftfahrzeuge",
+      "section": "52",
+      "title": "",
+      "content": "Die Zwangsvollstreckung in Luftfahrzeuge richtet sich nach den Regeln über die Vollstreckung in Grundstücke, soweit nicht in diesem Gesetz oder in der Vollziehungsverordnung vom 2. September 1960 etwas anderes bestimmt wird. SR 748.217.11"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Vierter Abschnitt: Die Zwangsvollstreckung in Luftfahrzeuge",
+      "section": "53",
+      "title": "",
+      "content": "Für die Pfandverwertung eines schweizerischen Luftfahrzeugs oder Ersatzteillagers ist das Betreibungsamt des Ortes zuständig, der im Luftfahrzeugbuch als Wohnsitz des Eigentümers eingetragen ist."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "Vierter Abschnitt: Die Zwangsvollstreckung in Luftfahrzeuge",
+      "section": "54",
+      "title": "",
+      "content": "Für die Pfandverwertung eines ausländischen Luftfahrzeugs oder von Ersatzteillagern ausländischer Unternehmungen ist das schweizerische Betreibungsamt zuständig, in dessen Kreis sich das Luftfahrzeug oder das Ersatzteillager befindet."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "Vierter Abschnitt: Die Zwangsvollstreckung in Luftfahrzeuge",
+      "section": "55",
+      "title": "",
+      "content": "In der Betreibung auf Pfandverwertung beträgt die dem Schuldner anzusetzende Zahlungsfrist einen Monat."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "Vierter Abschnitt: Die Zwangsvollstreckung in Luftfahrzeuge",
+      "section": "56",
+      "title": "",
+      "content": "1 Das Betreibungsamt übt in der Betreibung auf Pfandverwertung von der Zustellung des Zahlungsbefehls an die Verwaltung aus, sofern der Gläubiger nicht darauf verzichtet. 2 Das gleiche gilt nach der Pfändung des Luftfahrzeugs. 3 Luftfahrzeug und Ersatzteillager können in amtliche Verwahrung genommen oder einem Dritten zur Verwahrung übergeben werden."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "",
+      "content": "1 Das Verwertungsbegehren kann frühestens einen Monat und spätestens ein Jahr nach Vornahme der Pfändung gestellt werden. 2 In der Betreibung auf Pfandverwertung beginnt der Fristenlauf mit der Zustellung des Zahlungsbefehls."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "",
+      "content": "1 Die Versteigerung erfolgt im Laufe des dritten Monats nach Eingang des Verwertungsbegehrens. 2 Auf Begehren aller Beteiligten tritt an die Stelle der Versteigerung der Verkauf aus freier Hand."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "",
+      "content": "1 Die Steigerungsbedingungen werden mindestens einen Monat vor der Versteigerung auf dem Betreibungsamt zur Einsicht aufgelegt. 2 Sie bestimmen insbesondere: a. dass das Luftfahrzeug dem Ersteigerer frei von allen Lasten, welche der Forderung des betreibenden Gläubigers nicht vorgehen, zugeschlagen wird; b. dass der Ersteigerer die der Forderung des betreibenden Gläubigers vorgehenden Lasten zu übernehmen hat, mit Ausnahme der pfandversicherten Forderungen, die mangels anderweitiger Vereinbarung der Beteiligten vorweg aus dem Erlös bezahlt werden, auch wenn die Schuld nicht fällig ist."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "",
+      "content": "1 Der Eigentumserwerb des Ersteigerers kann nur durch Beschwerde mit dem Begehren auf Aufhebung des Zuschlags angefochten werden. 2 Die Beschwerdefrist beträgt 30 Tage; für ausländische Luftfahrzeuge bleiben staatsvertraglich vereinbarte längere Fristen vorbehalten."
+    },
+    {
+      "provision_ref": "art6162",
+      "chapter": "Fünfter Abschnitt: Strafbestimmungen",
+      "section": "6162",
+      "title": "",
+      "content": "Aufgehoben gemäss Anhang 1 Ziff. II 26 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ( AS 2010 1739 ; BBl 2006 7221 )."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "Fünfter Abschnitt: Strafbestimmungen",
+      "section": "63",
+      "title": "",
+      "content": "Wer eine ihm durch die Vollziehungsverordnung vom 2. September 1960 zu diesem Gesetz auferlegte Pflicht zur Erstattung einer Meldung an das Eidgenössische Luftamt nicht erfüllt, wer bei der Aufnahme eines Luftfahrzeugs oder anlässlich anderer Eintragungen in das Luftfahrzeugbuch dem Eidgenössischen Luftamt wesentliche Tatsachen unrichtig angibt oder verschweigt, wer die an einem verpfändeten Ersatzteillager angebrachte Aufschrift unbefugtermassen unkenntlich macht, entfernt oder versetzt, wird mit Busse bestraft. SR 748.217.11 Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ( AS 2006 3459 ; BBl 1999 1979 )."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "Fünfter Abschnitt: Strafbestimmungen",
+      "section": "64",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. 16 des Anhangs zum VStrR, mit Wirkung seit 1. Jan. 1975 ( AS 1974 1975 ; BBl 1971 I 993 )."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "",
+      "content": "Das Verwaltungsstrafrechtsgesetz vom 22. März 1974 findet Anwendung. Verfolgende und urteilende Verwaltungsbehörde im Sinne jenes Gesetzes ist das Eidgenössische Luftamt. Fassung gemäss Ziff. 16 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ( AS 1974 1857 ; BBl 1971 I 993 ). SR 313.0"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Sechster Abschnitt: Schlussbestimmung",
+      "section": "66",
+      "title": "",
+      "content": "1 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes. 2 Er ist mit dem Vollzug beauftragt. Datum des Inkrafttretens: 1. Januar 1961 BRB vom 2. Sept. 1960"
+    }
+  ],
+  "definitions": []
+}

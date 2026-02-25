@@ -1,0 +1,134 @@
+{
+  "id": "sr-818-102-4",
+  "type": "statute",
+  "title": "Verordnung vom 30. Juni 2021 über ein System zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen (VBV)",
+  "title_en": "",
+  "short_name": "VBV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2021/411/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt ein System zur nachträglichen, anonymen Benachrichtigung der Besucherinnen und Besucher von Veranstaltungen über die Gefahr einer möglichen Ansteckung mit dem Coronavirus Sars-CoV-2 an diesen Veranstaltungen."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Aufbau des Benachrichtigungssystems",
+      "content": "Das Benachrichtigungssystem umfasst folgende Komponenten: a. ein System zur Verwaltung von Daten über den Besuch von Veranstaltungen, bestehend aus einer Software, die in die bestehende SwissCovid-App nach der Verordnung vom 24. Juni 2020 über das Proximity-Tracing-System für das Coronavirus Sars-CoV-2 (VPTS) integriert ist, und einem Backend; b. ein System zur Verwaltung der Veranstaltungs-Freischaltcodes. SR 818.101.25"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Freiwilligkeit",
+      "content": "1 Die Benutzerinnen und Benutzer entscheiden frei über: a. die Nutzung des Benachrichtigungssystems; b. das Eintragen, Verstecken und Löschen einer von ihnen besuchten Veranstaltung in der SwissCovid-App; c. die Eingabe eines Freischaltcodes; d. die Nutzung des Freischaltcodes für die Benachrichtigung über die verschiedenen im relevanten Zeitraum besuchten Veranstaltungen. 2 Versteckte Veranstaltungen sind in der App nicht sichtbar. Benachrichtigungen über die Ansteckungsgefahr an diesen Veranstaltungen werden weiterhin empfangen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Anonymität",
+      "content": "1 Das Bundesamt für Gesundheit (BAG) trifft alle angemessenen technischen und organisatorischen Massnahmen, um zu verhindern, dass die Benutzerinnen und Benutzer, unabhängig davon, ob es sich dabei um Veranstalter oder um Besucherinnen und Besucher handelt, für andere Benutzerinnen und Benutzer oder für Behörden bestimmbar sind. 2 Die Daten über den Besuch von Veranstaltungen werden ausschliesslich auf den Geräten der Besucherinnen und Besucher bearbeitet."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Datenbearbeitung durch das BAG",
+      "content": "1 Das Backend des Benachrichtigungssystems wird vom BAG betrieben. 2 Das BAG bearbeitet keine Daten über Besucherinnen und Besucher, die keinen Freischaltcode eingeben. 3 Es bearbeitet nur verschlüsselte Daten über: a. Veranstalter und Veranstaltungen; b. Besucherinnen und Besucher, die nach ihrer Infektion einen Freischaltcode eingeben. 4 Es kann diese Daten nicht entschlüsseln. Es kann sie keinen bestimmten oder bestimmbaren Personen zuordnen, weder Veranstaltern noch Besucherinnen oder Besuchern."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Nutzung durch die Veranstalter im Grundbetrieb",
+      "content": "1 Wer eine Veranstaltung organisiert, kann das Benachrichtigungssystem nutzen. 2 Der Veranstalter wählt eines der zwei Verfahren des Benachrichtigungssystems: a. Benutzerbenachrichtigung; b. Veranstalterbenachrichtigung. 3 Er kann für das gewählte Verfahren einen Quick-Response-Code (QR-Code) erstellen. Er zeigt den QR-Code den Besucherinnen und Besuchern der Veranstaltung. 4 Er erhält durch das Benachrichtigungssystem keine Informationen über die Besucherinnen und Besucher."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Nutzung durch Besucherinnen und Besucher im Grundbetrieb",
+      "content": "1 Die Besucherinnen und Besucher können mit ihrer SwissCovid-App den an einer Veranstaltung gezeigten QR-Code einlesen. 2 Die App ruft regelmässig die Liste der für die Benachrichtigungen erforderlichen Daten zu Veranstaltungen, an denen eine Ansteckungsgefahr bestanden hat, ab. Sie prüft, ob die Benutzerin oder der Benutzer eine solche Veranstaltung besucht hat. Ist dies der Fall, so benachrichtigt sie die Benutzerin oder den Benutzer."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Benutzerbenachrichtigung",
+      "content": "Hat der Veranstalter das Verfahren der Benutzerbenachrichtigung gewählt, so kann die infizierte Besucherin oder der infizierte Besucher, nachdem sie oder er nach Artikel 6 VPTS einen Freischaltcode in die SwissCovid-App eingegeben hat, die Benachrichtigung der anderen Besucherinnen und Besucher auslösen, wenn sie oder er die Veranstaltung im relevanten Zeitraum besucht hat. SR 818.101.25"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Veranstalterbenachrichtigung",
+      "content": "1 Erfährt eine nach Artikel 12 Absatz 1 berechtigte Stelle von einer Ansteckungsgefahr an einer Veranstaltung, so kontaktiert sie den Veranstalter. 2 Hat der Veranstalter das Verfahren der Veranstalterbenachrichtigung gewählt, so sendet ihm die berechtigte Stelle einen Veranstaltungs-Freischaltcode. 3 Der Veranstalter ist verpflichtet, zur Benachrichtigung der Besucherinnen und Besucher den Veranstaltungs-Freischaltcode zu benutzen."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Inhalt der Benachrichtigung",
+      "content": "Die Benachrichtigung umfasst: a. die Information, dass und an welchem Tag die Besucherin oder der Besucher dem Coronavirus ausgesetzt war; b. weitere Hinweise und Empfehlungen."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Verwaltung der Veranstaltungs-Freischaltcodes",
+      "content": "1 Das System zur Verwaltung der Veranstaltungs-Freischaltcodes enthält folgende Daten: a. die Veranstaltungs-Freischaltcodes; b. die Angabe des Zeitpunkts der Vernichtung für jeden dieser Codes. 2 Diese Daten lassen keine Rückschlüsse auf die Veranstalter und auf die Besucherinnen und Besucher zu."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Zugriff auf Veranstaltungs-Freischaltcodes",
+      "content": "1 Einen Veranstaltungs-Freischaltcode können folgende Personen, die für die jeweilige berechtigte Stelle handeln, anfordern: a. Kantonsärztinnen und Kantonsärzte; b. der Oberfeldarzt der Armee; c. andere Mitarbeiterinnen und Mitarbeiter der kantonsärztlichen Dienste oder des militärärztlichen Dienstes der Armee; d. die von den kantonsärztlichen Diensten oder vom militärärztlichen Dienst der Armee beauftragten Dritten. 2 Die Anmeldung im System zur Verwaltung der Veranstaltungs-Freischaltcodes erfolgt über das zentrale Zugriffs- und Berechtigungssystem der Bundesverwaltung für Webapplikationen. Die Bestimmungen der Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes sind anwendbar. 3 Das BAG erteilt und verwaltet die Zugriffsrechte für das System zur Verwaltung der Veranstaltungs-Freischaltcodes. Es kann die Kantonsärztinnen und Kantonsärzte sowie den Oberfeldarzt der Armee oder einzelne ihrer Hilfspersonen dazu berechtigen, die Zugriffsrechte an Hilfspersonen zu vergeben. SR 172.010.59"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Leistungen Dritter",
+      "content": "1 Das BAG kann Dritte beauftragen, den SwissCovid-Apps die Liste der für die Benachrichtigungen erforderlichen Daten zu Veranstaltungen im Abrufverfahren zur Verfügung zu stellen. 2 Es kann die Vergabe der Zugriffsberechtigungen auf das System zur Verwaltung der Veranstaltungs-Freischaltcodes an Dritte übertragen. Der beauftragte Dritte muss Gewähr für eine zuverlässige und rechtlich korrekte Überprüfung der Berechtigung der Fachpersonen bieten. 3 Das BAG verpflichtet die Dritten vertraglich dazu, die Vorgaben dieser Verordnung einzuhalten."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Protokoll über Zugriffe",
+      "content": "1 Auf die Speicherung und die Auswertung der Protokolle über die Zugriffe auf das Backend des Systems zur Verwaltung von Daten über den Besuch von Veranstaltungen und auf das System zur Verwaltung der Veranstaltungs-Freischaltcodes sowie auf die Liste nach Artikel 13 Absatz 1 sind die Artikel 57 i –57 q des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 und die Verordnung vom 22. Februar 2012 über die Bearbeitung von Personendaten, die bei der Nutzung der elektronischen Infrastruktur des Bundes anfallen, anwendbar. 2 Über diese Protokolle hinaus zeichnet das System keine Protokolle von Aktivitäten des Benutzerzugangs zu Veranstaltungs-Freischaltcodes oder von Aktivitäten der SwissCovid-Apps auf. SR 172.010 SR 172.010.442"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Bekanntgabe zu Statistikzwecken",
+      "content": "Das BAG stellt dem Bundesamt für Statistik (BFS) periodisch den aktuellen Bestand der im Backend des Systems zur Verwaltung der Benachrichtigungen und im System zur Verwaltung der Veranstaltungs-Freischaltcodes vorhandenen Daten in vollständig anonymisierter Form für statistische Auswertungen zur Verfügung."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Vernichtung der Daten",
+      "content": "1 Die Daten im System zur Verwaltung von Daten über den Besuch von Veranstaltungen werden sowohl auf den Mobiltelefonen als auch im Backend 14 Tage nach ihrer Erfassung vernichtet. 2 Die Daten im System zur Verwaltung der Veranstaltungs-Freischaltcodes werden 24 Stunden nach ihrer Erfassung vernichtet. 3 Die Protokolldaten von nach Artikel 13 Absatz 1 beauftragten Dritten werden 7 Tage nach ihrer Erfassung vernichtet. 4 Im Übrigen richtet sich die Vernichtung der Protokolldaten nach Artikel 4 Absatz 1 Buchstabe b der Verordnung vom 22. Februar 2012 über die Bearbeitung von Personendaten, die bei der Nutzung der elektronischen Infrastruktur des Bundes anfallen. 5 Die dem BFS zur Verfügung gestellten Daten werden ebenfalls gemäss diesem Artikel vernichtet. SR 172.010.442"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Überprüfung des Quellcodes",
+      "content": "1 Das BAG veröffentlicht die Daten, die dazu dienen, zu überprüfen, ob die maschinenlesbaren Programme aller Bestandteile des Benachrichtigungssystems aus dem veröffentlichten Quellcode erstellt worden sind. 2 Es nimmt die Überprüfung auch selber vor."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Änderung eines anderen Erlasses",
+      "content": "... Die Änderung kann unter AS 2021 411 konsultiert werden."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": ". 19 Übergangsbestimmung",
+      "content": "Solange die für die Veranstalterbenachrichtigung erforderlichen Vorbereitungsarbeiten nicht abgeschlossen sind, kann das BAG das Benachrichtigungssystem vorübergehend ohne die Möglichkeit der Veranstalterbenachrichtigung betreiben."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Inkrafttreten und Geltungsdauer",
+      "content": "Diese Verordnung tritt am 1. Juli 2021 um 00.00 Uhr in Kraft und gilt bis zum 30. Juni 2022."
+    }
+  ],
+  "definitions": []
+}

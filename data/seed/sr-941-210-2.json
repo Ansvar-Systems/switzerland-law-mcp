@@ -1,0 +1,162 @@
+{
+  "id": "sr-941-210-2",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 5. Oktober 2010 über Messmittel zur Bestimmung des Alkoholgehaltes und der Alkoholmenge (Alkoholbestimmungsverordnung, AlkBestV)",
+  "title_en": "",
+  "short_name": "AlkBestV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2010/664/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Anforderungen an Messmittel, die der Bestimmung des Alkoholgehaltes und der Alkoholmenge von Alkohol-Wasser-Mischungen dienen; b. die Verfahren für das Inverkehrbringen dieser Messmittel; c. die Verfahren zur Erhaltung der Messbeständigkeit dieser Messmittel."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "Dieser Verordnung unterstehen Messmittel, die der amtlichen Bestimmung des Alkoholgehalts und der Alkoholmenge von Alkohol-Wasser-Mischungen dienen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Alkohol: Methanol, Ethanol, Propanol und höhere Alkohole sowie deren Ester; b. Massenprozent (% mass) : in Prozent ausgedrücktes Verhältnis der Masse des reinen Alkohols in einer Alkohol-Wasser-Mischung zur Gesamtmasse der Mischung; c. Volumenprozent (% vol) : in Prozent ausgedrücktes Verhältnis des Volumens des reinen Alkohols in einer Alkohol-Wasser-Mischung zum Gesamtvolumen der Mischung bei gleicher Temperatur; d. Alkoholgehalt : Anteil von Alkohol in einer Alkohol-Wasser-Mischung, angegeben in Massen- oder Volumenprozent; e. Alkoholmenge: in Litern ausgedrücktes Volumen des reinen Alkohols in einer Alkohol-Wasser-Mischung bei Referenztemperatur; f. Alkoholometer : Messmittel, das den Alkoholgehalt bei Umgebungstemperatur anzeigt; g. elektronisches Messmittel: Messmittel, das elektronisch direkt den Alkoholgehalt bei Referenztemperatur anzeigt. Ausdruck gemäss Ziff. I der V des EJPD vom 28. März 2017, in Kraft seit 1. Mai 2017 ( AS 2017 2621 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "",
+      "content": "1 Die Referenztemperatur beträgt 20 °C. 2 Die Rückführbarkeit des Alkoholgehaltes einer Alkohol-Wasser-Mischung auf nationale oder internationale Normale gemäss Artikel 9 der Messmittelverordnung erfolgt mit einer Ethanol-Wasser-Mischung. Fassung gemäss Ziff. I 3 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Januar 2013 ( AS 2012 7183 ). Fassung gemäss Ziff. I 3 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Januar 2013 ( AS 2012 7183 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Bestimmung des Alkoholgehaltes und der Alkoholmenge",
+      "section": "5",
+      "title": "Bestimmung des Alkoholgehaltes",
+      "content": "Messmittel, die zur amtlichen Bestimmung des Alkoholgehalts einer Alkohol-Wasser-Mischung verwendet werden, müssen die Anforderungen dieser Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Bestimmung des Alkoholgehaltes und der Alkoholmenge",
+      "section": "6",
+      "title": "Umrechnungsmethode",
+      "content": "1 Ein bei Umgebungstemperatur ermittelter Alkoholgehalt ist auf den Alkoholgehalt bei Referenztemperatur umzurechnen. 2 Für die Umrechnung gelten die internationalen Alkoholtafeln nach der Norm OIML R 22, Ausgabe 1975. 3 Das Eidgenössische Institut für Metrologie (METAS) publiziert die Alkoholtafeln in elektronischer Form. Recommandation Internationale OIML R 22, Tables alcoométriques internationales, Edition 1975. Der Text der Norm kann in französischer oder englischer Sprache beim Eidgenössischen Institut für Metrologie, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse www.oiml.org/publications abgerufen werden. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. November 2004 ( AS 2004 4937 ) auf den 1. Januar 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Bestimmung des Alkoholgehaltes und der Alkoholmenge",
+      "section": "7",
+      "title": "Bestimmung der Alkoholmenge",
+      "content": "1 Die Alkoholmenge wird aus der Gesamtmasse oder dem Gesamtvolumen und dem Alkoholgehalt bestimmt. 2 Das METAS publiziert in elektronischer Form Tabellen, mit denen die Alkoholmenge berechnet werden kann. 3 Für die Bestimmung der Gesamtmasse oder des Gesamtvolumens müssen Messmittel verwendet werden, die der Messmittelverordnung unterstehen. 4 Landwirtschaftliche Brennereien nach Artikel 3 Absatz 1 Buchstabe c der Alkoholverordnung vom 12. Mai 1999 (AlkV) können für die Bestimmung der Gesamtmasse oder des Gesamtvolumens auch Messmittel verwenden, die nicht der Messmittelverordnung unterstehen. SR 680.11"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Alkoholometer",
+      "section": "8",
+      "title": "Grundlegende Anforderungen",
+      "content": "Alkoholometer müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach Anhang 1 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Alkoholometer",
+      "section": "9",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "1 Alkoholometer der Genauigkeitsklassen I–III bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 der Messmittelverordnung durch das METAS. 2 Alkoholometer der Genauigkeitsklasse IV sind allgemein zugelassen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Elektronische Messmittel",
+      "section": "10",
+      "title": "Grundlegende Anforderungen",
+      "content": "Elektronische Messmittel müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach Anhang 2 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Elektronische Messmittel",
+      "section": "11",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Die Konformität von elektronischen Messmitteln mit den grundlegenden Anforderungen nach Artikel 10 wird mit den folgenden Verfahren nach Anhang 2 der Messmittelverordnung bewertet und bescheinigt: a. Bauartprüfung (Modul B); und b. Erklärung der Konformität mit der Bauart auf der Grundlage einer internen Fertigungskontrolle mit überwachten Produktprüfungen in unregelmässigen Abständen (Modul C2). Fassung gemäss Ziff. I der V des EJPD vom 25. November 2015, in Kraft seit 20. April 2016 ( AS 2016 243 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Elektronische Messmittel",
+      "section": "12",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "Elektronische Messmittel müssen folgenden Verfahren zur Erhaltung der Messbeständigkeit unterzogen werden: a. Instandhaltung nach Anhang 7 Ziffer 7 der Messmittelverordnung und nach Anhang 3 Ziffer 1 der vorliegenden Verordnung mindestens jährlich durch eine fachkompetente Person; und b. Vergleichsmessung nach Anhang 7 Ziffer 4 der Messmittelverordnung und nach Anhang 3 Ziffer 2 der vorliegenden Verordnung: mindestens alle zwei Jahre durch das METAS oder ein vom METAS bezeichnetes Referenzlaboratorium."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Elektronische Messmittel",
+      "section": "13",
+      "title": "Kennzeichnung",
+      "content": "Elektronische Messmittel müssen mit dem Konformitätskennzeichen und dem Metrologie-Kennzeichen nach Anhang 4 versehen sein."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "14",
+      "title": "Änderung bisherigen Rechts",
+      "content": "… Die Änderung kann unter AS 2010 4595 konsultiert werden."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "15",
+      "title": "Übergangsbestimmungen",
+      "content": "Messmittel, die nach bisherigem Recht in Verkehr gebracht wurden, dürfen weiter und auch ohne Kennzeichnung nach Artikel 13 verwendet werden, sofern sie die Anforderungen dieser Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2011 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alkohol:",
+      "definition": "Alkohol: Methanol, Ethanol, Propanol und höhere Alkohole sowie deren Ester;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Massenprozent (% mass)",
+      "definition": "Massenprozent (% mass) : in Prozent ausgedrücktes Verhältnis der Masse des reinen Alkohols in einer Alkohol-Wasser-Mischung zur Gesamtmasse der Mischung;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Volumenprozent (% vol)",
+      "definition": "Volumenprozent (% vol) : in Prozent ausgedrücktes Verhältnis des Volumens des reinen Alkohols in einer Alkohol-Wasser-Mischung zum Gesamtvolumen der Mischung bei gleicher Temperatur;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Alkoholgehalt",
+      "definition": "Alkoholgehalt : Anteil von Alkohol in einer Alkohol-Wasser-Mischung, angegeben in Massen- oder Volumenprozent;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Alkoholmenge:",
+      "definition": "Alkoholmenge: in Litern ausgedrücktes Volumen des reinen Alkohols in einer Alkohol-Wasser-Mischung bei Referenztemperatur;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Alkoholometer",
+      "definition": "Alkoholometer : Messmittel, das den Alkoholgehalt bei Umgebungstemperatur anzeigt;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "elektronisches Messmittel:",
+      "definition": "elektronisches Messmittel: Messmittel, das elektronisch direkt den Alkoholgehalt bei Referenztemperatur anzeigt.",
+      "source_provision": "art3"
+    }
+  ]
+}

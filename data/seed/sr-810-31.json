@@ -1,0 +1,233 @@
+{
+  "id": "sr-810-31",
+  "type": "statute",
+  "title": "Bundesgesetz vom 19. Dezember 2003 über die Forschung an embryonalen Stammzellen (Stammzellenforschungsgesetz, StFG)",
+  "title_en": "Federal Act of 19 December 2003 on Research Involving Embryonic Stem Cells (Stem Cell Research Act, StRA)",
+  "short_name": "StFG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2005/104/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Provisions",
+      "section": "1",
+      "title": "Subject, purpose and scope",
+      "content": "1 This Act specifies the conditions under which it is permissible for human embryonic stem cells to be derived from surplus embryos and used for research purposes. 2 It is intended to prevent the misuse of surplus embryos and embryonic stem cells, and to protect human dignity. 3 It is not applicable to the use of embryonic stem cells for transplantation purposes in clinical trials."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Provisions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "In this Act: a. embryo means the offspring, from the fusion of the cell nuclei (karyogamy) to the completion of organ development; b. surplus embryo means an embryo produced in the course of an in vitro fertilization (IVF) procedure that cannot be used to establish a pregnancy and therefore has no prospect of survival; c. embryonic stem cell means a cell from an IVF embryo with the ability to differentiate into the various cell types, but not to develop into a human being, and the cell line derived therefrom; d. parthenote means an organism derived from an unfertilized oocyte."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 1 General Provisions",
+      "section": "3",
+      "title": "Prohibited acts",
+      "content": "1 It is prohibited: a. to create an embryo for research purposes (Art. 29 para. 1 of the Reproductive Medicine Act of 18 December 1998), to derive stem cells from such an embryo, or to use such cells; b. to modify the genetic material in a germ cell (Art. 35 para. 1 of the Reproductive Medicine Act of 18 December 1998), to derive embryonic stem cells from an embryo that has undergone germ line modification, or to use such cells; c. to create a clone, a chimera or a hybrid (Art. 36 para. 1 of the Reproductive Medicine Act of 18 December 1998), to derive embryonic stem cells from such an organism, or to use such cells; d. to develop a parthenote, to derive embryonic stem cells therefrom, or to use such cells; e. to import or export an embryo of the kind specified under Item a or b, or a clone, chimera, hybrid or parthenote. 2 It is further prohibited: a. to use surplus embryos for any purpose other than the derivation of embryonic stem cells; b. to import or export surplus embryos; c. to derive stem cells from a surplus embryo after the seventh day of its development; d. to place in a woman a surplus embryo used for stem cell derivation. SR 810.11"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 General Provisions",
+      "section": "4",
+      "title": "Non-commercialism",
+      "content": "1 Surplus embryos or embryonic stem cells must not be disposed of or acquired in exchange for payment. 2 It is not permissible to use surplus embryos or embryonic stem cells acquired in exchange for payment. 3 The acceptance or provision of non-financial benefits is also deemed to constitute payment. 4 Reimbursement may be made of costs incurred for: a. the storage or passing-on of surplus embryos; b. the derivation, processing, storage or passing-on of embryonic stem cells."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Derivation of Embryonic Stem Cells from Surplus Embryos",
+      "section": "5",
+      "title": "Informed consent",
+      "content": "1 A surplus embryo may only be used for the derivation of embryonic stem cells if written consent has been freely given by the couple concerned. Before such consent is given, the couple must be provided with adequate information, verbally and in writing, in a comprehensible form, concerning the use of the embryo. 2 A request may only be made to the couple after the determination of the surplus status of the embryo. 3 Consent may be revoked by the couple, or by the woman or man, at any time, without any statement of reasons, up until the initiation of stem cell derivation. 4 If consent is refused or revoked, the embryo must be destroyed immediately. 5 In the event of one partner’s death, the decision concerning the use of the embryo for stem cell derivation shall be taken by the surviving partner; he or she must have regard to the declared or presumed wishes of the deceased."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Derivation of Embryonic Stem Cells from Surplus Embryos",
+      "section": "6",
+      "title": "Independence of participants",
+      "content": "It is not permissible for persons involved in the derivation of stem cells either to participate in the assisted reproduction procedure of the couple concerned or to have the authority to issue instructions to persons involved in this procedure."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 2 Derivation of Embryonic Stem Cells from Surplus Embryos",
+      "section": "7",
+      "title": "Licensing requirement for stem cell derivation",
+      "content": "1 Any person wishing to derive embryonic stem cells from surplus embryos with a view to conducting a research project shall require a licence from the Federal Office of Public Health (Federal Office). 2 A licence shall be granted if: a. the research project has received the approval of the ethics committee, as specified in Article 11; b. no suitable embryonic stem cells are available in this country; c. no more surplus embryos are used than are essential for the derivation of embryonic stem cells; and d. the technical and operational requirements are met. Amended by Annex No 5 of the Human Research Act of 30 Sept. 2011, in force since 1 Jan. 2014 ( AS 2013 3215 ; BBl 2009 8045 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Derivation of Embryonic Stem Cells from Surplus Embryos",
+      "section": "8",
+      "title": "Licensing requirement for research projects aimed at improving derivation methods",
+      "content": "1 Any person wishing to derive embryonic stem cells from surplus embryos in connection with a research project aimed at improving derivation methods shall require a licence from the Federal Office. 2 A licence shall be granted if: a. the project meets the scientific and ethical requirements specified in Paragraph 3; b. no more surplus embryos are used than are essential for the attainment of the research objective; and c. the technical and operational requirements are met. 3 The research project may only be carried out if: a. the project is designed to yield significant insights for the improvement of derivation methods; b. equivalent insights cannot also be gained in a different way; c. the project satisfies the scientific quality requirements; and d. the project is ethically acceptable. 4 For the scientific and ethical assessment of the project, the Federal Office shall consult independent experts."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Duties of the licensee",
+      "content": "1 The holder of a licence granted under Article 7 or 8 is required: a. to destroy the embryo immediately after the derivation of embryonic stem cells; b. to report on the derivation of stem cells to the Federal Office; c. to pass on embryonic stem cells, with reimbursement possibly being provided as specified in Article 4, for research projects carried out in this country that have received the approval of an ethics committee as specified in Article 11. 2 In the case of a research project aimed at improving derivation methods, the licensee is additionally required: a. to notify the Federal Office of the completion or discontinuation of the project; b. within an appropriate period after the completion or discontinuation of the project, to make a summary of the results publicly available. Amended by Annex No 5 of the Human Research Act of 30 Sept. 2011, in force since 1 Jan. 2014 ( AS 2013 3215 ; BBl 2009 8045 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Licensing requirement for the storage of surplus embryos",
+      "content": "1 Any person wishing to store surplus embryos shall require a licence from the Federal Office. 2 A licence shall be granted if: a. stem cell derivation is licensed under Article 7 or 8; b. storage is essential for the purpose of stem cell derivation; and c. the technical and operational requirements for storage are met."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 3 Management of Embryonic Stem Cells",
+      "section": "11",
+      "title": "Mandatory approval for research projects",
+      "content": "1 A research project involving embryonic stem cells may only be initiated when approval has been received from the ethics committee responsible. 2 The responsibility of the ethics committee and the approval procedure are governed by the Human Research Act of 30 September 2011. Amended by Annex No 5 of the Human Research Act of 30 Sept. 2011, in force since 1 Jan. 2014 ( AS 2013 3215 ; BBl 2009 8045 ). SR 810.30"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 Management of Embryonic Stem Cells",
+      "section": "12",
+      "title": "Scientific and ethical requirements for research projects",
+      "content": "A research project involving embryonic stem cells may only be carried out if: a. the project is designed to yield significant insights: 1. with regard to the detection, treatment or prevention of serious human diseases, or 2. concerning human developmental biology; b. equivalent insights cannot also be gained in a different way; c. the project satisfies the scientific quality requirements; and d. the project is ethically acceptable."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3 Management of Embryonic Stem Cells",
+      "section": "13",
+      "title": "Duties of the project manager",
+      "content": "1 The project manager must notify the Federal Office of the research project involving embryonic stem cells before it is carried out. 2 The project manager is required: a. to notify the Federal Office and the competent ethics committee of the completion or discontinuation of the project; b. within an appropriate period after the completion or discontinuation of the project: 1. to report the results to the Federal Office and the competent ethics committee, 2. to make a summary of the results publicly available."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 3 Management of Embryonic Stem Cells",
+      "section": "14",
+      "title": "Powers of the Federal Office",
+      "content": "The Federal Office may prohibit or attach conditions to a research project involving embryonic stem cells if the requirements specified in this Act are not completely fulfilled."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 3 Management of Embryonic Stem Cells",
+      "section": "15",
+      "title": "Licensing requirement for the import and export of embryonic stem cells",
+      "content": "1 Any person wishing to import or export embryonic stem cells shall require a licence from the Federal Office. 2 Placing of items in a customs warehouse shall be deemed to constitute import. 3 An import licence shall be granted if: a. the embryonic stem cells are to be used for a specific research project; b. the embryonic stem cells have been derived from embryos that were created for the establishment of a pregnancy but could not be used for that purpose; and c. the couple concerned has freely given informed consent to the use of the embryo for research purposes and receives no payment in return. 4 An export licence will be granted if the conditions for the use of the embryonic stem cells in the country of destination are equivalent to those specified in this Act."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Notification requirement for the storage of embryonic stem cells",
+      "content": "1 Any person who stores embryonic stem cells must notify the Federal Office thereof. 2 The Federal Council may provide for exemptions from the notification requirement if it is already guaranteed by other means that the Federal Office is cognizant of the storage of embryonic stem cells."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 4 Enforcement",
+      "section": "17",
+      "title": "Implementing provisions",
+      "content": "The Federal Council shall: a. specify the modalities of consent and the modalities and extent of information provision under Article 5; b. specify in more detail the requirements for licences and the procedures for licensing under Articles 7, 8, 10 and 15; c. specify in more detail the duties of the licensee under Article 9 and of persons subject to licensing requirements under Articles 10 and 15; d. specify in more detail the content of the notification requirement and the duties of the persons subject to notification requirements and of the project manager under Articles 13 and 16; e. specify in more detail the content of the register to be maintained under Article 18; f. set the charges to be levied under Article 22."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 4 Enforcement",
+      "section": "18",
+      "title": "Register",
+      "content": "The Federal Office shall maintain a public register of the embryonic stem cells present in this country and of research projects."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 4 Enforcement",
+      "section": "19",
+      "title": "Monitoring",
+      "content": "1 The Federal Office shall monitor compliance with the requirements of this Act. To this end, it shall in particular conduct periodic inspections. 2 In the performance of this task, it is empowered: a. to request that the necessary information and documents be made available free of charge; b. to enter operating and storage facilities; c. to request that any other necessary support be provided free of charge."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 4 Enforcement",
+      "section": "20",
+      "title": "Duty of cooperation",
+      "content": "Any person involved in the handling of surplus embryos or embryonic stem cells must assist the Federal Office, free of charge, in the discharge of its functions and in particular: a. provide it with information; b. allow it to inspect documents; c. grant it access to operating and storage facilities."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 4 Enforcement",
+      "section": "21",
+      "title": "Measures",
+      "content": "1 The Federal Office shall take all the measures required for the enforcement of this Act. 2 It is in particular empowered: a. to issue notices of non-compliance and set an appropriate period for corrective action; b. to suspend or revoke licences; c. to seize and destroy embryos or embryonic stem cells that do not meet the requirements of this Act, as well as clones, chimeras, hybrids or parthenotes. 3 It shall take the necessary precautionary measures. It is in particular empowered, even in the event of a justified suspicion of non-compliance, to impound the embryos, embryonic stem cells, clones, chimeras, hybrids or parthenotes in question. 4 In the event of suspected contravention of this Act, the customs authorities are empowered to stop consignments of embryos, embryonic stem cells, clones, chimeras, hybrids or parthenotes at frontier points or in customs warehouses and to call in the Federal Office. The latter shall undertake further investigations and take the necessary measures."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 4 Enforcement",
+      "section": "22",
+      "title": "Charges",
+      "content": "Charges shall be levied for: a. granting, suspending and revoking licences; b. performing controls; c. ordering and implementing measures."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Evaluation",
+      "content": "1 The Federal Office shall be responsible for evaluation of the effectiveness of this Act. 2 On completion of the evaluation, but no later than five years after the commencement of this Act, the Federal Department of Home Affairs shall report to the Federal Council and submit proposals for future action."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Section 5 Criminal Provisions",
+      "section": "24",
+      "title": "Felonies and misdemeanours",
+      "content": "1 Any person who wilfully: a. derives embryonic stem cells from an embryo created for research purposes or genetically modified, or from a clone, chimera, hybrid or parthenote, or uses such embryonic stem cells, or imports or exports such an embryo or a clone, chimera, hybrid or parthenote (Art. 3 para. 1); b. uses a surplus embryo for any purpose other than the derivation of embryonic stem cells, or imports or exports such an embryo, or derives stem cells from a surplus embryo after the seventh day of its development, or places in a woman a surplus embryo used for stem cell derivation (Art. 3 para. 2); c. acquires or disposes of surplus embryos or embryonic stem cells in exchange for payment, or uses surplus embryos or embryonic stem cells acquired in exchange for payment (Art. 4); d. contravenes the requirements concerning the consent of the couple concerned (Art. 5); e. undertakes activities subject to licensing requirements without a licence (Arts. 7, 8, 10 and 15), shall be liable to a custodial sentence not exceeding three years or to a monetary penalty. 2 If the offender acts on a commercial basis, he or she shall be liable to a custodial sentence not exceeding five years or to a monetary penalty. 3 If the offender acts through negligence, he or she shall be liable to a monetary penalty. Amended by No I 28 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ( AS 2023 259 ; BBl 2018 2827 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 5 Criminal Provisions",
+      "section": "25",
+      "title": "Contraventions",
+      "content": "1 Any person who wilfully: a. contravenes the requirements concerning the independence of participants (Art. 6); b. fails to comply with the duties of a licensee or conditions attached to a licence or the duties of a project manager, or contravenes the notification requirement (Arts. 9, 10, 13, 15 and 16); c. carries out a research project although it has been prohibited by the Federal Office, or fails to fulfil conditions attached thereto (Art. 14); d. fails to comply with the duty of cooperation (Art. 20); e. contravenes an implementing regulation, infringement of which has been declared by the Federal Council to carry a penalty, or contravenes an order addressed to that person with reference being made to the penalty provided for in this Article, shall be liable to a fine not exceeding 50 000 Swiss francs. 1bis If the offence is committed through negligence, the penalty is a fine not exceeding 20 000 francs. 2 Attempt and complicity are also offences. 3 A contravention and the penalty for a contravention are subject to a five-year prescriptive period. 4 … Amended by No I 28 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ( AS 2023 259 ; BBl 2018 2827 ). Inserted by No I 28 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ( AS 2023 259 ; BBl 2018 2827 ). Repealed by No I 28 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, with effect from 1 July 2023 ( AS 2023 259 ; BBl 2018 2827 )."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Jurisdiction and administrative criminal law",
+      "content": "1 The cantons have jurisdiction in the prosecution and adjudication of offences. 2 Articles 6 and 7 (offences in companies) and 15 (forgery of documents, obtaining a false certificate by fraud) of the Federal Act of 22 March 1974 on Administrative Criminal Law applies. SR 313.0"
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 6 Final Provisions",
+      "section": "27",
+      "title": "Amendment of existing law",
+      "content": "... The amendment may be consulted under AS 2005 947 ."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 6 Final Provisions",
+      "section": "28",
+      "title": "Transitional provisions",
+      "content": "Any person who has already initiated a research project involving embryonic stem cells must notify the Federal Office no later than three months after the commencement of this Act."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 6 Final Provisions",
+      "section": "29",
+      "title": "Referendum and commencement",
+      "content": "1 This Act is subject to an optional referendum. 2 The Federal Council shall determine the commencement date. Commencement date: 1 March 2005 FCD of 2 Feb. 2005.."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "embryo",
+      "definition": "embryo means the offspring, from the fusion of the cell nuclei (karyogamy) to the completion of organ development;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "surplus embryo",
+      "definition": "surplus embryo means an embryo produced in the course of an in vitro fertilization (IVF) procedure that cannot be used to establish a pregnancy and therefore has no prospect of survival;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "embryonic stem cell",
+      "definition": "embryonic stem cell means a cell from an IVF embryo with the ability to differentiate into the various cell types, but not to develop into a human being, and the cell line derived therefrom;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "parthenote",
+      "definition": "parthenote means an organism derived from an unfertilized oocyte.",
+      "source_provision": "art2"
+    }
+  ]
+}

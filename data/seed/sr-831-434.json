@@ -1,0 +1,44 @@
+{
+  "id": "sr-831-434",
+  "type": "statute",
+  "title": "Verordnung vom 28. August 1985 über die Ansprüche der Auffangeinrichtung der beruflichen Vorsorge",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1985/1256_1256_1256/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Ansprüche der Auffangeinrichtung gegenüber einem Arbeitgeber, der sich noch keiner Vorsorgeeinrichtung angeschlossen hat, wenn sie seinen Arbeitnehmern oder deren Hinterlassenen die gesetzlichen Leistungen zu erbringen hat (Art. 12 BVG); b. die Übernahme der Kosten der Auffangeinrichtung durch den Sicherheitsfonds (Art. 72 Abs. 2 BVG)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Anschluss des Arbeitgebers von Gesetzes wegen",
+      "content": "1 Entsteht der gesetzliche Anspruch eines Arbeitnehmers auf Versicherungs- oder Freizügigkeitsleistung zu einem Zeitpunkt, an dem sein Arbeitgeber noch keiner Vorsorgeeinrichtung angeschlossen ist, so wird der Arbeitgeber von Gesetzes wegen für alle dem Obligatorium unterstellten Arbeitnehmer der Auffangeinrichtung angeschlossen. 2 Weist der Arbeitgeber nach, dass eine andere Vorsorgeeinrichtung auch die bisherigen Verpflichtungen der Auffangeinrichtung übernimmt, so wird der Anschluss des Arbeitgebers bei der Auffangeinrichtung auf den Zeitpunkt der Verpflichtungsübernahme durch die andere Vorsorgeeinrichtung aufgehoben."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Ansprüche der Auffangeinrichtung gegenüber dem Arbeitgeber",
+      "content": "1 Der Arbeitgeber hat der Auffangeinrichtung die Beiträge für alle dem Gesetz unterstellten Arbeitnehmer von dem Zeitpunkt an zu entrichten, von dem an er bei einer Vorsorgeeinrichtung hätte angeschlossen sein müssen. 2 Der Verzugszins entspricht dem jeweils von der Auffangeinrichtung für geschuldete Beiträge geforderten Zinssatz. 3 Der Arbeitgeber muss bei Tod oder Invalidität eines dem Obligatorium unterstellten Arbeitnehmers einen Zuschlag in der Höhe der vierfachen Beiträge für die Risiken Tod und Invalidität aller dem Obligatorium unterstellten Arbeitnehmer als Schadenersatz entrichten. Dieser Zuschlag wird von dem Zeitpunkt an berechnet, von dem an der Arbeitgeber bei einer Vorsorgeeinrichtung hätte angeschlossen sein müssen bis zum Eintritt des Versicherungsfalles. Der Zuschlag ist auf das versicherungstechnisch notwendige Deckungskapital, vermindert um das Altersguthaben des betreffenden Arbeitnehmers, begrenzt. 4 Der Arbeitgeber muss der Auffangeinrichtung alle Aufwendungen ersetzen, die ihr im Zusammenhang mit seinem Anschluss entstehen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Leistungen des Sicherheitsfonds an die Auffangeinrichtung",
+      "content": "1 Der Sicherheitsfonds ersetzt der Auffangeinrichtung: a. den Barwert der Hinterlassenen- und Invalidenleistung nach Artikel 12 Absatz 1 BVG; davon werden abgezogen: 1. das Altersguthaben des Versicherten, 2. die Summe der für alle obligatorisch zu versichernden Arbeitnehmer rückwirkend geschuldeten Beiträge für die Risiken Tod und Invalidität, und 3. der vom Arbeitgeber gemäss Artikel 3 Absatz 3 geschuldete Schadenersatz; b. die Aufwendungen für die spätere Anpassung der Hinterlassenen- und Invalidenrenten nach Buchstabe a an die Preisentwicklung (Art. 36 Abs. 1 BVG). 2 Ist der Arbeitgeber zahlungsunfähig, so ersetzt der Sicherheitsfonds der Auffangeinrichtung zudem: a. die gemäss Absatz 1 Buchstabe a abgezogenen, jedoch nicht einbringbaren Beträge; b. die nicht einbringbaren Beiträge im Fall von erbrachten Alters- oder Freizügigkeitsleistungen zugunsten des Versicherten; c. die nicht einbringbaren Beträge gemäss Artikel 3 Absatz 4. 3 Wird die Auffangeinrichtung nachträglich von ihrer Leistungspflicht befreit (Art. 2 Abs. 2) oder erhält sie erbrachte Leistungen zurück, so erstattet sie dem Sicherheitsfonds die von ihm erhaltenen Beträge entsprechend zurück."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt rückwirkend auf den 1. Januar 1985 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,226 @@
+{
+  "id": "sr-455-61",
+  "type": "statute",
+  "title": "Verordnung vom 1. September 2010 über das Informationssystem im Bereich der Tierversuche (Animex-ch-Verordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2010/563/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "1 Diese Verordnung regelt den Betrieb des elektronischen Informationssystems zur Verwaltung der Tierversuche (Informationssystem Animex-ch). 2 Sie enthält insbesondere Vorschriften über: a. die Zuständigkeiten; b. die Struktur und den Inhalt des Informationssystems Animex-ch; c. die Zugriffsrechte; d. die Bekanntgabe von Daten; e. den Datenschutz und die Informatiksicherheit; f. die Archivierung von Daten; g. die Gebühren und Kosten. Ausdruck gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Zweck des Informationssystems Animex-ch",
+      "content": "Das Informationssystem Animex-ch dient der Bearbeitung der Daten, die der Bund, die Kantone, Institute, Laboratorien und Versuchstierhaltungen für die Verwaltung der Bewilligungen für Tierversuche und Versuchstierhaltungen benötigen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "1 Die folgenden Ausdrücke bedeuten: a. Institute und Laboratorien: Organisationseinheiten innerhalb der Universität, der Industrie oder anderer Einrichtungen, die Tierversuche durchführen; b. Forscherin oder Forscher: Mitarbeiterin oder Mitarbeiter eines Instituts, eines Laboratoriums oder einer Versuchstierhaltung. 2 Der Begriff Versuchstierhaltung ist im Sinn von Artikel 2 Absatz 3 Buchstabe m der Tierschutzverordnung vom 23. April 2008 zu verstehen. SR 455.1"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Zuständigkeiten",
+      "section": "4",
+      "title": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+      "content": "1 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) sorgt für den Aufbau und den Betrieb des Informationssystems Animex-ch. 2 Es: a. schliesst Vereinbarungen mit Leistungserbringern ab; b. schliesst Nutzungsvereinbarungen mit den Kantonen ab; c. erlässt Vorschriften technischer Art zur Benützung des Informationssystems Animex-ch; d. erstellt das Jahresbudget und die Jahresrechnung. 3 Es trägt die Verantwortung für die Fachstelle und für das Informationssystem Animex-ch. Es trifft insbesondere die für den wirtschaftlichen Betrieb und die zur Gewährleistung des Datenschutzes und der Datensicherheit erforderlichen Massnahmen. Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3789 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Zuständigkeiten",
+      "section": "5",
+      "title": "Fachstelle",
+      "content": "Die Fachstelle des BLV für das Informationssystem Animex-ch (Fachstelle) ist zuständig für: a. die Unterstützung der Anwenderinnen und Anwender der kantonalen Behörden und der kantonalen Tierversuchskommissionen; b. die Information der Anwenderinnen und Anwender über technische Aspekte, Neuerungen und Änderungen; c. die technischen und fachlichen Anpassungen und Verbesserungen des Informationssystems Animex-ch; d. die Verbesserung der Anwenderführung mittels Hilfetexten und System-Meldungen; e. die Koordination und die Überwachung der Aufgaben der Leistungserbringer; f. die Behebung von Störungen in Zusammenarbeit mit den Leistungserbringern; g. die Erteilung und die Verwaltung der Zugriffsrechte der Anwenderinnen und Anwender; h. die Durchführung von Schulungen. Ausdruck gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3789 ). Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Zuständigkeiten",
+      "section": "6",
+      "title": "Kantonale Behörden",
+      "content": "1 Die kantonalen Behörden verwalten ihre Daten und Dokumente und sorgen für die Richtigkeit der Personen- und der Betriebsdaten ihres Kantons. Sie verwalten insbesondere die Angaben über die Anwenderinnen und Anwender und übermitteln sie der Fachstelle, soweit sie für die Erteilung der Zugriffsrechte erforderlich sind. 2 Sie schliessen Nutzungsvereinbarungen mit den Instituten, Laboratorien, Versuchstierhaltungen und den Mitgliedern der kantonalen Tierversuchskommissionen ab. Die Vereinbarungen sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informatiksicherheit vor."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Zuständigkeiten",
+      "section": "7",
+      "title": "Institute, Laboratorien und Versuchstierhaltungen",
+      "content": "Die Institute, Laboratorien und Versuchstierhaltungen schliessen Nutzungsvereinbarungen mit ihren Mitarbeiterinnen und Mitarbeitern ab. Die Vereinbarungen sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informatiksicherheit vor."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Zuständigkeiten",
+      "section": "8",
+      "title": "Gemeinsamer Ausschuss",
+      "content": "1 Der gemeinsame Ausschuss besteht aus je drei Vertreterinnen und Vertretern des BLV und der Kantone. Das BLV leitet den Ausschuss. Im Übrigen organisiert er sich selbst. 2 Er berät das BLV im Hinblick auf fachliche Aspekte des Betriebs und der Weiterentwicklung des Informationssystems Animex-ch. Er erstellt einen Archivierungsplan. 3 Er kann der Fachstelle Aufträge erteilen. 4 Für die Behandlung spezifischer Fragestellungen kann er externe Expertinnen und Experten beiziehen. Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Struktur und Inhalt des Informationssystems Animex-ch",
+      "section": "9",
+      "title": "Struktur des Informationssystems Animex-ch",
+      "content": "Das Informationssystem Animex-ch umfasst: a. die Anwenderverwaltung; b. die Verwaltung der Aus- und Weiterbildung der Forscherinnen und Forscher und der Tierschutzbeauftragten; c. den Geschäftsablauf der Bewilligung und der Überwachung von Tierversuchen; d. den Geschäftsablauf der Bewilligung und der Überwachung von Versuchstierhaltungen, einschliesslich der vereinfachten Bewilligung zum Erzeugen gentechnisch veränderter Tiere mit anerkannten Methoden; e. den Geschäftsablauf der Meldung von belasteten Tierlinien oder -stämmen; f. den Geschäftsablauf der Berichte sowie die Angaben für die Information der Öffentlichkeit nach Artikel 20 a TSchG und für die Tierversuchsstatistik nach Artikel 36 TSchG; g. das Informations- und Hilfesystem; h. die Systemverwaltung. Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Struktur und Inhalt des Informationssystems Animex-ch",
+      "section": "10",
+      "title": "Inhalt des Informationssystems Animex-ch",
+      "content": "1 Das Informationssystem Animex-ch enthält folgende Arten von Daten: a. Stammdaten über Personen, Institute , Laboratorien und Versuchstierhaltungen: Daten, die die Grundlage für den Systemzugriff bilden oder der Identifikation der Personen, Institute, Laboratorien und Versuchstierhaltungen dienen; b. Vollzugsdaten : Gesuche, Bewilligungen und andere Entscheide, Berichte, Meldungen, Kontrollergebnisse sowie allfällige administrative Anweisungen, Rückfragen und Rückantworten im Rahmen des Bewilligungs- und des Überwachungsverfahrens für Tierversuche und Versuchstierhaltungen, Unterlagen zur Verwaltung der Aus- und Weiterbildungsnachweise sowie Verweise auf weitere kantonale Verfügungen im Bereich Tierversuche und Versuchstierhaltungen; c. Systemdaten : Daten, die der Verwaltung und der Anpassung des Informationssystems an die Vollzugsbedürfnisse dienen: Referenzlisten nach Anhang 1 Ziffer 4, Profile, Informationsmaterial, Textbausteine, Hilfetexte und ähnliche Daten; d. Historisierungsdaten: Daten, die die Nachverfolgung von Änderungen eines Gesuchs, einer Bewilligung, eines Entscheids, eines Berichts, einer Meldung oder von Anwenderrollen im System ermöglichen. 2 Die kantonalen Behörden, die Mitglieder der kantonalen Tierversuchskommissionen und das BLV können Arbeitsnotizen zu den einzelnen Geschäften anbringen. 3 Die im Informationssystem Animex-ch enthaltenen Daten sind in Anhang 1 Ziffer 5 abschliessend aufgeführt. Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Zugriff auf das Informationssystem Animex-ch",
+      "section": "11",
+      "title": "Erteilen der Zugriffsrechte",
+      "content": "1 Die Zugriffsrechte sind in Anhang 1 geregelt. 2 Die Erteilung oder die Änderung der Zugriffsrechte erfolgt aufgrund entsprechender Gesuche der kantonalen Behörden, der Institute, Laboratorien und Versuchstierhaltungen über das Informationssystem Animex-ch an die Fachstelle."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Zugriff auf das Informationssystem Animex-ch",
+      "section": "12",
+      "title": "Zugriff im Abrufverfahren auf die Stammdaten",
+      "content": "Auf die Stammdaten haben Zugriff im Abrufverfahren: a. die Forscherinnen und Forscher; b. die Tierschutzbeauftragten der Institute, Laboratorien und Versuchstierhaltungen; c. die Mitarbeiterinnen und Mitarbeiter der kantonalen Behörden; d. die Mitglieder der kantonalen Tierversuchskommissionen; e. die Mitarbeiterinnen und Mitarbeiter der Fachstelle."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Zugriff auf das Informationssystem Animex-ch",
+      "section": "13",
+      "title": "Zugriff im Abrufverfahren auf andere Daten durch Forscherinnen und Forscher sowie durch Tierschutzbeauftragte",
+      "content": "1 Die Forscherinnen und Forscher haben Zugriff im Abrufverfahren auf: a. Daten, die sie selber in das Informationssystem eingegeben haben; b. durch die kantonalen Behörden oder Tierversuchskommissionen an sie gerichtete Daten. 2 Die Tierschutzbeauftragten der Institute, Laboratorien und Versuchstierhaltungen haben Zugriff im Abrufverfahren auf: a. Daten, die sie selber in das Informationssystem eingegeben haben; b. Daten, die im Zusammenhang mit der Erfüllung ihrer Aufgaben als Tierschutzbeauftragte erforderlich sind. Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 )."
+    },
+    {
+      "provision_ref": "art13a",
+      "chapter": "4. Abschnitt: Zugriff auf das Informationssystem Animex-ch",
+      "section": "13a",
+      "title": "a Zugriff im Abrufverfahren auf andere Daten durch Mitarbeiterinnen und Mitarbeiter der kantonalen Behörden und durch Mitglieder der kantonalen Tierversuchskommissionen",
+      "content": "1 Die Mitarbeiterinnen und Mitarbeiter der kantonalen Behörden haben zur Erfüllung ihrer gesetzlichen Aufgaben Zugriff im Abrufverfahren auf: a. Daten, die sie selber in das Informationssystem eingegeben haben; b. Daten, die im Zusammenhang mit der Durchführung der Vollzugsaufgaben der eigenen Verwaltungseinheit angefallen sind; c. den Bearbeitungsstatus der Berichte, die gestützt auf Artikel 145 Absätze 1 Buchstabe b und 2 Buchstabe b der Tierschutzverordnung vom 23. April 2008 (TSchV) erstellt werden; d. Daten aus einer anderen als der eigenen Verwaltungseinheit, die: 1. Personen, Institute, Laboratorien oder Versuchstierhaltungen betreffen, 2. Bewilligungen für Tierversuche, für Versuchstierhaltungen oder für das Erzeugen gentechnisch veränderter Tiere zum Gegenstand haben, einschliesslich der zugehörigen Gesuche, Anträge und Berichte, oder 3. Entscheide zu belasteten Linien zum Gegenstand haben, einschliesslich der zugehörigen Meldungen und Anträge. 2 Die Mitglieder der kantonalen Tierversuchskommissionen haben zur Erfüllung ihrer gesetzlichen Aufgaben Zugriff im Abrufverfahren auf: a. Daten, die sie selber in das Informationssystem eingegeben haben; b. Daten, die im Zusammenhang mit der Durchführung der Aufgaben der eigenen Tierversuchskommission angefallen sind; c. Daten aus allen Kantonen, die Bewilligungen für Tierversuche, für Versuchstierhaltungen oder für das Erzeugen gentechnisch veränderter Tiere zum Gegenstand haben, einschliesslich der zugehörigen Gesuche, Anträge und Berichte; d. Daten aus allen Kantonen, die Entscheide zu belasteten Linien zum Gegenstand haben, einschliesslich der zugehörigen Meldungen und Anträge. Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). SR 455.1"
+    },
+    {
+      "provision_ref": "art13b",
+      "section": "13b",
+      "title": "b Zugriff im Abrufverfahren auf andere Daten durch Mitarbeiterinnen und Mitarbeiter der Fachstelle und durch die Administratorinnen und Administratoren des BLV",
+      "content": "1 Die Mitarbeiterinnen und Mitarbeiter der Fachstelle haben zur Erfüllung ihrer gesetzlichen Aufgaben Zugriff im Abrufverfahren auf: a. Daten, die sie selber in das Informationssystem eingegeben haben; b. Daten, die zu Verfügungen der kantonalen Behörden zu Tierversuchen oder Versuchstierhaltungen gehören; c. den Bearbeitungsstatus der Berichte, die gestützt auf Artikel 145 Absätze 1 Buchstabe b und 2 Buchstabe b TSchV erstellt werden. 2 Die Administratorinnen und Administratoren des BLV haben Zugriff im Abrufverfahren auf alle Daten, die zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich sind, insbesondere auf die Daten, die sie zur Unterstützung der Anwenderinnen und Anwender benötigen. Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). SR 455.1"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Datenschnittstelle",
+      "content": "1 Institute, Laboratorien und Versuchstierhaltungen, die über eigene Informationssysteme zur Verwaltung ihrer Tierversuche verfügen, können Daten über eine sichere Datenschnittstelle mit dem Informationssystem Animex-ch austauschen. 2 Das BLV schliesst mit ihnen entsprechende Nutzungsvereinbarungen ab. Diese sehen insbesondere Massnahmen zur Gewährleistung des Datenschutzes und der Informatiksicherheit vor."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten",
+      "section": "15",
+      "title": "Bekanntgabe von Personendaten an Dritte",
+      "content": "Das BLV kann Dritten Personendaten aus dem Informationssystem Animex-ch bekannt geben, wenn dafür eine gesetzliche Grundlage besteht oder die Betroffenen eingewilligt haben."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten",
+      "section": "16",
+      "title": "Veröffentlichung von Daten",
+      "content": "1 Die Information der Öffentlichkeit nach Artikel 20 a TSchG sowie die Tierversuchsstatistik nach Artikel 36 TSchG beruhen auf den Daten im Informationssystem Animex-ch. 2 Das BLV stellt den kantonalen Behörden die veröffentlichten Daten im Auswertungs- und Analysesystem für Lebensmittel und Veterinary Public Health zur Verfügung. Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Mai 2014 ( AS 2013 3789 ). Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 )."
+    },
+    {
+      "provision_ref": "art16a",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten",
+      "section": "16a",
+      "title": "a Datenbekanntgabe an die Institute und Laboratorien",
+      "content": "1 Die kantonale Behörde stellt den Instituten und Laboratorien die Daten, die das BLV nach Artikel 16 veröffentlicht hat, auf Gesuch hin in maschinenlesbarer Form zur Verfügung. 2 Das Gesuch ist von der oder dem Tierschutzbeauftragten bei der kantonalen Behörde einzureichen. 3 Institute und Laboratorien, die in mehreren Kantonen Standorte haben und Tierversuche durchführen, müssen das Gesuch bei der Behörde des Kantons einreichen, in dem sich ihr Sitz oder die Hauptverwaltung ihrer Organisationseinheiten befindet. Die kantonale Behörde stellt dem gesuchstellenden Institut oder Laboratorium die Daten nach Artikel 16 zu allen seinen Standorten und Tierversuchen aus allen betroffenen Kantone zur Verfügung. Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Datenschutz, Informatiksicherheit und Archivierung",
+      "section": "17",
+      "title": "Datenschutz",
+      "content": "Das BLV und die kantonalen Behörden sorgen dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. Für die dafür notwendigen organisatorischen und technischen Massnahmen erlässt das BLV ein Bearbeitungsreglement."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "6. Abschnitt: Datenschutz, Informatiksicherheit und Archivierung",
+      "section": "18",
+      "title": "Rechte der betroffenen Personen",
+      "content": "1 Die Rechte der Personen, über die im Animex-ch Daten bearbeitet werden, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht, richten sich nach dem Datenschutzgesetz vom 25. September 2020. 2 Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022 ein Gesuch bei der Vollzugsbehörde des Kantons, in dem sie ihren Wohnsitz hat, oder beim BLV einreichen. 3 Die jeweilige kantonale Behörde und das BLV informieren sich gegenseitig über eingegangene Gesuche. SR 235.1 Fassung gemäss Anhang 2 Ziff. II 58 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 ). SR 235.11 Fassung gemäss Anhang 2 Ziff. II 58 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "6. Abschnitt: Datenschutz, Informatiksicherheit und Archivierung",
+      "section": "19",
+      "title": "Berichtigung von Daten",
+      "content": "Das Institut, das Laboratorium, die Versuchstierhaltung oder die Behörde, welches oder welche die Daten in das Informationssystem Animex-ch eingegeben hat, sorgt für die Berichtigung unrichtiger Daten."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "6. Abschnitt: Datenschutz, Informatiksicherheit und Archivierung",
+      "section": "20",
+      "title": "Informatiksicherheit",
+      "content": "1 Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020. 2 Das BLV sorgt dafür, dass die Bestimmungen über die Informatiksicherheit Teil der Nutzungsvereinbarungen mit den Kantonen und mit den Instituten, Laboratorien und Versuchstierhaltungen sowie Teil der Vereinbarungen mit den Leistungserbringern sind. 3 Die Kantone sorgen für die Informatiksicherheit in der kantonalen Behörde und bei den Mitgliedern der kantonalen Tierversuchskommission. SR 120.73 Fassung gemäss Anhang Ziff. 28 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ( AS 2021 132 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "6. Abschnitt: Datenschutz, Informatiksicherheit und Archivierung",
+      "section": "21",
+      "title": "Aufbewahrung, Archivierung und Vernichtung der Daten",
+      "content": "1 Die Daten des Informationssystems Animex-ch dürfen längstens 30 Jahre im Informationssystem aufbewahrt werden. 2 Die Archivierung richtet sich nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998. 3 Anonymisierte Daten dürfen über die Frist nach Absatz 1 hinaus im Informationssystem aufbewahrt werden. Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ( AS 2021 926 ). SR 152.1"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "7. Abschnitt: Gebühren und Kosten",
+      "section": "22",
+      "title": "Gebühren",
+      "content": "Die Gebühren für die Benützung des Informationssystems Animex-ch richten sich nach Artikel 24 b der Gebührenverordnung BLV vom 30. Oktober 1985. SR 916.472"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "7. Abschnitt: Gebühren und Kosten",
+      "section": "23",
+      "title": "Kosten für kantonsspezifische Funktionalitäten",
+      "content": "Kosten für spezielle kantonsspezifische Funktionalitäten im Informationssystem Animex-ch gehen zulasten des beantragenden Kantons."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "24",
+      "title": "Vollzug",
+      "content": "Das Eidgenössische Departement des Innern kann Ausführungsvorschriften erlassen. Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2013 angepasst."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "25",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird in Anhang 2 geregelt."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "26",
+      "title": "Inkrafttreten",
+      "content": "1 Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Januar 2011 in Kraft. 2 Es treten am 1. Januar 2012 in Kraft: a. Artikel 22; b. Artikel 24 b der Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Veterinärwesen in der Fassung von Anhang 2 Ziffer 2 der vorliegenden Verordnung. SR 916.472"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Institute und Laboratorien:",
+      "definition": "Institute und Laboratorien: Organisationseinheiten innerhalb der Universität, der Industrie oder anderer Einrichtungen, die Tierversuche durchführen;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Forscherin oder Forscher:",
+      "definition": "Forscherin oder Forscher: Mitarbeiterin oder Mitarbeiter eines Instituts, eines Laboratoriums oder einer Versuchstierhaltung.",
+      "source_provision": "art3"
+    }
+  ]
+}

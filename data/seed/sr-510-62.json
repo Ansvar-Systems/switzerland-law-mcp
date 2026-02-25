@@ -1,0 +1,393 @@
+{
+  "id": "sr-510-62",
+  "type": "statute",
+  "title": "Bundesgesetz vom 5. Oktober 2007 über Geoinformation (Geoinformationsgesetz, GeoIG)",
+  "title_en": "Federal Act of 5 October 2007 on Geoinformation (Geoinformation Act, GeoIA)",
+  "short_name": "GeoIG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2008/388/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Aim",
+      "content": "This Act has the aim of ensuring that geodata relating to the territory of the Swiss Confederation is made available for general use to the authorities of the Confederation, the cantons and communes, the private sector, the public and to academic and scientific institutions in a sustainable, up-to-date, rapid and easy manner, in the required quality and at a reasonable cost."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Scope",
+      "content": "1 This Act is valid for official geodata under federal legislation. 2 It is valid for other federal geodata provided its use is not regulated by other federal legislation. 3 The regulations for geodata apply by analogy to federal geological data. 4 The Third, Fourth and Fifth Chapters hereof shall take priority over divergent provisions of other federal acts."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "3",
+      "title": "Terms and definitions",
+      "content": "1 In this Act: a. geodata means geospatial data that is related in time to the dimensions and characteristics of certain spaces and objects and in particular their position, nature, use and legal relationships; b. geoinformation means geospatial information obtained through combinations of geodata; c. official geodata means geodata that is based on a legislative enactment of the Confederation, a canton or a commune; d. official geodata of proprietary nature means official geodata that binds by law all persons with a legal interest in a particular land parcel; e. official geodata binding public authorities means official geodata that is legally binding for federal, cantonal or communal authorities in the execution of their public duties; f. geospatial reference data means official geodata which serves as the geometric basis for other geodata; g. geospatial metadata means formal descriptions of the characteristics of geodata describing, for example, the origin, content, structure, validity, up-to-dateness, accuracy, rights of use, access or methods of processing; h. geodata models means descriptions of reality determining the structure and content of geodata independent from the used hard- and software systems; i. presentation models means descriptions of graphical presentations for the visualization of geodata e.g. in the form of maps and plans; j. geodata services means network applications which facilitate and simplify the use of electronic services for geodata and allow access to structured geodata. 2 The Federal Council may expand the definitions of the terms used in this Act and amend them in accordance with the latest scientific and technical findings and international usage."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 1 Qualitative and Technical Requirements",
+      "section": "4",
+      "title": "Harmonisation",
+      "content": "1 The qualitative and technical requirements for geodata and geospatial metadata must be defined in such a way as to enable the simple exchange and wide use of the data. 2 The implementing regulations for geoinformation legislation must take account of internationally or nationally recognized standards for geodata and geospatial metadata provided that this is possible and technically expedient."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 1 Qualitative and Technical Requirements",
+      "section": "5",
+      "title": "Official geodata under federal legislation",
+      "content": "1 The Federal Council shall define the official geodata under federal legislation in a catalogue. 2 It shall issue regulations on the qualitative and technical requirements for official geodata under federal legislation and in particular on: a. the geodetic origin and projection framework; b. the relevant geodata model; c. the presentation model; d the degree of detail; e. data quality; f. data collection and updating; g. data exchange; h. spatial delimitations. 3 It may authorise the Federal Office of Topography or the technically competent office to issue technical regulations and specialist recommendations concerning the official geodata under federal legislation."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 1 Qualitative and Technical Requirements",
+      "section": "6",
+      "title": "Geospatial metadata",
+      "content": "1 The Federal Council shall issue regulations on the qualitative and technical requirements for geospatial metadata that is based on official geodata, and in particular on: a. the content; b. the relevant data model; c. the degree of detail; d. data quality; e. data collection and updating; f. data exchange. 2 It may authorise the Federal Office of Topography or the technically competent office to issue technical regulations and specialist recommendations concerning the relevant geospatial metadata."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 1 Qualitative and Technical Requirements",
+      "section": "7",
+      "title": "Geographical names",
+      "content": "1 The Federal Council shall issue regulations on the coordination of names of communes, communities and streets. It shall regulate other geographical names, responsibilities and the procedure as well as the allocation of costs. 2 The Federal Council shall rule as final instance on disputes arising from the application of paragraph 1 above."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 2 Collection, Updating and Management",
+      "section": "8",
+      "title": "Responsibility, freedom of method",
+      "content": "1 The legislation shall identify the authorities responsible for the collection, updating and management of the relevant official geodata. In the absence of specific regulations, this responsibility is that of the specialist authority at federal or cantonal level responsible for the specialist field to which this official geodata relates. 2 Duplication of work must be avoided during collection and updating of official geodata. 3 The method of collection and updating of official geodata may be chosen freely, provided that the results are of equal quality."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 2 Collection, Updating and Management",
+      "section": "9",
+      "title": "Guarantee of availability",
+      "content": "1 The authorities responsible for the collection, updating and management of official geodata shall also guarantee the lasting availability of this geodata. 2 In relation to official geodata under federal legislation, the Federal Council shall regulate: a. the modalities of archival storage; b. the method and frequency of historiography."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 3 Data Access and Data Use",
+      "section": "10",
+      "title": "Principle",
+      "content": "Official geodata under federal legislation shall be accessible to the public and may be used by anyone, unless this is contrary to overriding public or private interests."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 3 Data Access and Data Use",
+      "section": "11",
+      "title": "Data security",
+      "content": "Articles 1–11, 16–25, 27, 33, 36 and 37 of the Federal Act of 19 June 1992 on Data Protection apply to the use of all official geodata under federal legislation subject to any regulations to the contrary found in Article 12 paragraph 2c, Article 14 paragraphs 1, 2 and Article 32 paragraph 2d of this Act. SR 235.1"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 3 Data Access and Data Use",
+      "section": "12",
+      "title": "Data use",
+      "content": "1 The authority responsible for the collection, updating and management of official geodata under federal legislation may allow access to this geodata as well as its use and distribution; the authorisation is subject to consent. Consent is granted by: a. act of disposal; b. contract; c. organisational or technical access controls. 2 The Federal Council shall issue further regulations regarding: a. the permitted use and distribution of data; b. the main features of the procedure for granting access and use; c. the obligations of the users, in particular with regard to data access and data protection during use and distribution; d. the mention of source of data and caveat; e. exemptions from the requirement of consent."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 3 Data Access and Data Use",
+      "section": "13",
+      "title": "Geodata services",
+      "content": "1 The Federal Council shall determine the geodata services of national interest and define their minimum content. 2 It shall issue regulations about the qualitative and technical requirements with regard to optimal networking and integration. 3 It shall regulate interdisciplinary geodata services. 4 It may require that certain official geodata under federal legislation, either by itself or in combination with other geodata, is made available online or by another method in electronic form. 5 The same authority that is responsible for the collection, updating and management of official geodata is also responsible for the development and operation of the geodata services."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 3 Data Access and Data Use",
+      "section": "14",
+      "title": "Data exchange between public authorities",
+      "content": "1 The federal and cantonal authorities shall grant each other easy and direct access to official geodata. 2 The Federal Council shall regulate the details of the exchange of official geodata. 3 Data exchange shall be compensated for on the basis of a flat-rate payment. The Confederation and cantons shall regulate the modalities and the assessment of the compensation payment in a public-law contract."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 3 Data Access and Data Use",
+      "section": "15",
+      "title": "Fees",
+      "content": "1 The Confederation and cantons may charge fees for the access to and use of official geodata. 2 They shall harmonise the principles of the fee structure for the official geodata and geodata services of national interest. 3 The Federal Council regulates the fees for the access to and use of basic geodata and the geodata services of the Confederation. The fees are made up as follows: a. for private use: marginal costs and a suitable contribution to infrastructure costs at the most; b. for commercial use: marginal costs and a suitable contribution to infrastructure, investment and revision costs appropriate to the use of the geodata."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 4 Cadastre of Public-law Restrictions on landownership",
+      "section": "16",
+      "title": "Subject matter and form",
+      "content": "1 The Cadastre of public-law restrictions shall contain public-law restrictions on landownership rights which, in accordance with the provisions of the Civil Code, are not part of the Land Register. 2 The Federal Council determines which official geodata under federal legislation are entered in the Cadastre of public-law restrictions. 3 The cantons may define additional official geodata of proprietary nature that must be recorded in the Cadastre of public-law restrictions. 4 The Cadastre of public-law restrictions shall be made available in electronic form either online or by any other method. 5 The Federal Council shall determine the minimum requirements with regard to the organisation, management, data harmonisation, methods and processes for the Cadastre of public-law restrictions. SR 210"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 4 Cadastre of Public-law Restrictions on landownership",
+      "section": "17",
+      "title": "Validity",
+      "content": "The content of the Cadastre of public-law restrictions is considered to be publicly known."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 4 Cadastre of Public-law Restrictions on landownership",
+      "section": "18",
+      "title": "Liability",
+      "content": "Liability for the management of the Cadastre of public-law restrictions is governed by Article 955 of the Civil Code. SR 210"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 5 Commercial Activities of the Confederation",
+      "section": "19",
+      "title": "",
+      "content": "1 The Federal Council may authorise authorities of the Federal Administration to offer on a commercial basis geodata and other services in the field of geoinformation in order to comply with specific requests from clients. 2 The commercial services offered must be closely related to the tasks of the authorised authority and must not compromise its work. 3 The authorised authority shall offer the commercial services on a private law basis. It shall determine the price according to market conditions and make its fees known. The total fees charged for commercial services must at least cover their own costs and must not be subsidised by income from other basic functions of the authority."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 6 Obligation to Support and Tolerate",
+      "section": "20",
+      "title": "Assistance during data collection and updating",
+      "content": "1 Those persons who have an interest in the property concerned have a duty to assist public officers and third parties working on behalf of the Confederation and cantons in their work of collecting and updating official geodata. In particular, they must allow these public officers: a. access to private land parcels; b. within a reasonable time and subject to advance notice, access to buildings; c. to bring technical equipment onto the land parcels or into the buildings for the duration of the geodata collection and revision; and d. within a reasonable time and subject to advance notice, to inspect private and official data and documents. 2 The public officers and authorized persons may if necessary call on local authorities for assistance in administrative matters and their implementation. 3 Anyone who unlawfully obstructs the collection and updating of official geodata shall bear the additional costs caused by his or her actions."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 6 Obligation to Support and Tolerate",
+      "section": "21",
+      "title": "Protection of boundary and survey marks",
+      "content": "1 Persons with an interest in the property concerned are obliged to tolerate the temporary or permanent placement of boundary and survey marks on land parcels and buildings, without compensation. 2 Boundary and survey marks may be noted in the Land Register. 3 Whoever unlawfully moves, removes or damages boundary and survey marks is liable for the cost of their replacement as well as any consequential losses or damage."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Chapter 3 National Survey",
+      "section": "22",
+      "title": "Task",
+      "content": "1 The National Survey shall make the geospatial reference data of the Confederation available for civil and military purposes. 2 This task includes in particular: a. the definition of the geodetic reference system and the establishment, updating and management of the reference framework; b. the monumentation and survey of national borders; c. the collection, updating and management of topographical information for national landscape models; d. the preparation of the National Map series. 3 The Federal Council shall regulate the responsibilities, organization, procedure and methods."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Chapter 3 National Survey",
+      "section": "23",
+      "title": "Spatial coverage",
+      "content": "1 The National Survey shall cover the whole area of the Swiss Confederation. 2 As far as is necessary, geospatial reference data of areas outside Switzerland that are close to its borders shall also be collected."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Chapter 3 National Survey",
+      "section": "24",
+      "title": "Definition of the national borders",
+      "content": "1 The Federal Council may independently conclude treaties under international law with foreign countries concerning national borders, provided these border matters are minor corrections or relate to other minor changes of territory. 2 It shall issue regulations on the procedure, and in particular on the participation of the cantons and communes concerned."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Chapter 3 National Survey",
+      "section": "25",
+      "title": "National Map series",
+      "content": "1 The National Map series is part of the geospatial reference data of the Confederation. 2 The Federal Council shall regulate the production, publishing and the civilian and military uses of the National Map series. 3 The copyright resulting from the production, processing and updating of the National Map series is owned by the Confederation."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Chapter 3 National Survey",
+      "section": "26",
+      "title": "National atlases, thematic maps of national interest",
+      "content": "The Federal Council may designate as a federal task the production of national atlases and similar thematic cartography."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Chapter 4 Swiss Geological Survey",
+      "section": "27",
+      "title": "Task",
+      "content": "1 The Swiss Geological Survey shall provide geological data and information for the use of the Federal Administration and interested third parties. 2 This task includes in particular: a. the Swiss Geological Survey work; b. the provision of geological data of national interest; c. advice and support to the Federal Administration in geological matters; d. the archival storage of geological data; e. the coordination of geological activities at federal level. 3 The Federal Council shall regulate the responsibilities, organisation, procedure and methods."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Chapter 4 Swiss Geological Survey",
+      "section": "28",
+      "title": "Spatial coverage",
+      "content": "1 The Swiss Geological Survey covers the whole territory of the Swiss Confederation. 2 As far as is necessary, geological data of areas outside Switzerland that are close to its borders shall also be collected."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Chapter 5 Cadastral Surveying",
+      "section": "29",
+      "title": "Task",
+      "content": "1 Cadastral Surveying shall guarantee that geospatial reference data of proprietary and descriptive nature about land parcels is available. 2 This task includes in particular: a. the densification of the geodetic reference framework; b. the marking and surveying of the cantonal, district and communal boundaries; c. the marking and surveying of land parcel boundaries; d. the collection, updating and management of topographic information related to land parcels; e. the preparation of the cadastral map for the Land Register. 3 The Federal Council regulates the main features of Cadastral Surveying and in particular: a. the marking and surveying of the boundaries of the land parcels; b. the minimum requirements to which the cantonal authorities are subject; c. the overall management and supervision carried out by the Confederation; d. the topical and technical limits with regard to other official geodata."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Chapter 5 Cadastral Surveying",
+      "section": "30",
+      "title": "Spatial coverage",
+      "content": "Cadastral Surveying shall cover the whole area of the Swiss Confederation."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Chapter 5 Cadastral Surveying",
+      "section": "31",
+      "title": "Planning and implementation",
+      "content": "1 The Federal Council shall define the medium- and long-term planning for Cadastral Surveying. 2 The implementation shall take place on the basis of programme agreements made over several years between the Federal Directorate of Cadastral Surveying and the responsible cantonal authorities. 3 The Federal Council may issue regulations concerning the content of and the procedure for concluding programme agreements."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Chapter 5 Cadastral Surveying",
+      "section": "32",
+      "title": "Approval",
+      "content": "1 Cadastral Surveying must be approved by the responsible cantonal authorities. 2 The Federal Council shall issue regulations concerning the main features of the processes and in particular concerning: a. the data and maps that are subject to approval; b. the requirements for approval; c. the co-operation of the federal authorities; d. the official public review process; e. the procedural rights of those who have an interest in the property."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "Chapter 5 Cadastral Surveying",
+      "section": "33",
+      "title": "Authenticated extracts",
+      "content": "1 Any person may request an authenticated extract of Cadastral Surveying from offices authorised by the canton. 2 A fee may be payable for the issue of an authenticated extract. 3 The Federal Council shall issue regulations on the main features of the procedure, in particular concerning: a. the content and structure of the authenticated extract; b. the issue of authenticated extracts in electronic form; c. the basic rules for the determination of the fees."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "Section 1 Responsibility and Cooperation",
+      "section": "34",
+      "title": "Division of tasks between Confederation and cantons",
+      "content": "1 The Confederation is responsible for: a. the National Survey; b. the Swiss Geological Survey; c. the strategic direction and overall supervision of Cadastral Surveying; d. the overall supervision of Cadastral Surveying; e. the strategic orientation of the Cadastre of public-law restrictions; f. the overall supervision of the Cadastre of public-law restrictions; g. the coordination and harmonisation of federal legislation relating to official geodata and of geodata services that are in the national interest. 2 The cantons are responsible for: a. carrying out Cadastral Surveying; b. the maintenance of the Cadastre of public-law restrictions. 3 If a canton fails to perform its tasks on time or if the work is of inadequate quality, the Federal Council may, after issuing a warning and holding a hearing, order that the work be done by a substitute organisation."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 1 Responsibility and Cooperation",
+      "section": "35",
+      "title": "Participation of the cantons and consultation of partner organisations",
+      "content": "When preparing federal legislation within the scope of this Act affecting the jurisdiction and interests of the cantons, communes and partner organisations, the Confederation shall ensure in an appropriate manner the participation of the cantons and the consultation of the partner organisations."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Section 1 Responsibility and Cooperation",
+      "section": "36",
+      "title": "International cooperation",
+      "content": "1 The Confederation shall in cooperation with other states promote the coordination, harmonisation and standardisation of work related to geoinformation. 2 It is responsible for the cooperation with other states in the field of official geodata under federal legislation. 3 The cantons may, where this lies within their competence, cooperate directly with the regional and local authorities in areas outside Switzerland close to its borders; in particular they may exchange geodata and coordinate the collection, updating and management of geodata."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Section 2 Financing",
+      "section": "37",
+      "title": "Tasks within the responsibility of the Confederation",
+      "content": "The financing of the work in Article 34, paragraph 1 shall be provided by the Confederation."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Section 2 Financing",
+      "section": "38",
+      "title": "Cadastral Surveying",
+      "content": "1 Cadastral Surveying shall be jointly financed by the Confederation and the cantons. The Federal Assembly shall regulate the details in an ordinance. The Confederation shall grant the cantons contributions to the following measures and projects based on programme agreements: a. initial and new surveys; b. renovations; c. demarcations; d. measures following natural events; e. periodical updates; f. special adjustments of exceptional national interest; g. innovative projects to develop Cadastral Surveying and to test new technologies. 1bis The contributions shall be calculated according to the importance of the measures and projects for the coverage, homogeneity and harmonisation of Cadastral Surveying data for Switzerland. 1ter When there is exceptional national interest in implementing a measure or conducting a project, the contribution may cover up to 80 per cent of the overall costs. When funding an innovative project to develop Cadastral Surveying or to test new technologies, the contribution may be higher. 1quater The Federal Council shall issue regulations on calculating the contributions. 2 The costs of updating Cadastral Surveying shall be borne by the natural person or legal entity that has caused the update, provided that this person or entity can be identified. 3 The cantons shall bear the costs that are not covered by contributions made by the Confederation or by fees. The cantons may determine who must contribute to these remaining costs. 4 The Confederation shall finance the work carried out by a substitute organisation (Article 34, paragraph 3). It shall reclaim the costs that remain after deduction of the agreed contributions from the defaulting canton. Amended by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ( AS 2021 654 ; BBl 2020 6985 ). Inserted by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ( AS 2021 654 ; BBl 2020 6985 ). Inserted by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ( AS 2021 654 ; BBl 2020 6985 ). Inserted by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ( AS 2021 654 ; BBl 2020 6985 ). Amended by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ( AS 2021 654 ; BBl 2020 6985 ). Amended by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ( AS 2021 654 ; BBl 2020 6985 )."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Cadastre of public-law restrictions on landownership",
+      "content": "1 The Cadastre of public-law restrictions on landownership shall be jointly financed by the Confederation and the cantons. The Confederation shall make global payments to the cantons on the basis of multi-annual programme agreements between the Federal Department of Defence, Civil Protection and Sport and the cantons. 2 The costs of the registration of a public-law restriction and the updating of the Cadastre of public-law restrictions shall be borne by the authority that decides the matter. 3 The Confederation shall finance the work by a substitute organisation (Article 34, paragraph 3). It shall reclaim the costs that remain after deduction of the agreed global payments from the defaulting canton."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Section 3 Education and Research",
+      "section": "40",
+      "title": "Advancement of education",
+      "content": "1 The Confederation and the cantons shall encourage education in the field of geoinformation. 2 They shall ensure that the education curriculum and final qualifications at all levels correspond to the latest state of science and technology."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Section 3 Education and Research",
+      "section": "41",
+      "title": "Licensed land surveyors",
+      "content": "1 Licensed land surveyors who have successfully completed the federal state examinations and who are registered in the Register of Licensed Land Surveyors are authorised to perform independent (self-employed) work within Cadastral Surveying. 2 An administrative body of the Confederation comprising representatives from the Confederation, the cantons and the professional associations shall: a. conduct the state examinations; b. maintain the register and issue or refuse the licence to practise; c. exercise disciplinary supervision over those persons entered in the register. 3 The Federal Council shall issue detailed regulations concerning: a. the education required to obtain the licence to practise; b. the professional and individual conditions necessary for registration; c. the management of the register and the issuing of licences to practise; d. the composition, appointment and organisation of the administrative body; e. the responsibilities of the administrative body and the management; f. deletion from the register and other disciplinary measures; g. the professional duties of the persons entered in the register; h. the financing of the state examinations, the maintenance of the register and other activities of the administrative body."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Section 3 Education and Research",
+      "section": "42",
+      "title": "Advancement of research",
+      "content": "The Confederation and the cantons shall encourage research in the field of geoinformation."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "43",
+      "title": "Evaluation",
+      "content": "1 The Federal Council shall review the necessity, usefulness, efficiency and cost effectiveness of the Cadastre of public-law restrictions on landownership within six years of its introduction. 2 It shall report to the Federal Assembly and propose any modifications that may be required."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "44",
+      "title": "Repeal and amendment of current legislation",
+      "content": "The repeal and amendment of existing legislation is regulated in the Annex."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "45",
+      "title": "Coordination with the NFE",
+      "content": "If the Federal Act of 6 October 2006 on the Creation and Amendment of Legislation on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE) at the same time or after this Act, Number II/I of (Art. 39 Final Title Civil Code) shall cease to apply. AS 2007 5779 . The NFE bill cames into force on 1 Jan. 2008. SR 210"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "46",
+      "title": "Transitional provisions",
+      "content": "1 For twelve years from the date on which this Act comes into force, the Federal Council may declare deviations from the fees defined in Article 15 paragraph 3. 2 It determines the time schedule for the introduction of the Cadastre of public-law restrictions on landownership. 3 Anyone who on the date on which this Act comes into force is permitted under federal law to carry out independent (self employed) work within Cadastral Surveying shall retain the right to do so. The Federal Council shall issue regulations for the transitional period until such time as the survey engineers are registered in the Register of Licensed Land Surveyors. 4 The cantons shall adapt their legislation on geoinformation within three years of the date on which this Act comes into force. During a transitional period determined by the Federal Council, the cantons must adapt the official geodata under federal legislation to the quality and technical requirements within the meaning of Articles 5 and 6 only if: a. this is a mandatory requirement of international law or federal law; b. the legal basis for data concerned is created on or after the coming into force of this Act; c. they are collecting the data from scratch; d. they are making data management subject to new technical or organisational principles (database, hardware, software) that eliminate the obstacles to making the adaptation."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Chapter 7 Final Provisions",
+      "section": "47",
+      "title": "Referendum and commencement",
+      "content": "1 This Act is subject to an optional referendum. 2 Articles 16-18, 34 paragraph 1 letters e and f and Article 39 shall be implemented by the Federal Council on the commencement of the Ordinance of 2 September 2009 on Public-law Restrictions on landownership. The Federal Council shall determine the commencement date for the remaining provisions. Commencement Date: 1 July 2008 Articles 16–18, 34 paragraph 1 letters e and f and 39: 1 October 2009 SR 510.622.4 FCD of 21 May 2008. Ordinance of 2 Sept. 2009 ( AS 2009 4721 )."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "geodata",
+      "definition": "geodata means geospatial data that is related in time to the dimensions and characteristics of certain spaces and objects and in particular their position, nature, use and legal relationships;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "geoinformation",
+      "definition": "geoinformation means geospatial information obtained through combinations of geodata;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "official geodata",
+      "definition": "official geodata means geodata that is based on a legislative enactment of the Confederation, a canton or a commune;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "official geodata of proprietary nature",
+      "definition": "official geodata of proprietary nature means official geodata that binds by law all persons with a legal interest in a particular land parcel;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "official geodata binding public authorities",
+      "definition": "official geodata binding public authorities means official geodata that is legally binding for federal, cantonal or communal authorities in the execution of their public duties;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "geospatial reference data",
+      "definition": "geospatial reference data means official geodata which serves as the geometric basis for other geodata;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "geospatial metadata",
+      "definition": "geospatial metadata means formal descriptions of the characteristics of geodata describing, for example, the origin, content, structure, validity, up-to-dateness, accuracy, rights of use, access or methods of processing;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "geodata models",
+      "definition": "geodata models means descriptions of reality determining the structure and content of geodata independent from the used hard- and software systems;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "presentation models",
+      "definition": "presentation models means descriptions of graphical presentations for the visualization of geodata e.g. in the form of maps and plans;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "geodata services",
+      "definition": "geodata services means network applications which facilitate and simplify the use of electronic services for geodata and allow access to structured geodata.",
+      "source_provision": "art3"
+    }
+  ]
+}

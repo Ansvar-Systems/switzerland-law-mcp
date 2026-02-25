@@ -1,0 +1,50 @@
+{
+  "id": "sr-221-302-34",
+  "type": "statute",
+  "title": "Verordnung vom 23. August 2017 der Eidgenössischen Revisionsaufsichtsbehörde über die Bekanntmachung der fehlenden staatlichen Beaufsichtigung von Revisionsunternehmen ausländischer Anleihensemittenten (Bekanntmachungsverordnung RAB, BekV-RAB)",
+  "title_en": "Ordinance of 23 August 2017 of the Federal Audit Oversight Authority on Disclosing the Lack of Oversight of Audit Firms Engaged by Foreign Bond Issuers (Disclosure Ordinance FAOA, DO-FAOA)",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/529/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "General principle",
+      "content": "Based on Article 8 paragraph 3 letter b AOA, the auditor of a company incorporated under foreign law which has or intends to list bonds on a Swiss stock exchange (Article 8 paragraph 1 letter b AOA) and has engaged an auditor not subject to the oversight of a foreign audit oversight authority recognised by the Federal Council is exempt from the obligation to be licensed if the absence of state oversight is disclosed in accordance with this Ordinance."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Disclosure of the lack of state oversight prior to bond listing",
+      "content": "If the issuer of a bond under Article 1 is required to produce or voluntarily produces a prospectus, he must indicate explicitly, clearly and prominently in the prospectus, and in any summarised version thereof, that the issuer’s auditor is not subject to the oversight of a foreign audit oversight authority recognised by the Federal Council."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Disclosing the lack of state oversight in the course of bond listing",
+      "content": "In the course of listing bonds under Article 1, the Swiss stock exchange shall disclose on its website, explicitly, prominently and for each bond, that the issuer’s auditor is not subject to the oversight of a foreign audit oversight authority recognised by the Federal Council."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Amendment of another enactment",
+      "content": "... (Stand am 1. Oktober 2017) The amendment may be consulted under AS 2017 4867 ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Transitional provisions",
+      "content": "1 Article 3 also applies to bonds that were already listed on a Swiss stock exchange on the date on which this Ordinance comes into force. 2 The Swiss stock exchange shall ensure that the relevant information in respect of each listed bond is disclosed on its website no later than nine months after this Ordinance comes into force. 3 If the issuer fails to submit the relevant information to the stock exchange within the stipulated period, it shall be assumed that the auditor is not subject to the oversight of an audit oversight authority recognised by the Federal Council."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Effective date",
+      "content": "This Ordinance comes into force on 1 October 2017."
+    }
+  ],
+  "definitions": []
+}

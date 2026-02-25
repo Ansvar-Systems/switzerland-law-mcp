@@ -1,0 +1,32 @@
+{
+  "id": "sr-916-443-105-3",
+  "type": "statute",
+  "title": "Verordnung des BLV vom 15. Januar 2015 über Massnahmen zur Verhinderung der Einschleppung des Kleinen Beutenkäfers aus Italien",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/40/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Ziel",
+      "content": "Diese Verordnung soll die Einschleppung des Kleinen Beutenkäfers ( Aethina tumida ) in die Schweiz verhindern."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Verbotene Einfuhren",
+      "content": "Die Einfuhr der folgenden Tiere und Produkte aus den im Anhang aufgeführten Schutzzonen Italiens ist verboten: a. Bienen ( Apis mellifera ); b. Hummeln ( Bombus spp.); c. gebrauchtes Imkerei-Material; d. unverarbeitete Imkerei-Nebenprodukte; e. für den menschlichen Verzehr bestimmter Wabenhonig."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 16. Januar 2015 in Kraft."
+    }
+  ],
+  "definitions": []
+}

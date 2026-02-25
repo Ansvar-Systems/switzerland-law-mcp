@@ -1,0 +1,112 @@
+{
+  "id": "sr-520-311",
+  "type": "statute",
+  "title": "Verordnung des VBS vom 5. April 2016 über Sicherstellungsdokumentationen und fotografische Sicherheitskopien (VSFS)",
+  "title_en": "",
+  "short_name": "VSFS",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/215/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Gegenstand",
+      "section": "1",
+      "title": "",
+      "content": "Diese Verordnung regelt: a. die Anforderungen an Sicherstellungsdokumentationen von Kulturgütern; b. die Herstellung, Handhabung, Verarbeitung und Aufbewahrung von fotografischen Sicherheitskopien von Kulturgütern."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "2. Abschnitt: Anforderungen an Sicherstellungsdokumentationen und fotografische Sicherheitskopien fotografische Sicherheitskopien",
+      "section": "2",
+      "title": "Grundlagenmaterial",
+      "content": "1 Das Grundlagenmaterial für Sicherstellungsdokumentationen bilden insbesondere: a. wissenschaftliche Text- und Bildkarteien, Verzeichnisse, Inventare, Beschreibungen, Quellenliteratur und Grafiken sowie kombinierte Bild-, Vektor- und Textdokumente; b. Restaurierungsberichte und -dokumentationen; c. Architektur- und Konstruktionspläne, fotogrammetrische und ausgewertete digitale 2D-Plandaten, 3D-Raumdaten in Form von Planzeichnungen von Einzelbauten, Baugruppen, Ortsbildern, Fassadenabwicklungen, architektonischen und künstlerischen Details, Fresken und Mauerstrukturen sowie archäologische Grabungspläne und Bauuntersuchungen; d. Abgüsse von besonders wertvollen plastischen Kunstwerken; e. Fotografien, Negative, Diapositive und Glasplatten; f. bewegte Bilder und Tonträger. 2 Die Sicherstellungsdokumentationen bilden das Grundlagenmaterial für fotografische Sicherheitskopien. 3 Die Dokumentationen und Kopien können in digitaler oder analoger Form vorliegen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Anforderungen an Sicherstellungsdokumentationen und fotografische Sicherheitskopien fotografische Sicherheitskopien",
+      "section": "3",
+      "title": "Technische Anforderungen an digitale Daten",
+      "content": "1 Für digitale Daten gilt Folgendes: a. Die Datei mit den Daten über ein Kulturgut muss sowohl die technischen als auch die beschreibenden Metadaten enthalten. Sie ist eindeutig und zweckmässig zu bezeichnen. b. Es sind verbreitete, offengelegte Dateiformate wie PDF/A, TIFF, JPEG nach der ISO/IEC-Norm 10918-1, 1994, oder JPEG2000 nach der ISO/IEC-Norm 15444-1, 2004, zu verwenden. c. Komprimierte Bilddaten dürfen keine visuell störenden Artefakte enthalten, welche die Reproduktion negativ beeinflussen könnten. d. Bei Bilddaten mit hoher Farbrelevanz ist ein standardisierter Farbraum zu verwenden. Die Aufnahme muss eine Farbreferenz enthalten. Für die Aufnahmequalität gilt Artikel 4. e. Textdokumente sind vollständig mit Schriftsatz und Bild zu erfassen. Verweise sind nicht erlaubt. 2 Werden die Daten als Punkt- oder Strichcode oder in einer anderen binären Form auf den Film geschrieben, so ist das Verfahren der Codierung anzugeben. 3 Für jedes Dossier ist eine Prüfsumme zu berechnen. Das Prüfsummenverfahren ist zu nennen oder zu beschreiben. Die Prüfsumme ist, zusätzlich zu den unter Artikel 6 Absatz 6 Buchstabe a genannten Informationen, als Klartext zu verfilmen. Nach der Verfilmung müssen die Daten auf ihre Validität geprüft werden. Die aufgeführten Normen können gegen Bezahlung unter folgender Adresse bezogen werden: www.iso.org > store. ISO/IEC-Norm 10918-1, 1994: Informationstechnik, Digitale Kompression und Codierung von Bildern mit kontinuierlichem Verlauf; Forderungen und Richtlinien. ISO/IEC-Norm 15444-1, 2004: Informationstechnik – JPEG – 2000 – Bildcodierungssystem: Kern-Codierungssystem."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "3. Abschnitt: Herstellung und Verarbeitung von fotografischen Sicherheitskopien",
+      "section": "4",
+      "title": "Scannen",
+      "content": "1 Textdokumente müssen mit einer Auflösung von mindestens 300 dpi gescannt werden, Zeichnungen mit feinen Linien und Fotografien mit mindestens 400 dpi. 2 Mehrfarbige Vorlagen sind pro jeweilige Serie mindestens einmal mit einem Farbkeil oder einer Farbtafel zu scannen. Der Farbkeil oder die Farbtafel sind am Anfang und am Ende auf dem Mikrofilm aufzubelichten."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Herstellung und Verarbeitung von fotografischen Sicherheitskopien",
+      "section": "5",
+      "title": "Herstellung von fotografischen Sicherheitskopien",
+      "content": "1 Zur Herstellung von fotografischen Sicherheitskopien muss, je nach Vorlage, Arbeitsablauf und Datenformat, ein Film in Schwarzweiss (SW) oder ein langzeitstabiler Farbfilm benutzt werden. 2 Wird die Vorlage direkt auf Film aufgenommen, so muss für das Bundesamt für Bevölkerungsschutz (BABS) eine Positivkopie des Originalfilms hergestellt werden. 3 Die fotografischen Sicherheitskopien müssen am Anfang eine Zusammenfassung des Inhalts enthalten."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Herstellung und Verarbeitung von fotografischen Sicherheitskopien",
+      "section": "6",
+      "title": "Technische Anforderungen an die Herstellung von fotografischen Sicherheitskopien",
+      "content": "1 Fotografische Sicherheitskopien für das BABS müssen auf Polyesterbasis hergestellt werden. Sie können als SW-Silbersalzfilme oder als Farbmikrofilme hergestellt werden. 2 Es müssen 35-mm-Filme verwendet werden. 3 Die Filmlänge darf 30,5 m nicht überschreiten; der Vor- und Nachspann müssen je mindestens 1,5 m lang sein. 4 Bei der Belichtung ist die ISO/IEC-Norm 9878, 1990, einzuhalten. 5 Bei der analogen Filmherstellung sind zusätzlich zu Absatz 4 die folgenden ISO/IEC-Normen einzuhalten: a. bei SW-Negativfilmen zur Gewährleistung der erforderlichen Dichte die ISO/IEC-Norm 6200, 1999, sowie für: 1. technische Zeichnungen und Schriftdokumente: die ISO/IEC-Normen 3272-1, 2003, und 3272-2, 1994, 2. Zeitungen: die ISO/IEC-Norm 4087, 2005; b. bei SW-Positivkopien zur Gewährleistung der erforderlichen Dichte: die ISO/IEC-Norm 8126, 2000; c. bei Farbaufnahmen: die ISO/IEC-Norm 11142, 2005. 6 Bei der digitalen Filmherstellung sind zusätzlich zu Absatz 4 die folgenden Vorgaben einzuhalten: a. Jeder Rollfilm hat am Anfang eine Zusammenfassung des Inhalts, inklusive Identifikationsnummern, zu enthalten. Jedem Einzelbild (Frame) ist eine Identifikationsnummer zuzuordnen. Die Filmaufnahmen müssen am Anfang und am Ende eine digitale Testtafel nach der ISO/IEC-Norm 11928-2, 2000, enthalten. b. Bei einer Aufbelichtung hat die Auflösung der Abbildung auf dem Film der reell gescannten Auflösung zu entsprechen. c. Bei der digitalen SW-Aufbelichtung richtet sich die Aufnahmequalität nach den ISO/IEC-Normen 11928-1, 2000, und 11928-2, 2000, die Dichte nach der ISO/IEC-Norm 8126, 2000. d. Bei der digitalen Farbaufbelichtung müssen die minimalen und maximalen Dichtewerte von 0,1 über Schleier (90 % D max. ) genau eingehalten werden. Die aufgeführten Normen können gegen Bezahlung unter folgender Adresse bezogen werden: www.iso.org > store. ISO/IEC-Norm 9878, 1990: Mikrographie; Bildzeichen für die Mikroverfilmung. ISO/IEC-Norm 6200, 1999: Mikrographie – Erste Generation von Mikroformen vom Silber-Gelatine-Typ für Dokumentation – Festlegungen für die optische Dichte und Messverfahren. ISO/IEC-Norm 3272-1, 2003: Mikroverfilmung von technischen Zeichnungen und anderen Dokumenten aus Zeichenbüros – Teil 1: Arbeitsverfahren. ISO/IEC-Norm 3272-2, 1994: Mikrographie; Mikroverfilmung von technischen Zeichnungen und anderen Zeichenbüro-Unterlagen; Teil 2: Qualitätskriterien und Prüfung von Mikrofilm 35 mm vom Silber-Gelatine-Typ. ISO/IEC-Norm 4087, 2005: Mikrographie – Verfilmung von Zeitungen für Archivzwecke auf 35 mm Mikrofilm. ISO/IEC-Norm 8126, 2000: Mikrographie – Silber-, Diazo- und Vesikular-Duplizierfilme – Visuelle optische Dichte – Festlegungen und Messung. ISO/IEC-Norm 11142, 2005: Mikrographie – Farbmikrofilm – Aufnahmetechnik – Herstellen von Original-Strichvorlagen und Halbton-Vorlagen. ISO/IEC-Norm 11928-2, 2000: Mikrographie – Qualitätsanforderungen für graphische COM-Aufzeichnungsgeräte – Teil 2: Qualitätskriterien und Prüfung. ISO/IEC-Norm 11928-1, 2000: Mikrographie – Qualitätsanforderungen für graphische COM-Aufzeichnungsgeräte – Teil 1: Eigenschaften der Testvorlagen. ISO/IEC-Norm 11928-2, 2000: Mikrographie – Qualitätsanforderungen für graphische COM-Aufzeichnungsgeräte – Teil 2: Qualitätskriterien und Prüfung. ISO/IEC-Norm 8126, 2000: Mikrographie – Silber-, Diazo- und Vesikular-Duplizierfilme – Visuelle optische Dichte – Festlegungen und Messung."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Anforderungen an die Filmverarbeitung",
+      "content": "1 Bei der Filmverarbeitung muss die ISO/IEC-Norm 18901, 2010, eingehalten werden. 2 Die Herstellerinnen müssen nachweisen, dass sie bei der Verarbeitung die ISO/IEC-Norm 18901, 2010, eingehalten haben. Sie führen dazu Stichproben durch. 3 Pro Film sind höchstens sechs Schweissstellen zulässig. Das Zusammenkleben ist nicht zulässig. Die aufgeführten Normen können gegen Bezahlung unter folgender Adresse bezogen werden: www.iso.org > store. ISO/IEC-Norm 18901, 2010: Bild-Aufzeichnungsmaterialien – Verarbeitete Schwarzweissfilme vom Silber-Gelatine-Typ – Festlegungen für die Haltbarkeit. ISO/IEC-Norm 18901, 2010: Bild-Aufzeichnungsmaterialien – Verarbeitete Schwarzweiss-Filme vom Silber-Gelatine-Typ – Festlegungen für die Haltbarkeit."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Qualitätskontrolle",
+      "content": "Die Herstellerinnen müssen den Film nach der Verarbeitung auf Inhalt, Schärfe und Dichte prüfen."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Kontrollkarten",
+      "content": "1 Für jede fotografische Sicherheitskopie muss die vom BABS zur Verfügung gestellte Kontrollkarte ausgefüllt werden. 2 Nach der Einlagerung der fotografischen Sicherheitskopie schickt das BABS einen Durchschlag der Kontrollkarte mit dem Vermerk des Standorts im Mikrofilmarchiv an die im betreffenden Kanton für den Kulturgüterschutz zuständige Stelle. Der zweite Durchschlag wird im Mikrofilmarchiv des Bundes aufbewahrt, die Kontrollkarte im BABS."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Aufbewahrung",
+      "content": "1 Sicherstellungsdokumentationen und fotografische Sicherheitskopien müssen von den Kulturgütern getrennt an einem sicheren Ort aufbewahrt werden. 2 Sicherstellungsdokumentationen müssen in stabil klimatisierten Schutzräumen aufbewahrt werden. 3 Fotografische Sicherheitskopien müssen in stabil klimatisierten Räumen bei einer Temperatur von 15 Grad Celsius und einer relativen Luftfeuchtigkeit von 40 Prozent aufbewahrt werden. Betonwände müssen staubfrei sein. 4 Die fotografischen Sicherheitskopien müssen in korrosionsfesten Metallbehältern oder säurefreien Archivschachteln auf Metallgestellen aufbewahrt werden. Die Gestelle müssen korrosionsfest oder einbrennlackiert sein. Die Filmkerne müssen aus Kunststoff sein."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Vorschriften für den Transport",
+      "content": "1 Für den Transport zum BABS sind die Filme in Kunststoffbehälter oder säurefreie Kartonboxen zu verpacken. 2 Sie müssen ohne Kern und Spule oder auf Kunststoffkernen und -spulen transportiert und mit säurefreien Schutzstreifen fixiert werden. 3 Im Übrigen gelten die Verpackungsbestimmungen nach der ISO/IEC-Norm 18902, 2013. Die aufgeführten Normen können gegen Bezahlung unter folgender Adresse bezogen werden: www.iso.org > store. ISO/IEC-Norm 18902, 2013: Bild-Aufzeichnungsmaterialien – Materialien für verarbeitete Fotografien – Alben, Rahmen und andere Aufbewahrungsmittel."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Kontrolle",
+      "content": "1 3–5 Prozent des gesamten Archivbestands der fotografischen Sicherheitskopien sind jährlich stichprobenartig zu kontrollieren. Die Kopien sind falls nötig neu zu erstellen. 2 Die fotografischen Sicherheitskopien müssen auf braune Flecken und Ausbleichung untersucht werden. Zudem ist die Dichte der aufbelichteten Testtafeln zu messen. 3 Ältere fotografische Sicherheitskopien müssen zuerst kontrolliert werden. 4 Die Kontrollen müssen protokolliert werden."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Kostenübernahme für fotografische Sicherheitskopien",
+      "content": "1 Das BABS darf für den Bund bestimmte fotografische Sicherheitskopien nach Artikel 5 Absatz 3 KGSV höchstens zum Gestehungspreis erwerben. 2 Es übernimmt für Farbmikrofilmkopien und Farbseparationsverfahren auf SW‑Film die Kosten, wenn die Mehrfarbigkeit wesentlicher Bestandteil des Informationsgehalts ist und die Erstellung vorgängig mit dem BABS abgesprochen wurde."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "14",
+      "title": "Aufhebung anderer Erlasse",
+      "content": "1 Die Weisungen des VBS vom 8. August 2011 über die Bundesbeiträge an Sicherstellungsdokumentationen und Sicherheitskopien im Bereich des Kulturgüterschutzes werden aufgehoben. 2 Die Weisungen des BABS vom 7. August 2009 über die Herstellung, Handhabung, Verarbeitung und Lagerung von Mikrofilmen im Bereich des Kulturgüterschutzes werden aufgehoben."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "15",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Mai 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

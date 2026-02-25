@@ -1,0 +1,32 @@
+{
+  "id": "sr-944-021-1",
+  "type": "statute",
+  "title": "Verordnung des WBF vom 7. Juni 2010 über die Deklaration von Holz und Holzprodukten",
+  "title_en": "FDEA Ordinance of 7 June 2010 on the Declaration for Timber and Timber Products",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2010/380/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Timber and timber products subject to declaration",
+      "content": "The duty to declare applies to timber and timber products specified in the Annex."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Reference system for the declaration of timber species",
+      "content": "The reference system for the declaration of the timber species comprises: a. the commercial timber list of the Swiss Timber Trade Centre; and b. Standard SN EN 13556:2003. The list may be inspected under: www.konsum.admin.ch The standards may be inspected free of charge and obtained for a fee from the Swiss Association for Standardization (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 October 2010."
+    }
+  ],
+  "definitions": []
+}

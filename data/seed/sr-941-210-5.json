@@ -1,0 +1,224 @@
+{
+  "id": "sr-941-210-5",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 7. Dezember 2012 über Messmittel für ionisierende Strahlung (StMmV)",
+  "title_en": "",
+  "short_name": "StMmV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/878/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Anforderungen an Messmittel für ionisierende Strahlung; b. die Verfahren für das Inverkehrbringen dieser Messmittel; c. die Verfahren zur Erhaltung der Messbeständigkeit dieser Messmittel."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "Dieser Verordnung unterstehen folgende Messmittel für ionisierende Strahlung: a. ortsunabhängige Referenz-Dosimetersysteme für die Strahlentherapie; b. Oberflächenkontaminationsmonitore, die folgendermassen verwendet werden: 1. stationäre und mobile Systeme zur Personen-, Arbeitsplatz- und Materialüberwachung in Kernanlagen, 2. stationäre und mobile Systeme in den Arbeitsbereichen der Typen A und B nach Artikel 69 StSV; c. Aktivimeter, die auf dem Schachtionisationskammerprinzip beruhen und in den nuklearmedizinischen Laboratorien zur Messung der Aktivität offener radioaktiver, zur medizinischen Anwendung bestimmter Quellen dienen; d. Strahlenschutzmessmittel für externe Strahlung, die folgendermassen verwendet werden: 1. stationäre und mobile Systeme zur Überwachung der Ortsdosisleistungen in der Umwelt nach Artikel 104 StSV, 2. mobile Systeme zur Überwachung der Ortsdosisleistungen an Arbeitsplätzen und Materialien in Kernanlagen, 3. mobile Systeme zur Überwachung der Ortsdosisleistungen innerhalb kontrollierter Zonen von Industrie-, Medizin- und Forschungsanlagen, in denen Ortsdosisleistungen von mehr als 100 μSv/h auftreten können; e. Schachtionisationskammersysteme, die zur Messung der Quellstärke von Ir‑192-Quellen für die HDR-Brachytherapie eingesetzt werden; f. folgende Messmittel, die bei Abnahmen und regelmässigen Zustandsprüfungen von röntgendiagnostischen Einrichtungen verwendet werden: 1. Diagnostikdosimeter, 2. kV-Meter, 3. mAs-Meter, 4. Expositionszeitmesser, 5. Sensitometer, 6. Densitometer, 7. Luxmeter; g. Radonmessgeräte für amtliche Messungen der vom Bundesamt für Gesundheit (BAG) anerkannten Messstellen; h. Radondosimeter für amtliche Messungen der vom BAG anerkannten Messstellen."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "Die in dieser Verordnung verwendeten Begriffe sind in Anhang 1 definiert."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Ortsunabhängige Referenz-Dosimetersysteme für die Strahlentherapie",
+      "section": "4",
+      "title": "Grundlegende Anforderungen",
+      "content": "Ortsunabhängige Referenz-Dosimetersysteme für die Strahlentherapie müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 2 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Ortsunabhängige Referenz-Dosimetersysteme für die Strahlentherapie",
+      "section": "5",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Ortsunabhängige Referenz-Dosimetersysteme für die Strahlentherapie bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 2 der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Ortsunabhängige Referenz-Dosimetersysteme für die Strahlentherapie",
+      "section": "6",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "Ortsunabhängige Referenz-Dosimetersysteme für die Strahlentherapie müssen alle vier Jahre nach Anhang 7 Ziffer 1 MessMV und nach Anhang 2 der vorliegenden Verordnung durch das Eidgenössische Institut für Metrologie (METAS) oder eine ermächtigte Eichstelle nachgeeicht werden."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Oberflächenkontaminationsmonitore",
+      "section": "7",
+      "title": "Grundlegende Anforderungen",
+      "content": "Oberflächenkontaminationsmonitore müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 3 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Oberflächenkontaminationsmonitore",
+      "section": "8",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Oberflächenkontaminationsmonitore bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 3 der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Oberflächenkontaminationsmonitore",
+      "section": "9",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "1 Oberflächenkontaminationsmonitore müssen alle drei Jahre nach Anhang 7 Ziffer 1 MessMV und nach Anhang 3 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle nachgeeicht werden. 2 Die Geräte sind periodisch durch die Verwenderin hinsichtlich ihrer Funktionsfähigkeit und Konstanz nach Anhang 7 Ziffer 5 MessMV zu überprüfen. 3 Der Umfang der Kontrollen und die Kontrollintervalle richten sich nach den Richtlinien der Aufsichtsbehörden. 4 Wenn bei der Konstanzprüfung die Messabweichung des Gerätes grösser als die erlaubte Toleranzgrenze ist, muss das Messmittel nachgeeicht werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Aktivimeter",
+      "section": "10",
+      "title": "Grundlegende Anforderungen",
+      "content": "Aktivimeter müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 4 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Aktivimeter",
+      "section": "11",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Aktivimeter bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 4 der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Aktivimeter",
+      "section": "12",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "1 Die Erhaltung der Messbeständigkeit von Aktivimetern muss jährlich durch eine Vergleichsmessung nach Anhang 7 Ziffer 4 MessMV und nach Anhang 4 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle geprüft werden. 2 Die Aktivimeter müssen alle drei Jahre nach Anhang 7 Ziffer 1 MessMV und nach Anhang 4 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle nachgeeicht werden."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Strahlenschutzmessmittel für externe Strahlung",
+      "section": "13",
+      "title": "Grundlegende Anforderungen",
+      "content": "Strahlenschutzmessmittel für externe Strahlung müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 5 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Strahlenschutzmessmittel für externe Strahlung",
+      "section": "14",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Strahlenschutzmessmittel für externe Strahlung bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 5 der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Strahlenschutzmessmittel für externe Strahlung",
+      "section": "15",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "1 Strahlenschutzmessmittel für externe Strahlung müssen alle drei Jahre nach Anhang 7 Ziffer 1 MessMV und nach Anhang 5 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle nachgeeicht werden. 2 Die Geräte sind periodisch durch die Verwenderin hinsichtlich ihrer Funktionsfähigkeit und Konstanz nach Anhang 7 Ziffer 5 MessMV zu überprüfen. 3 Der Umfang der Kontrollen und die Kontrollintervalle richten sich nach den Richtlinien der Aufsichtsbehörden. 4 Wenn bei der Konstanzprüfung die Messabweichung des Gerätes grösser als die erlaubte Toleranzgrenze ist, muss das Messmittel nachgeeicht werden."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Schachtionisationskammersysteme für die Ir-192-HDR-Brachytherapie",
+      "section": "16",
+      "title": "Grundlegende Anforderungen",
+      "content": "Schachtionisationskammersysteme für die Ir-192-HDR-Brachytherapie müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 6 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Schachtionisationskammersysteme für die Ir-192-HDR-Brachytherapie",
+      "section": "17",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Schachtionisationskammersysteme für die Ir-192-HDR-Brachytherapie bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 6 der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "6. Abschnitt: Schachtionisationskammersysteme für die Ir-192-HDR-Brachytherapie",
+      "section": "18",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "Schachtionisationskammersysteme für die Ir-192-HDR-Brachytherapie müssen alle vier Jahre nach Anhang 7 Ziffer 1 MessMV und nach Anhang 6 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle nachgeeicht werden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "7. Abschnitt: Diagnostikdosimeter und andere Messmittel zur Überprüfung von röntgendiagnostischen Einrichtungen von röntgendiagnostischen Einrichtungen",
+      "section": "19",
+      "title": "Grundlegende Anforderungen",
+      "content": "Diagnostikdosimeter und andere Messmittel zur Überprüfung von röntgendiagnostischen Einrichtungen müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 7 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "7. Abschnitt: Diagnostikdosimeter und andere Messmittel zur Überprüfung von röntgendiagnostischen Einrichtungen von röntgendiagnostischen Einrichtungen",
+      "section": "20",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Diagnostikdosimeter und andere Messmittel zur Überprüfung von röntgendiagnostischen Einrichtungen bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 7 der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "7. Abschnitt: Diagnostikdosimeter und andere Messmittel zur Überprüfung von röntgendiagnostischen Einrichtungen von röntgendiagnostischen Einrichtungen",
+      "section": "21",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "Diagnostikdosimeter und andere Messmittel zur Überprüfung von röntgendiagnostischen Einrichtungen müssen alle drei Jahre nach Anhang 7 Ziffer 1 MessMV und nach Anhang 7 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle nachgeeicht werden."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "8. Abschnitt: Radonmessgeräte",
+      "section": "22",
+      "title": "Grundlegende Anforderungen",
+      "content": "Radonmessgeräte müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 8 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "8. Abschnitt: Radonmessgeräte",
+      "section": "23",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Radonmessgeräte bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 MessMV und nach Anhang 8 der vorliegenden Verordnung."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "8. Abschnitt: Radonmessgeräte",
+      "section": "24",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "Radonmessgeräte müssen alle vier Jahre nach Anhang 7 Ziffer 1 MessMV und nach Anhang 8 der vorliegenden Verordnung durch das METAS oder eine ermächtigte Eichstelle nachgeeicht werden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "9. Abschnitt: Radondosimeter",
+      "section": "25",
+      "title": "Grundlegende Anforderungen",
+      "content": "Radondosimeter müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 9 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "9. Abschnitt: Radondosimeter",
+      "section": "26",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Radondosimeter bedürfen einer ordentlichen Zulassung nach Anhang 5 MessMV."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "9. Abschnitt: Radondosimeter",
+      "section": "27",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "Radondosimeter müssen alle zwei Jahre einer Vergleichsmessung nach Anhang 7 Ziffer 4 MessMV durch das METAS oder ein beauftragtes Prüflaboratorium unterzogen werden."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "28",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Verordnung des EJPD vom 29. November 2008 über Radonmessmittel wird aufgehoben. [ AS 2009 179 ]"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "29",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Messmittel für ionisierende Strahlung, die vor Inkrafttreten dieser Verordnung in Verkehr gebracht wurden und die die Eichstellen dem METAS innert sechs Monaten nach Inkrafttreten dieser Verordnung melden, gelten als zugelassen. 2 Messmittel für ionisierende Strahlung nach Artikel 2 Buchstaben a–g, die vor Inkrafttreten dieser Verordnung nachgeeicht wurden, dürfen bis zum Ablauf der Gültigkeit der letzten Nacheichung verwendet werden. Danach müssen sie nach dieser Verordnung nachgeeicht werden. 3 Radondosimeter, die vor Inkrafttreten dieser Verordnung einer Vergleichsmessung unterzogen wurden, dürfen bis zur nächsten Vergleichsmessung verwendet werden."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "30",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2013 in Kraft."
+    }
+  ],
+  "definitions": []
+}

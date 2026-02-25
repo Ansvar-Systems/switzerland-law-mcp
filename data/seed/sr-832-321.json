@@ -1,0 +1,180 @@
+{
+  "id": "sr-832-321",
+  "type": "statute",
+  "title": "Verordnung vom 25. August 1999 über den Schutz der Arbeitnehmerinnen und Arbeitnehmer vor Gefährdung durch Mikroorganismen (SAMV)",
+  "title_en": "",
+  "short_name": "SAMV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1999/445/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung legt fest, welche Massnahmen zum Schutz der Arbeitnehmerinnen und Arbeitnehmer beim Umgang mit Mikroorganismen und bei der Exposition gegenüber Mikroorganismen zu treffen sind. 2 Wo diese Verordnung nichts Besonderes bestimmt, gelten die Verordnung vom 19. Dezember 1983 über die Unfallverhütung (VUV) sowie die Verordnungen 3 und 4 vom 18. August 1993 zum Arbeitsgesetz. SR 832.30 SR 822.113 , 822.114"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffe",
+      "content": "Im Sinne dieser Verordnung gelten als: a. Mikroorganismen : zelluläre oder nichtzelluläre mikrobiologische Einheiten, die fähig sind, sich zu vermehren oder genetisches Material zu übertragen, insbesondere Bakterien, Algen, Pilze, Protozoen, Viren und Viroide; ihnen gleichgestellt sind Gemische, Gegenstände und Erzeugnisse, die solche Einheiten enthalten sowie Zellkulturen, Humanparasiten, Prionen und biologisch aktives genetisches Material; b. gentechnisch veränderte Mikroorganismen : Mikroorganismen, deren genetisches Material durch gentechnische Verfahren nach Anhang 1 so verändert worden ist, wie dies unter natürlichen Bedingungen durch Kreuzen oder natürliche Rekombination nicht vorkommt; c. geschlossenes System : Einrichtung, die durch physikalische Schranken oder durch eine Kombination physikalischer mit chemischen oder biologischen Schranken den Kontakt der Mikroorganismen mit den Arbeitnehmerinnen und Arbeitnehmern begrenzt oder verhindert; d. Umgang : jede beabsichtigte Tätigkeit mit Mikroorganismen, insbesondere das Verwenden, Verarbeiten, Vermehren, Verändern, Nachweisen, Transportieren, Lagern oder Entsorgen; e. Exposition : jede Situation, in welcher ein Kontakt mit Mikroorganismen möglich ist, der die Sicherheit und Gesundheit der Arbeitnehmerinnen und Arbeitnehmer gefährden kann. Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Gruppen von Mikroorganismen",
+      "content": "1 Die Mikroorganismen werden in vier Gruppen eingeteilt. Massgeblich für die Einteilung ist das Risiko, das sie nach dem Stand der Wissenschaft aufweisen, d. h. die schädigenden Eigenschaften, insbesondere die Pathogenität für Menschen, und die Wahrscheinlichkeit, dass diese Eigenschaften zur Wirkung kommen. 2 Die Gruppen werden wie folgt umschrieben: a. Gruppe 1: Mikroorganismen, die kein oder ein vernachlässigbar kleines Risiko aufweisen; b. Gruppe 2: Mikroorganismen, die ein geringes Risiko aufweisen; c. Gruppe 3: Mikroorganismen, die ein mässiges Risiko aufweisen; d. Gruppe 4: Mikroorganismen, die ein hohes Risiko aufweisen."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Liste der eingeteilten Mikroorganismen",
+      "content": "1 Das Bundesamt für Umwelt (BAFU) führt im Einvernehmen mit den Bundesämtern für Gesundheit, für Lebensmittelsicherheit und Veterinärwesen und für Landwirtschaft, mit dem Staatssekretariat für Wirtschaft sowie mit der Schweizerischen Unfallversicherungsanstalt (SUVA), und nach Anhörung der Eidgenössischen Fachkommission für biologische Sicherheit eine öffentlich zugängliche Liste, in der Mikroorganismen nach den Kriterien von Anhang 2.1 in eine der vier Gruppen eingeteilt sind. 2 Das BAFU berücksichtigt dabei die bestehenden Listen, insbesondere diejenigen der Europäischen Union und von deren Mitgliedstaaten. Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 ). Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2014 angepasst."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Abschnitt: Gefahrenermittlung und Risikobewertung",
+      "section": "5",
+      "title": "Allgemeines Vorgehen",
+      "content": "1 Der Arbeitgeber muss zum Schutz der Arbeitnehmerinnen und Arbeitnehmer vor jedem Umgang mit Mikroorganismen und vor jeder Exposition gegenüber Mikroorganismen die Gefahr ermitteln und das damit verbundene Risiko bewerten. 2 Die Gefahrenermittlung und die Risikobewertung sind regelmässig zu wiederholen, insbesondere bei jeder Änderung der Bedingungen oder beim Vorliegen wesentlicher neuer Erkenntnisse. 3 Der Arbeitgeber muss der zuständigen Behörde auf Verlangen die Kriterien mitteilen, die er zur Gefahrenermittlung und zur Risikobewertung anwendet. Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "1. Abschnitt: Gefahrenermittlung und Risikobewertung",
+      "section": "6",
+      "title": "Vorgehen beim Umgang mit Mikroorganismen",
+      "content": "1 Der Arbeitgeber muss feststellen, zu welcher Gruppe die verwendeten Mikroorganismen gehören. Massgebend ist die Liste nach Artikel 4. 2 Bestehen bei einem Mikroorganismus Anzeichen eines erhöhten oder eines verringerten Risikos oder ist dieser Mikroorganismus nicht auf der Liste nach Artikel 4 aufgeführt, so muss der Arbeitgeber die Zuordnung zu einer der vier Gruppen nach den Kriterien von Anhang 2.1 selbst vornehmen. Diese Zuordnung ist zu dokumentieren. Die zuständige Behörde kann die Zuordnung überprüfen und ändern. 3 Bei der Zuordnung gentechnisch veränderter Mikroorganismen ist zu berücksichtigen, wie deren Eigenschaften mit den Eigenschaften des Empfängerorganismus, des Spenderorganismus, des Vektors (falls ein solcher verwendet wird), des klonierten Gens einschliesslich seiner Regulationsregion oder des Genproduktes zusammenwirken. Sind die Eigenschaften des übertragenen genetischen Materials genau bekannt, so müssen nur diese Eigenschaften bei der Zuordnung der isolierten gentechnisch veränderten Mikroorganismen berücksichtigt werden und nicht alle Eigenschaften des Spenderorganismus. 4 Die Risikobewertung kann mit derjenigen nach den Artikeln 6 und 7 der Einschliessungsverordnung vom 9. Mai 2012 (ESV) kombiniert werden. 5 Die Sicherheitsmassnahmen sind nach den Artikeln 8 und 9 festzulegen. 6 Für bestimmte Tätigkeiten, die zwar einen Umgang mit Mikroorganismen erfordern, aber aufgrund langjähriger Erfahrung oder nach der Freisetzungsverordnung vom 10.September 2008 nicht in geschlossenen Systemen durchgeführt werden müssen, genügen die Gefahrenermittlung und die Risikobewertung nach Artikel 7 sowie die Festlegung der Sicherheitsmassnahmen nach Artikel 8. Es handelt sich dabei insbesondere um bestimmte Tätigkeiten: a. in der Landwirtschaft; b. in der Lebensmittelproduktion; c. in Kläranlagen; d. in Kompostierwerken. Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 ). SR 814.912 Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 ). SR 814.911 Fassung gemäss Anhang 5 Ziff. 9 der Freisetzungsverordnung vom 10. Sept. 2008, in Kraft seit 1. Okt. 2008 ( AS 2008 4377 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Vorgehen bei den übrigen Tätigkeiten",
+      "content": "1 Die Gefahrenermittlung und die Risikobewertung müssen sich auf alle verfügbaren Informationen abstützen. Insbesondere sind abzuklären: a. Art und Dauer der Exposition gegenüber Mikroorganismen; b. Eigenschaften, Mengen sowie Zustände der Mikroorganismen; c. Art der Übertragung der Mikroorganismen; d. Informationen zu Krankheiten, die sich eine Arbeitnehmerin oder ein Arbeitnehmer auf Grund der Exposition zuziehen könnte; e. allergieauslösende oder toxische Wirkungen der Mikroorganismen; f. eine bei einer Arbeitnehmerin oder einem Arbeitnehmer in unmittelbarem Zusammenhang mit der Arbeit festgestellte Krankheit; g. Gruppe, zu der die betreffenden Mikroorganismen gehören. 2 Die Sicherheitsmassnahmen sind nach Artikel 8 festzulegen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Sicherheitsmassnahmen",
+      "section": "8",
+      "title": "Allgemeine Sicherheitsmassnahmen",
+      "content": "1 Der Arbeitgeber muss zum Schutz der Arbeitnehmerinnen und Arbeitnehmer vor Gefährdung ihrer Sicherheit und Gesundheit durch Mikroorganismen alle Massnahmen treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den gegebenen Verhältnissen angemessen sind. 2 Der Arbeitgeber ist insbesondere verpflichtet: a. die Mikroorganismen auszuwählen, die das kleinste Gefährdungspotenzial aufweisen, und biologische Sicherheitssysteme nach Anhang 2.2 anderen Systemen vorzuziehen; b. dafür zu sorgen, dass möglichst wenige Arbeitnehmerinnen und Arbeitnehmer Umgang mit Mikroorganismen haben oder Mikroorganismen ausgesetzt sind; c. Arbeitsverfahren und technische Massnahmen so zu gestalten, dass die Ausbreitung von Mikroorganismen am Arbeitsplatz möglichst vermieden wird; d. die Verfahren für die Entnahme, die Handhabung und die Verarbeitung von Proben menschlichen oder tierischen Ursprungs festzulegen; e. Vorkehren für die Schadensbewältigung und -begrenzung bei Unfällen oder Zwischenfällen mit Mikroorganismen zu treffen; f. Abfälle so zu sammeln, zu lagern und zu beseitigen, dass die Arbeitnehmerinnen und Arbeitnehmer nicht gefährdet werden. 3 Der Arbeitgeber muss kollektive oder, wo dies nicht oder nur teilweise möglich ist, individuelle Schutzmassnahmen treffen. Insbesondere muss er dafür sorgen, dass: a. den Arbeitnehmerinnen und Arbeitnehmern geeignete Schutzausrüstung und Schutzkleidung zur Verfügung steht; b. die notwendigen Schutzausrüstungen sachgerecht aufbewahrt, nach Möglichkeit vor Gebrauch, auf jeden Fall aber nach Gebrauch überprüft und gereinigt werden und vor erneutem Gebrauch nötigenfalls in Stand gestellt oder ersetzt werden; c. Arbeitskleider und persönliche Schutzausrüstungen, die möglicherweise durch Mikroorganismen kontaminiert wurden, beim Verlassen des Arbeitsbereichs abgelegt und vor Durchführung der Massnahmen nach Buchstabe d getrennt von anderen Kleidungsstücken aufbewahrt werden; d. die möglicherweise durch Mikroorganismen kontaminierten Kleider und persönlichen Schutzausrüstungen gereinigt und nötigenfalls desinfiziert werden. 4 Der Arbeitgeber muss durch Hygienemassnahmen dafür sorgen, dass Mikroorganismen weder die betroffenen Arbeitnehmerinnen und Arbeitnehmer gefährden noch auf Personen ausserhalb des Arbeitsplatzes übertragen werden. Er muss zudem dafür sorgen, dass den Arbeitnehmerinnen und Arbeitnehmern geeignete Waschanlagen zur Verfügung stehen, in denen die erforderlichen Wasch- und Dekontaminationsmittel vorhanden sind. 5 Überdies muss er für Räume, in denen für die Arbeitnehmerinnen und Arbeitnehmer die Gefahr einer Kontamination durch pathogene Mikroorganismen besteht, ein Ess-, Trink-, Rauch-, Schnupf- und Schminkverbot aussprechen sowie durchsetzen. In solchen Räumen dürfen auch keine Nahrungsmittel aufbewahrt werden. Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Sicherheitsmassnahmen",
+      "section": "9",
+      "title": "Besondere Sicherheitsmassnahmen beim Umgang mit Mikroorganismen",
+      "content": "1 Für den Umgang mit Mikroorganismen gelten die folgenden Regeln: a. Beim Umgang mit Mikroorganismen der Gruppen 1–4 sind die Sicherheitsmassnahmen der entsprechenden Sicherheitsstufen 1–4 nach Anhang 3 zu treffen. b. Beim Umgang mit Mikroorganismen der Gruppen 2–4 sind geschlossene Systeme zu verwenden; in der Primärdiagnostik sind Ausnahmen nach Artikel 5 a ESV möglich. c. Für Tätigkeiten nach Artikel 6 Absatz 6 genügen die allgemeinen Sicherheitsmassnahmen nach Artikel 8. 2 Für mikrobiologische Laboranalysen von Boden-, Wasser-, Luft- oder Lebensmittelproben genügen die Sicherheitsmassnahmen der Sicherheitsstufe 1, die für alle übrigen Labortätigkeiten gelten. Ist mit einer deutlich erhöhten Gefährdung zu rechnen, so sind weitergehende, besondere Sicherheitsmassnahmen zu treffen. 3 Für Laboranalysen von klinischem Material (medizinisch-mikrobiologische und veterinärmedizinische Diagnostik) genügen die Sicherheitsmassnahmen der Sicherheitsstufe 2, die für alle übrigen Labortätigkeiten gelten. Besteht aufgrund der Risikobewertung kein Verdacht, dass Mikroorganismen der Gruppe 3 oder 4 vorliegen und erfolgt der Nachweis ohne Vermehrung oder bei geringer Anreicherung ausschliesslich in geschlossenen Gefässen, kann die Analyse in Stufe 1 durchgeführt werden. 4 Werden pathogene Mikroorganismen der Gruppe 3 zu diagnostischen Zwecken angereichert und ist dadurch mit einer erhöhten Gefährdung zu rechnen, so sind die Sicherheitsmassnahmen der Sicherheitsstufe 3 zu treffen, die für alle übrigen Labortätigkeiten gelten. Beim Umgang mit Mikroorganismen der Gruppe 4 zu diagnostischen Zwecken sind die Sicherheitsmassnahmen der Sicherheitsstufe 4 zu treffen. Fassung gemäss Anhang 5 Ziff. 10 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2777 ). SR 814.912 Fassung gemäss Anhang Ziff. 1 der V vom 27. Sept. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3131 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Information und Anleitung",
+      "section": "10",
+      "title": "Information der zuständigen Behörde",
+      "content": "1 Der Arbeitgeber muss die zuständige Behörde auf Verlangen informieren über: a. die Ergebnisse der Gefahrenermittlung und der Risikobewertung; b. die Tätigkeiten, bei denen Arbeitnehmerinnen und Arbeitnehmer mit Mikroorganismen umgegangen sind oder Mikroorganismen ausgesetzt waren; c. die Zahl der betroffenen Arbeitnehmerinnen und Arbeitnehmer; d. die Namen der Projektleiterin oder des Projektleiters und der Spezialistin oder des Spezialisten der Arbeitssicherheit; e. die Arbeitsverfahren und -methoden, soweit sie die Sicherheit und Gesundheit der Arbeitnehmerinnen und Arbeitnehmer betreffen, und die getroffenen Schutz- und Vorbeugungsmassnahmen; f. den Notfallplan zum Schutz der Arbeitnehmerinnen und Arbeitnehmer vor einer Exposition gegenüber Mikroorganismen der Gruppen 2–4, die sich aus einem Versagen der physikalischen Schranken ergeben könnte; g. die Verfahren zur Unschädlichmachung oder zur Vernichtung von Mikroorganismen an kontaminierten Schutzausrüstungen, Arbeitsgeräten und in den Abfällen. 2 … Aufgehoben durch Ziff. I der V vom 9. Mai 2012, mit Wirkung seit 1. Juni 2012 ( AS 2012 2821 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Information und Anleitung",
+      "section": "11",
+      "title": "Anleitung der Arbeitnehmerinnen und Arbeitnehmer",
+      "content": "1 Die Arbeitnehmerinnen und Arbeitnehmer müssen vor der Aufnahme einer Tätigkeit, bei der sie Umgang mit Mikroorganismen haben oder Mikroorganismen ausgesetzt sein könnten, über die damit verbundenen Gefahren informiert und über die Massnahmen zu deren Verhütung angeleitet werden. Insbesondere ist auf besondere Gefahren für bestimmte Personengruppen wie schwangere Frauen, stillende Mütter, jugendliche Arbeitnehmerinnen und Arbeitnehmer oder Personen mit Immunschwäche aufmerksam zu machen. Information und Anleitung müssen regelmässig wiederholt und nötigenfalls den veränderten Risiken angepasst werden. 2 Der Arbeitgeber muss am Arbeitsplatz schriftliche Anweisungen bereitstellen und nötigenfalls durch Aushang bekannt geben, die das Vorgehen festlegen: a. bei einem Unfall oder Zwischenfall beim Umgang mit einem Mikroorganismus der Gruppen 2–4; b. beim Umgang mit einem Mikroorganismus der Gruppe 3 oder 4. Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Information und Anleitung",
+      "section": "12",
+      "title": "Information der Arbeitnehmerinnen und Arbeitnehmer in besonderen Fällen",
+      "content": "1 Der Arbeitgeber muss die Arbeitnehmerinnen und Arbeitnehmer oder ihre Vertretung im Betrieb: a. über Unfälle oder Zwischenfälle informieren, bei denen Arbeitnehmerinnen oder Arbeitnehmer Mikroorganismen der Gruppe 2 ausgesetzt waren, wenn die Möglichkeit besteht, dass ein solches Ereignis zu einer Berufskrankheit führen kann; b. unverzüglich über jeden Unfall oder Zwischenfall informieren, der möglicherweise zur Ausbreitung eines Mikroorganismus der Gruppe 3 oder 4 im Betrieb geführt hat; c. so schnell wie möglich über die Ursachen sowie über bereits getroffene oder noch zu treffende Abhilfemassnahmen informieren. 2 Die Arbeitnehmerinnen und Arbeitnehmer oder ihre Vertretung im Betrieb haben Zugang zu allen nicht personenbezogenen Informationen über den sicheren Umgang mit Mikroorganismen. 3 Der Arbeitgeber muss den Arbeitnehmerinnen und Arbeitnehmern oder ihrer Vertretung im Betrieb auf Antrag die Informationen nach Artikel 10 Absatz 1 zur Verfügung stellen."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Verzeichnis betroffener Arbeitnehmerinnen und Arbeitnehmer",
+      "content": "1 Der Arbeitgeber muss ein Verzeichnis führen, in dem aufzuführen sind: a. die Arbeitnehmerinnen und Arbeitnehmer, die Umgang mit Mikroorganismen der Gruppen 2–4 haben; b. die Arbeitnehmerinnen und Arbeitnehmer, die Mikroorganismen der Gruppe 3 oder 4 ausgesetzt sind oder waren; c. die Art der Arbeit und nach Möglichkeit der betreffende Mikroorganismus; d. Unfälle und Zwischenfälle mit Mikroorganismen. 2 Er muss das Verzeichnis während mindestens zehn Jahren nach dem letzten Umgang mit Mikroorganismen bzw. nach der letzten bekannten Exposition gegenüber Mikroorganismen aufbewahren. 3 Während eines entsprechend längeren Zeitraums, höchstens jedoch während 40 Jahren nach dem letzten Umgang bzw. nach der letzten bekannten Exposition ist das Verzeichnis aufzubewahren, wenn: a. Mikroorganismen im Spiel sind, die bekanntermassen dauerhafte oder latente Infektionen hervorrufen können; b. eine durch Mikroorganismen hervorgerufene Infektion nach dem gegenwärtigen Erkenntnisstand erst diagnostiziert werden kann, wenn viele Jahre später eine Krankheit ausbricht; c. eine allfällige Infektion schwer wiegende Langzeitfolgen haben kann; d. mit einer besonders langen Inkubationszeit vor dem Ausbruch einer allfälligen Krankheit zu rechnen ist; e. eine allfällige Krankheit Folgen haben kann, die trotz Behandlung über längere Zeit hinweg gelegentlich wieder auftreten. 4 Stellt der Betrieb seine Tätigkeit ein, so ist das Verzeichnis der SUVA zu übergeben. 5 Zugang zu diesem Verzeichnis haben: a. die Arbeitnehmerinnen und Arbeitnehmer hinsichtlich aller Angaben, die sie persönlich betreffen; b. die in Artikel 14 Absatz 2 aufgeführten Ärztinnen und Ärzte, die Durchführungsorgane der Unfallverhütung und die Unfallversicherer, um Unfällen vorbeugen oder Versicherungsfälle abklären zu können."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Gesundheitsüberwachung",
+      "section": "14",
+      "title": "",
+      "content": "1 Bei der Gefahrenermittlung und der Risikobewertung muss der Arbeitgeber prüfen oder prüfen lassen, für welche Arbeitnehmerinnen und Arbeitnehmer besondere arbeitsmedizinische Schutzmassnahmen erforderlich sind. Sind Arbeitnehmerinnen und Arbeitnehmer gegen einen Mikroorganismus, mit dem sie umgehen oder dem sie ausgesetzt sein könnten, noch nicht immun, so müssen sie auf Veranlassung und Kosten des Arbeitgebers eine wirksame Impfung erhalten, wo dies möglich und sinnvoll ist. 2 Für jede Arbeitnehmerin und jeden Arbeitnehmer, für die oder den besondere arbeitsmedizinische Schutzmassnahmen erforderlich sind, muss der Arbeitgeber veranlassen, dass der beigezogene Arbeitsarzt, der Betriebs- oder ein Vertrauensarzt eine besondere Gesundheitsakte führt. 3 In der Gesundheitsakte werden folgende Daten festgehalten: a. Gründe für die besonderen arbeitsmedizinischen Schutzmassnahmen; b. Untersuchungen zum Immunitätsstatus der Arbeitnehmerin oder des Arbeitnehmers; c. durchgeführte Impfungen; d. medizinische Untersuchungsergebnisse bei Unfällen und Zwischenfällen oder anderen Expositionen gegenüber Mikroorganismen sowie bei begründetem Verdacht auf eine bei der beruflichen Tätigkeit erworbene Infektionskrankheit. 4 Für die Aufbewahrung der Gesundheitsakte gilt Artikel 13 Absätze 2 und 3 sinngemäss. 5 Die Arbeitnehmerinnen und Arbeitnehmer sind über alle medizinischen Kontrollen im Zusammenhang mit ihrer Tätigkeit zu informieren; sie sind anzuleiten, wie sie sich beim Auftreten bestimmter Krankheitssymptome zu verhalten haben. 6 Die Arbeitnehmerinnen und Arbeitnehmer haben Zugang zu ihrer Gesundheitsakte und allen Unterlagen über die sie betreffenden arbeitsmedizinischen Massnahmen."
+    },
+    {
+      "provision_ref": "art14a",
+      "chapter": "20",
+      "section": "14a",
+      "title": "a",
+      "content": "1 Der Arbeitgeber muss bei der Gefahrenermittlung und der Risikobewertung sowie der Festlegung der Sicherheitsmassnahmen zum Schutz von schwangeren Frauen und stillenden Mütter die Artikel 62–66 der Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz befolgen. 2 Er muss bei der Gefahrenermittlung und Risikobewertung zum Schutz von jugendlichen Arbeitnehmerinnen und Arbeitnehmer Artikel 4 der Jugendarbeitsschutzverordnung vom 28. September 2007 befolgen. SR 822.111 SR 822.115"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Anmeldung des Umgangs mit Mikroorganismen",
+      "section": "15",
+      "title": "",
+      "content": "1 Der Arbeitgeber muss den Umgang mit Mikroorganismen, der in den Sicherheitsstufen 2–4 stattzufinden hat, der Kontaktstelle Biotechnologie des Bundes (Art. 17 ESV) anmelden. Tätigkeiten mit Mikroorganismen, die in den Sicherheitsstufen 2–4 durchzuführen sind, müssen spätestens mit deren Beginn angemeldet werden. Vorbehalten bleibt die Bewilligung nach Artikel 10 ESV. 2 Eine Neuanmeldung ist erforderlich, wenn an den Arbeitsprozessen oder ‑verfahren wesentliche Änderungen, die für die Sicherheit und Gesundheit der Arbeitnehmerinnen und Arbeitnehmer von Bedeutung sind, vorgenommen werden. 3 Die Anmeldung kann mit der Meldung oder dem Bewilligungsgesuch nach den Artikeln 9 und 10 ESV kombiniert werden und muss folgende Angaben enthalten: a. Name und Adresse des Betriebs; b. Name und Befähigung der für die Sicherheit und Gesundheit am Arbeitsplatz beauftragten Person; c. die Art des Mikroorganismus; d. die Ergebnisse der Gefahrenermittlung und der Risikobewertung; e. die geplanten Schutzmassnahmen. 4 Die Angaben nach Absatz 3 können direkt in die von der Kontaktstelle Biotechnologie des Bundes zur Verfügung gestellte elektronische Datenbank eingegeben werden. SR 814.912 Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 ). Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 ). Eingefügt durch Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "3. Kapitel: Pflichten der Arbeitnehmerinnen und Arbeitnehmer",
+      "section": "16",
+      "title": "",
+      "content": "1 Die Arbeitnehmerinnen und Arbeitnehmer müssen die Weisungen des Arbeitgebers in Bezug auf die Arbeitssicherheit und den Gesundheitsschutz befolgen und die allgemein anerkannten Sicherheitsregeln beachten. Sie müssen insbesondere die persönlichen Schutzausrüstungen benützen und dürfen die Wirksamkeit der Sicherheitseinrichtungen nicht beeinträchtigen. 2 Die Arbeitnehmerinnen und Arbeitnehmer müssen jeden Unfall oder Zwischenfall, bei dem sie Mikroorganismen ausgesetzt sind, unverzüglich der für die Sicherheit und Gesundheit am Arbeitsplatz beauftragten Person melden. Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Kapitel: Verfahren und Rechtspflege",
+      "section": "17",
+      "title": "",
+      "content": "Für das Verfahren und die Rechtspflege gelten die Bestimmungen der VUV. SR 832.30"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "18",
+      "title": "Änderung bisherigen Rechts",
+      "content": "… Die Änderung kann unter AS 1999 2826 konsultiert werden."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "19",
+      "title": "Übergangsbestimmung zur Änderung vom 9. Mai 2012",
+      "content": "Tätigkeiten, die beim Inkrafttreten der Änderung vom 9. Mai 2012 dieser Verordnung ordnungsgemäss gemeldet sind, müssen von der Melderin oder dem Melder innert fünf Jahren seit Inkrafttreten dieser Änderung auf ihre Vereinbarkeit mit derselben überprüft und nur dann neu gemeldet werden, wenn sich aufgrund des neuen Rechts Änderungen für die Tätigkeiten oder die Sicherheitsmassnahmen ergeben. Fassung gemäss Ziff. I der V vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ( AS 2012 2821 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "5. Kapitel: Schlussbestimmungen",
+      "section": "20",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. November 1999 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "gentechnisch veränderte Mikroorganismen",
+      "definition": "gentechnisch veränderte Mikroorganismen : Mikroorganismen, deren genetisches Material durch gentechnische Verfahren nach Anhang 1 so verändert worden ist, wie dies unter natürlichen Bedingungen durch Kreuzen oder natürliche Rekombination nicht vorkommt;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "geschlossenes System",
+      "definition": "geschlossenes System : Einrichtung, die durch physikalische Schranken oder durch eine Kombination physikalischer mit chemischen oder biologischen Schranken den Kontakt der Mikroorganismen mit den Arbeitnehmerinnen und Arbeitnehmern begrenzt oder verhindert;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Umgang",
+      "definition": "Umgang : jede beabsichtigte Tätigkeit mit Mikroorganismen, insbesondere das Verwenden, Verarbeiten, Vermehren, Verändern, Nachweisen, Transportieren, Lagern oder Entsorgen;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Exposition",
+      "definition": "Exposition : jede Situation, in welcher ein Kontakt mit Mikroorganismen möglich ist, der die Sicherheit und Gesundheit der Arbeitnehmerinnen und Arbeitnehmer gefährden kann.",
+      "source_provision": "art2"
+    }
+  ]
+}

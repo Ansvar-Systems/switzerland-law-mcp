@@ -1,0 +1,138 @@
+{
+  "id": "sr-832-104",
+  "type": "statute",
+  "title": "Verordnung vom 3. Juli 2002 über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung (VKL)",
+  "title_en": "",
+  "short_name": "VKL",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2002/418/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt die einheitliche Ermittlung der Kosten und Erfassung der Leistungen im Spital- und Pflegeheimbereich. 2 Sie gilt für die nach Artikel 39 des Gesetzes zugelassenen Spitäler, Geburtshäuser und Pflegeheime. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeines",
+      "section": "2",
+      "title": "Ziele",
+      "content": "1 Die Ermittlung der Kosten und die Erfassung der Leistungen muss so erfolgen, dass damit die Grundlagen geschaffen werden für: a. die Unterscheidung der Leistungen und der Kosten zwischen der stationären, der ambulanten und der Langzeitbehandlung; b. die Bestimmung der Leistungen und der Kosten der obligatorischen Krankenpflegeversicherung in der stationären Behandlung im Spital und im Geburtshaus; c. … d. die Bestimmung der Leistungen und der Kosten der obligatorischen Krankenpflegeversicherung in der ambulanten Behandlung im Spital und im Geburtshaus; e. die Bestimmung der Leistungen und der Kosten der Krankenpflege sowie der übrigen von der obligatorischen Krankenpflegeversicherung übernommenen Leistungen und deren Kosten in Pflegeheimen und bei Langzeitbehandlung im Spital; f. die Bestimmung der Leistungen und der Kosten der Krankenpflege für jede Pflegebedarfsstufe in Pflegeheimen und bei Langzeitbehandlung im Spital; g. die Ausscheidung der gemeinwirtschaftlichen Leistungen nach Artikel 49 Absatz 3 des Gesetzes und von deren Kosten; h. die Ausscheidung der Kosten, die durch die Beiträge nach Artikel 3 der Ausbildungsförderverordnung Pflege vom 8. Mai 2024 gedeckt sind. 2 Die Unterscheidung und Bestimmung der genannten Kosten und Leistungen soll erlauben: a. die Bildung von Kennzahlen; b. Betriebsvergleiche auf regionaler, kantonaler und überkantonaler Ebene zur Beurteilung von Kosten und Leistungen; c. die Berechnung der Tarife; d. die Berechnung von Globalbudgets; e. die Aufstellung von kantonalen Planungen; f. die Beurteilung der Wirtschaftlichkeit und Billigkeit der Leistungserbringung; g. die Überprüfung der Kostenentwicklung und des Kostenniveaus. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 ). Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 ). Aufgehoben durch Ziff. I der V vom 22. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ( AS 2008 5105 ). Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 ). Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 ). Eingefügt durch Art. 17 der Ausbildungsförderverordnung Pflege vom 8. Mai 2024, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2032 ( AS 2024 219 ). SR 811.225"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Definitionen",
+      "section": "3",
+      "title": "Stationäre Behandlung",
+      "content": "Als stationäre Behandlung nach Artikel 49 Absatz 1 des Gesetzes gelten Aufenthalte zur Untersuchung, Behandlung und Pflege im Spital oder im Geburtshaus: a. von mindestens 24 Stunden; b. von weniger als 24 Stunden, bei denen während einer Nacht ein Bett belegt wird; c. im Spital bei Überweisung in ein anderes Spital; d. im Geburtshaus bei Überweisung in ein Spital; e. bei Todesfällen. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Definitionen",
+      "section": "4",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 22. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Definitionen",
+      "section": "5",
+      "title": "Ambulante Behandlung",
+      "content": "Als ambulante Behandlung nach Artikel 49 Absatz 6 des Gesetzes gelten alle Behandlungen, die nicht stationäre Behandlungen sind. Wiederholte Aufenthalte in Tages- oder Nachtkliniken gelten ebenfalls als ambulante Behandlung. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Definitionen",
+      "section": "6",
+      "title": "Langzeitbehandlung",
+      "content": "Als Langzeitbehandlung nach den Artikeln 49 Absatz 4 und 50 des Gesetzes gelten Aufenthalte im Spital oder im Pflegeheim, ohne dass nach medizinischer Indikation eine Behandlung und Pflege oder eine medizinische Rehabilitation im Spital erforderlich ist. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Definitionen",
+      "section": "7",
+      "title": "Kosten für die universitäre Lehre und für die Forschung",
+      "content": "1 Als Kosten für die universitäre Lehre nach Artikel 49 Absatz 3 Buchstabe b des Gesetzes gelten die Aufwendungen für: a. die theoretische und praktische Ausbildung der Studierenden eines im Bundesgesetz vom 23. Juni 2006 über die Medizinalberufe geregelten Medizinalberufes bis zum Erwerb des eidgenössischen Diploms; b. die Weiterbildung der Studierenden nach Buchstabe a bis zur Erlangung des eidgenössischen Weiterbildungstitels. 2 Als Kosten für die Forschung nach Artikel 49 Absatz 3 des Gesetzes gelten die Aufwendungen für systematische schöpferische Arbeiten und experimentelle Entwicklung zwecks Erweiterung des Kenntnisstandes sowie deren Verwendung mit dem Ziel, neue Anwendungsmöglichkeiten zu finden. Darunter fallen Projekte, die zur Gewinnung wissenschaftlicher Erkenntnisse sowie zur Verbesserung der Prävention, der Diagnostik und Behandlung von Krankheiten ausgeführt werden. 3 Als Kosten für die universitäre Lehre und für die Forschung gelten auch die indirekten Kosten sowie die Aufwendungen, die durch von Dritten finanzierte Lehr- und Forschungstätigkeiten verursacht werden. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 ). SR 811.11"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Investitionen",
+      "content": "1 Als Investitionen im Sinne von Artikel 49 Absatz 7 des Gesetzes gelten Mobilien, Immobilien und sonstige Anlagen, die zur Erfüllung des Leistungsauftrages nach Artikel 39 Absatz 1 Buchstabe e des Gesetzes notwendig sind. 2 Kaufgeschäften gleichgestellt sind Miet- und Abzahlungsgeschäfte. Kosten aus Miet- und Abzahlungsgeschäften werden als Anlagenutzungskosten separat ausgewiesen. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Ermittlung der Kosten und Erfassung der Leistungen",
+      "section": "9",
+      "title": "Anforderungen an die Ermittlung der Kosten und Erfassung der Leistungen",
+      "content": "1 Spitäler, Geburtshäuser und Pflegeheime müssen eine Kostenrechnung führen, in der die Kosten nach dem Leistungsort und dem Leistungsbezug sachgerecht ausgewiesen werden. 2 Die Kostenrechnung muss insbesondere die Elemente Kostenarten, Kostenstellen, Kostenträger und die Leistungserfassung umfassen. 3 Die Kostenrechnung muss den sachgerechten Ausweis der Kosten für die Leistungen erlauben. Die Kosten sind den Leistungen in geeigneter Form zuzuordnen. 4 Die Kostenrechnung ist so auszugestalten, dass keine Rückschlüsse auf die behandelte Person gezogen werden können. 5 Die Kostenrechnung ist jeweils für das Kalenderjahr zu erstellen und ist ab dem 30. April des auf das Kalenderjahr folgenden Jahres bereitzustellen. 6 Das Eidgenössische Departement des Innern (Departement) kann nähere Bestimmungen über die technische Ausgestaltung der Kostenrechnung erlassen. Es hört dabei die Kantone, Leistungserbringer und Versicherer an. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Ermittlung der Kosten und Erfassung der Leistungen",
+      "section": "10",
+      "title": "Anforderungen an Spitäler und Geburtshäuser",
+      "content": "1 Die Spitäler und die Geburtshäuser müssen eine Finanzbuchhaltung führen. 2 Die Spitäler müssen die Kosten der Kostenstellen nach der Nomenklatur der nach dem Anhang zur Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes durchgeführten Krankenhausstatistik ermitteln. 3 Die Spitäler und Geburtshäuser müssen eine Lohnbuchhaltung führen. 4 Es ist eine Kosten- und Leistungsrechnung zu führen. 5 Zur Ermittlung der Kosten für Anlagenutzung müssen die Spitäler und Geburtshäuser eine Anlagebuchhaltung führen. Objekte mit einem Anschaffungswert von 10 000 Franken und mehr gelten als Investitionen nach Artikel 8. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 ). SR 431.012.1"
+    },
+    {
+      "provision_ref": "art10a",
+      "chapter": "3. Abschnitt: Ermittlung der Kosten und Erfassung der Leistungen",
+      "section": "10a",
+      "title": "a Angaben der Spitäler und Geburtshäuser",
+      "content": "1 Die Anlagebuchhaltung muss für jede Anlage mindestens die Angaben enthalten über: a. das Anschaffungsjahr; b. die geplante Nutzungsdauer in Jahren; c. den Anschaffungswert; d. den Buchwert der Anlage am Anfang des Jahres; e. den Abschreibungssatz; f. die jährliche Abschreibung; g. den Buchwert der Anlage am Ende des Jahres; h. den kalkulatorischen Zinssatz; i. den jährlichen kalkulatorischen Zins; j. die jährlichen Anlagenutzungskosten als Summe der jährlichen Abschreibung und der jährlichen kalkulatorischen Zinsen. 2 Die zur Erfüllung des Leistungsauftrags der Einrichtung betriebsnotwendigen Anlagen dürfen höchstens mit ihrem Anschaffungswert berücksichtigt werden. 3 Die maximalen jährlichen Abschreibungen berechnen sich bei linearer Abschreibung vom Anschaffungswert über die geplante Nutzungsdauer auf den Restwert Null. 4 Die kalkulatorische Verzinsung der für die Erbringung der stationären Leistungen erforderlichen betriebsnotwendigen Anlagen berechnet sich nach der Durchschnittswertmethode. Der Zinssatz beträgt 3,7 Prozent. Er wird periodisch überprüft. Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 ). Siehe auch die SchlB dieser Änd. am Ende dieses Textes."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Pflegeheime",
+      "content": "1 Die Pflegeheime müssen eine Finanzbuchhaltung führen. 2 Zur Ermittlung der Kosten für Anlagenutzung ist eine Anlagebuchhaltung zu führen. 3 Es ist eine Kosten- und Leistungsrechnung zu führen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Ausweis der erbrachten Leistungen",
+      "section": "12",
+      "title": "Anforderungen an die Leistungsstatistik",
+      "content": "1 Die Spitäler, Geburtshäuser und Pflegeheime müssen eine Leistungsstatistik führen. 2 Die Leistungsstatistik muss den sachgerechten Ausweis der erbrachten Leistungen erlauben. 3 Die Leistungsstatistik ist so auszugestalten, dass keine Rückschlüsse auf die behandelte Person gezogen werden können. 4 Die Leistungsstatistik ist jeweils für das Kalenderjahr zu erstellen und ist ab dem 30. April des auf das Kalenderjahr folgenden Jahres bereitzustellen. 5 Das Departement kann nähere Bestimmungen über die technische Ausgestaltung der Leistungsstatistik erlassen. Es hört dabei die Kantone, Leistungserbringer und Versicherer an. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Ausweis der erbrachten Leistungen",
+      "section": "13",
+      "title": "Spitäler und Geburtshäuser",
+      "content": "1 Die Leistungsstatistik der Spitäler muss in Abstimmung mit der nach dem Anhang zur Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes erstellten Krankenhausstatistik und der Medizinischen Statistik der Krankenhäuser erstellt werden. Diese Bestimmung gilt sinngemäss für die Geburtshäuser. 2 Die Leistungsstatistik muss namentlich die Elemente Leistungsbezeichnung, Patientenbewegung, Pflegetage, Aufenthaltsdauer und geleistete Taxpunkte umfassen. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 ). SR 431.012.1"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Ausweis der erbrachten Leistungen",
+      "section": "14",
+      "title": "Pflegeheime",
+      "content": "1 Die Leistungsstatistik der Pflegeheime muss in Abstimmung mit der nach dem Anhang zur Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes erstellten Statistik der sozialmedizinischen Institutionen erstellt werden. 2 Die Leistungsstatistik muss namentlich die Elemente Leistungsbezeichnung, Aufenthaltstage und Pflegetage pro Pflegebedarfsstufe umfassen. SR 431.012.1"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Einsichtnahme",
+      "section": "15",
+      "title": "",
+      "content": "Spitäler, Geburtshäuser und Pflegeheime sind verpflichtet, die Unterlagen eines Jahres ab dem 1. Mai des Folgejahres zur Einsichtnahme bereitzuhalten. Zur Einsichtnahme berechtigt sind die Genehmigungsbehörden, die fachlich zuständigen Stellen des Bundes sowie die Tarifpartner. Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 22. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ( AS 2008 5105 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Schlussbestimmungen",
+      "section": "17",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2003 in Kraft."
+    }
+  ],
+  "definitions": []
+}

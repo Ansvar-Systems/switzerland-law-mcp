@@ -1,0 +1,38 @@
+{
+  "id": "sr-221-432",
+  "type": "statute",
+  "title": "Verordnung vom 21. November 2012 über die anerkannten Standards zur Rechnungslegung (VASR)",
+  "title_en": "",
+  "short_name": "VASR",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2012/812/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Anerkannte Standards zur Rechnungslegung",
+      "content": "1 Für Unternehmen, die der Pflicht zur Buchführung und Rechnungslegung gemäss Artikel 957 OR unterliegen, werden die folgenden Regelwerke als anerkannte Standards zur Rechnungslegung bezeichnet: a. die «International Financial Reporting Standards» (IFRS) des International Accounting Standards Board (IASB); b. der «International Financial Reporting Standard for Small and Medium-sized Entities» (IFRS for SMEs) des IASB; c. die «Fachempfehlungen zur Rechnungslegung» (Swiss GAAP FER) der Stiftung für Fachempfehlungen zur Rechnungslegung; d. die «United States Generally Accepted Accounting Principles» (US GAAP) des Financial Accounting Standards Board; e. die «International Public Sector Accounting Standards» (IPSAS) des International Public Sector Accounting Standards Board. 2 Der Herausgeber des Regelwerks bestimmt die autorisierten sprachlichen Fassungen. www.ifrs.org www.fer.ch www.fasb.org www.ifac.org/public-sector"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Rechnungslegungsvorschriften der FINMA",
+      "content": "1 Für Banken gemäss Bankengesetz vom 8. November 1934 und für Wertpapierhäuser gemäss Finanzinstitutsgesetz vom 15. Juni 2018 sind die Rechnungslegungsvorschriften der Eidgenössischen Finanzmarktaufsicht (FINMA) für Banken und Wertpapierhäuser (Art. 25–42 der Bankenverordnung vom 30. April 2014) einem anerkannten Standard zur Rechnungslegung gleichgestellt. 2 Für kollektive Kapitalanlagen gemäss dem Kollektivanlagengesetz vom 23. Juni 2006 (KAG) sind die Rechnungslegungsvorschriften der FINMA für kollektive Kapitalanlagen (Art. 91 KAG) einem anerkannten Standard zur Rechnungslegung gleichgestellt. SR 952.01 Fassung gemäss Anhang 1 Ziff. II 2 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 4633 ). SR 951.31"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2013 in Kraft."
+    }
+  ],
+  "definitions": []
+}

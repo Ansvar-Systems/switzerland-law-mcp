@@ -1,0 +1,77 @@
+{
+  "id": "sr-732-13",
+  "type": "statute",
+  "title": "Verordnung vom 9. Juni 2006 über sicherheitstechnisch klassierte Behälter und Rohrleitungen in Kernanlagen (VBRK)",
+  "title_en": "",
+  "short_name": "VBRK",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2006/376/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt die Planung, Herstellung, Montage, Inbetriebsetzung sowie den Betrieb von sicherheitstechnisch klassierten Behältern und Rohrleitungen, deren Abstützungen und druckhaltenden Ausrüstungsteilen für die Verwendung in Kernanlagen (BRK). 2 Zu den BRK gehören auch folgende Ausrüstungsteile mit Sicherheitsfunktion, die zum Schutz von BRK bei einem Überschreiten der zulässigen Grenzen bestimmt sind: a. Einrichtungen zur unmittelbaren Druckbegrenzung wie Sicherheitsventile, Berstscheibenabsicherungen, Knickstäbe, gesteuerte Sicherheitseinrichtungen; b. Begrenzungseinrichtungen, die entweder Regelvorrichtungen auslösen oder ein Abschalten bzw. ein Abschalten und Sperren bewirken, wie Druck-, Temperatur- oder Fluidniveauschalter, sowie mess- und regeltechnische Schutzeinrichtungen. 3 Die Verordnung gilt nicht für Geräte, die in den Geltungsbereich der Bestimmungen für die Beförderung gefährlicher Güter fallen. 4 Im Übrigen gelten die Vorschriften der Kernenergieverordnung vom 10. Dezember 2004 (KEV). SR 732.11"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Begriffsbestimmungen",
+      "content": "In dieser Verordnung bedeuten: a. Behälter: ein geschlossenes Bauteil, das zur Aufnahme von unter Druck stehenden Fluiden oder radioaktiven Stoffen ausgelegt und gebaut ist, einschliesslich der direkt angebrachten Teile bis hin zur Vorrichtung für den Anschluss an andere Bauteile; ein Behälter kann mehrere Druckräume aufweisen; b. Rohrleitung: zur Durchleitung von unter Druck stehenden Fluiden oder radioaktiven Stoffen bestimmte Leitungsbauteile, die für den Einbau in ein System miteinander verbunden sind; zu Rohrleitungen zählen insbesondere Rohre oder Rohrsysteme, Rohrformteile, Ausrüstungsteile, Ausdehnungsstücke, Schlauchleitungen oder gegebenenfalls andere druckhaltende Teile; c. Druck: der auf den Atmosphärendruck bezogene Druck; d. maximal zulässiger Druck: der vom Hersteller angegebene höchste Druck, für den die BRK ausgelegt sind. Er wird für eine vom Hersteller vorgegebene Stelle festgelegt. Hierbei handelt es sich um die Anschlussstelle der Ausrüstungsteile mit Sicherheitsfunktion oder um den höchsten Punkt der BRK oder, falls nicht geeignet, um eine andere angegebene Stelle; e. zulässige minimale bzw. maximale Temperatur: die vom Hersteller angegebene minimale bzw. maximale Temperatur, für die BRK ausgelegt oder für den Betrieb zugelassen sind; f. Fluid: Gas, verflüssigtes Gas, unter Druck gelöstes Gas, Flüssigkeit oder Dampf als reine Phase sowie deren Gemisch; ein Fluid kann radioaktive Stoffe oder eine Suspension von Feststoffen enthalten; g. sicherheitstechnische Klassierung: Einstufung der Bauwerke, Systeme und Ausrüstungen einer Kernanlage in Sicherheits-, Erdbeben- und Bauwerksklassen auf der Grundlage ihrer Bedeutung für die nukleare Sicherheit."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Sicherheit und Instandhaltung",
+      "section": "3",
+      "title": "Anforderungen an die Sicherheit",
+      "content": "1 Die Anforderungen an die Sicherheit der BRK sind im Anhang 1 aufgeführt. 2 Das Eidgenössische Nuklearsicherheitsinspektorat (ENSI) wird beauftragt, die detaillierten Anforderungen an die Sicherheit der BRK in Richtlinien zu regeln. Fassung gemäss Anhang Ziff. 13 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ( SR 732.21 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Sicherheit und Instandhaltung",
+      "section": "4",
+      "title": "Anforderungen an die Instandhaltung",
+      "content": "1 Die BRK sind gemäss den Angaben des Herstellers und unter Berücksichtigung der Betriebsanforderungen und der Betriebserfahrung fachgerecht in Stand zu halten. Dabei ist den jeweiligen Einsatzbedingungen Rechnung zu tragen. Sie müssen nach einem im Voraus festgelegten, systematischen Programm regelmässig gewartet und überprüft werden. 2 Zusätzliche Prüfungen sind vorzunehmen nach meldepflichtigen Ereignissen und Befunden, welche die Sicherheit der BRK beeinträchtigen könnten. 3 Die Anforderungen an die wiederkehrenden Prüfungen der BRK sind im Anhang 2 aufgeführt. 4 Das ENSI wird beauftragt, die detaillierten Anforderungen an die Instandhaltung der BRK in Richtlinien zu regeln. Fassung gemäss Anhang Ziff. 13 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ( SR 732.21 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "3. Abschnitt: Technische Normen und Unterlagen",
+      "section": "5",
+      "title": "Technische Normen",
+      "content": "1 Das ENSI bezeichnet technische Regeln, welche geeignet sind, die Anforderungen der BRK an die Sicherheit und die Instandhaltung zu konkretisieren. 2 Soweit möglich bezeichnet sie international harmonisierte Normen. Fassung gemäss Anhang Ziff. 13 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ( SR 732.21 )."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Technische Normen und Unterlagen",
+      "section": "6",
+      "title": "Sprache der Unterlagen",
+      "content": "1 Die Bedienungs- und Instandhaltungsanleitungen müssen in den schweizerischen Amtssprachen der Landesteile abgefasst sein, in denen die BRK verwendet werden. 2 Weitere technische Unterlagen sind in einer schweizerischen Amtssprache oder in Englisch zu halten."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "7",
+      "title": "Anpassungen der Anhänge",
+      "content": "Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation kann die Anhänge der technischen oder internationalen Entwicklung anpassen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "8",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die nachstehenden Verordnungen werden wie folgt geändert: … Die Änderungen können unter AS 2006 2437 konsultiert werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Abschnitt: Schlussbestimmungen",
+      "section": "9",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Juli 2006 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "sr-172-220-111-331",
+  "type": "statute",
+  "title": "Verordnung des VBS vom 25. April 2013 über die Kürzung der Lohnfortzahlung im Vorruhestandsurlaub",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2013/278/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Geltungsbereich",
+      "content": "1 Diese Verordnung gilt für Angestellte in Funktionen nach Artikel 33 Absatz 1 Buchstaben a und c BPV, die ab dem 1. Juli 2015 den Vorruhestandsurlaub antreten. 2 Sie gilt nicht für Angestellte nach Artikel 116 c Absatz 2 BPV."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Kürzung der Lohnfortzahlung",
+      "content": "1 Hat die angestellte Person solche Funktionen nach Abschluss der funktionsspezifischen Grundausbildung während weniger als 33 Dienstjahren ausgeübt, so wird die Lohnfortzahlung im Vorruhestandsurlaub um 2,75 Prozent pro fehlendes volles Dienstjahr gekürzt. 2 Bei weniger als 10 Dienstjahren in solchen Funktionen wird keine Lohnfortzahlung ausgerichtet."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Wiedereintritt",
+      "content": "Tritt eine Person wieder in eine solche Funktion ein, so werden ihr die früher in einer dieser Funktionen geleisteten Dienstjahre angerechnet, soweit sie nicht bereits finanziell abgegolten worden sind."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 15. Mai 2013 in Kraft."
+    }
+  ],
+  "definitions": []
+}

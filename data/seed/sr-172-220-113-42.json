@@ -1,0 +1,363 @@
+{
+  "id": "sr-172-220-113-42",
+  "type": "statute",
+  "title": "Verordnung des ETH-Rates vom 8. Dezember 2022 über den Schutz von Personendaten des Personals im ETH-Bereich (Personendatenschutzverordnung ETH-Bereich, PDV-ETH)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2023/124/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Anwendungsbereich und Informationsrechte des Personals",
+      "section": "1",
+      "title": "Gegenstand und Geltungsbereich",
+      "content": "1 Diese Verordnung regelt die Bearbeitung der Personendaten folgender Personalkategorien: a. Mitarbeiterinnen und Mitarbeiter im ETH-Bereich nach Artikel 1 Absatz 1 der Personalverordnung ETH-Bereich vom 15. März 2001 (PVO-ETH); b. Professorinnen und Professoren nach Artikel 1 der Professorenverordnung ETH vom 18. September 2003; c. Mitarbeiterinnen und Mitarbeiter im ETH-Bereich sowie Professorinnen und Professoren mit privatrechtlicher Anstellung; d. Stellenbewerberinnen und -bewerber für Anstellungen im ETH-Bereich nach den Buchstaben a–c; e. ehemalige Mitarbeiterinnen und Mitarbeiter im ETH-Bereich nach den Buchstaben a–c. 2 Das 4. Kapitel dieser Verordnung gilt zusätzlich für Personen, die mit Institutionen des ETH-Bereichs in einem Auftragsverhältnis oder in einem Personalverleihverhältnis stehen. SR 172.220.113 SR 172.220.113.40"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Anwendungsbereich und Informationsrechte des Personals",
+      "section": "2",
+      "title": "Information des Personals",
+      "content": "Das Personal oder seine Vertretung wird vor der Einführung oder Änderung eines Informationssystems oder einer Datenbank informiert, sofern die Rechtsstellung oder die Tätigkeit des Personals massgeblich betroffen ist."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Anwendungsbereich und Informationsrechte des Personals",
+      "section": "3",
+      "title": "Ansprechperson in Datenschutzbelangen",
+      "content": "Die Datenschutzberaterinnen und Datenschutzberater der beiden ETH, der Forschungsanstalten und des ETH-Rats stehen dem Personal in Belangen des Datenschutzes als Ansprechperson zur Verfügung."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Verantwortlichkeiten und Zuständigkeiten",
+      "section": "4",
+      "title": "Verantwortlichkeiten",
+      "content": "1 Die Schulleitungen der beiden ETH, die Direktionen der Forschungsanstalten und die Präsidentin oder der Präsident des ETH-Rates sind für die von ihnen eingesetzten Informationssysteme verantwortlich. 2 Die jeweiligen Personalabteilungen und weiteren ermächtigten Stellen sind für die Datenbearbeitung in ihrem Bereich verantwortlich. 3 Die beiden ETH, die Forschungsanstalten und der ETH-Rat erlassen für ihre Informationssysteme die Bearbeitungsreglemente nach Artikel 6 der Datenschutzverordnung vom 31. August 2022 (Bearbeitungsreglemente). SR 235.11"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Verantwortlichkeiten und Zuständigkeiten",
+      "section": "5",
+      "title": "Zuständigkeiten",
+      "content": "1 Die zuständige Personalabteilung und die Fachstellen der beiden ETH für die Professorenrekrutierung und -betreuung (Fachstellen Professuren) bearbeiten die zur Erfüllung ihrer Aufgaben erforderlichen Daten. Sie bearbeiten insbesondere: a. Informationen aus den Bewerbungsunterlagen, dem Arbeitsvertrag, der Stellenbeschreibung und den Personalbeurteilungsformularen; b. die auf einer Personalbeurteilung beruhenden Entscheide; c. die Abwesenheiten; d. die Arztzeugnisse; e. die Ergebnisse von Persönlichkeitstests und Abklärungstests zur Potenzialerfassung; f. die Auszüge aus öffentlichen Registern; g. Daten betreffend administrative, strafrechtliche oder soziale Massnahmen. 2 Die Vorgesetzten oder die von ihnen beigezogenen Personen bearbeiten die Daten, die in Zusammenhang mit Stellenbesetzungen und zur Erfüllung ihrer Führungsaufgaben notwendig sind, insbesondere die Bewerbungsdossiers, die Zielvereinbarungs- und Leistungsbeurteilungsformulare und die Daten zu Lohnanpassungen, die aufgrund der individuellen Leistung vorgenommen werden. 3 Die erforderlichen Zugriffsrechte werden wie folgt erteilt: a. für Informationssysteme: durch das Schulleitungsmitglied der betreffenden ETH oder das Direktionsmitglied der betreffenden Forschungsanstalt, das für Informatiksysteme zuständig ist; b. für Informatiksysteme des ETH-Rats: durch die Geschäftsführerin oder den Geschäftsführer des Stabs des ETH-Rats. 4 Die Personalabteilungen und die Fachstellen Professuren können Personen, die im Rahmen ihrer Aufgaben einen Zugriff auf bestimmte Daten benötigen, beschränkte Zugriffsrechte erteilen."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "6",
+      "title": "Datensicherheit",
+      "content": "1 Die beiden ETH, die Forschungsanstalten und der ETH-Rat sorgen für die Einhaltung der Bestimmungen des Datenschutzgesetzes vom 25. September 2020 und der Datenschutzverordnung vom 31. August 2022. Sie sind dafür verantwortlich, dass die mit der Datenbearbeitung befassten Stellen und Personen angemessene organisatorische und technische Massnahmen und Vorkehrungen zur Sicherung der Personendaten treffen. 2 Die in Papierform gesammelten Daten sind unter Verschluss zu halten. 3 Die Datensicherheit für die Informationssysteme richtet sich nach der Datenschutzverordnung vom 31. August 2022, insbesondere den Artikeln 1–4 und 6. 4 Die beiden ETH, die Forschungsanstalten sowie der ETH-Rat führen die organisatorischen und technischen Massnahmen zur Sicherung der Personendaten in ihren Bearbeitungsreglementen näher aus. SR 235.1 SR 235.11"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "7",
+      "title": "Anmeldung der Bearbeitungstätigkeiten",
+      "content": "1 Die beiden ETH, die Forschungsanstalten und der ETH-Rat melden sämtliche Verzeichnisse der Bearbeitungstätigkeiten im Zeitpunkt des Entscheids der Projektentwicklung oder der Projektfreigabe beim Datenschutz- und Öffentlichkeitsbeauftragten zur Registrierung an (Art. 12 des Datenschutzgesetzes vom 25. September 2022). 2 Automatisierte Bearbeitungen von Personendaten (Informationssysteme) müssen bereits im Projektstadium gemeldet werden (Art. 31 der Datenschutzverordnung vom 31. August 2022). SR 235.1 SR 235.11"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "8",
+      "title": "Auskunfts-, Berichtigungs- und Löschungsrecht",
+      "content": "1 Die betroffenen Personen können ihr Auskunfts-, Berichtigungs- und Löschungsrecht bei der jeweiligen Personalabteilung, bei den Fachstellen Professuren oder bei der Vertrauensärztin oder dem Vertrauensarzt (Art. 48) geltend machen. Vorbehalten bleibt Artikel 23. 2 Unrichtige Daten sind von Amtes wegen zu berichtigen."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "9",
+      "title": "Protokollierung",
+      "content": "1 Die Zugriffe sowie Änderungen in den Informationssystemen werden laufend protokolliert. 2 Die Protokolle werden während eines Jahres getrennt vom System, in dem die Personendaten bearbeitet werden, aufbewahrt. 3 Die Protokolle können zwecks Überprüfung, ob die Datenschutzvorschriften eingehalten werden, von der für die Überwachung dieser Vorschriften zuständigen Stelle der jeweiligen ETH, der jeweiligen Forschungsanstalt oder des ETH-Rates ausgewertet werden."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Aufbewahrungsfristen, Archivierung und Vernichtung",
+      "section": "10",
+      "title": "",
+      "content": "1 Für die Aufbewahrung der Daten gelten folgende Fristen: a. für Daten über Sozialmassnahmen sowie administrative, betreibungs- und strafrechtliche Massnahmen: fünf Jahre nach Abschluss der Massnahme; b. für Leistungsbeurteilungen und die Ergebnisse von Persönlichkeits- oder Abklärungstests zur Potenzialerfassung: fünf Jahre nach der Beurteilung oder dem Test; c. für alle übrigen Daten des Personaldossiers und des Personalinformationssystems: zehn Jahre nach Beendigung des Arbeitsverhältnisses oder nach dem Ableben einer Mitarbeiterin oder eines Mitarbeiters. 2 Nach Ablauf der Aufbewahrungsfrist werden die nach dem Archivierungsgesetz vom 26. Juni 1998 und der Archivierungsverordnung vom 8. September 1999 archivwürdigen Daten dem zuständigen Archiv angeboten, die übrigen Daten werden unter Vorbehalt von Artikel 38 Absatz 2 des Datenschutzgesetzes vom 25. September 2022 vernichtet. 3 Die in Papierform eingereichten Bewerbungsdossiers von nicht berücksichtigten Stellenbewerberinnen und Stellenbewerbern werden mit Ausnahme des Bewerbungsschreibens innerhalb von drei Monaten nach Stellenbesetzung zurückgesandt. Die übrigen Daten werden innerhalb von drei Monaten vernichtet. Vorbehalten bleiben besondere Vereinbarungen mit den Stellenbewerberinnen und Stellenbewerbern. Die Daten können länger aufbewahrt werden, wenn sie für die Behandlung von Beschwerden nach Artikel 13 Absatz 2 des Gleichstellungsgesetzes vom 24. März 1995 benötigt werden. 4 Dossiers und Daten für Bewerbungen auf eine Professur und sämtliche während der Tätigkeit als Professorin, Professor, Titularprofessorin oder Titularprofessor erhobenen Daten werden aufbewahrt und nach dem Tod der Person dem Archiv der zuständigen ETH angeboten. SR 152.1 SR 152.11 SR 235.1 SR 151.1"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten",
+      "section": "11",
+      "title": "Interne Veröffentlichung von Personendaten",
+      "content": "Die Veröffentlichung von Daten aus der Privatsphäre des Personals im Intranet, in einem internen Publikationsorgan oder am Anschlagbrett ist nur mit schriftlicher Einwilligung der betroffenen Person zulässig. Die Einwilligung kann per E-Mail erfolgen."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten",
+      "section": "12",
+      "title": "Adressverzeichnisse",
+      "content": "Die beiden ETH, die Forschungsanstalten und der ETH-Rat können Funktion und dienstliche Kontaktangaben des Personals in öffentlich zugänglichen Adressverzeichnissen publizieren; dies kann in Papierform oder in elektronischer Form geschehen. Die Veröffentlichung von Fotos ist nur mit schriftlicher Einwilligung der betroffenen Person zulässig. Die Einwilligung kann per E-Mail erfolgen."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten",
+      "section": "13",
+      "title": "Weitergabe von Daten an Dritte",
+      "content": "1 Stellen Dritte, insbesondere neue Arbeitgeber, Bank- und Kreditinstitute und Vermieterinnen und Vermieter ein Auskunftsbegehren, so dürfen Daten nur mit schriftlicher Einwilligung der betroffenen Person oder gestützt auf eine gesetzliche Grundlage weitergegeben werden. Wer Daten weitergibt, muss überprüfen, ob eine entsprechende Einwilligung oder eine gesetzliche Grundlage vorliegt. 2 Die Einwilligung der betroffenen Person gilt als gegeben, wenn sie eine andere Mitarbeiterin oder einen anderen Mitarbeiter als Referenzperson für die Auskunftserteilung bezeichnet hat. 3 Die Datenweitergabe beschränkt sich auf die für den Zweck der Anfrage notwendigen Informationen. 4 Die Bestimmungen dieses Artikels gelten auch für Personal, das innerhalb des ETH-Bereichs die Stelle wechselt. 5 Artikel 37 bleibt vorbehalten."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten",
+      "section": "14",
+      "title": "Datenbekanntgabe für die Nutzung von Informatikdienstleistungen in externen Rechnernetzen (Cloud-Dienste)",
+      "content": "Die beiden ETH, die Forschungsanstalten und der ETH-Rat können Anbietern von Informatikdiensten, die ihre Dienste in externen Rechnernetzen anbieten, die für die Nutzung dieser Dienste erforderlichen Daten bekannt geben, insbesondere den Namen und die dienstliche E-Mail-Adresse."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten",
+      "section": "15",
+      "title": "Berufungs- und Evaluationsverfahren für Professorinnen und Professoren",
+      "content": "Die Unterlagen aus Berufungs- und Evaluationsverfahren für Professorinnen und Professoren, insbesondere Peer-Reviews und Referenzschreiben, sind vertraulich."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "16",
+      "title": "Form der Bewerbung",
+      "content": "1 Die beiden ETH, die Forschungsanstalten und der ETH-Rat bestimmen, in welcher Form Bewerbungsdossiers eingereicht werden können. 2 Sie können in Papierform eingereichte Bewerbungsdossiers einlesen. 3 Als Bewerbungsdossier im Sinn dieser Verordnung gelten auch die Akten über das Berufungs- und Evaluationsverfahren und die Ernennung von Professorinnen und Professoren. 4 Die beiden ETH, die Forschungsanstalten und der ETH-Rat können anstelle des Bewerbungsgespräches vor Ort Aufnahmen von Gesprächen, die über Videotelefonie geführt wurden oder von zeitversetzten Videointerviews nutzen. Diese sind Teil des Bewerbungsdossiers und werden nach Abschluss des Bewerbungsverfahrens vernichtet."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "17",
+      "title": "Inhalt",
+      "content": "1 Das Bewerbungsdossier kann besonders schützenswerte Personendaten, insbesondere im Lebenslauf, enthalten. 2 Es kann insbesondere die in Anhang 1 aufgeführten Daten enthalten."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "18",
+      "title": "Datenbearbeitung",
+      "content": "1 Die Personalabteilungen, die Fachstellen Professuren und die für die Selektion verantwortlichen Personen bearbeiten die Daten der Dossiers der Stellenbewerberinnen und -bewerber, soweit es für die Erfüllung ihrer Aufgaben erforderlich ist. 2 Am Ende des Bewerbungsverfahrens werden die Daten der Stellenbewerberinnen und Stellenbewerber, die angestellt werden, in das Personaldossier (Art. 25–32) und in das Informationssystem für das Personaldatenmanagement (Art. 33–37) übertragen. 3 Die Datenbearbeitung von nicht berücksichtigten Stellenbewerberinnen und Stellenbewerbern richtet sich nach Artikel 10 Absätze 3 und 4."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "19",
+      "title": "Persönlichkeitstests, Referenzauskünfte",
+      "content": "1 Für folgende Abklärungen ist das ausdrückliche Einverständnis der Stellenbewerberinnen und Stellenbewerber erforderlich: a. die Durchführung von Persönlichkeitstests, einschliesslich Schriftanalysen; b. das Einholen von Referenzen. 2 Die Stellenbewerberinnen und Stellenbewerber müssen vor der Durchführung von Persönlichkeitstests informiert werden über: a. den Zweck der Tests; b. die Verwendung der Testergebnisse; c. den Personenkreis, der über die Testergebnisse informiert wird."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "2. Abschnitt: Informationssysteme für Bewerbungen",
+      "section": "20",
+      "title": "Zweck",
+      "content": "Die beiden ETH, die Forschungsanstalten und der ETH-Rat betreiben je ein Informationssystem für Bewerbungen, das dazu dient, Stellen auszuschreiben und den Bewerbungsprozess zu vereinfachen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "2. Abschnitt: Informationssysteme für Bewerbungen",
+      "section": "21",
+      "title": "Struktur",
+      "content": "1 Die Informationssysteme bestehen aus den Komponenten Stellenausschreibung und Bewerbungsmanagement. 2 Mit der Komponente Stellenausschreibung werden die Stelleninserate erstellt und publiziert. 3 In der Komponente Bewerbungsmanagement werden die auszuschreibenden Stellen mit den notwendigen Informationen erfasst und die Daten der Stellenbewerberinnen und Stellenbewerber bearbeitet."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2. Abschnitt: Informationssysteme für Bewerbungen",
+      "section": "22",
+      "title": "Zugriffsrechte",
+      "content": "1 Die nach Artikel 5 Absatz 3 verantwortlichen Stellen erteilen auf Antrag den Personalabteilungen und den Fachstellen Professuren unbefristete Zugriffsrechte. 2 Die Personalabteilungen und Fachstellen Professuren können im Einzelfall weiteren für die Auswahl verantwortlichen Personen die Zugriffsrechte erteilen, soweit und solange es für die Erfüllung von deren Aufgaben notwendig ist."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Abschnitt: Informationssysteme für Bewerbungen",
+      "section": "23",
+      "title": "Auskunfts-, Berechtigungs- und Löschungsrecht",
+      "content": "Bei einer elektronischen Bewerbung kann die Wahrnehmung des Auskunfts-, Berichtigungs- und Löschungsrecht durch Erteilen eines entsprechenden Zugriffrechts an die Stellenbewerberin oder den Stellenbewerber erfolgen."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "2. Abschnitt: Informationssysteme für Bewerbungen",
+      "section": "24",
+      "title": "Nutzung externer Informatiksysteme für Bewerbungen (Plattformen)",
+      "content": "Die beiden ETH, die Forschungsanstalten und der ETH-Rat können Informatiksysteme externer Anbieter für Stellenausschreibungen und Bewerbungen nutzen. Sie sorgen dafür, dass die Bestimmungen über die Bearbeitung durch Auftragsbearbeiter eingehalten werden."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "25",
+      "title": "Inhalt",
+      "content": "1 Das Personaldossier kann folgende Kategorien von Personendaten, einschliesslich besonders schützenswerter Personendaten, enthalten: a. Angaben zur Person, ihrer Nationalität, ihrer Familie und ihren Angehörigen; b. Informationen aus den Bewerbungsunterlagen und im Rahmen des Bewerbungsverfahrens erhobene Daten einschliesslich der Ergebnisse eines Persönlichkeitstests nach Artikel 19; c. Daten über die Gesundheit in Bezug auf das Arbeitsverhältnis, insbesondere Arztzeugnisse, Absenzen infolge von Krankheit und Unfall, Berichte der Vertrauensärztin oder des Vertrauensarztes, Eignungsbeurteilungen und Daten des Case-Management; d. Angaben zu Leistungen, Kompetenzen und Potenzial; e. Arbeitszeugnisse; f. rechtskräftige Entscheide von Behörden, Beschwerde- oder Gerichtsinstanzen, insbesondere Lohnpfändungen, Verfügungen der Fachstelle für Personensicherheitsprüfungen, Auszüge aus Gerichtsurteilen zwecks Festlegung der Anspruchsberechtigung für Familienzulagen, Akten betreffend Streitigkeiten aus dem Arbeitsverhältnis und Akten betreffend Disziplinaruntersuchungen; g. Meldungen an die Ausgleichskassen der Alters- und Hinterlassenenversicherung (AHV), der Invalidenversicherung (IV), der Erwerbsersatzordnung (EO) und der Arbeitslosenversicherung, die Familienausgleichskassen, die Schweizerische Unfallversicherungsanstalt (Suva) oder eine andere Unfallversicherung, die Pensionskasse des Bundes (Publica) und die Militärversicherung (Sozialversicherungen) sowie Mitteilungen oder Entscheide dieser Versicherungen und allfälliger ausländischer Versicherungen. 2 Das Personaldossier kann insbesondere die in Anhang 2 aufgeführten Daten in elektronischer Form oder auf Papier enthalten."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "26",
+      "title": "Datenbearbeitung",
+      "content": "Die Personalabteilungen, die Fachstellen Professuren, von ihnen beigezogene interne Fachspezialistinnen und Fachspezialisten, beauftragte Dritte, die verantwortlichen Vorgesetzten und die Rechtsdienste bearbeiten die Daten der Personaldossiers, soweit es für die Erfüllung ihrer Aufgaben notwendig ist."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "27",
+      "title": "Verbleib des Personaldossiers bei Übertritt innerhalb des ETH-Bereichs",
+      "content": "1 Tritt eine angestellte Person in eine andere ETH, eine andere Forschungsanstalt oder in den Stab des ETH-Rats über, so wird das Personaldossier nicht dem neuen Arbeitgeber übergeben. Jede Abweichung ist mit der angestellten Person zu vereinbaren."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "28",
+      "title": "Aufbewahrung, Archivierung und Vernichtung",
+      "content": "Die Aufbewahrung, die Archivierung und die Vernichtung der Daten des Personaldossiers richten sich nach Artikel 10 dieser Verordnung."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "2. Abschnitt: Informationssystem für die Personaldossiers",
+      "section": "29",
+      "title": "Zweck",
+      "content": "Die beiden ETH, die Forschungsanstalten und der Stab des ETH-Rats betreiben je ein Informationssystem für die Personaldossiers, das der elektronischen Verwaltung, der Bewirtschaftung und der Ablage von Personendaten des Personals dient."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "2. Abschnitt: Informationssystem für die Personaldossiers",
+      "section": "30",
+      "title": "Daten aus dem Informationssystem für das Personaldatenmanagement",
+      "content": "Nicht besonders schützenswerte Daten können aus dem jeweiligen Informationssystem für das Personaldatenmanagement (IPDM) übernommen werden."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "2. Abschnitt: Informationssystem für die Personaldossiers",
+      "section": "31",
+      "title": "Zugriffsrechte",
+      "content": "1 Die Personalabteilungen und die Fachstellen Professuren haben Zugriff auf die Daten im jeweiligen Informationssystem für die Personaldossiers, soweit es für die Erfüllung ihrer Aufgaben erforderlich ist. 2 Sie können den Vorgesetzten, dem jeweiligen Rechtsdienst sowie internen Fachspezialistinnen und Fachspezialisten ein Zugriffsrecht erteilen."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "2. Abschnitt: Informationssystem für die Personaldossiers",
+      "section": "32",
+      "title": "Auskunftsrecht",
+      "content": "Die Personalabteilungen können dem Personal, das Einsicht in sein Personaldossier verlangt, einen zeitlich beschränkten Zugriff auf seine Daten gewähren."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "4. Kapitel: Informationssystem für das Personaldatenmanagement",
+      "section": "33",
+      "title": "Zweck",
+      "content": "Die beiden ETH, die Forschungsanstalten und der ETH-Rat betreiben je ein IPDM, das der Erfüllung folgender Aufgaben dient: a. der zentralen Verwaltung der Personendaten über die Mitarbeiterinnen und Mitarbeiter und der Bewirtschaftung dieser Daten; b. der Bearbeitung der Lohndaten und der Durchführung von Evaluationen, Budgetsimulationen und Personalkostenplanungen; c. der Verwaltung der für die Kaderförderung und die Managemententwicklung relevanten Daten."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "4. Kapitel: Informationssystem für das Personaldatenmanagement",
+      "section": "34",
+      "title": "Inhalt",
+      "content": "1 Das IPDM kann folgende Kategorien von Personendaten, einschliesslich besonders schützenswerter Personendaten, enthalten: a. Angaben zur Person, ihrer Familie und ihren Angehörigen, insbesondere Personalien, Mitgliedschaften bei Arbeitnehmerorganisationen für das Inkasso des Mitgliederbeitrags, bewilligungspflichtige Nebenbeschäftigungen und öffentliche Ämter; b. Daten über die Gesundheit in Bezug auf das Arbeitsverhältnis, insbesondere Absenzen infolge von Krankheit und Unfall; c. Angaben zu Leistungen, Kompetenzen und Potenzial, insbesondere zur Beurteilungsstufe und zu den Sprachkompetenzen sowie zu Ausbildungsfortschritten; d. Angaben aus Entscheiden von Behörden und Gerichten, insbesondere Lohnpfändungen, Familienzulagen, Lohnforderungen und Abgangsentschädigungen; e. Angaben aus Entscheiden der Sozialversicherungen, insbesondere Abrechnungen und Angaben zu einer verminderten Erwerbsfähigkeit. 2 Die beiden ETH, die Forschungsanstalten und der ETH-Rat führen die in ihrem IPDM enthaltenen Daten im Bearbeitungsreglement auf."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "4. Kapitel: Informationssystem für das Personaldatenmanagement",
+      "section": "35",
+      "title": "Struktur",
+      "content": "Das IPDM kann aus folgenden Komponenten bestehen: a. Organisationsmanagement für die Abbildung der organisatorischen und der funktionellen Personalstruktur; b. Personaldatenverwaltung für die Verwaltung der Personendaten des Personals; c. Personalabrechnung für die Abrechnung und die Überweisung der Löhne des Personals; d. Personalzeitwirtschaft für die Verwaltung der Zeitdaten; e. Personalkostenmanagement für die Planung und das Controlling der Personalkosten; f. Personalentwicklung für die Laufbahnplanung und die Entwicklungsplanung des Personals, einschliesslich der Ausbildung und Betreuung von Lernenden; g. Reisemanagement für die Erfassung und die Abrechnung von Reisen, einschliesslich Reisekosten und Spesen; h. Arbeitszeugnis; i Absenzenverwaltung."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "4. Kapitel: Informationssystem für das Personaldatenmanagement",
+      "section": "36",
+      "title": "Zugriffsrechte und Datenbearbeitung",
+      "content": "1 Die Personal- und Finanzabteilungen und die für den Support verantwortlichen Stellen haben Zugriff auf das IPDM und bearbeiten die Daten, soweit es für die Erfüllung ihrer Aufgaben erforderlich ist. 2 Die Mitarbeiterinnen und Mitarbeiter können ihre eigenen Daten im IPDM, insbesondere die Personalien, Zeitdaten, Spesen und Bankverbindungen, bearbeiten, soweit ihnen ein Zugriffsrecht zusteht. 3 Die Vorgesetzten können die Daten ihrer Mitarbeiterinnen und Mitarbeiter, insbesondere die Zeitdaten, Spesen und Kompetenzen, einsehen und genehmigen, soweit ihnen ein Zugriffsrecht zusteht. 4 Revisorinnen und Revisoren, die die Mittelverwendung, beispielsweise von dritt-finanzierten Forschungsprojekten überprüfen, kann Zugriff zu den Daten gewährt werden, in die sie für die Erfüllung ihrer Aufgaben Einsicht benötigen. 5 Das Bearbeitungsreglement für das Informationssystem legt die Zugriffsrechte und den Umfang der Datenbearbeitung der Benutzerinnen und Benutzer im Einzelnen fest."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Datenbekanntgabe",
+      "content": "1 Daten aus dem IPDM können anderen Informationssystemen bekanntgegeben werden, sofern: a. für das andere Informationssystem eine gesetzliche Grundlage für die Bekanntgabe der Daten und eine formell-gesetzliche Grundlage für die Bekanntgabe der besonders schützenswerten Personendaten besteht; b. das Informationssystem beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten angemeldet ist; c. für das Informationssystem ein Bearbeitungsreglement besteht; und d. keine erhöhten Sicherheitsanforderungen an die Daten des Personals vorliegen. 2 Die Personalabteilungen können der Publica Auskunft über Daten aus dem IPDM erteilen, die zur Erfüllung ihrer Aufgaben notwendig sind."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "5. Kapitel: Informationssystem für das Personalcontrolling",
+      "section": "38",
+      "title": "Zweck",
+      "content": "Die beiden ETH, die Forschungsanstalten sowie der ETH-Rat betreiben je ein Informationssystem, das dem Personalcontrolling dient."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "5. Kapitel: Informationssystem für das Personalcontrolling",
+      "section": "39",
+      "title": "Inhalt",
+      "content": "1 Das Informationssystem für das Personalcontrolling enthält folgende Kategorien besonders schützenswerter Personendaten: a. Daten über die Gesundheit in Bezug auf das Arbeitsverhältnis, insbesondere Absenzen infolge von Krankheit und Unfall; b. Angaben zu Leistungen und Kompetenzen. 2 Die Daten für das Informationssystem für das Personalcontrolling werden aus dem IPDM übernommen. 3 Die im Informationssystem für das Personalcontrolling enthaltenen Daten werden im jeweiligen Bearbeitungsreglement aufgeführt."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "5. Kapitel: Informationssystem für das Personalcontrolling",
+      "section": "40",
+      "title": "Struktur",
+      "content": "Das Informationssystem für das Personalcontrolling besteht insbesondere aus folgenden Komponenten: a. Organisationsmanagement; b. Personaldatenverwaltung; c. Personalabrechnung; d. Personalzeitwirtschaft; e. Personalkostenmanagement; f. Personalentwicklung; g. Reisekostenabrechnung."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "5. Kapitel: Informationssystem für das Personalcontrolling",
+      "section": "41",
+      "title": "Zugriffsrechte und Datenbearbeitung",
+      "content": "1 Die Personal- und Finanzabteilungen sowie die für den Support verantwortlichen Stellen haben Zugriff auf das Informationssystem für das Personalcontrolling und bearbeiten die Daten, soweit es für die Erfüllung ihrer Aufgaben notwendig ist. 2 Der Umfang der Bearbeitungsrechte wird im Bearbeitungsreglement festgelegt (Art. 4 Abs. 2)."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "5. Kapitel: Informationssystem für das Personalcontrolling",
+      "section": "42",
+      "title": "Datenbekanntgabe",
+      "content": "Daten, einschliesslich besonders schützenswerter Personendaten, aus dem Informationssystem für das Personalcontrolling können anderen Informationssystemen bekanntgegeben werden, sofern: a. für das andere Informationssystem eine gesetzliche Grundlage für die Bekanntgabe der Daten und eine formell-gesetzliche Grundlage für die Bekanntgabe der besonders schützenswerten Personendaten besteht; b. das Informationssystem beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten angemeldet ist; c. für das Informationssystem ein Bearbeitungsreglement besteht; und d. keine erhöhten Sicherheitsanforderungen an die Daten des Personals vorliegen."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "6. Kapitel: Informationssystem für die Aus- und Weiterbildung",
+      "section": "43",
+      "title": "Zweck",
+      "content": "1 Die Forschungsanstalten, die beiden ETH und der ETH-Rat betreiben je ein Informationssystem für die Aus- und der Weiterbildung ihres Personals, das der Erfüllung folgender Aufgaben dient: a. Erfassung und Publikation der Ausbildungsvorhaben; b. Planung und Durchführung der Ausbildungen; c Steuerung der Ausbildungsprozesse; d. Ausbildungsüberprüfung; e. Kompetenzmanagement; f. Ablage von digitalen Kursunterlagen, wie Dokumenten, Lernprogrammen, Lernvideos und Online-Tests; g. Kommunikation zwischen der Kursleitung und den Kursteilnehmerinnen und Kursteilnehmern; h. Durchführung von Online-Befragungen für Evaluationen. 2 Die beiden ETH und die Forschungsanstalten können dieses Informationssystem auf Aus- und Weiterbildungen ausserhalb des eigenen Lehr- und Forschungsbetriebes beschränken."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "6. Kapitel: Informationssystem für die Aus- und Weiterbildung",
+      "section": "44",
+      "title": "Inhalt",
+      "content": "Das Informationssystem für die Aus- und Weiterbildung enthält insbesondere Angaben zur Person und zu ihrer Funktion sowie zu ihrer Rolle in den Ausbildungsvorhaben, zu den besuchten Kursen und zu den erlangten Fähigkeiten."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "6. Kapitel: Informationssystem für die Aus- und Weiterbildung",
+      "section": "45",
+      "title": "Zugriffsrechte und Datenbearbeitung",
+      "content": "Die Kursteilnehmerinnen und Kursteilnehmer, die für die Ausbildung und die Führung verantwortlichen Personen, die Kursverantwortlichen, die Kursadministratorinnen und Kursadministratoren, die für den Support verantwortlichen Personen sowie die Kursleiterinnen und Kursleiter haben Zugriff auf das Informationssystem für die Aus- und die Weiterbildung und bearbeiten die Daten, soweit es für die Erfüllung ihrer Aufgaben notwendig ist."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "6. Kapitel: Informationssystem für die Aus- und Weiterbildung",
+      "section": "46",
+      "title": "Datenbeschaffung",
+      "content": "Die zuständigen Stellen beschaffen die Daten für das Informationssystem für die Aus- und Weiterbildung bei den Kursteilnehmerinnen und Kursteilnehmern und aus dem IPDM."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "7. Kapitel: Informationssystem für die Personalberatung und das Case-Management und das Case-Management",
+      "section": "47",
+      "title": "",
+      "content": "1 Die beiden ETH, die Forschungsanstalten und der ETH-Rat können je ein Informationssystem für die Personalberatung und das Case-Management betreiben, das der elektronischen Verwaltung, Bewirtschaftung und Ablage von Daten der Personen, die an die Personalberatung gelangen oder die Leistungen des Case-Managements beziehen, dient. 2 Das Beratungs- oder Case-Management-Dossier kann besonders schützenswerte Personendaten enthalten, insbesondere zur persönlichen Situation von Mitarbeiterinnen und Mitarbeitern, die sich auf das Arbeitsverhältnis auswirken kann. 3 Die beiden ETH, die Forschungsanstalten und der ETH-Rat können in Papierform oder in elektronischer Form eingereichte Fallakten externer Case-Manager einlesen."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "8. Kapitel: Gesundheitsdaten",
+      "section": "48",
+      "title": "",
+      "content": "1 Den Personalabteilungen werden nur die Schlussfolgerungen der ärztlichen Berichte und Untersuchungen mitgeteilt. Der Inhalt der medizinischen Akten wird der zuständigen Personalabteilung oder Dritten nur dann zur Verfügung gestellt, wenn die Betroffenen ihre schriftliche Einwilligung erteilt haben. Liegt keine Einwilligung vor, so können nach Artikel 28 Absatz 3 BPG die Rechtsdienste der beiden ETH, der Forschungsanstalt oder des ETH-Rats oder, sofern diese über keinen Rechtsdienst verfügen, der Datenschutzberaterin oder der Datenschutzberater die Ermächtigung zur Weitergabe von Gesundheitsdaten erteilen. 2 Die medizinischen Akten, insbesondere die Untersuchungsbefunde und -ergebnisse sowie die vertrauensärztlichen Beurteilungen, die für die Eignungsbeurteilung der Mitarbeiterinnen und Mitarbeiter bei der Anstellung und während des Arbeitsverhältnisses oder die im Zusammenhang mit der Lohnfortzahlungspflicht erforderlich sind, werden bei der Vertrauensärztin oder beim Vertrauensarzt nach Artikel 47 PVO-ETH aufbewahrt. SR 172.220.113"
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "49",
+      "title": "Änderung anderer Erlasse",
+      "content": "Die nachstehenden Erlasse werden wie folgt geändert: … Die Änderungen können unter AS 2023 124 konsultiert werden."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "50",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. September 2023 in Kraft."
+    }
+  ],
+  "definitions": []
+}

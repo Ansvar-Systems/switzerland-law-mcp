@@ -1,0 +1,167 @@
+{
+  "id": "sr-351-12",
+  "type": "statute",
+  "title": "Verordnung vom 23. September 2016 über das elektronische Personen-, Akten- und Geschäftsverwaltungssystem des Bundesamtes für Justiz (ELPAG-Verordnung)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/555/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand und Verhältnis zur GEVER-Verordnung",
+      "content": "1 Diese Verordnung regelt für die Bearbeitung von Personendaten in dem vom Bundesamt für Justiz (BJ) betriebenen Personen-, Akten- und Geschäftsverwaltungssystem: a. Anwendungsbereiche und Inhalt; b. Erfassung der Daten in den verschiedenen Anwendungsbereichen; c. Bezeichnung der Dienststellen, die Daten direkt im System bearbeiten dürfen; d. Zugriffsrechte; e. Aufbewahrung, Archivierung und Vernichtung. 2 Wo diese Verordnung keine abweichenden Bestimmungen enthält, ist die GEVER-Verordnung vom 30. November 2012 anwendbar. [ AS 2012 6669 ; 723 . AS 2019 1311 Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ( SR 172.010.441 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Verantwortliche Behörde",
+      "content": "Das BJ ist die für die Beschaffung, den Betrieb, den Unterhalt und die Weiterentwicklung des Systems verantwortliche Behörde."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Anwendungsbereiche",
+      "content": "Das System enthält Daten der folgenden Anwendungsbereiche: a. Daten im Zusammenhang mit den Aufgaben des BJ im Bereich der internationalen Rechtshilfe in Strafsachen, namentlich auf dem Gebiet der Auslieferung, der anderen Rechtshilfe, der stellvertretenden Strafverfolgung und ‑vollstreckung sowie der Überstellung von verurteilten Personen; b. Daten im Zusammenhang mit den Aufgaben des BJ im Bereich des internationalen Privat- und Zivilprozessrechts, namentlich auf dem Gebiet der internationalen Kindsentführungen, der internationalen Adoptionen, des internationalen Kindes- und Erwachsenenschutzes, der internationalen Alimentensachen, der internationalen Erbschaftssachen und der internationalen Rechtshilfe in Zivil- und Handelssachen; c. Daten im Zusammenhang mit den Aufgaben des BJ im Bereich der internationalen Amtshilfe; d. Daten im Zusammenhang mit den Aufgaben des BJ im Bereich des öffentlichen Rechts auf dem Gebiet der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981."
+    },
+    {
+      "provision_ref": "art3a",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3a",
+      "title": "a Spenderdatenregister",
+      "content": "1 Zusätzlich zu den in Artikel 3 genannten Anwendungsbereichen wird im System auch das Spenderdatenregister nach dem 2. Kapitel 1. Abschnitt der Fortpflanzungsmedizinverordnung vom 4. Dezember 2000 mit den Daten zur Aufbewahrung der Samenspenderdaten geführt. 2 Das Spenderdatenregister untersteht der Gesetzgebung über die Fortpflanzungsmedizin, insbesondere betreffend die Zugriffs- und Bearbeitungsrechte, die Aufbewahrung der Daten und die Auskunftserteilung. Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 648 ). SR 810.112.2"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Zweck des Systems",
+      "content": "1 Für die im Anwendungsbereich gemäss Artikel 3 Buchstabe a erfassten Daten richten sich die Bearbeitungszwecke nach Artikel 11 a Absatz 1 IRSG. 2 Die in den Anwendungsbereichen gemäss Artikel 3 Buchstaben b–d erfassten Daten dürfen zu denselben Zwecken bearbeitet werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Bearbeitete Daten und Trägerwandel",
+      "section": "5",
+      "title": "Bearbeitete Daten",
+      "content": "Das System enthält: a. die Dokumente zu den Dossiers und Einträgen; b. die Personalien von Personen, über die Daten bearbeitet werden, insbesondere: 1. Vornamen und Nachnamen, 2. Aliasnamen, 3. Geschlecht, 4. Geburtsdatum, 5. Staatsangehörigkeit, 6. Heimatort, 7. Geburtsort, 8. Wohnadresse; c. Daten, die für die ordnungsgemässe Bearbeitung und Verwaltung der Dossiers erforderlich sind, insbesondere: 1. Art des Verfahrens, 2. Datum einzelner Verfahrensschritte, 3. Namen und Adressen von beteiligten Behörden und Parteien, 4. Angaben zum Standort des vor dem 1. November 2016 erstellten Dossiers, 5. Delikte, 6. fortlaufende vom System vergebene Dossiernummern."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Bearbeitete Daten und Trägerwandel",
+      "section": "6",
+      "title": "Trägerwandel",
+      "content": "Das BJ kann den Trägerwandel im Bearbeitungsreglement (Art. 7 der GEVER-Verordnung vom 30. Nov. 2012) abweichend von den Bestimmungen der Bundeskanzlei nach Artikel 10 Absatz 1 der GEVER-Verordnung regeln. [ AS 2012 6669 ; 723 . AS 2019 1311 Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ( SR 172.010.441 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "3. Abschnitt: Zugriffs- und Bearbeitungsrechte von Dienststellen des BJ",
+      "section": "7",
+      "title": "Zugriffsrechte",
+      "content": "1 Die oder der Informationsbeauftragte des BJ hat für die Wahrnehmung ihrer oder seiner Aufgaben Zugriff auf die im Anwendungsbereich gemäss Artikel 3 Buchstabe a erfassten Daten. 2 Die Mitarbeiterinnen und Mitarbeiter des BJ, die im Rahmen der ihnen übertragenen Aufgaben Daten im System bearbeiten, haben, soweit es zur Erfüllung ihrer gesetzlichen Aufgaben unerlässlich ist, Zugriff auf die Personalien aller im System erfassten Personen."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Zugriffs- und Bearbeitungsrechte von Dienststellen des BJ",
+      "section": "8",
+      "title": "Bearbeitungsrechte",
+      "content": "1 Die Mitarbeiterinnen und Mitarbeiter des Direktionsbereichs Internationale Rechtshilfe dürfen die Daten direkt im System bearbeiten, soweit sie mit entsprechenden Aufgaben betraut sind. Ausgenommen davon sind Daten aus dem Anwendungsbereich der internationalen Alimentensachen, der internationalen Kindsentführungen, der internationalen Adoptionen, des internationalen Kindes- und Erwachsenenschutzes und der internationalen Erbschaftssachen. 2 Die Mitarbeiterinnen und Mitarbeiter des Fachbereichs Internationales Privatrecht dürfen die für die Anwendungsbereiche gemäss Artikel 3 Buchstabe b erfassten Daten direkt im System bearbeiten, soweit sie mit entsprechenden Aufgaben betraut sind. 3 Die Mitarbeiterinnen und Mitarbeiter des Fachbereichs fürsorgerische Zwangsmassnahmen und Fremdplatzierungen vor 1981 dürfen die für den Anwendungsbereich gemäss Artikel 3 Buchstabe d erfassten Daten direkt im System bearbeiten, soweit sie mit entsprechenden Aufgaben betraut sind. 4 Die Mitarbeiterinnen und Mitarbeiter der Dossier- und Schriftgutverwaltung sowie der Systemadministration dürfen die für alle Anwendungsbereiche gemäss Artikel 3 erfassten Daten zur Erfassung und Verwaltung der Daten sowie zur technischen Überwachung und zur Behebung von technischen Problemen direkt im System bearbeiten. 5 Das BJ kann weitere Mitarbeiterinnen und Mitarbeiter dazu berechtigen, Daten direkt im System zu bearbeiten, soweit sie mit Aufgaben aus einem der Anwendungsbereiche gemäss Artikel 3 betraut werden."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "4. Abschnitt: Zugriffsrechte des Staatssekretariats für Migration, des Bundesamtes für Polizei und des Nachrichtendienstes des Bundes",
+      "section": "9",
+      "title": "Staatssekretariat für Migration",
+      "content": "Die folgenden Organisationseinheiten des Staatssekretariats für Migration haben mittels Abrufverfahren Zugriff auf die Personalien derjenigen Personen, über die das BJ im Anwendungsbereich der internationalen Rechtshilfe in Strafsachen Daten bearbeitet: a. Direktionsbereich Zuwanderung und Integration: Abteilung Bürgerrecht, Sektionen Einbürgerungen Deutsche Schweiz 1, Einbürgerungen Deutsche Schweiz 2 und Einbürgerungen Westschweiz und Tessin; Abteilung Einreise, Sektion Identifikation und Visumkonsultation; b. Direktionsbereich Planung und Ressourcen: Sektion Dokumentenmanagement, Dienst Datenmanagement Zuwanderung und Integration, Dienst Datenmanagement Asyl und Rückkehr; c. Direktionsbereich Asyl."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "4. Abschnitt: Zugriffsrechte des Staatssekretariats für Migration, des Bundesamtes für Polizei und des Nachrichtendienstes des Bundes",
+      "section": "10",
+      "title": "Bundesamt für Polizei",
+      "content": "1 Die folgenden Organisationseinheiten des Bundesamtes für Polizei haben mittels Abrufverfahren Zugriff auf die Personalien derjenigen Personen, über die das BJ im Anwendungsbereich der internationalen Rechtshilfe in Strafsachen Daten bearbeitet: a. Direktionsbereich Bundeskriminalpolizei; b. Direktionsbereich Bundessicherheitsdienst: Abteilung Schutz Personen des Bundes und ausländische Vertretungen sowie Abteilung Schutz internationale Besuche und Konferenzen; c. Direktionsbereich Internationale Polizeikooperation: Abteilung Polizeiattachés, Abteilung Operative Polizeikooperation sowie Abteilung Einsatzzentrale fedpol / SIRENE Schweiz; d. Direktionsbereich Dienste: Fachbereich RIPOL Personenfahndung; e. Direktionsbereich Stab: Abteilung Recht und Datenschutz sowie Abteilung Meldestelle für Geldwäscherei MROS. 2 Die Abteilung Einsatzzentrale fedpol / SIRENE Schweiz des Direktionsbereichs Internationale Polizeikooperation hat, wenn sie Aufgaben des BJ im Sinne von Artikel 11 a Absatz 3 IRSG wahrnimmt, mittels Abrufverfahren auch Zugriff auf die Daten des Anwendungsbereichs der internationalen Rechtshilfe in Strafsachen, die für die Lokalisierung der vor dem 1. November 2016 erstellten Dossiers erforderlich sind."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Zugriffsrechte des Staatssekretariats für Migration, des Bundesamtes für Polizei und des Nachrichtendienstes des Bundes",
+      "section": "11",
+      "title": "Nachrichtendienst des Bundes",
+      "content": "Die für den Vollzug des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit zuständigen Einheiten des Nachrichtendienstes des Bundes haben mittels Abrufverfahren Zugriff auf die Personalien derjenigen Personen, über die das BJ im Anwendungsbereich der internationalen Rechtshilfe in Strafsachen Daten bearbeitet. SR 120"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "5. Abschnitt: Bekanntgabe von Daten an weitere Behörden",
+      "section": "12",
+      "title": "",
+      "content": "1 Das BJ kann auf schriftliches und begründetes Gesuch im Einzelfall Behörden des Bundes oder der Kantone Daten aus dem System bekanntgeben, wenn für die empfangende Behörde die Daten für die Erfüllung ihrer gesetzlichen Aufgaben unentbehrlich sind. 2 In dringenden Fällen können die Anfrage und die Auskunftserteilung telefonisch oder auf elektronische Weise erfolgen. 3 Jede Form von Bekanntgabe ist im System festzuhalten."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "6. Abschnitt: Richtigkeit der Daten, Informatiksicherheit, Aufbewahrungsdauer, Archivierung und Statistik",
+      "section": "13",
+      "title": "Richtigkeit der Daten",
+      "content": "1 Jede Organisationseinheit des BJ kontrolliert regelmässig die in ihrem Bereich erfassten Daten auf ihre Richtigkeit. 2 Falsche Daten sind von Amtes wegen zu berichtigen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "6. Abschnitt: Richtigkeit der Daten, Informatiksicherheit, Aufbewahrungsdauer, Archivierung und Statistik",
+      "section": "14",
+      "title": "Informatiksicherheit",
+      "content": "1 Die Datensicherheit richtet sich nach: a. der Datenschutzverordnung vom 31. August 2022; b. der Cyberrisikenverordnung vom 27. Mai 2020; c. … 2 Dokumente im System werden abweichend von Artikel 12 Absatz 2 der GEVER-Verordnung vom 30. November 2012 nicht verschlüsselt; sie werden jedoch durch technische Vorkehrungen vor unbefugtem Zugriff geschützt. Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 ). SR 235.11 Fassung gemäss Anhang Ziff. 16 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ( AS 2021 132 ). SR 120.73 Aufgehoben durch Anhang Ziff. 16 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ( AS 2021 132 ). [ AS 2012 6669 , 723 . AS 2019 1311 Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ( SR 172.010.441 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "6. Abschnitt: Richtigkeit der Daten, Informatiksicherheit, Aufbewahrungsdauer, Archivierung und Statistik",
+      "section": "15",
+      "title": "Protokollierung",
+      "content": "1 Der Zugriff auf und die Bearbeitung von Daten im System sind elektronisch zu protokollieren. 2 Die Protokolle werden während zwei Jahren getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt. Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Richtigkeit der Daten, Informatiksicherheit, Aufbewahrungsdauer, Archivierung und Statistik",
+      "section": "16",
+      "title": "Aufbewahrungsdauer und Archivierung",
+      "content": "1 Die Daten werden spätestens zehn Jahre nach der letzten Bearbeitung dem Bundesarchiv zur Archivierung angeboten. 2 Die vom Bundesarchiv als nicht archivwürdig bewerteten Daten werden vernichtet, soweit sie nicht in einem Verfahren gemäss Artikel 3 weiterverwendet werden."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Statistik",
+      "content": "1 Die Verwendung von im System erfassten Personendaten für statistische Zwecke richtet sich nach Artikel 39 des Datenschutzgesetzes vom 25. September 2020. 2 Die für statistische Zwecke verwendeten und veröffentlichten Daten müssen so aufbereitet werden, dass jegliche Rückschlüsse auf konkrete Personen unmöglich sind. SR 235.1 Fassung gemäss Anhang 2 Ziff. II 39 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "18",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die PAGIRUS-Verordnung vom 16. Dezember 2009 wird aufgehoben. [ AS 2010 1 ; 2012 6731 Anhang Ziff. 5; 2014 3789 Ziff. I 3]"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "19",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Das BJ führt das System nach dieser Verordnung bis spätestens am 1. April 2017 ein. Bis zur Einführung des Systems werden die elektronischen Daten und Papier-dossiers nach dem bisherigen Recht bearbeitet. 2 Die folgenden Daten werden nach dieser Verordnung elektronisch im System erfasst sowie im System PAGIRUS und im PAGIRUS-Papierdossier vernichtet: a. alle im PAGIRUS elektronisch vorhandenen Daten; b. Papier-Dokumente, die zur Weiterbearbeitung eines Falls benötigt werden. 3 Die Dokumente aus PAGIRUS-Dossiers, die im System elektronisch erfasst werden, unterstehen dem neuen Recht. Insbesondere gelten für die elektronische Erfassung von Papierdokumenten Artikel 10 der GEVER-Verordnung vom 30. November 2012 und die betreffenden Bestimmungen des Bearbeitungsreglements zum Trägerwandel. 4 Die verbleibenden PAGIRUS-Papierdossiers mit den darin noch enthaltenen Dokumenten unterstehen weiterhin dem bisherigen Recht. [ AS 2012 6669 ; 723 . AS 2019 1311 Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ( SR 172.010.441 )."
+    },
+    {
+      "provision_ref": "art19a",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "19a",
+      "title": "a Übergangsbestimmung zur Änderung vom 2. November 2022",
+      "content": "Die im bisherigen Spenderdatenregister enthaltenen Daten werden in das System migriert und anschliessend im bisherigen Register vernichtet. Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ( AS 2022 648 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "7. Abschnitt: Schlussbestimmungen",
+      "section": "20",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. November 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

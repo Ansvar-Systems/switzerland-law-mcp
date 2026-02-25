@@ -1,0 +1,494 @@
+{
+  "id": "sr-195-1",
+  "type": "statute",
+  "title": "Bundesgesetz vom 26. September 2014 über Schweizer Personen und Institutionen im Ausland (Auslandschweizergesetz, ASG)",
+  "title_en": "Federal Act of 26 September 2014 on Swiss Persons and Institutions Abroad (Swiss Abroad Act, SAA)",
+  "short_name": "ASG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2015/653/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Title 1 General Provisions",
+      "section": "1",
+      "title": "Subject",
+      "content": "1 This Act governs: a. measures aimed at supporting, informing and promoting links between the Swiss Abroad, their political rights, social assistance that may be granted to them and support for specific institutions; b. consular protection and other consular services granted by Switzerland. 2 It does not govern diplomatic protection. 3 Deviating provisions in international treaties applicable in Switzerland continue to apply."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Title 1 General Provisions",
+      "section": "2",
+      "title": "Purpose",
+      "content": "With this Act, the Confederation aims to: a. regulate in a uniform and coherent manner the rights and obligations of Swiss persons and institutions abroad and the services it offers such persons and institutions; b. promote relations among the Swiss Abroad and their ties to Switzerland; c. facilitate international mobility for Swiss nationals; d. promote Switzerland's presence and links abroad."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Title 1 General Provisions",
+      "section": "3",
+      "title": "Definitions",
+      "content": "In this Act: a. the Swiss Abroad means Swiss citizens who are not domiciled in Switzerland and who are entered in the Register of the Swiss Abroad; b. Register of the Swiss Abroad means the Networked Administration of the Swiss Abroad (E-VERA) information system of the Federal Department of Foreign Affairs (FDFA) and the paper files; c. receiving state means the foreign country in which a representation is established or recognised or in which the person concerned is residing; d. representation means a diplomatic mission, consular post or any other representation of Switzerland abroad that may perform consular functions. This name was modified as of 1 Sept. 2016 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ( SR 170.512 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Title 1 General Provisions",
+      "section": "4",
+      "title": "Legal provisions of the receiving state",
+      "content": "The Swiss authorities and representations shall comply with the legal provisions of the relevant receiving state."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Title 1 General Provisions",
+      "section": "5",
+      "title": "Personal responsibility",
+      "content": "Every individual shall exercise personal responsibility when planning or undertaking a stay abroad or when working abroad."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Title 1 General Provisions",
+      "section": "6",
+      "title": "Recommendations",
+      "content": "The FDFA may publish information and recommendations, in particular travel advice."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Guichet unique",
+      "content": "1 The FDFA is the central point of contact for concerns affecting Swiss persons and institutions abroad. 2 It generally provides consular services through its network of representations. 3 It coordinates incoming requests with the competent administrative bodies of the Confederation and cantons to which tasks are assigned under this Act."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Foreign policy strategy",
+      "content": "The Federal Council shall consider the interests of Swiss persons and institutions abroad when defining its foreign policy strategy."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Chapter 1 Networking and Information",
+      "section": "9",
+      "title": "Networking",
+      "content": "1 The representations shall cultivate links with the community of the Swiss Abroad and make use of their network of contacts. 2 The Confederation shall maintain contact with institutions that promote relations between the Swiss Abroad and that contribute to better support and networking of the Swiss Abroad, particularly the Organisation for the Swiss Abroad. 3 It shall promote exchange between young Swiss Abroad and encourage their ties to Switzerland."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Chapter 1 Networking and Information",
+      "section": "10",
+      "title": "Information",
+      "content": "1 The Confederation shall inform the Swiss Abroad in electronic or printed form about their rights and obligations and about topics related to this Act. 2 The FDFA may provide the Swiss Abroad with a compilation of legislation that affects them in electronic form and may help them understand Switzerland's institutions and political affairs."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Chapter 2 Register of the Swiss Abroad",
+      "section": "11",
+      "title": "Entry in the Register of the Swiss Abroad",
+      "content": "1 Persons who hold Swiss citizenship and are not domiciled in Switzerland must register with the competent representation to be entered in the Register of the Swiss Abroad. 2 Entry in the Register is required for the Swiss Abroad to exercise their rights and obligations and for the provision of services by Swiss authorities under this title, except in cases where urgent social assistance is provided."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Chapter 2 Register of the Swiss Abroad",
+      "section": "12",
+      "title": "Registration",
+      "content": "1 Entry in the Register of the Swiss Abroad is carried out by registering with the competent representation. 2 The competent representation is the one located at the place of domicile of the Swiss Abroad. The Federal Council may make exceptions to this. 3 Persons entered in the Register of the Swiss Abroad as minors shall be asked by the competent representation to confirm their registration when they reach the age of majority in accordance with Swiss law. 4 The Swiss communes of residence shall notify the FDFA of any Swiss nationals who give notice of departure to a foreign country."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Chapter 2 Register of the Swiss Abroad",
+      "section": "13",
+      "title": "Notification of changes",
+      "content": "1 Persons entered in the Register of the Swiss Abroad must notify the competent representation of any changes or amendments to data concerning them. 2 If another representation becomes competent due to a change of residence abroad or for other reasons, the original registration is valid for the new competent representation. 3 The Swiss communes of residence shall notify the FDFA of any Swiss Abroad who give notice that they are returning to Switzerland."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Chapter 2 Register of the Swiss Abroad",
+      "section": "14",
+      "title": "Deleting entries and destroying data",
+      "content": "1 The entry in the Register of the Swiss Abroad shall be deleted if registered persons: a. take up residence in Switzerland; b. no longer hold Swiss nationality; c. were entered in the Register of the Swiss Abroad as minors and when they reached the age of majority failed to confirm the registration within 90 days despite being requested to do so in accordance with Swiss law; d. are deceased; e. cannot or can no longer be contacted at the specified address; f. are declared missing presumed dead. 2 The rules on destroying data are set out in the implementing provisions."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Chapter 3 Political Rights",
+      "section": "15",
+      "title": "Applicable law",
+      "content": "1 The legislation governing the political rights of Swiss citizens in Switzerland also applies to the Swiss Abroad, unless otherwise provided for in this Act or in the implementing provisions. 2 Cantonal law applies to political rights in cantonal and communal affairs."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Chapter 3 Political Rights",
+      "section": "16",
+      "title": "Scope",
+      "content": "1 The Swiss Abroad who are over the age of 18 may participate in federal elections and votes and sign requests for referendums and popular initiatives. 2 Eligibility for election is governed by Article 143 Cst."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Chapter 3 Political Rights",
+      "section": "17",
+      "title": "Exclusion of voting rights",
+      "content": "The Swiss Abroad are deemed to lack the legal capacity to exercise their voting rights in accordance with Article 136 paragraph 1 Cst. if: a. they are subject to a general deputyship due to being permanently incapable of judgement or are represented by a person entrusted with their care in accordance with Swiss law; or b. they are subject to an adult protection measure under foreign law that eliminates their capacity to act due to being permanently incapable of judgement provided an adult protection measure could also have been put in place under Swiss law."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Chapter 3 Political Rights",
+      "section": "18",
+      "title": "Exercising voting rights",
+      "content": "1 The Swiss Abroad exercise their right to vote in their last commune of residence. 2 If they do not have a commune of residence, they exercise their right to vote in their commune of origin. If they have two or more communes of origin, they exercise their right to vote in the commune of origin they stipulated when they registered in accordance with Article 12. 3 Votes may be cast in person, by post, or, provided the conditions are met, electronically. 4 In consultation with interested cantons and communes, the Federal Council shall promote electronic voting pilot schemes for the Swiss Abroad in accordance with Article 8 a of the Federal Act of 17 December 1976 on Political Rights. SR 161.1"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Chapter 3 Political Rights",
+      "section": "19",
+      "title": "Entry in and deletion from the electoral register",
+      "content": "1 The Swiss Abroad who wish to exercise their political rights shall notify their electoral commune via the competent representation. The electoral commune then enters them in the electoral register. 2 The Swiss Abroad who wish to renounce their political rights shall notify their electoral commune via the competent representation. 3 If the conditions for exercising political rights are no longer met, if a Swiss national living abroad renounces their political rights, or if voting materials are returned as undeliverable three times in a row, the electoral commune shall delete the person concerned from the electoral register. 4 The electoral commune and the FDFA shall inform each other about any data relevant to voting rights that have been amended or deleted from the electoral register or the Register of the Swiss Abroad."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Management of the electoral register for the Swiss Abroad",
+      "content": "1 Cantons manage the electoral register for the Swiss Abroad at the central cantonal administration or at the administration department of the canton's main town. 2 They may manage the electoral register for the Swiss Abroad locally if the data: a. are harmonised throughout the canton and are entered electronically; or b. are regularly consolidated at a central location."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Support measures",
+      "content": "The Confederation may implement measures, within the scope of the funds awarded, to facilitate the exercise of political rights by the Swiss Abroad."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Chapter 4 Social Assistance",
+      "section": "22",
+      "title": "Basic principle",
+      "content": "The Confederation grants social assistance to the Swiss Abroad who are in need, subject to the conditions set out in this Chapter."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Chapter 4 Social Assistance",
+      "section": "23",
+      "title": "Preventive measures",
+      "content": "In special cases, the Confederation may implement or support measures aimed at protecting the Swiss Abroad from falling into situations of need."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Chapter 4 Social Assistance",
+      "section": "24",
+      "title": "Subsidiarity",
+      "content": "Social assistance is only granted to the Swiss Abroad if they are unable to support themselves on their own and with their own resources, with financial assistance from private sources or with assistance from the receiving state."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Chapter 4 Social Assistance",
+      "section": "25",
+      "title": "Multiple nationality",
+      "content": "The Swiss Abroad with multiple nationalities are not usually granted social assistance if a non-Swiss nationality takes precedence."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Chapter 4 Social Assistance",
+      "section": "26",
+      "title": "Grounds for exclusion",
+      "content": "Social assistance may be refused or withdrawn if applicants: a. have seriously damaged Swiss public interests; b. deliberately provide false or incomplete information in order to obtain or attempt to obtain social assistance benefits; c. refuse to provide the social service authorities with information about their personal circumstances or to authorise them to obtain information; d. do not meet the applicable conditions or requirements or if they fail to report significant changes in their circumstances; e. obviously neglect to do everything reasonable to improve their situation; f. misuse social assistance benefits."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Chapter 4 Social Assistance",
+      "section": "27",
+      "title": "Type and amount",
+      "content": "1 The type and amount of social assistance benefits are determined by the specific conditions in the receiving state, taking into account the basic needs of Swiss nationals living there. 2 The Confederation may grant additional social assistance to the Swiss Abroad who receive social assistance benefits from the receiving state, in compliance with the principle set out under paragraph 1."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Chapter 4 Social Assistance",
+      "section": "28",
+      "title": "Conditions and requirements",
+      "content": "Social assistance payments may be subject to conditions and requirements."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Assignment and pledging",
+      "content": "1 Social assistance benefits granted by the Confederation may not be assigned or pledged. 2 Any assignment or pledging of social assistance benefits shall be null and void."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Returning to Switzerland",
+      "content": "1 The persons in need may be advised to return to Switzerland if it is in their or their family's interests to do so. In such cases, the Confederation shall not or shall no longer pay social assistance benefits abroad. 2 In the event of a return to Switzerland, the Confederation covers the travel costs. It may also cover them if the persons in need decide to return to Switzerland of their own accord."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Funeral costs",
+      "content": "The Confederation may cover the costs of a proper funeral for Swiss nationals who die abroad and who are without means, provided neither their relatives nor the receiving state pay the costs."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Application",
+      "content": "1 The Swiss Abroad apply for social assistance from the Confederation through the competent representation. 2 The representation then reviews and completes the application and transfers it together with a report and request to the Consular Directorate (CD) at the FDFA."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Decision",
+      "content": "1 The CD then decides whether to accept applications and issues a commitment to provide the approved social assistance. 2 In urgent cases, the representation grants the essential emergency aid and notifies the CD. 3 The CD may authorise representations to grant additional social assistance on their own initiative."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Involvement of aid organisations",
+      "content": "The representations may involve Swiss aid organisations abroad."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Repayment obligation",
+      "content": "1 Social assistance recipients must repay the social assistance benefits if they no longer require them and are able to support themselves and their families. 2 Social assistance benefits obtained by persons before the age of majority or after this point for education or training purposes do not have to be repaid. 3 Persons who obtain social assistance benefits for themselves or others by deliberately providing false or incomplete information must repay them in all cases. 4 Heirs must repay social assistance benefits obtained by the testator, insofar as they inherit money from the estate. 5 The CD decides whether social assistance must be repaid or not. It may waive repayment fully or in part if the circumstances warrant it."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Time limitation of repayment obligation and non-interest-bearing nature",
+      "content": "1 Social assistance benefits may be claimed back up to ten years after the last payment, unless the receivable was stipulated contractually or by the CD. 2 Requests for repayment do not bear interest."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "",
+      "content": "1 The Confederation bears the costs of the social assistance benefits paid under this Chapter. 2 The competent public body in the canton of origin bears the costs that another country may claim back from Switzerland under a assistance agreement."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Chapter 5 Support of Swiss Abroad Institutions",
+      "section": "38",
+      "title": "",
+      "content": "1 The Confederation may support institutions that promote relations between Swiss Abroad and their ties to Switzerland, or that provide assistance to Swiss Abroad. 2 In particular, it may grant financial support to the Organisation for the Swiss Abroad to safeguard the interests of the Swiss Abroad and to provide them with information. 3 The FDFA may conclude service agreements with the institutions referred to under paragraph 1; such agreements stipulate the rights and obligations of the institutions and the financial assistance granted by the Confederation."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Chapter 1 Consular Protection",
+      "section": "39",
+      "title": "Natural persons",
+      "content": "1 Consular protection may be granted to the following natural persons: a. the Swiss Abroad and Swiss citizens who are spending time abroad temporarily; b. persons for whom Switzerland has a protection function. 2 It may also be granted to Swiss citizens with multiple nationalities, provided support is not already being provided by another country. 3 If persons hold the nationality of the receiving state as well as Swiss nationality, they may receive consular protection from Switzerland provided the receiving state does not oppose it."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Chapter 1 Consular Protection",
+      "section": "40",
+      "title": "Legal entities",
+      "content": "1 Consular protection may be granted to legal entities that: a. are subject to, and organised in accordance with, Swiss law; and b. their actual centre of administration is in Switzerland. 2 It may also be granted on a subsidiary basis to legal entities abroad, provided they are controlled by a Swiss citizen or legal entity in accordance with paragraph 1, and provided the receiving state does not oppose it. 3 Persons are deemed to control a legal entity in accordance with paragraph 2 if they: a. directly hold a majority of the votes in the highest decision-making body thereof; b. directly hold the right to appoint or remove a majority of the members of the highest executive or management body thereof; or c. in accordance with the articles of incorporation, foundation charter, a contractual agreement, or similar instrument, are able to exert a controlling influence thereon."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Chapter 1 Consular Protection",
+      "section": "41",
+      "title": "Protection of foreign interests",
+      "content": "1 The Confederation may protect the interests of individuals or legal entities from a foreign country. The Federal Council has decision-making authority in this regard. 2 Protection of such interests may not go beyond the protection granted to Swiss nationals."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Chapter 1 Consular Protection",
+      "section": "42",
+      "title": "Subsidiarity",
+      "content": "The Confederation may also assist natural persons and legal entities abroad if they cannot reasonably or are not in a position to safeguard their interests on their own or with the help of third parties."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Chapter 1 Consular Protection",
+      "section": "43",
+      "title": "Limitation of consular protection",
+      "content": "1 There is no legal entitlement to consular protection. 2 The Confederation may refuse or limit assistance, in particular if: a. there is a risk that it could be detrimental to the Confederation's foreign policy interests; b. it would put others in danger; c. the person concerned has disregarded the Confederation's recommendations or has otherwise acted negligently; d. the person concerned has abused assistance provided in the past. 3 This does not apply in cases where there is a threat to the life or health of the person concerned."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Confederation liability",
+      "content": "1 The liability of the Confederation, subject to paragraph 2, complies with the Government Liability Act of 14 March 1958. 2 The Confederation is not liable: a. for recommendations published and assistance provided; b. if the persons concerned disregard the Confederation's recommendations or otherwise act negligently. SR 170.32"
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "General support when abroad",
+      "content": "1 General support comprises in particular assistance in the event of illness or accident or for victims of serious crime. 2 In individual cases the Confederation may take part in search and rescue operations. 3 If, in the course of providing support, the Confederation is notified of the death of a Swiss citizen domiciled in Switzerland by the authorities of the receiving state, it shall inform the person's next of kin. 4 In legal proceedings abroad, the representations may recommend local legal assistance without liability. 5 The representations may take action via consular and diplomatic channels with the local and central authorities of the receiving state."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Imprisonment",
+      "content": "1 If a representation learns that a person has been imprisoned abroad, it shall ask the authorities of the receiving state about the reasons behind the imprisonment. 2 The representation shall endeavour, in particular: a. to contact or to visit the person concerned, provided it is appropriate or the person concerned has requested it; b. to ensure that the right to decent conditions of imprisonment, the procedural guarantees and the right of defence of the person concerned are respected."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Emergency loans",
+      "content": "The Confederation may grant repayable interest-free loans to natural persons in distress who are temporarily residing abroad: a. to cover the costs of their journey home; b. as interim assistance; c. to cover hospital or medical costs."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Crisis situations",
+      "content": "1 Every representation has crisis measures in place, in particular for armed conflicts, terrorist attacks, political unrest, traffic accidents and natural disasters. 2 The FDFA and the representation shall inform natural persons and their relatives in the event of a crisis situation and provide support within the scope of what is feasible. 3 The FDFA's security recommendations must be heeded. In the case of ongoing crisis situations, the FDFA may recommend leaving the crisis region. The decision to leave the crisis region is made voluntarily and at the own risk and expense of the person travelling. 4 The Confederation may take part in the search and rescue operations of the receiving state or of other countries. 5 In certain crisis situations, in particular in the case of armed conflicts and political unrest, it may grant natural persons and legal entities safe conduct to protect their personal safety and that of their property. 6 In the case of war or serious unrest, it may grant temporary financial support to natural persons who have lost their livelihoods abroad through no fault of their own."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Kidnappings and hostage-taking",
+      "content": "1 The Confederation may provide support to natural persons who are the victims of a kidnapping or hostage-taking abroad. 2 If a representation learns that a kidnapping or hostage-taking has occurred, it shall seek support locally. In particular, it shall call on the competent authorities of the receiving state to take the necessary action."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Chapter 2 Other Consular Services",
+      "section": "50",
+      "title": "Administrative services",
+      "content": "1 The FDFA provides consular services of an administrative nature that are not regulated in other laws or are not provided by other official bodies, in particular attestations, confirmations, certificates issued by representations, deposits with representations or submissions to the Swiss authorities via representations. 2 The Federal Council regulates these services in an ordinance."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Chapter 2 Other Consular Services",
+      "section": "51",
+      "title": "Advice on emigrating and returning to Switzerland",
+      "content": "1 The FDFA runs a counselling service on emigrating and returning to Switzerland, in particular in accordance with Article 25 paragraph 1 of the Recruitment Act of 6 October 1989. 2 The counselling service provides information on entry and living conditions to Swiss nationals returning to Switzerland from abroad. SR 823.11"
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Chapter 2 Other Consular Services",
+      "section": "52",
+      "title": "Navigation matters",
+      "content": "The representations provide consular services on navigation matters in accordance with Articles 43, 56, 57, 59, 65, 82, 119 and 120 of the Navigation Act of 23 September 1953. SR 747.30"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Chapter 2 Other Consular Services",
+      "section": "53",
+      "title": "Civil status",
+      "content": "1 The FDFA ensures coordination between the representations and the offices responsible for civil status within the Federal Office of Justice (FOJ). 2 The representations perform tasks related to the civil status of Swiss nationals abroad. For this purpose they work with the FOJ and make the modifications in the Register of the Swiss Abroad."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "Chapter 2 Other Consular Services",
+      "section": "54",
+      "title": "Citizenship",
+      "content": "1 The FDFA assists the State Secretariat for Migration in citizenship matters. 2 The representations shall cooperate in particular in clarifications of facts and circumstances abroad in accordance with Articles 7, 21 paragraphs 2 and 4, 26 and 27 of the Swiss Citizenship Act of 20 June 2014. This name was modified as of 1 Sept. 2016 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ( SR 170.512 ). SR 141.0 See Art. 68 below."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Identity papers",
+      "content": "The FDFA supports the Federal Office of Police with the issue, withdrawal and in the event of loss of identity documents abroad in accordance with Articles 4–6, 7 and 8 of the Federal Identity Documents Act of 22 June 2001. SR 143.1"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Military registration",
+      "content": "1 Military service by the Swiss Abroad and Swiss citizens with multiple nationalities is governed by Articles 4, 5 and 27 paragraph 2 of the Armed Forces Act of 3 February 1995. 2 In military matters, the representations provide the following consular services in particular: a. transmitting requests for dispensation from military service while abroad by Swiss nationals who failed to submit a request when they left Switzerland; b. issuing fact sheets on military service to Swiss nationals who are registered with a representation and reach the age of majority; c. providing information to Swiss Abroad who wish to complete their recruitment, basic military training, and refresher courses voluntarily in Switzerland; d. providing information to Swiss nationals with multiple nationalities about military service and about recognition of military service within the framework of bilateral agreements. SR 510.10"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Old age, survivors' and invalidity insurance",
+      "content": "The FDFA assists the Swiss Compensation Office and the Invalidity Insurance Office for People Living Abroad with the provision of voluntary insurance cover when abroad in accordance with: a. Article 2 (Voluntary insurance) of the Federal Act of 20 December 1946 on the Old-Age and Survivors' Insurance; b. Article 1 b (Insured persons) of the Federal Act of 19 June 1959 on Invalidity Insurance. SR 831.10 SR 831.20"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Title 4 Funding, Fees and Reimbursement of Costs",
+      "section": "58",
+      "title": "Funding",
+      "content": "The Federal Assembly approves the payment framework for a multi-year contribution period with a single federal decree in accordance with: a. Article 21 (Support measures); b. Article 37 paragraph 1 (Social assistance); c. Article 38 (Support of Swiss abroad institutions); d. Article 47 (Emergency loans)."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Title 4 Funding, Fees and Reimbursement of Costs",
+      "section": "59",
+      "title": "Fees",
+      "content": "The Federal Council shall issue provisions in terms of Article 46 a paragraphs 2–4 of the Government and Administration Organisation Act of 21 March 1997 regarding the charging of appropriate fees for decisions, services and other official activities under this Act. SR 172.010"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Title 4 Funding, Fees and Reimbursement of Costs",
+      "section": "60",
+      "title": "Reimbursement of costs",
+      "content": "1 The persons who have caused consular services to be carried out shall reimburse the costs to the Confederation. 2 Persons are also liable for cost reimbursement if the federal government performs a service without being requested to do so by the persons concerned, but in accordance with their presumed wishes and interests. 3 The Federal Council shall regulate the details and exceptions."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Title 4 Funding, Fees and Reimbursement of Costs",
+      "section": "61",
+      "title": "Waiving of fees or cost reimbursement",
+      "content": "Fees or cost reimbursement may be deferred or waived in part or in full in case of need or for other good cause. If fees or cost reimbursement are waived in part or in full, account must be taken of whether the persons concerned have acted negligently."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "Title 5 Final Provisions",
+      "section": "62",
+      "title": "Administration of justice",
+      "content": "The appeals procedure is governed by the general provisions on the administration of federal justice."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "Title 5 Final Provisions",
+      "section": "63",
+      "title": "Implementation",
+      "content": "1 The Federal Council shall implement this Act. 2 It shall enact the implementing provisions. 3 The cantonal implementing provisions require the approval of the Confederation in order to be valid."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "Title 5 Final Provisions",
+      "section": "64",
+      "title": "Cooperation and delegation of powers",
+      "content": "1 The official bodies of the Confederation, the cantons and communes work together without payment. The FDFA may conclude service agreements with cantonal authorities for extraordinary services. 2 The offices of the Confederation and the representations may collaborate with foreign authorities within the scope of their respective powers. 3 The Federal Council may conclude agreements under international law regarding consular services. 4 It may authorise private legal entities that operate in a specific territory to issue visas or to perform other specific consular services if Switzerland does not have a competent diplomatic representation in the territory in question. For this purpose it may conclude service agreements."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "Title 5 Final Provisions",
+      "section": "65",
+      "title": "Statistics",
+      "content": "The Federal Council may order statistical surveys required for application of this Act and have the data analysed by the Federal Statistical Office or the FDFA in accordance with Article 4 of the Federal Act of 24 March 2000 on the Processing of Personal Data within the Federal Department of Foreign Affairs, the Federal Statistics Act of 9 October 1992 and Article 15 paragraph 1 of the Register Harmonisation Act of 23 June 2006. SR 235.2 SR 431.01 SR 431.02"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "Title 5 Final Provisions",
+      "section": "66",
+      "title": "Repeal and amendment of current legislation",
+      "content": "The repeal and amendment of current legislation is regulated in the Annex."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "Title 5 Final Provisions",
+      "section": "67",
+      "title": "Transitional provision",
+      "content": "Benefits granted by the Confederation under the current law shall continue to be paid after this Act comes into force."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Coordination with the Swiss Citizenship Act of 20 June 2014",
+      "content": "On the commencement of this Act, or of the Swiss Citizenship Act of 20 June 2014 , whichever is later, or on the simultaneous commencement of both, Article 54 paragraph 2 of this Act is worded as follows: ... SR 141.0 . In force since 1 Jan. 2018 ( AS 2016 2561 ). Text inserted above."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Referendum and commencement",
+      "content": "1 This Act is subject to an optional referendum. 2 The Federal Council shall determine the commencement date. Commencement date: 1 November 2015 FCD of 7 Oct. 2015."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Swiss Abroad",
+      "definition": "the Swiss Abroad means Swiss citizens who are not domiciled in Switzerland and who are entered in the Register of the Swiss Abroad;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Register of the Swiss Abroad",
+      "definition": "Register of the Swiss Abroad means the Networked Administration of the Swiss Abroad (E-VERA) information system of the Federal Department of Foreign Affairs (FDFA) and the paper files;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "receiving state",
+      "definition": "receiving state means the foreign country in which a representation is established or recognised or in which the person concerned is residing;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "representation",
+      "definition": "representation means a diplomatic mission, consular post or any other representation of Switzerland abroad that may perform consular functions.",
+      "source_provision": "art3"
+    }
+  ]
+}

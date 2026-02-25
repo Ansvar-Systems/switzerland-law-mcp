@@ -1,0 +1,936 @@
+{
+  "id": "sr-510-911",
+  "type": "statute",
+  "title": "Verordnung vom 16. Dezember 2009 über militärische und andere Informationssysteme im VBS (MIV)",
+  "title_en": "",
+  "short_name": "MIV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2009/824/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt die Bearbeitung von Personendaten natürlicher und juristischer Personen (Daten) in Informationssystemen und beim Einsatz von Überwachungsmitteln der Armee und des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS) durch: a. Behörden des Bundes und der Kantone; b. Kommandantinnen, Kommandanten und Kommandostellen der Armee (militärische Kommandos) sowie Kommandantinnen und Kommandanten des Zivilschutzes; c. weitere Angehörige der Armee und des Zivilschutzes; d. Dritte, die Aufgaben im Zusammenhang mit dem Militär- und Zivilschutzwesen oder für das VBS erfüllen. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Grundsätze der Datenbearbeitung und Verbund der Informationssysteme",
+      "content": "1 Die Bestimmungen des MIG gelten sinngemäss auch für: a. die Bearbeitung von Daten nach dieser Verordnung; b. die nur in dieser Verordnung geregelten Informationssysteme und Überwachungsmittel. 2 Die im Zentralen Identitätsspeicher nach Artikel 13 der Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und Verzeichnisdienste des Bundes (IAMV) enthaltenen Daten können für die Bearbeitung in den Informationssystemen nach dem MIG oder dieser Verordnung aus dem Zentralen Identitätsspeicher beschafft werden. 3 Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). SR 172.010.59"
+    },
+    {
+      "provision_ref": "art2a",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2a",
+      "title": "a Verantwortliche Organe bei den Informationssystemen der Gruppe Verteidigung",
+      "content": "(Art. 186 Abs. 1 Bst. a MIG) Bei den Informationssystemen, die gemäss den Bestimmungen des MIG oder dieser Verordnung von der Gruppe Verteidigung betrieben werden, ist die im Anhang 1 jeweils aufgeführte Verwaltungseinheit das für den Datenschutz verantwortliche Bundesorgan. Eingefügt durch Ziff. I der V vom 10. Jan. 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art2abis",
+      "chapter": "1. Kapitel: Allgemeine Bestimmungen",
+      "section": "2abis",
+      "title": "a bis Datenbearbeitung durch Auftragsbearbeiterinnen und Auftragsbearbeiter",
+      "content": "(Art. 186 Abs. 1 Bst. a und e MIG) Die für den Datenschutz jeweils verantwortliche Verwaltungseinheit des Bundes schliesst mit einer Auftragsbearbeiterin oder einem Auftragsbearbeiter, die oder der keine Verwaltungseinheit des Bundes ist, vor der Übertragung der Datenbearbeitung eine schriftliche Vereinbarung ab, in der mindestens die zu übertragenden Datenbearbeitungstätigkeiten bestimmt werden und sich die Auftragsbearbeiterin oder der Auftragsbearbeiter dazu verpflichtet: a. die Daten nur so zu bearbeiten, wie dies die auftraggebende Verwaltungseinheit des Bundes selbst tun dürfte; b. die datenschutzrechtlichen Vorschriften insbesondere des MIG und dieser Verordnung einzuhalten; c. die Daten ausschliesslich in der Schweiz zu bearbeiten, falls die Voraussetzungen des schweizerischen Rechts für eine Datenbekanntgabe ins Ausland nicht erfüllt sind; d. die Daten nur dann an Dritte, die nicht Mitarbeitende der Auftragsbearbeiterin oder des Auftragsbearbeiters sind, bekanntzugeben, wenn die auftraggebende Verwaltungseinheit des Bundes: 1. dem vorgängig schriftlich zugestimmt hat, und 2. mit der oder dem Dritten ebenfalls eine schriftliche Vereinbarung mit dem Mindestinhalt gemäss diesem Artikel abgeschlossen hat; e. die Daten mit den geeigneten technischen und organisatorischen Massnahmen vor dem Zugriff durch Unberechtigte und vor zweckwidriger Bearbeitung zu schützen und die auftraggebende Verwaltungseinheit des Bundes über die getroffenen Massnahmen zu orientieren; f. eine Verletzung der Datensicherheit der auftraggebenden Verwaltungseinheit des Bundes so rasch als möglich mitzuteilen; g. eine Verletzung ihrer oder seiner Pflichten gemäss diesem Artikel der auftraggebenden Verwaltungseinheit des Bundes so rasch als möglich mitzuteilen; h. die zur Gewährleistung der Daten- und Informationssicherheit, zur Einhaltung der datenschutzrechtlichen Vorschriften oder in Bezug auf die Datenbearbeitungstätigkeit abgegebenen Weisungen der auftraggebenden Verwaltungseinheit des Bundes unverzüglich umzusetzen; i. der auftraggebenden Verwaltungseinheit des Bundes jederzeit Einsicht in sämtliche im Auftrag bearbeiteten Daten zu gewähren und ihr auf Verlangen die Daten in der verlangten Form zu übermitteln; j. ein Verzeichnis der eigenen Bearbeitungstätigkeiten zu führen und ein Bearbeitungsreglement zu erstellen; k. die eigenen Datenbearbeitungen gemäss Artikel 2 c zu protokollieren; l. sich und ihre oder seine datenbearbeitenden Mitarbeitenden einer Sicherheitsprüfung bei den hierfür zuständigen Bundesorganen zu unterziehen, wenn die auftraggebende Verwaltungseinheit des Bundes dies verlangt; m. eine Datenbearbeitung zu unterlassen, sofern die auftraggebende Verwaltungseinheit des Bundes dagegen Sicherheitsbedenken vorbringt oder dies aus anderen Gründen verlangt; n. ihre oder seine datenbearbeitenden Mitarbeitenden der auftraggebenden Verwaltungseinheit des Bundes auf Verlangen mit Namen und Kontaktangaben mitzuteilen; o. die Daten nach Beendigung des Auftrags an die auftraggebende Verwaltungseinheit des Bundes herauszugeben und anschliessend zu vernichten sowie die erfolgte Vernichtung der auftraggebenden Verwaltungseinheit des Bundes gegenüber schriftlich zu bestätigen; p. eine von der auftraggebenden Verwaltungseinheit des Bundes festzusetzende und in der Vereinbarung betragsmässig zu nennende Konventionalstrafe zu bezahlen, wenn die Auftragsbearbeiterin oder der Auftragsbearbeiter die vertraglichen Verpflichtungen oder datenschutzrechtlichen Vorschriften nicht einhält. Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art2b",
+      "section": "2b",
+      "title": "b Technische Zusammenführung der Informationssysteme",
+      "content": "(Art. 4, 5 und 186 Abs. 2 Bst. a MIG) Mehrere Informationssysteme können technisch zusammengeführt und über dieselbe technische Plattform, Infrastruktur, Applikation oder Datenbank betrieben werden, sofern: a. und b. … c. für jedes einzelne Informationssystem die jeweils geltenden datenschutzrechtlichen Bestimmungen, insbesondere diejenigen im MIG und in dieser Verordnung, eingehalten und Umfang und Zweck der Datenbearbeitung sowie die Zugriffsrechte nicht erweitert werden; und d. in den Bearbeitungsreglementen der betreffenden Informationssysteme aufgezeigt wird, dass und wie die Anforderungen gemäss Buchstabe c erfüllt werden. Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art2c",
+      "section": "2c",
+      "title": "",
+      "content": "Tritt am 1. Sept. 2023 in Kraft ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art2d",
+      "section": "2d",
+      "title": "d Kontrolle, Gewährung und Verweigerung des Zugangs",
+      "content": "(Art. 2 a und 186 Abs. 1 Bst. b, c und e MIG) 1 In den nach dem MIG oder dieser Verordnung betriebenen Informationssystemen und Hilfsdatensammlungen kann die jeweils zuständige Verwaltungseinheit zwecks Kontrolle, Gewährung oder Verweigerung des Zugangs zum Informationssystem oder zur Hilfsdatensammlung die folgenden Daten der Benutzerinnen und Benutzer des Informationssystems oder der Hilfsdatensammlung bearbeiten: a. ihre technischen Identitäten, Zugangsdaten und -berechtigungen; b. ihre biometrischen Templates und bei der biometrischen Erkennung erfassten biometrischen Daten, sofern im Informationssystem oder in der Hilfsdatensammlung besonders schützenswerte Daten oder als GEHEIM oder VERTRAULICH klassifizierte Informationen bearbeitet werden. 2 Diese Daten einer Benutzerin oder eines Benutzers sind wie folgt zu vernichten, sofern das MIG oder diese Verordnung für die Aufbewahrung der Daten im jeweiligen Informationssystem keine andere Aufbewahrungsdauer vorsehen: a. die bei der biometrischen Erkennung erfassten biometrischen Daten: spätestens ein Jahr nach ihrer Erfassung; b. alle übrigen Daten: spätestens ein Jahr nach Wegfall der Zugangsberechtigung der Benutzerin oder des Benutzers. Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Personalinformationssystem der Armee und des Zivilschutzes",
+      "section": "3",
+      "title": "Kostentragung",
+      "content": "1 Der Bund trägt unter Vorbehalt von Absatz 3 die Kosten: a. des Betriebs und der Wartung des Personalinformationssystems der Armee und des Zivilschutzes (PISA); b. der Benützung des PISA durch die beteiligten Organe des Bundes; c. der gesicherten und verschlüsselten Datenübermittlung zwischen dem Bund und den übrigen Stellen nach Artikel 16 Absatz 1 MIG. 2 Die übrigen Stellen nach Artikel 16 Absatz 1 MIG tragen unter Vorbehalt von Absatz 3 die Kosten, die ihnen durch die Anwendung und den Weiterausbau des PISA entstehen. 3 Die Kosten desjenigen Teils des PISA, der zur Führung der Kontrolle über die Schutzdienstpflichtigen dient, werden gemäss BZG getragen. Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 ). Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Personalinformationssystem der Armee und des Zivilschutzes",
+      "section": "4",
+      "title": "Daten",
+      "content": "(Art. 14 MIG) 1 Die im PISA enthaltenen Daten sind in Anhang 1 a aufgeführt. 2 Die Daten nach Anhang 1 a Ziffern 1.10 und 2.7 werden nur mit Einwilligung der betroffenen Personen erhoben. 3 Angehörige von Formationen mit ständigen Bereitschaftsauflagen melden ab Zuteilung in die Formation der für sie zuständigen Kommandantin oder dem für sie zuständigen Kommandanten ihre Telefonnummern, ihre E-Mail-Adressen und ihre Wohnadresse sowie Änderungen dieser Daten unaufgefordert innert 14 Tagen. 4 Das Bundesamt für Bevölkerungsschutz und die für den Zivilschutz zuständigen Stellen von Bund und Kantonen bearbeiten im PISA zu administrativen Zwecken, insbesondere zur Kontaktaufnahme und für die Lohnabrechnung, die in Anhang 1 a mit einem Stern markierten Daten von Personen, die im Zivilschutz, ohne Anspruch auf Erwerbsersatz zu haben: a. für befristete Einsätze herangezogen werden; b. Ausbildungen erteilen; c. an Ausbildungen teilnehmen; d. als Rechnungsführer tätig sind. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Ausdruck gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Diese Änd. wurde im ganzen Erlass, ausser in Artikel 1 und in Anhang 35 f vorgenommen. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Datenbeschaffung",
+      "content": "1 . 1bis Die Gruppe Verteidigung beschafft als zuständige Stelle der Militärverwaltung nach Artikel 32 c Absatz 4 des Waffengesetzes vom 20. Juni 1997 (WG) die Meldungen der Zentralstelle automatisiert über eine Schnittstelle aus dem Informationssystem integrierte Ressourcenbewirtschaftung (PSN). 2 Verwaltungseinheiten des Bundes, der Kantone und der Gemeinden, militärische Kommandos sowie Dritte, die Daten nach Militärrecht, Wehrpflichtersatzabgaberecht, Militärversicherungsrecht, Militärstrafrecht, Zivildienstrecht oder Zivilschutzrecht bearbeiten, sind verpflichtet, diese Daten den beschaffenden Stellen und Personen nach Absatz 1 kostenlos zu melden. 3 : a. am Ende eines Jahres die Schweizer Bürger, die während des Jahres das 17. Altersjahr vollendet haben, mit Namen, Vornamen, Wohnadresse, Geburtsdatum, Heimatort und AHV-Nummer; b. die Hinterlegung oder die Herauslösung der Ausweisschriften; c. die Änderung der Wohnadresse innerhalb der Gemeinde; d. die Aufnahme von Männern im militärdienstpflichtigen Alter in das Schweizer Bürgerrecht; e. Änderungen des Namens; f. Änderungen im Bürgerrecht; g. den Eintritt des Todes; h. … 4 Die schweizerischen Vertretungen im Ausland melden der Gruppe Verteidigung: a. die Stellungspflichtigen im Ausland; b. den Eintritt des Todes im Ausland von Schweizern im wehrpflichtigen Alter. 5 Die Betreibungs- und die Konkursämter melden der Gruppe Verteidigung unverzüglich Unteroffiziere, Offiziere und Fachoffiziere, die leichtsinnig oder betrügerisch in Konkurs fallen oder fruchtlos gepfändet werden. Sie geben der Gruppe Verteidigung auf Anfrage Auskunft über bisherige und hängige Betreibungs- und Konkursverfahren gegen Militärdienstpflichtige. 6 Die Untersuchungsbehörden und die Gerichte geben der Gruppe Verteidigung auf Anfrage Auskunft über hängige und abgeschlossene Strafverfahren gegen Stellungspflichtige und Angehörige der Armee, sofern die Auskunft benötigt wird zur Erwägung eines Aufgebotsstopps, einer Nichtrekrutierung, eines Ausschlusses von der Militärdienstleistung, einer Mutation, einer Einberufung zu Ausbildungsdiensten für einen höheren Grad oder zur Prüfung von Hinderungsgründen für die Abgabe der persönlichen Waffe. 7 Das Oberauditorat meldet der Gruppe Verteidigung über Stellungspflichtige und Militärdienstpflichtige: a. angeordnete militärgerichtliche Voruntersuchungen und vorläufige Beweisaufnahmen; b. rechtskräftige Einstellungsverfügungen; c. rechtskräftige militärgerichtliche Urteile; d. die Aufhebung von Abwesenheitsurteilen; e. von der Militärjustiz verhängte Disziplinarstrafen. 8 Das Bundesamt für Justiz meldet der Gruppe Verteidigung über Stellungspflichtige und Militärdienstpflichtige unverzüglich: a. die rechtskräftigen Verurteilungen zu Freiheitsstrafen, Geldstrafen und gemeinnütziger Arbeit wegen eines Verbrechens oder Vergehens sowie die freiheitsentziehenden Massnahmen; b. den Widerruf eines bedingten oder teilbedingten Strafvollzuges; c. die Aufhebung einer freiheitsentziehenden Massnahme, deren Ersatz durch eine andere solche Massnahme sowie den Vollzug einer Reststrafe. 9 Die mit dem Vollzug von Freiheitsstrafen und freiheitsentziehenden Massnahmen betrauten Institutionen melden der Gruppe Verteidigung unverzüglich den Eintritt und die Entlassung von Stellungspflichtigen oder Militärdienstpflichtigen. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). SR 514.54 Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Anhang Ziff. 1 der V vom 17. Dez. 2014, in Kraft seit 1. Jan. 2017 ( AS 2015 195 , 2016 4331 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I 5 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ( AS 2010 5971 ). Aufgehoben durch Ziff. I 5 der V vom 3. Dez. 2010, mit Wirkung seit 1. Jan. 2011 ( AS 2010 5971 ). Ausdruck Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Die Änd. wurde im ganzen Erlass berücksichtigt. Ausdruck gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Juli 2016 ( AS 2016 2101 ). Diese Änd. wurde im ganzen Erlass berücksichtigt. Fassung gemäss Ziff. I der V vom 26. Juni 2013, in Kraft seit 1. Aug. 2013 ( AS 2013 2209 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "37",
+      "section": "5",
+      "title": "a",
+      "content": "(Art. 17 c MIG) Die im Informationssystem Dienstmanager (DIM) enthaltenen Daten sind im Anhang 1 b aufgeführt."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Medizinisches Informationssystem der Armee",
+      "section": "6",
+      "title": "Daten",
+      "content": "(Art. 26 MIG) Die im Medizinischen Informationssystem der Armee (MEDISA) enthaltenen Daten sind im Anhang 2 aufgeführt. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Medizinisches Informationssystem der Armee",
+      "section": "7",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das MEDISA bei: a. den Stellungspflichtigen aus ärztlichen Fragebogen am Orientierungstag; aus psychologischen und psychiatrischen Fragebogen sowie weiteren medizinischen Befragungen und Untersuchungen am Rekrutierungstag, aus persönlichen Schreiben sowie aus ärztlichen Unterlagen; b. den Militärdienst-, Zivildienst- und Schutzdienstpflichtigen aus persönlichen Schreiben sowie aus ärztlichen Unterlagen; c. den Militärärztinnen und Militärärzten der Untersuchungskommissionen aus sanitätsdienstlichen Formularen; d. den Truppenärztinnen und Truppenärzten aus sanitätsdienstlichen Formularen; e. den angestellten Ärztinnen und Ärzten, Waffenplatz‑Ärztinnen und -Ärzten sowie Waffenplatz-Spezialärztinnen und -ärzten aus ärztlichen Unterlagen und sanitätsdienstlichen Formularen; f. den zivilen Ärztinnen und Ärzten, die Stellungspflichtige, Militärdienstpflichtige und Zivildienstpflichtige behandeln, aus ärztlichen Unterlagen; g. dem Bundesamt für Zivildienst (ZIVI) und den von ihm beigezogenen Vertrauensärztinnen und -ärzten; h. der Militärversicherung aus amtlichen Schreiben und ärztlichen Unterlagen; i. dem Bundesamt für Bevölkerungsschutz aus amtlichen Schreiben und ärztlichen Unterlagen; j. der Fachstelle für Personensicherheitsprüfungen im VBS aus Prüfungsergebnissen, die sich auf den körperlichen oder geistigen Gesundheitszustand der zu beurteilenden Person beziehen; k. den Stellen und Personen nach Artikel 113 Absätze 7 und 8 MG, die ernstzunehmende Anzeichen oder Hinweise zu Hinderungsgründen für die Abgabe der persönlichen Waffe oder der Leihwaffe melden. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Eingefügt durch Ziff. I der V vom 26. Juni 2013 ( AS 2013 2209 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Eingefügt durch Ziff. I der V vom 26. Juni 2013 ( AS 2013 2209 ). Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "3. Abschnitt: Daten weiterer Personalinformationssysteme",
+      "section": "8",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "3. Abschnitt: Daten weiterer Personalinformationssysteme",
+      "section": "9",
+      "title": "Informationssysteme Patientenerfassung",
+      "content": "(Art. 32 MIG) Die in den Informationssystemen Patientenerfassung (ISPE) enthaltenen Daten sind im Anhang 4 aufgeführt."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Daten weiterer Personalinformationssysteme",
+      "section": "10",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art10a",
+      "chapter": "3. Abschnitt: Daten weiterer Personalinformationssysteme",
+      "section": "10a",
+      "title": "a Informationssystem Flugmedizin",
+      "content": "(Art. 44 MIG) Die im Informationssystem Flugmedizin (MEDIS LW) enthaltenen Daten sind in Anhang 5 a aufgeführt. Eingefügt durch Ziff. I der V vom 26. Juni 2013 ( AS 2013 2209 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Daten weiterer Personalinformationssysteme",
+      "section": "11",
+      "title": "Informationssystem Einsatzpersonal Kommando Spezialkräfte",
+      "content": "(Art. 50 MIG) Die im Informationssystem Einsatzpersonal Kommando Spezialkräfte (ISEP KSK) enthaltenen Daten sind im Anhang 6 aufgeführt. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Daten weiterer Personalinformationssysteme",
+      "section": "12",
+      "title": "Informationssystem für die soziale Beratung",
+      "content": "(Art. 56 MIG) Die im Informationssystem für die soziale Beratung (ISB) enthaltenen Daten sind im Anhang 7 aufgeführt. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "3. Abschnitt: Daten weiterer Personalinformationssysteme",
+      "section": "13",
+      "title": "Informationssystem Personal Verteidigung",
+      "content": "(Art. 62 MIG) Die im Informationssystem Personal Verteidigung (IPV) enthaltenen Daten sind im Anhang 8 aufgeführt."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "3. Abschnitt: Daten weiterer Personalinformationssysteme",
+      "section": "14",
+      "title": "Informationssystem Personalbewirtschaftung Auslandeinsätze",
+      "content": "(Art. 68 MIG) Die im Informationssystem Personalbewirtschaftung Auslandeinsätze (PERAUS) enthaltenen Daten sind im Anhang 9 aufgeführt."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Informationssystem Auslandkontakte",
+      "section": "15",
+      "title": "Zweck und verantwortliches Organ",
+      "content": "1 Das Informationssystem Auslandkontakte (OpenIBV) dient dem Bewilligungsverfahren für alle Auslandkontakte von Personen nach Artikel 1 Absatz 2 der Verordnung vom 24. Juni 2009 über internationale militärische Kontakte, der Auswertung dieser Kontakte und der Reiseberichte sowie der Organisation und Auswertung von Besuchen ausländischer Personen, Behörden und Organisationen. 2 Die Gruppe Verteidigung betreibt das OpenIBV. SR 510.215 Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Ausdruck Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Die Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "4. Abschnitt: Informationssystem Auslandkontakte",
+      "section": "16",
+      "title": "Daten",
+      "content": "Die im OpenIBV enthaltenen Daten sind im Anhang 10 aufgeführt."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "4. Abschnitt: Informationssystem Auslandkontakte",
+      "section": "17",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das OpenIBV bei der betroffenen Person und deren direkten und indirekten Vorgesetzten. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "4. Abschnitt: Informationssystem Auslandkontakte",
+      "section": "18",
+      "title": "Datenbekanntgabe",
+      "content": "Die Gruppe Verteidigung macht die Daten des OpenIBV den für die Auslandkontakte zuständigen Stellen und Personen, den direkten und indirekten Vorgesetzten der betroffenen Person sowie der Bundesreisezentrale durch Abrufverfahren zugänglich."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "4. Abschnitt: Informationssystem Auslandkontakte",
+      "section": "19",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des OpenIBV werden nach Abschluss des Auslandkontakts längstens während fünf Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art2024",
+      "chapter": "5. Abschnitt: …",
+      "section": "2024",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "6. Abschnitt: Informationssystem Verifikationseinsätze",
+      "section": "25",
+      "title": "Zweck und verantwortliches Organ",
+      "content": "1 Das Informationssystem Verifikationseinsätze (IVE) dient dem Einsatz von Personen, die für die Organisation für Sicherheit und Zusammenarbeit in Europa oder die Vereinten Nationen Verifikationseinsätze leisten. 2 Die Gruppe Verteidigung betreibt das IVE."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "6. Abschnitt: Informationssystem Verifikationseinsätze",
+      "section": "26",
+      "title": "Daten",
+      "content": "Die im IVE enthaltenen Daten sind im Anhang 12 aufgeführt."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "6. Abschnitt: Informationssystem Verifikationseinsätze",
+      "section": "27",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das IVE bei den Personen, die sich für Verifikationseinsätze zur Verfügung stellen."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "6. Abschnitt: Informationssystem Verifikationseinsätze",
+      "section": "28",
+      "title": "Datenbekanntgabe",
+      "content": "Die Gruppe Verteidigung macht die Daten des IVE nur seinen für die Einsätze zuständigen Stellen und Personen durch Abrufverfahren zugänglich."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "6. Abschnitt: Informationssystem Verifikationseinsätze",
+      "section": "29",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des IVE werden nach dem Ausscheiden aus dem Personalpool längstens fünf Jahre aufbewahrt."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "7. Abschnitt: Informationssystem Pontoniere",
+      "section": "30",
+      "title": "Zweck und verantwortliches Organ",
+      "content": "1 Das Informationssystem Pontoniere (IPont) dient der Ausstellung militärischer Leistungsausweise, der Kontrollführung über die Leistungsprüfungen der Pontonierkurse 1–4 und über den militärischen Schiffsführerausweis, der Kontrolle von Entschädigungen im Bereich der vordienstlichen Ausbildung sowie der Rekrutierung als Pontonier. 2 Die Gruppe Verteidigung betreibt das IPont. Ausdruck Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Die Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "7. Abschnitt: Informationssystem Pontoniere",
+      "section": "31",
+      "title": "Daten",
+      "content": "Die im IPont enthaltenen Daten sind im Anhang 13 aufgeführt."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "7. Abschnitt: Informationssystem Pontoniere",
+      "section": "32",
+      "title": "Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das IPont über die freiwillige vordienstliche Ausbildung der angehenden Pontoniere bei den Pontonier- und Wasserfahrvereinen und den angehenden Pontonieren."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "7. Abschnitt: Informationssystem Pontoniere",
+      "section": "33",
+      "title": "Datenbekanntgabe",
+      "content": "1 2 Sie kann die Daten durch Abrufverfahren zugänglich machen. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "7. Abschnitt: Informationssystem Pontoniere",
+      "section": "34",
+      "title": "Datenaufbewahrung",
+      "content": "Die Daten des IPont werden während zehn Jahren ab Erfassung aufbewahrt. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art34a",
+      "chapter": "8. Abschnitt:",
+      "section": "34a",
+      "title": "a Verantwortliches Organ",
+      "content": "Die Gruppe Verteidigung betreibt das Informationssystem Auslandeinsatzadministration (HYDRA). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art34b",
+      "chapter": "8. Abschnitt:",
+      "section": "34b",
+      "title": "b Zweck",
+      "content": "Das HYDRA dient der Gruppe Verteidigung für: a. die Administration des Dienstbüchleins bei Auslandeinsätzen von Angehörigen der Armee; b. bei Erstellung von Auslandauszeichnungen für Personen, die an friedenserhaltenden Missionen teilnehmen; c. die Urlaubsadministration; d. die Registrierung von Meldungen von Vorfällen an die Militärversicherung. Ausdruck Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Die Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art34c",
+      "chapter": "8. Abschnitt:",
+      "section": "34c",
+      "title": "c Daten",
+      "content": "Die im HYDRA enthaltenen Daten sind im Anhang 13 a aufgeführt."
+    },
+    {
+      "provision_ref": "art34d",
+      "chapter": "8. Abschnitt:",
+      "section": "34d",
+      "title": "d Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das HYDRA: a. bei den betreffenden Personen; b. aus dem PERAUS."
+    },
+    {
+      "provision_ref": "art34e",
+      "chapter": "8. Abschnitt:",
+      "section": "34e",
+      "title": "e Datenbekanntgabe",
+      "content": "Die Daten des HYDRA werden ausschliesslich innerhalb der Gruppe Verteidigung bearbeitet. Eine Datenbekanntgabe findet nicht statt."
+    },
+    {
+      "provision_ref": "art34f",
+      "chapter": "8. Abschnitt:",
+      "section": "34f",
+      "title": "f Datenaufbewahrung",
+      "content": "Die Daten im HYDRA werden längstens bis zum Erreichen der Altersgrenze für einen Friedensförderungseinsatz aufbewahrt."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "1. Abschnitt: Führungsinformationssysteme nach MIG",
+      "section": "35",
+      "title": "Informations- und Einsatz-System Koordinierter Sanitätsdienst",
+      "content": "(Art. 74 MIG) 1 Die im Informations- und Einsatz-System Koordinierter Sanitätsdienst (IES-KSD) enthaltenen Daten sind im Anhang 14 aufgeführt. 2 Die Daten des IES-KSD werden im Rahmen der Tauglichkeitsbeurteilung in Rekrutierungszentren den zuständigen externen Gutachterinnen und Gutachtern bekannt gegeben."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "1. Abschnitt: Führungsinformationssysteme nach MIG",
+      "section": "36",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 26. Juni 2013, mit Wirkung seit 1. Aug. 2013 ( AS 2013 2209 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "1. Abschnitt: Führungsinformationssysteme nach MIG",
+      "section": "37",
+      "title": "Informationssystem Administration für Dienstleistungen",
+      "content": "(Art. 86 MIG) 1 Die im Informationssystem Administration für Dienstleistungen (MIL Office) enthaltenen Daten sind in Anhang 16 aufgeführt. 2 … Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Eingefügt durch Ziff. I der V vom 20. Mai 2020 ( AS 2020 2035 ). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "1. Abschnitt: Führungsinformationssysteme nach MIG",
+      "section": "38",
+      "title": "",
+      "content": "(Art. 92 MIG) 1 Die im Informationssystem Kompetenzmanagement (ISKM) enthaltenen Daten sind in Anhang 17 aufgeführt. 2 Die Daten für das ISKM können über eine Schnittstelle beschafft werden aus: a. dem PISA; b. dem Informationssystem Ausbildungsmanagement (Learning Management System VBS; LMS VBS); c. dem Informationssystem Personaldatenmanagement (IPDM). 3 Die Daten des ISKM werden zugänglich gemacht: a. der betreffenden Person für die Einsicht in ihre Daten und für deren Bearbeitung; b. den zivilen und militärischen Vorgesetzten der betreffenden Person zur Erfüllung ihrer gesetzlichen Aufgaben; c. den zuständigen Personalfachstellen und Personalverantwortlichen sowie den für die Kaderplanung und -entwicklung und das Kompetenzmanagement zuständigen Personen des VBS zur Erfüllung ihrer gesetzlichen Aufgaben. Fassung gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Juli 2016 ( AS 2016 2101 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Anhang 8 Ziff. II 4 der V vom 22. Nov. 2017 über den Schutz von Personendaten des Bundespersonals, in Kraft seit 1. Jan. 2018 ( AS 2017 7271 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 26. Juni 2013, mit Wirkung seit 1. Aug. 2013 ( AS 2013 2209 )."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Führungsinformationssystem Heer",
+      "content": "(Art. 104 MIG) Die im Führungsinformationssystem Heer (FIS HE) enthaltenen Daten sind im Anhang 19 aufgeführt."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Führungsinformationssystem Luftwaffe",
+      "content": "(Art. 110 MIG) Die im Führungsinformationssystem Luftwaffe (FIS LW) enthaltenen Daten sind im Anhang 20 aufgeführt."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Führungsinformationssystem Soldat",
+      "content": "(Art. 116 MIG) Die im Führungsinformationssystem Soldat (IMESS) enthaltenen Daten sind im Anhang 21 aufgeführt."
+    },
+    {
+      "provision_ref": "art4347",
+      "chapter": "2. Abschnitt: …",
+      "section": "4347",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art4852",
+      "chapter": "3. Abschnitt: …",
+      "section": "4852",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art52a",
+      "chapter": "78",
+      "section": "52a",
+      "title": "a Zweck und verantwortliches Organ",
+      "content": "1 Das Informationssystem Prozess- und ereignisgesteuertes Automatisierungs- und Steuerungsunterstützungs-System (PEGASUS) dient der Verwaltung von Benutzerinnen und Benutzern des Datennetzwerks des VBS sowie der automatischen Erstellung der technischen Identitäten dieser Personen für den Zugang zu unterschiedlich klassifizierten Plattformen und Informationssystemen dieses Datennetzwerks. 2 2bis ausgetauscht werden, soweit sie dort bearbeitet werden dürfen. Das PEGASUS kann hierzu in den Verbund der IAM-Systeme nach Artikel 20 IAMV eingebunden werden. 3 Die Gruppe Verteidigung betreibt das PEGASUS. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). SR 172.010.59 Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art52b",
+      "chapter": "78",
+      "section": "52b",
+      "title": "b Daten",
+      "content": "Die im PEGASUS enthaltenen Daten sind im Anhang 23 a aufgeführt."
+    },
+    {
+      "provision_ref": "art52c",
+      "chapter": "78",
+      "section": "52c",
+      "title": "c Datenbeschaffung",
+      "content": "Die Daten des PEGASUS werden beschafft: a. aus dem Informationssystem Datendrehscheibe Verteidigung (DDSV); b. aus dem PISA; c. aus den nach der IAMV betriebenen IAM-Systemen und Verzeichnisdiensten; d. aus dem zentralen Identitätsspeicher nach Artikel 13 IAMV. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). SR 172.010.59"
+    },
+    {
+      "provision_ref": "art52d",
+      "chapter": "78",
+      "section": "52d",
+      "title": "d Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des PEGASUS zugänglich: a. den Benutzerinnen und Benutzern des Datennetzwerkes des VBS: die Daten nach Anhang 23 a Ziffern 1–28 und 35; b. den für die Verwaltung des Datennetzwerkes des VBS zuständigen Personen: die Daten nach Anhang 23 a Ziffern 29–37; die Daten nach Ziffer 36 dürfen nur für Konfigurationszwecke verwendet werden und nicht über Benutzerschnittstellen ersichtlich sein; c. … d. dem Informationssystem «Militärische Plattform» (MIL PLATTFORM): die Daten nach Anhang 33 d Ziffer 1; e. den Plattformen und Informationssystemen des Datennetzwerkes des VBS, für welche die Benutzerinnen und Benutzer sowie deren technische Identitäten im PEGASUS verwaltet werden: die für den Zugang zu diesen Plattformen und Informationssystemen benötigten Daten; f. den nach der IAMV betriebenen IAM-Systemen und Verzeichnisdiensten; g. dem zentralen Identitätsspeicher nach Artikel 13 IAMV. 2 . Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 ). Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). SR 172.010.59 Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art52e",
+      "section": "52e",
+      "title": "e Datenaufbewahrung",
+      "content": "1 Die Daten nach Anhang 23 a Ziffer 37 sind spätestens ein Jahr nach Wegfall der Zugangsberechtigung zu vernichten. 2 Die übrigen Daten des PEGASUS werden längstens während zehn Jahren nach Erlöschen des Benutzungsrechts aufbewahrt."
+    },
+    {
+      "provision_ref": "art52f",
+      "chapter": "90",
+      "section": "52f",
+      "title": "f Zweck und verantwortliches Organ",
+      "content": "1 Das Informationssystem Militärische Kommunikation (MilKo) dient der Verwaltung von Benutzerinnen und Benutzern von Kommunikationssystemen der Armee und der Militärverwaltung sowie der Bekanntgabe von deren Daten über die Infrastruktur dieser Kommunikationssysteme. 2 Die Gruppe Verteidigung betreibt das MilKo."
+    },
+    {
+      "provision_ref": "art52g",
+      "chapter": "90",
+      "section": "52g",
+      "title": "g Daten",
+      "content": "Die im MilKo enthaltenen Daten der Benutzerinnen und Benutzer von Kommunikationssystemen der Armee und der Militärverwaltung sind im Anhang 23 b aufgeführt."
+    },
+    {
+      "provision_ref": "art52h",
+      "chapter": "90",
+      "section": "52h",
+      "title": "h Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das MilKo: a. bei der betreffenden Person; b. bei den zuständigen Stellen und Personen der Armee und der Militärverwaltung; c. aus den folgenden Informationssystemen: 1. PISA, 2. IPV, 3. PEGASUS, 4. DDSV, 5. PSN; d. aus den nach der IAMV betriebenen IAM-Systemen und Verzeichnisdiensten; e. aus dem zentralen Identitätsspeicher nach Artikel 13 IAMV. SR 172.010.59"
+    },
+    {
+      "provision_ref": "art52i",
+      "chapter": "90",
+      "section": "52i",
+      "title": "i Datenbekanntgabe",
+      "content": "Die Gruppe Verteidigung macht die folgenden Daten des MilKo durch Abrufverfahren zugänglich: a. den Benutzerinnen und Benutzern von Kommunikationssystemen der Armee und der Militärverwaltung: die Daten nach Anhang 23 b Ziffern 1–8, 12 und 16–26; b. den für die Kommunikationssysteme zuständigen Stellen und Personen der Armee und der Militärverwaltung: sämtliche Daten."
+    },
+    {
+      "provision_ref": "art52j",
+      "chapter": "90",
+      "section": "52j",
+      "title": "j Datenaufbewahrung",
+      "content": "Die Daten des MilKo werden nach der Deregistrierung einer Benutzerin oder eines Benutzers eines Kommunikationssystems längstens während fünf Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art5357",
+      "chapter": "4. Abschnitt: …",
+      "section": "5357",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art57a",
+      "chapter": "5. Abschnitt:",
+      "section": "57a",
+      "title": "a Zweck und verantwortliches Organ",
+      "content": "1 Das militärische Dosimetriesystem (MDS) dient der zentralen Erfassung und Kontrolle der Warn- und Grenzwerte von Strahlendosen, denen Angehörige der Armee sowie Mitarbeiterinnen und Mitarbeiter des VBS während der Ausbildung oder eines Einsatzes ausgesetzt sind. 2 Die Gruppe Verteidigung betreibt das MDS. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art57b",
+      "chapter": "5. Abschnitt:",
+      "section": "57b",
+      "title": "b Daten",
+      "content": "Die im MDS enthaltenen Daten sind in Anhang 24 a aufgeführt. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art57c",
+      "chapter": "5. Abschnitt:",
+      "section": "57c",
+      "title": "c Datenbeschaffung",
+      "content": "Die für das MDS zuständigen Angehörigen der Armee sowie die entsprechenden Mitarbeiterinnen und Mitarbeiter des VBS beschaffen die Daten für das MDS: a. bei den betreffenden Angehörigen der Armee aus dem PISA; b. bei den betreffenden Mitarbeiterinnen und Mitarbeitern des VBS oder bei deren Vorgesetzten; c. durch den Einsatz elektronischer Dosimeter. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art57d",
+      "chapter": "5. Abschnitt:",
+      "section": "57d",
+      "title": "d Datenbekanntgabe",
+      "content": "Die Gruppe Verteidigung macht die Daten des MDS folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den Strahlenschutzsachverständigen des Kompetenzzentrums der Armee zur Beseitigung von atomaren, biologischen und chemischen Kampfmitteln sowie zur Minenräumung (Komp Zen ABC-KAMIR); b. den für die Messung und Kontrolle zuständigen Angehörigen der Armee sowie den entsprechenden Mitarbeiterinnen und Mitarbeitern des VBS für ihren jeweiligen Bereich. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art57e",
+      "section": "57e",
+      "title": "e Datenaufbewahrung",
+      "content": "Die Daten im MDS werden nach der Erfassung längstens während fünf Jahren aufbewahrt. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "6. Abschnitt:",
+      "section": "57",
+      "title": "f",
+      "content": "1 Die Gruppe Verteidigung kann zum Zweck der zeitgerechten Dienstleistungserbringung den Standort der Nutzerinnen und Nutzer von Fahrzeugen und Kommunikationsgeräten mittels ausschaltbarer Geolokalisierungssysteme bestimmen. 2 Aufgezeichnete Standortdaten werden innerhalb von 24 Stunden vernichtet. Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 )."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "1. Abschnitt: Ausbildungsinformationssysteme nach MIG",
+      "section": "58",
+      "title": "Informationssysteme von Simulatoren",
+      "content": "(Art. 122 MIG) Die in Informationssystemen von Simulatoren enthaltenen Daten sind im Anhang 25 aufgeführt."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "1. Abschnitt: Ausbildungsinformationssysteme nach MIG",
+      "section": "59",
+      "title": "Informationssystem Ausbildungsmanagement (Learning Management System VBS)",
+      "content": "(Art. 128 MIG) 1 Die im Informationssystem Ausbildungsmanagement (Learning Management System VBS; LMS VBS) enthaltenen Daten sind in Anhang 26 aufgeführt. [tab] 2 Die Daten für das LMS VBS können aus dem zentralen Identitätsspeicher nach Artikel 13 IAMV beschafft werden, soweit dies in Anhang 26 vorgesehen ist. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 )."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "1. Abschnitt: Ausbildungsinformationssysteme nach MIG",
+      "section": "60",
+      "title": "Informationssystem Schulungsnachweis Gute Herstellungspraxis",
+      "content": "(Art. 134 MIG) Die im Informationssystem Schulungsnachweis Gute Herstellungspraxis (ISGMP) enthaltenen Daten sind im Anhang 27 aufgeführt."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "1. Abschnitt: Ausbildungsinformationssysteme nach MIG",
+      "section": "61",
+      "title": "Informationssystem Strassenverkehr und Schifffahrt der Armee",
+      "content": "(Art. 140 MIG) Die im Informationssystem Strassenverkehr und Schifffahrt der Armee (FA-SVSAA) enthaltenen Daten sind im Anhang 28 aufgeführt. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art61a",
+      "chapter": "1. Abschnitt: Ausbildungsinformationssysteme nach MIG",
+      "section": "61a",
+      "title": "a Informationssystem Fliegerische Aus- und Weiterbildung",
+      "content": "(Art. 143 c MIG) Die im Informationssystem Fliegerische Aus- und Weiterbildung (SPHAIR-Expert) enthaltenen Daten sind in Anhang 28 a aufgeführt. Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art61b",
+      "section": "61b",
+      "title": "b Informationssystem Führungsausbildung",
+      "content": "(Art. 143 i MIG) Die im Informationssystem Führungsausbildung (ISFA) enthaltenen Daten sind im Anhang 29 aufgeführt. Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art6266",
+      "chapter": "2. Abschnitt: …",
+      "section": "6266",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art66a66e",
+      "chapter": "2. Abschnitt: …",
+      "section": "66a66e",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 6. Juli 2011 ( AS 2011 3323 ). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art66f66j",
+      "chapter": "2. Abschnitt: …",
+      "section": "66f66j",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 26. Juni 2013 ( AS 2013 2209 ). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "115",
+      "section": "67",
+      "title": "Informationssystem Personensicherheitsprüfung",
+      "content": "(Art. 146 MIG) 1 Die im Informationssystem Personensicherheitsprüfung (SIBAD) enthaltenen Daten sind im Anhang 30 aufgeführt. 2 Folgenden Informationssystemen werden die nachstehenden Daten des SIBAD bekannt gegeben: a. … b. dem MIL PLATTFORM: die Daten nach Anhang 33 d Ziffer 2. Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 ). Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "115",
+      "section": "68",
+      "title": "Informationssystem Industriesicherheitskontrolle",
+      "content": "(Art. 152 MIG) 1 Die im Informationssystem Industriesicherheitskontrolle (ISKO) enthaltenen, aus dem SIBAD bezogenen Daten sind in Anhang 31 Ziffern 1–16, die enthaltenen Firmendaten in Anhang 31 Ziffern 17–50 aufgeführt. 2 Mit dem Prüfungsentscheid und der Sicherheitsstufe dürfen der oder dem Geheimschutzbeauftragten der Arbeitgeberin oder des Arbeitgebers die für die Identifikation der betreffenden Person notwendigen Daten gemäss Anhang 31 Ziffern 1–10 bekannt gegeben werden. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "115",
+      "section": "69",
+      "title": "Informationssystem Besuchsanträge",
+      "content": "(Art. 158 MIG) 1 Die im Informationssystem Besuchsanträge (SIBE) enthaltenen Daten sind im Anhang 32 aufgeführt. 2 Mit dem Prüfungsentscheid und der Sicherheitsstufe dürfen den für die Bearbeitung der Besuchsanträge zuständigen Sicherheitsbehörden des zu besuchenden Landes die für die Identifikation der betreffenden Person notwendigen Daten gemäss Anhang 32 Ziffern 1–10 bekannt gegeben werden. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "115",
+      "section": "70",
+      "title": "Informationssystem Zutrittskontrolle",
+      "content": "(Art. 164 MIG) Die im Informationssystem Zutrittskontrolle (ZUKO) enthaltenen Daten sind im Anhang 33 aufgeführt."
+    },
+    {
+      "provision_ref": "art70bis",
+      "section": "70bis",
+      "title": "bis Journal- und Rapportsystem der Militärpolizei",
+      "content": "(Art. 167 c MIG, Art. 100 Abs. 3 Bst. a MG) 1 Die im Journal- und Rapportsystem der Militärpolizei (JORASYS) enthaltenen Daten sind in Anhang 33 bis aufgeführt. 2 Das JORASYS enthält auch die gestützt auf Artikel 100 Absatz 3 Buchstabe a MG bearbeiteten Daten. Eingefügt durch Ziff. I der V vom 10. Jan. 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70ter",
+      "section": "70ter",
+      "title": "ter Informationssystem Präventiver Schutz der Armee",
+      "content": "(Art. 167 i MIG, Art. 100 Abs. 3 Bst. a MG) Die im Informationssystem Präventiver Schutz der Armee (IPSA) enthaltenen Daten sind in Anhang 33 ter aufgeführt. Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70a",
+      "chapter": "2. Abschnitt:",
+      "section": "70a",
+      "title": "a Zweck und verantwortliches Organ",
+      "content": "1 Das elektronische Aufgebotssystem (E-Aufgebot) dient dem Aufgebot der Angehörigen der Armee sowie der Mitglieder von Krisenstäben. 2 Die Gruppe Verteidigung betreibt das E-Aufgebot. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70b",
+      "chapter": "2. Abschnitt:",
+      "section": "70b",
+      "title": "b Daten",
+      "content": "Die im E-Aufgebot enthaltenen Daten sind in Anhang 33 a aufgeführt. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70c",
+      "chapter": "2. Abschnitt:",
+      "section": "70c",
+      "title": "c Datenbeschaffung",
+      "content": "Die für das E-Aufgebot verantwortlichen Stellen und Personen beschaffen die Daten: a. der Angehörigen der Armee: aus dem PISA; b. der Mitglieder von Krisenstäben: bei den betreffenden Mitarbeiterinnen und Mitarbeitern des VBS. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70d",
+      "chapter": "2. Abschnitt:",
+      "section": "70d",
+      "title": "d Datenbekanntgabe",
+      "content": "Folgende Daten des E-Aufgebots werden nachstehenden Stellen und Personen bekannt gegeben: a. sämtliche Daten: den verantwortlichen Militärbehörden und den zuständigen militärischen Kommandos; b. die für das elektronische Aufgebot notwendigen Telefonnummern und E‑Mail-Adressen: den mit dem elektronischen Aufgebot beauftragten Dritten. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70e",
+      "section": "70e",
+      "title": "e Datenaufbewahrung",
+      "content": "Die im E-Aufgebot erfassten Daten werden längstens aufbewahrt bis: a. zur Entlassung der Angehörigen der Armee aus der Militärdienstpflicht; b. zum Ausscheiden der Mitglieder von Krisenstäben aus dem jeweiligen Krisenstab. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70f",
+      "chapter": "3. Abschnitt:",
+      "section": "70f",
+      "title": "f Zweck und verantwortliches Organ",
+      "content": "1 Das elektronische Flugsicherheitsmeldesystem «Hazard and Risk Analysis Management» (HARAM) dient der Bearbeitung von Meldungen über besondere Vorkommnisse, aussergewöhnliche Ereignisse und Sicherheitslücken im Bereich der militärischen Flugoperationen. 2 Die Gruppe Verteidigung betreibt das HARAM. Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art70g",
+      "chapter": "3. Abschnitt:",
+      "section": "70g",
+      "title": "g Daten",
+      "content": "Die im HARAM enthaltenen Daten sind im Anhang 33 b aufgeführt."
+    },
+    {
+      "provision_ref": "art70h",
+      "chapter": "3. Abschnitt:",
+      "section": "70h",
+      "title": "h Datenbeschaffung",
+      "content": "Die Daten im HARAM werden beschafft bei: a. Personen, welche die Sicherheitsberichte der Luftwaffe bei aussergewöhnlichen Ereignissen, besonderen Vorkommnissen und Sicherheitslücken bei Flugoperationen nutzen; b. der Flugsicherheit der Luftwaffe."
+    },
+    {
+      "provision_ref": "art70i",
+      "chapter": "3. Abschnitt:",
+      "section": "70i",
+      "title": "i Datenbekanntgabe",
+      "content": "Zugang zu den personenbezogenen Daten des HARAM hat ausschliesslich die Abteilung Flugsicherheit der Luftwaffe."
+    },
+    {
+      "provision_ref": "art70k",
+      "chapter": "3. Abschnitt:",
+      "section": "70k",
+      "title": "k Datenaufbewahrung",
+      "content": "Personenbezogene Daten werden zehn Jahre nach der Meldung anonymisiert und ohne zeitliche Befristung aufbewahrt."
+    },
+    {
+      "provision_ref": "art70l70p",
+      "chapter": "4. Abschnitt: …",
+      "section": "70l70p",
+      "title": "",
+      "content": "Eingefügt durch Anhang Ziff. 1 der V vom 17. Dez. 2014 ( AS 2015 195 ). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70q",
+      "chapter": "5. Abschnitt:",
+      "section": "70q",
+      "title": "q Zweck und verantwortliches Organ",
+      "content": "1 Das MIL PLATTFORM dient der operativen Führung der Armee über alle Lagen als Führungsinformationssystem. Darin werden Daten zur Erfüllung folgender Aufgaben bearbeitet: a. biometrische Identifikation und Vereinzelung von Personen; b. Kontrolle, Gewährung, Verweigerung und Protokollierung des Zugangs zum MIL PLATTFORM. 2 Die Gruppe Verteidigung betreibt das MIL PLATTFORM."
+    },
+    {
+      "provision_ref": "art70r",
+      "chapter": "5. Abschnitt:",
+      "section": "70r",
+      "title": "r Daten",
+      "content": "Die im MIL PLATTFORM enthaltenen Daten sind in Anhang 33 d aufgeführt."
+    },
+    {
+      "provision_ref": "art70s",
+      "chapter": "5. Abschnitt:",
+      "section": "70s",
+      "title": "s Datenbeschaffung",
+      "content": "Die Daten des MIL PLATTFORM werden beschafft: a. bei den zum MIL PLATTFORM zugangsberechtigten Personen; b. bei den militärischen Kommandos; c. bei den zuständigen Verwaltungseinheiten des Bundes; d. aus dem PEGASUS: die Daten nach Anhang 33 d Ziffer 1; e. aus dem SIBAD: die Daten nach Anhang 33 d Ziffer 2. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70t",
+      "chapter": "5. Abschnitt:",
+      "section": "70t",
+      "title": "t Datenbekanntgabe",
+      "content": "Die Daten des MIL PLATTFORM werden über eine geschlossene Benutzerinnen- und Benutzergruppe zugänglich gemacht: a. den für den technischen Betrieb des MIL PLATTFORM zuständigen Mitarbeiterinnen und Mitarbeitern; b. den für die Administration der Benutzerinnen und Benutzer der MIL PLATTFORM, für die Erteilung von Zugangsberechtigungen sowie für die Zugangskontrolle zuständigen Mitarbeiterinnen und Mitarbeitern. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art70u",
+      "chapter": "5. Abschnitt:",
+      "section": "70u",
+      "title": "u Datenaufbewahrung",
+      "content": "1 Die Daten nach Anhang 33 d Ziffern 1, 2, 4 und 6 werden ein Jahr nach Wegfall der Zugangsberechtigung der betreffenden Person vernichtet. 2 Die Daten nach Anhang 33 d Ziffern 3 und 5 werden ein Jahr nach ihrer Erfassung vernichtet."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "1. Abschnitt: Übrige Informationssysteme nach MIG",
+      "section": "71",
+      "title": "Informationssystem Schadenzentrum VBS (SCHAMIS)",
+      "content": "(Art. 170 MIG) Die im SCHAMIS enthaltenen Daten sind in Anhang 34 aufgeführt. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "1. Abschnitt: Übrige Informationssysteme nach MIG",
+      "section": "72",
+      "title": "Informationssystem Datendrehscheibe Verteidigung (DDSV)",
+      "content": "(Art. 176 MIG) Die im DDSV enthaltenen Daten sind in Anhang 35 aufgeführt. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art72bis",
+      "chapter": "1. Abschnitt: Übrige Informationssysteme nach MIG",
+      "section": "72bis",
+      "title": "bis PSN",
+      "content": "(Art. 179 c MIG) 1 Die im PSN enthaltenen Daten sind in Anhang 35 bis aufgeführt. 2 Das PSN bezweckt auch den Austausch von Daten zwischen militärischen Informationssystemen und mit Informationssystemen nach Artikel 32 a WG. 3 Die Datenbeschaffung nach Artikel 179 d Buchstabe e MIG kann auch aus allen Informationssystemen nach Artikel 32 a WG erfolgen. 4 Die Verwaltungseinheiten der Gruppe Verteidigung geben die Daten des PSN zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben auch bekannt: a. der Zentralstelle Waffen für die Bearbeitung in den Informationssystemen nach Artikel 32 a WG; b. dem PISA über eine Schnittstelle: die Meldungen der Zentralstelle Waffen nach Artikel 32 c Absatz 4 WG. Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art72ter",
+      "chapter": "1. Abschnitt: Übrige Informationssysteme nach MIG",
+      "section": "72ter",
+      "title": "ter Informationssystem Schiesswesen ausser Dienst",
+      "content": "(Art. 179 i MIG) Die im Informationssystem Schiesswesen ausser Dienst (SaD) enthaltenen Daten sind in Anhang 35 ter aufgeführt. Eingefügt durch Ziff. I der V vom 10. Jan. 2018 ( AS 2018 641 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art72quater",
+      "chapter": "1. Abschnitt: Übrige Informationssysteme nach MIG",
+      "section": "72quater",
+      "title": "quater Informationssystem Master Data Management",
+      "content": "(Art. 179 o MIG) Die im Informationssystem Master Data Management (MDM) enthaltenen Daten sind in Anhang 35 quater aufgeführt. Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art72a72e",
+      "chapter": "2. Abschnitt: …",
+      "section": "72a72e",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 6. Juli 2011 ( AS 2011 3323 ). Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Juli 2020 ( AS 2020 2035 )."
+    },
+    {
+      "provision_ref": "art72f72f",
+      "chapter": "3. Abschnitt: …",
+      "section": "72f72f",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 26. Juni 2013 ( AS 2013 2209 ). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art72g72g",
+      "chapter": "4. Abschnitt: …",
+      "section": "72g72g",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 26. Juni 2013 ( AS 2013 2209 ). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art72g",
+      "chapter": "4. Abschnitt: …",
+      "section": "72g",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 10. Juni 2016 ( AS 2016 2101 ). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art72h",
+      "chapter": "5. Abschnitt:",
+      "section": "72h",
+      "title": "h Zweck und verantwortliches Organ",
+      "content": "Die Verwaltungseinheiten der Gruppe Verteidigung und die militärischen Kommandos dürfen zur Bewirtschaftung von Adressen, Lehrgängen und Ressourcen in dafür notwendigen Hilfsdatensammlungen nicht besonders schützenswerte Daten bearbeiten, sofern die Bearbeitung internen Zwecken dient. Diese Hilfsdatensammlungen dienen der Organisation der Arbeitsabläufe sowie der Planung und Führung von Schulen, Kursen und Anlässen und bedürfen keiner eigenständigen Grundlage."
+    },
+    {
+      "provision_ref": "art72hbis",
+      "chapter": "5. Abschnitt:",
+      "section": "72hbis",
+      "title": "h bis Daten",
+      "content": "In den Hilfsdatensammlungen dürfen ausschliesslich die für die jeweilige Aufgabenerfüllung notwendigen Daten nach Anhang 35 d bearbeitet werden."
+    },
+    {
+      "provision_ref": "art72hter",
+      "chapter": "5. Abschnitt:",
+      "section": "72hter",
+      "title": "h ter Datenbeschaffung",
+      "content": "Die Verwaltungseinheiten der Gruppe Verteidigung und die militärischen Kommandos beschaffen die Daten: a. von Angehörigen der Armee bei den betreffenden Personen oder aus dem PISA; b. bei den betreffenden Angestellten des VBS oder bei deren Vorgesetzten; c. von Dritten bei den betreffenden Personen oder über offen zugängliche Quellen. Ausdruck gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ( AS 2018 641 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art72hquater",
+      "chapter": "5. Abschnitt:",
+      "section": "72hquater",
+      "title": "h quater Datenbekanntgabe",
+      "content": "Die Daten von Hilfsdatensammlungen können den zuständigen Personen der Gruppe Verteidigung und den berechtigten militärischen Kommandos durch Abrufverfahren zugänglich gemacht werden."
+    },
+    {
+      "provision_ref": "art72hquinquies",
+      "chapter": "5. Abschnitt:",
+      "section": "72hquinquies",
+      "title": "h quinquies Datenaufbewahrung",
+      "content": "Die Daten in Hilfsdatensammlungen dürfen nach Abschluss der Schule, des Kurses oder des Anlasses und nach Auflösung des Lieferanten- und Arbeitsverhältnisses längstens während zwei Jahren aufbewahrt werden."
+    },
+    {
+      "provision_ref": "art72i72i",
+      "chapter": "6. Abschnitt: ...",
+      "section": "72i72i",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 26. Juni 2013 ( AS 2013 2209 ). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art72j",
+      "chapter": "7. Abschnitt:",
+      "section": "72j",
+      "title": "j Verantwortliches Organ",
+      "content": "Die armasuisse betreibt für die Verwaltungseinheiten des VBS, die nicht der Gruppe Verteidigung angehören, das Informationssystem über das Personal der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung (PSB) und stellt es diesen zur Verfügung."
+    },
+    {
+      "provision_ref": "art72jbis",
+      "chapter": "7. Abschnitt:",
+      "section": "72jbis",
+      "title": "j bis Zweck",
+      "content": "Das PSB dient der Bearbeitung von Daten der Zeit- und Leistungswirtschaft des Personals der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung, der Abwicklung der Supportprozesse Finanzen und Logistik sowie der Erfüllung der Aufgaben des Immobilienmanagements."
+    },
+    {
+      "provision_ref": "art72jter",
+      "chapter": "7. Abschnitt:",
+      "section": "72jter",
+      "title": "j ter Daten",
+      "content": "Die im PSB enthaltenen Daten sind im Anhang 35 f aufgeführt."
+    },
+    {
+      "provision_ref": "art72jquater",
+      "chapter": "7. Abschnitt:",
+      "section": "72jquater",
+      "title": "j quater Datenbeschaffung",
+      "content": "Die Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung beschaffen die Daten für das PSB: a. bei den betreffenden Mitarbeiterinnen und Mitarbeitern dieser Verwaltungseinheiten; b. bei den direkten Vorgesetzten der betreffenden Mitarbeiterinnen und Mitarbeiter; c. aus dem IPDM. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art72jquinquies",
+      "chapter": "7. Abschnitt:",
+      "section": "72jquinquies",
+      "title": "j quinquies Datenbekanntgabe",
+      "content": "1 Die Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung machen die Daten des PSB folgenden Stellen und Personen durch Abrufverfahren zugänglich: a. den Mitarbeiterinnen und Mitarbeitern dieser Verwaltungseinheiten für die Einsicht in ihre Daten und für deren Bearbeitung; b. den Personalfachstellen für die Bearbeitung der Daten der Mitarbeiterinnen und Mitarbeiter in ihrem Bereich; c. den Vorgesetzten zur Einsicht in die Daten der ihnen unterstellten Mitarbeiterinnen und Mitarbeiter sowie zur Kontrolle und Genehmigung der Daten, die durch die ihnen unterstellten Mitarbeiterinnen und Mitarbeiter bearbeitet werden; d. bei Übertritten des Personals innerhalb des VBS den neu zuständigen Personalfachstellen und Vorgesetzten nach den Buchstaben b und c. 2 Sie geben die Daten des PSB bekannt: a. dem IPDM; b. dem IAM-System nach Artikel 5 Absatz 1 Buchstabe c IAMV. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 ). SR 172.010.59"
+    },
+    {
+      "provision_ref": "art72jsexies",
+      "section": "72jsexies",
+      "title": "j sexies Datenaufbewahrung",
+      "content": "Die Personaldaten der Mitarbeiterinnen und Mitarbeiter werden nach Beendigung des Arbeitsverhältnisses mit einer Verwaltungseinheit ausserhalb der Gruppe Verteidigung längstens während zehn Jahren aufbewahrt. Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art72k",
+      "chapter": "8. Abschnitt:",
+      "section": "72k",
+      "title": "k Zweck und verantwortliches Organ",
+      "content": "1 Das Informationssystem Flugplanung und Flugunterstützung (FPU) dient bei Flügen der Luftwaffe: a. der Planung sowie der Vor- und Nachbereitung der Flüge; b. der Unterstützung des Flugpersonals und Dritter bei der: 1. Durchführung der Flüge, 2. Erbringung von Leistungen zugunsten der Flüge und der mitfliegenden oder an ihnen mitwirkenden Personen; c. der Wahrnehmung von Aufgaben in den Bereichen des Flugverkehrs und der Flugsicherheit; d. der Protokollierung der Flüge; e. der Abwicklung von Entschädigungs- und Versicherungsansprüchen. 2 Die Gruppe Verteidigung betreibt das FPU."
+    },
+    {
+      "provision_ref": "art72kbis",
+      "chapter": "8. Abschnitt:",
+      "section": "72kbis",
+      "title": "k bis Daten",
+      "content": "Die im FPU enthaltenen Daten von militärischen und zivilen Pilotinnen und Piloten, weiteren Flugpersonal-Mitgliedern, Flugpassagieren, Fallschirmaufklärerinnen und Fallschirmaufklärern sowie Dritten, die im Zusammenhang mit einem Flug oder zugunsten der mitfliegenden oder am Flug mitwirkenden Personen Leistungen erbringen, sind in Anhang 35 g aufgeführt."
+    },
+    {
+      "provision_ref": "art72kter",
+      "chapter": "8. Abschnitt:",
+      "section": "72kter",
+      "title": "k ter Datenbeschaffung",
+      "content": "Die Gruppe Verteidigung beschafft die Daten für das FPU: a. bei der betreffenden Person oder deren gesetzlicher Vertretung; b. bei den von der betreffenden Person genannten Referenzpersonen; c. bei den militärischen und zivilen Stellen sowie den verwaltungsinternen und verwaltungsexternen Personen, die: 1. für die Planung, die Vor- und Nachbereitung sowie die Durchführung der Flüge der Luftwaffe zuständig sind, 2. Aufgaben in den Bereichen des Flugverkehrs oder der Flugsicherheit wahrnehmen, oder 3. für die Abwicklung von Entschädigungs- und Versicherungsansprüchen zuständig sind; d. aus dem FIS LW; e. aus dem HARAM; f. aus den für die Flugplanung, die Flugunterstützung, den Flugverkehr und die Flugsicherheit eingesetzten Datenbanken, Informationssystemen und elektronischen Plattformen Dritter."
+    },
+    {
+      "provision_ref": "art72kquater",
+      "chapter": "8. Abschnitt:",
+      "section": "72kquater",
+      "title": "k quater Datenbekanntgabe",
+      "content": "1 Die Gruppe Verteidigung macht die Daten des FPU den folgenden Stellen und Personen zugänglich, soweit sie diese zur Erfüllung ihrer Aufgaben benötigen: a. den militärischen und zivilen Pilotinnen und Piloten sowie den weiteren Flugpersonal-Mitgliedern, die einen Flug der Luftwaffe durchführen; b. den Fallschirmaufklärerinnen und Fallschirmaufklärern, die auf einem Flug der Luftwaffe mitfliegen; c. den weiteren militärischen und zivilen Stellen sowie den verwaltungsinternen und verwaltungsexternen Personen, die: 1. für die Planung, die Vor- und Nachbereitung sowie die Durchführung der Flüge der Luftwaffe zuständig sind, 2. für Flüge der Luftwaffe Aufgaben in den Bereichen des Flugverkehrs oder der Flugsicherheit wahrnehmen, 3. sonstige Leistungen im Zusammenhang mit einem Flug der Luftwaffe oder zugunsten der mitfliegenden oder an einem Flug der Luftwaffe mitwirkenden Personen erbringen, oder 4. für die Abwicklung von Entschädigungs- und Versicherungsansprüchen zuständig sind; d. Dritten, die Datenbanken, Informationssysteme und elektronische Plattformen betreiben, die für die Flugplanung, die Flugunterstützung, den Flugverkehr und die Flugsicherheit eingesetzt werden. 2 Sie teilt den Departementen und der Bundeskanzlei je zu den Flügen, die für diese gestützt auf die Verordnung vom 24. Juni 2009 über den Lufttransportdienst des Bundes durchgeführt wurden, jährlich aus dem FPU mit: a. das Datum und den Ort der Landung; b. den eingesetzten Flugzeugtyp; c. die Vor- und Nachnamen der Flugpassagiere, die nicht dem Flugpersonal angehören. SR 172.010.331"
+    },
+    {
+      "provision_ref": "art72kquinquies",
+      "section": "72kquinquies",
+      "title": "k quinquies Datenaufbewahrung",
+      "content": "1 Die nicht flugbezogenen Daten des FPU von Personen im Flugdienst und von militärdienstpflichtigen Personen werden bis fünf Jahre nach deren Entlassung aus dem Flugdienst oder der Militärdienstpflicht aufbewahrt. 2 Die Daten von Personen im Flugdienst und von militärdienstpflichtigen Personen im Zusammenhang mit der Abwicklung von Entschädigungs- und Versicherungsansprüchen werden bis zehn Jahre nach der Entlassung aus dem Flugdienst oder der Militärdienstpflicht aufbewahrt. 3 Die übrigen Daten des FPU werden nach der Durchführung eines Fluges während zwei Jahren aufbewahrt."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "7. Kapitel: …",
+      "section": "73",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ( AS 2018 641 )."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "8. Kapitel: Überwachungsmittel",
+      "section": "74",
+      "title": "Zulässige Überwachungsmittel",
+      "content": "1 Die Armee und die Militärverwaltung dürfen nur Überwachungsmittel einsetzen, die ordentlich beschafft wurden oder sich in der Evaluation, Truppenerprobung oder Einführung befinden und deren Einsatz zum konkreten Auftrag verhältnismässig ist. 2 Die zivilen Behörden erbringen bei der Einreichung eines Gesuches um Einsatz von luftgestützten Überwachungsmitteln den Nachweis, dass die Rechtsgrundlagen nach Artikel 183 Absatz 2 MIG bestehen. Die Gruppe Verteidigung überprüft den Nachweis. Fehlen die Rechtsgrundlagen, so wird das Gesuch nicht bewilligt. [tab] 3 Die Gruppe Verteidigung berichtet dem VBS jährlich zuhanden der Sicherheitspolitischen Kommissionen beider Räte summarisch über: a. den Zweck sowie die Dauer und Anzahl der Einsätze nach Artikel 181 Absatz 2 MIG; b. die Art der verwendeten Überwachungsmittel; c. die Art der Behörden, zugunsten derer die Einsätze erfolgt sind. Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 ). Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 ). Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 )."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "8. Kapitel: Überwachungsmittel",
+      "section": "75",
+      "title": "Verdeckter Einsatz",
+      "content": "Überwachungsmittel dürfen verdeckt eingesetzt werden, wenn sonst die Erfüllung der Aufgaben gefährdet wäre; insbesondere: a. wenn Informationen beschafft werden müssen, die bei einem offenen Einsatz nicht preisgegeben würden; b. zum Schutz der Stellen und Personen, die die Überwachungsmittel einsetzen; c. wenn ein offener Einsatz unmöglich ist. Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ( AS 2020 2035 )."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "8. Kapitel: Überwachungsmittel",
+      "section": "76",
+      "title": "Datenbekanntgabe",
+      "content": "Als für die Strafverfolgung von Bedeutung gelten Daten über: a. Handlungen, die strafbar sein könnten; b. Informationen, die zur Verhinderung oder Aufklärung von Straftaten beitragen könnten."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "77",
+      "title": "Änderung bisherigen Rechts",
+      "content": "Die Änderung bisherigen Rechts wird im Anhang 36 geregelt."
+    },
+    {
+      "provision_ref": "art77a",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "77a",
+      "title": "",
+      "content": "Eingefügt durch Anhang Ziff. 1 der V vom 17. Dez. 2014 ( AS 2015 195 , 2016 4331 ). Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ( AS 2023 133 )."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "9. Kapitel: Schlussbestimmungen",
+      "section": "78",
+      "title": "Inkrafttreten",
+      "content": "1 Diese Verordnung tritt am 1. Januar 2010 in Kraft. 2 Artikel 53 Absatz 1 Buchstabe b gilt längstens bis am 30. Juni 2011."
+    }
+  ],
+  "definitions": []
+}

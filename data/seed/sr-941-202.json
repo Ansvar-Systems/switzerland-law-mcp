@@ -1,0 +1,145 @@
+{
+  "id": "sr-941-202",
+  "type": "statute",
+  "title": "Einheitenverordnung vom 23. November 1994",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1994/3109_3109_3109/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Benennungen und Definitionen der gesetzlichen Masseinheiten (Einheiten) und ihrer Vielfachen und Teile; b. die Verwendung dieser Benennungen; c. ... Aufgehoben durch Ziff. I der V vom 7. Dez. 2012, mit Wirkung seit 1. Jan. 2013 ( AS 2012 7193 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Benennung von Einheiten",
+      "content": "1 Einheiten sowie deren Vielfache und Teile sind mit den in dieser Verordnung dafür vorgesehenen Namen und Zeichen zu benennen. 2 Physikalische Grössen, denen diese Verordnung keine spezielle Einheit zuordnet, sind durch Potenzprodukte aus Einheiten, welche diese Verordnung vorsieht, darzustellen. Für diese Potenzprodukte gilt ihr algebraischer Ausdruck als Benennung. 3 Soweit vorgeschriebene Zeichen für Einheiten fehlen, dürfen diese Einheiten nach der Norm DIN 66030:2002-05 dargestellt werden. 4 ... Deutsche Norm DIN 66030:2002-05, Informationstechnik – Darstellung von Einheitennamen in Systemen mit beschränktem Schriftzeichenvorrat. Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch, oder beim Eidg. Institut für Metrologie, 3003 Bern-Wabern kostenlos eingesehen werden. Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 7193 ). Aufgehoben durch Ziff. I der V vom 7. Dez. 2012, mit Wirkung seit 1. Jan. 2013 ( AS 2012 7193 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt:",
+      "section": "3",
+      "title": "",
+      "content": "Für die Basiseinheiten des Internationalen Einheitensystems (SI) nach Artikel 2 des Messgesetzes gelten die Definitionen, die mit der Resolution 1 der 26. Generalkonferenz für Mass und Gewicht vom 16. November 2018 festgelegt wurden. Der Text der Resolution kann auf Französisch und Englisch eingesehen werden beim Eidgenössischen Institut für Metrologie, Lindenweg 50, 3003 Bern-Wabern oder unter https://www.bipm.org/fr/committees/cg/cgpm/26-2018/resolution-1."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "2. Abschnitt:",
+      "section": "49",
+      "title": "",
+      "content": "Aufgehoben"
+    },
+    {
+      "provision_ref": "art1011",
+      "chapter": "3. Abschnitt: ...",
+      "section": "1011",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 7. Dez. 2012, mit Wirkung seit 1. Jan. 2013 ( AS 2012 7193 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Abgeleitete SI-Einheiten",
+      "section": "12",
+      "title": "Definition und Darstellung abgeleiteter SI-Einheiten",
+      "content": "1 Abgeleitete SI-Einheiten sind aus den SI-Basiseinheiten und den ergänzenden SI-Einheiten kohärent abgeleitete Einheiten. 2 Sie werden in der Form von Potenzprodukten aus den SI-Basiseinheiten und den ergänzenden SI-Einheiten mit dem Zahlenfaktor 1 dargestellt."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Abgeleitete SI-Einheiten",
+      "section": "13",
+      "title": "Besondere Benennungen für abgeleitete SI-Einheiten",
+      "content": "Folgende abgeleitete SI-Einheiten tragen besondere Namen und Zeichen: Grösse Einheitenname Einheitenzeichen in anderen SI-Einheiten in SI-Basiseinheiten Ebener Winkel Radiant rad m · m –1 Räumlicher Winkel Steradiant sr m 2 · m –2 Frequenz Hertz Hz s –1 Kraft Newton N m · kg · s –2 Druck, mechanische Spannung Pascal Pa N · m –2 m –1 · kg · s –2 Energie, Arbeit, Wärmemenge Joule J N · m m 2 · kg · s –2 Leistung, Energiefluss Watt W J · s –1 m 2 · kg · s –3 Elektrizitätsmenge, elektrische Ladung Coulomb C s · A Elektrische Spannung, elektrische Potenzialdifferenz, elektromotorische Kraft Volt V W · A –1 m 2 · kg · s –3 · A –1 Elektrischer Widerstand Ohm Ω V · A –1 m 2 · kg · s –3 · A –2 Leitwert Siemens S A · V –1 m –2 · kg –1 · s 3 · A 2 Kapazität Farad F C · V –1 m –2 · kg –1 · s 4 · A 2 Magnetischer Fluss Weber Wb V · s m 2 · kg · s –2 · A –1 Magnetische Flussdichte Tesla T Wb · m –2 kg · s –2 · A –1 Induktivität Henry H Wb · A –1 m 2 · kg · s –2 · A –2 Lichtstrom Lumen lm cd · sr cd Beleuchtungsstärke Lux lx lm · m –2 m –2 · cd Aktivität (ionisierende Strahlung) Becquerel Bq s –1 Energiedosis Gray Gy J · kg –1 m 2 · s –2 Äquivalentdosis Sievert Sv J · kg –1 m 2 · s –2 Katalytische Aktivität Katal kat s –1 · mol Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 7193 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Vielfache und Teile von SI-Einheiten als selbständige Einheiten mit besonderen Benennungen",
+      "section": "14",
+      "title": "Einheiten in Form von dezimalen Vielfachen oder Teilen von SI‑Einheiten",
+      "content": "Folgende dezimale Vielfache und Teile von SI-Einheiten können mit besonderen Namen und Zeichen als selbständige Einheiten verwendet werden: Grösse Einheitenname Einheitenzeichen Beziehung zu SI-Einheiten Volumen Liter l oder L 1 l = 1 dm 3 = 10 –3 m 3 Masse Tonne t 1 t = 1 Mg = 10 3 kg Druck, mechanische Spannung Bar bar 1 bar = 10 5 Pa"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Vielfache und Teile von SI-Einheiten als selbständige Einheiten mit besonderen Benennungen",
+      "section": "15",
+      "title": "Einheiten in Form von nichtdezimalen Vielfachen oder Teilen von SI-Einheiten",
+      "content": "Folgende nichtdezimale Vielfache und Teile von SI-Einheiten können mit besonderen Namen und Zeichen als selbständige Einheiten verwendet werden: Grösse Einheitenname Einheitenzeichen Beziehung zu SI-Einheiten Winkel Vollwinkel Neugrad, Gon gon Grad ° (Winkel-) Minute ’ (Winkel-) Sekunde ’’ Zeit Minute min 1 min = 60 s Stunde h 1 h = 3600 s Tag d 1 d = 86 400 s"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "6. Abschnitt: Einheiten, die unabhängig von den SI-Basiseinheiten definiert sind",
+      "section": "16",
+      "title": "Atomare Masseneinheit",
+      "content": "Die atomare Masseneinheit (u) ist der zwölfte Teil der Masse eines Atoms des Nuklids 12 C. Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 7193 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Einheiten, die unabhängig von den SI-Basiseinheiten definiert sind",
+      "section": "17",
+      "title": "Elektronvolt",
+      "content": "Das Elektronvolt (eV) ist die Energie, die ein Elektron beim Durchlaufen einer Potenzialdifferenz von einem Volt im Vakuum gewinnt. Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. Jan. 2013 ( AS 2012 7193 )."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "7. Abschnitt: Einheiten, die nur in speziellen Anwendungsbereichen zugelassen sind",
+      "section": "18",
+      "title": "",
+      "content": "Folgende Einheiten dürfen nur für spezielle Grössen verwendet werden: Grösse Einheitenname Einheitenzeichen Beziehung zu SI-Einheiten Brechkraft optischer Systeme Dioptrie 1 Dioptrie = 1 m –1 Masse von Edelsteinen metrisches Karat ct 1 ct = 2 · 10 –4 kg Fläche von Grundstücken und Flurstücken Are a 1 a = 10 2 m 2 Hektare ha 1 ha = 10 4 m 2 Längenbezogene Masse von textilen Fasern und Garnen Tex tex 1 tex = 1 g · km –1 Blutdruck und Druck anderer Körperflüssigkeiten Millimeter Quecksilbersäule mmHg 1 mmHg = 133,322 Pa Wirkungsquerschnitt in der Teilchen- und Kernphysik Barn b 1 b = 10 –28 m 2 Wechselstrom- Scheinleistung Voltampere VA 1 VA = 1 m 2 · kg · s –3 Wechselstrom- Blindleistung Var var 1 var = 1 m 2 · kg · s –3 Schalldruckpegel Dezibel dB Schalldruckpegel [dB] = 20 · log (Schalldruck / (20 µPa)) Gerundeter Zahlenwert aus 13,5951 · 9,80665."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "8. Abschnitt: Bildung von dezimalen Vielfachen und Teilen der Einheiten",
+      "section": "19",
+      "title": "SI-Vorsätze",
+      "content": "1 Dezimale Vielfache und Teile einer Einheit können durch Vorsetzen von speziellen Ausdrücken, den SI-Vorsätzen (Vorsätze), vor die Benennung der Einheit gebildet werden. 2 Den Namen und Zeichen der Vorsätze sind folgende Vervielfachungs- beziehungsweise Teilfaktoren zugeordnet: Vorsatzname Vorsatzzeichen Faktor Vorsatzname Vorsatzzeichen Faktor Yotta Y 10 24 Dezi d 10 –1 Zetta Z 10 21 Zenti c 10 –2 Exa E 10 18 Milli m 10 –3 Peta P 10 15 Mikro µ 10 –6 Tera T 10 12 Nano n 10 –9 Giga G 10 9 Piko p 10 –12 Mega M 10 6 Femto f 10 –15 Kilo k 10 3 Atto a 10 –18 Hekto h 10 2 Zepto z 10 –21 Deka da 10 1 Yokto y 10 –24 3 Das Vorsetzen eines Vorsatzes vor eine Einheit entspricht der Multiplikation der Einheit mit dem zugeordneten Faktor."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Allgemeine Vorschriften für die Verwendung der Vorsätze",
+      "content": "1 Vorsatznamen dürfen nur zusammen mit Einheitennamen, Vorsatzzeichen nur zusammen mit Einheitenzeichen verwendet werden. 2 Der Vorsatzname ist ohne Zwischenraum vor den Namen der Einheit und entsprechend das Vorsatzzeichen vor das Einheitenzeichen zu setzen. 3 Vorsätze dürfen nicht aneinandergereiht werden. Beispiel: anstelle von «µµF» ist «pF» zu setzen. 4 Zur Bezeichnung von dezimalen Vielfachen und Teilen von abgeleiteten Einheiten, welche aus einem Quotienten bestehen, darf ein Vorsatz im Zähler, im Nenner oder auch in beiden Teilen des Quotienten verwendet werden. Beispiele: 1 kA/cm 2 , 1 hPa/km. 5 Potenzexponenten beziehen sich auf die ganze Zeichenkombination. Beispiele: 1 km 3 = (10 3 m) 3 = 10 9 m 3 1 cm –1 = (10 –2 m) –1 = 10 2 m –1 1 mm 2 /s = (10 –3 m) 2 /s = 10 –6 m 2 /s."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Spezielle Vorschriften für die Verwendung der Vorsätze",
+      "content": "1 Die Anwendung der Vorsätze ist nicht zulässig auf: – die 360°-Winkelteilung (Art. 15); – die Minute, die Stunde und den Tag (Art. 15); – die Dioptrie (Art. 18); – das metrische Karat (Art. 18); – die Are und Hektare (Art. 18); – den Millimeter Quecksilbersäule (Art. 18); – das Dezibel (Art. 18). 2 Die Benennungen der dezimalen Vielfachen und Teile der Einheit Masse werden durch Hinzufügen der Vorsatznamen vor den Namen «gramm» oder der Vorsatzzeichen vor das Zeichen «g» gebildet. Beispiel: Milligramm, mg."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "9. Abschnitt: ...",
+      "section": "22",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 7. Dez. 2012, mit Wirkung seit 1. Jan. 2013 ( AS 2012 7193 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "23",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Die Einheiten-Verordnung vom 23. November 1977 wird aufgehoben. [ AS 1977 2405 , 1981 634 , 1984 1529 ]"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "24",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 7. Dez. 2012, mit Wirkung seit 1. Jan. 2013 ( AS 2012 7193 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "10. Abschnitt: Schlussbestimmungen",
+      "section": "25",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 1995 in Kraft."
+    }
+  ],
+  "definitions": []
+}

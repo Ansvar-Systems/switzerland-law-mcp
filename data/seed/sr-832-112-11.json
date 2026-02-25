@@ -1,0 +1,50 @@
+{
+  "id": "sr-832-112-11",
+  "type": "statute",
+  "title": "Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoausgleichs in der Krankenversicherung (VORA-EDI)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2019/618/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "PCG-Liste",
+      "content": "Die pharmazeutischen Kostengruppen (PCG) sind im Anhang festgelegt."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Nicht eigenständige und kombinierte PCG",
+      "content": "1 Die PCG «Hypertonie (hyp)» ist eine nicht eigenständige PCG. 2 Die PCG «Diabetes Typ-2 mit Bluthochdruck (DM2+hyp)» ist eine kombinierte PCG."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Hierarchisierung der PCG",
+      "content": "Es gelten folgende Hierarchisierungen: a. Die PCG «Autoimmunkrankheiten (AIK)» ist hierarchisch höher als die PCG «Morbus Crohn / Colitis ulcerosa (MCR)», als die PCG «Psoriasis (PSO)» und als die PCG «Rheuma (RHE)». b. Die PCG «Herzkrankheiten (CAR)» ist hierarchisch höher als die PCG «Hohes Cholesterin (HCH)». c. Die PCG «COPD / Schweres Asthma (COP)» ist hierarchisch höher als die «PCG Asthma (AST)». d. Die PCG «Diabetes Typ-1 (DM1)» ist hierarchisch höher als die PCG «Diabetes Typ-2 (DM2)», als die PCG «Hohes Cholesterin (HCH)» und als die PCG «Diabetes Typ-2 mit Bluthochdruck (DM2+hyp)». e. Die PCG «Diabetes Typ-2 (DM2)» und die PCG «Diabetes Typ-2 mit Bluthochdruck (DM2+hyp)» sind hierarchisch höher als die PCG «Hohes Cholesterin (HCH)». f. Die PCG «Krebs (KRE)» und die PCG «Krebs komplex (KRK)» sind hierarchisch höher als die PCG «Hormonsensitive Tumore (KHO)». g. Die PCG «Krebs komplex (KRK)» ist hierarchisch höher als die PCG «Krebs (KRE)». h. Die PCG «Multiple Sklerose (MSK)» ist hierarchisch höher als die PCG «Krankheiten des zentralen Nervensystems ohne Multiple Sklerose (ZNS)». i. Die PCG «Neuropathischer Schmerz (SMN)» ist hierarchisch höher als die PCG «Chronische Schmerzen ohne Opioide (SMC)»."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Mindestanzahl der standardisierten Tagesdosen von Arzneimitteln und der Arzneimittelpackungen",
+      "content": "1 Für die Einteilung in eine PCG benötigt eine versicherte Person mindestens 180 standardisierte Tagesdosen (DDD) von Arzneimitteln. 2 Für die Einteilung in die PCG «Krebs (KRE)» und in die PCG «Krebs komplex (KRK)» benötigt eine versicherte Person mindestens drei Arzneimittelpackungen. Fassung gemäss Ziff. I der V des EDI vom 22. Jan. 2021, in Kraft seit 15. März 2021 ( AS 2021 62 )."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Teuerungsfaktor",
+      "content": "1 Für jeden Kanton wird, ausgehend von den jeweils in den ersten 14 Monaten abgerechneten Leistungsdaten des Ausgleichsjahres und des Jahres vor dem Ausgleichsjahr (Vorjahr), ein um die Strukturveränderung bereinigter Teuerungsfaktor ermittelt. Für die Berechnung sind massgebend: a. die Gesamtteuerung, ermittelt durch die Division der durchschnittlichen Nettoleistungen im Ausgleichsjahr durch die durchschnittlichen Nettoleistungen im Vorjahr; b. die Strukturteuerung, ermittelt durch die Division der mit den Versichertenbeständen pro Risikogruppe des Ausgleichsjahres gewichteten durchschnittlichen Nettoleistungen im Vorjahr durch die durchschnittlichen Nettoleistungen im Vorjahr. 2 Die durchschnittlichen Nettoleistungen werden über alle Versicherer und alle Risikogruppen hinweg berechnet. 3 Der Teuerungsfaktor resultiert aus der Division der Gesamtteuerung durch die Strukturteuerung."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2020 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,111 @@
+{
+  "id": "sr-814-017",
+  "type": "statute",
+  "title": "Verordnung vom 15. Dezember 2006 zum Register über die Freisetzung von Schadstoffen sowie den Transfer von Abfällen und von Schadstoffen in Abwasser (PRTR-V)",
+  "title_en": "Ordinance of 15 December 2006 on the Register relating to Pollutant Release and the Transfer of Waste and of Pollutants in Waste Water (PRTRO)",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/33/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 General Provisions",
+      "section": "1",
+      "title": "Aim and scope of application",
+      "content": "1 This Ordinance is intended to guarantee public access to information on pollutant release and the transfer of waste and of pollutants in waste water by means of a register. 2 It applies to facilities with installations in accordance with Annex 1."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 1 General Provisions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "In this Ordinance: a. PRTR means Pollutant Release and Transfer Register (Register relating to pollutant release and the transfer of waste and of pollutants in waste water); b. installation in accordance with Annex 1 also includes two or more installations of the same type in a single facility that together exceed the capacity threshold for that type of installation; c. facility means one or more installations in close proximity to each other that are operated by the same owner or operator as a single operational unit; d. owner or operator means the owner of a facility or person who actually operates a facility; e. pollutant means a substance or group of substances in accordance with Annex 2; f. release means the introduction of pollutants into the air, the water or the land either deliberately or accidentally, directly or through sewer systems without final waste-water treatment, in particular by spillage, emission, discharge, injection, disposal or dumping; g. transfer means the deliberate or inadvertent movement beyond the boundaries of the facility: 1. of waste destined for recovery or disposal, or 2. of pollutants in waste water destined for waste-water treatment; h. waste water means water altered by industrial, commercial, agricultural or other use; i. hazardous waste means waste in terms of Article 2 paragraph 2 letter a of the Ordinance of 22 June 2005 on the Movement of Waste. SR 814.610"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 2 Duties of the Facility Owner or Operator",
+      "section": "3",
+      "title": "Duty of care",
+      "content": "The owner or operator of a facility with installations in accordance with Annex 1 must ensure that its information made available to the general public in the Register is complete, based on standard definitions and comprehensible."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Duties of the Facility Owner or Operator",
+      "section": "4",
+      "title": "Reporting requirement",
+      "content": "The owner or operator of a facility with installations in accordance with Annex 1 shall submit to the Federal Office for the Environment (the FOEN) every year by 1 July the information referred to in Article 5 paragraph 1 if that facility in the previous calendar year: a. released a larger quantity of a pollutant into the air, water or land than the quantity stipulated in the form of a threshold value in Annex 2; b. transferred more than two tonnes of hazardous waste; c. transferred more than 2000 tonnes of other waste; or d. transferred a larger quantity of a pollutant in waste water than the quantity stipulated in the form of a threshold value for water in Annex 2."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Duties of the Facility Owner or Operator",
+      "section": "5",
+      "title": "Content of the report",
+      "content": "1 The report must contain: a. the name, address and geographical coordinates of the facility and the installations in terms of Annex 1; b. the name and address of the owner or operator; c. the quantity of the pollutant that the facility released in the previous calendar year into the air, water, or land including its number (Annex 2 first column); d. the quantity of the hazardous waste that was transferred in the previous calendar year. An indication must be given, using the letter “R” or “D”, of whether the waste was destined for recovery or disposal respectively in terms of Annex 3; for the transborder transfer of hazardous waste, the name and address of the waste recovery or waste disposal facility as well as the address of the location of recovery or disposal must be provided; e. the quantity of other waste that was transferred in the previous calendar year. An indication must be given, using the letter “R” or “D”, of whether the waste was destined for recovery or disposal respectively in terms of Annex 3; f. the quantity of each pollutant that was transferred in waste water in the previous calendar year including its number (Annex 2 first column); and g. the method used for determining the information in letters c–f, with an indication of whether the information is based on measurements, calculations or estimates. 2 The method used for determining the information on the release or the transfer must be selected in such a way that the best available information is obtained; if possible, an internationally recognised method should be selected. 3 The information must be entered directly into the confidential Register provided by the FOEN; by way of exception, the data may be submitted to the FOEN in another way. The FOEN decides on the format of the data. 4 Anyone who has already submitted information in accordance with Article 5 paragraph 1 to the Confederation in compliance with other regulations may authorise the Confederation to enter that information in the Register in accordance with paragraph 3. The FOEN may request information from other federal agencies that has been obtained in compliance with other regulations and that is suitable for transfer to the Register and it shall maintain a list of such information."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Duties of the Facility Owner or Operator",
+      "section": "6",
+      "title": "Retention obligation",
+      "content": "1 The owners or operators of facilities with installations in accordance with Annex 1 must retain the collections of data from which the information submitted is derived for a period of five years following the report of the information. These collections must also contain details of the methods of recording the data. 2 The collections must be made available to the authorities on request."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 3 Duties of the Authorities",
+      "section": "7",
+      "title": "Maintaining the PRTR",
+      "content": "1 The FOEN shall maintain a PRTR. 2 The PRTR shall contain: a. the non-confidential information in accordance with Article 5 paragraph 1; b. information on pollutant release from diffuse sources; c. electronic links to existing national environmental databases; d. electronic links to the PRTRs of the contracting parties to the Protocol and, where possible, of other countries. 3 The FOEN shall update the Register: a. annually with the non-confidential information for the previous calendar year in accordance with paragraph 2 letter a; b. periodically with information on releases of pollutants from diffuse sources in accordance with paragraph 2 letter b."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 3 Duties of the Authorities",
+      "section": "8",
+      "title": "Information to the general public",
+      "content": "1 The FOEN shall make the PRTR available for inspection by the general public at the latest nine months after expiry of the reporting date in terms of Article 4. 2 Access, in particular via the internet, to information contained in the PRTR shall be guaranteed for a minimum of ten years from the date of its electronic publication, in particular on the internet. 3 The FOEN shall ensure that the information contained in the PRTR for each calendar year can be searched electronically in accordance with following criteria: a. name of facility and its geographical coordinates; b. installations in accordance with Annex 1; c. owner or operator; d. pollutant or waste; e. environmental media into which the pollutant is released; f. recovery or disposal operation in accordance with Annex 3; g. name and address of the waste recovery or waste disposal facility as well as the address of the location of recovery or disposal in cases of transborder transfer of hazardous waste. 4 It shall ensure that a search can be made for the diffuse sources contained in the Register."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 3 Duties of the Authorities",
+      "section": "9",
+      "title": "Confidentiality",
+      "content": "1 Information in accordance with Article 5 paragraph 1 is deemed to be public if its disclosure is not contrary to any overriding private or public interests that are worthy of protection. 2 Private or public interests that are worthy of protection are the interests listed in Article 7 of the Freedom of Information Act of 17 December 2004. 3 Anyone who submits documents to the FOEN must: a. indicate any information that should be treated as confidential; and b. provide reasons why the interest claimed takes precedence over the interest in publication. 4 The FOEN shall assess whether the interest claimed should take precedence. If its assessment is not consistent with the application made by the facility owner or operator, it must inform the facility owner or operator of this by means of a formal decision after giving the owner or operator the opportunity to state his position. 5 If information is treated as confidential, notice must be given in the Register of the type of information and the reason for its confidentiality. SR 152.3"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 3 Duties of the Authorities",
+      "section": "10",
+      "title": "Verification of data",
+      "content": "1 The Cantons have access to the information held in the confidential Register (Art. 5 para. 3) on facilities with installations in accordance with Annex 1 located on their territory. 2 They must verify whether: a. the owner or operator has complied with the reporting requirement; and b. the reported information is complete, based on standard definitions and comprehensible. 3 If they ascertain that the requirements of this Ordinance have not been fulfilled, they shall notify the FOEN within 3 months of the expiry of the reporting date under Article 4 paragraph 1. The FOEN must order the required measures."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Advice to the general public and cooperation with the Cantons",
+      "content": "1 The FOEN shall inform the general public on a regular basis about the PRTR, and provide advice on its use and purpose. 2 It shall ensure a regular exchange of information with the Cantons and shall cooperate with the Cantons in the further development of the PRTR."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 4 Final Provisions",
+      "section": "12",
+      "title": "Amendment of current law",
+      "content": "… Amendments may be consulted under AS 2007 141 ."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 4 Final Provisions",
+      "section": "13",
+      "title": "Transitional provisions",
+      "content": "1 The report in terms of Article 5 paragraph 1 must be submitted for the first reporting year by 1 July 2008. 2 If the owners or operators of facilities with installations in accordance with Annex 1 report data that relates to the period before the commencement of this Ordinance, this data will be processed in accordance with Article 9."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 4 Final Provisions",
+      "section": "14",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 March 2007."
+    }
+  ],
+  "definitions": []
+}

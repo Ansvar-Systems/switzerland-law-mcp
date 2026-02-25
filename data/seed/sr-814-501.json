@@ -1,0 +1,1409 @@
+{
+  "id": "sr-814-501",
+  "type": "statute",
+  "title": "Strahlenschutzverordnung vom 26. April 2017 (StSV)",
+  "title_en": "Radiological Protection Ordinance of 26 April 2017 (RPO)",
+  "short_name": "StSV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2017/502/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 Purpose, Scope and Definitions",
+      "section": "1",
+      "title": "Purpose and scope",
+      "content": "1 For the protection of people and the environment against ionising radiation, this Ordinance regulates: for planned exposure situations: licences, public exposure, unjustified activities, medical exposure, occupational exposure, handling of radiation sources, handling of radioactive waste, prevention and management of failures; for emergency exposure situations: preparedness and management; for existing exposure situations: management of radiological legacies, radon, naturally occurring radioactive material and long‑term contamination following an emergency; training and continuing education of persons handling ionising radiation or radioactivity; supervision and enforcement; advisory activities of the Federal Commission for Radiological Protection (KSR). 2 It applies to all exposure situations for artificial and for natural ionising radiation. 3 It does not apply to: a. exposures to radionuclides naturally present in the human body; b. exposures to cosmic radiation; it does, however, apply to exposures of aircrew to cosmic radiation; c. aboveground exposures to radionuclides present in the undisturbed earth’s crust."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 Purpose, Scope and Definitions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "1 In this Ordinance: planned exposure situation means an exposure situation which arises from the planned operation of a radiation source or from a human activity which alters exposure pathways, so as to cause the exposure or potential exposure of people or the environment; emergency exposure situation means an exposure situation due to an emergency, as defined in Article 132; c. existing exposure situation means an exposure situation that already exists when a decision on its control has to be taken and which does not call or no longer calls for urgent measures to be taken; this involves, in particular, radiological legacies, radon, naturally occurring radioactive material and long‑term contamination following an emergency; d. occupational exposure means exposure due to occupational activities; occupational exposure may involve employees, self-employed persons, apprentices and students; e. medical exposure means the exposure of patients or asymptomatic individuals for diagnostic or therapeutic purposes, with the aim of improving their health, and exposure of carers and comforters in medicine and of participants in human research; f. public exposure means any exposure of persons, excluding occupational and medical exposures; g. radiological protection experts means experts, as specified in Article 16 of the RPA, who have the knowledge, training and experience in radiological protection needed to ensure the effective protection of people and the environment; experts are responsible for implementation of the legal requirements in internal radiological protection directives and for monitoring compliance within the enterprise; h. naturally occurring radioactive material (NORM ) means material with naturally occurring radionuclides which does not contain artificial radioactive substances; material in which the activity concentrations of naturally occurring radionuclides have been unintentionally changed by some process is also NORM; if concentrations of naturally occurring radionuclides are deliberately enhanced, in particular to utilise their radioactive properties, then they are no longer considered to be NORM; i. ionising radiation means energy transmitted in the form of particles or electromagnetic waves of a wavelength of 100 nm or less capable of ionising an atom or molecule directly or indirectly; j. clearance limit (LL) means the value corresponding to the specific activity level of a material below which handling of this material is no longer subject to mandatory licensing or, accordingly, supervision; the values are specified in Annex 3 Column 9; k. NORM clearance limit (LLM) means the value corresponding to the specific activity level of natural radionuclides in NORM below which this material may be freely discharged into the environment; the values are specified in Annex 2; l. licensing limit (LA) means the value corresponding to the absolute activity level of a material above which handling of this material is subject to mandatory licensing; the values are specified in Annex 3 Column 10; they do not apply to NORM; m. guidance value means a value, derived from a limit, the exceedance of which triggers certain measures and compliance with which also ensures compliance with the associated limit; guidance values for airborne activity (CA) and surface contamination (CS) are specified in Annex 3 Columns 11 and 12; n. radiation source means a radioactive material or installation capable of emitting ionising radiation; o. material is a general term covering solid, liquid or gaseous substances, mixtures, raw materials and finished products and articles manufactured therefrom; p. radioactive material means a material that incorporates radionuclides, is activated or contaminated with radionuclides and which meets the following conditions: 1. handling thereof is subject to mandatory licensing and supervision under radiological protection or nuclear energy legislation, 2. handling thereof is not exempt from mandatory licensing and supervision under radiological protection or nuclear energy legislation; q. radioactive substance is synonymous with radioactive material ; r. radioactive source means radioactive material employed for the purpose of utilising its radioactivity; s. sealed radioactive source means a radioactive source whose structure is such as to prevent, under normal conditions of use, the release of radioactive substances and thus exclude the risk of contamination; t. unsealed radioactive source means a radioactive source that does not meet the requirements for a sealed radioactive source; u. orphan radioactive material means radioactive material that is no longer under the control of the owner or licence holder; v. installations is an abbreviated form of installations that generate ionising radiation ; installations are equipment and devices used to generate photon or particle radiation. 2 In addition, for this Ordinance, the following apply: the definitions given in Articles 5–7, 26, 49, 51, 80, 85, 96, 108, 122, 149 and 175; the definitions of predominantly technical terms given in Annex 1 and the definitions of dose-related terms given in Annex 4. Footnote relevant to Swiss language texts."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Chapter 2 Principles of Radiological Protection",
+      "section": "3",
+      "title": "Justification",
+      "content": "An activity is justified within the meaning of Article 8 of the Radiological Protection Act (RPA) if: a. the associated benefits clearly outweigh the radiation-related drawbacks; and b. overall, for people and the environment, no more favourable alternative is available involving no or lower radiation exposure."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Chapter 2 Principles of Radiological Protection",
+      "section": "4",
+      "title": "Optimisation",
+      "content": "1 Radiological protection must be optimised for all exposure situations. 2 Optimisation involves reducing as far as possible and reasonable: a. the likelihood of exposure; b. the number of people exposed; c. the individual dose to the persons exposed."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Chapter 2 Principles of Radiological Protection",
+      "section": "5",
+      "title": "Dose limits",
+      "content": "For planned exposure situations, limits shall be specified which must not be exceeded by the sum of all radiation doses accumulated by a person in a calendar year (dose limit). For medical exposures, no such limits shall be specified."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Chapter 2 Principles of Radiological Protection",
+      "section": "6",
+      "title": "Reference levels",
+      "content": "1 If in existing exposure situations or in emergency exposure situations the dose limits cannot be complied with, or if in these situations compliance with the dose limits would involve disproportionate efforts or would be counterproductive, then reference levels shall be applied. 2 To ensure that the reference level can be complied with, the requisite measures must be taken."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Chapter 2 Principles of Radiological Protection",
+      "section": "7",
+      "title": "Dose constraints",
+      "content": "1 For planned exposure situations, the dose received by a person from a single radiation source or activity shall be specified (dose constraint). This dose constraint shall be specified for each radiation source in such a way that the sum of all doses received from the various radiation sources does not exceed the dose limit. 2 The licence holder shall specify the dose constraints for the occupationally exposed persons within the enterprise. 3 The licensing authority (Art. 11) shall decide whether source-related dose constraints are required for the public and shall specify these in the licence. If this has not been done in the case of activities already licensed, the supervisory authority (Art. 184) may specify source-related dose constraints. 4 Dose constraints are optimisation instruments. When defining dose constraints, the current state of science and technology must be taken into account. 5 If a dose constraint is exceeded, measures must be taken."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Chapter 2 Principles of Radiological Protection",
+      "section": "8",
+      "title": "Risk-based graded approach",
+      "content": "All radiological protection measures must be graduated according to the underlying risk."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Chapter 1 Licences",
+      "section": "9",
+      "title": "Activities subject to mandatory licensing",
+      "content": "In addition to the activities specified in Article 28 of the RPA, or by way of clarification thereof, the following activities are subject to mandatory licensing: the handling of material whose specific activity exceeds the clearance limit and whose absolute activity exceeds the licensing limit; the handling of contained gaseous material whose absolute activity exceeds the licensing limit; the discharge to the environment of material whose specific activity exceeds the clearance limit and whose absolute activity is greater than the activity of 1 kg of a material whose specific activity is equal to the clearance limit; the distribution of material whose specific activity exceeds the clearance limit and whose absolute activity is greater than the activity of 1 kg of a material whose specific activity is equal to the clearance limit; e. the use of radionuclides in the human body; f. the deployment of occupationally exposed persons as defined in Article 51 paragraphs 1 and 2 at one’s own or at another enterprise in Switzerland or abroad; g. the performance of quality assurance measures on installations, nuclear medicine imaging equipment and activimeters, or image receptor and display systems used in medical diagnostics; h. the further use of radiological legacies as specified in Article 150 paragraph 2; i. activities involving the handling of NORM, if at least one of the situations specified in Article 168 paragraph 2 letters b and c applies; j. the decay storage of radioactive waste from nuclear installations outside nuclear installations. Inserted by No II of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ( AS 2019 183 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Chapter 1 Licences",
+      "section": "10",
+      "title": "Exemptions from mandatory licensing",
+      "content": "The following are exempt from mandatory licensing: a. the transport of radioactive material which does not exceed the activity concentration limits for exempt material or the activity limits for exempt consignments specified in: 1. Annex A, Subsection 2.2.7.2, Tables 2.2.7.2.2.1 and 2.2.7.2.2.2, of the European Agreement of 30 September 1957 concerning the International Carriage of Dangerous Goods by Road (ADR), and in the Ordinance of 29 November 2002 on the Carriage of Dangerous Goods by Road (SDR), or 2. the Regulations concerning the International Carriage of Dangerous Goods by Rail (RID) in accordance with Appendix C, Subsection 2.2.7.2, Tables 2.2.7.2.2.1 and 2.2.7.2.2.2, to the Protocol of 3 June 1999 modifying the Convention concerning International Carriage by Rail (COTIF) of 9 May 1980, and in the Ordinance of 31 October 2012 on the Carriage of Dangerous Goods by Rail and Cableway (RSD); b. the transport of radioactive substances as excepted packages: 1. in accordance with Annex A, Section 3.2.1, Table A (UN numbers 2908, 2909, 2910, 2911 and 3507) of the ADR, and the SDR, 2. in accordance with Section 3.2.1, Table A (UN Numbers 2908, 2909, 2910, 2911 and 3507) of the RID, and the RSD, 3. in accordance with Article 16 of the Ordinance of 17 August 2005 on Air Transport (LTrV), 4. in accordance with the Ordinance of 2 March 2010 on the Implementation of the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways; c. the transport of radioactive substances by air (UN numbers 2908, 2909, 2910, 2911, 2912, 2913, 2915, 2916, 2978, 3321, 3322, 3332 and 3507) in accordance with Annex 18 to the Convention on International Civil Aviation of 7 December 1944 and the associated Technical Instructions; d. the distribution, use, storage and transport, as well as the import, export and transit, of finished timepieces containing radioactive sources, provided that they comply with the standards ISO 3157 and ISO 4168, and of no more than 1000 timepiece components with radioactive tritium-based luminous paint; e. the handling of stray radiation sources, where: the electron acceleration voltage does not exceed 30 kV, and the ambient dose rate at a distance of 10 cm from the surface does not exceed 1 μSv per hour ; f. the handling of mineral and rock collections with a specific activity below the NORM clearance limits, or if they contain less than 10 g natural thorium or 100 g natural uranium; g. the handling of radiation sources, with the exception of distribution, for which a type licence has been granted; h. activities and radiation sources which are subject to mandatory licensing or a decommissioning order under the Nuclear Energy Act of 21 March 2003 (NEA); i. the deployment of occupationally exposed aircrew by aircraft operators. SR 0.741.621 . The Annexes to the ADR are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the United Nations Economic Commission for Europe (UNECE) at www.unece.org > Legal Instruments and Recommendations > ADR; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern. SR 741.621 SR 0.742.403.12 . The Appendices to COTIF are not published in the Official Compilation (AS). The RID can be consulted free of charge on the website of the Intergovernmental Organisation for International Carriage by Rail at www.otif.org > Reference Texts > RID; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern. SR 742.412 SR 748.411 SR 747.224.141 SR 0.748.0 . This Annex is not published either in the Official Compilation (AS). It can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at www.bazl.admin.ch > Dokumentation > Rechtliche Grundlagen > Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada). The Technical Instructions are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at www.bazl.admin.ch > Dokumentation > Rechtliche Grundlagen > Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada). They can also be consulted free of charge, in English and French, at the national airports’ information centres. They are not translated into German or Italian. International Organization for Standardization. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH‑3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch . ISO 3157: 1991-11, Radioluminescence for time measurement instruments – Specifications. ISO 4168: 2003-09, Timekeeping instruments – Conditions for carrying out checks on radioluminescent deposits."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Licensing authorities",
+      "content": "1 Without prejudice to paragraph 2, the Federal Office of Public Health (FOPH) is the licensing authority for all activities and radiation sources subject to mandatory licensing under this Ordinance. 2 The Swiss Federal Nuclear Safety Inspectorate (ENSI) is the licensing authority for: a. activities at nuclear installations which are not subject to mandatory licensing or a decommissioning order under the NEA; b. experiments involving radioactive substances in connection with geological investigations as specified in Article 35 of the NEA; c. the import and export of radioactive substances for or from nuclear installations; d. the transport of radioactive substances from and to nuclear installations; e. the discharge of radioactive waste from nuclear installations to the environment; f. the decay storage of radioactive waste from nuclear installations and all related activities. SR 732.1 Inserted by No II of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ( AS 2019 183 )."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Licence applications",
+      "content": "1 Applications for the granting or renewal of a licence must be submitted to the licensing authority with the necessary documents. 2 In cases of high radiological hazard potential, the licensing authority shall additionally request a hazard analysis. 3 Applicants from abroad must provide a Swiss postal address. 4 The Federal Department of Home Affairs (FDHA) and ENSI may issue specifications concerning the documents and evidence required in their area of responsibility."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Standard licensing procedure",
+      "content": "1 Without prejudice to Articles 14 and 15, the licensing authority shall assess activities and radiation sources subject to mandatory licensing using a standard procedure. 2 It shall review the application documents submitted for completeness, form, content and extent. 3 It shall decide whether source-related dose constraints are required for the public, and shall specify these in the licence."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Simplified licensing procedure",
+      "content": "1 In cases where the hazard potential for people and the environment is low, the FOPH may assess activities subject to mandatory licensing using a simplified procedure. This concerns in particular: a. medical applications in the low-dose range (Art. 26 let. a); b. the operation of installations with full or partial protection systems. 2 In the simplified procedure, it shall review the application documents submitted solely for completeness and form."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Type licence for radiation sources",
+      "content": "1 In the case of radiation sources with a particularly low hazard potential for people and the environment, the FOPH may grant a type licence (Art. 29 let. c RPA), in particular if: a. they are designed or measures are taken so as to prevent inadmissible exposure or contamination of persons; and b. it is assured that, if necessary, they will be delivered to the federal collection centre as radioactive waste at the end of their useful life. 2 The FOPH shall review the application documents submitted for completeness, form, content and extent. 3 It shall subject the radiation sources for which a type licence is sought to type testing. It may engage other bodies for this purpose. 4 When granting a type licence, it shall specify: a. under what conditions the radioactive material may be handled; b. whether and how radioactive material at the end of its useful life must be delivered to the federal collection centre as radioactive waste; c. whether and how the radiation sources must be marked with a symbol specified by the FOPH."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Licence term and communication",
+      "content": "1 The licensing authority shall limit the term of the licence to a maximum of ten years. 2 It shall communicate its decision to the applicant, the cantons concerned and the supervisory authority."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Procedure in the event of uncertainty as to licensing responsibilities",
+      "content": "1 If an activity concerns both licensing authorities, the procedures may be combined. 2 The lead authority shall be the one deemed to be primarily concerned on the basis of the application documents. 3 The lead authority shall define the procedure in consultation with the other licensing authority."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Licence database",
+      "content": "1 The FOPH shall maintain a database concerning the licences granted under this Ordinance. 2 The purpose of the database is: a. to make available information required for the granting of licences; b. to simplify administrative procedures for the granting of licences; c. to facilitate the supervisory activities of the competent authorities. 3 The following data concerning the licence holder may be stored in the database: a. for a natural person: name, first name, former name; for a legal person: company name of the legal person; b. home or business address; c. for a natural person: function and academic title; d. telephone numbers; e. addresses for electronic communication; f. category of enterprise; g. the information specified in Article 179 paragraph 3 concerning the radiological protection experts; h. enterprise identification number (UID) in accordance with the Federal Act of 18 June 2010 on the Enterprise Identification Number; i. Swiss Accident Insurance Fund (Suva) customer number. 4 In addition, technical information on radiation sources may be stored in the database. 5 The following individual access rights apply: a. The staff of the FOPH Radiological Protection Division, the responsible ENSI unit and Suva Physics are entitled to process the data in the database. b. Registered licence holders are entitled, via electronic access, to view their licences and the data concerning them stored in the database, and to request amendments. c. The application managers responsible for maintenance or programming tasks obtain access to data insofar as this is required for the fulfilment of their duties. SR 431.03"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Organisational duties",
+      "content": "1 The licence holder must grant the radiological protection expert the powers required to fulfil his or her duties and make available the necessary resources. 2 In addition, the licence holder must: a. issue internal directives concerning working methods and protective measures and monitor compliance; b. specify in writing the powers of the various line managers and radiological protection experts, and of persons handling radiation sources. 3 If the licence holder deploys persons from service or other enterprises as occupationally exposed persons, these enterprises must be made aware of the relevant radiological protection regulations."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Duty to provide information",
+      "content": "The licence holder must ensure that all persons within the enterprise who may be exposed to radiation are appropriately informed about the health risks which may arise from handling ionising radiation at the workplace."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Reporting duties",
+      "content": "1 The licence holder must report the following changes to the supervisory authority before they are effected: a. changes to the output of an installation, structural and design characteristics, and beam direction (Art. 35 para. 1 let. a RPA); b. a change of the radiological protection expert (Art. 32 para. 2 RPA). 2 The loss or theft of a radioactive source whose activity exceeds the licensing limit must be reported to the supervisory authority without delay."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Chapter 2 Public Exposure",
+      "section": "22",
+      "title": "Dose limits for members of the public",
+      "content": "1 The effective dose must not exceed the limit of 1 mSv per calendar year. 2 The equivalent dose must not exceed the following limits: a. for the lens of the eye: 15 mSv per calendar year; b. for the skin: 50 mSv per calendar year."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Chapter 2 Public Exposure",
+      "section": "23",
+      "title": "Determination of doses in the vicinity of enterprises with a licence for discharge to the environment",
+      "content": "1 In the case of enterprises with a licence for discharge to the environment in accordance with Articles 111–116, the licensing authority may request an annual determination of the dose received by the most exposed members of the public and specify the requirements for the determination of radiation doses. 2 ENSI shall issue guidelines for the determination of radiation doses for the area under its supervision."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "Chapter 2 Public Exposure",
+      "section": "24",
+      "title": "Immission limits",
+      "content": "1 Yearly average airborne activity concentrations in accessible locations off-site must not exceed the immission limits for air ( LI A ) specified in Annex 7. 2 Weekly average activity concentrations in publicly accessible waters must not exceed the immission limits for waters ( LI W ) specified in Annex 7. 3 It must be additionally ensured that ambient doses due to external radiation in dwellings, public-access buildings and workplaces are kept at such a low level that, taking into account residence time and all other exposure pathways, they cannot lead to exceedance of the dose limits for members of the public."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Chapter 3 Unjustified Activities",
+      "section": "25",
+      "title": "",
+      "content": "The following activities are deemed to be unjustified in accordance with Article 8 of the RPA and are therefore prohibited: a. the deliberate addition of radionuclides in the production of foodstuffs and feedingstuffs, toys, personal ornaments and cosmetics; b. the application of methods involving the activation of materials used in toys and personal ornaments; c. the import, export and transit of products as specified in letters a and b."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Chapter 4 Medical Exposures",
+      "section": "26",
+      "title": "",
+      "content": "Medical exposures are: a. in the low-dose range if the patient receives an effective dose of less than 1 mSv; b. in the medium-dose range if the patient receives an effective dose of between 1 mSv and 5 mSv; c. in the high-dose range if the patient receives an effective dose of more than 5 mSv."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Chapter 4 Medical Exposures",
+      "section": "27",
+      "title": "Fundamental justification",
+      "content": "Without prejudice to Articles 28 and 29, medical exposures are deemed to be fundamentally justified."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Chapter 4 Medical Exposures",
+      "section": "28",
+      "title": "Justification of diagnostic or therapeutic procedures",
+      "content": "1 Any general application of diagnostic or therapeutic procedures must be justified in advance. 2 The justification of existing diagnostic or therapeutic procedures must be reviewed as soon as important new knowledge on the effectiveness or consequences of such procedures becomes available. 3 In collaboration with the professional bodies and sectoral associations concerned, the KSR shall prepare and publish recommendations on the justification of procedures in accordance with paragraphs 1 and 2. www.ksr-cpr.ch"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Chapter 4 Medical Exposures",
+      "section": "29",
+      "title": "Justification of individual applications",
+      "content": "1 Any person who prescribes or performs procedures must take into account existing diagnostic information and the case history in order to avoid unnecessary radiation exposures. 2 Any person who prescribes procedures must establish and document an indication and forward this to the physician performing the procedure. 3 Hospitals, radiology centres and referrers must prescribe procedures in accordance with the current state of science and technology. This is reflected in particular by referral guidelines based on national or international guidelines or recommendations. 4 Each application must be justified in advance by the physician performing the procedure, taking into account the current state of science and technology, the indication and the characteristics of the individual involved. 5 A diagnostic or therapeutic procedure which is not justified in accordance with Article 28 may nonetheless, depending on the circumstances, be justified as a specific, individual application. This must be documented on a case-by-case basis, with the reasons stated, by the physician performing the procedure."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Chapter 4 Medical Exposures",
+      "section": "30",
+      "title": "Radiological screening",
+      "content": "1 Radiological screening is a radiological examination performed in a specific group of people for the purpose of early detection of a disease, even though it is not clinically suspected in the individuals concerned. This does not include routine occupational health examinations. 2 Radiological screening may only be carried out as part of a programme. It must be instituted by a health authority. 3 Radiological screening must satisfy the quality requirements specified for the programme by the competent health authority."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Procedures for non-medical imaging purposes",
+      "content": "1 Activities involving exposure for non-medical imaging purposes must be justified in advance, taking into account the specific objectives of the procedure and the characteristics of the individual involved. 2 Exposures in the medium-dose or high-dose range for aptitude tests are prohibited. 3 If an exposure is ordered by the criminal investigation, security or customs authorities, the imaging procedure must be performed using the lowest possible dose required to resolve the question. If an exposure cannot be performed in the low-dose range, this must be documented, with the reasons stated. 4 If exposures are routinely performed for security reasons, the individual examined must be given the option of choosing a different type of examination not involving ionising radiation."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Optimisation of medical exposures",
+      "content": "1 In diagnostic, interventional radiology and nuclear medicine examinations, the licence holder must keep all radiation doses as low as achievable consistent with obtaining the required imaging information. 2 For all therapeutic exposures, the licence holder must carry out individual dosimetric planning. The doses for risk organs must be kept as low as is achievable and consistent with the intended radiotherapeutic purpose. 3 For the protection of patients, the optimisation process involves in particular: a. selection of suitable equipment, including software; b. consistent production of adequate diagnostic information or therapeutic outcomes; c. the practical aspects of procedures; d. quality assurance; e. assessment and evaluation of the patient dose or the administered activity; f. use of appropriate set-up parameters or appropriate radionuclides; g. use of sensitive detectors; h. for every medical installation, use of the elements required for the protection of patients. 4 The dose received by personnel must be taken into account in the optimisation process. 5 The FDHA may issue technical optimisation provisions for the protection of patients."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Documentation obligation",
+      "content": "The licence holder must document all therapeutic and diagnostic exposures in the medium-dose or high-dose range and in mammography in such a way that the radiation dose received by the patient can be determined at a later date."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Survey of medical population doses",
+      "content": "1 The FOPH shall survey on a regular basis, but at least every ten years, the radiation doses received by the population from medical exposures. 2 It may request from licence holders anonymised data on therapeutic, diagnostic, interventional or nuclear medicine applications, in particular: a. time and type of application and anatomical region; b. exposure parameters; c. radiation dose or activity levels; d. installation specifications; e. sex, age, height and weight of patients; f. number of individual exposures per application, classified by type and anatomical region. 3 It may request third parties to prepare statistics. For this purpose, it shall provide them with the necessary data."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Diagnostic reference levels",
+      "content": "1 The FOPH shall publish recommendations on radiation doses for diagnostic, interventional or nuclear medicine examinations in the form of diagnostic reference levels. 2 To this end, it shall conduct national surveys based on the data specified in Article 34 paragraph 2, take international recommendations into account and publish the results. 3 Licence holders must regularly review their own practices and account for any deviations from diagnostic reference levels."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Involvement of medical physicists",
+      "content": "1 The licence holder must: a. closely involve a medical physicist in therapeutic practices, with the exception of standardised nuclear medicine practices; b. involve a medical physicist in standardised nuclear medicine practices, in computed tomography, in interventional radiology practices and in fluoroscopy in the medium- and high-dose range; c. if so requested by the supervisory authority, involve a medical physicist in practices of technologically complex examinations or new examination techniques in the low- and medium-dose range. 2 For therapeutic procedures, the FDHA may specify the level of involvement of medical physicists."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Carers and comforters",
+      "content": "1 The licence holder must ensure that persons helping to comfort and care for patients in a non-professional capacity are informed about their exposure and the associated risks. 2 For carers and comforters, a dose constraint of 5 mSv per year (effective dose) applies. 3 If an exceedance of the dose constraint is determined, the licence holder must inform the person concerned. 4 The FDHA may define specific dose constraints for particular medical procedures."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Provision of information for patients",
+      "content": "Patients must be informed about the risks and benefits of medical exposure."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Paediatrics",
+      "content": "Medical exposures of children must be performed using exposure parameters specifically optimised for this patient group. In particular, the following must be taken into account: a. physique; b. radiosensitivity; c. the possibility of employing specific technical aids."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Pregnant and breastfeeding patients",
+      "content": "1 For exposures in the medium-dose or high-dose range and for therapeutic exposures in female patients, the physician performing the procedure must establish whether the patient is pregnant. 2 If pregnancy is determined or cannot be ruled out, this must be weighed against the need for the exposure in the justification. In the optimisation, both the dose to the unborn child and that to the mother must be taken into account. 3 If the uterus of a pregnant patient lies within the area examined, the dose to the uterus must be documented. 4 In the case of nuclear medicine exposures, breastfeeding patients must be informed about the need for and duration of a suspension of breastfeeding on account of the contamination of breast milk."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Purpose, content and subjects",
+      "content": "1 The purpose of clinical audits is to ensure that medical exposures are justified and optimised in accordance with the current state of science and technology, and that the quality and outcome of patient care are continuously improved. 2 Clinical audits involve systematically examining patient- and personnel-related processes for diagnostic and therapeutic procedures involving ionising radiation, and comparing them with the current state of science and technology. 3 The FOPH may require the licence holder to undergo a clinical audit for the following medical radiation applications every five years: a. computed tomography; b. nuclear medicine; c. radiation oncology; d. fluoroscopy-guided interventional diagnostic and therapeutic procedures."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Coordination, preparation and conduct",
+      "content": "1 If the FOPH engages third parties for the coordination and preparation of clinical audits (Art. 189), they must be experts from various institutions and professional bodies. 2 If the FOPH engages third parties for the conduct of clinical audits (Art. 189), these auditors must have many years’ professional experience in their field and must be independent of the audited licence holders. 3 The FOPH shall make the necessary data concerning licence holders available to the third parties engaged. 4 If, in the evaluation of audits, the third parties engaged discover significant deviations from the requirements of this Ordinance or from the current state of science and technology, they shall inform the FOPH."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Licence holders’ self-evaluation and quality manual",
+      "content": "1 All holders of licences for radiation applications as specified in Article 41 paragraph 3 shall conduct an annual self-evaluation of their processes. 2 They shall prepare a quality manual and present this at the audit. 3 The quality manual must include a detailed description of at least the following points: a. competences and responsibilities; b. equipment available for examination and treatment; c. personnel training; d. measures to ensure compliance with requirements concerning the justification of individual applications (Art. 29); e. examination and treatment protocols and patient information; f. documentation of radiation doses (Art. 33); g. establishment and communication of diagnostic findings or treatment monitoring, data storage and data transfer; h. quality assurance; i. self-evaluation."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Authorisations",
+      "content": "1 The conduct of human research projects involving the use of radiation sources requires authorisation in accordance with Article 45 of the Human Research Act of 30 September 2011 (HRA). 2 In addition, the conduct of clinical trials of therapeutic products capable of emitting ionising radiation requires authorisation in accordance with Article 54 of the Therapeutic Products Act of 15 December 2000 (TPA). SR 810.30 SR 812.21"
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Dose constraints and dose calculation",
+      "content": "1 In research projects with no expected direct benefit, a dose constraint of 5 mSv per year (effective dose) applies to the participants. 2 In exceptional cases, the dose constraint specified in paragraph 1 may be up to 20 mSv per year (effective dose), with consideration being given to age, fertility, life expectancy and health status, provided that this is absolutely essential for methodological reasons. 3 In the case of combined procedures, all radiation sources must be taken into account in the calculation or estimation of the dose to participants. 4 In the calculation or estimation of the dose, the uncertainty factor must be taken into account."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Placing products on the market and administration",
+      "content": "1 For the placing of products on the market and administration of radiopharmaceuticals in humans, the provisions of the TPA apply. 2 Approval is required from the FOPH for: a. the marketing authorisation of radiopharmaceuticals in accordance with Article 9 paragraph 1 of the TPA; b. the simplified authorisation of radiopharmaceuticals in accordance with Article 14 of the TPA; c. the authorisation of radiopharmaceuticals for a limited period in accordance with Article 9 paragraph 4 of the TPA. 3 The FOPH shall grant approval based on the documents received as part of the application for authorisation, and on the assessment and reasoning of the Expert Commission for Radiopharmaceuticals. 4 Radiopharmaceuticals must be labelled as such. Their package labelling must include at least the following radiological protection-related information: a. the preparation name; b. the hazard warning symbol in accordance with Annex 8; c. the radionuclides and their activity at the time of calibration; d. the calibration time and the expiry time. 5 For the labelling, the provisions of the medicinal products legislation also apply. 6 Long-lived radionuclide impurities relevant to disposal must be indicated in the accompanying documents. SR 812.21"
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Preparation and quality control",
+      "content": "1 Any person who prepares radiopharmaceuticals must carry out the quality controls described in the product information. 2 The FOPH may take samples at any time in order to determine whether the requirements specified in Article 46 are still being met. For this purpose, it may engage specialised laboratories. 3 The FDHA may specify requirements for the preparation and use of radiopharmaceuticals; it shall take into account national and international guidelines and the recommendations of professional bodies, in particular those issued by the European Association of Nuclear Medicine (EANM) or the Swiss Society of Radiopharmacy/Radiopharmaceutical Chemistry (SGRRC). These guidelines (in English) can be accessed free of charge on the EANM website at www.eanm.org . These recommendations can be accessed free of charge on the SGRRC website at www.sgrrc.ch ."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Expert Commission for Radiopharmaceuticals",
+      "content": "1 The Expert Commission for Radiopharmaceuticals (ECRP) is a standing advisory commission within the meaning of Article 8a paragraph 2 of the Government and Administration Organisation Ordinance of 25 November 1998 (GAOO). 2 It shall advise the Federal Department of Home Affairs (FDHA), Swissmedic and the FOPH on radiopharmaceutical matters. In particular, it has the following tasks: a. it prepares reports on applications for the marketing authorisation of radiopharmaceuticals; b. it prepares reports on safety-related questions connected with radiopharmaceuticals; c. it advises the FHHA on the amendment of Annex 1 to the Therapeutic Products Ordinance of 21 September 2018. It is comprises specialists from the fields of nuclear medicine, pharmaceutics, chemistry and radiological protection. SR 172.010.1 SR 821.212.21 Amended by Annex 6 No II 4 of the Therapeutic Products Ordinance of 21 Sept. 2018, in force since 1 Jan. 2019 ( AS 2018 3577 )."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Definition",
+      "content": "A medical radiation incident is an unplanned event in the form of a careless or inappropriate action, with or without actual consequences, which, as a result of deficiencies in the quality assurance programme, technical malfunctions, operator error or other incorrect behaviour, led or could have led to unintended exposures of patients."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Duties",
+      "content": "1 Licence holders must keep a record of medical radiation incidents. 2 They must, with an interdisciplinary working group, regularly analyse any incidents which have occurred and make the operational adjustments required to prevent similar incidents. 3 They must report the following medical radiation incidents to the supervisory authority within 30 days: a. unplanned exposures which led or could have led to moderate organ damage, moderate functional impairment or more serious damage in the patient; b. confusion of patients or organs in therapeutic exposures or in diagnostic exposures in the high-dose range; c. unplanned exposures where the patient received an effective dose of more than 100 mSv. [tab] 4 In the case of medical radiation incidents as specified in paragraph 3, the licence holder must conduct an investigation and submit a report in accordance with Article 129."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Chapter 5 Occupational Exposures",
+      "section": "51",
+      "title": "Definition and principles",
+      "content": "1 Occupationally exposed persons means persons who: a. in the course of their occupational activities or training may incur exposure which exceeds a dose limit for members of the public as specified in Article 22; this is without prejudice to paragraph 2; b. work or undergo training at least once a week in controlled areas as defined in Article 80; or c. work or undergo training at least once a week in supervised areas as defined in Article 85 and may thus be exposed to an increased ambient dose rate. 2 Persons who are subject solely to radon exposure at their workplace are only deemed to be occupationally exposed if they may thereby accumulate an effective dose of more than 10 mSv per year (Art. 167 para. 3). 3 The licence holder, or in the case of aircrew the aircraft operator, shall designate all occupationally exposed persons within the enterprise. 4 Licence holders, or in the case of aircrew the aircraft operator, shall inform the occupationally exposed persons regularly of: a. the radiation doses to be expected in the course of their work; b. the dose limits applicable for them; c. the health risks associated with their work; d. the radiological protection measures which must be observed for their work; e. the risks of radiation exposure for the unborn child."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Chapter 5 Occupational Exposures",
+      "section": "52",
+      "title": "Categories",
+      "content": "1 For purposes of monitoring, licence holders shall classify the occupationally exposed persons into categories A and B in accordance with paragraphs 2–4. 2 Category A comprises persons who: a. may accumulate the following doses per calendar year in the course of their work: 1. an effective dose greater than 6 mSv, 2. an equivalent dose for the lens of the eye greater than 15 mSv, or 3. an equivalent dose for the skin, hands or feet greater than 150 mSv; b. as a result of radon exposure at the workplace receive an effective dose greater than 10 mSv per calendar year; or c. work as internal personnel at a nuclear installation. 3 Category B comprises all occupationally exposed persons not belonging to category A. 4 Persons engaged in activities where the risk of accumulating doses as specified in paragraph 2 letter a is negligible shall be assigned to category B for the performance of these activities. This includes in particular activities: a. involving the operation of diagnostic X-ray systems in medical, dental and veterinary practices, except in the high-dose range; b. as occupationally exposed aircrew. 5 If applicants or licence holders demonstrate that an activity does not fulfil any of the conditions specified in paragraph 2, they may request the supervisory authority to assign the persons performing this activity to category B."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Young people and pregnant or breastfeeding women",
+      "content": "1 Persons aged under 16 years must not be occupationally exposed. 2 For persons aged between 16 and 18 years and for pregnant women, the dose limits specified in Article 57 apply. 3 From the time when a pregnancy becomes known until its completion, the radiation exposure of the pregnant woman must be determined monthly. 4 The FDHA shall specify, in consultation with ENSI, when pregnant women must be additionally equipped with an active personal dosimeter. 5 Pregnant women must, if they so request, be exempted from the following activities: a. from flight duties; b. from any work with radioactive material involving a risk of intakes or contamination; c. from activities which may only be performed by an occupationally exposed person in category A. 6 Breastfeeding women must not perform any work with radioactive material involving an increased risk of intakes."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Aircrew",
+      "content": "For occupationally exposed aircrew, radiation exposure must be optimised when establishing work plans."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Medical monitoring",
+      "content": "1 The licence holder must have medical assessments conducted in accordance with Article 11 a of the Ordinance of 19 December 1983 on Accident Prevention (APO). 2 Suva may subject employees to the preventive occupational medicine provisions specified in Articles 70–89 APO. SR 832.30"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Dose limits",
+      "content": "1 For occupationally exposed persons, the effective dose must not exceed the limit of 20 mSv per calendar year. 2 For such persons, by way of exception and with the approval of the supervisory authority, the limit for the effective dose may be up to 50 mSv per calendar year, provided that the cumulative dose over five consecutive years, including the current year, is less than 100 mSv. 3 For such persons, the equivalent dose must not exceed the following limits: a. for the lens of the eye: 20 mSv per calendar year or a cumulative dose of 100 mSv over five consecutive calendar years, subject to a maximum dose of 50 mSv in a single calendar year; b. for the skin, hands and feet: 500 mSv per calendar year. 4 Occupationally exposed persons from abroad must, in Switzerland, only accumulate an effective dose of 20 mSv per calendar year, allowing for the dose already received in the current calendar year."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Dose limit for young people and pregnant women",
+      "content": "1 For persons aged 16–18 years, the effective dose must not exceed the limit of 6 mSv per calendar year. 2 Pregnant women may only be deployed as occupationally exposed persons if it is assured that, from the time when a pregnancy becomes known until its completion, the effective dose to the unborn child does not exceed 1 mSv."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Measures to be taken if dose limits are exceeded",
+      "content": "1 If a dose limit as specified in Article 56 paragraphs 1–3 and Article 57 paragraph 1 is exceeded in an occupationally exposed person, then, for the rest of the calendar year, the person concerned may accumulate no more than: a. an effective dose of 1 mSv; b. an equivalent dose of 15 mSv for the lens of the eye, and of 50 mSv for the skin, hands and feet. 2 The right of the supervisory authority to grant approval in accordance with Article 56 paragraph 2 is reserved. 3 If the dose limit specified in Article 57 paragraph 2 is exceeded, the women concerned must not, for the remainder of their pregnancy, be deployed in controlled or supervised areas as defined in Articles 80 and 85."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Medical surveillance in the event of exceedance of dose limits",
+      "content": "1 If a dose limit specified in Article 56 or 57 is exceeded, the supervisory authority shall decide whether the person concerned must be placed under medical surveillance. 2 The physician shall inform the person concerned and the supervisory authority of the results of his or her investigation and propose measures to be adopted. If the person concerned is an employee, the physician shall also inform Suva. 3 The physician shall report to the supervisory authority: a. data concerning any early effects detected; b. data concerning illnesses or special predispositions making it necessary to declare the person unfit for radiation work; c. biological dosimetry data. 4 If the person concerned is an employee, the physician shall also report the data to Suva. 5 Suva, or the supervisory authority in the case of persons not in employment, shall take the necessary measures. It may order a temporary or permanent exclusion from activities involving occupational exposure."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Dose constraints",
+      "content": "1 For the purpose of optimising radiological protection, the licence holder, or in the case of aircrew the aircraft operator, shall specify dose constraints for occupationally exposed persons. 2 The principle of optimisation is deemed to be satisfied where activities do not lead to an effective dose of more than 100 µSv per calendar year for occupationally exposed persons. 3 If a dose constraint is exceeded, the working practice must be reviewed and radiological protection improved."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Dosimetry in occupationally exposed persons",
+      "content": "1 In occupationally exposed persons, radiation exposure must be determined individually in accordance with Annex 4 (individual monitoring). 2 External exposure must be determined every month. 3 The supervisory authority may grant exemptions from paragraphs 1 and 2 if: a. an additional or another appropriate dose monitoring system is available; b. no appropriate dose monitoring system is available, but enhanced radiological protection measures are taken. 4 The FDHA shall specify, in consultation with ENSI, how and at what intervals internal radiation exposure is to be determined. In doing so, it shall take into account the working conditions and the type of radionuclides used. 5 It shall specify, in consultation with ENSI, when a second, independent dosimetry system fulfilling an additional function must be used."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Determination of radiation doses by calculation",
+      "content": "1 In cases where individual dose measurement is not suitable, the licence holder must determine the radiation dose by calculation; this requires the approval of the supervisory authority. 2 The FDHA, in consultation with ENSI, shall issue provisions concerning the determination of radiation doses by calculation. 3 In the case of aircrew, aircraft operators may themselves determine radiation doses by calculation. The software used for this purpose must reflect the state of the art."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Reporting threshold per monitoring period",
+      "content": "1 For occupationally exposed persons at enterprises licensed by the FOPH, the following reporting thresholds per dosimetric monitoring period apply: a. 2 mSv for the effective dose; b. 2 mSv for the equivalent dose for the lens of the eye; c. 50 mSv for the equivalent dose for the skin, hands or feet. 2 When a reporting threshold is reached, the reporting duties specified in Article 65 paragraph 1 letter c and Article 69 letter b arise."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Duties of licence holders or aircraft operators with regard to personal dosimetry",
+      "content": "1 Licence holders, or, in the case of aircrew, aircraft operators, must have the radiation exposure of all occupationally exposed persons within the enterprise determined by an approved personal dosimetry service. They may also themselves determine doses by calculation as specified in Article 62 or carry out triage measurements to detect internal radiation exposure. 2 They shall bear the costs of dosimetry. 3 They must: a. inform the persons concerned of the results of dosimetry; b. furnish them with a written summary of all doses: 1. upon termination of employment, 2. prior to deployment at another enterprise; c. provide Suva with the operational, personal and dosimetry data required for preventive occupational medicine; d. when a reporting threshold as specified in Article 63 is reached, provide the supervisory authority, if so requested, with an explanation of the cause of the dose; the explanation must be provided in writing within two weeks; e. communicate to the appointed personal dosimetry service the data specified in Article 73 paragraph 1 letters a–e and g–i for all occupationally exposed persons within the enterprise; f. report directly to the Central Dose Registry doses accumulated by occupationally exposed persons working abroad which were not determined by a Swiss personal dosimetry service; the report must be submitted within a month after the end of the assignment in a form prescribed by the FOPH."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Duties of licence holders or aircraft operators when radiation doses are determined by calculation",
+      "content": "1 If radiation doses are determined by calculation within the enterprise as specified in Article 62, licence holders, or, in the case of aircrew, aircraft operators, must report: a. the data specified in Article 73: to the Central Dose Registry (Art. 72); b. the radiation doses determined by calculation: to the Central Dose Registry within a period specified by the FOPH in a form prescribed by the FOPH; c. the reaching of a reporting threshold as specified in Article 63: to the supervisory authority no later than ten days after the radiation dose has been calculated; d. a suspected exceedance of a dose limit: within one working day, to the supervisory authority and, if the person concerned is an employee, to Suva. 2 For enterprises within the area supervised by ENSI, this authority shall issue additional guidelines concerning the reporting of radiation doses determined by calculation."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Requirements for approval",
+      "content": "1 A personal dosimetry service must be approved by the competent authority (Art. 68). 2 It shall be approved if the following requirements are met: a. It is domiciled in Switzerland. b. It has an appropriate organisation and sufficient staff, in particular an adequate number of persons with a practical knowledge of the relevant measurement technique and of radiological protection. c. It demonstrates to the competent authority that it has, and implements, a quality assurance programme. d. The measurement system reflects the state of the art and can be related to appropriate standards through an unbroken chain of comparisons. 3 If a personal dosimetry service is accredited for personal dosimetry, the requirements specified in paragraph 2 letters c and d are deemed to be met."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Approval procedure and term",
+      "content": "1 The competent authority shall determine, by means of an inspection and a technical review, whether a personal dosimetry service meets the requirements for approval. It may engage third parties for this purpose. 2 Approval may be granted for a maximum of five years."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Competent authorities",
+      "content": "1 The following authorities are responsible for approval: the FOPH, in cases where a personal dosimetry service wishes to operate wholly or largely within the area supervised by the FOPH or by Suva; b. ENSI, in cases where a personal dosimetry service wishes to operate wholly or largely within the area supervised by this authority 2 In cases where a personal dosimetry service wishes to operate in various areas, the competent authorities shall jointly decide which of them is to be responsible for approval. 3 The competent authorities must not operate any personal dosimetry services themselves."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Reporting duties of the personal dosimetry service",
+      "content": "The personal dosimetry service has the following reporting duties: a. Within a month after the end of the monitoring period, it shall report the data specified in Article 73 to the following: 1. the licence holder or, in the case of aircrew, the aircraft operator; 2. the Central Dose Registry (Art. 72), in a form prescribed by the FOPH; 3. in the case of data from the area supervised by ENSI: also directly to ENSI. b. If a reporting threshold per monitoring period as specified in Article 63 is reached, the personal dosimetry service shall notify the licence holder and the supervisory authority no later than ten working days after receipt of the dosimeter. c. In the event of a suspected exceedance of a dose limit, the personal dosimetry service shall report the result to the licence holder, or, in the case of aircrew, to the aircraft operator, and to the supervisory authority within one working day. If the person concerned is an employee, it shall also inform Suva. d. For personal dosimetry services approved by ENSI, this authority shall issue reporting guidelines."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Further duties of the personal dosimetry service",
+      "content": "1 The personal dosimetry service must retain the dose values and personal details, as well as all the raw data required for calculation of the doses to be reported at a later date, for a period of two years after submission to the Central Dose Registry. 2 In accordance with the instructions of the competent authority, it must participate at its own expense in intercomparison exercises. 3 If a personal dosimetry service wishes to cease its activities, it must give the competent authority, its clients and the supervisory authorities responsible for its clients at least six months’ advance notice. 4 The personal dosimetry service ceasing its activities shall transfer its archived data to the new personal dosimetry services designated by its clients. 5 In exceptional cases, the competent authority shall determine the steps to be taken. 6 If a client terminates its contractual relationship with the personal dosimetry service, the latter must draw the client’s attention to its duties as a licence holder as specified in Article 64 and inform the supervisory authority of the termination."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Duty of confidentiality and data protection",
+      "content": "The personal dosimetry service may only disclose personal details and the results of dosimetry: a. to the individual concerned; b. to the licence holder or, in the case of aircrew, the aircraft operator; c. to the supervisory authority; d. to the licensing authority; e. to the Central Dose Registry."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Responsible authority and purpose",
+      "content": "1 The FOPH shall maintain a Central Dose Registry. 2 The purpose of the Registry is to record the doses determined throughout the period during which a person is occupationally exposed, in order to assess possible insurance claims on this basis. 3 In addition, the Registry enables the supervisory authorities: a. to review at any time the doses accumulated per monitoring period for each occupationally exposed person in Switzerland; b. to conduct statistical analyses and evaluate the effectiveness of the provisions of this Ordinance; c. to ensure data retention."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Data processed",
+      "content": "1 The following data concerning occupationally exposed persons shall be stored in the Central Dose Registry: a. name, first name and former names; b. date of birth; c. OASI number; d. sex; e. name, address and UID of the enterprise; f. dose values determined in Switzerland and abroad; g. occupational group; h. activity; i. category (A or B). 2 For persons working in Switzerland only temporarily, the doses determined in Switzerland shall be recorded. Amended by Annex No II 31 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ( AS 2021 800 )."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Access rights",
+      "content": "The following shall have direct electronic access to data in the Central Dose Registry: the staff of the FOPH Radiological Protection Division; the Suva Occupational Medicine Department; the supervisory authorities: the data in the area under their supervision; d. the Federal Office of Civil Aviation (FOCA): the data concerning aircrew."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Reporting",
+      "content": "1 The supervisory authorities shall produce annual reports on the results of personal dosimetry. 2 The reports shall be published by the FOPH. It shall ensure that the persons concerned are not identifiable."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Use of data for research projects",
+      "content": "1 The FOPH may use, or make available to third parties on request, the personal data stored in the Central Dose Registry for research projects concerning the effects of radiation and radiological protection. The provisions of the HRA are applicable. 2 The FOPH shall only make the personal data available in an anonymised form, unless the applicant demonstrates that: a. the persons concerned have consented to the disclosure of their data; or b. the applicant has been granted authorisation by the responsible ethics committee in accordance with Article 45 of the HRA. SR 810.30"
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "",
+      "content": "1 The FDHA, in consultation with ENSI and after a hearing with the Federal Institute of Metrology (METAS), shall issue technical provisions for personal dosimetry. 2 The technical provisions shall specify in particular: a. minimum requirements for measurement systems; b. minimum requirements for measurement accuracy in routine operations and for intercomparison exercises; c. standard models for calculation of radiation doses."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "Chapter 6 Radioactive Material and Installations",
+      "section": "78",
+      "title": "Principles",
+      "content": "1 In order to limit and monitor radiation exposure, the licence holder shall establish controlled or supervised areas. 2 Activities involving radioactive material above the licensing limit, with the exception of sealed radioactive sources, must be carried out within controlled areas in rooms which are designed as working areas as specified in Article 81. 3 For rooms and locations within supervised or controlled areas where contamination of surfaces or indoor air or increased ambient dose rates may occur, the supervisory authority may order a classification into zones as specified in Article 82 and dispense with the establishment of working areas."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "Chapter 6 Radioactive Material and Installations",
+      "section": "79",
+      "title": "Restriction of ambient doses",
+      "content": "1 The room or area in which installations are operated or radioactive material is handled must be designed or shielded in such a way that no limits are exceeded. 2 At locations outside of controlled and supervised areas where members of the public may be continuously present, the weekly ambient dose must not exceed 0.02 mSv. At locations where people are not continuously present, this value may be exceeded by up to a factor of five. 3 If the locations specified in paragraph 2 are workplaces, the ambient dose, given an assumed work-related presence of 40 hours per week, may be higher. 4 The influence of several different radiation sources on a location to be protected must be taken into account. 5 The FDHA, in consultation with ENSI, shall specify guidance values for the ambient dose within and outside of controlled and supervised areas."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "Chapter 6 Radioactive Material and Installations",
+      "section": "80",
+      "title": "Definition",
+      "content": "1 Controlled areas means areas which are subject to specific requirements for the purpose of protecting against exposures to ionising radiation and preventing the spread of contamination. In the area supervised by ENSI, the term controlled zone may continue to be used for controlled areas. 2 The following are to be established as controlled areas: a. working areas as specified in Article 81; b. zone types I–IV as specified in Annex 10; c. areas in which airborne contamination may exceed 0.05 CA as specified in Annex 3 Column 11 or surface contamination may exceed 1 CS as specified in Annex 3 Column 12. 3 The supervisory authority may request that further areas be established as controlled areas if this is appropriate for organisational reasons. 4 The licence holder must ensure that access to controlled areas is only possible for authorised persons. 5 Controlled areas must be clearly delimited and marked as specified in Annex 8. 6 The licence holder must supervise compliance with guidance values for ambient dose rates, contamination and indoor air activity concentrations, and compliance with protection measures and safety provisions within controlled areas."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Working areas",
+      "content": "1 Working areas must be established within a controlled area in separate rooms reserved for these purposes. 2 They shall be classified into the following types, according to the activity of the radioactive materials handled per operation or per day: a. type C: an activity from 1 to 100 times the licensing limit; b. type B: an activity from 1 to 10 000 times the licensing limit; c. type A: an activity from 1 times the licensing limit to an upper limit defined in the licensing procedure. 3 For the storage of radioactive materials in working areas, the supervisory authority may increase the values specified in paragraph 2 by up to a factor of 100. 4 The supervisory authority may allow exceptions to paragraph 1 on operational grounds, provided that radiological protection is assured. 5 The supervisory authority may in exceptional cases, where handling involves a low risk of intakes, increase the values specified in paragraph 2 by up to a factor of 10, provided that radiological protection is assured. 6 The supervisory authority may in individual cases, taking into account the risk of intakes, assign working areas to a different type from that specified in paragraph 2, provided that only activities involving a low risk of inhalation are carried out therein. 7 The FDHA, in consultation with ENSI, shall issue the necessary regulations concerning protection measures."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Zones",
+      "content": "1 Zones shall be classified into the zone types specified in Annex 10 according to the degree of contamination present or to be expected . 2 For the purpose of planning and regulation of individual doses, within zones with elevated ambient dose rates, areas with maximum permissible ambient dose rates must be established and designated as specified in Annex 10. 3 The supervisory authority may in exceptional cases approve other zone and area types if radiological protection is equally well or better assured. 4 The FDHA, in consultation with ENSI, shall issue regulations concerning protection measures for the various zone and area types."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Treatment after discontinuation of activities",
+      "content": "1 For controlled areas in which the handling of radioactive material is discontinued, and if necessary also for the surrounding areas, including all installations and the remaining material, the licence holder must ensure that the clearance measurement criteria specified in Article 106 are met and the immission limits specified in Article 24 are not exceeded. 2 The licence holder must demonstrate to the supervisory authority that the duty specified in paragraph 1 is fulfilled. 3 The licence holder may only use the controlled areas concerned for other purposes after approval has been granted by the supervisory authority."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Guidance values for contamination",
+      "content": "1 Before persons leave, or materials are removed from, controlled areas, it must be ensured that the guidance value specified in Annex 3 Column 12 for surface contamination is not exceeded. For the clearance of materials, the requirements specified in Article 106 apply. 2 If, in controlled areas, the contamination of materials and surfaces is greater than 10 times the guidance value specified in Annex 3 Column 12, decontamination measures must be implemented or other appropriate protection measures adopted. 3 If, in controlled areas, part of the contamination will remain attached to the surface under foreseeable conditions of handling, the guidance values specified in Annex 3 Column 12 shall only apply to the transferable contamination."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "",
+      "content": "1 Supervised areas means areas which are subject to specific requirements for the purpose of protecting against exposures to ionising radiation from the operation of installations or the handling of sealed radioactive sources. 2 The following are to be established as supervised areas: a. rooms and adjacent areas in which installations are operated without a full or partial protection system; b. zones of type 0 as specified in Annex 10; c. areas in which persons may accumulate an effective dose of more than 1 mSv per calendar year from external radiation exposure. 3 The licence holder must ensure that, if elevated ambient dose rates occur during the operation of installations or the handling of sealed radioactive sources, only authorised persons can be present in supervised areas. 4 The licence holder must monitor compliance with the guidance values for ambient dose rates and compliance with protection measures and safety provisions within supervised areas. 5 Supervised areas must be marked as specified in Annex 8. 6 The establishment of supervised areas is not necessary for occupationally exposed aircrew. 7 In rooms in which only compact dental X-ray systems are operated, the establishment of supervised areas is not necessary."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Inventory, record-keeping and reporting duties",
+      "content": "1 When handling sealed radioactive sources, licence holders must maintain an inventory. 2 They must keep records of the purchase, use, transfer and disposal of radioactive materials. 3 They must report annually to the supervisory authority on their trade in radiation sources, providing the following information: a. the name of the radionuclides, their activity, the date of activity determination, and their chemical and physical form; b. the name of the equipment or articles containing radioactive sources, with details of the radionuclides, their activity and the date of activity determination; c. the name of the installations and the associated parameters; d. the addresses and licence numbers of domestic clients. 4 The licensing authority may specify additional record-keeping and reporting duties in the licence."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Transfer",
+      "content": "Holders of radiation sources subject to mandatory licensing may only supply them to enterprises or persons holding the requisite licence."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Requirements for the handling and the location of radiation sources",
+      "content": "The EDI, in consultation with ENSI, shall define the requirements for the handling and the location of radiation sources. In particular, it shall specify: a. structural measures and the basis for calculations in this regard; b. the requirements for irradiation, administration and relaxation rooms, and for rooms for equipment used for nuclear medicine examinations; c. the radiological protection measures for the care and accommodation of patients receiving therapy; d. the type of storage and the requirements for facilities for the storage of radioactive materials."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Measuring instruments for ionising radiation",
+      "content": "1 Licence holders must ensure that the enterprise has the necessary number of suitable measuring instruments for ionising radiation. 2 In rooms or areas where radiation sources are handled or operated and a related hazard exists, suitable measuring instruments for ionising radiation must be available at all times to monitor dose rates and surface or airborne contamination."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Requirements for measuring instruments for ionising radiation",
+      "content": "Measuring instruments for ionising radiation are governed by the Measuring Instruments Ordinance of 15 February 2006 and the implementing provisions issued by the Federal Department of Justice and Police (FDJP) in consultation with the FDHA and the Federal Department of the Environment, Transport, Energy and Communications (DETEC). SR 941.210"
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Requirements for the use of measuring instruments for ionising radiation",
+      "content": "The FDHA, in consultation with ENSI, shall specify: a. the type and the number of instruments required for measuring ionising radiation; b. the extent of quality assurance for the use of measuring instruments for ionising radiation."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Duties of licence holders",
+      "content": "1 Licence holders must carry out functional testing of measuring instruments for ionising radiation at appropriate intervals, using suitable radiation sources. 2 The supervisory authority may require licence holders to participate in intercomparison exercises."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Design",
+      "content": "1 With regard to design, sealed radioactive sources must reflect the state of the art when they are placed on the market. 2 For sealed radioactive sources, the radionuclides selected must be chemically as stable as possible. 3 If sealed radioactive sources are used exclusively as gamma or neutron emitters, shielding must be provided which prevents the escape of alpha or beta radiation."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Marking",
+      "content": "1 Sealed radioactive sources and their containers must be marked in such a way as to permit identification of the source at any time. 2 The manufacturer or supplier of a high-activity sealed source as defined in Article 96 must ensure that it can be identified by a unique number. This number must be engraved or stamped on the source and on the source container. 3 The radionuclide, activity, date of manufacture and measurement, and if appropriate the classification according to ISO 2919, must be immediately apparent or ascertainable from the marking. 4 The supervisory authority may grant exemptions from paragraphs 1–3 if marking is not practicable or if reusable source containers are used. ISO 2919: 2012-02-15, Radiological protection – Sealed radioactive sources – General requirements and classification. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH 3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch ."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Further requirements for placing on the market",
+      "content": "1 Before being placed on the market, every sealed radioactive source must be tested for leak tightness and absence of contamination. Testing must be carried out by a body accredited for this activity or recognised by the supervisory authority. 2 The capsule of sealed radioactive sources whose activity is greater than 100 times the licensing limit must comply with the requirements of ISO 2919 for the intended application and be classified accordingly. 3 In justified cases, the supervisory authority may grant exemptions from paragraphs 1 and 2 or require additional quality tests. ISO 2919: 2012-02-15, Radiological protection – Sealed radioactive sources – General requirements and classification. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH 3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch ."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Definition",
+      "content": "High-activity sealed source means a sealed radioactive source whose activity is greater than the activity value specified in Annex 9."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Inventory",
+      "content": "1 The licensing authority shall maintain an inventory of licence holders and of the high‑activity sealed sources in their possession. 2 The inventory shall include: a. the identification number; b. the supplier; c. the type and location of the source; d. the radionuclide in each case; e. the activity of the source at the time of production, first placing on the market or purchase of the source by the licence holder. 3 The licensing authority shall continuously update the inventory."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Requirements",
+      "content": "1 Before a licence is granted for handling high-activity sealed sources, the applicant must provide evidence that appropriate provision has been made for subsequent disposal. 2 The licence holder shall verify at least once a year that each high-activity sealed source and, where relevant, its protective container is in good condition and is still present at its place of use or storage. The licence holder shall report the results of the inspection to the licensing authority."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Safety and security",
+      "content": "1 For each high-activity sealed source, the licence holder shall define adequate measures and procedures aimed at preventing unauthorised access to or loss or theft of the source or its damage by fire, and shall document the measures and procedures. 2 The FDHA, in consultation with ENSI, shall define the principles for the structural, technical, organisational and administrative requirements for safety and security measures."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "",
+      "content": "1 The licence holder must ensure that radiation sources: a. are subjected to testing prior to their first use; b. are regularly inspected and maintained. 2 Paragraph 1 also applies to associated medical image receptor systems, image display and image documentation equipment, nuclear medicine examination systems and activimeters. 3 The FDHA may, in consultation with ENSI, define the minimum scope and the periodicity of testing, the minimum scope of the quality assurance programme and the requirements for the implementing bodies. It shall take into account national and international quality assurance standards."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Off-site transport",
+      "content": "1 Any person who transports radioactive material, or has it transported, off-site must: a. comply with federal regulations concerning the carriage of dangerous goods; b. provide evidence that they have and implement an appropriate quality assurance programme. 2 The consignors and transporters of radioactive material must: a. each, in advance, designate a person responsible for quality assurance and define quality assurance measures in writing; b. make sure that the transport containers or packaging materials comply with the relevant regulations and are properly maintained. 3 If the consignors and transporters have in place a quality assurance system for the transport of radioactive material, certified by an accredited body, it shall be assumed that they implement an appropriate quality assurance programme. 4 The consignors must verify that the contracted transporter, if necessary, has a licence for the transport of radioactive material."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "On-site transport",
+      "content": "The FDHA, in consultation with ENSI, shall specify the requirements for on-site transport of radioactive material."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Import, export and transit",
+      "content": "1 Radioactive material may only be imported, exported or undergo transit via the customs offices designated by the Directorate General of Customs. 2 The customs declaration for import, export, or transit must include the following details: a. the precise designation of the goods; b. the radionuclides (in the case of nuclide mixtures the three nuclides with the lowest licensing limits must be indicated); c. the total activity per radionuclide in Bq; d. the licence number of the recipient (for imports) or the sender (for exports) in Switzerland. 3 For each individual storage of radioactive material in a customs bonded warehouse or in a duty-free warehouse, the depositor must present to the customs office a licence as specified in Article 28 of the RPA. 4 The licensing authority may request that a separate licence application be submitted for each import, export and transit of high-activity sealed sources. Bq = becquerel"
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "",
+      "content": "1 If there is an increased likelihood of orphan radioactive materials being encountered in recyclable materials or wastes, the enterprises concerned are required, when managing or preparing these materials or wastes for export, to inspect them for the presence of orphan radioactive materials using appropriate screening procedures and, if such materials are detected, to secure the recyclable materials or wastes at an appropriate location. This applies in particular to: a. enterprises where municipal wastes or wastes of similar composition are incinerated; b. enterprises which recycle scrap metals; c. enterprises which prepare scrap metals for export. 2 The duties of the enterprises concerned shall be specified in the licence."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Clearance from mandatory licensing and supervision",
+      "content": "Handling of the following shall be cleared from mandatory licensing and supervision: a. material discharged to the environment in accordance with Articles 111–116; b. material cleared or discharged to the environment in accordance with the Radiological Protection Ordinance of 22 June 1994; c. material from an activity subject to mandatory licensing cleared in accordance with Article 106; e. NORM discharged to the environment in accordance with Article 169. [ AS 1994 1947 , 1995 4959 No II 2, 1996 2129 , 2000 107 934 2894 , 2001 3294 No II 7, 2005 601 Annex 7 No 3 2885 Annex No 7, 2007 1469 Annex 4 No 44 5651 , 2008 3153 Art. 10 No 2 5747 Annex No 22, 2010 5191 Art. 20 No 4 5395 Annex 2 No II 3, 2011 5227 No I 2. 7 , 2012 7065 No I 5 7157 , 2013 3041 No I 5 3407 Annex 6 No 3]"
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Clearance measurement and other clearance methods",
+      "content": "1 Licence holders may clear the handling of material from mandatory licensing and supervision if they demonstrate by a measurement (clearance measurement) that: a. the maximum ambient dose rate at a distance of 10 cm from the surface, allowing for natural radiation, is less than 0.1 µSv per hour; and b. one of the following requirements is met: 1. the specific activity is below the clearance limit, 2. the absolute activity is less than the activity of 1 kg of a material whose specific activity is equal to the clearance limit. 2 If persons may be contaminated when handling material cleared in accordance with paragraph 1, it must additionally be ensured by a measurement that the surface contamination guidance value specified in Annex 3 Column 12 is complied with. 3 For the averaging of the values measured in accordance with paragraphs 1 and 2 to ensure non-exceedance of the clearance limit or the surface contamination guidance values specified in Annex 3 Column 12, the following quantities must be complied with: for the measurement of activity: 100 kg; for the measurement of surface contamination: 100 cm 2 . 4 In justified cases, the supervisory authority may approve values higher than those specified in paragraph 3. 5 Handling of solid or liquid material may be cleared without measurement of activity by technical means if: a. the maximum ambient dose rate at a distance of 10 cm from the surface, allowing for natural radiation, is less than 0.1 µSv per hour; b. paragraph 2 is complied with; and c. one of the following requirements is met: 1. it can be demonstrated that the clearance limit is not exceeded by an assessment of the materials used or by excluding activation, 2. the supervisory authority has approved the models and calculations used to demonstrate that the clearance limit is not exceeded. 6 The supervisory authority may define the conditions under which the results of a clearance measurement must be reported to it prior to the clearance of the materials."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": ". 107 Prohibition of mixtures",
+      "content": "It is not permissible to mix radioactive materials with other materials so that the handling of the mixture is not subject to mandatory licensing and supervision. This is without prejudice to Articles 111–116 and 169."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "Chapter 7 Radioactive Waste",
+      "section": "108",
+      "title": "Definition",
+      "content": "Radioactive waste means radioactive material for which no reuse is foreseen and which does not contain only NORM."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "Chapter 7 Radioactive Waste",
+      "section": "109",
+      "title": "Reuse",
+      "content": "1 A specifically planned use of radioactive material as part of a licensed activity, initiated within three years from the last use, is considered to be reuse. The supervisory authority may approve an extension of this time limit. 2 The supervisory authority may request that radioactive material be subjected to reuse."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "Chapter 7 Radioactive Waste",
+      "section": "110",
+      "title": "Monitoring and documentation",
+      "content": "Licence holders must: a. monitor their radioactive waste holdings b. document the activity levels relevant for subsequent treatment and the composition; c. keep records of radioactive waste discharged to the environment."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "Chapter 7 Radioactive Waste",
+      "section": "111",
+      "title": "Principles",
+      "content": "1 Discharge to the environment comprises, in particular, landfilling, disposal with domestic waste, discharge in exhaust air and wastewater, incineration, reuse or delivery to a recycling facility. 2 Only low-level radioactive waste may be discharged to the environment. 3 Radioactive waste may only be discharged to the environment with a licence and under the supervision of the licence holder. 4 It may only be discharged to the environment by the licence holder without the approval of the licensing authority and without specific licensing in accordance with Article 112 paragraph 2 if: a. the maximum ambient dose rate at a distance of 10 cm from the surface, allowing for natural radiation, is less than 0.1 µSv per hour; b. the requirement specified in Article 106 paragraph 2 is met; and c. the total activity per week and licence is not greater than the activity of 10 kg of a material whose specific activity is equal to the clearance limit. 5 Prior to the discharge of radioactive waste, labels, hazard warning symbols or other markings indicating radioactivity must be removed."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "Chapter 7 Radioactive Waste",
+      "section": "112",
+      "title": "Discharge in exhaust air and wastewater",
+      "content": "1 Airborne or liquid radioactive substances may be discharged in exhaust air to the atmosphere or in wastewater to surface waters. 2 The licensing authority shall specify maximum permissible discharge rates and, where appropriate, discharge activity concentrations for each discharge site on a case-by-case basis. 3 It shall specify the discharge rates and discharge activity concentrations in such a way that the source-related dose constraint in accordance with Article 13 paragraph 3 and the immission limits in accordance with Article 24 are not exceeded. 4 It may increase by up to a factor of three the discharge activity concentrations in accordance with paragraphs 2 and 3 for discharges into sewers if it can be assured that appropriate dilution is guaranteed at all times prior to discharge into publicly accessible waters."
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Control measures",
+      "content": "1 The licensing authority shall specify the monitoring of emissions in the licence in accordance with Article 112 paragraphs 2–4. It may, in the licence, provide for mandatory reporting. 2 Immission monitoring is governed by Article 191. 3 The supervisory authority may require the licence holder to conduct additional or special measurements as part of immission monitoring and to report the results. 4 The supervisory authority may request that a meteorological assessment and local background radiation measurements be carried out before operations are commenced. 5 The licence holder may, with the approval of the supervisory authority, engage external bodies to carry out monitoring measurements."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Landfilling with the approval of the licensing authority",
+      "content": "1 Radioactive waste may, in individual cases, with the approval of the licensing authority, be disposed of to landfill if: a. overall, taking into account other materials present in the landfill, the clearance limit is not exceeded; or b. at no time can an effective dose of 10 µSv per calendar year be accumulated as a result of the disposal. 2 The FOPH shall monitor compliance with the permissible effective dose via the sampling and measurement programme specified in Article 193. 3 The specific activity of radioactive waste thus disposed of must not exceed 100 times the clearance limit and, for waste containing artificial radium, 1000 times the clearance limit. 4 For the disposal of radioactive waste containing technically enhanced radium, the following conditions must additionally be met: a. The waste arose before 1 October 1994. b. Disposal via the usual channels would be impossible or would involve disproportionate efforts. c. Removal represents a significantly better option for people and the environment overall than maintenance of the status quo."
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "115 Recycling with the approval of the licensing authority",
+      "content": "[tab] The licensing authority may specify conditions for recycling radioactive waste, in particular metals, with a specific activity no greater than 10 times the clearance limit if it can be assured that the materials arising after the planned recycling do not exceed the clearance limit."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Incineration with the approval of the licensing authority",
+      "content": "1 Combustible radioactive waste may, with the approval of the licensing authority, be incinerated at thermal waste treatment plants in accordance with the Waste Ordinance of 4 December 2015 if: a. compliance with the clearance limit can be demonstrated by monitoring of activity concentrations or calculation of the possible contamination of incineration residues; b. the radioactive waste only contains the radionuclides H-3 or C-14; and c. the activity approved for incineration per week does not exceed 1000 times the licensing limit. [tab] 2 In justified cases, the licensing authority may approve the incineration of combustible radioactive waste containing radionuclides other than those specified in paragraph 1 letter b. SR 814.600"
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Decay storage",
+      "content": "1 Radioactive waste exclusively containing radionuclides with a half-life of 100 days or less must, whenever possible, be retained at the sites where it arises until its activity has decayed to such an extent that it can be measured for clearance in accordance with Article 106 or discharged within the licensed discharge rate in accordance with Article 112 paragraph 2. 2 In the absence of an alternative that is more favourable overall for people and the environment, radioactive waste whose activity, as a result of radioactive decay, will have decreased no later than 30 years after the end of use of the original material to such an extent that it can be measured for clearance in accordance with Article 106 or recycled in accordance with Article 115 must be stored until this point has been reached. It must be separated from radioactive waste which does not fulfil this condition. 3 During the decay period, waste as specified in paragraphs 1 and 2 must be: a. packaged and stored in such a way as to prevent the uncontrolled release of radioactive substances and avoid creating a fire hazard; b. marked and provided with documentation indicating the type of waste, activity content and time of possible clearance. 4 Prior to clearance, it must be ensured that Article 106, or Article 112 or 115, is complied with. 5 The licensing authority shall specify the technical requirements for decay storage and any related activities. Inserted by No II of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ( AS 2019 183 )."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Gases, dust, aerosols and liquids",
+      "content": "1 Radioactive waste in the form of gases, dust or aerosols which may not be discharged to the environment must be retained by suitable technical devices. 2 Liquid radioactive waste which may not be discharged to the environment must be converted to a chemically stable solid form. 3 The supervisory authority may grant exemptions from paragraphs 1 and 2 or permit additional treatment options if an alternative more favourable for people and the environment can thereby be realised."
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Radioactive waste subject to mandatory delivery",
+      "content": "1 Radioactive waste not arising as a result of the use of nuclear energy must, following any treatment which may be required in accordance with Article 118, be delivered to the federal collection centre. 2 The following are exempted from delivery to the federal collection centre: a. radioactive waste which may be discharged to the environment; b. radioactive waste with a short half-life as specified in Article 117. 3 The FDHA shall define the technical details for the treatment of radioactive waste subject to mandatory delivery prior to its receipt by the federal collection centre."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Designation and duties of the federal collection centre",
+      "content": "1 The federal collection centre shall be operated by the Paul Scherrer Institute (PSI). 2 The PSI shall take receipt of radioactive waste subject to mandatory delivery and be responsible for stacking, treatment and interim storage."
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Coordination group",
+      "content": "A coordination group comprising representatives from the FOPH, ENSI and the PSI shall make recommendations to the supervisory and licensing authorities on ensuring the safe receipt of radioactive waste subject to mandatory delivery."
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "Chapter 8 Failures",
+      "section": "122",
+      "title": "",
+      "content": "Failure means an event which involves the deviation of an installation, article or activity from normal operation, and which: a. compromises the safety of the installation or article; b. may lead to the exceedance of an immission or emission limit; or c. has or could have led to the exceedance of a dose limit."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "Chapter 8 Failures",
+      "section": "123",
+      "title": "Design of enterprises",
+      "content": "1 The licence holder must adopt appropriate measures to prevent failures. 2 The enterprise must be designed in such a way that the following requirements are met: a. For failures with an expected frequency of more than 10 -1 per year, it must be possible for the source-related dose constraints specified in the licence to be complied with. b. For failures with an expected frequency of between 10 –1 and 10 –2 per year, a single such event must not lead to an additional dose which exceeds the relevant source-related dose constraints. c. For failures with an expected frequency of between 10 - 2 and 10 - 4 per year, the dose resulting from a single such event for members of the public must not be greater than 1 mSv. d. For failures with an expected frequency of between 10 - 4 and 10 - 6 per year, the dose resulting from a single such event for members of the public must not be greater than 100 mSv; the licensing authority may specify a lower dose in individual cases. 3 The enterprise must be designed in such a way that only a small number of failures as specified in paragraph 2 letters c or d can occur. 4 For failures as specified in paragraph 2 letters c and d and for failures which have an expected frequency of less than 10 - 6 per year, but which could have major impacts, the supervisory authority shall require the enterprise to adopt the necessary preparedness measures. 5 The supervisory authority shall specify on a case-by-case basis the methodology and boundary conditions for the analysis of failures and for their assignment to the frequency classes specified in paragraph 2 letters b–d. The effective dose or the equivalent doses arising from failure-related exposure of persons must be determined in accordance with the current state of science and technology, using the assessment quantities and dose coefficients specified in Annexes 3, 5 and 6. 6 For enterprises where failures as specified in paragraph 2 letter d may occur, the supervisory authority may order: a. the measurement of installation parameters which are required to monitor the course of an accident, to produce diagnoses and forecasts, and to determine the measures necessary to protect the public; b. the continuous transmission of the installation parameters to the supervisory authorities via a network tolerant of an failure."
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "Safety report",
+      "content": "1 The supervisory authority may require the licence holder to submit a safety report. 2 The safety report shall include descriptions of: a. the safety systems and equipment; b. the measures adopted to ensure safety; c. the enterprise organisation responsible for safety and radiological protection; d. failures, their effects on the enterprise and the surrounding area, and their approximate frequency; e. emergency response planning for protection of the public, in the case of enterprises as specified in Article 136. 3 The supervisory authority may request additional documentation."
+    },
+    {
+      "provision_ref": "art125",
+      "section": "125",
+      "title": "Preparedness measures",
+      "content": "1 Licence holders must make the necessary internal preparations so that failures and their effects can be managed. 2 They must issue directives concerning the emergency measures to be adopted. 3 They must ensure that appropriate resources are available at all times for the management of failures and their effects; in rooms where radioactive materials are handled, this also applies to firefighting. 4 They must ensure that staff receive regular instruction on rules of behaviour, are trained in emergency measures and are familiarised with the location and use of the relevant resources. 5 They must take appropriate measures to ensure that, in a particular case, the persons deployed to manage failures and their effects do not receive an effective dose of more than 50 mSv or, to save human lives, more than 250 mSv. 6 They must inform the competent cantonal authorities and emergency services of the radioactive materials present in the enterprise. 7 The supervisory authority may require that exercises be conducted to test reporting channels, the functionality of resources and the necessary skills of staff. It may organise exercises itself."
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "Licence holders’ emergency measures",
+      "content": "1 Licence holders must make every effort to manage failures and their effects. 2 In particular, they must, without delay: a. control the extent of the failure, in particular by taking measures at source; b. ensure that all persons not involved in the management of the failure do not enter the danger zone or leave it immediately; c. take measures to protect the staff deployed, such as dose monitoring and appropriate instruction; d. ensure that all those involved are registered, monitored for contamination and intakes, and if necessary decontaminated. 3 They must, as soon as possible: a. remove any contamination which has arisen; b. take the measures required to clarify the cause of the failure."
+    },
+    {
+      "provision_ref": "art127",
+      "section": "127",
+      "title": "Licence holders’ reporting duties",
+      "content": "Licence holders must report failures in a timely manner, as follows: a. every failure: to the supervisory authority; b. failures as specified in Article 122 letter b: in addition, to the National Emergency Operations Centre (NEOC); c. failures within the area supervised by Suva: in addition, to the FOPH; d. failures leading to an exceedance of the dose limit for occupationally exposed persons in the enterprise: to Suva."
+    },
+    {
+      "provision_ref": "art128",
+      "section": "128",
+      "title": "Duties of the supervisory authority",
+      "content": "1 The supervisory authority shall assess the failure. Within the area supervised by Suva, the FOPH must be informed of the assessment. 2 The supervisory authority shall forward to the authorities concerned any information on failures which is required for the fulfilment of a responsibility. 3 ENSI shall report to the IAEA the rating of a failure on the International Nuclear and Radiological Event Scale (INES) from Level 2 upwards. The event scale can be consulted on the website of the Swiss Federal Nuclear Safety Inspectorate (ENSI) at: www.ensi.ch > Emergency Preparedness > INES levels."
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "Licence holders’ investigation and reporting",
+      "content": "1 After an failure, licence holders must carry out an investigation without delay. 2 The results of the investigation must be recorded in a report. The report must contain: a. a description of the failure, the cause, the effects determined and other possible effects, and the measures taken; b. an account of measures which are planned or have already been taken to prevent further similar failures. 3 The licence holder shall submit the report to the supervisory authority no later than six weeks after the failure."
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "Measures in the event of exceedance of an immission limit",
+      "content": "If the FOPH determines that an immission limit has been exceeded, it shall ascertain the cause and take the necessary measures."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "Provision of information on failures",
+      "content": "The supervisory authority shall ensure that the persons and the cantons concerned and the public are informed about failures in a timely manner."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "Chapter 1 Definition and Reference Levels",
+      "section": "132",
+      "title": "Definition",
+      "content": "Emergency means an failure as defined in Article 122, or another event involving increased radioactivity, which necessitates immediate action to mitigate or avert serious adverse consequences for human health and safety, living conditions and the environment."
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "Chapter 1 Definition and Reference Levels",
+      "section": "133",
+      "title": "Reference levels for the public",
+      "content": "1 In emergency exposure situations, a reference level of 100 mSv in the first year applies for members of the public. 2 The Federal Civil Protection Crisis Management Board (CCMB), which is responsible for dealing with incidents of national importance relevant to the protection of the population in accordance with the Ordinance of 2 March 2018 on the Federal Civil Protection Crisis Management Board (CCMBO), may request the Federal Council to set a lower reference level, depending on the specific situation. SR 520.17 Amended by Annex 3 No II 4 of the O of 2 March 2018 on the Federal Civil Protection Crisis Management Board, in force since 1 April 2018 ( AS 2018 1093 )."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "Chapter 1 Definition and Reference Levels",
+      "section": "134",
+      "title": "Reference levels for persons with special responsibilities",
+      "content": "1 In emergency exposure situations, a deployment-related reference level of 50 mSv per year applies for persons with special responsibilities. 2 The CCMB may request the Federal Council to set lower reference levels, depending on the specific situation, for particular activities performed by persons with special responsibilities. 3 For saving human lives, preventing serious damage to health or averting disasters, a reference level of 250 mSv per year applies. Term in accordance with Annex 3 No II 4 of the O of 2 March 2018 on the Federal Civil Protection Crisis Management Board, in force since 1 April 2018 ( AS 2018 1093 ). This amendment has been made throughout the text."
+    },
+    {
+      "provision_ref": "art135",
+      "chapter": "Chapter 2 Measures",
+      "section": "135",
+      "title": "Implementation of emergency preparedness",
+      "content": "1 The Federal Office for Civil Protection (FOCP), together with the competent authorities and the cantons, is responsible for preparing the national emergency response plan. 2 The FOPH, in cooperation with the FOCP, shall prepare the radiological protection strategy for the national emergency response plan. This must be based on reference levels. For nuclear power plant scenarios, ENSI shall provide the necessary foundations. 3 The FOCP, together with the FOPH, is responsible for preparing the sampling and measuring organisation specified in Article 4 a of the Ordinance of 17 October 2007 on the National Emergency Operations Centre (ONEOC). 4 The FOPH is responsible for preparing the measures required for the protection of public health. This is without prejudice to preparations for protective measures during the acute phase as specified in the CCMBO. 5 The FOPH is responsible for the maintenance of knowledge on the treatment of severely irradiated persons. 6 The FOPH and ENSI, together with the NEOC, shall develop methods and models for determining radiation doses. [ AS 2007 4953 , 2010 5395 Annex 2 No II 2, 2018 1093 Annex 2 No II 2 4953 Annex 5 No II 2. AS 2020 5087 Annex 3 No I 3]. See now the O of 11 Nov. 2020 on civil protection ( SR 520.12 ). SR 520.17 . Term in accordance with Annex 3 No II 4 of the O of 2 March 2018 on the Federal Civil Protection Crisis Management Board, in force since 1 April 2018 ( AS 2018 1093 ). This amendment has been made throughout the text."
+    },
+    {
+      "provision_ref": "art136",
+      "chapter": "Chapter 2 Measures",
+      "section": "136",
+      "title": "Preparation of emergency response measures in the vicinity of enterprises",
+      "content": "1 For enterprises where, given the licensed quantity and activity of radionuclides, an emergency may occur, the licensing authority shall specify on a case-by-case basis to what extent they are required to participate in preparing and implementing emergency response measures in the surrounding area, or to adopt such measures themselves. 2 The licensing authority shall involve the competent cantonal authorities and emergency services in preparing emergency response measures and inform them of the measures adopted. 3 For warnings and alerts and for preparing and implementing measures to protect against increased radioactivity in the vicinity of nuclear installations, the Emergency Response Ordinance of 20 October 2010 and the Alerts and Safety Radio Network Ordinance of 18 August 2010 apply. [ AS 2010 5191 , 2018 4335 . AS 2018 4953 Annex 5 No I ]. See now the O of 14 Nov. 2018 ( RS 732.33 ). [ AS 2010 5179 5191 Art. 20 No 2, 2013 4475 , 2017 605 , 2018 4953 Annex 5 No II 1. AS 2020 5087 Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ( SR 520.12 )."
+    },
+    {
+      "provision_ref": "art137",
+      "chapter": "Chapter 3 Management",
+      "section": "137",
+      "title": "Reporting duty",
+      "content": "The FOPH shall report an emergency to the World Health Organization (WHO) in accordance with the International Health Regulations (2005) adopted on 23 May 2005. SR 0.818.103"
+    },
+    {
+      "provision_ref": "art138",
+      "chapter": "Chapter 3 Management",
+      "section": "138",
+      "title": "Duty to provide information",
+      "content": "The supervisory authority shall ensure that information on emergencies is provided in a timely manner to the persons concerned at the enterprise, the public and the cantons concerned."
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "Chapter 3 Management",
+      "section": "139",
+      "title": "Determination of radiation doses",
+      "content": "1 The FOPH is responsible for the calculation, assessment and verification of radiation doses to the public. In the acute phase of a crisis, the NEOC shall assume this responsibility in accordance with the Civil Protection Ordinance of 11 November 2020. 2 For simplified dose calculations, the dose coefficients specified in Annexes 5 and 6 apply. SR 520.12 Amended by Annex 3 No II 8 of the Civil Protection Ordinance of 11 Nov. 2020, in force since 1 Jan. 2021 ( AS 2020 5087 )."
+    },
+    {
+      "provision_ref": "art140",
+      "chapter": "Chapter 3 Management",
+      "section": "140",
+      "title": "Management in emergency exposure situations",
+      "content": "1 In emergency exposure situations, the CCMB is responsible for management in accordance with the CCMBO. It shall take into account the implementation of emergency preparedness as specified in Article 135. 2 In a crisis, the NEOC shall deploy the sampling and measuring organisation specified in Article 4 a paragraph 4 of the ONEOC. 3 The FOPH shall support the NEOC in preparing monitoring programmes. 4 The FOPH shall advise the CCMB on ordering measures to protect public health. SR 520.17 [ AS 2010 5179 5191 Art. 20 No 2, 2013 4475 , 2017 605 , 2018 4953 Annex 5 No II 1. AS 2020 5087 Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ( SR 520.12 )."
+    },
+    {
+      "provision_ref": "art141",
+      "section": "141",
+      "title": "Transition to an existing or planned exposure situation",
+      "content": "The CCMB, on the basis of the radiological situation, shall request the Federal Council to order the transition from an emergency exposure situation to an existing or planned exposure situation."
+    },
+    {
+      "provision_ref": "art142",
+      "chapter": "Chapter 4 Persons with Special Responsibilities",
+      "section": "142",
+      "title": "Groups of persons",
+      "content": "1 In an emergency exposure situation, the following are required to assume responsibility for tasks in accordance with Article 20 paragraph 2 letter b of the RPA: a. members of authorities and administrative bodies; b. members of the police, professional fire services, emergency medical services, civil protection and army; c. persons and undertakings such as monitoring and radiological protection teams, for direct intervention; d. persons and undertakings in the public and private transport sector, for passenger and freight transport and evacuations; e. persons and undertakings, for indirect intervention, such as at-source measures designed to prevent further contamination of the surrounding area; f. healthcare professionals and medical staff, for the care of radiation victims or other persons affected; g. persons and undertakings required to sustain critical infrastructure; h. persons and undertakings required to sustain indispensable public services. 2 For the protection of members of voluntary fire services, Articles 134 and 143–146 apply. 3 Persons under 18 years of age and pregnant women shall be exempted from tasks as specified in paragraph 1."
+    },
+    {
+      "provision_ref": "art143",
+      "chapter": "Chapter 4 Persons with Special Responsibilities",
+      "section": "143",
+      "title": "Protection of health",
+      "content": "1 The radiation exposure of persons with special responsibilities must be determined at appropriate intervals by means of suitable measurements. 2 If persons with special responsibilities have received an effective dose of more than 250 mSv, they must be placed under medical surveillance. 3 The medical surveillance and duties in the event of an exceedance are governed by Article 59 paragraphs 2–5."
+    },
+    {
+      "provision_ref": "art144",
+      "chapter": "Chapter 4 Persons with Special Responsibilities",
+      "section": "144",
+      "title": "144 Instruction",
+      "content": "1 In an emergency exposure situation, persons with special responsibilities must receive appropriate instruction. The FDHA, in consultation with ENSI and the Federal Department of Defence, Civil Protection and Sport (DDPS), shall specify: a. the goals of instruction; b. the radiological protection activities which the persons may perform on the basis of their instruction. 2 The authorities, administrative bodies, organisations and undertakings concerned are responsible for providing instruction."
+    },
+    {
+      "provision_ref": "art145",
+      "chapter": "Chapter 4 Persons with Special Responsibilities",
+      "section": "145",
+      "title": "Equipment",
+      "content": "1 The persons with special responsibilities must have the equipment required for performing their tasks and protecting their health. The CCMB shall serve a coordinating function with regard to equipment. 2 The required equipment shall include in particular: a. an adequate number of measuring instruments and dosimeters to determine radiation exposure; b. means of protection against intakes or contamination."
+    },
+    {
+      "provision_ref": "art146",
+      "section": "146",
+      "title": "Insurance cover and compensation",
+      "content": "1 In the event of increased radioactivity, persons with special responsibilities are insured against accidents and illness. 2 If the cover provided by compulsory accident insurance and existing private insurance is not sufficient, the Confederation shall guarantee benefits in accordance with the provisions of the Federal Act of 19 June 1992 on Military Insurance. If necessary, the military insurance organisation may be involved for purposes of implementation. 3 If, as a result of their activities, persons and undertakings with special responsibilities incur costs that are not covered, they shall receive compensation from the Confederation. The DDPS shall regulate the processing of financial claims. SR 833.1"
+    },
+    {
+      "provision_ref": "art147",
+      "chapter": "Chapter 5 Exceedance of Maximum Concentrations for Radionuclides in Foods",
+      "section": "147",
+      "title": "",
+      "content": "1 If, in an emergency exposure situation or in the subsequent existing exposure situation, the cantonal enforcement authorities determine an exceedance of a maximum concentration for radionuclides in foods in accordance with the food legislation, they shall take measures as specified in the food legislation and inform the Federal Food Safety and Veterinary Office (FSVO). 2 The FSVO shall inform the FOPH and the other cantons of reports received in accordance with paragraph 1."
+    },
+    {
+      "provision_ref": "art148",
+      "chapter": "Chapter 1 Principles",
+      "section": "148",
+      "title": "",
+      "content": "1 For existing exposure situations, a reference level of 1 mSv per calendar year applies. This is without prejudice to the radon reference level specified in Article 155 and the threshold level specified in Article 156. 2 The FOPH may recommend to the Federal Council, in individual cases, reference levels of up to 20 mSv per calendar year, in particular if measures are required in accordance with Article 171."
+    },
+    {
+      "provision_ref": "art149",
+      "chapter": "Chapter 2 Radiological Legacies",
+      "section": "149",
+      "title": "",
+      "content": "Radiological legacies means: a. articles from past activities containing radionuclides which would be classified as radioactive material under this Ordinance; b. articles whose type licence for general or restricted use in accordance with Article 29 letter c of the RPA has expired and is not renewed; c. properties contaminated from past activities where the requirements specified in this Ordinance are not met."
+    },
+    {
+      "provision_ref": "art150",
+      "chapter": "Chapter 2 Radiological Legacies",
+      "section": "150",
+      "title": "",
+      "content": "1 The FOPH is responsible for the disposal of radiological legacies in the form of articles. This disposal is governed in other respects by Articles 108–121. 2 Further use of these articles is permissible if a licence has been granted to this effect."
+    },
+    {
+      "provision_ref": "art151",
+      "chapter": "Chapter 2 Radiological Legacies",
+      "section": "151",
+      "title": "Inventory of properties with possible contamination",
+      "content": "1 The FOPH shall maintain an inventory of possibly contaminated properties and shall process the following data to this end: a. details of the property (geographical coordinates, plot number, building and substrate); b. details of earlier activities on the property, including the period; c. investigation data; d. data on the owner and the user of the property (name, address, postcode, place); e. remediation decision; f. remediation data and results of clearance measurements after remediation, including any restrictions. 2 To fulfil the responsibilities assigned to them, the staff of the FOPH Radiological Protection Division shall have electronic access to the inventory data. 3 The FOPH shall regularly inform Suva and the cantons concerned as to the status of the inventory."
+    },
+    {
+      "provision_ref": "art152",
+      "chapter": "Chapter 2 Radiological Legacies",
+      "section": "152",
+      "title": "Investigation of properties",
+      "content": "1 The FOPH shall order an investigation of properties as specified in Article 151 if a risk to people and the environment from ionising radiation cannot be ruled out. It shall inform in advance the canton and the commune concerned. 2 The owners and users are required to grant the FOPH access to the properties concerned for the investigation. 3 The FOPH shall specify the investigation procedure. 4 It shall carry out the investigations. It may request third parties to carry out the investigations."
+    },
+    {
+      "provision_ref": "art153",
+      "section": "153",
+      "title": "Remediation of properties",
+      "content": "1 On the basis of the investigation, the FOPH shall estimate the effective dose to persons who may be present in the building. 2 The FOPH shall inform the persons concerned, the owner and user of the property, and the canton and commune concerned as to the results of the investigation. 3 If the dose is above the reference level as specified in Article 148 paragraph 1, the FOPH shall declare the property to be in need of remediation and shall inform the owner accordingly."
+    },
+    {
+      "provision_ref": "art154",
+      "section": "154",
+      "title": "Exchange of information",
+      "content": "1 The FOPH shall inform the cantons concerned as to possible radiological legacies. 2 The cantons shall inform the FOPH of planned studies, monitoring measures and remediations of contaminated sites if there is an increased likelihood that radiological legacies are present. This is the case in particular if radium-containing luminous paint was used by industry."
+    },
+    {
+      "provision_ref": "art155",
+      "chapter": "Chapter 3 Radon",
+      "section": "155",
+      "title": "Radon reference level",
+      "content": "1 The radon reference level is the radon gas concentration which, if exceeded, requires measures to be taken in accordance with Article 166. 2 For the annual average radon gas concentration in rooms where persons are regularly present for several hours per day, a radon reference level of 300 Bq/m 3 applies. This is without prejudice to the provisions of Article 156."
+    },
+    {
+      "provision_ref": "art156",
+      "chapter": "Chapter 3 Radon",
+      "section": "156",
+      "title": "Threshold level at radon-exposed workplaces",
+      "content": "1 The threshold level at radon-exposed workplaces is the radon gas concentration which, if exceeded, requires measures to be taken in accordance with Article 167. 2 For the annual average radon gas concentration at radon-exposed workplaces, a threshold level of 1000 Bq/m 3 applies. 3 Workplaces at which the threshold level is certainly or presumably exceeded are considered to be radon-exposed. These are, in particular, workplaces in underground structures, mines, caverns and water supply installations, as well as those classified as radon-exposed by the supervisory authority."
+    },
+    {
+      "provision_ref": "art157",
+      "chapter": "Chapter 3 Radon",
+      "section": "157",
+      "title": "Radon Technical and Information Centre",
+      "content": "1 The FOPH shall operate a Radon Technical and Information Centre. 2 The Centre shall carry out, in particular, the following tasks: regularly issuing recommendations on mitigation measures and supporting the cantons in implementation; publishing the radon map in consultation with the cantons; c. providing information and advice for the cantons, building owners, tenants, construction professionals and other interested groups; d. advising persons concerned and interested bodies on appropriate mitigation measures; e. regularly providing the cantons with an overview of buildings where measurements have been conducted; f. approving and supervising radon measurement providers in accordance with Article 159; g. establishing the scientific foundations required for the application of radon mitigation measures; h. regularly evaluating the effects of mitigation measures and making the necessary adjustments. 3 The FOPH may request third parties to provide advice in accordance with paragraph 2 letter d."
+    },
+    {
+      "provision_ref": "art158",
+      "chapter": "Chapter 3 Radon",
+      "section": "158",
+      "title": "Responsibility",
+      "content": "The following are responsible for the enforcement of radon mitigation measures: a. in rooms where persons are regularly present for several hours per day (Art. 155 para. 2): 1. the cantons, 2. in the case of military buildings: the DDPS; b. at radon-exposed workplaces as specified in Article 156: the supervisory authorities."
+    },
+    {
+      "provision_ref": "art159",
+      "section": "159",
+      "title": "Approval of radon measurement providers",
+      "content": "1 Radon measurements must be conducted by an approved radon measurement provider in accordance with prescribed measurement protocols. 2 The FOPH shall approve a radon measurement provider if it: a. has the specialist staff and measurement system required for due fulfilment of its responsibilities; and b. can assure proper fulfilment of its responsibilities, and in particular if no conflicts of interest exist. 3 The FOPH shall grant approval for a maximum period of five years. 4 The FDJP shall specify the technical requirements for measurement systems and the methods for maintenance of measurement stability."
+    },
+    {
+      "provision_ref": "art160",
+      "section": "160",
+      "title": "Duties of radon measurement providers",
+      "content": "Approved radon measurement providers are required: a. to comply with the prescribed measurement protocols; b. to enter their data in the radon database within two months after the completion of measurements."
+    },
+    {
+      "provision_ref": "art161",
+      "section": "161",
+      "title": "Radon consultants",
+      "content": "1 Radon consultants shall support and advise clients, construction professionals, building owners and other interested parties on the implementation of preventive and remedial measures for radon mitigation according to the state of the art. 2 The FOPH shall maintain a list in which radon consultants working in Switzerland who have undergone training and continuing education in accordance with Article 183 letter c are included on request. It shall publish the list and regularly update it. The list may be consulted free of charge on the FOPH website at www.bag.admin.ch > Topics > People & health > Radiation, radioactivity & sound > Radon > Advice by radon consultants."
+    },
+    {
+      "provision_ref": "art162",
+      "section": "162",
+      "title": "Radon database",
+      "content": "1 The FOPH shall maintain a central radon database. In this database, it shall store the data which is required to allow continuous assessment of the implementation of measurements and remediation projects and to draw statistical and scientific conclusions. 2 The following data on individual buildings shall be stored in the central radon database: a. location (coordinates, plot number); b. Swiss federal building identifier (EGID) and dwelling identifier (EWID) in accordance with the Ordinance of 31 May 2000 on the Federal Register of Buildings and Dwellings; c. information on the premises; d. measurement data; e. remediation data; f. owner and user (name, address, postcode, place); g. year of construction. 3 The staff of the FOPH Radon Technical and Information Centre are entitled to process the data in the database. 4 To fulfil the responsibilities assigned to them, the following shall have electronic access to data in the database as specified below: a. the approved radon measurement providers: to the data which they have collected themselves; b. the cantons: to all data collected on their territory; c. Suva: to all data collected at workplaces. 5 The FOPH may, on the basis of a data protection agreement, make available to third parties data from the radon database for research purposes subject to the following requirements and conditions: a. The data shall be anonymised as soon as the purpose of processing permits. b. The data shall not be transferred. c. If the results are published, this must be done in a completely anonymised form. [ AS 2000 1555 , 2004 3367 , 2005 3381 , 2007 3399 6719 Annex No 7, 2012 4707 . AS 2017 3459 Annex No 2 I]. See Now the O of 9 June 2017 ( RS 431.841 )."
+    },
+    {
+      "provision_ref": "art163",
+      "section": "163",
+      "title": "Radon mitigation in new buildings and building alterations",
+      "content": "1 In the course of the permission procedure for new buildings and building alterations, the building permission authority shall, where appropriate, draw the attention of the building owner or, in the case of new buildings, the client to the requirements of this Ordinance concerning radon mitigation. 2 The building owner or, in the case of new buildings, the client shall ensure that preventive structural measures are taken in accordance with the state of the art to achieve a radon gas concentration below the reference level specified in Article 155 paragraph 2. If the current state of science and technology so requires, a radon measurement must be conducted in accordance with Article 159 paragraph 1."
+    },
+    {
+      "provision_ref": "art164",
+      "section": "164",
+      "title": "Cantonal radon measurements",
+      "content": "1 The canton may require the building owner to have radon measurements conducted in rooms where persons are regularly present for several hours per day. 2 The canton shall ensure that radon measurements are conducted in schools and nursery schools in accordance with Article 159 paragraph 1. 3 The canton may conduct further radon measurements. 4 In the case of military buildings, the DDPS is responsible for ordering radon measurements."
+    },
+    {
+      "provision_ref": "art165",
+      "section": "165",
+      "title": "Radon measurements at radon-exposed workplaces",
+      "content": "1 Enterprises with radon-exposed workplaces shall ensure that measurements are conducted by an approved radon measurement provider in accordance with Article 159 paragraph 1. 2 The supervisory authority may conduct spot-check measurements at radon-exposed workplaces."
+    },
+    {
+      "provision_ref": "art166",
+      "section": "166",
+      "title": "Radon remediation",
+      "content": "1 If the reference level specified in Article 155 paragraph 2 is exceeded, the building owner shall take the necessary remedial measures. Recommendations concerning the urgency of remedial measures shall be provided by the FOPH and the cantons. 2 If the building owner fails to take action, the canton may order radon remediation. 3 If it is determined that the reference level is exceeded at a school or nursery school, the canton shall order radon remediation within three years after the time of determination. 4 The costs of remediation shall be borne by the building owner."
+    },
+    {
+      "provision_ref": "art167",
+      "section": "167",
+      "title": "Workplace measures",
+      "content": "1 If the threshold level specified in Article 156 is exceeded, the enterprise must determine the annual radon-related effective dose to exposed persons and review this at least every five years. 2 If the effective dose to a person at the workplace is above 10 mSv per calendar year, the enterprise shall take organisational or technical measures to reduce the dose as rapidly as possible. 3 If, in spite of measures being taken, the effective dose to a person at the workplace is above 10 mSv per calendar year, this person is considered to be occupationally exposed. 4 The FDHA, after a hearing with Suva, shall specify how the annual radon-related effective dose is to be determined."
+    },
+    {
+      "provision_ref": "art168",
+      "chapter": "Chapter 4 Naturally Occurring Radioactive Material (NORM)",
+      "section": "168",
+      "title": "Industrial sectors concerned",
+      "content": "1 Industrial sectors involving NORM are, in particular: a. groundwater filtration facilities; b. gas production; c. geothermal energy production (deep geothermal energy); d. zircon and zirconium industry; e. cement production and maintenance of clinker ovens; f. maintenance and removal of heat-resistant zirconium alloy cladding; g. tunnelling in rock formations with elevated uranium or thorium concentrations. 2 In industrial sectors involving NORM, enterprises shall determine by means of representative measurements whether: a. the NORM clearance limit is exceeded in discharged materials; b. staff are occupationally exposed persons as defined in Article 51 paragraphs 1 and 2; c. the handling of NORM may lead to a dose for members of the public which is not negligible from a radiological protection point of view. 3 The enterprises shall submit evidence of the tests conducted in accordance with paragraph 2 and the results thereof to the FOPH. 4 The FOPH shall support the enterprises in the determination of the situations specified in paragraph 2 letters b and c. 5 In industrial sectors involving NORM, the FOPH and Suva may conduct spot-check measurements."
+    },
+    {
+      "provision_ref": "art169",
+      "chapter": "Chapter 4 Naturally Occurring Radioactive Material (NORM)",
+      "section": "169",
+      "title": "Discharge of NORM to the environment",
+      "content": "1 NORM with a specific activity above the relevant NORM clearance limit may, with the approval of the licensing authority, be discharged to the environment if: a. disposal via the usual channels would be impossible or would involve disproportionate effort; and b. as a result of appropriate measures, the effective dose to members of the public arising from the discharge remains below 0.3 mSv per calendar year. 2 The FOPH shall monitor compliance with the permissible effective dose via the sampling and measurement programme specified in Article 193. 3 NORM may only be exported for discharge to the environment if consent has been granted by the competent authority of the recipient country and the requirements specified in paragraph 1 are complied with."
+    },
+    {
+      "provision_ref": "art170",
+      "chapter": "Chapter 4 Naturally Occurring Radioactive Material (NORM)",
+      "section": "170",
+      "title": "170 Building materials",
+      "content": "1 For building materials identified as being of concern from a radiological protection point of view, the FOPH shall, to determine public exposure, establish by means of spot checks whether the activity concentration index is greater than 1. 2 If the activity concentration index is greater than 1, the FOPH shall carry out a dose estimation to ensure that the reference level specified in Article 148 is complied with. 3 The FOPH shall inform the public of the results."
+    },
+    {
+      "provision_ref": "art171",
+      "chapter": "Chapter 5 Long-Term Contamination following an Emergency",
+      "section": "171",
+      "title": "",
+      "content": "The FOPH shall prepare the long-term federal and cantonal measures for the management of effects after the transition from an emergency exposure situation to an existing exposure situation in accordance with Article 141."
+    },
+    {
+      "provision_ref": "art172",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "172",
+      "title": "Persons who must undergo training and continuing education",
+      "content": "1 The following persons must undergo radiological protection training and continuing education in line with their activities and responsibility: a. persons who are involved in the handling of ionising radiation, who may be exposed to it in the course of their specific activities, or who plan or order the handling thereof and, in the process, define radiological protection measures for self‑protection; b. persons who have radiological protection responsibilities vis-à-vis third parties; c. radiological protection experts; d. radon consultants as specified in Article 161 paragraph 1; e. persons who, in the case of a failure or emergency, are involved in the handling of ionising radiation, may be exposed to it, or plan or order the handling thereof, or operate critical infrastructure or provide public services. 2 The FDHA may, in consultation with ENSI and the DDPS, regulate exemptions from mandatory continuing education for the handling of ionising radiation with a low hazard potential."
+    },
+    {
+      "provision_ref": "art173",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "173",
+      "title": "Responsibility for training and continuing education",
+      "content": "1 The following are responsible for training and continuing education: a. for persons specified in Article 172 paragraph 1 letters a–c: the licence holders; b. for radon consultants as specified in Article 172 paragraph 1 letter d: these persons themselves; c. for persons specified in Article 172 paragraph 1 letter e: the relevant authorities, administrative bodies, organisations and undertakings; they shall ensure that, in accordance with their size and structure, an adequate number of persons who have undergone training and continuing education is available. 2 The parties responsible are required to coordinate and document employees’ training and continuing education activities. The documentation must be retained until the end of their employment at the enterprise."
+    },
+    {
+      "provision_ref": "art174",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "174",
+      "title": "Training",
+      "content": "1 Persons specified in Article 172 paragraph 1 letters b–d who work in the medical, industrial and nuclear energy sectors require recognised radiological protection training including an examination. 2 The FDHA, in consultation with ENSI and the DDPS, shall determine which persons require what training. 3 The FDHA, in consultation with ENSI and the DDPS, shall specify whether the training for persons specified in Article 172 paragraph 1 letters a and e requires recognition."
+    },
+    {
+      "provision_ref": "art175",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "175",
+      "title": "Continuing education",
+      "content": "1 Continuing education is concerned with the knowledge and skills already acquired in the course of training. Continuing education must ensure that skills, knowledge and awareness of the state of the art and its application in practice are maintained and brought up to date. 2 Persons subject to mandatory continuing education must undergo a course of continuing education at least every five years. 3 The FDHA, in consultation with ENSI and the DDPS, may, taking into account the hazard potential: a. specify shorter or longer intervals for continuing education courses; b. specify that the continuing education must be recognised."
+    },
+    {
+      "provision_ref": "art176",
+      "section": "176",
+      "title": "Training and continuing education courses",
+      "content": "1 The supervisory authorities and the PSI shall conduct training and continuing education courses as required. 2 The supervisory authorities may request other agencies or institutions to conduct training and continuing education courses. 3 The DDPS shall coordinate the training and continuing education courses for persons who, in the case of an failure or emergency, are involved in the handling of ionising radiation, may be exposed to it, or plan or order the handling thereof, or operate critical infrastructure or provide public services. 4 The supervisory authorities and the DDPS may, within their area of responsibility, require that the persons responsible for training and continuing education in accordance with Article 173 report the date and the form, content and extent of training and continuing education provided for persons subject to mandatory training and continuing education."
+    },
+    {
+      "provision_ref": "art177",
+      "section": "177",
+      "title": "Financial assistance",
+      "content": "1 Within the limits of its approved budget, the FOPH may provide financial assistance for training or continuing education courses in radiological protection conducted by third parties, in particular by schools, professional organisations and industry. 2 Financial assistance shall only be provided if the training or continuing education has been recognised by the supervisory authority. 3 Financial assistance shall be calculated so that, taken together with other revenues, it does not exceed the course organiser’s documented costs."
+    },
+    {
+      "provision_ref": "art178",
+      "section": "178",
+      "title": "Recognition of individual training and continuing education",
+      "content": "The supervisory authority shall recognise as equivalent individual training or continuing education which a person has received abroad or for a different activity if the acquired knowledge and skills meet the requirements specified in Chapter 2 of this Title."
+    },
+    {
+      "provision_ref": "art179",
+      "section": "179",
+      "title": "Training and continuing education database",
+      "content": "1 The FOPH shall maintain a training and continuing education database, in which the following persons subject to mandatory training and continuing education are registered: a. persons who meet the requirements for being able to serve as radiological protection experts; b. radiological protection specialists and radiological protection technicians as specified in Article 183 letter b; c. persons who require recognised continuing education as specified in Article 182 or 183; d. radon consultants as specified in Article 161 paragraph 1. 2 The purpose of the database is: a. to make available the information required for granting licences on the occupational training, recognised radiological protection training and continuing education of the person concerned; b. to simplify the administrative procedures required for granting licences; c. to simplify supervision by the authorities in the area of individual training and continuing education. 3 The following data concerning persons registered in accordance with paragraph 1 shall be stored in the database: a. name, former name, first name; b. date of birth; c. place of origin (for foreign nationals: place of birth and nationality); d. occupational training; e. type, venue and date of radiological protection training courses; f. type, venue and date of radiological protection continuing education courses; g. for individual training and continuing education as specified in Article 178: date of recognition of equivalence. 4 The responsible staff of the supervisory authorities are entitled to process online the data of persons within their area of supervision. 5 Training institutions which offer recognised radiological protection courses may record and retrieve online the data concerning persons who have completed their training or continuing education at the institution concerned. They may modify data concerning such persons relating to courses which they have conducted themselves. 6 The FOPH shall enable the persons concerned to access electronically their own data in the training and continuing education database."
+    },
+    {
+      "provision_ref": "art180",
+      "section": "180",
+      "title": "Recognition authorities",
+      "content": "1 The supervisory authorities specified in Article 184 are responsible for the recognition of training and continuing education courses. 2 The General Secretariat of the DDPS (GS DDPS) is responsible for the recognition of training and continuing education courses for persons who exclusively in the case of an failure or emergency are involved in the handling of ionising radiation, may be exposed to it, or plan or order the handling thereof, or operate critical infrastructure or provide public services. 3 In the event of uncertainty concerning responsibility for recognition, the FOPH, ENSI, Suva and the GS DDPS shall consult each other. 4 Training and continuing education courses which are offered by a recognition authority must be recognised by a different recognition authority. 5 The recognition authorities specified in paragraphs 1 and 2 are entitled, in the course of their recognition activities, to monitor the training and continuing education requirements of persons concerned and to assess the quality of training and continuing education courses."
+    },
+    {
+      "provision_ref": "art181",
+      "chapter": "Chapter 2 Content of Regulation and Categories of Persons Subject to Mandatory Training and Continuing Education",
+      "section": "181",
+      "title": "Content of regulation in general",
+      "content": "1 The FDHA shall regulate training and continuing education. In particular, it shall define: a. the objectives, the requirements and the extent of training and continuing education in radiological protection; b. the skills and knowledge to be acquired by persons who must undergo training and continuing education in accordance with Article 172; c. the training and continuing education specified in Articles 174–176, 178, 182 and 183 which requires recognition; d. the requirements for recognition of training and continuing education as specified in letter c; e. the content of examinations and the examination procedure; f. the activities permissible for persons with radiological protection training and continuing education which requires recognition. 2 It shall regulate training and continuing education for persons in non-medical sectors, in consultation with ENSI and the DDPS."
+    },
+    {
+      "provision_ref": "art182",
+      "chapter": "Chapter 2 Content of Regulation and Categories of Persons Subject to Mandatory Training and Continuing Education",
+      "section": "182",
+      "title": "Categories of persons subject to mandatory training and continuing education in the medical sector",
+      "content": "1 The requirements specified by the FDHA for training and continuing education in radiological protection in the medical sector shall be differentiated according to the following categories of persons responsible for radiological protection for patients or animals: a. persons who prescribe diagnostic applications of ionising radiation in medicine and chiropractic; b. physicians who perform therapeutic or diagnostic medical procedures involving radiation sources; c. dentists; d. chiropractors; e. veterinarians; f. medical physicists; g radiopharmacists; h. medical radiation technologists with a diploma from a professional education institution (PEI) or a university of applied sciences (UAS); i. medical practice assistants with a federal certificate of proficiency (CFC); j. other medical personnel; k. dental hygienists (PEI diploma); l. dental assistants (CFC); m. surgical technicians (HF diploma) and qualified operating theatre nurses with a certificate of proficiency from the Swiss Professional Association for Nurses (ASI); n. veterinary practice assistants (CFC); o. persons who deal in, install or maintain medical X-ray systems. 2 The following persons, if they have completed appropriate radiological protection training regulated by the FDHA and fulfil their continuing education obligations, meet the requirements for being able to serve as radiological protection experts in their field of activity: physicians and chiropractors with an appropriate Swiss specialist title; dentists and veterinary surgeons with an appropriate Swiss degree; medical physicists; radiopharmacists; e. medical radiation technologists (PEI, UAS). Footnote relevant to Swiss language texts. Footnote relevant to Swiss language texts."
+    },
+    {
+      "provision_ref": "art183",
+      "section": "183",
+      "title": "Categories of persons subject to mandatory training and continuing education in non-medical sectors",
+      "content": "The requirements specified by the FDHA, in consultation with ENSI and the DDPS, for training and continuing education in radiological protection in non-medical sectors shall be differentiated according to the following categories of persons: a. radiological protection experts and persons in the nuclear, industrial, commercial, teaching, transport and research sectors who are involved in the handling of ionising radiation; b. radiological protection specialists, radiological protection technicians and radiological protection officers in nuclear installations and at the PSI; c. radon consultants; d. persons who, in the case of an failure or emergency, are involved in the handling of ionising radiation, may be exposed to it, or plan or order the handling thereof, or operate critical infrastructure or provide public services."
+    },
+    {
+      "provision_ref": "art184",
+      "chapter": "Chapter 1 Supervision",
+      "section": "184",
+      "title": "Supervisory authorities",
+      "content": "1 The FOPH, Suva and ENSI are responsible for supervision in accordance with this Ordinance. 2 The FOPH shall supervise those enterprises which are not supervised by Suva or ENSI, in particular: a. medical enterprises; b. research and teaching establishments. 3 ENSI shall supervise: a. nuclear installations; b. geological investigations as specified in Article 35 of the NEA; c. the receipt and shipment of radioactive substances at or from nuclear installations; d. the decay storage of radioactive waste from nuclear installations and all related activities. 4 Suva shall supervise industrial and commercial enterprises. 5 The supervisory authorities shall coordinate enforcement and resolve any uncertainties regarding responsibility by mutual agreement. They shall meet regularly for this purpose. SR 732.1 Inserted by No II of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ( AS 2019 183 )."
+    },
+    {
+      "provision_ref": "art185",
+      "chapter": "Chapter 1 Supervision",
+      "section": "185",
+      "title": "Supervisory authorities’ archiving duties and duty to provide information",
+      "content": "1 The archiving of documents concerning the granting and modification of licences and concerning supervision is governed by the Archiving Act of 26 June 1998. 2 The supervisory authorities shall make the required documents available to the licensing authorities at any time upon request. SR 152.1"
+    },
+    {
+      "provision_ref": "art186",
+      "chapter": "Chapter 1 Supervision",
+      "section": "186",
+      "title": "Research",
+      "content": "1 The supervisory authorities may, by mutual agreement, commission research projects concerning the effects of radiation and radiological protection, or participate in such projects. 2 The PSI, the Spiez Laboratory and other federal establishments shall, as far as possible, place themselves at the disposal of the supervisory authorities to carry out research projects concerning the effects of radiation and radiological protection."
+    },
+    {
+      "provision_ref": "art187",
+      "chapter": "Chapter 2 Enforcement",
+      "section": "187",
+      "title": "Principle",
+      "content": "The FOPH, Suva and ENSI shall monitor by means of spot checks, graduated according to the hazard potential, whether regulations are complied with and the protection of people and the environment against dangers arising from ionising radiation is assured."
+    },
+    {
+      "provision_ref": "art188",
+      "chapter": "Chapter 2 Enforcement",
+      "section": "188",
+      "title": "Cooperation duties",
+      "content": "1 All information must be provided and all devices, articles and documents required for inspections must be made available, at no cost, to the FOPH, Suva and ENSI. 2 They must be granted access to installations, equipment and areas, insofar as this is necessary for conducting inspections."
+    },
+    {
+      "provision_ref": "art189",
+      "chapter": "Chapter 2 Enforcement",
+      "section": "189",
+      "title": "Engagement of third parties",
+      "content": "The FOPH may request third parties to carry out inspections, in particular: a. firms which conduct quality assurance of diagnostic equipment; b. experts who coordinate, prepare and conduct clinical audits."
+    },
+    {
+      "provision_ref": "art190",
+      "chapter": "Chapter 2 Enforcement",
+      "section": "190",
+      "title": "Monitoring of import, export and transit",
+      "content": "1 In the course of import, export and transit controls, the customs offices shall check whether a licence has been obtained for the transport of radioactive material. 2 If so requested by the licensing authority, they shall check whether goods undergoing import, export and transit comply with the provisions of this Ordinance. 3 The FOPH shall organise the conduct of periodic targeted screening of goods undergoing import, export and transit and of persons entering the country; for this purpose, it shall consult in particular the Directorate General of Customs. 4 It shall coordinate, in particular with the Spiez Laboratory, requirements for, and the procurement and maintenance of, the necessary measuring equipment and shall prepare deployment in special situations. 5 It is responsible for approval of agreements concerning the possible take-back of exported radioactive waste as specified in Article 25 paragraph 3 letter d of the RPA. 6 The Directorate General of Customs, in consultation with the licensing authorities, shall issue internal directives for monitoring of the import, export and transit of radioactive material. 7 The Federal Office for Customs and Border Security may, on request, transfer data from customs declarations to the licensing and supervisory authorities. SR 170.512.1 ."
+    },
+    {
+      "provision_ref": "art191",
+      "section": "191",
+      "title": "Responsibilities",
+      "content": "1 The FOPH shall monitor ionising radiation and radioactivity in the environment. 2 ENSI shall additionally monitor ionising radiation and radioactivity in the vicinity of nuclear installations. 3 To assess public exposure to radioactivity in the environment, the FOPH shall carry out measurements in appropriate sampling media such as airborne particulates, water intended for human consumption, or foodstuffs. To this end, it may collaborate with the cantons. 4 To protect the health of consumers, the cantons shall monitor radioactivity in foodstuffs and in articles of daily use. 5 The FDHA, in consultation with ENSI and after a hearing with METAS, shall issue technical provisions for environmental dosimetry."
+    },
+    {
+      "provision_ref": "art192",
+      "section": "192",
+      "title": "Automatic network for monitoring radioactivity in Switzerland",
+      "content": "1 The FOPH shall operate an automatic network for the general monitoring of radioactivity in the environment. This network shall also measure immission levels in the vicinity of enterprises which discharge radioactive substances to the environment or could discharge larger quantities thereof. 2 The FOPH, in cooperation with the competent supervisory authority, shall specify requirements for the monitoring network with regard to monitoring in the vicinity of enterprises as specified in paragraph 1. 3 Enterprises where a substantial release of radioactivity cannot be ruled out shall bear the costs of purchasing and operating those monitoring stations within the automatic network which are used to monitor radioactivity in their vicinity. 4 The costs of purchasing equipment, excluding planning costs, are deemed to be acquisition costs. The costs of site rental, assurance of information security, maintenance and repair, and electricity are deemed to be operating costs. 5 The FOPH shall charge the previous year’s costs for running the relevant monitoring stations annually to the individual enterprises."
+    },
+    {
+      "provision_ref": "art193",
+      "section": "193",
+      "title": "Sampling and measurement programme",
+      "content": "1 The FOPH, in cooperation with ENSI, Suva, the NEOC and the cantons, shall prepare a sampling and measurement programme for planned and for existing exposure situations. 2 For the implementation of the sampling and measurement programme, the federal laboratories, in particular the PSI, the Swiss Federal Institute of Aquatic Science and Technology (Eawag) and the Spiez Laboratory, are required to cooperate and to make available at all times the necessary human and material resources. 3 Third parties may be engaged if needed to implement the sampling and measurement programme"
+    },
+    {
+      "provision_ref": "art194",
+      "section": "194",
+      "title": "Collection of data, radiological assessment and reporting",
+      "content": "1 ENSI, Suva, the NEOC, the cantons and the participating laboratories shall make available to the FOPH the monitoring data generated and interpreted. 2 On the basis of the results of the sampling and measurement programme specified in Article 193, the FOPH shall assess the radiological situation. It shall calculate and assess the doses accumulated by the public. This is without prejudice, in emergency exposure situations, to the provisions of the CCMBO. 3 The FOPH shall determine public radiation exposure in accordance with Annexes 3–6. 4 It shall prepare and publish an annual report on the monitoring data and the resultant radiation doses to the public. SR 520.17"
+    },
+    {
+      "provision_ref": "art195",
+      "section": "195",
+      "title": "Investigation thresholds in environmental monitoring",
+      "content": "1 If concentrations of artificial radionuclides in the environment are detected which could lead to an effective dose of more than 10 µSv per year for a given exposure pathway and for members of the public, the FOPH shall seek to identify the cause. 2 If the radionuclides were discharged by an enterprise which has a licence, the FOPH shall inform the supervisory authority concerned. Where possible and appropriate, this authority shall request the implementation of optimisation measures to reduce the discharge. 3 If the radionuclides were discharged by an enterprise which does not have a licence, if the radionuclides originated abroad, or if the cause is unclear, the FOPH shall appropriately supplement its measurement programme, if necessary, and inform the public."
+    },
+    {
+      "provision_ref": "art196",
+      "section": "196",
+      "title": "Provision of information on events of public interest",
+      "content": "The FOPH shall ensure that the persons and cantons concerned and the public are informed in a timely manner about events of public interest."
+    },
+    {
+      "provision_ref": "art197",
+      "section": "197",
+      "title": "Monitoring of occupationally exposed aircrew",
+      "content": "The FOCA shall supervise aircraft operators with regard to the monitoring of occupationally exposed aircrew."
+    },
+    {
+      "provision_ref": "art198",
+      "chapter": "Chapter 3 Federal Commission for Radiological Protection",
+      "section": "198",
+      "title": "",
+      "content": "1 The KSR is a standing advisory commission within the meaning of Article 8 a paragraph 2 of the GAOO. 2 It shall advise the Federal Council, the FDHA, the DETEC, the DDPS, ENSI, interested public offices and Suva on radiological protection matters. It has the following duties: a. regularly informing the public about the radiological protection situation in Switzerland; b. providing advice on the following matters in particular: 1. the interpretation and appraisal of international recommendations in the field of radiological protection with regard to their application in Switzerland, 2. the elaboration and development of harmonised principles for the application of radiological protection regulations, 3. environmental radioactivity, the results of monitoring, their interpretation and the resultant radiation doses for the public; c. in collaboration with the professional and sectoral associations concerned, preparing and publishing recommendations on the justification of diagnostic or therapeutic procedures in accordance with Article 28 paragraphs 1 and 2; d preparing reports and opinions on behalf of the Federal Council or the supervisory authorities. 3 It is composed of experts from academia and industry. 4 It shall collaborate with the Federal Commission for NBC Protection (ComNBC) and the Federal Nuclear Safety Commission (NCS), dealing in particular with joint responsibilities in the field of radiological protection. 5 The KSR and its committees may engage external experts for the examination of special issues. SR 172.010.1 www.ksr-cpr.ch"
+    },
+    {
+      "provision_ref": "art199",
+      "chapter": "Title 7 Criminal Provisions",
+      "section": "199",
+      "title": "",
+      "content": "1 In accordance with Article 44 paragraph 1 letter f of the RPA, an offence is committed by any person who: a. without a licence, mixes radioactive with other materials so that the handling thereof is not subject to mandatory licensing and supervision (Art. 107); b. performs an activity which may involve an ionising radiation hazard without having the training required in accordance with Articles 172–175; c. operates a personal dosimetry service without approval (Art. 66); d. operates a personal dosimetry service and contravenes the duties specified in Articles 69–71; e. fails to include in a customs declaration the details specified in Article 103, or fails to declare or knowingly makes a false declaration in respect of radioactive goods. 2 Any person who wilfully fails to assume responsibilities imposed in accordance with Article 20 paragraph 2 letter b of the RPA is liable to a fine not exceeding 20 000 Swiss francs."
+    },
+    {
+      "provision_ref": "art200",
+      "chapter": "Title 8 Final Provisions",
+      "section": "200",
+      "title": "Repeal of other legislation",
+      "content": "The Radiological Protection Ordinance of 22 June 1994 is repealed. [ AS 1994 1947 ; 1995 4959 No II 2; 1996 2129 ; 2000 107 934 2894 ; 2001 3294 No II 7; 2005 601 Annex 7 No 3 2885 Annex No 7; 2007 1469 Annex 4 No 44 5651 ; 2008 3153 Art. 10 No 2 5747 Annex No 22; 2010 5191 Art. 20 No 4 5395 Annex 2 No II 3; 2011 5227 No I 2. 7 ; 2012 7065 No I 5 7157 ; 2013 3041 No I 5 3407 Annex 6 No 3]"
+    },
+    {
+      "provision_ref": "art201",
+      "chapter": "Title 8 Final Provisions",
+      "section": "201",
+      "title": "Amendments to other legislation",
+      "content": "Amendments to other legislation are dealt with in Annex 11."
+    },
+    {
+      "provision_ref": "art202",
+      "chapter": "Title 8 Final Provisions",
+      "section": "202",
+      "title": "Transitional provisions",
+      "content": "1 Licences granted prior to the commencement of this Ordinance shall remain valid until their renewal or expiry. The duties arising from a licence are based on the provisions of this Ordinance. 2 Proceedings which are pending when this Ordinance comes into force are subject to the provisions of this Ordinance. 3 The limit for the equivalent dose for the lens of the eye specified in Article 56 paragraph 3 letter a applies from 1 January 2019; before that date, the limit specified in current legislation applies. 4 Article 43 (Licence holders’ self-evaluation and quality manual) must be implemented no later than two years after the commencement of this Ordinance. 5 Any person who, when this Ordinance comes into force, holds a licence for a high‑activity sealed source must: a. submit to the licensing authority, no later than two years after the commencement of this Ordinance, the information specified in Article 97 for the preparation of the inventory; b. inform the supervisory authority, no later than two years after the commencement of this Ordinance, what safety and security measures have been defined in accordance with Article 99. 6 Any person who, when this Ordinance comes into force, owns an enterprise where there is an increased likelihood of orphan radioactive materials being encountered must implement the measures specified in Article 104 no later than three years after the commencement of this Ordinance and apply for a licence for the activity. 7 Radioactive waste which, when this Ordinance comes into force, is already in storage for decay as specified in Article 117 paragraph 2 may, after a new assessment on the basis of the new clearance limits, be stored for a maximum of another 30 years. The assessment must be presented to the supervisory authority no later than two years after the commencement of this Ordinance. 8 The cantons shall modify the building permission procedure within two years after the commencement of this Ordinance in such a way that it meets the requirements specified in Article 163 paragraph 1. 9 Article 171 (Long-term contamination following an emergency) does not apply until three years after the commencement of this Ordinance."
+    },
+    {
+      "provision_ref": "art203",
+      "section": "203",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 January 2018."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "existing exposure situation",
+      "definition": "existing exposure situation means an exposure situation that already exists when a decision on its control has to be taken and which does not call or no longer calls for urgent measures to be taken; this involves, in particular, radiological legacies, radon, naturally occurring radioactive material and long‑term contamination following an emergency;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "occupational exposure",
+      "definition": "occupational exposure means exposure due to occupational activities; occupational exposure may involve employees, self-employed persons, apprentices and students;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "medical exposure",
+      "definition": "medical exposure means the exposure of patients or asymptomatic individuals for diagnostic or therapeutic purposes, with the aim of improving their health, and exposure of carers and comforters in medicine and of participants in human research;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "public exposure",
+      "definition": "public exposure means any exposure of persons, excluding occupational and medical exposures;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "radiological protection experts",
+      "definition": "radiological protection experts means experts, as specified in Article 16 of the RPA, who have the knowledge, training and experience in radiological protection needed to ensure the effective protection of people and the environment; experts are responsible for implementation of the legal requirements in internal radiological protection directives and for monitoring compliance within the enterprise;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "naturally occurring radioactive material (NORM",
+      "definition": "naturally occurring radioactive material (NORM ) means material with naturally occurring radionuclides which does not contain artificial radioactive substances; material in which the activity concentrations of naturally occurring radionuclides have been unintentionally changed by some process is also NORM; if concentrations of naturally occurring radionuclides are deliberately enhanced, in particular to utilise their radioactive properties, then they are no longer considered to be NORM;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "ionising radiation",
+      "definition": "ionising radiation means energy transmitted in the form of particles or electromagnetic waves of a wavelength of 100 nm or less capable of ionising an atom or molecule directly or indirectly;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "clearance limit (LL)",
+      "definition": "clearance limit (LL) means the value corresponding to the specific activity level of a material below which handling of this material is no longer subject to mandatory licensing or, accordingly, supervision; the values are specified in Annex 3 Column 9;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "NORM clearance limit (LLM)",
+      "definition": "NORM clearance limit (LLM) means the value corresponding to the specific activity level of natural radionuclides in NORM below which this material may be freely discharged into the environment; the values are specified in Annex 2;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "licensing limit (LA)",
+      "definition": "licensing limit (LA) means the value corresponding to the absolute activity level of a material above which handling of this material is subject to mandatory licensing; the values are specified in Annex 3 Column 10; they do not apply to NORM;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "guidance value",
+      "definition": "guidance value means a value, derived from a limit, the exceedance of which triggers certain measures and compliance with which also ensures compliance with the associated limit; guidance values for airborne activity (CA) and surface contamination (CS) are specified in Annex 3 Columns 11 and 12;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "radiation source",
+      "definition": "radiation source means a radioactive material or installation capable of emitting ionising radiation;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "material",
+      "definition": "material is a general term covering solid, liquid or gaseous substances, mixtures, raw materials and finished products and articles manufactured therefrom;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "radioactive material",
+      "definition": "radioactive material means a material that incorporates radionuclides, is activated or contaminated with radionuclides and which meets the following conditions: 1. handling thereof is subject to mandatory licensing and supervision under radiological protection or nuclear energy legislation,",
+      "source_provision": "art2"
+    },
+    {
+      "term": "radioactive substance",
+      "definition": "radioactive substance is synonymous with radioactive material ;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "radioactive source",
+      "definition": "radioactive source means radioactive material employed for the purpose of utilising its radioactivity;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "sealed radioactive source",
+      "definition": "sealed radioactive source means a radioactive source whose structure is such as to prevent, under normal conditions of use, the release of radioactive substances and thus exclude the risk of contamination;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "unsealed radioactive source",
+      "definition": "unsealed radioactive source means a radioactive source that does not meet the requirements for a sealed radioactive source;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "orphan radioactive material",
+      "definition": "orphan radioactive material means radioactive material that is no longer under the control of the owner or licence holder;",
+      "source_provision": "art2"
+    },
+    {
+      "term": "installations",
+      "definition": "installations is an abbreviated form of installations that generate ionising radiation ; installations are equipment and devices used to generate photon or particle radiation.",
+      "source_provision": "art2"
+    }
+  ]
+}

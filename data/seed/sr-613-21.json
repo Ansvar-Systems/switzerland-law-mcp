@@ -1,0 +1,429 @@
+{
+  "id": "sr-613-21",
+  "type": "statute",
+  "title": "Verordnung vom 7. November 2007 über den Finanz- und Lastenausgleich (FiLaV)",
+  "title_en": "",
+  "short_name": "FiLaV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2007/792/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Kapitel: Ressourcenpotenzial",
+      "section": "1",
+      "title": "Ressourcenpotenzial und aggregierte Steuerbemessungsgrundlage",
+      "content": "1 Das Ressourcenpotenzial eines Kantons ist in Anhang 1 festgelegt. Es basiert auf der aggregierten Steuerbemessungsgrundlage des Kantons. Diese entspricht der Summe: a. der massgebenden Einkommen der natürlichen Personen; b. der massgebenden quellenbesteuerten Einkommen; c. der massgebenden Vermögen der natürlichen Personen; d. der massgebenden Gewinne der juristischen Personen ohne besonderen Steuerstatus; e. der massgebenden Gewinne der juristischen Personen mit besonderem Steuerstatus; f. der massgebenden Steuerrepartitionen der direkten Bundessteuer. 2 Das Ressourcenpotenzial der Schweiz entspricht der Summe der Ressourcenpotenziale aller Kantone."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Kapitel: Ressourcenpotenzial",
+      "section": "2",
+      "title": "Referenz- und Bemessungsjahr",
+      "content": "1 Das Referenzjahr des Ressourcenpotenzials ist das Jahr, für welches das Ressourcenpotenzial als Grundlage für den Ressourcenausgleich dient. 2 Das Ressourcenpotenzial eines Referenzjahres entspricht dem Durchschnitt der aggregierten Steuerbemessungsgrundlage aus drei aufeinander folgenden Jahren (Bemessungsjahre). 3 Das erste Bemessungsjahr liegt gegenüber dem Referenzjahr um sechs, das letzte um vier Jahre zurück."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Kapitel: Ressourcenpotenzial",
+      "section": "3",
+      "title": "Ressourcenpotenzial pro Kopf der Einwohnerinnen und Einwohner",
+      "content": "Das Ressourcenpotenzial pro Kopf der Einwohnerinnen und Einwohner ist in Anhang 1 festgelegt. Es entspricht dem Verhältnis zwischen dem Ressourcenpotenzial und dem Durchschnitt der mittleren ständigen und nichtständigen Wohnbevölkerung in den Bemessungsjahren des Ressourcenpotenzials. Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Kapitel: Ressourcenpotenzial",
+      "section": "4",
+      "title": "Ressourcenindex",
+      "content": "1 Der Ressourcenindex eines Kantons ist in Anhang 1 festgelegt. Er entspricht dem mit Faktor 100 multiplizierten Verhältnis zwischen dem Ressourcenpotenzial pro Kopf der Einwohnerinnen und Einwohner des Kantons und dem Ressourcenpotenzial pro Kopf der Einwohnerinnen und Einwohner der gesamten Schweiz. 2 ... 3 Der Ressourcenindex der gesamten Schweiz beträgt 100 Indexpunkte. 4 Kantone, deren Ressourcenindex den Wert von 100 übersteigt, gelten als ressourcenstark. Die übrigen Kantone gelten als ressourcenschwach. Aufgehoben durch Ziff. I der V vom 30. Okt. 2013, mit Wirkung seit 1. Jan. 2014 ( AS 2013 3809 )."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "1. Kapitel: Ressourcenpotenzial",
+      "section": "5",
+      "title": "Standardisierter Steuerertrag und Steuersatz",
+      "content": "1 Der standardisierte Steuerertrag eines Kantons entspricht seinen massgebenden eigenen Ressourcen. Dieser Ertrag ergibt sich aus der Anwendung eines für alle Kantone einheitlichen proportionalen Steuersatzes (standardisierter Steuersatz) auf das Ressourcenpotenzial. 2 Der standardisierte Steuerertrag der Schweiz umfasst: a. die Steuereinnahmen, die alle Kantone und Gemeinden im Durchschnitt der Bemessungsjahre laut Finanzstatistik der öffentlichen Haushalte nach Statistikerhebungsverordnung vom 30. Juni 1993 erzielt haben; b. die Anteile der Kantone an den Einnahmen der direkten Bundessteuer gemäss Artikel 196 Absatz 1 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (DBG) im Durchschnitt der Bemessungsjahre. 3 Der standardisierte Steuersatz entspricht dem Verhältnis zwischen dem standardisierten Steuerertrag und dem Ressourcenpotenzial der Schweiz. 4 Der Index der standardisierten Steuererträge pro Einwohnerin und Einwohner entspricht dem Ressourcenindex. 5 Die Berechnung des standardisierten Steuerertrags sowie der standardisierte Steuersatz sind in Anhang 1 festgelegt. Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 ). Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 ). Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 ). SR 431.012.1 SR 642.11 Eingefügt durch Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Berechnungsgrundlage für die einzelne natürliche Person",
+      "content": "1 Das massgebende Einkommen einer natürlichen steuerpflichtigen Person entspricht ihrem steuerbaren Einkommen nach DBG abzüglich eines einheitlichen Freibetrags. 2 Der Freibetrag entspricht dem tiefsten steuerbaren Betrag für Ehepaare nach Artikel 36 Absätze 2 und 3 DBG des entsprechenden Bemessungsjahres. 3 Ist das steuerbare Einkommen einer steuerpflichtigen Person kleiner als der Freibetrag, so ist ihr massgebendes Einkommen Null. SR 642.11 Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Berechnungsgrundlage für den Kanton",
+      "content": "Das massgebende Einkommen der natürlichen Personen eines Kantons ist in Anhang 2 festgelegt. Es entspricht der Summe der massgebenden Einkommen der im betreffenden Kanton steuerpflichtigen natürlichen Personen gemäss DBG. SR 642.11"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Berechnungsgrundlage",
+      "content": "Das massgebende quellenbesteuerte Einkommens wird aufgrund der jährlichen Erhebung der Bruttolöhne der an der Quelle besteuerten natürlichen Personen und der Anzahl steuerpflichtige Personen gemäss den Artikeln 83 ff. und 91 ff. DBG berechnet. SR 642.11"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Zusammensetzung",
+      "content": "Das massgebende quellenbesteuerte Einkommen eines Kantons ist in Anhang 3 festgelegt. Es setzt sich zusammen aus der Summe der massgebenden quellenbesteuerten Einkommen: a. der gebietsansässigen Ausländerinnen und Ausländer gemäss Artikel 83 DBG; b. der ausländischen Verwaltungsrätinnen und Verwaltungsräte gemäss Artikel 93 DBG; c. der vollständig besteuerten Grenzgängerinnen und Grenzgänger gemäss Artikel 91 DBG; d. der begrenzt besteuerten Grenzgängerinnen und Grenzgänger gemäss Artikel 83 DBG und den Doppelbesteuerungsabkommen mit Österreich, Deutschland, Frankreich und Italien. SR 642.11"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Berechnung",
+      "content": "1 Die massgebenden quellenbesteuerten Einkommen eines Kantons werden nach Anhang 3 berechnet. Die Umrechnung der Bruttolöhne auf das Niveau der ordentlich besteuerten Einkommen erfolgt mittels des Faktors Gamma. 2 Der Faktor Gamma entspricht dem Verhältnis zwischen dem massgebenden Einkommen der natürlichen Personen der Schweiz und dem Primäreinkommen der privaten Haushalte der Schweiz. Grundlage für die Berechnung ist das Verhältnis im letzten verfügbaren Bemessungsjahr. Der Faktor wird auf drei Kommastellen gerundet. 3 Der Faktor Gamma wird jeweils für das letzte Bemessungsjahr nach Artikel 2 Absatz 3 neu berechnet. Für die anderen Bemessungsjahre werden die Faktoren Gamma aus dem Vorjahr übernommen. Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Berechnungsgrundlage",
+      "content": "1 Das massgebende Vermögen der natürlichen Personen wird aufgrund der Steuerbemessungsgrundlage für die kantonale Vermögenssteuer berechnet. 2 In die Berechnung miteinbezogen werden: a. das Reinvermögen der unbeschränkt steuerpflichtigen Personen mit Wohnsitz im Kanton, abzüglich des Anteils, welcher anderen Kantonen oder dem Ausland zusteht; und b. das Reinvermögen der beschränkt steuerpflichtigen Personen im Liegenschafts- oder Betriebsstättenkanton, einschliesslich der vom Kanton steuerlich erfassten Reinvermögensteile von Personen mit Wohnsitz im Ausland."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Massgebendes Vermögen einer steuerpflichtigen Person",
+      "content": "1 Das massgebende Vermögen einer steuerpflichtigen Person ist das mit dem Gewichtungsfaktor Alpha multiplizierte Reinvermögen der steuerpflichtigen Person. 2 Ist das Reinvermögen einer steuerpflichtigen Person negativ, so ist das massgebende Vermögen Null."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Berechnung des Faktors Alpha",
+      "content": "1 Der Faktor Alpha entspricht der steuerlichen Ausschöpfung der Vermögen im Verhältnis zur steuerlichen Ausschöpfung der Einkommen. Grundlage für die Berechnung ist der Durchschnitt dieses Verhältnisses in den letzten verfügbaren sechs Bemessungsjahren. Der Faktor wird auf drei Kommastellen gerundet. Die Berechnung richtet sich nach Anhang 4. 2 Der Faktor Alpha wird jeweils für das letzte Bemessungsjahr nach Artikel 2 Absatz 3 neu berechnet. Für die anderen Bemessungsjahre werden die Faktoren Alpha aus den jeweiligen Vorjahren übernommen. Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Massgebendes Vermögen der natürlichen Personen eines Kantons",
+      "content": "Das massgebende Vermögen der natürlichen Personen eines Kantons ist in Anhang 4 festgelegt. Es entspricht der Summe der massgebenden Vermögen der im betreffenden Kanton beschränkt und unbeschränkt steuerpflichtigen natürlichen Personen."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Berechnung für die einzelne juristische Person",
+      "content": "1 Der massgebende Gewinn einer juristischen Person ohne besonderen Steuerstatus entspricht dem steuerbaren Reingewinn nach Artikel 58 DBG abzüglich des Nettoertrags aus Beteiligungen gemäss DBG. 2 Ist der Nettoertrag aus Beteiligungen grösser als der steuerbare Reingewinn, so ist der massgebende Gewinn null. SR 642.11"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Berechnung für den Kanton",
+      "content": "Die massgebenden Gewinne der juristischen Personen ohne besonderen Steuerstatus eines Kantons sind in Anhang 5 festgelegt. Sie entsprechen der Summe der massgebenden Gewinne der im Kanton steuerpflichtigen juristischen Personen ohne besonderen Steuerstatus."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Berechnung für die einzelne juristische Person",
+      "content": "Der massgebende Gewinn einer juristischen Person mit besonderem Steuerstatus entspricht der Summe: a. des steuerbaren Gewinns aus den Einkünften aus der Schweiz gemäss Artikel 28 Absätze 2–4 des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden (StHG); b. des steuerbaren Reingewinns gemäss Artikel 58 DBG, abzüglich des Nettoertrags aus Beteiligungen gemäss DBG und des steuerbaren Gewinns aus der Schweiz gemäss Buchstabe a, gewichtet mit dem Faktor Beta. SR 642.14 SR 642.11"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Berechnung für den Kanton",
+      "content": "Der massgebende Gewinn der juristischen Personen mit besonderem Steuerstatus eines Kantons ist in Anhang 6 festgelegt. Er entspricht der Summe der massgebenden Gewinne der im Kanton steuerpflichtigen juristischen Personen mit besonderem Steuerstatus."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Berechnung der Faktoren Beta",
+      "content": "1 Es wird für juristische Personen nach Artikel 28 Absätze 2–4 StHG je ein Faktor Beta berechnet. Sie sind in Anhang 6 festgelegt. 2 Die Faktoren Beta sind für alle Kantone gleich. 3 Die Faktoren Beta gelten für eine Vierjahresperiode des Ressourcenausgleichs. Grundlage sind die Zahlen der Bemessungsjahre der vergangenen Vierjahresperiode des Ressourcenausgleichs. 4 Die Faktoren Beta entsprechen der Summe aus je einem Basisfaktor und je einem Zuschlagsfaktor. 5 Für juristische Personen mit besonderem Steuerstatus, die nicht definitiv veranlagt sind, beträgt der Faktor Beta 1, es sei denn, dass provisorische Angaben in gleichwertiger Qualität wie die definitiv veranlagten Angaben geliefert werden können. 6 Eine provisorische Angabe ist von gleichwertiger Qualität, wenn im Zeitpunkt, in dem die Daten eines Bemessungsjahres erhoben werden, aufgrund der Steuererklärung die steuerbaren Einkünfte nach Artikel 17 bekannt sind. SR 642.14 Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 ). Eingefügt durch Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Basis- und Zusatzfaktor",
+      "content": "1 Der Basisfaktor entspricht für: a. juristische Personen mit besonderem Steuerstatus gemäss Artikel 28 Absatz 2 StHG: 0; b. juristische Personen mit besonderem Steuerstatus gemäss Artikel 28 Absatz 3 StHG: dem ersten Quartil der steuerbaren Anteile der übrigen Einkünfte aus dem Ausland aller juristischen Personen in der Schweiz, die gemäss Artikel 28 Absatz 3 StHG besteuert werden. c. juristische Personen mit besonderem Steuerstatus gemäss Artikel 28 Absatz 4 StHG: dem ersten Quartil der steuerbaren Anteile der übrigen Einkünfte aus dem Ausland aller juristischen Personen in der Schweiz, die gemäss Artikel 28 Absatz 4 StHG besteuert werden. 2 Die Berechnung der Zuschlagsfaktoren richtet sich nach Anhang 6. SR 642.14"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "",
+      "content": "1 Die massgebenden Steuerrepartitionen eines Kantons (Anhang 7) entsprechen dem gewichteten Saldo zwischen: a. der Summe der Gutschriften der direkten Bundessteuer, die in den Bemessungsjahren in anderen Kantonen zu seinen Gunsten verbucht wurden; und b. der Summe der Gutschriften der direkten Bundessteuer, die er in den Bemessungsjahren zugunsten anderer Kantone verbucht hat. 2 Der Gewichtungsfaktor eines Kantons entspricht dem Verhältnis zwischen der Summe der massgebenden Einkommen und Gewinne des Kantons gemäss den Abschnitten 2, 3, 5 und 6 und dem Steueraufkommen der direkten Bundessteuer des Kantons in den Bemessungsjahren."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "",
+      "content": "Das EFD erlässt Weisungen für die Erhebung und die Lieferung der erforderlichen Daten durch die Kantone sowie für deren Verarbeitung durch die Bundesämter. Es lädt die Kantone und die eidgenössische Finanzkontrolle zur Stellungnahme ein."
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "2. Kapitel: Ausgleichszahlungen",
+      "section": "22a",
+      "title": "a Beiträge an die ressourcenschwachen Kantone",
+      "content": "1 Die Progression nach Artikel 3 a Absatz 2 Buchstabe b FiLaG wird so festgelegt, dass: a. die garantierte Mindestausstattung (Art. 3 a Abs. 2 Bst. a FiLaG) mit möglichst wenig finanziellen Mitteln erreicht werden kann; b. die Rangfolge der Kantone bezüglich der standardisierten Steuererträge pro Einwohnerin und Einwohner zuzüglich dem Beitrag aus dem Ressourcenausgleich pro Einwohnerin und Einwohner nicht verändert wird. 2 Die Berechnung der Beiträge an die ressourcenschwachen Kantone richtet sich nach Anhang 7 a . Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2. Kapitel: Ausgleichszahlungen",
+      "section": "23",
+      "title": "Leistung des Bundes",
+      "content": "Der Bund leistet 60 Prozent der notwendigen Mittel nach Artikel 22 a . Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "2. Kapitel: Ausgleichszahlungen",
+      "section": "24",
+      "title": "Leistung der ressourcenstarken Kantone",
+      "content": "1 Die Gesamtleistung der ressourcenstarken Kantone entspricht 40 Prozent der notwendigen Mittel nach Artikel 22 a . 2 Der Beitrag pro Einwohnerin und Einwohner eines ressourcenstarken Kantons ist proportional zur Differenz zwischen seinem Ressourcenindex und dem Ressourcenindex der gesamten Schweiz. 3 Die Berechnung der Beiträge der ressourcenstarken Kantone richtet sich nach Anhang 8. Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art2526",
+      "chapter": "2. Kapitel: Ausgleichszahlungen",
+      "section": "2526",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "1. Kapitel: Datengrundlagen",
+      "section": "27",
+      "title": "Datengrundlage",
+      "content": "Datengrundlage sind Statistiken des Bundes gemäss dem Bundesstatistikgesetz vom 9. Oktober 1992, dem Bundesgesetz vom 26. Juni 1998 über die eidgenössische Volkszählung und den dazugehörigen Verordnungen des jeweils letzten verfügbaren Jahres. SR 431.01 [ AS 1999 917 . 2007 6743 Art. 16]. Siehe heute: das BG vom 22. Juni 2007 ( SR 431.112 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "1. Kapitel: Datengrundlagen",
+      "section": "28",
+      "title": "Datenlieferungspflicht",
+      "content": "1 Die Kantone sorgen dafür, dass die Daten zur Verfügung gestellt werden. 2 Das Eidgenössische Departement des Innern erlässt Weisungen für die Erhebung und Lieferung der Daten durch die Kantone. Es lädt die Kantone zur Stellungnahme ein."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "2. Kapitel: Geografisch-topografischer Lastenausgleich",
+      "section": "29",
+      "title": "Teilindikatoren",
+      "content": "1 Der geografisch-topografische Lastenausgleich basiert auf folgenden vier Teilindikatoren der Kantone: a. Siedlungshöhe: Anteil der ständigen Wohnbevölkerung mit einer Wohnhöhe von über 800 Metern über Meer an der gesamten ständigen Wohnbevölkerung; b. Steilheit des Geländes: Höhenmedian der produktiven Fläche gemäss Arealstatistik; c. Siedlungsstruktur: Anteil der ständigen Wohnbevölkerung mit Wohnsitz ausserhalb des Hauptsiedlungsgebietes (Anhang 10) an der gesamten ständigen Wohnbevölkerung; d. geringe Bevölkerungsdichte: Gesamtfläche in Hektaren pro Kopf der ständigen Einwohnerinnen und Einwohner gemäss Arealstatistik. 2 ... Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3809 ). Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3809 ). Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 ). Aufgehoben durch Ziff. I der V vom 4. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "2. Kapitel: Geografisch-topografischer Lastenausgleich",
+      "section": "30",
+      "title": "Lastenindizes und massgebende Sonderlasten",
+      "content": "1 Für jeden Teilindikator werden ein Lastenindex und die massgebenden Sonderlasten der Kantone berechnet. 2 Der Lastenindex eines Kantons entspricht dem mit dem Faktor 100 multiplizierten Verhältnis zwischen dem Teilindikatorwert des Kantons und dem entsprechenden Teilindikatorwert der gesamten Schweiz. Er wird auf eine Kommastelle gerundet. 3 Der Lastenindex der gesamten Schweiz beträgt 100 Indexpunkte. 4 Die massgebenden Sonderlasten eines Kantons entsprechen der gewichteten Differenz zwischen dem Lastenindex des Kantons und dem entsprechenden Lastenindex der gesamten Schweiz. Die Gewichte unterscheiden sich nach dem zu Grunde liegenden Teilindikator und lauten wie folgt: a. für den Teilindikator Siedlungshöhe: ständige Wohnbevölkerung des Kantons mit Wohnhöhe von über 800 Metern über Meer; b. für den Teilindikator Steilheit des Geländes: produktive Fläche des Kantons gemäss Arealstatistik; c. für den Teilindikator Siedlungsstruktur: ständige Wohnbevölkerung mit Wohnsitz ausserhalb der Hauptsiedlungsgebiete des Kantons; d. für den Teilindikator geringe Bevölkerungsdichte: ständige Wohnbevölkerung des Kantons. 5 Ist der Lastenindex eines Kantons kleiner als der Lastenindex der gesamten Schweiz, so sind die massgebenden Sonderlasten des Kantons Null. 6 ... Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3809 ). Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ( AS 2013 3809 ). Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 ). Aufgehoben durch Ziff. I der V vom 4. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Festlegung",
+      "content": "Der Ausgleichsbetrag für den geografisch-topografischen Lastenausgleich entspricht dem Ausgleichsbetrag des Vorjahres angepasst gemäss der Veränderungsrate des Landesindexes der Konsumentenpreise gegenüber dem Vorjahresmonat zum Zeitpunkt der Berechnung. Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Verwendung",
+      "content": "Der Ausgleichsbetrag wird wie folgt verwendet: a. ein Drittel für die Abgeltung der massgebenden Sonderlasten aufgrund der Siedlungshöhe; b. ein Drittel für die Abgeltung der massgebenden Sonderlasten aufgrund der Steilheit des Geländes; c. ein Sechstel für die Abgeltung der massgebenden Sonderlasten aufgrund der Siedlungsstruktur; d. ein Sechstel für die Abgeltung der massgebenden Sonderlasten aufgrund der geringen Bevölkerungsdichte. Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Beiträge an die Kantone",
+      "content": "1 Die Beiträge an einen Kanton für die einzelnen Sonderlasten sind proportional zu seinem Anteil an der Summe der entsprechenden Sonderlasten aller Kantone. 2 Sie sind in Anhang 12 aufgelistet."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "3. Kapitel: Soziodemografischer Lastenausgleich",
+      "section": "34",
+      "title": "Teilindikatoren",
+      "content": "1 Der Ausgleich von soziodemografischen Sonderlasten aufgrund der Bevölkerungsstruktur basiert auf folgenden drei Teilindikatoren der Kantone: a. Armut: Anteil der Empfängerinnen und Empfänger von Leistungen der Sozialhilfe im weiteren Sinne an der ständigen Wohnbevölkerung; b. Altersstruktur: Anteil der Einwohnerinnen und Einwohner mit einem Alter von 80 Jahren und mehr an der ständigen Wohnbevölkerung; c. Ausländerintegration: Anteil der ausländischen Einwohnerinnen und Einwohner, die nicht aus Nachbarstaaten stammen und maximal seit 12 Jahren in der Schweiz leben, an der ständigen Wohnbevölkerung. 2 Als Leistungen der Sozialhilfe im weiteren Sinn gelten bedarfsorientierte Geldleistungen, sofern sie personen- beziehungsweise haushaltsbezogen gewährt werden und soweit sie in der Statistik der Sozialhilfeempfängerinnen und Sozialhilfeempfänger gemäss Statistikerhebungsverordnung vom 30. Juni 1993 aufgeführt sind. Dazu gehören insbesondere: a. wirtschaftliche Sozialhilfe gemäss den kantonalen Sozialhilfegesetzen; b. kantonal geregelte Bevorschussung von Alimenten; c. Ergänzungsleistungen des Bundes, gewichtet mit dem kantonalen Finanzierungsanteil gemäss Artikel 13 Absatz 1 des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung; d. kantonale Alters- und Invaliditätsbeihilfen; e. kantonale Bedarfsleistungen im Zusammenhang mit Arbeitslosigkeit; f. kantonale Mutterschaftsbeihilfen sowie Unterhaltszuschüsse an Familien mit Kindern; g. kantonale Wohngelder beziehungsweise Wohnkostenzuschüsse. 3 Weist eine Leistung der Sozialhilfe im weiteren Sinn einen im gesamtschweizerischen Vergleich tiefen jährlichen Unterstützungsbeitrag pro Kopf der Empfängerinnen und Empfänger auf, so wird die Anzahl der Empfängerinnen und Empfänger dieser Leistung gewichtet. Die Finanzstatistik der Sozialhilfe im weiteren Sinn nach Statistikerhebungsverordnung bildet die Datengrundlage für die Gewichtung. 4 Mehrfachbezüge werden einfach gezählt. SR 431.012.1 SR 831.30 Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2017 ( AS 2015 4753 ). Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 ). Fassung gemäss Ziff. I der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2017 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "3. Kapitel: Soziodemografischer Lastenausgleich",
+      "section": "35",
+      "title": "Lastenindex und massgebende Sonderlasten",
+      "content": "1 Die Teilindikatoren der Kantone werden standardisiert und mit Hilfe von Gewichten zu einem Lastenindex zusammengefasst. Die Gewichte werden mit der Hauptkomponentenanalyse festgelegt und jedes Jahr überprüft. Die Berechnung richtet sich nach Anhang 13. 2 Der Lastenindex eines Kantons wird auf drei Kommastellen gerundet. 3 Aus dem Lastenindex eines Kantons wird eine Masszahl für die Lasten pro Einwohnerin und Einwohner berechnet. Diese Masszahl entspricht der Differenz zwischen dem Lastenindex des Kantons und dem Lastenindex desjenigen Kantons mit dem tiefsten Indexwert. 4 Die massgebenden Sonderlasten eines Kantons entsprechen der mit der ständigen Wohnbevölkerung gewichteten Differenz zwischen den Lasten pro Einwohnerin und Einwohner des Kantons und dem entsprechenden Mittelwert der Lasten pro Einwohnerin und Einwohner aller Kantone. Sind die Lasten pro Einwohnerin und Einwohner des Kantons kleiner als der Mittelwert, so sind die massgebenden Sonderlasten des Kantons Null. 5 ... Aufgehoben durch Ziff. I der V vom 4. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Teilindikatoren",
+      "content": "Die Sonderlasten der Kernstädte werden aufgrund folgender drei Teilindikatoren der Gemeinden ausgeglichen: a. Gemeindegrösse: ständige Wohnbevölkerung; b. Siedlungsdichte: ständige Wohnbevölkerung und Anzahl Beschäftigte im Verhältnis zur produktiven Fläche der Gemeinde; c. Beschäftigungsquote: Anzahl Beschäftigte im Verhältnis zur ständigen Wohnbevölkerung der Gemeinde."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Lastenindex und massgebende Sonderlasten",
+      "content": "1 Die Teilindikatoren werden standardisiert und mit Hilfe einer Hauptkomponentenanalyse zu einem Lastenindex zusammengefasst. Der Lastenindex einer Gemeinde entspricht der ersten standardisierten Hauptkomponente der standardisierten Teilindikatoren. Die Berechnung richtet sich nach Anhang 14. 2 Der Lastenindex eines Kantons entspricht dem gewichteten Mittelwert der Lastenindizes seiner Gemeinden. Als Gewicht dient die ständige Wohnbevölkerung der Gemeinden. Der Lastenindex des Kantons wird auf drei Kommastellen gerundet. 3 Aus dem Lastenindex eines Kantons wird eine Masszahl für die Lasten pro Einwohnerin und Einwohner des Kantons berechnet. Diese Masszahl entspricht der Differenz zwischen dem Lastenindex des Kantons und dem Lastenindex desjenigen Kantons mit dem tiefsten Indexwert. 4 Die für einen Kanton massgebenden Sonderlasten der Kernstädte entsprechen der mit der ständigen Wohnbevölkerung gewichteten Differenz zwischen den Lasten pro Einwohnerin und Einwohner des Kantons und dem Mittelwert der Lasten pro Einwohnerin und Einwohner aller Kantone. Sind die Lasten pro Einwohnerin und Einwohner des Kantons kleiner als der Mittelwert der Kantone, so sind die massgebenden Sonderlasten des Kantons Null. 5 ... Aufgehoben durch Ziff. I der V vom 4. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Festlegung",
+      "content": "1 Der Ausgleichsbetrag für den soziodemografischen Lastenausgleich entspricht dem Ausgleichsbetrag des Vorjahres angepasst gemäss der Veränderungsrate des Landesindexes der Konsumentenpreise gegenüber dem Vorjahresmonat zum Zeitpunkt der Berechnung. 2 Die Erhöhung der Beiträge nach Artikel 9 Absatz 2 bis FiLaG wird nicht der Teuerung angepasst. Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Verwendung",
+      "content": "Der Ausgleichsbetrag wird wie folgt verwendet: a. zwei Drittel für die Abgeltung der massgebenden Sonderlasten aufgrund der Bevölkerungsstruktur; b. ein Drittel für die Abgeltung der massgebenden Sonderlasten der Kernstädte."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Beiträge an die Kantone",
+      "content": "1 Die Beiträge, die ein Kanton für Sonderlasten aufgrund der Bevölkerungsstruktur und der Kernstädte erhält, sind proportional zu seinem Anteil an der Summe der entsprechenden Sonderlasten aller Kantone. 2 Die Beiträge an die Kantone sind in Anhang 15 aufgelistet."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "3. Titel: Qualitätssicherung",
+      "section": "41",
+      "title": "Datenkontrolle und Berichterstattung",
+      "content": "1 Das für die Erhebung der Daten zuständige Bundesamt plausibilisiert die Daten. 2 Stellt es bei den Daten Mängel fest, so weist es die Daten zur Überarbeitung innerhalb einer angemessenen Frist an den betroffenen Kanton zurück. 3 Anschliessend übermittelt es die Daten der eidgenössischen Finanzverwaltung (EFV) und erstattet Bericht über die Erhebung, Plausibilisierung und Überarbeitung der Daten."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "3. Titel: Qualitätssicherung",
+      "section": "42",
+      "title": "Massnahmen bei ungenügender Datenqualität",
+      "content": "1 Bei fehlerhaften, fehlenden oder nicht weiter verwertbaren Daten zum Ressourcenpotenzial treffen die eidgenössische Steuerverwaltung (ESTV) und die EFV folgende Massnahmen: a. Die ESTV korrigiert angemessen qualitativ ungenügende, aber weiterverwertbare Daten. b. Bei fehlenden oder nicht weiterverwertbaren Daten schätzt die EFV das Ressourcenpotenzial gemäss Anhang 16. 2 Bei fehlerhaften, fehlenden oder nicht weiter verwertbaren Daten zu den Lastenindizes nimmt das Bundesamt für Statistik (BFS) in Zusammenarbeit mit der EFV Korrekturen oder Schätzungen vor. 3 Die Erkenntnisse zur Datenqualität und die getroffenen Massnahmen werden dem betroffenen Kanton und der Konferenz der kantonalen Finanzdirektorinnen und ‑direktoren (FDK) mitgeteilt. Der betroffene Kanton hat Gelegenheit, sich innerhalb einer kurzen Frist zu den vorgenommenen Korrekturen und Schätzungen zu äussern."
+    },
+    {
+      "provision_ref": "art42a",
+      "chapter": "3. Titel: Qualitätssicherung",
+      "section": "42a",
+      "title": "a Nachträgliche Berichtigung von Ausgleichszahlungen",
+      "content": "1 Die Ausgleichszahlungen werden nachträglich berichtigt, wenn der Fehler der Ausgleichszahlungen bei einem Kanton pro Einwohnerin oder Einwohner mindestens 0,17 Prozent des durchschnittlichen Pro-Kopf-Ressourcenpotenzials der Schweiz entspricht (Erheblichkeitsgrenze). 2 Für die Berechnung der Erheblichkeitsgrenze ist das Ressourcenpotenzial des vom Fehler betroffenen Referenzjahres massgebend. 3 Ausgleichszahlungen werden nur für ein Referenzjahr berichtigt, in welchem der Fehler die Erheblichkeitsgrenze erreicht. Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ( AS 2011 5823 ). Fassung gemäss Ziff. I der V vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 4653 )."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "3. Titel: Qualitätssicherung",
+      "section": "43",
+      "title": "Dokumentation",
+      "content": "Die Korrekturen der Daten und die Schätzungen sind zu dokumentieren. Die Nachvollziehbarkeit ist sicherzustellen."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "3. Titel: Qualitätssicherung",
+      "section": "44",
+      "title": "Fachgruppe Qualitätssicherung",
+      "content": "1 Das EFD setzt zur Qualitätssicherung der Berechnungsgrundlagen für das Ressourcenpotenzial und die Lastenindizes eine begleitende, zwischen Bund und Kantonen paritätisch zusammengesetzte Fachgruppe ein. 2 Die Fachgruppe setzt sich zusammen aus: a. zwei Vertreterinnen oder Vertretern der EFV; b. je einer Vertreterin oder einem Vertreter der ESTV und des BFS; c. je zwei Vertreterinnen oder Vertretern der ressourcenstarken und der ressourcenschwachen Kantone. 3 Von den Vertreterinnen oder Vertretern der Kantone gemäss Absatz 2 Buchstabe c stammen mindestens eine Vertreterin oder ein Vertreter aus einem Kanton mit geografisch-topografischen Sonderlasten und einem Kanton mit soziodemografischen Sonderlasten. 4 Die eidgenössische Finanzkontrolle ist mit einer Beobachterin oder einem Beobachter in der Fachgruppe vertreten. 5 Die Sekretärin oder der Sekretär der FDK nimmt als Beobachterin bzw. als Beobachter Einsitz in die Fachgruppe. 6 Die Fachgruppe wird von einer Vertreterin oder einem Vertreter der Kantone gemäss Absatz 2 Buchstabe c geleitet. 7 Die EFV führt ihr Sekretariat."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Aufgaben der Fachgruppe",
+      "content": "1 Die Fachgruppe begleitet die zuständigen Bundesstellen bei folgenden Aufgaben: a. Kontrolle der Datenerfassung des Ressourcen- und Lastenausgleichs in den Kantonen; b. Plausibilisierung und Überarbeitung der Daten; c. Korrekturen oder Schätzungen bei fehlerhaften, fehlenden oder nicht weiterverwertbaren Daten. 2 Die Fachgruppe erstattet dem EFD und den Kantonen jährlich Bericht über ihre Tätigkeit."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "4. Titel: Wirksamkeitsbericht",
+      "section": "46",
+      "title": "Inhalt",
+      "content": "1 Der Wirksamkeitsbericht hat folgenden Inhalt: a. Er gibt Auskunft über: 1. den Vollzug des Finanzausgleichs, insbesondere die Beschaffung der Daten für den Ressourcen- und Lastenausgleich, 2. die jährliche Volatilität der Beiträge der ressourcenstarken Kantone an den horizontalen Ressourcenausgleich und der Ausgleichszahlungen an die ressourcenschwachen Kantone innerhalb der Berichtsperiode. b. Er analysiert, inwieweit die Ziele des Finanz- und Lastenausgleichs in der Berichtsperiode erreicht wurden. c. Er erörtert mögliche Massnahmen, namentlich: 1. die Anpassung der garantierten Mindestausstattung des Ressourcenausgleichs (Art. 3 a Abs. 2 Bst. a FiLaG), 2. die Anpassung der Dotation des Lastenausgleichs (Art. 9 FiLaG), 3. die vollständige oder teilweise Aufhebung des Härteausgleichs (Art. 19 Abs. 4 FiLaG). 2 Er kann Empfehlungen für die Überprüfung der Bemessungsgrundlagen des Ressourcen- und Lastenausgleichs enthalten. 3 Er enthält zudem in einer gesonderten Darstellung Angaben über die Wirkungen der interkantonalen Zusammenarbeit mit Lastenausgleich gemäss Artikel 18 Absatz 3 in Verbindung mit Artikel 11 FiLaG. 4 Der Wirksamkeitsbericht stützt sich bei der Beurteilung der Ziele insbesondere auf die Kriterien gemäss Anhang 17 ab und berücksichtigt anerkannte Standards der Evaluation. 5 Er gibt allfällige abweichende Meinungen innerhalb der paritätischen Fachgruppe wieder. Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "4. Titel: Wirksamkeitsbericht",
+      "section": "47",
+      "title": "Datengrundlagen",
+      "content": "1 Für die Überprüfung der Wirksamkeit werden Statistiken des Bundes und der Kantone sowie, soweit zweckmässig, verwaltungsexterne Daten und Analysen herangezogen. 2 Die Kantone stellen dem Bund die notwendigen Daten zur Verfügung."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "4. Titel: Wirksamkeitsbericht",
+      "section": "48",
+      "title": "Fachgruppe Wirksamkeitsbericht",
+      "content": "1 Eine Fachgruppe, die sich paritätisch aus Vertreterinnen und Vertretern von Bund und Kantonen zusammensetzt, begleitet die Erarbeitung des Wirksamkeitsberichts. Sie äussert sich namentlich zur Auftragsvergabe an externe Gutachterinnen und Gutachter und zur Erarbeitung von Empfehlungen für den Ressourcen-, Lasten- und Härteausgleich. 2 Die Kantone sorgen für eine ausgewogene Zusammensetzung ihrer Delegation in der Fachgruppe, insbesondere sind die verschiedenen Sprachgruppen, Stadt- und Landregionen sowie die ressourcenstarken und ressourcenschwachen Kantone angemessen zu berücksichtigen. 3 Das EFD bestimmt die Zusammensetzung der Bundesdelegation, darunter die Vertreterinnen und Vertreter der EFV. Eine Vertreterin oder ein Vertreter der EFV leitet die Fachgruppe. 4 Das Sekretariat der Fachgruppe wird durch die EFV wahrgenommen."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "4. Titel: Wirksamkeitsbericht",
+      "section": "49",
+      "title": "Vernehmlassung",
+      "content": "Der Wirksamkeitsbericht wird den Kantonen in die Vernehmlassung gegeben. Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 )."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "5. Titel: Fälligkeit der Beiträge",
+      "section": "50",
+      "title": "",
+      "content": "Die Beiträge des Ressourcen-, Lasten- und Härteausgleichs sind halbjährlich jeweils am Ende des Halbjahres zu bezahlen."
+    },
+    {
+      "provision_ref": "art5153",
+      "chapter": "1. Abschnitt: ...",
+      "section": "5153",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ( AS 2019 3823 )."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "1. Abschnitt: ...",
+      "section": "54",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 4. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ( AS 2015 4753 )."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "2. Abschnitt: Härteausgleich",
+      "section": "55",
+      "title": "Globalbilanz",
+      "content": "1 Grundlage für die Ausgleichszahlungen des Härteausgleichs ist die Globalbilanz der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA). 2 Die Globalbilanz der NFA zeigt die geschätzte finanzielle Nettobelastung oder Nettoentlastung des Bundes und der Kantone, die sich im Durchschnitt der Jahre 2004 und 2005 ergibt gemäss: a. dem Bundesbeschluss vom 3. Oktober 2003 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen; b. dem Bundesgesetz vom 6. Oktober 2006 über die Schaffung und die Änderungen von Erlassen zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen; c. den Artikeln 3–9 und 23 FiLaG. AS 2007 5765 AS 2007 5779"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "2. Abschnitt: Härteausgleich",
+      "section": "56",
+      "title": "Beiträge an die Kantone",
+      "content": "1 Mit dem Härteausgleich wird angestrebt, dass in der Globalbilanz jeder Kanton, dessen Ressourcenindex im Durchschnitt der Jahre 2004 und 2005 unter dem Wert von 100 liegt, eine finanzielle Nettoentlastung in Prozent des standardisierten Steuerertrags aufweist, die mindestens so gross ist wie der Grenzwert des Kantons. 2 Der Grenzwert des Kantons ist abhängig von seinem Ressourcenindex im Durchschnitt der Jahre 2004 und 2005 und dem für den Härteausgleich zur Verfügung stehenden Gesamtbetrag. Er berechnet sich nach Anhang 18. 3 Kantone, deren Ressourcenindex im Durchschnitt der Jahre 2004 und 2005 tiefer ist als 100 Punkte und deren Nettoentlastung in Prozent des standardisierten Steuerertrags in der Globalbilanz tiefer ist als der Grenzwert, erhalten in den Jahren 2008 bis 2015 einen Beitrag in der Höhe der Differenz zwischen der Nettoentlastung und dem Grenzwert (Anhang 18). Die restlichen Kantone erhalten keinen Beitrag. 4 Ab dem neunten Jahr ab Inkrafttreten der Verordnung reduziert sich der Beitrag um jährlich fünf Prozent des Anfangsbetrags. 5 Ein Kanton verliert seinen Anspruch auf den Härteausgleich ab dem Referenzjahr, in welchem sein Ressourcenindex auf über 100 Punkte steigt. Die Gesamtsumme des Härteausgleichs reduziert sich entsprechend."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "56",
+      "section": "56",
+      "title": "a",
+      "content": "1 Der Anteil eines berechtigten Kantons an den Mitteln nach Artikel 19 c Absatz 2 FiLaG entspricht der Anzahl der Einwohnerinnen und Einwohner des Kantons, dividiert durch die Summe der Einwohnerinnen und Einwohner aller berechtigten Kantone. 2 Die Ausgleichsbeiträge der Abfederungsmassnahmen richten sich nach Anhang 19."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "3. Abschnitt: Wirksamkeitsbericht",
+      "section": "57",
+      "title": "",
+      "content": "1 Der Wirksamkeitsbericht für die Periode 2020–2025 umfasst eine zusätzliche Darstellung zur Umsetzung des Bundesgesetzes vom 28. September 2018 über die Steuerreform und die AHV-Finanzierung in den Kantonen, namentlich der Instrumente des Abzugs von Forschungs- und Entwicklungsaufwand und des Abzugs für Eigenfinanzierung. 2 Die Kantone stellen dem Bund die notwendigen Informationen zur Verfügung. Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ( AS 2019 3823 ). AS 2019 2395"
+    },
+    {
+      "provision_ref": "art57a",
+      "chapter": "59",
+      "section": "57a",
+      "title": "",
+      "content": "Tritt am 1. Jan. 2024 in Kraft."
+    },
+    {
+      "provision_ref": "art57b",
+      "chapter": "59",
+      "section": "57b",
+      "title": "b Weiteranwendung der Faktoren Beta",
+      "content": "1 Bei Gesellschaften, die ihren besonderen Steuerstatus nach Artikel 28 Absätze 2–4 StHG in der bis 31. Dezember 2019 geltenden Fassung verloren haben, werden in den Bemessungsjahren 2020–2024 die Faktoren Beta nach Artikel 23 a Absatz 1 FiLaG auf den Gewinnanteil nach Artikel 17 Buchstabe b dieser Verordnung in der bis 31. Dezember 2025 geltenden Fassung angewendet. Dies gilt ebenso für Gesellschaften, die auf ihren Steuerstatus verzichtet haben, für die Bemessungsjahre 2017–2024. Die Gewinnanteile aus den Einkünften aus der Schweiz fliessen zu 100 Prozent in die Bemessungsgrundlage ein. 2 und 3 ... SR 642.14 Treten am 1. Jan. 2024 in Kraft."
+    },
+    {
+      "provision_ref": "art57c",
+      "chapter": "59",
+      "section": "57c",
+      "title": "c Datenerhebung zur Weiteranwendung der Faktoren Beta",
+      "content": "1 Die Kantone identifizieren die juristischen Personen, für die nach Artikel 57 b die Faktoren Beta weiter angewendet werden. 2 Für den Gewinn dieser juristischen Personen richtet sich die Berechnung des mit dem entsprechenden Faktor Beta multiplizierten Gewinnanteils nach Artikel 57 b Absatz 1 nach dem gewichteten Durchschnitt der letzten drei Jahre als juristische Person mit besonderem Steuerstatus. 3 Ist eine juristische Person mit besonderem Steuerstatus Gegenstand einer Umstrukturierung, so wird die Gewichtung nach Artikel 57 b anteilsmässig berücksichtigt."
+    },
+    {
+      "provision_ref": "art57d",
+      "chapter": "59",
+      "section": "57d",
+      "title": "",
+      "content": "Tritt am 1. Jan. 2024 in Kraft."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "7. Titel: Schlussbestimmungen",
+      "section": "58",
+      "title": "Aufhebung bisherigen Rechts",
+      "content": "Folgende Verordnungen werden aufgehoben: 1. Verordnung vom 21. Dezember 1973 über die Abstufung der Bundesbeiträge nach der Finanzkraft der Kantone. 2. Verordnung vom 27. November 1989 über den Finanzausgleich mit dem Kantonsanteil an der direkten Bundessteuer. [ AS 1974 146 ] [AS 1 989 2470, 2002 3069]"
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "7. Titel: Schlussbestimmungen",
+      "section": "59",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2008 in Kraft."
+    }
+  ],
+  "definitions": []
+}

@@ -9,7 +9,7 @@
       "description": "Federal Constitution of the Swiss Confederation (SR 101), Art. 13 -- right to privacy and protection of personal data",
       "upstream_url": "https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_13",
       "selector_hint": "Art. 13 - Right to privacy",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_sha256": "51395593f104faf0f9a5bc1e5b545d3507b7a55a09322940216e842cf4f6abb4",
       "expected_snippet": "privacy"
     },
     {
@@ -17,7 +17,7 @@
       "description": "Federal Act on Data Protection (nFADP/DSG, SR 235.1), Art. 1 -- purpose of the Act",
       "upstream_url": "https://www.fedlex.admin.ch/eli/cc/2022/491/en#art_1",
       "selector_hint": "Art. 1 - Purpose",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_sha256": "950b45431bdcc61e3ee1c14fc80b5e1fc1e26340fb477ddc8683333753db77b9",
       "expected_snippet": "personality"
     },
     {
@@ -25,7 +25,7 @@
       "description": "Federal Act on Information Security (ISA, SR 128.1), Art. 1 -- purpose of the Act",
       "upstream_url": "https://www.fedlex.admin.ch/eli/cc/2023/483/en#art_1",
       "selector_hint": "Art. 1 - Purpose",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_sha256": "e6ec03e019ea0960099b69fe3d87c71a9f7be0fabc563f6060aed12f49d50cdc",
       "expected_snippet": "security"
     },
     {
@@ -33,7 +33,7 @@
       "description": "Code of Obligations (OR, SR 220), Art. 1 -- conclusion of contract by mutual consent",
       "upstream_url": "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1",
       "selector_hint": "Art. 1 - Conclusion of Contract",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_sha256": "2e7b02431ae99af647c86601871975206ae11fb157567c5c6a565d67cb01ddeb",
       "expected_snippet": "contract"
     },
     {
@@ -41,7 +41,7 @@
       "description": "Swiss Criminal Code (StGB, SR 311.0), Art. 1 -- no punishment without law (nulla poena sine lege)",
       "upstream_url": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/en#art_1",
       "selector_hint": "Art. 1 - No punishment without law",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_sha256": "a11d1116e4f76385bd54556da33e5e03b7189ae8dd42afddda5294e36197fba3",
       "expected_snippet": "punish"
     },
     {
@@ -49,7 +49,7 @@
       "description": "Telecommunications Act (TCA, SR 784.10), Art. 1 -- purpose and scope of telecommunications regulation",
       "upstream_url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/en#art_1",
       "selector_hint": "Art. 1 - Purpose",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_sha256": "da9cb492abe7e1b058493faa313b4a21e46fd6c62244ae99cf025139c36c907b",
       "expected_snippet": "telecommunication"
     }
   ]

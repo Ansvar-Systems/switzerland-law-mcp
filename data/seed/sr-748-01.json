@@ -1,0 +1,920 @@
+{
+  "id": "sr-748-01",
+  "type": "statute",
+  "title": "Verordnung vom 14. November 1973 über die Luftfahrt (Luftfahrtverordnung, LFV)",
+  "title_en": "",
+  "short_name": "LFV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "11 …",
+      "section": "1",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "12 Einteilung",
+      "section": "2",
+      "title": "",
+      "content": "1 Die Luftfahrzeuge werden in technischer Hinsicht in die Kategorien nach Anhang eingeteilt. 2 Als Staatsluftfahrzeuge gelten Luftfahrzeuge, die im Militär‑, Zoll- oder Polizeidienst von Bund und Kantonen verwendet werden oder die der Bundesrat ausdrücklich als solche bezeichnet. Eingefügt durch Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "6",
+      "section": "2",
+      "title": "a",
+      "content": "1 Unbemannte Luftfahrzeuge mit einem Gewicht von mehr als 30 kg dürfen nur mit Bewilligung des Bundesamtes für Zivilluftfahrt (BAZL) eingesetzt werden. 2 Die Kantone sind ermächtigt, für unbemannte Luftfahrzeuge mit einem Gewicht von weniger als 30 kg Massnahmen zur Verminderung der Umweltbelastung und der Gefährdung von Personen und Sachen auf der Erde zu treffen. 3 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) regelt die Einzelheiten. Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ( AS 2007 3645 ). Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ( AS 2007 3645 )."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "9",
+      "section": "2",
+      "title": "b",
+      "content": "1 Der Betrieb von bemannten motorisch angetriebenen Luftfahrzeugen, die wegen ihres geringen Gewichts vom Geltungsbereich der Verordnung (EG) Nr. 216/2008 ausgenommen sind (Art. 4 Abs. 4 und Anhang II Bst. e und f der genannten Verordnung), ist verboten. 2 Vom Verbot ausgenommen sind: a. elektrisch angetriebene Luftfahrzeuge; b. aerodynamisch gesteuerte Flugzeuge mit Verbrennungsmotor; c. Tragschrauber mit Verbrennungsmotor. 3 Das BAZL kann zudem für Forschungs- und Entwicklungsprojekte Ausnahmebewilligungen erteilen. Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abk. vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ( SR 0.748.127.192.68 ) jeweils verbindlichen Fassung."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "13 Luftfahrzeugregister",
+      "section": "3",
+      "title": "Eintragung",
+      "content": "1 Das BAZL trägt Flugzeuge, Hubschrauber, andere Drehflügler, Motorsegler, Segelflugzeuge, bemannte Freiballone und Luftschiffe in das Luftfahrzeugregister ein: a. wenn die Voraussetzungen, namentlich über das Eigentum, erfüllt sind (Art. 4 und 5); b. wenn sie unter schweizerischen Hoheits- und Eintragungszeichen zum Verkehr zugelassen werden sollen. 2 Das BAZL kann die Eintragung eines Luftfahrzeuges, für das die Eigentumsvoraussetzungen nicht erfüllt sind, in das Luftfahrzeugregister bewilligen, wenn das Luftfahrzeug für längere Zeit von einer schweizerischen Unternehmung der gewerbsmässigen Luftfahrt verwendet werden soll. 3 Schweizerische Staatsluftfahrzeuge können im Luftfahrzeugregister eingetragen werden. 4 Die Eintragung kann verweigert werden, wenn das Luftfahrzeug offensichtlich den in der Schweiz anwendbaren Lufttüchtigkeitsanforderungen oder den Bestimmungen über den Umweltschutz nicht entspricht. 5 … Fassung gemäss Ziff. I der V vom 14. März 1994, in Kraft seit 1. April 1994 ( AS 1994 735 ). Fassung gemäss Ziff. I der V vom 29. Mai 1996, in Kraft seit 1. Juli 1996 ( AS 1996 1536 ). Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "13 Luftfahrzeugregister",
+      "section": "4",
+      "title": "Eigentumsvoraussetzungen",
+      "content": "Ein Luftfahrzeug erfüllt die vorgeschriebenen Voraussetzungen, wenn es ausschliessliches Eigentum ist von: a. Schweizer Bürgern; b. Ausländern, die auf Grund zwischenstaatlicher Vereinbarungen namentlich hinsichtlich der Beteiligung am Kapital und an der Geschäftsführung schweizerischer Luftverkehrsunternehmen Schweizer Bürgern gleichgestellt sind und die Wohnsitz in der Schweiz haben und eine Bewilligung besitzen, längere Zeit in der Schweiz zu bleiben; c. Ausländern, die in der Schweiz Wohnsitz haben und eine Bewilligung besitzen, längere Zeit in der Schweiz zu bleiben und die das Luftfahrzeug in der Regel von der Schweiz aus benutzen; d. Handelsgesellschaften oder Genossenschaften, die ihren Sitz in der Schweiz haben und in der Schweiz im Handelsregister eingetragen sind; e. Körperschaften und Anstalten des öffentlichen Rechts; f. Vereinen, die nach schweizerischem Recht errichtet sind, sofern zwei Drittel ihrer Mitglieder und ihres Vorstandes sowie ihr Präsident in der Schweiz Wohnsitz haben und Schweizer Bürger oder Ausländer sind, die auf Grund zwischenstaatlicher Vereinbarungen Schweizer Bürgern gleichgestellt sind. Fassung gemäss Ziff. I der V vom 14. März 1994, in Kraft seit 1. April 1994 ( AS 1994 735 ). Eine Liste dieser Vereinbarungen kann beim BAZL eingesehen werden. Eine Liste dieser Vereinbarungen kann beim BAZL eingesehen werden."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "13 Luftfahrzeugregister",
+      "section": "5",
+      "title": "Treuhandschaft",
+      "content": "Für die Anwendung dieser Verordnung gelten treuhandschaftlich begründete Verfügungsrechte nicht als Eigentum. Fassung gemäss Ziff. I der V vom 14. März 1994, in Kraft seit 1. April 1994 ( AS 1994 735 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Anmeldung",
+      "content": "1 Ein Luftfahrzeug ist durch den Eigentümer zur Eintragung anzumelden. 2 Der Anmeldung sind beizulegen: a. Belege, die das Eigentum des Gesuchstellers glaubhaft machen; b. für Handelsgesellschaften und Genossenschaften der Nachweis, dass sie die Voraussetzungen des Artikels 4 Buchstabe d erfüllen; c. für Vereine der Nachweis, dass sie die Voraussetzungen des Artikels 4 Buchstabe f erfüllen; d. für Eigentümer im Sinne von Artikel 4 Buchstabe b der Nachweis, dass sie die Voraussetzungen dieser Bestimmung erfüllen; e. für Eigentümer im Sinne von Artikel 4 Buchstabe c der Nachweis, dass sie die Voraussetzungen dieser Bestimmung erfüllen und eine schriftliche Erklärung, dass das Luftfahrzeug in der Regel von der Schweiz aus benutzt wird; f. für ein Luftfahrzeug, das aus dem Ausland eingeführt wird: 1. der Nachweis, dass es weder im Herstellerstaat noch im Wohnsitzstaat eines Rechtsvorgängers des Gesuchstellers eingetragen ist, und 2. der Nachweis, dass es nicht im Luftfahrzeugbuch oder in einem entsprechenden Register des letzten Eintragungsstaates aufgenommen ist; dieser Nachweis kann ersetzt werden durch die schriftliche Erklärung des nach dem Eintrag im ausländischen Luftfahrzeugbuch Berechtigten, dass er der Eintragung des Luftfahrzeuges in das schweizerische Luftfahrzeugregister zustimmt; g. für ein gebrauchtes Luftfahrzeug, das aus dem Ausland eingeführt wird, der Nachweis des ordnungsgemässen Unterhaltes. Fassung gemäss Ziff. I der V vom 14. März 1994, in Kraft seit 1. April 1994 ( AS 1994 735 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 14. März 1994, mit Wirkung seit 1. April 1994 ( AS 1994 735 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Inhalt des Eintrages",
+      "content": "1 Der Eintrag im Luftfahrzeugregister enthält mindestens folgende Angaben: a. Datum der Eintragung; b. Eintragungszeichen; c. Hersteller; d. Baumuster des Luftfahrzeuges; e. Werknummer; f. Name und Adresse des Eigentümers. 2 Name und Adresse des Halters können neben dem Eigentümer eingetragen werden, wenn der Halter die Voraussetzungen für die Eintragung, abgesehen vom Eigentum, erfüllt."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Eintragungszeugnis",
+      "content": "1 Das BAZL stellt dem Eigentümer des Luftfahrzeuges ein Zeugnis über den Eintrag aus. 2 … Aufgehoben durch Ziff. I der V vom 27. Jan. 1988, mit Wirkung seit 1. April 1988 ( AS 1988 534 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Änderungen",
+      "content": "Der eingetragene Eigentümer und, wenn ein solcher eingetragen ist, der Halter des Luftfahrzeuges, haben dem BAZL jede Änderung der in den Artikeln 4–7 genannten Voraussetzungen innert zehn Tagen schriftlich zu melden. Das Eintragungszeugnis und das Lufttüchtigkeitszeugnis sind der Meldung beizulegen. Fassung des zweiten Satzes gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Löschung",
+      "content": "1 Der Eintrag eines Luftfahrzeuges wird gelöscht: a. auf Antrag des Eigentümers; b. von Amtes wegen, wenn: – eine Voraussetzung zur Eintragung wegfällt; – der Nachweis der Zollveranlagung oder der vorübergehenden Zollbefreiung nicht erbracht wird; – der Halter eine Gebühr nach der Verordnung vom 25. September 1989 über die Gebühren des BAZL, welche rechtskräftig festgesetzt ist, nicht bezahlt; – das Luftfahrzeug zerstört worden ist. 2 Ist das Luftfahrzeug in das Luftfahrzeugbuch aufgenommen, so darf der Eintrag im Luftfahrzeugregister nicht gelöscht werden, bevor das Luftfahrzeug im Luftfahrzeugbuch gestrichen ist. Die Bordpapiere eines Luftfahrzeuges, dessen Eintrag von Amtes wegen zu löschen ist, werden aber schon vor der Löschung zurückgezogen. 3 Auf Verlangen stellt das BAZL über die Löschung eine Bescheinigung aus. Fassung gemäss Ziff. I der V vom 24. Okt. 1990, in Kraft seit 1. Dez. 1990 ( AS 1990 1719 ). Fassung gemäss Anhang 4 Ziff. 36 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ( AS 2007 1469 ). [ AS 1989 2216 , 1993 2749 , 1995 5219 , 1997 2779 Ziff. II 53, 2003 1195 , 2005 2695 Ziff. II 5. AS 2007 5101 Art. 52]. Siehe heute: die V vom 28. Sept. 2007 ( SR 748.112.11 )."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "14 Hoheits- und Eintragungszeichen",
+      "section": "12",
+      "title": "",
+      "content": "Das BAZL erlässt Bestimmungen über die Hoheits- und Eintragungszeichen der schweizerischen Luftfahrzeuge."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "25",
+      "section": "13",
+      "title": "Vorbehalt internationalen Rechts",
+      "content": "Die Bestimmungen über die Lufttüchtigkeit und das Zulassungsverfahren (Ziff. 15) gelten, soweit nicht gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr (Luftverkehrsabkommen) eine der folgenden EG-Verordnungen in der für die Schweiz jeweils verbindlichen Fassung anwendbar ist: a. Verordnung (EG) Nr. 1592/2002; b. Verordnung (EG) Nr. 2042/2003; c. Verordnung (EG) Nr. 1702/2003. Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). SR 0.748.127.192.68 . Die für die Schweiz jeweils verbindliche Fassung ist im Anhang zu diesem Abkommen genannt und kann beim Bundesamt für Zivilluftfahrt BAZL, 3003 Bern (www. bazl.admin.ch) eingesehen oder bezogen werden."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "25",
+      "section": "14",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 18. Juni 2008, mit Wirkung seit 1. Aug. 2008 ( AS 2008 3607 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "25",
+      "section": "15",
+      "title": "Gefahrentragung bei Prüfungen",
+      "content": "1 Für Beschädigungen des Luftfahrzeuges und seiner Ausrüstung bei den Prüfungen haftet der Bund nach den Bestimmungen des Verantwortlichkeitsgesetzes. 2 Der Gesuchsteller kann die Prüfflüge mit Zustimmung des BAZL auf seine Gefahr durch einen geeigneten Piloten eigener Wahl ausführen lassen. 3 Bei jedem Prüfflug müssen die Haftpflichtansprüche von Dritten auf der Erde sichergestellt sein. SR 170.32"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "25",
+      "section": "16",
+      "title": "Lufttüchtigkeitszeugnis, eingeschränktes Lufttüchtigkeitszeugnis, Fluggenehmigung sowie Lärm- und Schadstoffzeugnis",
+      "content": "1 Das BAZL bescheinigt die Lufttüchtigkeit der eingetragenen Luftfahrzeuge im Lufttüchtigkeitszeugnis, im eingeschränkten Lufttüchtigkeitszeugnis oder in der Fluggenehmigung. 2 Der Grad der Lärm- und der Schadstoffentwicklung von Luftfahrzeugen mit motorischem Antrieb wird im Lärm- und Schadstoffzeugnis bescheinigt. Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 )."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "25",
+      "section": "17",
+      "title": "",
+      "content": "1 Ausländische Lufttüchtigkeitszeugnisse, eingeschränkte Lufttüchtigkeitszeugnisse und Fluggenehmigungen können vom BAZL anerkannt werden, wenn sie ausgestellt wurden: a. nach den geltenden schweizerischen Bestimmungen; b. nach internationalen Normen, die auch für die Schweiz verbindlich sind, oder c. nach ausländischen oder internationalen Normen, die den schweizerischen Mindestanforderungen wenigstens gleichkommen und vom BAZL anerkannt sind. 2 Ausländische Lärm- und Schadstoffzeugnisse können vom BAZL anerkannt werden, wenn sie ausgestellt wurden: a. nach Normen, die den schweizerischen Mindestanforderungen wenigstens gleichkommen; oder b. nach internationalen Normen, die auch für die Schweiz verbindlich sind. 3 Die Nachprüfung, ob das Luftfahrzeug lufttüchtig ist und die Anforderungen der Lärm- und Schadstoffbegrenzung erfüllt, bleibt vorbehalten. Fassung gemäss Ziff. I der V vom 6. Dez. 1982, in Kraft seit 1. Jan. 1983 ( AS 1982 2277 ). Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). Fassung gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 ). Fassung gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "",
+      "content": "1 Ein im Luftfahrzeugregister eingetragenes Luftfahrzeug wird zum Verkehr zugelassen, wenn: a. es lufttüchtig ist; b. es die Anforderungen der Begrenzung des Lärms und anderer Emissionen erfüllt; c. die Haftpflichtansprüche von Dritten auf der Erde und von Reisenden im vorgeschriebenen Umfang sichergestellt sind; d. bei einem aus dem Ausland eingeführten Luftfahrzeug nachgewiesen wird, dass eine Zollveranlagung durchgeführt wurde oder dass es vorübergehend zollbefreit ist. 2 … 3 Die Zulassung zum Verkehr wird mit der Erteilung des Lufttüchtigkeitszeugnisses, des eingeschränkten Lufttüchtigkeitszeugnisses oder mit der Fluggenehmigung bescheinigt. In diesen Bescheinigungen oder in Anhängen dazu kann das BAZL Auflagen, Bedingungen und Beschränkungen für den Betrieb festlegen. 4 In besonderen Fällen, namentlich während des Zulassungsverfahrens, stellt das BAZL eine provisorische Fluggenehmigung aus. Die Haftpflichtansprüche von Dritten auf der Erde und von Reisenden müssen in jedem Fall sichergestellt sein. 5 … Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). Fassung gemäss Ziff. I der V vom 5. März 1984, in Kraft seit 1. Apr. 1984 ( AS 1984 318 ). Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). Fassung gemäss Anhang 4 Ziff. 36 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ( AS 2007 1469 ). Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ( AS 1994 3028 ). Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). Aufgehoben durch Ziff. I der V vom 25. Aug. 1976, mit Wirkung seit 1. Jan. 1977 ( AS 1976 1921 )."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Gültigkeitsdauer des Lufttüchtigkeitszeugnisses, des eingeschränkten Lufttüchtigkeitszeugnisses und der Fluggenehmigung",
+      "content": "1 Die Lufttüchtigkeitszeugnisse, eingeschränkten Lufttüchtigkeitszeugnisse und Fluggenehmigungen sind grundsätzlich unbefristet gültig. Das BAZL kann ihre Gültigkeit ausnahmsweise befristen. 2 Das BAZL stellt im besonderen Fällen, namentlich im Zulassungsverfahren oder für technische Überflüge, Fluggenehmigungen mit befristeter Gültigkeitsdauer aus. Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 )."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "",
+      "content": "1 Das Lufttüchtigkeitszeugnis, das eingeschränkte Lufttüchtigkeitszeugnis oder die Fluggenehmigung wird entzogen, wenn: a. das Luftfahrzeug nicht mehr lufttüchtig ist und der Mangel innert einer vom BAZL angesetzten Frist nicht behoben worden ist; b. das Luftfahrzeug die Anforderungen der Begrenzung des Lärms und anderer Emissionen nicht mehr erfüllt und der Mangel innert einer vom BAZL angesetzten Frist nicht behoben worden ist: c. keine ausreichende Sicherstellung der Haftpflichtansprüche von Dritten auf der Erde mehr vorhanden ist: d. nach Ablauf der Zollbefreiung die Verzollung nicht nachgewiesen wird. 2 Das Lufttüchtigkeitszeugnis kann ferner entzogen werden, wenn: a. die erforderliche periodische Überprüfung der Lufttüchtigkeit nicht innerhalb der vorgeschriebenen Frist durchgeführt und bestätigt wird; oder b. die Eigentumsverhältnisse unklar sind. 3 Vorbehalten bleibt der Entzug nach Artikel 92 des Luftfahrtgesetzes. Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 ). Fassung gemäss Ziff. I der V vom 6. Dez. 1982, in Kraft seit 1. Jan. 1983 ( AS 1982 2277 ). Fassung gemäss Ziff. I der V vom 5. März 1984, in Kraft seit 1. Apr. 1984 ( AS 1984 318 ). Fassung gemäss Ziff. I der V vom 18. Juni 2008, in Kraft seit 1. Aug. 2008 ( AS 2008 3607 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "16 Sonderregeln und andere Massnahmen",
+      "section": "21",
+      "title": "",
+      "content": "Das UVEK kann innerhalb der in den Artikeln 108 und 109 des Luftfahrtgesetzes umschriebenen Grenzen für Luftfahrzeuge besonderer Kategorien oder bei neuen technischen Erscheinungen Sonderregeln erlassen und andere Massnahmen treffen. Es berücksichtigt dabei auch die Anliegen des Natur‑, Landschafts- und Umweltschutzes. Fassung gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 ). Ausdruck gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ( AS 2007 3645 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "2 Flugkörper",
+      "section": "22",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "2 Flugkörper",
+      "section": "23",
+      "title": "",
+      "content": "1 Die Flugkörper werden in technischer Hinsicht in die Kategorien nach Anhang eingeteilt. 2 Kleine Flugkörper, wie Feuerwerkkörper oder Modellraketen, sowie Hagelabwehrgeschosse dürfen nur eingesetzt oder abgeschossen werden, wenn sie die Sicherheit der Luftfahrt nicht beeinträchtigen. Zusätzliche Einschränkungen aus andern Gründen durch den Bund oder die Kantone bleiben vorbehalten. 3 Andere Flugkörper, namentlich bemannte oder unbemannte Raketen, dürfen nur mit Bewilligung des BAZL eingesetzt oder abgeschossen werden. Das BAZL kann Auflagen für die Zulassung und den Betrieb festlegen. 4 Hagelabwehrgeschosse dürfen nicht in die Lufträume der Klassen C und D sowie der Klasse E im Bereich von ATS-Strecken eindringen. Die zuständige Flugverkehrsleitstelle kann Ausnahmen bewilligen. Fassung gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "31 Ausweis",
+      "section": "24",
+      "title": "",
+      "content": "1 Das UVEK bestimmt, welche Kategorien des Luftfahrtpersonals zur Ausübung ihrer Tätigkeit eines Ausweises des BAZL bedürfen. 2 Das BAZL kann die Durchführung von Prüfungen und das Ausstellen von Ausweisen geeigneten Verbänden übertragen. Eingefügt durch Ziff. I der V vom 27. Jan. 1988, in Kraft seit 1. April 1988 ( AS 1988 534 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "32 Vorschriften",
+      "section": "25",
+      "title": "",
+      "content": "1 Das UVEK erlässt über die Ausweise für das Luftfahrtpersonal Vorschriften, die insbesondere regeln: a. die Art, den Geltungsbereich und die Geltungsdauer der Ausweise; b. die Voraussetzungen für die Erteilung, die Verweigerung, die Erneuerung und den Entzug der Ausweise; c. das Verfahren, das dabei einzuhalten ist; d. die Rechte und Pflichten der Träger; e. die Voraussetzungen, unter denen militärisch ausgebildetes Luftfahrtpersonal zivile Ausweise erwerben kann; f. die Anerkennung ausländischer Ausweise, Fähigkeitsprüfungen und fliegerärztlicher Untersuchungen. 2 Das UVEK kann Vorschriften erlassen über das Luftfahrtpersonal, das für die Ausübung seiner Tätigkeit keines Ausweises bedarf. 3 Das UVEK ordnet den fliegerärztlichen Dienst im Einvernehmen mit dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport. Die Organisation und die Zuständigkeiten des fliegerärztlichen Instituts werden in einer Verordnung festgelegt, die das Departement für Verteidigung, Bevölkerungsschutz und Sport im Einvernehmen mit dem UVEK erlässt. Fassung gemäss Ziff. I der V vom 4. April 2001, in Kraft seit 1. April 2001 ( AS 2001 1067 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "33 Ausbildung von Luftfahrtpersonal",
+      "section": "26",
+      "title": "Grundsatz",
+      "content": "Unter Vorbehalt der vom UVEK für einzelne Kategorien festzulegenden Ausnahmen ist die Ausbildung von Luftfahrtpersonal, das eines amtlichen Ausweises bedarf, nur im Rahmen einer zivilen Ausbildungsorganisation zulässig, welche die Anforderungen nach der Verordnung (EU) Nr. 1178/2011 oder der Verordnung (EU) Nr. 2015/340 erfüllt. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 ). Verordnung (EU) Nr. 1178/2011 der Kommission vom 3. Nov. 2011 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das fliegende Personal in der Zivilluftfahrt gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlamentes und des Rates, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ( SR 0.748.127.192.68 ) jeweils verbindlichen Fassung. Verordnung (EG) Nr. 2015/340 der Kommission vom 20. Februar 2015 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf Lizenzen und Bescheinigungen von Fluglotsen gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, zur Änderung der Durchführungsverordnung (EU) Nr. 923/2012 der Kommission und zur Aufhebung der Verordnung (EU) Nr. 805/2011 der Kommission, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ( SR 0.748.127.192.68 ) jeweils verbindlichen Fassung."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "33 Ausbildung von Luftfahrtpersonal",
+      "section": "27",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 17. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ( AS 2018 3843 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "33 Ausbildung von Luftfahrtpersonal",
+      "section": "28",
+      "title": "Aufsicht über zivile Ausbildungsorganisationen",
+      "content": "1 Das BAZL überwacht den Betrieb der zivilen Ausbildungsorganisationen für das Luftfahrtpersonal. 2 Die vom Bund unterstützten Bereiche der fliegerischen Aus- und Weiterbildung unterstehen, unter Ausnahme der Eignungsabklärung von Anwärterinnen und Anwärtern als Militär- oder Berufspiloten oder als Fallschirm-Aufklärer (SPHAIR), der Aufsicht des BAZL. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 )."
+    },
+    {
+      "provision_ref": "art28a",
+      "chapter": "33 Ausbildung von Luftfahrtpersonal",
+      "section": "28a",
+      "title": "a SPHAIR",
+      "content": "1 Die Luftwaffe sorgt für die Durchführung von Abklärungen der Eignung von Anwärterinnen und Anwärtern als Militär- oder Berufspiloten oder als Fallschirmaufklärer unter der Bezeichnung SPHAIR. 2 Sie wird in der Erfüllung ihrer Aufgaben insbesondere durch das BAZL, die Organisationen der kommerziellen Luftfahrt, die Ausbildungsorganisationen der Aviatik und den Dachverband der Leicht- und Sportaviatik unterstützt. 3 Das VBS regelt nach Anhörung der Beteiligten nach Absatz 2 insbesondere: a. die Voraussetzungen für die Teilnahme an den Eignungsabklärungen; b. die Anforderungen an die Eignungsabklärungen; c. die Organisation der Geschäftsstelle SPHAIR und den Einbezug der Beteiligten nach Absatz 2. Eingefügt durch Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 )."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 17. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ( AS 2018 3843 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "34 Schutz der Gesundheit von Luftfahrzeugbesatzungsmitgliedern von Luftfahrzeugbesatzungsmitgliedern",
+      "section": "30",
+      "title": "Geltungsbereich und anwendbares Recht",
+      "content": "1 Diese Ziffer (34) regelt den Schutz der Gesundheit von Luftfahrzeugbesatzungsmitgliedern von Luftverkehrsunternehmen mit Sitz in der Schweiz, die eine Bewilligung für die gewerbsmässige Beförderung von Personen und Gütern haben müssen. 2 Sie führt die Richtlinie 2000/79/EG in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 1 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 aus. Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ( AS 2009 5027 ). SR 0.748.127.192.68 . Die für die Schweiz jeweils verbindliche Fassung ist in Ziff. 1 des Anhangs zu diesem Abkommen genannt und kann beim BAZL eingesehen oder bezogen werden: Bundesamt für Zivilluftfahrt, 3003 Bern (www.bazl.admin.ch)."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "34 Schutz der Gesundheit von Luftfahrzeugbesatzungsmitgliedern von Luftfahrzeugbesatzungsmitgliedern",
+      "section": "31",
+      "title": "Information und Anleitung",
+      "content": "Die Information und die Anleitung der Besatzungsmitglieder richten sich nach Artikel 5 der Verordnung 3 vom 18. August 1993 zum Arbeitsgesetz (Gesundheitsvorsorge, ArGV 3). Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ( AS 2009 5027 ). SR 822.113"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "34 Schutz der Gesundheit von Luftfahrzeugbesatzungsmitgliedern von Luftfahrzeugbesatzungsmitgliedern",
+      "section": "32",
+      "title": "Anhörung",
+      "content": "Die Anhörung der Besatzungsmitglieder oder ihrer Vertretung im Betrieb richtet sich nach Artikel 6 ArGV 3. Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ( AS 2009 5027 ). SR 822.113"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "34 Schutz der Gesundheit von Luftfahrzeugbesatzungsmitgliedern von Luftfahrzeugbesatzungsmitgliedern",
+      "section": "33",
+      "title": "Untersuchung des Gesundheitszustands",
+      "content": "1 Jedes Besatzungsmitglied hat Anspruch auf eine unentgeltliche Untersuchung des Gesundheitszustands vor der erstmaligen Aufnahme der Arbeit im Luftverkehrsunternehmen. 2 Den Anspruch auf unentgeltliche Untersuchung des Gesundheitszustands nach Klausel 4 Ziffer 1 Buchstabe a des Anhangs zur Richtlinie 2000/79/EG haben die Besatzungsmitglieder wie folgt: a. Flugbesatzungsmitglieder: in den im JAR-FCL-3-Reglement vorgeschriebenen Abständen; b. die übrigen Besatzungsmitglieder: 1. bis zum 41. Lebensjahr: alle 5 Jahre, 2. ab dem 42. und bis zum 50. Lebensjahr: alle 2 Jahre, 3. ab dem 51. Lebensjahr: jährlich. 3 Sie haben Anspruch auf eine jährliche Untersuchung, wenn sie gesundheitliche Probleme haben, die auf die fliegerische Tätigkeit zurückzuführen sind. 4 Die Kosten der Untersuchung des Gesundheitszustandes trägt das Luftverkehrsunternehmen. Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ( AS 2009 5027 ). In der für die Schweiz jeweils verbindlichen Fassung gemäss Ziff. 1 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ( SR 0.748.127.192.68 ). JAR-FCL 3 wird nicht in der AS publiziert und nicht übersetzt. Das Regelwerk kann beim Bundesamt für Zivilluftfahrt (BAZL), 3003 Bern (www.bazl.admin.ch) eingesehen oder bei der zuständigen Stelle der Joint Aviation Authorties gegen Entgelt bezogen werden."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Anwendbarkeit der Schutzvorschriften bei Schwangerschaft",
+      "content": "1 Schwangere Frauen können ihre Ansprüche auf besondere Schutzmassnahmen geltend machen, sobald sie das Unternehmen von der Schwangerschaft in Kenntnis gesetzt haben. 2 Sie müssen auf Verlangen des Unternehmens das Zeugnis einer Ärztin oder eines Arztes vorlegen. Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ( AS 2009 5027 )."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Einsatz bei Mutterschaft",
+      "content": "Der Einsatz von schwangeren Frauen, Wöchnerinnen und stillenden Müttern richtet sich nach den Artikeln 35 Absatz 1 und 35 a Absätze 1–3 des Arbeitsgesetzes vom 13. März 1964. Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ( AS 2009 5027 ). SR 822.11"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Ersatzarbeit und Lohnersatz",
+      "content": "1 Schwangere Frauen und stillende Mütter, die vom Flugdienst befreit werden, haben Anspruch auf 80 Prozent des Lohnes, soweit ihnen das Luftverkehrsunternehmen keine gleichwertige Ersatzarbeit am Boden zuweisen kann. 2 Auf schwangere Frauen und stillende Mütter, welche eine Ersatzarbeit am Boden verrichten, sind anwendbar: a. das Arbeitsgesetz vom 13. März 1964; b. die Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz; c. die ArGV 3; d. die Vorschriften, die das Eidgenössische Volkswirtschaftsdepartment gestützt auf Artikel 62 Absatz 4 der Verordnung 1 zum Arbeitsgesetz erlässt. Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ( AS 2009 5027 ). SR 822.11 SR 822.111 SR 822.113"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "",
+      "content": "Für den Einsatz von Besatzungsmitgliedern mit Familienpflichten gelten: a. Artikel 36 Absatz 1 des Arbeitsgesetzes vom 13. März 1964, soweit der Flugbetrieb es zulässt; und b. Artikel 36 Absatz 3 des Arbeitsgesetzes vom 13. März 1964. Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ( AS 2009 5027 ). SR 822.11"
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "35 Feststellung der Angetrunkenheit und anderer Zustände",
+      "section": "38",
+      "title": "Angetrunkenheit und Dienstunfähigkeit",
+      "content": "Als angetrunken und dienstunfähig gilt ein Besatzungsmitglied, das folgende Alkoholkonzentration aufweist: a. eine Atemalkoholkonzentration von mehr als 0,1 mg Alkohol pro Liter Atemluft; oder b. eine Blutalkoholkonzentration von mehr als 0,2 Gewichtspromille. Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ( AS 2022 230 )."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "35 Feststellung der Angetrunkenheit und anderer Zustände",
+      "section": "39",
+      "title": "Alkoholkontrollen bei Anzeichen der Angetrunkenheit",
+      "content": "Bestehen bei einem Besatzungsmitglied Anzeichen für eine Angetrunkenheit, so ist eine Alkoholkontrolle durchzuführen. Diese richtet sich nach den Artikeln 40 Absätze 2–4, 41 und 42 Absätze 1 und 3. Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ( AS 2022 230 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "35 Feststellung der Angetrunkenheit und anderer Zustände",
+      "section": "40",
+      "title": "Durchführung der anlasslosen Atemalkoholprobe",
+      "content": "1 Die Durchführung der anlasslosen Atemalkoholprobe richtet sich: a. nach der Verordnung (EU) 2018/1042; b. ergänzend nach der vorliegenden Verordnung. 2 Die erste Atemalkoholprobe wird mit einem Atemalkoholtestgerät durchgeführt. 3 Liegt das Resultat der ersten Atemalkoholprobe über dem Grenzwert nach Artikel 38 Buchstabe a, so ist frühestens 15 und spätestens 30 Minuten nach Beendigung der ersten Atemalkoholprobe eine zweite Probe mit einem Atemalkoholmessgerät durchzuführen. Dem Besatzungsmitglied ist es während der Wartezeit untersagt, zu essen, zu trinken oder sonst etwas zu sich zu nehmen. 4 Die Atemalkoholtest- und -messgeräte müssen die Anforderungen der Messmittelverordnung vom 15. Februar 2006 (MessMV) und der entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements erfüllen. Die Durchführung der Atemalkoholprobe richtet sich sinngemäss nach der Strassenverkehrskontrollverordnung vom 28. März 2007 (SKV) und den entsprechenden Ausführungsvorschriften des Bundesamts für Strassen (ASTRA). Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ( AS 2022 230 ). Verordnung (EU) 2018/1042 der Kommission vom 23. Juli 2018 zur Änderung der Verordnung (EU) Nr. 965/2012 in Bezug auf die technischen Anforderungen und Verwaltungsverfahren für die Einführung von Unterstützungsprogrammen, einer psychologischen Beurteilung der Flugbesatzung sowie von systematischen und stichprobenartigen Tests, bei denen die Flugbesatzung und Flugbegleiter zur Gewährleistung ihrer flugmedizinischen Tauglichkeit auf psychoaktive Substanzen getestet werden, sowie in Bezug auf die Ausrüstung neu gebauter turbinengetriebener Flugzeuge mit einer höchstzulässigen Startmasse von höchstens 5 700 kg und einer genehmigten Anzahl von sechs bis neun Fluggastsitzen mit einem Geländewarnsystem, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ( SR 0.748.127.192.68 ) jeweils verbindlichen Fassung. SR 941.210 SR 741.013"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Vorläufige Dienstunfähigkeit",
+      "content": "Liegt das Resultat der ersten Atemalkoholprobe mit dem Atemalkoholtestgerät über dem Grenzwert nach Artikel 38, oder muss gemäss Artikel 42 Absatz 1 Buchstaben a und c eine Blutprobe angeordnet werden, so gilt das Besatzungsmitglied als vorläufig dienstunfähig. Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ( AS 2022 230 )."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Anordnung und Durchführung eine Blutprobe",
+      "content": "1 Eine Blutprobe ist anzuordnen, wenn: a. eine erste Atemalkoholprobe mit einem Atemalkoholtestgerät ein Resultat über dem Grenzwert gemäss Artikel 38 ergibt und dieses nicht mittels einer zweiten Atemalkoholprobe mit einem Atemalkoholmessgerät bestätigt werden kann; b. die Atemalkoholprobe verweigert oder vereitelt wird, oder das Besatzungsmitglied sich dieser entzieht; oder c. aus medizinischen Gründen keine Atemalkoholprobe durchgeführt werden kann. 2 Liegt in Fällen von Absatz 1 Buchstabe c ein entsprechendes ärztliches Attest vor, kann von einer Blutprobe abgesehen und das Besatzungsmitglied in den Dienst entlassen werden. 3 Die Durchführung der Blutprobe richtet sich sinngemäss nach den Vorgaben von Artikel 13 Absatz 3 und Artikel 14 der SKV und den entsprechenden Ausführungsvorschriften des ASTRA. Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ( AS 2022 230 ). SR 741.013"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "352 Betäubungsmittel oder psychotrope Substanzen",
+      "section": "43",
+      "title": "Untersuchungen bei Anzeichen des Einflusses von Betäubungs-mitteln oder psychotropen Substanzen",
+      "content": "Bestehen Anzeichen, dass ein Besatzungsmitglied unter dem Einfluss von Betäubungsmitteln oder psychotropen Substanzen steht, so richtet sich die Durchführung der angeordneten Untersuchungen sinngemäss nach den Artikeln 12 a , 12 b , 13 Absatz 3, 14, 15 und 17 der SKV und den entsprechenden Ausführungsvorschriften des ASTRA. Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ( AS 2022 230 ). SR 741.013"
+    },
+    {
+      "provision_ref": "art4474",
+      "chapter": "4 …",
+      "section": "4474",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "51",
+      "section": "75",
+      "title": "Verkehrsregeln",
+      "content": "Das UVEK erlässt Verkehrsregeln für die Benutzung des schweizerischen Luftraums."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "51",
+      "section": "76",
+      "title": "Betriebsregeln",
+      "content": "1 Das UVEK erlässt Betriebsregeln, die das internationale Recht ausführen oder ergänzen. 2 Die Betriebsregeln gelten für Schweizer Halter und Flugbetriebsunternehmen im In- und Ausland. 3 Von den Betriebsregeln darf im Ausland abgewichen werden, wenn ausländisches Recht dies zwingend verlangt."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "52 Meldesystem für Ereignisse in der Luftfahrt",
+      "section": "77",
+      "title": "Grundsätze",
+      "content": "1 Das Meldesystem nach den Artikeln 77–77 e dient der Verbesserung der Sicherheit in der Luftfahrt. Es richtet sich nach der Verordnung (EU) Nr. 376/2014. 2 Andere im Bundesrecht vorgesehene Meldepflichten bleiben unberührt. 3 Die Verordnung (EU) Nr. 376/2014 ist auch auf Luftfahrzeuge anwendbar, die in Anhang II der Verordnung (EG) Nr. 216/2008 aufgeführt sind. 4 Die in der Durchführungsverordnung (EU) 2015/1018 aufgeführten Ereignisse müssen gemeldet werden. Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ( AS 2016 739 ). Verordnung (EU) Nr. 376/2014 des Europäischen Parlaments und des Rates vom 3. April 2014 über die Meldung, Analyse und Weiterverfolgung von Ereignissen in der Zivilluftfahrt, zur Änderung der Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2003/42/EG des Europäischen Parlaments und des Rates und der Verordnungen (EG) Nr. 1321/2007 und (EG) Nr. 1330/2007 der Kommission, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen (siehe Fussnote zu Art. 13). Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen (siehe Fussnote zu Art. 13). Durchführungsverordnung (EU) 2015/1018 der Kommission vom 29. Juni 2015 zur Festlegung einer Liste zur Einstufung von Ereignissen in der Zivilluftfahrt, die gemäss der Verordnung (EU) Nr. 376/2014 des Europäischen Parlaments und des Rates meldepflichtig sind, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen (siehe Fussnote zu Art. 13)."
+    },
+    {
+      "provision_ref": "art77a77c",
+      "chapter": "52 Meldesystem für Ereignisse in der Luftfahrt",
+      "section": "77a77c",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 9. März 2007 ( AS 2007 917 ). Aufgehoben durch Ziff. I der V vom 17. Febr. 2016, mit Wirkung seit 1. April 2016 ( AS 2016 739 )."
+    },
+    {
+      "provision_ref": "art77d",
+      "chapter": "52 Meldesystem für Ereignisse in der Luftfahrt",
+      "section": "77d",
+      "title": "d Meldestelle",
+      "content": "1 Das BAZL bestimmt eine interne Meldestelle, welche die ihr übermittelten meldepflichtigen Ereignisse sowie freiwilligen Meldungen erfasst und auswertet. 2 Die Meldestelle ist organisatorisch unabhängig von den mit der Aufsichtstätigkeit betrauten Einheiten des BAZL. 3 Sie behandelt Ereignismeldungen vertraulich. 4 Angehörige der Meldestelle, die mit der Erfassung und Auswertung von Ereignismeldungen betraut sind, sind im Rahmen dieser Tätigkeiten von ihrer Anzeige- und Verfolgungspflicht entbunden. Eingefügt durch Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ( AS 2007 917 )."
+    },
+    {
+      "provision_ref": "art77e",
+      "section": "77e",
+      "title": "e Streitigkeiten betreffend den Schutz der Informationsquelle",
+      "content": "Das UVEK ist die nach Artikel 16 Absatz 12 der Verordnung (EU) Nr. 376/2014 zuständige Stelle. Eingefügt durch Ziff. I der V vom 9. März 2007 ( AS 2007 917 ). Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ( AS 2016 739 ). Siehe Fussnote zu Art. 77 Abs. 1."
+    },
+    {
+      "provision_ref": "art77f77g",
+      "section": "77f77g",
+      "title": "",
+      "content": "Eingefügt durch Ziff. I der V vom 9. März 2007 ( AS 2007 917 ). Aufgehoben durch Ziff. I der V vom 17. Febr. 2016, mit Wirkung seit 1. April 2016 ( AS 2016 739 )."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 9. März 2007, mit Wirkung seit 1. April 2007 (AS 2007 917).Aufgehoben durch Ziff. I der V vom 27. Jan. 1988 (AS 1988 534)."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "53 …",
+      "section": "79",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 27. Jan. 1988, mit Wirkung seit 1. April 1988 (AS 1988 534).Aufgehoben durch Ziff. I der V vom 27. Jan. 1988 (AS 1988 534)."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "54 Luftaufnahmen",
+      "section": "80",
+      "title": "",
+      "content": "Aufnahmen aus der Luft und die Verbreitung solcher Aufnahmen sind unter Vorbehalt der Gesetzgebung über den Schutz militärischer Anlagen erlaubt."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "55 Abwurf von Gegenständen",
+      "section": "81",
+      "title": "",
+      "content": "Der Abwurf von Gegenständen aus Luftfahrzeugen während des Fluges ist unter Vorbehalt der vom UVEK bestimmten Ausnahmen verboten."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "56 Werbung",
+      "section": "82",
+      "title": "an Luftfahrzeugen",
+      "content": "1 Die Werbung mit Aufschriften und bildlichen Darstellungen an Luftfahrzeugen ist unter Vorbehalt der Bestimmungen der übrigen Bundesgesetzgebung gestattet. 2 Die Hoheits- und Eintragungszeichen müssen in jedem Fall deutlich erkennbar bleiben. 3 … Fassung gemäss Ziff. I der V vom 27. Jan. 1988, in Kraft seit 1. April 1988 ( AS 1988 534 ). Aufgehoben durch Ziff. I der V vom 27. Jan. 1988, mit Wirkung seit 1. April 1988 ( AS 1988 534 )."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "56 Werbung",
+      "section": "83",
+      "title": "mit Luftfahrzeugen",
+      "content": "Jede andere Werbung mit Luftfahrzeugen, namentlich durch Abwurf von Flugblättern, Himmelsschrift, Verwendung von Lautsprechern, Schleppen von Werbebändern ist untersagt."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "57 Akrobatische Vorführungen an Luftfahrzeugen",
+      "section": "84",
+      "title": "",
+      "content": "Akrobatische Vorführungen an Luftfahrzeugen bedürfen einer Bewilligung des BAZL. Mit der Bewilligung werden die erforderlichen Auflagen verbunden."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "58 Öffentliche Flugveranstaltungen",
+      "section": "85",
+      "title": "Begriff",
+      "content": "Öffentliche Flugveranstaltungen sind Veranstaltungen mit Luftfahrzeugen, zu deren Besuch öffentlich eingeladen wird, namentlich Vorführungen und Wettbewerbe sowie Passagierflüge ausserhalb von Flugplätzen."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "58 Öffentliche Flugveranstaltungen",
+      "section": "86",
+      "title": "Bewilligungspflicht",
+      "content": "1 Öffentliche Flugveranstaltungen bedürfen unter Vorbehalt von Absatz 2 einer Bewilligung des BAZL. Vor einer Bewilligung grosser Veranstaltungen ist das Bundesamt für Umwelt anzuhören. 2 Keiner Bewilligung bedürfen öffentliche Flugveranstaltungen: a. auf Flugplätzen, wenn lediglich Passagierflüge und fliegerische Wettbewerbe unter den Mitgliedern einer ortsansässigen Organisation unter Einschluss einzelner Gäste, vorgesehen sind; b. ausserhalb von Flugplätzen, wenn höchstens zwanzig Freiballone beteiligt sind; c. ausserhalb von Flugplätzen, wenn nicht mehr als zwei Hubschrauber beteiligt sind, unter Vorbehalt der Zustimmung durch die Gemeindebehörden: d. … Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) angepasst. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 ). Aufgehoben durch Ziff. I der V vom 25. Aug. 1976, mit Wirkung seit 1. Jan. 1977 ( AS 1976 1921 )."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "58 Öffentliche Flugveranstaltungen",
+      "section": "87",
+      "title": "Gesuch",
+      "content": "1 Das Gesuch um Bewilligung einer öffentlichen Flugveranstaltung ist dem BAZL spätestens sechs Wochen vor der Durchführung einzureichen. 2 Es muss folgende Angaben enthalten: a. Ort und Zeitpunkt; b. Veranstalter; c. verantwortlicher Leiter; d. Organisationsplan und vorgesehene Luftfahrzeuge; e. Programm; f. Übersicht der für die Veranstaltung getroffenen Anordnungen, insbesondere für die Sicherheit der Zuschauer, den Verkehr am Boden und in der Luft sowie den Sanitätsdienst. 3 Für Veranstaltungen auf Flugplätzen ist die Zustimmung des Flugplatzhalters beizubringen, für Veranstaltungen auf einem anderen Gelände die Zustimmung der Grundeigentümer sowie die Erklärung der zuständigen kantonalen Behörde, dass sie gegen die Veranstaltung keine Einwendung erhebt. 4 Dem Gesuch um Bewilligung einer öffentlichen Flugveranstaltung ausserhalb eines Flugplatzes sind beizulegen: a. Kartenausschnitt 1:25 000, auf dem das vorgesehene Gelände eingezeichnet ist; b. Skizze des Geländes 1:5000, aus dem auch die umliegenden Luftfahrthindernisse ersichtlich sind. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 )."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "58 Öffentliche Flugveranstaltungen",
+      "section": "88",
+      "title": "Prüfung",
+      "content": "Das BAZL prüft die Unterlagen und begutachtet insbesondere das für die Benützung vorgesehene Gelände."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Bewilligung",
+      "content": "1 Das BAZL, erteilt die Bewilligung, wenn der Veranstalter die zusätzliche Sicherstellung der Haftpflichtansprüche von Dritten auf der Erde nach den Bestimmungen des Artikels 133 nachgewiesen hat und die übrigen Voraussetzungen erfüllt sind. 1bis Veranstaltungen, in deren Rahmen mit Luftfahrzeugen mit motorischem Antrieb Aussenlandungen oberhalb von 1100 m über Meer und ausserhalb von Gebirgslandeplätzen durchgeführt werden, bewilligt das BAZL nur, wenn sie ein bedeutendes Jubiläum im Gebirgsflug zum Anlass haben. 1ter Veranstaltungen, in deren Rahmen mit Luftfahrzeugen mit motorischem Antrieb Aussenlandungen auf öffentlichen Gewässern durchgeführt werden, bewilligt das BAZL nur, wenn die zuständige kantonale Behörde die Einhaltung der gewässerschutz-, fischerei-, umwelt- und naturschutzrechtlichen Vorgaben geprüft und bejaht hat und keine Einwände aufgrund weiterer öffentlicher Interessen erhebt. 2 Es setzt die aus Sicherheits- und Lärmgründen nötigen Bedingungen und Auflagen fest. Eingefügt durch Anhang Ziff. 3 der Aussenlandeverordnung vom 14. Mai 2014, in Kraft seit 1. Sept. 2014 ( AS 2014 1339 ). Eingefügt durch Anhang Ziff. 3 der Aussenlandeverordnung vom 14. Mai 2014, in Kraft seit 1. Sept. 2014 ( AS 2014 1339 )."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Leitung",
+      "content": "1 Dem verantwortlichen Leiter der Veranstaltung obliegt, neben der Leitung des Flugbetriebes, insbesondere: a. die Ausweise des teilnehmenden Flugpersonals und die Zeugnisse der verwendeten Luftfahrzeuge zu prüfen; b. das für die Regelung des Flugdienstes verantwortliche Personal über die Flugdienstordnung und die getroffenen Sicherheitsmassnahmen zu unterrichten; c. zu prüfen, ob die verwendeten Luftfahrzeuge in der Bewilligung der Flugveranstaltung aufgeführt sind; d. darüber zu wachen, dass das genehmigte Programm eingehalten wird. 2 Auf Flugplätzen stehen diese Pflichten und Befugnisse dem Flugplatzleiter zu. Dieser kann sie unter seiner Aufsicht auf den Leiter der Veranstaltung übertragen."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Überwachung",
+      "content": "Das BAZL kann die Veranstaltung durch einen Sachverständigen überwachen lassen. Dessen Aufgaben werden von Fall zu Fall festgelegt."
+    },
+    {
+      "provision_ref": "art9298",
+      "chapter": "59 …",
+      "section": "9298",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "510 Rückzug von Bewilligungen",
+      "section": "99",
+      "title": "",
+      "content": "Bewilligungen können zurückgezogen oder eingeschränkt werden, wenn die bei der Erteilung massgebenden Voraussetzungen nicht mehr bestehen."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "61 Betriebsbewilligung",
+      "section": "100",
+      "title": "Gewerbsmässigkeit",
+      "content": "1 Flüge gelten als gewerbsmässig, wenn: a. für sie in irgendeiner Form ein Entgelt entrichtet wird, das mehr als die Kosten für Luftfahrzeugmiete, Treibstoff sowie Flugplatz- und Flugsicherungsgebühren decken soll; und b. sie einem nicht bestimmten Kreis von Personen zugänglich sind. 2 Bei allen Flügen von Unternehmen, die über eine Betriebsbewilligung verfügen, wird die Gewerbsmässigkeit vermutet. Die zoll- und steuerrechtliche Beurteilung eines Sachverhalts bleibt vorbehalten. 3 Bei nicht gewerbsmässigen Flügen, für die ein Entgelt entrichtet wird, sind die Passagiere vor dem Abflug auf den privaten Charakter des Fluges und auf die damit verbundenen Folgen hinsichtlich des Versicherungsschutzes hinzuweisen."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "61 Betriebsbewilligung",
+      "section": "101",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I 1 der V vom 4. März 2011, mit Wirkung seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "61 Betriebsbewilligung",
+      "section": "102",
+      "title": "Entzug der Betriebsbewilligung",
+      "content": "Das BAZL kann die Betriebsbewilligung entziehen, wenn: a. die Voraussetzungen für ihre Erteilung nicht mehr erfüllt sind; b. Vorschriften wiederholt oder in grober Weise verletzt werden; oder c. Auflagen nicht erfüllt werden."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "61 Betriebsbewilligung",
+      "section": "103",
+      "title": "Allgemeine Voraussetzungen für eine Betriebsbewilligung",
+      "content": "1 Einem Unternehmen mit Sitz in der Schweiz wird eine Betriebsbewilligung für die gewerbsmässige Beförderung von Personen oder Gütern (Art. 27 LFG) erteilt, wenn: a. das Unternehmen in der Schweiz im Handelsregister eingetragen ist mit dem Zweck, gewerbsmässigen Luftverkehr zu betreiben; b. das Unternehmen sich unter tatsächlicher Kontrolle und mehrheitlich im Eigentum von Schweizer Bürgern befindet; vorbehalten bleibt der Fall, in dem Ausländer oder ausländische Gesellschaften auf Grund zwischenstaatlicher Vereinbarungen Schweizer Bürgern oder schweizerischen Gesellschaften gleichgestellt sind; c. im Fall einer Aktiengesellschaft zudem mehr als die Hälfte des Aktienkapitals aus Namenaktien besteht und sich dieses mehrheitlich im Eigentum von Schweizer Bürgern oder schweizerisch beherrschten Handelsgesellschaften oder Genossenschaften befindet; vorbehalten bleibt der Fall, in dem Ausländer oder ausländische Gesellschaften aufgrund zwischenstaatlicher Vereinbarungen Schweizer Bürgern oder schweizerischen Gesellschaften gleichgestellt sind; d. ein Luftverkehrsbetreiberzeugnis vorliegt, das insbesondere die Flugbetriebs- und Unterhaltsorganisation regelt; e. die Luftfahrzeuge, die das Unternehmen betreibt, die Mindestanforderungen für die vorgesehenen Dienste erfüllen und im schweizerischen Luftfahrzeugregister eingetragen sind; im Einvernehmen mit der Oberzolldirektion können die Luftfahrzeuge im Luftfahrzeugregister eines Staates eingetragen sein, mit dem diese Möglichkeit in einer zwischenstaatlichen Vereinbarung vorgesehen wurde; f. das Unternehmen Halter von mindestens einem Luftfahrzeug ist, das es als Eigentümer oder auf Grund eines Leasingvertrages betreibt, der dem Unternehmen die freie Benützung des Luftfahrzeugs während mindestens sechs Monaten garantiert; g. dem Unternehmen eigene Flugbesatzungen mit den erforderlichen Ausweisen zur Verfügung stehen; h. …; i. das Unternehmen glaubhaft machen kann, dass es seinen Verpflichtungen während eines Zeitraums von 24 Monaten nach Aufnahme der Tätigkeit jederzeit nachkommen kann und dass es für die fixen und variablen Kosten gemäss seinem Wirtschaftsplan während drei Monaten nach Aufnahme der Tätigkeit ohne Berücksichtigung von Betriebseinnahmen aufkommen kann; die Festlegung der Verpflichtungen und die Ermittlung der Kosten haben von realistischen Annahmen auszugehen. 2 Ein Unternehmen, das über eine Betriebsbewilligung verfügt, oder eine Beteiligungsgesellschaft, die direkt oder indirekt eine Mehrheitsbeteiligung an einem Unternehmen hält, hat zur Sicherung einer schweizerischen Mehrheit an seinem Gesellschaftskapital ein Kaufrecht an börsenkotierten Kapitalanteilen, die von Ausländern erworben worden sind. Das Kaufrecht darf bis zehn Tage nach Anmeldung des Erwerbs beim Unternehmer ausgeübt werden, wenn der im Aktienregister eingetragene ausländische Anteil am Gesellschaftskapital 40 Prozent des gesamten Gesellschaftskapitals erreicht hat oder wenn der im Aktienregister eingetragene ausländische Anteil am Gesellschaftskapital den eingetragenen schweizerischen Anteil überstiegen hat. Der Übernahmepreis entspricht dem Börsenkurs im Zeitpunkt der Kaufrechtsausübung. Das Unternehmen veröffentlicht regelmässig den ausländischen Anteil am Gesellschaftskapital. Vorbehalten bleibt der Fall, in dem Ausländer oder ausländische Gesellschaften auf Grund zwischenstaatlicher Vereinbarungen Schweizer Bürgern oder schweizerischen Gesellschaften gleichgestellt sind. 3 In begründeten Fällen kann das BAZL, im Einvernehmen mit der Oberzolldirektion, auf bestimmte Zeit die Verwendung einzelner Luftfahrzeuge bewilligen, die im Luftfahrzeugregister eines Staates eingetragen sind, mit dem diese Möglichkeit nicht in einer zwischenstaatlichen Vereinbarung vorgesehen wurde. 4 Das BAZL kann in begründeten Fällen Ausnahmen von den Voraussetzungen nach Absatz 1 Buchstaben a, b und c gewähren. Es kann die Übertragung einzelner Betriebsaufgaben an andere in- oder ausländische Unternehmen bewilligen. Eine Liste dieser Vereinbarungen kann beim BAZL eingesehen werden. Eine Liste dieser Vereinbarungen kann beim BAZL eingesehen werden. Eine Liste dieser Vereinbarungen kann beim BAZL eingesehen werden. Aufgehoben durch Ziff. I 1 der V vom 4. März 2011, mit Wirkung seit 1. April 2011 ( AS 2011 1139 ). Eine Liste dieser Vereinbarungen kann beim BAZL eingesehen werden. Eine Liste dieser Vereinbarungen kann beim BAZL eingesehen werden. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art103a",
+      "section": "103a",
+      "title": "a Sicherheitsmanagementsystem",
+      "content": "1 Folgende Unternehmen mit Sitz in der Schweiz müssen ein Sicherheitsmanagementsystem einrichten und unterhalten: a. Halter von Flugzeugen und Hubschraubern, die gewerbsmässige Flüge durchführen; b. Instandhaltungsbetriebe für Flugzeuge und Hubschrauber. 2 Für das Sicherheitsmanagementsystem sind unmittelbar anwendbar die folgenden Normen der Internationalen Zivilluftfahrt-Organisation (ICAO) in Anhang 19 zum Chicago-Übereinkommen: a. Teil I Ziffern 3.3 und 8.7.3; b. Teil III Sektion II Ziffern 1.3 und 6.1.2. 3 Vorbehalten bleiben die nach Artikel 38 des Chicago-Übereinkommens von der Schweiz gemeldeten Abweichungen. 4 Das UVEK kann Empfehlungen des Anhangs 6 des Chicago-Übereinkommens für verbindlich erklären. 5 Das BAZL kann zur Umsetzung der Normen und Empfehlungen der ICAO zusätzliche Weisungen erlassen. 6 Anhang 6 des Chicago-Übereinkommens wird in der Amtlichen Sammlung nicht veröffentlicht. Er kann beim BAZL in französischer und englischer Sprache eingesehen werden. Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 6005 ). SR 0.748.0 . Der Text dieses Anhanges wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt unter www.bazl.admin.ch > Für Fachleute > Regulation und Grundlagen kostenlos abgerufen oder bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; www.icao.int) kostenpflichtig bezogen werden. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 ). Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 ). Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 ). Diese Dokumente können überdies beim Buchhandel oder bei der ICAO (www.icao.int) bestellt oder abonniert werden."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Ballone, Segelflugzeuge und Luftfahrzeuge besonderer Kategorien",
+      "content": "1 Ballonfahrtunternehmen müssen die Voraussetzungen nach Artikel 27 Absatz 2 Buchstabe b des Luftfahrtgesetzes und diejenigen nach Artikel 103 Absatz 1 Buchstaben a, e und g erfüllen. In begründeten Fällen kann das BAZL Ausnahmen zu den Voraussetzungen nach Artikel 103 Absatz 1 Buchstabe a gewähren. 2 Für Unternehmen, die Segelflugzeuge und Luftfahrzeuge besonderer Kategorien betreiben, ist keine Betriebsbewilligung erforderlich."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Einzelbewilligung",
+      "content": "Für eine kurze Zeit oder eine geringe Anzahl von Flügen kann eine Betriebsbewilligung als Einzelbewilligung erteilt werden, wenn der Betreiber einen vergleichbaren und der Operation angemessenen Sicherheitsstandard nachweisen kann. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Haftungssumme und Versicherungspflicht",
+      "content": "1 Eine Betriebsbewilligung wird einem Gesuchsteller nur erteilt, wenn er: a. über die folgenden Sicherstellungen verfügt: 1. für Haftpflichtansprüche im Falle von Tod oder Körperverletzung: über eine minimale Sicherstellung von 250 000 Sonderziehungsrechten gemäss der Definition des Internationalen Währungsfonds je Reisenden, 2. für Haftpflichtansprüche im Falle von Beschädigung von Reisegepäck: über eine minimale Sicherstellung von 1131 Sonderziehungsrechten je Reisenden, 3. für Haftpflichtansprüche im Falle von Beschädigung von Gütern: über eine minimale Sicherstellung von 19 Sonderziehungsrechten je Kilogramm; und b. nachweist, dass er gegen die Folgen seiner Haftpflicht bis zu den Beträgen nach Buchstabe a versichert ist. 2 In den Versicherungsvertrag ist folgende Bestimmung aufzunehmen: Endigt der Vertrag vor dem im Nachweis über die Sicherstellung angegebenen Zeitpunkt, so verpflichtet sich die Versicherungsunternehmung, gleichwohl Ersatzansprüche bis zum Entzug der Bewilligung nach den Bestimmungen des Vertrages zu decken, längstens aber während 15 Tagen, nachdem das BAZL vom Ende des Vertrags benachrichtigt worden ist. Als Zeitpunkt des Entzugs gilt der Tag, an dem die Entzugsverfügung rechtskräftig wird. Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ( AS 2016 739 ). Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ( AS 2016 739 ). Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Auskunfts- und Meldepflicht",
+      "content": "1 Unternehmen mit einer Betriebsbewilligung haben dem BAZL auf Verlangen jederzeit Einblick in ihre Betriebsführung und Geschäftsunterlagen zu gewähren und die für die Erstellung der Luftverkehrsstatistik erforderlichen Angaben zu liefern. 2 … 3 Beabsichtigen Unternehmen, Kontinente oder Gebiete, die sie bisher nicht angeflogen haben, zu bedienen, so melden sie dem BAZL im Voraus ihre Pläne. Zudem melden sie ihm im Voraus alle beabsichtigten Zusammenschlüsse oder Übernahmen sowie innert 14 Tagen jede Änderung des Eigentums an Einzelbeteiligungen, die zehn Prozent oder mehr des gesamten Beteiligungskapitals des Unternehmens oder seiner Mutter- oder Dachgesellschaft ausmachen. Aufgehoben durch Ziff. I der V vom 17. Febr. 2016, mit Wirkung seit 1. April 2016 ( AS 2016 739 )."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Allgemeine Voraussetzungen für eine Betriebsbewilligung",
+      "content": "1 Einem Unternehmen mit Sitz im Ausland wird eine Betriebsbewilligung für die gewerbsmässige Beförderung von Personen oder Gütern (Art. 29 LFG) erteilt, wenn: a. es in seinem Heimatstaat zur gewerbsmässigen Beförderung von Personen oder Gütern im internationalen Luftverkehr zugelassen ist; b. es die Behörden seines Heimatstaats in technischer und betrieblicher Hinsicht wirksam beaufsichtigen; c. durch die Erteilung der Betriebsbewilligung keine wesentlichen schweizerischen Interessen beeinträchtigt werden; d. schweizerischen Unternehmen von seinem Heimatstaat die Beförderung von Personen oder Gütern in gleichwertiger Weise erlaubt wird; e. die Haftpflichtansprüche von Dritten auf der Erde (Art. 125) sichergestellt sind; und f. es nachweist, dass seine Sicherstellung der Haftpflichtansprüche mindestens den in Artikel 106 Absatz 1 Buchstaben a–c geforderten Beträgen entspricht. 2 Besteht kein offensichtlicher Grund zur Annahme, dass die Voraussetzungen von Absatz 1 Buchstaben a und b nicht erfüllt sind, so kann auf eine Prüfung der technischen und betrieblichen Grundlagen des Unternehmens verzichtet werden. Eine entsprechende Überprüfung kann aber jederzeit angeordnet werden. 3 In begründeten Fällen kann vom Erfordernis nach Absatz 1 Buchstabe d abgesehen werden. Fassung gemäss Anhang Ziff. II der V vom 17. Aug. 2005 über den Lufttransport, in Kraft seit 5. Sept. 2005 ( AS 2005 4243 )."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Auskunfts- und Meldepflicht",
+      "content": "Der Inhaber der Betriebsbewilligung ist verpflichtet, dem BAZL ohne Verzug zu melden: a. alle Flugprogramme und -pläne für Flüge von und nach der Schweiz; b. alle Ereignisse im Sinne von Artikel 77 a , die sich im Zusammenhang mit Flügen von und nach der Schweiz ereignen; und c. die für die Erstellung der Luftverkehrsstatistik erforderlichen Angaben. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "62 Streckenkonzession",
+      "section": "110",
+      "title": "Linienverkehr",
+      "content": "1 Als Linienverkehr gelten Flüge zur gewerbsmässigen Beförderung von Personen oder Gütern, wenn: a. sie während einer Mindestdauer so regelmässig oder häufig erfolgen, dass es sich erkennbar um eine systematische Folge von Flügen handelt; und b. im Personenverkehr in der Öffentlichkeit Sitzplätze zum Einzelkauf angeboten werden. 2 Das UVEK erlässt Ausführungsvorschriften; es berücksichtigt dabei die Entwicklungen im internationalen Luftverkehr."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "62 Streckenkonzession",
+      "section": "111",
+      "title": "Konzessionspflichten",
+      "content": "1 Das konzessionierte Unternehmen ist verpflichtet, Flugpläne und Tarife festzulegen und dem BAZL zu unterbreiten. Es hat seine Flugpläne und Tarife der Öffentlichkeit in geeigneter Weise zugänglich zu machen. Zudem hat es sicherzustellen, dass die auf diese Weise bekannt gemachten Flugpläne und Tarife eingehalten werden. Art und Umfang der Betriebs- und Beförderungspflicht werden in der Konzession geregelt. 2 Das BAZL kann das konzessionierte Unternehmen, namentlich im Fall einer Notlage oder bei veränderten Verhältnissen, auf begründetes Gesuch hin von einzelnen oder allen auferlegten Pflichten befreien oder ihm andere Erleichterungen gewähren."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "62 Streckenkonzession",
+      "section": "112",
+      "title": "Entzug der Streckenkonzession",
+      "content": "1 Das BAZL kann eine Streckenkonzession jederzeit und ohne Entschädigung entziehen, wenn das konzessionierte Unternehmen seine Pflichten schwer oder wiederholt verletzt (Art. 93 LFG). 2 Es kann die Konzession ferner entziehen, wenn die für die Erteilung erforderlichen Voraussetzungen nicht mehr erfüllt sind."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "62 Streckenkonzession",
+      "section": "113",
+      "title": "",
+      "content": "Aufgehoben durch Art. 10 der Slotkoordinationsverordnung vom 17. Aug. 2005, mit Wirkung seit 1. Okt. 2005 ( AS 2005 4425 )."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "62 Streckenkonzession",
+      "section": "114",
+      "title": "Gesuch",
+      "content": "1 Unternehmen mit Sitz in der Schweiz, die Luftverkehrslinien betreiben wollen, unterbreiten dem BAZL ein Gesuch um Erteilung einer Streckenkonzession mit den folgenden Angaben und Unterlagen: a. Linien- und Flugplan; b. Tarife und Beförderungsbedingungen; c. Angaben zum Zeitpunkt der Betriebsaufnahme; d. Angaben über das zum Einsatz vorgesehene Flugmaterial; e. Verträge über die Zusammenarbeit mit anderen Fluggesellschaften; f. Angaben über die Wirtschaftlichkeit der beantragten Linie. 2 Das BAZL informiert vor dem Entscheid über ein Konzessionsgesuch die übrigen Unternehmen mit Sitz in der Schweiz, die ebenfalls in der Lage wären, den Betrieb der gleichen Luftverkehrslinie sicherzustellen. 3 Die übrigen Unternehmen können innert 14 Tagen seit der Mitteilung durch das BAZL ihr Interesse am Betrieb der Luftverkehrslinie anmelden. Sie haben vom Zeitpunkt der Mitteilung an 45 Tage Zeit, um ein entsprechendes Konzessionsgesuch einzureichen. 4 Das BAZL hört vor dem Entscheid über ein Konzessionsgesuch für innerschweizerische Luftverkehrslinien die Regierungen der betroffenen Kantone, die betroffenen Flugplätze und die interessierten öffentlichen Transportunternehmen an. 5 Besteht gestützt auf staatsvertragliche Regelungen ein Anspruch auf Erteilung einer Streckenkonzession, so finden die Absätze 2–4 keine Anwendung. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Entscheid",
+      "content": "1 Das BAZL kann die Streckenkonzession namentlich verweigern, wenn das Verkehrsbedürfnis in anderer Weise gleichwertig befriedigt wird oder wenn die anzufliegenden Flugplätze keine Infrastruktur für Instrumentenanflugverfahren aufweisen. 2 Liegen mehrere Gesuche für die gleiche Luftverkehrslinie vor und ist die Erteilung mehrerer Konzessionen in begründeten Fällen nicht möglich, so berücksichtigt das BAZL bei seinem Entscheid insbesondere folgende Kriterien: a. die Fähigkeit des Unternehmens, den Betrieb der Linie während mindestens zwei Flugplanperioden sicherzustellen; b. die der Öffentlichkeit in Aussicht gestellte Dienstleistung (Produktqualität, Preise, Fluggerät, Kapazität usw.); c. die Auswirkungen auf den Wettbewerb in den vorgesehenen Bedienungsmärkten; d. die Bedienung der schweizerischen Flughäfen; e. die ökonomisch sinnvolle Nutzung bestehender Verkehrsrechte und -kapazitäten; f. den Zeitpunkt der Verkehrsaufnahme; g. die Erfüllung ökologischer Bedingungen (lärm- und schadstoffarme Luftfahrzeuge); h. die vom konzessionierten Unternehmen bisher erbrachten Leistungen zum Aufbau des Marktes der betreffenden Luftverkehrslinie. 3 Das BAZL kann die interessierten Unternehmen zu einer Anhörung einladen."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Dauer der Streckenkonzession",
+      "content": "1 Die Konzession wird für höchstens acht Jahre erteilt. 2 Sie kann auf Gesuch hin erneuert werden. 3 Die Entscheidung über eine Erneuerung wird spätestens 6 Monate vor Ablauf der Konzession gefällt. Im Übrigen findet Artikel 115 Anwendung. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Änderung und Übertragung von Rechten und Pflichten aus Konzessionen",
+      "content": "1 Das BAZL kann Rechte und Pflichten aus bestehenden Konzessionen ändern oder übertragen. 2 Es kann insbesondere einem konzessionierten Unternehmen erlauben, bestimmte Flüge durch andere schweizerische oder durch ausländische Luftverkehrsunternehmen durchführen zu lassen, wenn namentlich: a. der sichere Betrieb gewährleistet ist; b. klargestellt ist, welche Behörde die Aufsicht innehat; und c. die Öffentlichkeit über die Übertragung informiert wird. 3 Das BAZL kann die Übertragung einzelner Betriebsaufgaben an andere in- oder ausländische Unternehmen bewilligen."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Übertragung ungenutzter Streckenkonzessionen an Mitbewerber",
+      "content": "1 Übt ein Unternehmen die in der Streckenkonzession gewährten Verkehrsrechte nicht aus, so kann jedes andere Unternehmen beim BAZL ein Gesuch um Übertragung der Konzession einreichen. 2 Liegt ein solches Gesuch vor, so setzt das BAZL dem konzessionierten Unternehmen eine Frist von höchstens drei Monaten, innert der es den Betrieb der Luftverkehrslinie aufnehmen muss. Das BAZL kann die Frist in begründeten Fällen erstrecken. 3 Nimmt das konzessionierte Unternehmen den Betrieb innert der Frist nicht auf und erfüllt das andere die Konzessionsvoraussetzungen, so überträgt das BAZL die Streckenkonzession. 4 Die Artikel 114 und 115 sind anwendbar. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art118a",
+      "section": "118a",
+      "title": "a Heimfall unbenutzter Streckenkonzessionen",
+      "content": "Bedient ein konzessioniertes Unternehmen eine Luftverkehrslinie während 12 Monaten nicht, so fällt die Streckenkonzession dahin. Eingefügt durch Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Gesuch",
+      "content": "Unternehmen mit Sitz im Ausland, die Luftverkehrslinien betreiben wollen, unterbreiten dem BAZL ein Gesuch mit folgenden Angaben und Unterlagen: a. den Linien- und Flugplan; b. die Tarife; c. Angaben zum Zeitpunkt der Betriebsaufnahme; d. Angaben über das zum Einsatz vorgesehene Flugmaterial; e. Angaben zum Rechtsdomizil in der Schweiz."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Verfahren",
+      "content": "1 Die Konzessionierung eines ausländischen Unternehmens richtet sich nach der jeweils geltenden zwischenstaatlichen Vereinbarung. 2 Besteht keine zwischenstaatliche Vereinbarung oder sind in einer solchen bestimmte Verkehrsrechte nicht geregelt, so kann das BAZL einem ausländischen Unternehmen eine Streckenkonzession für eine einzelne Linie erteilen, wenn das Unternehmen auch von seinem Heimatstaat die notwendigen Verkehrsrechte besitzt. 3 Das BAZL achtet bei der Erteilung der Konzession insbesondere darauf, dass der Heimatstaat des Unternehmens Gegenrecht gewährt."
+    },
+    {
+      "provision_ref": "art122a",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "122a",
+      "title": "a Sicherheitsmassnahmen auf Flugplätzen",
+      "content": "1 Der Halter eines Flugplatzes mit internationalem gewerbsmässigem Luftverkehr legt in einem Sicherheitsprogramm die Sicherheitsmassnahmen fest, die er je nach Bedrohungslage zur Verhütung von Angriffen auf die Sicherheit der zivilen Luftfahrt ergreifen wird. 2 Das Sicherheitsprogramm bedarf der Genehmigung durch das BAZL. 3 Als Sicherheitsmassnahmen kommen insbesondere in Betracht: a. die auf Aspekte der Sicherheit ausgerichtete Kontrolle der Fluggäste, des nicht aufgegebenen Handgepäcks, des aufgegebenen Gepäcks, der Fracht, der Post und der Luftfahrzeuge; b. andere Massnahmen, die sicherstellen sollen, dass keine verbotenen Gegenstände, welche zu widerrechtlichen Handlungen gegen die Sicherheit der zivilen Luftfahrt verwendet werden können, an Bord von Luftfahrzeugen gelangen. 4 Das UVEK ordnet die Sicherheitsmassnahmen an. Zuvor hört es die zuständige Kantonspolizei, den betroffenen Flugplatzhalter und die betroffenen Luftverkehrsunternehmen an. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5625 )."
+    },
+    {
+      "provision_ref": "art122b",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "122b",
+      "title": "b Sicherheitsmassnahmen der Luftverkehrsunternehmen",
+      "content": "1 Das Luftverkehrsunternehmen, das Luftfahrzeuge im internationalen gewerbsmässigen Luftverkehr einsetzt, ist zur Sicherung des Betriebes seiner Luftfahrzeuge gemäss den vom UVEK festgelegten Anforderungen verpflichtet. Es hat seine Sicherheitsmassnahmen in einem Sicherheitsprogramm darzustellen. 2 Das Sicherheitsprogramm bedarf der Genehmigung durch das BAZL."
+    },
+    {
+      "provision_ref": "art122c",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "122c",
+      "title": "c Anwendbare Bestimmungen",
+      "content": "1 Die Sicherheitsmassnahmen richten sich nach: a. den Bestimmungen unter der Gliederungseinheit 6 a ; b. den unmittelbar anwendbaren Normen der ICAO im Anhang 17 zum Chicago-Übereinkommen ; vorbehalten sind die nach Artikel 38 dieses Übereinkommens gemeldeten Abweichungen; c. den für die Schweiz verbindlichen Bestimmungen des Rechts der Europäischen Union. 2 Zudem sind die Empfehlungen der ICAO im Anhang 17 zum Chicago- Übereinkommen vom 7. Dezember 1944 unmittelbar anwendbar. 2bis Die Sicherheitsbeauftragten treffen die notwendigen Massnahmen, wenn die Sicherheit der Passagiere, der Besatzung oder des Flugzeugs bedroht ist. Sie dürfen polizeilichen Zwang und polizeiliche Massnahmen nach dem Zwangsanwendungsgesetz vom 20. März 2008 und seinen Ausführungsbestimmungen anwenden. 3 Das BAZL erlässt die notwendigen Vorschriften, insbesondere das Nationale Sicherheitsprogramm Luftfahrt. SR 0.748.0 . Der Text dieses Anhanges wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt unter www.bazl.admin.ch > Für Fachleute > Regulation und Grundlagen kostenlos abgerufen oder bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; www.icao.int) kostenpflichtig bezogen werden. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 ). Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 ). SR 364 Eingefügt durch Anhang Ziff. 3 der Zwangsanwendungsverordnung vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ( AS 2008 5475 ). Das Nationale Sicherheitsprogramm Luftfahrt ist in englischer Sprache verfasst. Es wird nicht veröffentlicht."
+    },
+    {
+      "provision_ref": "art122d",
+      "section": "122d",
+      "title": "d Vollzug",
+      "content": "1 Das UVEK erlässt Vorschriften über: a. die Ausgestaltung der Sicherheitsmassnahmen; b. das Zusammenwirken der beteiligten Stellen; c. die Verteilung der Kosten zwischen dem BAZL, den Flugplatzhaltern und den Luftverkehrsunternehmen. 2 Das BAZL kann je nach Bedrohungslage im Einzelfall gestützt auf eine Bedrohungsanalyse des Bundesamtes für Polizei (fedpol) weitere Massnahmen anordnen und die Kostentragung festlegen; es hört dazu vorgängig die zuständige Flughafenpolizei und den betroffenen Flugplatzhalter an. 3 Vorbehalten bleiben im Einzelfall die besonderen Befugnisse der Kommandantin oder des Kommandanten einer Kantonspolizei (Art. 100 bis LFG). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5625 )."
+    },
+    {
+      "provision_ref": "art122e",
+      "chapter": "2. Abschnitt: Sicherheitsbeauftragte",
+      "section": "122e",
+      "title": "e Grundsätze",
+      "content": "1 Zur Abwehr widerrechtlicher Handlungen, welche die Sicherheit an Bord schweizerischer Luftfahrzeuge im internationalen gewerbsmässigen Luftverkehr gefährden können, werden Sicherheitsbeauftragte eingesetzt. 2 Die Sicherheitsbeauftragten können auch zu Arbeiten am Boden auf ausländischen Flugplätzen eingesetzt werden. 3 und 4 … Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ( AS 2017 5625 )."
+    },
+    {
+      "provision_ref": "art122f",
+      "chapter": "2. Abschnitt: Sicherheitsbeauftragte",
+      "section": "122f",
+      "title": "f Aufgaben und Kompetenzen",
+      "content": "1 Die Sicherheitsbeauftragten haben, soweit das zwingend anwendbare ausländische Recht es nicht ausschliesst, insbesondere folgende Aufgaben und Kompetenzen: a. An Bord überwachen sie das Verhalten der Fluggäste und verhindern widerrechtliche Handlungen, welche die Sicherheit an Bord des Flugzeugs gefährden. b. Auf ausländischen Flugplätzen können sie: 1. zur Verhinderung der Einschleusung verbotener Gegenstände, die zur Gefährdung der Zivilluftfahrt eingesetzt werden können, Fluggäste und Handgepäck durchsuchen und das kontrollierte Gepäck und die Gepäckidentifikation überwachen, 2. zuhanden der zuständigen ausländischen Stellen mögliche Gefährder bezeichnen, 3. die ausländischen Stellen bei deren Aufgaben unterstützen. c. … 2 Fedpol erstellt in Zusammenarbeit mit dem BAZL Richtlinien über die Aufgaben der Sicherheitsbeauftragten. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5625 ). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5625 ). Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ( AS 2017 5625 ). Ausdruck gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5625 ). Diese Änd. wurde im ganzen Erlass berücksichtigt."
+    },
+    {
+      "provision_ref": "art122g",
+      "chapter": "2. Abschnitt: Sicherheitsbeauftragte",
+      "section": "122g",
+      "title": "g Ausbildung",
+      "content": "1 Zum Einsatz als Sicherheitsbeauftragte oder Sicherheitsbeauftragter kann nur bestimmt werden, wer an einem spezifischen Ausbildungsprogramm teilgenommen und die Abschlussprüfung bestanden hat. 2 Fedpol: a. erstellt das Anforderungsprofil der Sicherheitsbeauftragten; b. legt das Ausbildungsprogramm fest; c. sorgt für die Weiterbildung; d. führt entsprechende Aus- und Weiterbildungskurse durch. 3 Es kann für die Kursdurchführung sowie für die Bereitstellung und den Unterhalt der Kursinfrastruktur Dritte, namentlich Luftverkehrsunternehmen und Institutionen der Polizei und der Armee, beiziehen."
+    },
+    {
+      "provision_ref": "art122h",
+      "chapter": "2. Abschnitt: Sicherheitsbeauftragte",
+      "section": "122h",
+      "title": "h Einsatz",
+      "content": "1 Fedpol ist zuständig für den Einsatz der Sicherheitsbeauftragten und die damit verbundenen administrativen Aufgaben. 2 Es legt die Einsatzdoktrin und Einsatztaktik fest. 3 Es bestimmt nach Rücksprache mit dem BAZL Ort, Zeit und Art des Einsatzes aufgrund der Risiko- und Bedrohungsanalyse. 4 Es informiert die jeweils betroffenen Luftverkehrsunternehmen und weist sie rechtzeitig an, die entsprechenden Sitzplatzreservationen vorzunehmen."
+    },
+    {
+      "provision_ref": "art122i",
+      "section": "122i",
+      "title": "i Ausrüstung der Sicherheitsbeauftragten",
+      "content": "1 Fedpol sorgt in Zusammenarbeit mit den Luftverkehrsunternehmen für die notwendige Ausrüstung der Sicherheitsbeauftragten. 2 Als Ausrüstung gelten insbesondere Uniformen, Waffen und Hilfsmittel."
+    },
+    {
+      "provision_ref": "art122j",
+      "section": "122j",
+      "title": "j Unterstellung",
+      "content": "1 Während der Ausbildung und des Einsatzes bleiben die Sicherheitsbeauftragten dienst- und disziplinarrechtlich den Vorschriften ihres jeweiligen Arbeitgebers unterstellt. 2 Bei der Erfüllung ihrer Aufgaben unterstehen sie der Weisungsbefugnis von fedpol. 3 An Bord von Luftfahrzeugen unterstehen sie der Bordgewalt des Flugkapitäns."
+    },
+    {
+      "provision_ref": "art122k",
+      "section": "122k",
+      "title": "k Risiko- und Bedrohungsanalyse",
+      "content": "Fedpol ist zuständig für die Risiko- und Bedrohungsanalyse im Zusammenhang mit dem Einsatz von Sicherheitsbeauftragten."
+    },
+    {
+      "provision_ref": "art122kbis",
+      "section": "122kbis",
+      "title": "k bis Daten der möglichen Gefährder",
+      "content": "1 Zur Beurteilung der Gefährdung des internationalen gewerbsmässigen Luftverkehrs (Art. 21 c Abs. 1 Bst. b LFG) bearbeitet fedpol im Informationssystem für den Einsatz von Sicherheitsbeauftragten: a. über jeden möglichen Gefährder die folgenden Datenkategorien: 1. gebuchte Flüge, 2. Angaben zu getätigten Zahlungen und dafür eingesetzten Zahlungsmitteln; b. weitere Daten über mögliche Gefährder, die für die Beurteilung der Gefährdung des internationalen gewerbsmässigen Luftverkehrs notwendig sind. 2 Betreffend die Identität und die öffentlich zugänglichen Kontaktdaten von möglichen Gefährdern (Art. 21 c Abs. 1 Bst. a LFG) bearbeitet fedpol im System die folgenden Daten: a. Namen einschliesslich Alias; b. Geburtsdatum; c. Geburtsort; d. Heimatort; e. Staatsangehörigkeit; f. Geschlecht; g. Zivilstand; h. öffentlich zugängliche Kontaktangaben wie Postadresse, E-Mail-Adresse, Telefonnummern; i. Angaben zu Reisedokumenten wie Nummer, Ausstellungsstaat, Visa. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5625 )."
+    },
+    {
+      "provision_ref": "art122kter",
+      "section": "122kter",
+      "title": "k ter Daten der Sicherheitsbeauftragten",
+      "content": "Fedpol bearbeitet im Informationssystem die folgenden Daten der einsetzbaren Sicherheitsbeauftragten: a. Namen; b. Geburtsdatum; c. Geburtsort; d. Heimatort und Nationalität; e. Kontaktangaben wie Postadressen, E-Mail-Adressen, Telefonnummern; f. Notfalladresse (Name, Vorname, Telefonnummer und Beziehung der Kontaktperson zum Sicherheitsbeauftragten); g. Angaben zu Reisedokumenten wie Nummer, Ausstellungsstaat, Visa; h. Zahlungsverbindung; i. Sprachkenntnisse; j. absolvierte Kurse im Hinblick auf die Tätigkeit als Sicherheitsbeauftragte und geleistete Einsätze. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5625 )."
+    },
+    {
+      "provision_ref": "art122l",
+      "section": "122l",
+      "title": "l Unterhalt und Aufbewahrung von Schusswaffen",
+      "content": "1 Fedpol ist, nach Rücksprache mit dem BAZL, zuständig für den Unterhalt und die Aufbewahrung der Waffen der Sicherheitsbeauftragten. 2 Fedpol kann zu diesem Zweck die Flughafenpolizei oder andere von ihm bezeichnete Organe beiziehen, vor allem für die Aufbewahrung von Waffen ausländischer Sicherheitsbeauftragter bei einem Zwischenhalt in der Schweiz."
+    },
+    {
+      "provision_ref": "art122m",
+      "section": "122m",
+      "title": "m Pflichten der Luftverkehrsunternehmen",
+      "content": "1 Die Luftverkehrsunternehmen können beigezogen werden: a. zur Aus- und Weiterbildung der Sicherheitsbeauftragten; b. zum Einsatz und zu den damit verbundenen administrativen Aufgaben; c. zur Risiko- und Bedrohungsanalyse. 2 Ihnen können dabei namentlich folgende Aufgaben übertragen werden: a. Sie unterrichten im Rahmen der Aus- und Weiterbildung luftfahrtspezifische Themen. b. Sie reservieren die Sitzplätze für die Sicherheitsbeauftragten nach Massgabe von fedpol. c. Sie besorgen die notwendigen luftfahrtspezifischen Ausweise für die Sicherheitsbeauftragten. d. Sie stellen das luftfahrtspezifische Einsatzmaterial bereit. e. Sie leiten sicherheitsrelevante Informationen, die für die Risiko- und Bedrohungsanalyse von Bedeutung sind, an fedpol weiter. 3 Das BAZL legt die Pflichten der Luftverkehrsunternehmen im Bereich der Sicherheitsbeauftragten in der Betriebsbewilligung fest."
+    },
+    {
+      "provision_ref": "art122n",
+      "section": "122n",
+      "title": "n Vergütungen",
+      "content": "Das BAZL vergütet im Zusammenhang mit dem Einsatz der Sicherheitsbeauftragten: a. den Luftverkehrsunternehmen: die Kosten für die erbrachten Leistungen im Zusammenhang mit: 1. der Aus- und Weiterbildung der Sicherheitsbeauftragten, 2. der Einsatzplanung von Sicherheitsbeauftragten und den damit verbundenen administrativen Aufgaben, 3. der Risiko- und Bedrohungsanalyse, 4. der Ausrüstung der Sicherheitsbeauftragten; b. den Kantonen oder Gemeinden und der Transportpolizei: die Lohn- und Lohnnebenkosten für die Sicherheitsbeauftragten während der Aus- und Weiterbildung sowie während des Einsatzes; c. den Sicherheitsbeauftragten: die Spesen für die Aus- und Weiterbildung sowie für den Einsatz; d. den Kantonen oder Gemeinden: die Kosten für die Bewirtschaftung der Schusswaffen von ausländischen Sicherheitsbeauftragten während ihres Aufenthalts in der Schweiz. Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ( AS 2017 5625 )."
+    },
+    {
+      "provision_ref": "art122o",
+      "section": "122o",
+      "title": "o Verantwortlichkeit des Bundes",
+      "content": "Die Verantwortlichkeit des Bundes für Schäden, die ein Sicherheitsbeauftragter in Ausübung seiner Tätigkeit Drittpersonen widerrechtlich zufügt, beurteilt sich nach dem Verantwortlichkeitsgesetz vom 14. März 1958. SR 170.32"
+    },
+    {
+      "provision_ref": "art122p",
+      "chapter": "168",
+      "section": "122p",
+      "title": "",
+      "content": "Für die Durchführung von Massnahmen für Erleichterungen in der Luftfahrt (Facilitation) sind die Normen und Empfehlungen der ICAO im Anhang 9 zum ChicagoÜbereinkommen unmittelbar anwendbar. Vorbehalten sind die nach Artikel 38 dieses Übereinkommens gemeldeten Abweichungen. Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ( AS 2018 3843 ). SR 0.748.0 . Der Text dieses Anhanges wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt unter www.bazl.admin.ch > Für Fachleute > Regulation und Grundlagen kostenlos abgerufen oder bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7) bezogen werden."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "71 des Luftfahrzeughalters gegenüber Dritten auf der Erde",
+      "section": "123",
+      "title": "",
+      "content": "1 Die Haftpflichtansprüche Dritter auf der Erde sind unter Vorbehalt von Absatz 2 durch Abschluss einer Haftpflichtversicherung bei einem Versicherungsunternehmen sicherzustellen. 2 Wird eine Sicherstellung der Haftpflichtansprüche durch Hinterlegung oder Solidarbürgschaft angeboten, so regelt das BAZL die Sicherstellung im Rahmen der nachfolgenden Bestimmungen von Fall zu Fall. Fassung gemäss Ziff. I 1 der V vom 4. März 2011, in Kraft seit 1. April 2011 ( AS 2011 1139 )."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "71 des Luftfahrzeughalters gegenüber Dritten auf der Erde",
+      "section": "124",
+      "title": "",
+      "content": "1 Als Nachweis der Sicherstellung der Haftpflichtansprüche hat der Halter des Luftfahrzeuges den Versicherungsnachweis, den Hinterlegungsschein oder die Bürgschaftserklärung vorzulegen. 2 Das BAZL kann vom Halter des Luftfahrzeuges, Versicherer, Aufbewahrer oder Bürgen nähere Auskunft über die Sicherstellung verlangen. Es kann die Erteilung des Lufttüchtigkeitszeugnisses bis zum Eingang dieser Auskunft aussetzen. Fassung gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "71 des Luftfahrzeughalters gegenüber Dritten auf der Erde",
+      "section": "125",
+      "title": "",
+      "content": "1 Die Haftpflichtansprüche von Dritten auf der Erde sind für ein Schadenereignis (Personen- und Sachschäden zusammen) mindestens wie folgt sicherzustellen: Mindestversicherungssumme (Millionen Sonderziehungsrechte) a. Luftfahrzeuge mit einem Abfluggewicht unter 500 kg 0,75 b. Luftfahrzeuge mit einem Abfluggewicht von 500 kg oder höher, aber unter 1000 kg 1,5 c. Luftfahrzeuge mit einem Abfluggewicht von 1000 kg oder höher, aber unter 2700 kg 3 d. Luftfahrzeuge mit einem Abfluggewicht von 2700 kg oder höher, aber unter 6000 kg 7 e. Luftfahrzeuge mit einem Abfluggewicht von 6000 kg oder höher, aber unter 12 000 kg 18 f. Luftfahrzeuge mit einem Abfluggewicht von 12 000 oder höher, aber unter 25 000 kg 80 g. Luftfahrzeuge mit einem Abfluggewicht von 25 000 kg oder höher, aber unter 50 000 kg 150 h. Luftfahrzeuge mit einem Abfluggewicht von 50 000 kg oder höher, aber unter 200 000 kg 300 i. Luftfahrzeuge mit einem Abfluggewicht von 200 000 kg oder höher, aber unter 500 000 kg 500 j. Luftfahrzeuge mit einem Abfluggewicht von 500 000 kg oder höher 700. 2 Absatz 1 gilt nicht für Fesselballone, Hängegleiter, Hängegleiter mit elektrischem Antrieb, Fallschirme, Drachen und Drachenfallschirme. Für diese Luftfahrzeuge setzt das UVEK die Versicherungssumme fest. 3 Für Flüge, die namentlich wegen der Art der beförderten Güter eine besondere Gefährdung darstellen, kann das BAZL die Erteilung der Betriebsbewilligung vom Nachweis einer zusätzlichen Sicherstellung der Haftpflichtansprüche von Dritten auf der Erde abhängig machen. Fassung gemäss Anhang Ziff. II der V vom 17. Aug. 2005 über den Lufttransport, in Kraft seit 5. Sept. 2005 ( AS 2005 4243 ). Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ( AS 2015 2175 ). Eingefügt durch Ziff. I der V vom 28. Okt. 1998, in Kraft seit 15. Nov. 1998 ( AS 1998 2570 )."
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "Wechsel des Halters und Rücktritt",
+      "content": "1 Der Versicherungsvertrag muss bestimmen, dass a. bei einem Wechsel des Halters während der Vertragsdauer auch die Ansprüche gegen den neuen Halter gedeckt sind; b. die Rechte und Pflichten aus dem Versicherungsvertrag auf den neuen Halter übergehen; c. der neue Halter berechtigt ist, innert 14 Tagen nach dem Halterwechsel vom Vertrag zurückzutreten; d. der Versicherer berechtigt ist, innert 14 Tagen, nachdem er vom Halterwechsel Kenntnis erhalten hat, vom Vertrag zurückzutreten. 2 Bei einem Rücktritt erlischt die Sicherstellung in dem in Artikel 128 Buchstabe b angegebenen Zeitpunkt. 3 Wird dem BAZL vor diesem Zeitpunkt keine neue Sicherstellung nachgewiesen, so ist das Lufttüchtigkeitszeugnis zu entziehen. 4 Weist der neue Halter innert 14 Tagen seit dem Wechsel des Halters eine neue Sicherstellung nach, so tritt der bisherige Versicherungsvertrag ausser Kraft. Fassung gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art127",
+      "section": "127",
+      "title": "Umfang der gesicherten Ersatzansprüche",
+      "content": "1 Die Sicherstellung muss bis zu den im Artikel 125 angegebenen Grenzen die nach den Bestimmungen des Luftfahrtgesetzes gegen den Halter möglichen Ersatzansprüche Dritter auf der Erde decken. 2 Für Schäden, die durch eine an Bord befindliche Person verursacht werden, haftet der Halter, wenn diese Person nicht zur Besatzung gehört (Art. 64 Abs. 2 Bst. b LFG), nur bis zum Betrag der Sicherstellung. 3 Schäden, die durch den Fluglärm auf der Erde verursacht werden, dürfen im Versicherungsvertrag nicht ausgeschlossen werden."
+    },
+    {
+      "provision_ref": "art128",
+      "section": "128",
+      "title": "Dauer und örtlicher Geltungsbereich",
+      "content": "In den Versicherungsvertrag sind folgende Bestimmungen aufzunehmen: a. Läuft der Vertrag ab, während sich das Luftfahrzeug auf einem Flug befindet, so verlängert sich die Haftung des Versicherers zugunsten des geschädigten Dritten bis zur nächsten Landung, bei der eine amtliche Nachprüfung der Bordpapiere möglich ist, höchstens aber um 24 Stunden. b. Endigt der Vertrag vor dem im Nachweis über die Sicherstellung angegebenen Zeitpunkt, so verpflichtet sich die Versicherungsunternehmung, gleichwohl Ersatzansprüche bis zum Entzug des Lufttüchtigkeitszeugnisses nach den Bestimmungen des Vertrages zu decken, längstens aber während 15 Tagen, nachdem das BAZL vom Ende des Vertrages benachrichtigt worden ist. Als Zeitpunkt des Entzugs gilt der Tag, an dem die Entzugsverfügung rechtskräftig wird. c. Überfliegt ein Luftfahrzeug die im Nachweis über die Sicherstellung genannten geografischen Grenzen ihres Geltungsbereiches, so ist die Versicherung zugunsten des geschädigten Dritten auf der Erde trotzdem wirksam, wenn der Flug ausserhalb dieser Grenzen durch höhere Gewalt, durch eine nach den Umständen gebotene Beistandsleistung oder durch fehlerhafte Lenkung, Führung oder Navigation verursacht wurde. Fassung gemäss Ziff. I der V vom 29. Mai 1996, in Kraft seit 1. Juli 1996 ( AS 1996 1536 )."
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "Verhältnis zum Nachweis der Sicherstellung",
+      "content": "Der Versicherungsvertrag muss bestimmen, dass zugunsten des geschädigten Dritten die Bedingungen massgebend sind, die sich aus dem Nachweis über die Sicherstellung ergeben, auch wenn sie mit dem Inhalt des abgeschlossenen Vertrages nicht übereinstimmen."
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "",
+      "content": "Aufgehoben durch Anhang Ziff. II der V vom 17. Aug. 2005 über den Lufttransport, mit Wirkung seit 5. Sept. 2005 ( AS 2005 4243 )."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "",
+      "content": "1 Der Halter kann vom Versicherer verlangen, dass er, ohne Rücksicht auf allfällige Rückgriffsrechte, seine Ersatzleistung an den geschädigten Dritten ausrichte, auch wenn nach den Bestimmungen dieser Verordnung die Ansprüche des geschädigten Dritten gegen den Halter weiter gehen als die Ansprüche des Halters gegen den Versicherer. 2 Dem geschädigten Dritten steht kein unmittelbarer Anspruch gegen den Versicherer zu, wohl aber im Umfang seiner Schadenersatzforderung ein Pfandrecht am Anspruch des Halters gegen den Versicherer."
+    },
+    {
+      "provision_ref": "art132",
+      "section": "132",
+      "title": "",
+      "content": "Die Bescheinigung über die Sicherstellung gibt Auskunft über – die Höhe der Garantiesumme, – die Geltungsdauer der geleisteten Sicherheit und – den geographischen Geltungsbereich."
+    },
+    {
+      "provision_ref": "art132a",
+      "chapter": "179",
+      "section": "132a",
+      "title": "",
+      "content": "1 B Die minimale Sicherstellung für Haftpflichtansprüche der Reisenden beträgt 250 000 Sonderziehungsrechte je Reisenden. Bei nichtgewerbsmässigen Flügen, die mit Luftfahrzeugen mit einem Abfluggewicht bis zu 2700 kg durchgeführt werden, kann die minimale Sicherstellung unter diesem Betrag liegen, muss aber mindestens 113 100 Sonderziehungsrechte je Reisenden betragen. 2 Bei nichtgewerbsmässigen Flügen ohne Reisende kann auf die Sicherstellung für Haftpflichtansprüche der Reisenden verzichtet werden. 3 Die Artikel 123, 124 Absatz 1, 126 Absätze 1 und 4, 128 Buchstaben a und c, 129, 131 und 132 sind auf die Haftpflicht gegenüber Reisenden sinngemäss anwendbar. 4 Dieser Artikel gilt nicht für die Hängegleiter (Art. 132 b ). Eingefügt durch Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ( AS 2016 739 ). Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ( AS 2016 739 ). Eingefügt Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 739 )."
+    },
+    {
+      "provision_ref": "art132b",
+      "chapter": "179",
+      "section": "132b",
+      "title": "b Haftpflicht von Hängegleiterpiloten für Reisende",
+      "content": "1 Der Halter oder die Halterin eines Biplace-Hängegleiters ohne Antrieb oder mit elektrischem Antrieb haftet im Falle eines Unfalls für Tod und Körperverletzung der Reisenden nach den Bestimmungen des Obligationenrechts. 2 Die Artikel 123, 124 Absatz 1, 126 Absätze 1 und 4, 128 Buchstaben a und c, 129, 131 und 132 sind sinngemäss anwendbar. 3 Das UVEK setzt die Mindestversicherungssumme fest. Eingefügt Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. Jan. 2017 ( AS 2016 739 ). SR 220"
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "72 Haftpflicht bei öffentlichen Flugveranstaltungen",
+      "section": "133",
+      "title": "",
+      "content": "1 Öffentliche Flugveranstaltungen nach den Artikeln 85–91 werden vom BAZL nur bewilligt, wenn der Gesuchsteller nachweist, dass der Veranstalter für seine Haftpflicht versichert ist. 2 Die Haftpflichtansprüche sind für ein Schadenereignis (Personen- und Sachschäden zusammen) mindestens wie folgt sicherzustellen: Garantiesumme Fr. a. bei öffentlichen Flugveranstaltungen ohne akrobatische Patrouillenflüge und ohne Tiefflugakrobatik 2 000 000 b. bei öffentlichen Flugveranstaltungen ohne akrobatische Patrouillenflüge, aber mit Tiefflugakrobatik 4 000 000 c. bei öffentlichen Flugveranstaltungen ohne Tiefflugakrobatik, aber mit akrobatischen Patrouillenflügen 4 000 000 d. bei öffentlichen Flugveranstaltungen mit akrobatischen Patrouillenflügen und mit Tiefflugakrobatik 10 000 000. 3 Bei öffentlichen Flugveranstaltungen mit erhöhten Gefahren kann das BAZL diese Garantiesummen hinaufsetzen. Fassung gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "72 Haftpflicht bei öffentlichen Flugveranstaltungen",
+      "section": "134",
+      "title": "",
+      "content": "Die Versicherung nach Artikel 133 muss subsidiär die Haftpflichtansprüche gegen die Halter der an der Veranstaltung teilnehmenden Luftfahrzeuge decken, wenn die Sicherstellung nach Artikel 125 für die Deckung der Ansprüche nicht ausreicht. Fassung gemäss Ziff. I der V vom 29. Mai 1996, in Kraft seit 1. Juli 1996 ( AS 1996 1536 )."
+    },
+    {
+      "provision_ref": "art135",
+      "chapter": "73 Ausländische Luftfahrzeuge",
+      "section": "135",
+      "title": "",
+      "content": "1 Der Halter eines ausländischen Luftfahrzeuges muss, bevor er es im schweizerischen Luftraum verwendet, die Haftpflichtansprüche Dritter nach den Ansätzen des Artikels 125 sicherstellen. Er muss die Sicherstellung nachweisen können. 2 Verwendet ein Halter mehrere Luftfahrzeuge im schweizerischen Luftraum, so muss er nur die für das Luftfahrzeug mit dem höchsten Abfluggewicht vorgesehene Garantiesumme sicherstellen. 3 Das BAZL kann auf die Sicherstellung für Schäden, die durch Lärm oder radioaktive Verseuchung entstehen, verzichten. 4 Es kann gegenüber Staaten, die Halter von Luftfahrzeugen sind, auf die Sicherstellung verzichten. 5 Es kann von den Beteiligten die erforderlichen Auskünfte verlangen. Fassung gemäss Ziff. I der V vom 27. Jan. 1988; in Kraft seit 1. April 1988 ( AS 1988 534 )."
+    },
+    {
+      "provision_ref": "art136",
+      "chapter": "73 Ausländische Luftfahrzeuge",
+      "section": "136",
+      "title": "",
+      "content": "1 Das BAZL entscheidet über das Vorliegen einer ausreichenden Sicherstellung. Im nichtgewerbsmässigen Luftverkehr prüft es die Sicherstellung nur stichprobenweise. 2 Die Erklärung eines zum Geschäftsbetrieb in der Schweiz ermächtigten Versicherers, die Haftpflichtansprüche gegen den Halter eines ausländischen Luftfahrzeuges im Rahmen dieser Verordnung zu decken, genügt als Nachweis der Sicherstellung. Fassung gemäss Ziff. I der V vom 27. Jan. 1988; in Kraft seit 1. April 1988 ( AS 1988 534 )."
+    },
+    {
+      "provision_ref": "art137",
+      "chapter": "74 Haftpflicht des Luftfrachtführers",
+      "section": "137",
+      "title": "",
+      "content": "1 Für entgeltliche Beförderungen mit Luftfahrzeugen sowie für unentgeltliche Beförderungen, die von einem Luftverkehrsunternehmen mit Betriebsbewilligung ausgeführt werden, gelten die besonderen Haftungsbestimmungen der Verordnung vom 17. August 2005 über den Lufttransport sowie die Voraussetzungen nach den Artikeln 106 und 108. 2 Für andere Beförderungen mit Luftfahrzeugen gelten die Bestimmungen des Obligationenrechts über die Haftpflicht. SR 748.411 Fassung gemäss Anhang Ziff. II der V vom 17. Aug. 2005 über den Lufttransport, in Kraft seit 5. Sept. 2005 ( AS 2005 4243 ). SR 220"
+    },
+    {
+      "provision_ref": "art138",
+      "chapter": "8 Luftfahrtinformationen",
+      "section": "138",
+      "title": "",
+      "content": "Das BAZL veröffentlicht folgende Luftfahrtinformationen: a. das Luftfahrthandbuch der Schweiz (AIP-Schweiz) mit Informationen von bleibender Geltung, die für den sicheren Betrieb der Luftfahrt wesentlich sind: b. die Nachrichten für Luftfahrer (NOTAM) und die Luftfahrtinformationsblätter (AIC), die namentlich über Errichtung, Zustand oder Änderungen von Luftfahrtanlagen sowie über Verkehrsdienste, Verfahren und Gefahren für die Luftfahrt Auskunft geben, deren rechtzeitige Kenntnis für das Luftfahrtpersonal wichtig ist."
+    },
+    {
+      "provision_ref": "art138",
+      "chapter": "194",
+      "section": "138",
+      "title": "a",
+      "content": "1 Das UVEK kann im Rahmen seiner Rechtsetzungsbefugnisse ausnahmsweise einzelne Anhänge, einschliesslich zugehöriger technischer Vorschriften, zum Übereinkommen vom 7. Dezember 1944 über die internationale Zivilluftfahrt sowie technische Vorschriften, welche im Rahmen der Zusammenarbeit der europäischen Luftfahrtbehörden festgelegt werden, als unmittelbar anwendbar erklären. 2 Es kann im Einvernehmen mit der Bundeskanzlei eine besondere Art der Veröffentlichung solcher Bestimmungen vorschreiben und bestimmen, dass von einer Übersetzung ganz oder teilweise abzusehen ist. 3 Es entscheidet über die Ablehnung von Anhängen oder Anhangsänderungen im Sinne von Artikel 90 Buchstabe a zweiter Satz des Übereinkommens vom 7. Dezember 1944 über die internationale Zivilluftfahrt. SR 0.748.0 . Die Anhänge sind in der AS nicht veröffentlicht. Eingefügt durch Ziff. I der V vom 29. Mai 1996, in Kraft seit 1. Juli 1996 ( AS 1996 1536 )."
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "9 Administrative Bestimmungen",
+      "section": "139",
+      "title": "Formulare",
+      "content": "1 Versicherungsnachweise und Gesuche um Registereintragungen, Erteilung oder Erneuerung von Konzessionen, Bewilligungen, Ausweisen und persönlichen Erlaubnissen sind auf den vom BAZL festgesetzten Formularen einzureichen. 2 Diese Formulare können beim BAZL oder bei den Flugplatzleitungen bezogen werden. 3 In dringlichen Fällen können Gesuche telefonisch, telegrafisch oder mit Fernschreiben gestellt werden."
+    },
+    {
+      "provision_ref": "art140",
+      "chapter": "9 Administrative Bestimmungen",
+      "section": "140",
+      "title": "Gebühren",
+      "content": "Für die Amtshandlungen der Aufsichtsbehörden werden die in der Gebührenordnung zum Luftfahrtgesetz festgesetzten Gebühren erhoben. [ AS 1976 668 , 1979 778 . AS 1983 1526 Art. 35 Bst. a]. Heute: in der V vom 28. Sept. 2007 über die Gebühren des BAZL ( SR 748.112.11 )."
+    },
+    {
+      "provision_ref": "art141",
+      "chapter": "9 Administrative Bestimmungen",
+      "section": "141",
+      "title": "Statistik",
+      "content": "1 Das BAZL führt und veröffentlicht die Luftfahrtstatistik. 2 Inhaber von Konzessionen und Bewilligungen sowie die Träger von Ausweisen sind verpflichtet, dem BAZL die zur Führung der Statistik erforderlichen Unterlagen zu liefern."
+    },
+    {
+      "provision_ref": "art141a",
+      "chapter": "198",
+      "section": "141a",
+      "title": "a",
+      "content": "Nach Artikel 91 Absatz 1 Buchstabe i LFG wird bestraft, wer: a. eine Pflicht nach den folgenden Bestimmungen verletzt: Artikel 2 a Absatz 1, 2 b Absatz 1, 26, 81, 83, 86 Absatz 1 erster Satz, 107 Absatz 2, 109 Buchstaben a oder b und 111 Absatz 1 erster oder zweiter Satz; b. eine akrobatische Vorführung an Luftfahrzeugen ohne Bewilligung des BAZL durchführt (Art. 84); c. Papiere, welche gestützt auf eine Bestimmung des Luftfahrtrechts an Bord des Luftfahrzeuges mitgeführt werden müssen, nicht mitführt; d. Artikel 4 Absatz 1 der Verordnung (EU) Nr. 376/2014 verletzt . Eingefügt durch Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ( AS 2016 739 ). Siehe Fussnote zu Art. 77 Abs. 1."
+    },
+    {
+      "provision_ref": "art142",
+      "chapter": "10 Übergangs- und Schlussbestimmungen",
+      "section": "142",
+      "title": "",
+      "content": "Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ( AS 1994 3028 )."
+    },
+    {
+      "provision_ref": "art143",
+      "chapter": "10 Übergangs- und Schlussbestimmungen",
+      "section": "143",
+      "title": "Aufhebung früherer Erlasse",
+      "content": "Es werden aufgehoben: a. die Vollziehungsverordnung vom 5. Juni 1950 zum Luftfahrtgesetz; b. die Verordnung vom 22. November 1966 über photographische Aufnahmen aus der Luft. [AS 1950 I 496; 1951 968 Art. 15; 1958 690; 1960 360 Art. 37 Abs. 2, 1257 Art. 45; 1964 329; 1966 1506 Art. 5 Abs. 2; 1967 873, 901 Art. 33 Ziff. 1; 1968 931 Art. 8 Abs. 2, 1341; 1969 1141] [ AS 1966 1506 ]"
+    },
+    {
+      "provision_ref": "art144",
+      "chapter": "10 Übergangs- und Schlussbestimmungen",
+      "section": "144",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 1974 in Kraft."
+    }
+  ],
+  "definitions": []
+}

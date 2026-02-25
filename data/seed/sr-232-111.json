@@ -1,0 +1,671 @@
+{
+  "id": "sr-232-111",
+  "type": "statute",
+  "title": "Verordnung vom 23. Dezember 1992 über den Schutz von Marken und Herkunftsangaben (MSchV)",
+  "title_en": "Ordinance of 23 December 1992 on the Protection of Trade Marks and Indications of Source (TmPO)",
+  "short_name": "MSchV",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "1",
+      "title": "Responsibility",
+      "content": "1 The Swiss Federal Institute of Intellectual Property (IPI) is responsible for carrying out the administrative duties stipulated in the TmPA and for implementing this Ordinance. 2 Excluded from this are Articles 70–72 TmPA and Articles 54–57 of this Ordinance. The Federal Office for Customs and Border Security (FOCBS) is responsible for their implementation. The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ( AS 2004 4937 ). This amendment has been made throughout the text. Amended by No I of the O of 25 Oct. 1995, in force since 1 Jan. 1996 ( AS 1995 5158 ). The name of this administrative unit was amended in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ( SR 170.512.1 ) on 1 Jan. 2022 ( AS 2021 589 ). This amendment has been made throughout the text."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "2",
+      "title": "Calculation of time limits",
+      "content": "If a time limit is calculated in months or years, it shall end in the final month on the same date of the month as the date on which it started. If there is no such date, the time limit ends on the final day of the final month. Amended by No I of the O of 8 March 2002, in force since 1 July 2002 ( AS 2002 1119 )."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "3",
+      "title": "Language",
+      "content": "1 Submissions to the IPI must be written in an official language of the Confederation. The foregoing is without prejudice to Articles 47 paragraph 3 and 52 p paragraph 3. 2 Where official documents of evidence are not written in an official language, the IPI may request a translation and a certificate confirming its accuracy; the foregoing is without prejudice to Article 14 paragraph 3. If the translation or certificate is not submitted despite being requested, the document of evidence will not be taken into account. Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 )."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Chapter 1 General Provisions",
+      "section": "4",
+      "title": "Several applicants or proprietors of a trade mark",
+      "content": "1 Where several persons apply to register a trade mark or hold the right to a trade mark, they must either designate one of them to whom the IPI may send all communications with effect for all of them, or they must appoint a joint representative. 2 If neither of these conditions have been met, the IPI shall designate a recipient in accordance with paragraph 1. If one of the other persons objects, the IPI shall request that all parties act in accordance with paragraph 1. 3 Paragraphs 1 and 2 also apply to applications for international registration in accordance with Articles 50 d und 50 e TmPA. Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). Inserted by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 )."
+    },
+    {
+      "provision_ref": "art4a",
+      "section": "4a",
+      "title": "a Substitution of a party",
+      "content": "If the contested intellectual property right is transferred during the course of pending proceedings, Article 83 of the Civil Procedure Code applies by analogy. Inserted by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 ). SR 272"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Power of attorney",
+      "content": "1 If an applicant or proprietor is represented before the IPI, the IPI may request a written power of attorney. 2 Any person who has been authorised by the applicant or proprietor to submit declarations provided for in the TmPA or in this Ordinance to the IPI and to receive communications from the IPI on their behalf shall be entered in the Register as a representative in accordance with Article 40. If the IPI is not explicitly notified of any restriction to the power of attorney, it is deemed comprehensive. Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Signature",
+      "content": "1 Submissions must be signed. 2 If a valid signature is missing from a submission, the original date on which it was submitted shall be recognised provided that a signed submission identical in content is subsequently submitted within one month of a request from the IPI. 3 The application for registration does not have to be signed. The IPI may designate other documents that do not require a signature. Amended by No I of the O of 8 March 2002, in force since 1 July 2002 ( AS 2002 1119 )."
+    },
+    {
+      "provision_ref": "art6a",
+      "section": "6a",
+      "title": "a Proof",
+      "content": "1 The IPI may request proof where it has reasonable doubt concerning the accuracy of a submission. 2 The IPI shall disclose the reasons for its doubt, provide an opportunity to respond, and set a time limit for the submission of proof. Inserted by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Fees",
+      "content": "For fees which must be paid in accordance with the TmPA or this Ordinance, the IPI Fee Ordinance of 14 June 2016 applies. Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). SR 232.148"
+    },
+    {
+      "provision_ref": "art7a",
+      "section": "7a",
+      "title": "a Electronic communication",
+      "content": "1 The IPI may authorise electronic communication. 2 It shall determine the technical details and publish them in an appropriate manner. Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 ). Inserted by No II of the O of 31 March 1999, in force since 1 May 1999 ( AS 1999 1443 )."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 1 Registration Procedure",
+      "section": "8",
+      "title": "Filing",
+      "content": "1 A form approved by the IPI or a form from the Regulations under the Singapore Treaty on the Law of Trademarks of 27 March 2006 must be used to file the application. 2 If an application that is otherwise formally valid contains all the information required, the IPI may waive the requirement to submit the form. SR 0.232.112.11 Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 ). Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art8a",
+      "chapter": "Section 1 Registration Procedure",
+      "section": "8a",
+      "title": "a Conversion of an international registration into an application for registration",
+      "content": "The filing date for an application for registration under Article 46 a TmPA shall be the date of the corresponding international registration or of the extension of protection to Switzerland. Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 )."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 1 Registration Procedure",
+      "section": "9",
+      "title": "Application for registration",
+      "content": "1 The application for registration shall include: a. the application to register the trade mark; b. the surname and first name or the company name and the address of the applicant; c. ... d. ... 2 The following must be included in the application where applicable: a. the address for service of the applicant in Switzerland; a bis . in the case of two or more applicants, the designation of the recipient in accordance with Article 4 paragraph 1 and their address for service, where applicable; a ter . the name and address of the representative, where applicable, and their address for service in Switzerland; b. the declaration of priority (Art. 12–14); c. an indication that it concerns a guarantee mark or a collective mark; c bis . an indication that it concerns a geographical mark; d. proof of the cancellation of the international registration and of the extension of protection to Switzerland. If priority is claimed for the cancelled international registration, no further priority document is required. Repealed by No I of the O of 2 Dec. 2016, with effect from 1 Jan. 2017 ( AS 2016 4829 ). Repealed by No I of the O of 8 March 2002, with effect from 1 July 2002 ( AS 2002 1119 ). Amended by No I of the O of 11 May 2011, in force since 1 July 2011 ( AS 2011 2243 ). Inserted by No I of the O of 11 May 2011 ( AS 2011 2243 ). Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). Inserted by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). Inserted by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 ). Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 )."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Representation of the trade mark",
+      "content": "1 The trade mark must be capable of being represented graphically. The IPI may accept other forms of representation for special types of trade mark. 2 If a colour is claimed for the trade mark, the corresponding colour or combination of colours must be specified. The IPI may additionally request the submission of coloured representations of the trade mark. 3 If it concerns a special type of trade mark, for example a three-dimensional sign, this must be stated in the application for registration. Amended by No I of the O of 8 Mar. 2002, in force since 1 July 2002 ( AS 2002 1119 ). Amended by No I of the O of 3 Dec. 2004, in force since 1 Jan. 2005 ( AS 2004 5019 )."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "List of goods and services",
+      "content": "The goods and services for which the trade mark is claimed must be precisely named and the class number under the Nice Agreement of 15 June 1957 concerning the International Classification of Goods and Services (The Nice Classification) must be provided. Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). SR 0.232.112.7 , 0.232.112.8 , 0.232.112.9"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Priority within the meaning of the Paris Convention",
+      "content": "1 The declaration of priority within the meaning of the Paris Convention of 20 March 1883 for the Protection of Industrial Property shall include the following information: a. the date of the first filing; b. the country in which or for which the filing was made. 2 The priority document consists of a certificate of the first filing from the competent authority indicating the filing or registration number of the trade mark. 3 ... SR 0.232.01 , 0.232.02 , 0.232.03 , 0.232.04 Repealed by No I of the O of 2 Sept. 2015, with effect from 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Exhibition priority",
+      "content": "1 The declaration of exhibition priority shall include: a. the exact name of the exhibition; b. an indication of the goods or services which were exhibited under the trade mark. 2 The priority document consists of a certificate from the competent authority certifying that the goods or services bearing the trade mark were exhibited and indicating the opening date of the exhibition."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "General provisions on the declaration of priority and priority document",
+      "content": "1 The declaration of priority must be submitted no later than 30 days after the filing of the trade mark. If the IPI requests a priority document, the applicant must submit it within six months after the filing. If the applicant does not submit the requested documents, the claim to priority shall lapse. 2 The declaration of priority may relate to multiple first filings. 3 Priority documents may also be submitted in English. Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art14a",
+      "section": "14a",
+      "title": "a Submission date for postal items",
+      "content": "For postal items, the submission date is the date on which the item is given to the Swiss Post to be delivered to the IPI. Inserted by No I of the O of 18 Oct. 2006, in force since 1 Jan. 2007 ( AS 2006 4479 )."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Examination on filing",
+      "content": "If the filing does not meet the requirements of Article 28 paragraph 2 TmPA, the IPI may set a time limit for the applicant to complete the documentation."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Formal examination",
+      "content": "1 If the filing does not fulfil the formal requirements laid down in the TmPA or in this Ordinance, the IPI shall set a time limit for the applicant to remedy the deficiency. 2 If the deficiency is not remedied within the time limit, the IPI shall refuse the application for registration in its entirety or in part. The IPI may set further time limits in exceptional cases."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Substantive examination",
+      "content": "1 If there are grounds for refusal as defined in Article 30 paragraph 2 letters c–e of the TmPA, the IPI shall set a time limit for the applicant to remedy the deficiency. 2 If an application is submitted for a foreign wine denomination to be registered as a geographical mark, the IPI shall consult the Federal Office for Agriculture. It shall examine whether the particular requirements for the foreign wine denomination, laid down in the wine legislation, are fulfilled. 3 If the deficiency is not remedied within the time limit, the IPI shall refuse the application for registration in its entirety or in part. The IPI may set further time limits in exceptional cases. Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art17a",
+      "section": "17a",
+      "title": "a Further processing for missed time limits",
+      "content": "For the further processing of an application which was refused due to failure to observe a time limit (Art. 41 TmPA), a further processing fee must be paid. Inserted by No I of the O of 25 Oct. 1995, in force since 1 Jan. 1996 ( AS 1995 5158 )."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Filing fee and class surcharge",
+      "content": "1 The applicant must pay the filing fee within the time limit set by the IPI. 2 If the list of goods or services of the filed trade mark includes more than three classes, the applicant must pay a surcharge for each additional class. The IPI shall determine the number of classes subject to a surcharge in accordance with the list of classes under the Nice Agreement. 3 The class surcharge must be paid within the time limit set by the IPI. Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art18a",
+      "section": "18a",
+      "title": "a Accelerated examination",
+      "content": "1 The applicant may request an accelerated examination. 2 The request shall not be considered to have been filed until the fee for an accelerated examination has been paid in addition to the filing fee. Inserted by No I of the O of 17 Sept. 1997, in force since 1 Jan. 1998 ( AS 1997 2170 ). Amended by No I of the O of 8 March 2002, in force since 1 July 2002 ( AS 2002 1119 )."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Registration and publication",
+      "content": "1 If there are no grounds for refusal, the IPI shall register the trade mark in the Trade Mark Register and publish the registration. 2 It will provide the proprietor of the trade mark with a confirmation of the registration. The confirmation shall include the information entered in the Register. Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 2 Opposition Proceedings",
+      "section": "20",
+      "title": "Form and content of the opposition",
+      "content": "The opposition must be submitted in two copies and must include: a. the surname and first name or the company name, the address of the opposing party and, if applicable, their address for service in Switzerland; b. the number of the trade mark registration or the application number of the filed trade mark on which the opposition is based; c. the number of the disputed trade mark registration as well as the name or company name of the proprietor of the trade mark; d. a declaration of the extent of the opposition to the registration; e. a short statement of reasons for the opposition. Amended by No I of the O of 11 May 2011, in force since 1 July 2011 AS 2011 2243 )."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 2 Opposition Proceedings",
+      "section": "21",
+      "title": "Address for service in Switzerland",
+      "content": "1 If an opposing party who is required under Article 42 TmPA to indicate an address for service in Switzerland does not provide this when filing the opposition, the IPI shall set a grace period. The IPI shall also inform the opposing party that failure to comply before expiry of the grace period will result in the dismissal of the opposition. 2 A defendant who must indicate an address for service in Switzerland must provide this within the time limit set by the IPI. The IPI shall inform the defendant that they will be excluded from the proceedings if they fail to fulfil this obligation. Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 2 Opposition Proceedings",
+      "section": "22",
+      "title": "Exchange of written submissions",
+      "content": "1 The IPI shall bring any opposition that is not manifestly inadmissible to the attention of the defendant and shall set a time limit for response. 2 The defendant must submit two copies of the response. 3 In the defendant’s first response, the defendant must invoke any non-use of the opposing party’s trade mark in accordance with Article 12 paragraph 1 TmPA; however, this is only permitted if, at that time, an uninterrupted period of five years has elapsed following the expiry of the opposition period with no opposition having been filed, or upon conclusion of the opposition proceedings. 4 The IPI may enter into further exchanges of written submissions. Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 2 Opposition Proceedings",
+      "section": "23",
+      "title": "",
+      "content": "1 If multiple oppositions are submitted against the same trade mark registration, the IPI shall bring the oppositions to the attention of all opposing parties. It may combine the handling of the oppositions in one procedure. 2 If the IPI deems it necessary, it may first examine one of the multiple oppositions, make a decision on it and suspend the other opposition proceedings. 3 Where the opposition is based on the filing of a trade mark application, the IPI may suspend opposition proceedings until the trade mark is registered. 4 The IPI may suspend opposition proceedings if the decision on the opposition depends on the outcome of cancellation proceedings on the grounds of non-use, civil proceedings or other proceedings. Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 ). Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 ). Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 ). Inserted by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Reimbursement of the opposition fee",
+      "content": "1 If an opposition is not submitted within the time limit or if the opposition fee is not paid on time, the opposition shall be considered not to have been filed. No costs shall be incurred; any opposition fee that has already been paid shall be reimbursed. 2 If a proceeding becomes groundless or is settled or withdrawn, half of the opposition fee shall be reimbursed. Amended by No I of the O of 14 March 2008, in force since 1 July 2008 ( AS 2008 1893 )."
+    },
+    {
+      "provision_ref": "art24a",
+      "chapter": "54",
+      "section": "24a",
+      "title": "a Form and content of the request",
+      "content": "The request for cancellation of a trade mark registration on the grounds of non-use of the trade mark must be submitted in two copies and must include: a. the surname and first name or the company name, the address of the applicant and, where applicable, their address for service in Switzerland; b. the number of the trade mark registration for which a cancellation is requested, as well as the name or company of the proprietor of the trade mark; c. a declaration of the extent of the cancellation; d. an explanation of the request for cancellation which, in particular, substantiates the claim of non-use; e. evidence."
+    },
+    {
+      "provision_ref": "art24b",
+      "chapter": "54",
+      "section": "24b",
+      "title": "b Address for service in Switzerland",
+      "content": "1 If an applicant who is required under Article 42 TmPA to indicate an address for service in Switzerland does not provide this when filing the request, the IPI shall grant a grace period. The IPI shall also inform the applicant that failure to comply before expiry of the grace period will result in dismissal of the request. 2 A defendant who must indicate an address for service in Switzerland must provide this within the time limit set by the IPI. The IPI shall inform the defendant that the defendant will be excluded from the proceedings if the defendant fails to fulfil this obligation."
+    },
+    {
+      "provision_ref": "art24c",
+      "chapter": "54",
+      "section": "24c",
+      "title": "c Exchange of written submissions",
+      "content": "1 The IPI shall bring any request for cancellation that is not manifestly inadmissible to the attention of the defendant and shall set a time limit for response. 2 The defendant must submit two copies of the response. 3 In their response, the defendant must substantiate, in particular, the use of the trade mark or proper reasons for its non-use. 4 The IPI shall enter into further exchanges of written submissions where justified by the circumstances."
+    },
+    {
+      "provision_ref": "art24d",
+      "chapter": "54",
+      "section": "24d",
+      "title": "d Multiple requests and suspension of proceedings",
+      "content": "1 Article 23 paragraphs 1 and 2 shall apply mutatis mutandis for the cancellation of a trade mark registration on the grounds of non-use of the trade mark. 2 The IPI may suspend proceedings if the decision on the cancellation depends on the outcome of civil proceedings or other proceedings."
+    },
+    {
+      "provision_ref": "art24e",
+      "chapter": "54",
+      "section": "24e",
+      "title": "e Reimbursement of the cancellation fee",
+      "content": "1 If the request for cancellation is submitted before the expiry of the time limit under Article 35 a paragraph 2 TmPA and Article 50 a of this Ordinance or if the cancellation fee is not paid on time, the request shall be considered not to have been filed. No charges shall be incurred; any cancellation fee that has already been paid shall be reimbursed. 2 If a proceeding becomes groundless or is settled or withdrawn, half of the cancellation fee shall be reimbursed. If the requirements under Article 33 b of the Federal Act on Administrative Procedure of 20 December 1968 (APA) are fulfilled, the fee shall be fully reimbursed. SR 172.021 Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 )."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "Section 3 Renewal of the Trade Mark Registration",
+      "section": "25",
+      "title": "Notification of expiry of the term of validity",
+      "content": "Before the term of validity expires, the IPI may remind the right holder entered in the Register, or their representative, about the date of expiry and the possibility of renewal. The IPI may also send such notifications abroad. Amended by No I of the O of 18 Oct. 2006, in force since 1 Jan. 2007 ( AS 2006 4479 )."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "Section 3 Renewal of the Trade Mark Registration",
+      "section": "26",
+      "title": "",
+      "content": "1 The application for renewal of a trade mark registration may be submitted, at the earliest, twelve months prior to the expiry of the term of validity. 2 The renewal takes effect on expiry of the previous term of validity. 3 The IPI shall provide the proprietor of the trade mark with a confirmation of the renewal of the registration. 4 The renewal fee must be paid within the time limits under Article 10 paragraph 3 TmPA. 5 If the renewal fee is paid after the expiry of the term of validity, a surcharge must be paid. Amended by No I of the O of 8 March 2002, in force since 1 July 2002 ( AS 2002 1119 ). Amended by No I of the O of 8 March 2002, in force since 1 July 2002 ( AS 2002 1119 ). Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). Inserted by No I of the O of 25 Oct. 1995 ( AS 1995 5158 ). Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). Inserted by No I of the O of 25 Oct. 1995 ( AS 1995 5158 ). Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "Section 3 Renewal of the Trade Mark Registration",
+      "section": "27",
+      "title": "Reimbursement of the renewal fee",
+      "content": "If an application for renewal has been submitted and it does not result in the renewal of the registration, the renewal fee shall be reimbursed. Amended by No I of the O of 14 March 2008, in force since 1 July 2008 ( AS 2008 1891 )."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "Section 4 Amendments to the Trade Mark Registration",
+      "section": "28",
+      "title": "Assignment",
+      "content": "1 The request for registration of the assignment must be made by the former proprietor of the trade mark or the acquirer and must include: a. an express declaration by the former proprietor or another satisfactory document stating that the trade mark has been transferred to the acquirer; b. the surname and first name or company name, the address of the acquirer and, where applicable, their address for service in Switzerland; c. in the case of partial assignment, an indication of the goods or services for which the trade mark has been assigned. 2 ... Amended by No I of the O of 11 May 2011, in force since 1 July 2011 ( AS 2011 2243 ). Repealed by No I of the O of 2 Dec. 2016, with effect from 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "Section 4 Amendments to the Trade Mark Registration",
+      "section": "29",
+      "title": "Licensing",
+      "content": "1 The request for the registration of a licence must be made by the proprietor of the trade mark or by the licensee and must include: a. an express declaration by the proprietor of the trade mark or another satisfactory document stating that the proprietor authorises the licensee to use the trade mark; b. the surname and first name or company name as well as the address of the licensee; c. the request that the licence be registered as an exclusive licence where applicable; d. in the case of a partial licence, an indication of the goods and services or the territory for which the licence is granted. 2 For the registration of a sub-licence, paragraph 1 applies. In addition, it must be proven that the licensee is authorised to grant sub-licences. 3 As long as an exclusive licence is entered in the Register, no other licences that are incompatible with the exclusive licence shall be entered in the Register for the same trade mark. Inserted by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "Section 4 Amendments to the Trade Mark Registration",
+      "section": "30",
+      "title": "Other amendments to the trade mark registration",
+      "content": "On the basis of an appropriate declaration by the proprietor of the trade mark or another satisfactory document, the IPI shall register: a. the usufruct of the trade mark and pledging of the trade mark; b. restrictions on powers of disposal ordered by courts and compulsory enforcement authorities; c. amendments concerning registered information."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "Section 4 Amendments to the Trade Mark Registration",
+      "section": "31",
+      "title": "Cancellation of third party rights",
+      "content": "On the request of the proprietor of the trade mark, the IPI shall cancel a right registered in favour of a third party if an express waiver by the holder of this right or another satisfactory document is presented."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "Section 4 Amendments to the Trade Mark Registration",
+      "section": "32",
+      "title": "Rectifications",
+      "content": "1 Incorrect register entries shall be rectified without delay at the request of the trade mark proprietor. 2 If the error results from an oversight by the IPI, it shall be rectified ex officio."
+    },
+    {
+      "provision_ref": "art3334",
+      "section": "3334",
+      "title": "",
+      "content": "Repealed by No I of the O of 18 Oct. 2006, with effect from 1 Jan. 2007 ( AS 2006 4479 )."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "Section 5 Cancellation of the Trade Mark Registration",
+      "section": "35",
+      "title": "",
+      "content": "Partial or full cancellation of the trade mark registration is free of charge. Cancellation on the grounds of non-use is not free of charge. Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "Section 1 Dossier",
+      "section": "36",
+      "title": "Content",
+      "content": "1 The IPI shall maintain a dossier for each application for registration and each trade mark registration, containing the following: a. the stages of the registration procedure, any opposition proceedings and any cancellation procedures on the grounds of non-use; b. the renewal and cancellation of the registration, any international registration as well as any amendments to trade mark law; c. other amendments to the trade mark registration. 2 The regulations for a guarantee or collective mark or the regulations for a geographical mark must also be included in the dossier. 3 Official documents of evidence that disclose manufacturing or trade secrets shall be filed separately on request. This will be noted in the dossier. 4 ... Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 ). Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 ). Amended by No I of the O of 18 Oct. 2006, in force since 1 Jan. 2007 ( AS 2006 4479 ). Inserted by No I of the O of 22 Jan. 1997 ( AS 1997 865 ). Repealed by No I of the O of 3 Dec. 2004, with effect from 1 Jan. 2005 ( AS 2004 5019 )."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Section 1 Dossier",
+      "section": "37",
+      "title": "Inspection of the files",
+      "content": "1 Prior to the registration of the trade mark, the dossier may be inspected by: a. the applicant and their representative; b. persons who prove that the applicant is accusing them of infringing the applicant’s right to the filed trade mark or has warned them of such an infringement; c. other persons with the express consent of the applicant or their representative. 2 The persons named in paragraph 1 may also inspect the files relating to applications for registration that have been withdrawn or rejected. 3 Anyone may inspect the dossier after the trade mark has been entered in the Register, provided that the publication has not been deferred. 4 The IPI shall make a decision regarding the inspection of separately filed official documents of evidence (Art. 36 para. 3) following consultation with the proprietor of the trade mark. 5 On request, the files to be inspected shall be issued in the form of copies. Amended by No I of the O of 18 Oct. 2006, in force since 1 Jan. 2007 ( AS 2006 4479 )."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Section 1 Dossier",
+      "section": "38",
+      "title": "Information on applications for registration",
+      "content": "1 The IPI shall provide third parties with information on applications for registration including withdrawn or rejected applications. 2 The information shall be limited to: a. details which are published when a trade mark is registered; b. details of the reasons for the refusal of an application. Amended by No I of the O of 18 Oct. 2006, in force since 1 Jan. 2007 ( AS 2006 4479 ). Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Retention of files",
+      "content": "1 The IPI shall retain the originals or copies of the files of completely cancelled register entries for five years following the cancellation. 2 The IPI shall retain the originals or copies of the files of withdrawn, refused or fully revoked registrations (Art. 33 TmPA) for five years following the withdrawal, refusal or revocation. 3 ... Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). Inserted by No I of the O of 22 Jan. 1997 ( AS 1997 865 ). Repealed by No I of the O of 3 Dec. 2004, with effect from 1 Jan. 2005 ( AS 2004 5019 )."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Section 2 The Trade Mark Register",
+      "section": "40",
+      "title": "Register content",
+      "content": "1 The entry of a trade mark in the Register shall include: a. the number of the registration; b. the filing date; c. the surname and first name or the company name as well as the address of the proprietor of the trade mark; d. the name and address of the representative, where applicable; e. a representation of the trade mark; f. the goods and services for which the trade mark is claimed, with an indication of the classes under the Nice Classification; g. the date of publication of the registration; h. details of the replacement of a former national registration by an international registration; i. the date of registration; k. the number of the application for registration. 2 Where applicable, the registration shall also include the following: a. an indication of the colour or colour combination claimed; b. the words «three-dimensional trade mark» or other indications which specify the particular type of trade mark; c. the words «trade mark which has acquired distinctiveness through use»; d. an indication that it is a guarantee or a collective mark; d bis . an indication that it is a geographical mark; e. information concerning the priority claim in accordance with Articles 7 and 8 TmPA; f. ... 3 In addition to the date of publication, the following shall be entered in the Trade Mark Register: a. the renewal of the trade mark registration and the date on which the renewal comes into effect; b. the complete or partial revocation of the trade mark registration; c. the complete or partial cancellation of the trade mark registration with the reason for the cancellation; d. the complete or partial assignment of the trade mark; e. the grant of a licence or sub-licence, where applicable, with an indication as to whether it concerns an exclusive licence or a partial licence; f. the usufruct of the trade mark and pledging of the trade mark; g. restrictions on powers of disposal ordered by the courts and compulsory enforcement authorities; h. amendments concerning registered information; i. reference to any amendment to the regulations governing the use of the trade mark. 4 The IPI may enter other information of public interest. Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). SR 0.232.112.7 , 0.232.112.8 , 0.232.112.9 Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 ). Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 ). Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 ). Amended by No I of the O of 8 March 2002, in force since 1 July 2002 ( AS 2002 1119 ). Inserted by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 ). Repealed by No I of the O of 22 Jan. 1997, with effect from 1 May 1997 ( AS 1997 865 ). Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art40a",
+      "section": "40a",
+      "title": "",
+      "content": "Inserted by No I of the O of 22 Jan. 1997( AS 1997 865 ). Repealed by No I of the O of 3 Dec. 2004, with effect from 1 Jan. 2005 ( AS 2004 5019 )."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Inspection and extracts from the Register",
+      "content": "1 Anyone may inspect the Trade Mark Register. 2 The IPI shall issue extracts from the Trade Mark Register. Amended by No I of the O of 18 Oct. 2006, in force since 1 Jan. 2007 ( AS 2006 4479 ). Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 )."
+    },
+    {
+      "provision_ref": "art41a",
+      "section": "41a",
+      "title": "a Priority document for Swiss first filings",
+      "content": "The IPI will prepare a priority document for a Swiss first filing on request. Inserted by No I of the O of 25 Oct. 1995 ( AS 1995 5158 ). Amended by No I of the O of 18 Oct. 2006, in force since 1 Jan. 2007 ( AS 2006 4479 )."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Chapter 4 Publications by the IPI",
+      "section": "42",
+      "title": "Subject matter of the publication",
+      "content": "The IPI shall publish: a. the registration of the trade mark including the information under Article 40 paragraph 1 letters a–f and paragraph 2 letters a–e; b. the entries under Article 40 paragraph 3; c. the information under Article 40 paragraph 4 where its publication appears appropriate."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Chapter 4 Publications by the IPI",
+      "section": "43",
+      "title": "Organ of publication",
+      "content": "1 The IPI shall determine the organ of publication. 2 On request and subject to a fee, it shall make paper copies of data that has only been published electronically. Amended by No I of the O of 3 Dec. 2004, in force since 1 Jan. 2005 ( AS 2004 5019 )."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Chapter 4 Publications by the IPI",
+      "section": "44",
+      "title": "",
+      "content": "Repealed by No I of the O of 8 March 2002, with effect from 1 July 2002 ( AS 2002 1119 )."
+    },
+    {
+      "provision_ref": "art4546",
+      "chapter": "Chapter 5 ...",
+      "section": "4546",
+      "title": "",
+      "content": "Repealed by No I of the O of 25 Oct. 1995, with effect from 1 Jan. 1996 ( AS 1995 5158 )."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Section 1 Application for International Registration",
+      "section": "47",
+      "title": "Filing the application",
+      "content": "1 The application for international registration of a trade mark or of an application for registration must be submitted to the IPI if Switzerland is the country of origin as defined in Article 1 paragraph 3 of the Madrid Agreement of 14 July 1967 concerning the International Registration of Marks (Madrid Agreement) or as defined in Article 2 paragraph 1 of the Protocol of 27 June 1989 relating to the Madrid Agreement concerning the International Registration of Marks (Madrid Protocol). 2 Either a form from the International Bureau of the World Intellectual Property Organization (WIPO) or a form approved by the IPI must be used to file the application. 2bis If an application that is otherwise formally valid contains all the information required, the IPI may waive the requirement to submit the form. 3 The IPI shall determine the language in which the goods and services for which the trade mark or the application for registration is claimed must be indicated. 4 The national fee (Article 45 paragraph 2 TmPA) must be paid at the request by the IPI. SR 0.232.112.3 SR 0.232.112.4 Amended by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 ). Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 ). Inserted by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ( AS 2016 4829 ). Amended by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 ). Amended by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 )."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Section 1 Application for International Registration",
+      "section": "48",
+      "title": "Examination by the IPI",
+      "content": "1 If an application filed with the IPI does not fulfil the formal requirements of the TmPA, this Ordinance or the Common Regulations to the Madrid Agreement of 18 January 1996 and the Madrid Protocol, or if the prescribed fees are not paid, the IPI shall set the applicant a time limit to remedy the deficiency. 2 If the applicant does not remedy the deficiency within the time limit, the IPI shall refuse the application. The IPI may set further time limits in exceptional cases. SR 0.232.112.21 Amended by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 )."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Dossier",
+      "content": "1 The IPI shall maintain a dossier for each internationally registered trade mark with Switzerland as the country of origin. 2 ... Inserted by No I of the O of 22 Jan. 1997 ( AS 1997 865 ). Repealed by No I of the O of 3 Dec. 2004, with effect from 1 Jan. 2005 ( AS 2004 5019 )."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "Section 2 Effect of International Registration in Switzerland",
+      "section": "50",
+      "title": "Opposition proceedings",
+      "content": "1 In the case of an opposition to an international registration, the opposition period under Article 31 paragraph 2 TmPA shall begin on the first day of the month following the month of publication in the organ of publication of the International Bureau of WIPO. 2 The IPI shall maintain a dossier in which the stages of the opposition proceedings are recorded. 3 ... Amended by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 ). Inserted by No I of the O of 22 Jan. 1997 ( AS 1997 865 ). Repealed by No I of the O of 3 Dec. 2004, with effect from 1 Jan. 2005 ( AS 2004 5019 )."
+    },
+    {
+      "provision_ref": "art50a",
+      "chapter": "Section 2 Effect of International Registration in Switzerland",
+      "section": "50a",
+      "title": "a Procedure for cancellation of an international registration on the grounds of non-use",
+      "content": "The request for cancellation of an international registration on the grounds of non-use may be filed at the earliest: a. if a notification of a provisional refusal of protection has been issued: five years after the conclusion of the procedure for the grant of protection in Switzerland; b. if no refusal of protection has been issued: five years after expiry of the time limit for notification of the refusal of protection or five years following the statement of grant of protection. Inserted by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "Section 2 Effect of International Registration in Switzerland",
+      "section": "51",
+      "title": "Suspension of the decision",
+      "content": "1 If the opposition is based on an international registration which is the subject of a provisional refusal of protection by the IPI, the IPI may suspend the decision on the opposition until a final decision on the refusal of protection has been taken. 2 If the international registration lapses and a conversion into a national application for registration is possible in accordance with Article 46 a TmPA, the IPI may suspend the decision on the opposition until the conversion has taken place. Inserted by No I of the O of 22 Jan. 1997, in force since 1 May 1997 ( AS 1997 865 )."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Section 2 Effect of International Registration in Switzerland",
+      "section": "52",
+      "title": "Refusal of protection and invalidation",
+      "content": "1 The following applies for internationally registered trade marks: a. the refusal of protection shall replace the refusal of an application for registration under Article 30 paragraph 2 letters a and c–e TmPA and the revocation of the registration under Article 33 TmPA; b. the invalidation shall replace the cancellation of the registration under Article 35 letters c–e TmPA. 2 The IPI shall not publish the refusal of protection nor the invalidation. Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art52a",
+      "chapter": "Section 1 General Provisions",
+      "section": "52a",
+      "title": "a Subject matter and scope",
+      "content": "1 This Chapter regulates the use of indications of source for: a. products under Article 48 c TmPA; b. services under Article 49 TmPA. 2 For foodstuffs, the Ordinance of 2 September 2015 on the Use of Swiss Indications of Source for Foodstuffs as well as Articles 52 c and 52 d of this Ordinance apply. SR 232.112.1"
+    },
+    {
+      "provision_ref": "art52b",
+      "chapter": "Section 1 General Provisions",
+      "section": "52b",
+      "title": "b Definitions",
+      "content": "In this Ordinance: a. Products under Article 48c TmPA means products which do not fall under the category of natural products or foodstuffs, in particular industrial products; b. Natural products means products under Article 48 a TmPA which come directly from nature and are not processed for placing on the market; c. Materials means raw materials in accordance with Article 48 c TmPA; they include the actual raw materials as well as auxiliary materials and semi-finished products."
+    },
+    {
+      "provision_ref": "art52c",
+      "chapter": "Section 1 General Provisions",
+      "section": "52c",
+      "title": "c Use of references to a region or place",
+      "content": "If goods or services fulfil the legal criteria of origin for Switzerland as a whole, they may be labelled with a reference to a region or place in Switzerland. They must fulfil additional requirements if: a. a particular quality or another characteristic of the goods or service is essentially due to the geographical origin indicated; or b. the region or place gives the goods or service a particular reputation."
+    },
+    {
+      "provision_ref": "art52d",
+      "chapter": "Section 1 General Provisions",
+      "section": "52d",
+      "title": "d Prohibition of misuse",
+      "content": "1 It is prohibited to misuse any flexibility in applying the criteria when determining the place of origin of a product or service. 2 The following, in particular, constitute misuse: a. using different methods, without objective justification, to calculate the costs of materials that constitute the goods when determining their place of origin; or b. if the user’s activity that took place in Switzerland is so minor that it is in obvious disproportion to the activity abroad, in particular if the costs incurred in Switzerland are negligible in comparison to the costs of materials that had to be purchased abroad due to their insufficient availability in Switzerland."
+    },
+    {
+      "provision_ref": "art52e",
+      "chapter": "Section 1 General Provisions",
+      "section": "52e",
+      "title": "e Relevant manufacturing costs",
+      "content": "1 The following costs are considered as manufacturing costs under Article 48 c paragraphs 1 and 2 TmPA: a. research and development costs; b. material costs; c. production costs including costs for the quality assurance and certification which are prescribed by law or standardised in an economic sector. 2 Costs incurred after the conclusion of the production process are not considered to be manufacturing costs."
+    },
+    {
+      "provision_ref": "art52f",
+      "section": "52f",
+      "title": "f Research and development costs",
+      "content": "1 Research costs include the costs for product-related research and non-product related research. 2 Development costs are the costs which are incurred from the conception of the product up until it is market-ready."
+    },
+    {
+      "provision_ref": "art52g",
+      "section": "52g",
+      "title": "g Allocation of research and development costs",
+      "content": "1 Product-related research costs and development costs are directly allocated to the manufacturing costs of the product. 2 Non-product related research costs are allocated to the manufacturing costs of the individual products by a suitable allocation key. 3 The research and development costs may be allocated to the manufacturing costs following the end of the depreciation period customary in the industry. The amount allocated corresponds to the average annual depreciation of the research and development costs during the depreciation period customary in the industry."
+    },
+    {
+      "provision_ref": "art52h",
+      "section": "52h",
+      "title": "h Material costs",
+      "content": "1 Material costs include direct and indirect material costs. 2 Direct material costs are the material costs which are directly attributable to a product. 3 Indirect material costs are considered to be material costs not covered by paragraph 2, in particular, costs incurred for temporary storage or transport during the production process."
+    },
+    {
+      "provision_ref": "art52i",
+      "section": "52i",
+      "title": "i Allocation of material costs",
+      "content": "1 The direct material costs are allocated to the manufacturing costs of the product using a standardised method of calculation, in particular, according to one of the following calculation methods: a. the direct material costs are allocated to the manufacturing costs at the percentage which corresponds to the share of the costs of materials incurred in Switzerland; b. the direct material costs are allocated to the manufacturing costs at the following percentages: 1. 100 per cent for materials which fulfil the requirements of Articles 48–48 c TmPA, 2. 0 per cent for materials which do not fulfil the requirements of Articles 48–48 c TmPA. 2 The indirect material costs shall be allocated, by suitable means, to the manufacturing costs of the individual products."
+    },
+    {
+      "provision_ref": "art52j",
+      "section": "52j",
+      "title": "j Allocation of costs for auxiliary materials",
+      "content": "The costs for auxiliary materials do not need to be allocated to the manufacturing costs if: a. the auxiliary materials are of completely secondary significance to the characteristics of the products; and b. the costs for the auxiliary materials are negligible in comparison to the manufacturing costs of the product."
+    },
+    {
+      "provision_ref": "art52k",
+      "section": "52k",
+      "title": "k Materials unavailable in sufficient quantities in Switzerland",
+      "content": "If a material is not available in sufficient quantities in Switzerland according to publicly accessible industry information, the manufacturer may assume that they are permitted to exclude the costs of materials purchased abroad, up to the indicated unavailability rate, from the calculation of the manufacturing costs."
+    },
+    {
+      "provision_ref": "art52l",
+      "section": "52l",
+      "title": "l Production costs",
+      "content": "1 The production costs consist of direct production costs and indirect production costs. 2 Production costs include, in particular: a. salaries; b. salary-related production costs; c. machine-related production costs; d. costs for quality assurance and certification which are prescribed by law or standardised in an economic sector."
+    },
+    {
+      "provision_ref": "art52m",
+      "section": "52m",
+      "title": "m Allocation of the production costs",
+      "content": "1 Direct production costs are directly allocated to the manufacturing costs of the product. 2 Indirect production costs are allocated to the manufacturing costs of the individual products by a suitable key."
+    },
+    {
+      "provision_ref": "art52n",
+      "section": "52n",
+      "title": "n Calculation of manufacturing costs incurred abroad",
+      "content": "Manufacturing costs incurred abroad may be converted into Swiss francs as follows: a. at the current exchange rate; or b. at the average rate used by the company in its daily business."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "Section 3 Indications of Source for Services",
+      "section": "52",
+      "title": "o",
+      "content": "A place of effective administration under Article 49 TmPA is presumed to be the place where: a. the activities which are essential to the fulfilment of the commercial purpose are carried out; and b. the decisions which determine the provision of the service are made."
+    },
+    {
+      "provision_ref": "art52p",
+      "chapter": "Section 1 Application for the International Registration or the Amendment of the International Registration of a Swiss Appellation of Origin or Geographical Indication",
+      "section": "52p",
+      "title": "p Filing the application",
+      "content": "1 The application for the international registration or the amendment of the international registration of an appellation of origin or a geographical indication whose geographical area of origin lies on Swiss territory must be filed with the IPI. 2 Either a form from the International Bureau of WIPO or a form approved by the IPI must be used to file the application. 3 The application must be filed in French. 4 The IPI shall maintain a dossier for each application."
+    },
+    {
+      "provision_ref": "art52q",
+      "chapter": "Section 1 Application for the International Registration or the Amendment of the International Registration of a Swiss Appellation of Origin or Geographical Indication",
+      "section": "52q",
+      "title": "q Examination of the application",
+      "content": "1 The IPI shall decide whether the application for international registration or the amendment of an international registration meets the requirements under the TmPA, this Ordinance and the Geneva Act and its Regulations. 2 If an application does not meet the requirements or if the prescribed fees have not been paid, the IPI shall set the applicant a time limit to remedy the deficiency. 3 If the applicant does not remedy the deficiency within the time limit, the application shall be refused. The IPI may set further time limits in exceptional cases."
+    },
+    {
+      "provision_ref": "art52r",
+      "chapter": "Section 2 Refusal of the Effects of an International Registration in Switzerland and Safeguards in Respect of Other Rights",
+      "section": "52r",
+      "title": "r",
+      "content": "1 Applications invoking a ground under Article 50 e paragraph 1 TmPA and applications in accordance with Article 50 e paragraph 4 TmPA may be submitted: a. by any party in accordance with the APA; b. by a canton if it concerns a foreign denomination that is the same as or similar to that of a cantonal geographical unit or a traditional denomination used in Switzerland. 2 Applications must be submitted in writing to the IPI within three months of the publication of the international registration by the International Bureau. The time limit shall begin on the first day of the month following the publication in the organ of publication of the International Bureau of WIPO. 3 Articles 20–24 apply by analogy. 4 The IPI may invite the affected federal and cantonal authorities to comment. SR 172.021"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "Chapter 7 Producer Identification Marks on Watches and Watch Movements",
+      "section": "53",
+      "title": "",
+      "content": "1 Swiss watches and watch movements as defined in the Ordinance of 23 December 1971 on the Use of the Designation «Swiss» for Watches must display the identification mark of the manufacturer. On watches, the identification mark must be placed on the case or on the dial. 2 The producer identification mark must be clearly visible and permanently affixed. Instead of the producer identification mark, the company name or a trade mark owned by the manufacturer may be affixed. 3 It may only be used for Swiss products. 4 The Federation of the Swiss Watch Industry FH issues the producer identification marks and maintains a corresponding register. 5 The grounds for refusal under Article 3 paragraph 1 TmPA also apply to producer identification marks. SR 232.119"
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "Chapter 8 Assistance provided by the FOCBS",
+      "section": "54",
+      "title": "Scope",
+      "content": "The assistance provided by the FOCBS shall extend to the movement of goods which unlawfully bear a trade mark or an indication of source into or out of the customs territory. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2547 )."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "Chapter 8 Assistance provided by the FOCBS",
+      "section": "55",
+      "title": "Application for assistance",
+      "content": "1 The proprietor of the trade mark, the licensee entitled to institute proceedings, the person entitled to use an indication of source or a party (applicant) entitled to institute proceedings under Article 56 TmPA, must submit the application for assistance to the Directorate General of Customs. 1bis The Directorate General of Customs shall make a decision on the application no later than 40 days after receipt of the complete documentation. 2 The application is valid for a period of two years unless a shorter period of validity is requested. It may be renewed. Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 ). Inserted by No I 3 of the O of 6 June 2014 on Official Processing Times for Matters within the Jurisdiction of the Federal Customs Administration, in force since 1 Sept. 2014 ( AS 2014 2051 )."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "Chapter 8 Assistance provided by the FOCBS",
+      "section": "56",
+      "title": "Withholding of goods",
+      "content": "1 If the customs office withholds goods, it shall retain the goods for a fee or shall place them in the custody of a third party at the cost of the applicant. 2 It shall provide the applicant with the name and address of the declarant, holder or owner, a precise description and the quantity, and details of the sender of the withheld goods in Switzerland or abroad. 3 If it is established prior to the expiry of the time limits under Article 72 paragraphs 2 and 3 TmPA that the applicant is unable to obtain preliminary measures, the goods shall be released immediately. Amended by Annex 4 No 3 of the Customs Ordinance of 1 Nov. 2006 in force since 1 May 2007 ( AS 2007 1469 ). Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2547 ). Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art56a",
+      "chapter": "Chapter 8 Assistance provided by the FOCBS",
+      "section": "56a",
+      "title": "a Specimens or samples",
+      "content": "1 The applicant may request that the specimens or samples are handed over or delivered to them for examination or that the items are inspected. Instead of specimens or samples, the FOCBS may provide the applicant with photographs of the withheld goods if this enables the applicant to assess the goods. 2 The request may be submitted with the application for assistance to the Directorate General of Customs or, while the goods are being withheld, directly to the customs office that is withholding the goods. Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2547 )."
+    },
+    {
+      "provision_ref": "art56b",
+      "section": "56b",
+      "title": "b Safeguarding of manufacturing and trade secrets",
+      "content": "1 The FOCBS shall inform the declarant, holder or owner of the goods of the possibility of refusing to take specimens or samples on presentation of a reasoned request. It shall set a suitable time limit for him or her to submit the request. 2 If the FOCBS permits the applicant to inspect the withheld goods, it shall take appropriate consideration of the interests of the applicant and the declarant or holder or owner when determining the date of inspection. Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2547 )."
+    },
+    {
+      "provision_ref": "art56c",
+      "section": "56c",
+      "title": "c Safekeeping of evidence in the event of destruction of goods",
+      "content": "1 The FOCBS shall keep the specimens or samples collected for a period of one year starting from the date of notification of the declarant, right holder or owner in accordance with Article 72 paragraph 1 TmPA. After this time limit expires, it shall request the declarant, holder or owner to take possession of the specimens or samples or bear the costs of their continued safekeeping. If the declarant, holder or owner is not willing to do so or does not respond to this request within 30 days, the FOCBS shall destroy the specimens or samples. 2 Instead of collecting specimens or samples, the FOCBS may take photographs of the destroyed goods, provided this serves the purpose of preserving evidence. Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2547 )."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Fees",
+      "content": "The fees for assistance provided by the FOCBS are governed by the Ordinance of 4 April 2007 on the Fees charged by the Federal Office for Customs and Border Security. Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ( AS 2008 2547 ). SR 631.035"
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "Section 1 Repeal of Current Legislation",
+      "section": "58",
+      "title": "",
+      "content": "The following are repealed: a. the Ordinance of 24 April 1929 on the Protection of Factory and Trade Marks (TmPO); b. The Federal Council Decree of 4 November 1966 concerning the Implementation of the Madrid Agreement on the International Registration of Factory and Trade Marks. [BS 2 856; AS 1951 905 ; 1959 2100 ; 1962 1060 ; 1968 601 ; 1972 2444 ; 1977 1989 ; 1983 1478 No III 2; 1986 526 ] [ AS 1966 1413 ; 1973 1839 ; 1977 1992 ]"
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "59",
+      "title": "Time limits",
+      "content": "Time limits set by the IPI that are running on the day this Ordinance comes into force shall remain unchanged."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "60",
+      "title": "Priority of use",
+      "content": "1 For the filing of a trade mark in accordance with Article 78 paragraph 1 TmPA, the date on which use of the trade mark commenced shall be entered in the Trade Mark Register and published. 2 If it concerns an internationally registered trade mark, the relevant information must be provided to the IPI by the end of the month of publication of the international registration; the date on which the use of the trade mark commenced shall be entered in a special register and published."
+    },
+    {
+      "provision_ref": "art60a",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "60a",
+      "title": "a Transitional Provision to the Amendment of 2 September 2015",
+      "content": "Products manufactured before the commencement of the Amendment of 2 September 2015 may be placed on the market for the first time with an indication of source that complies with the law in force only until 31 December 2018. Inserted by No I of the O of 18 Oct. 2006 ( AS 2006 4479 ). Amended by No I of the O of 2 Sept. 2015, in force since 1 Jan. 2017 ( AS 2015 3649 )."
+    },
+    {
+      "provision_ref": "art60b",
+      "chapter": "Section 2 Transitional Provisions",
+      "section": "60b",
+      "title": "b Transitional Provision to the Amendment of 18 August 2021",
+      "content": "Until the organ of publication of the International Bureau of WIPO is operational, the IPI shall publish the international registrations of appellations of origin and geographical indications whose protection on Swiss territory has been requested in the Federal Gazette. Inserted by No I of the O of 18 Aug. 2021, in force since 1 Dec. 2021 ( AS 2021 510 )."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "Section 3 Commencement",
+      "section": "61",
+      "title": "",
+      "content": "This Ordinance comes into force on 1 April 1993."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Products under Article 48c TmPA",
+      "definition": "Products under Article 48c TmPA means products which do not fall under the category of natural products or foodstuffs, in particular industrial products;",
+      "source_provision": "art52b"
+    },
+    {
+      "term": "Natural products",
+      "definition": "Natural products means products under Article 48 a TmPA which come directly from nature and are not processed for placing on the market;",
+      "source_provision": "art52b"
+    },
+    {
+      "term": "Materials",
+      "definition": "Materials means raw materials in accordance with Article 48 c TmPA; they include the actual raw materials as well as auxiliary materials and semi-finished products.",
+      "source_provision": "art52b"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "sr-235-22",
+  "type": "statute",
+  "title": "Verordnung vom 17. August 2016 über das Informationssystem E-VERA (Verordnung E-VERA, VEVERA)",
+  "title_en": "",
+  "short_name": "VEVERA",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/487/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt den Betrieb und die Benützung des Informationssystems E‑VERA (E-VERA) des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Zweck des Informationssystems",
+      "content": "Das E-VERA dient dem EDA zur Erfüllung der konsularischen Aufgaben durch die schweizerischen Vertretungen im Ausland (Vertretungen) und die Konsularische Direktion (KD), insbesondere betreffend: a. die Führung des Auslandschweizerregisters; b. die Kommunikation mit den Auslandschweizerinnen und Auslandschweizern; c. die Verwaltung und den Versand von Publikationen; d. die Erstellung von Auswertungen und Statistiken; e die Bewältigung von Krisen und Katastrophen; f. die Unterstützung der Schweizerischen Ausgleichskasse (SAK) im Rahmen der freiwilligen Versicherung nach Artikel 2 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) und Artikel 3 der Verordnung vom 26. Mai 1961 über die freiwillige Alters-, Hinterlassenen- und Invalidenversicherung. SR 831.10 SR 831.111"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Verantwortung",
+      "content": "Die KD trägt die Verantwortung für das E-VERA."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Struktur",
+      "content": "Das E-VERA besteht aus einer Datenbank und einem Online-Schalter."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "5",
+      "title": "Im E-VERA erfasste Personen",
+      "content": "1 Im E-VERA werden die Daten folgender Personen bearbeitet: a. Auslandschweizerinnen und Auslandschweizer; b. Ehepartnerinnen und Ehepartner sowie eingetragene Partnerinnen und Partner von Personen nach Buchstabe a; c. Kinder von Personen nach den Buchstaben a und b; d. ausländische Eltern von minderjährigen Auslandschweizerinnen und Auslandschweizern; e. Personen und deren Angehörige, für welche die Schweiz Schutzfunktionen übernimmt oder für welche sie den Schutz fremder Interessen wahrnimmt. 2 Die Bearbeitung der Daten erfolgt nach Anhang 1."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "6",
+      "title": "Erfassung und Überprüfung der Daten",
+      "content": "1 Sämtliche Daten des E-VERA werden von den Vertretungen erfasst. Das System teilt jeder Person automatisch eine Nummer zu. 2 Die im E-VERA erfassten AHV-Nummern werden nach den Artikeln 133 bis und 134 quater der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung verifiziert und gegebenenfalls berichtigt. Personen ohne AHV-Nummer weist die Zentrale Ausgleichsstelle (ZAS) die AHV-Nummer zu. 3 Das E-VERA überprüft mittels Online-Abfrage, ob im E-VERA erfasste Personen wegen eines Verbrechens oder Vergehens im automatisierten Polizeifahndungssystem (RIPOL) verzeichnet sind. Das Resultat der Abfrage wird im E-VERA nicht gespeichert. SR 831.101 Fassung gemäss Anhang Ziff. II 11 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ( AS 2021 800 )."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Datenbearbeitung",
+      "section": "7",
+      "title": "Bearbeitungsrechte",
+      "content": "1 Die Vertretungen und die KD verfügen für alle Daten im E-VERA über sämtliche Bearbeitungsrechte. 2 Die Personen nach Artikel 5 können die Daten nach Anhang 1, die sie oder ihre im gleichen Haushalt lebenden Angehörigen betreffen, im Rahmen ihrer Zugriffsrechte einsehen; sie können konsularische Dienstleistungen sowie die Änderung unrichtiger oder nicht mehr aktueller Daten beantragen. 3 Die folgenden Stellen können für die nachstehenden Zwecke die Daten nach Anhang 1 im Abrufverfahren einsehen: a. die Fachstelle Datenschutz, Öffentlichkeitsprinzip und Informationssicherheit EDA: zur Erteilung von Auskünften bei Anfragen in ihrem Zuständigkeitsbereich; b. die Interne Revision EDA: zur Vorbereitung und Durchführung von Audits auf Auslandvertretungen; c. das Krisenmanagementzentrum des EDA: zur raschen Lokalisierung von Schweizer Bürgerinnen und Bürgern in Krisensituationen; d. das Passbüro EDA: zum Auffinden von Inhaberinnen und Inhabern von Diplomaten- und Dienstpässen im Ausland; e. die SAK: zur Erfüllung der gesetzlichen Aufgaben im Bereich der Alters- und Hinterlassenenversicherung sowie der Invalidenversicherung; f. die ZAS: zur Zuweisung der AHV-Nummer. 4 Die Einheit für Informatik des EDA verfügt über diejenigen Zugriffsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind. Ausdruck gemäss Anhang Ziff. II 11 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ( AS 2021 800 ). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Bekanntgabe von Daten",
+      "content": "1 Die Vertretungen und die KD können im E-VERA erfasste Daten von Personen, die von einer Krise oder Katastrophe betroffen sind, Rettungskräften, ausländischen Vertretungen und lokalen Behörden bekannt geben, wenn dies im Interesse der Betroffenen ist. 2 Den folgenden Stellen werden die Daten nach Anhang 1 automatisch und verschlüsselt übermittelt: a. dem Bundesamt für Statistik: im Rahmen der Statistikerhebungsverordnung vom 30. Juni 1993 und der Registerharmonisierungsverordnung vom 21. November 2007; b. der SAK: zur Vornahme der den Vertretungen gemeldeten Mutationen, die Dossiers betreffen, die von der SAK verwaltet werden; c. der ZAS: zur Verifizierung und Zuweisung der AHV-Nummer. 3 Die Vertretungen und die KD können im E-VERA erfasste Daten anderen Behörden bekannt geben, sofern diese die Daten zur Erfüllung ihrer Aufgaben benötigen. SR 431.012.1 SR 431.021"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "1 Fünf Jahre nach der Erfassung einer der folgenden Angaben, spätestens aber nach Vollendung des 115. Altersjahrs, werden die Daten der betreffenden Person vernichtet: a. abgemeldet; b. gestorben; c. tot geboren; d. Tod ohne Todesurkunde; e. verschollen. 2 Vorbehalten bleiben die Bestimmungen der Archivierungsgesetzgebung des Bundes. Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 ). Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Zugriffsberechtigungen und Betrieb",
+      "section": "10",
+      "title": "Erteilung der Zugriffsberechtigung",
+      "content": "1 Die oder der Anwendungsverantwortliche erteilt den Benutzerinnen und Benutzern des E-VERA die individuellen Zugriffsrechte. 2 Die KD überprüft jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin erfüllt sind."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Zugriffsberechtigungen und Betrieb",
+      "section": "11",
+      "title": "Technischer Betrieb und Systemverwaltung",
+      "content": "1 Die Einheit für Informatik des EDA ist für den technischen Betrieb des E-VERA verantwortlich. 2 Die Systemadministratorin oder der Systemadministrator verwaltet das Computersystem, die Datenbank und die Anwendungen. 3 Die oder der Anwendungsverantwortliche bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern. Sie oder er gehört der KD an."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Zugriffsberechtigungen und Betrieb",
+      "section": "12",
+      "title": "Schnittstelle",
+      "content": "Das E-VERA weist eine elektronische Schnittstelle zum Informationssystem EDAssist+ auf. Anhang 2 enthält die Angabe der Daten, die vom E-VERA an das Informationssystem EDAssist+ übermittelt werden, sowie die Periodizität der Übermittlung."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "13",
+      "title": "Sorgfaltspflichten",
+      "content": "1 Die KD und die Vertretungen sorgen dafür, dass die Personendaten im E-VERA vorschriftsgemäss bearbeitet werden. 2 Sie stellen sicher, dass die Personendaten richtig, vollständig und nachgeführt sind."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "14",
+      "title": "Datensicherheit",
+      "content": "1 Die Informatiksicherheit richtet sich nach: a. der Datenschutzverordnung vom 31. August 2022; b. der Cyberrisikenverordnung vom 27. Mai 2020; c. … 2 Die KD erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung. Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 ). SR 235.11 Fassung gemäss Anhang Ziff. 12 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ( AS 2021 132 ). SR 120.73 Aufgehoben durch Anhang Ziff. 12 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ( AS 2021 132 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Datensicherheit",
+      "section": "15",
+      "title": "Protokollierung",
+      "content": "1 Die Zugriffe auf das E-VERA und die Bearbeitungen im E-VERA werden laufend protokolliert. 2 Die Protokolle werden während einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt. Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "16",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die VERA-Verordnung vom 7. Juni 2004 wird aufgehoben. [ AS 2004 2997 ; 2007 6719 Anhang Ziff. 4; 2012 337 Art. 19]"
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "17",
+      "title": "Änderung anderer Erlasse",
+      "content": "Die nachstehenden Erlasse werden wie folgt geändert: … Die Änderungen können unter AS 2016 2933 konsultiert werden."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "5. Abschnitt: Schlussbestimmungen",
+      "section": "18",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. September 2016 in Kraft."
+    }
+  ],
+  "definitions": []
+}

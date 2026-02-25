@@ -1,0 +1,62 @@
+{
+  "id": "sr-941-210-1",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 24. September 2010 über Messmittel für die Schallmessung",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2010/639/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Anforderungen an Messmittel für die Schallmessung; b. die Verfahren für das Inverkehrbringen dieser Messmittel; c. die Verfahren zur Erhaltung der Messbeständigkeit dieser Messmittel."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "Dieser Verordnung unterstehen Messmittel, die eingesetzt werden für: a. Geräuschmessungen nach der Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge; b. Messungen der Lärmimmissionen nach der Lärmschutz-Verordnung vom 15. Dezember 1986; c. Messungen der Schallimmissionen durch die Vollzugsbehörden nach der Schall- und Laserverordnung vom 28. Februar 2007; d. Messungen der Lärmimmissionen nach der Verordnung vom 25. April 2012 über die Flughafengebühren. SR 741.41 SR 814.41 SR 814.49 Eingefügt durch Ziff. I der V des EJPD vom 5. Nov. 2013, in Kraft seit 1. Dez. 2013 ( AS 2013 4027 ). SR 748.131.3"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Begriff",
+      "content": "Als Messmittel für die Schallmessung gelten Schallpegelmesser, Filter und Kalibratoren."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Grundlegende Anforderungen",
+      "content": "Messmittel für die Schallmessung müssen die grundlegenden Anforderungen nach Anhang 1 der Messmittelverordnung und nach dem Anhang der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Messmittel für die Schallmessung bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 der Messmittelverordnung durch das Eidgenössische Institut für Metrologie (METAS). Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( AS 2004 4937 ) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "1 Messmittel für die Schallmessung müssen alle zwei Jahre nach Anhang 7 Ziffer 1 der Messmittelverordnung durch das METAS oder eine ermächtigte Eichstelle nachgeeicht werden. 2 Vor jeder Verwendung müssen Schallpegelmesser nach Anhang 7 Ziffer 6 der Messmittelverordnung mit einem geeichten Kalibrator kalibriert werden, welcher mindestens den Anforderungen der korrespondierenden Genauigkeitsklasse genügt. 3 Das METAS kann die Fristen für die Nacheichung für einzelne Messmittel oder Bauarten verlängern oder verkürzen, wenn die messtechnischen Eigenschaften dies erlauben oder verlangen."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Übergangsbestimmung",
+      "content": "1 Messmittel für die Schallmessung, die nach bisherigem Recht zugelassen wurden, können bis zum Ablauf der Zulassung in Verkehr gebracht werden. 2 Für die Ersteichung und die Nacheichung gelten bis zum Ablauf der Zulassung die Anforderungen des bisherigen Rechts. 3 Die Messmittel dürfen auch nach Ablauf der Zulassung nachgeeicht werden, wenn sie die Anforderungen dieser Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2011 in Kraft."
+    }
+  ],
+  "definitions": []
+}

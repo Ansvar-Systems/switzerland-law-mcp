@@ -1,0 +1,62 @@
+{
+  "id": "sr-730-022-2",
+  "type": "statute",
+  "title": "Verordnung des UVEK vom 2. Juli 2025 über die Festlegungen zur Angabe des Energieverbrauchs und weiterer Eigenschaften von Personenwagen, Lieferwagen und leichten Sattelschleppern (VEE-PLS)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2025/470/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Grenzen der Energieeffizienz-Kategorien",
+      "content": "Für Personenwagen, die über Werte verfügen, die nach dem aktuellen Messverfahren gemäss Artikel 97 Absatz 5 der Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS) gemessen wurden, sind die Energieeffizienz-Kategorien A–G für das Jahr 2026 wie folgt festgelegt: Energieeffizienz-Kategorie Grenzen (Basis: Primärenergie-Benzinäquivalente) A ≤ 3,23 B > 3,23 bis ≤ 4,03 C > 4,03 bis ≤ 4,84 D > 4,84 bis ≤ 5,65 E > 5,65 bis ≤ 6,46 F > 6,46 bis ≤ 7,26 G > 7,26 SR 741.41"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Durchschnitt der CO 2 -Emissionen",
+      "content": "Der Durchschnitt der CO 2 -Emissionen der erstmals immatrikulierten Personenwagen beträgt für das Jahr 2026 111 g/km."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "",
+      "content": "Die Benzinäquivalente berechnen sich bei Personenwagen, Lieferwagen und leichten Sattelschleppern, die mit folgenden Treibstoffen oder Strom angetrieben werden, wie folgt: a. Diesel: Energieverbrauch in l/100 km × 1,14; b. Erdgas: Energieverbrauch in kg/100 km × 1,52 l/kg; c. Autogas (LPG): Energieverbrauch in l/100 km × 0,79; d. Treibstoffgemisch E85: Energieverbrauch in l/100 km × 0,72; e. Strom: Energieverbrauch in kWh/100 km × 0,11 l/kWh; f. Wasserstoff: Energieverbrauch in kg/100 km × 3,82 l/kg. Berechnungsgrundlagen gemäss den CO 2 -Emissionsfaktoren des schweizerischen Treibhausgasinventars des Bundesamtes für Umwelt (BAFU, 2024) und den Angaben der Eidg. Materialprüfungsanstalt Empa für das Bundesamt für Energie 2021."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "",
+      "content": "Die Primärenergie-Benzinäquivalente berechnen sich bei Personenwagen, Lieferwagen und leichten Sattelschleppern, die mit folgenden Treibstoffen oder Strom angetrieben werden, wie folgt: a. Diesel: Energieverbrauch in l/100 km × 1,10; b. Erdgas: Energieverbrauch in kg/100 km × 1,11 l/kg; c. Autogas (LPG): Energieverbrauch in l/100 km × 0,78; d. Treibstoffgemisch E85: Energieverbrauch in l/100 km × 1,68; e. Strom: Energieverbrauch in kWh/100 km × 0,22 l/kWh; f. Wasserstoff: Energieverbrauch in kg/100 km × 6,62 l/kg. Berechnungsgrundlagen gemäss der Ökoinventardatenbank der Bundesverwaltung, ergänzt mit Daten aus der Datenbank ecoinvent v2.2; die Berechnungsgrundlagen können kostenlos bezogen werden beim BAFU, bafu-KonsumundProdukte@bafu.admin.ch."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "Die CO 2 -Emissionen aus der Treibstoff- oder der Strombereitstellung in g/km berechnen sich bei Personenwagen, Lieferwagen und leichten Sattelschleppern, die mit folgenden Treibstoffen oder Strom angetrieben werden, wie folgt, wobei die CO 2 -Emissionswerte jeweils durch 100 dividiert werden müssen: a. Benzin: Energieverbrauch in l/100 km × 461 g CO 2 /l; b. Diesel: Energieverbrauch in l/100 km × 437 g CO 2 /l; c. Erdgas: Energieverbrauch in kg/100 km × 527 g CO 2 /kg; d. Autogas (LPG): Energieverbrauch in l/100 km × 355 g CO 2 /l; e. Treibstoffgemisch E85: Energieverbrauch in l/100 km × 462 g CO 2 /l; f. Strom: Energieverbrauch in kWh/100 km × 111 g CO 2 /kWh; g. Wasserstoff: Energieverbrauch in kg/100 km × 1078 g CO 2 /kg. Berechnungsgrundlagen gemäss der Ökoinventardatenbank der Bundesverwaltung, ergänzt mit Daten aus der Datenbank ecoinvent v2.2; die Berechnungsgrundlagen können kostenlos bezogen werden beim BAFU, bafu-KonsumundProdukte@bafu.admin.ch."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Besondere Bestimmungen für NEFZ-Fahrzeuge",
+      "content": "1 Für Personenwagen, die noch nicht über Werte verfügen, die nach dem aktuellen Messverfahren gemäss Artikel 97 Absatz 5 VTS gemessen wurden, (NEFZ-Fahrzeuge) sind die Energieeffizienz-Kategorien A–G für das Jahr 2026 wie folgt festgelegt: Energieeffizienz-Kategorie Grenzen (Basis: Primärenergie-Benzinäquivalente) A ≤ 4,80 B > 4,80 bis ≤ 5,12 C > 5,12 bis ≤ 5,56 D > 5,56 bis ≤ 6,00 E > 6,00 bis ≤ 6,65 F > 6,65 bis ≤ 7,52 G > 7,52 2 Die Energieetikette für NEFZ-Fahrzeuge enthält: a. einen Hinweis, dass es sich bei den angegebenen Werten um Werte handelt, die nach dem alten Messverfahren (NEFZ) gemessen wurden; b. den CO 2 -Zielwert von 95 g/km. 3 Bei allen übrigen Anwendungsbereichen ist ein gut sichtbarer und lesbarer Hinweis anzubringen, dass es sich um Werte handelt, die nach dem alten Messverfahren (NEFZ) gemessen wurden. SR 741.41"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Aufhebung eines anderen Erlasses",
+      "content": "Die Verordnung des UVEK vom 5. Juli 2024 über die Festlegungen zur Angabe des Energieverbrauchs und weiterer Eigenschaften von Personenwagen, Lieferwagen und leichten Sattelschleppern wird aufgehoben. [ AS 2024 350 ]"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2026 in Kraft."
+    }
+  ],
+  "definitions": []
+}

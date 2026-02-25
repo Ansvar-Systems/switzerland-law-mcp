@@ -1,0 +1,32 @@
+{
+  "id": "sr-844-12",
+  "type": "statute",
+  "title": "Verordnung vom 24. September 1993 über die Einkommens- und Vermögensgrenzen für die Verbesserung der Wohnverhältnisse in Berggebieten",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1993/2889_2889_2889/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Einkommensgrenzen",
+      "content": "1 Die Finanzhilfe wird nur für Wohnungen gewährt, deren Bewohner ein steuerbares Einkommen nach dem Bundesratsbeschluss vom 9. Dezember 1940 über die Erhebung einer direkten Bundessteuer haben, das 42 700 Franken nicht übersteigt. 2 Für jedes minderjährige oder sich noch in Ausbildung befindende Kind, für dessen Unterhalt die Familie oder eine alleinstehende Person aufkommt, erhöht sich die Grenze um 2200 Franken. [BS 6 350; AS 1950 1467 ; 1954 1316 ; 1958 398 ; 1971 947 ; 1973 1066 ; 1975 1213 ; 1977 2103 ; 1978 2066 ; 1982 144 ; 1984 584 ; 1985 1222 ; 1988 878 ; 1992 1072 . AS 1991 1184 Art. 201]. Heute: nach dem BG vom 14. Dez. 1990 über die direkte Bundessteuer ( SR 642.11 )."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Vermögensgrenzen",
+      "content": "1 Die Finanzhilfe wird für Wohnungen gewährt, deren Bewohner ein Vermögen haben, das 127 300 Franken nicht übersteigt. 2 Für jedes minderjährige oder sich noch in Ausbildung befindende Kind, für dessen Unterhalt die Familie oder eine alleinstehende Person aufkommt, erhöht sich die Grenze um 15 000 Franken."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 1994 in Kraft."
+    }
+  ],
+  "definitions": []
+}

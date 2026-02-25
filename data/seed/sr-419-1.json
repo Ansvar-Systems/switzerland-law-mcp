@@ -1,0 +1,189 @@
+{
+  "id": "sr-419-1",
+  "type": "statute",
+  "title": "Bundesgesetz vom 20. Juni 2014 über die Weiterbildung (WeBiG)",
+  "title_en": "",
+  "short_name": "WeBiG",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2016/132/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Zweck und Gegenstand",
+      "content": "1 Mit diesem Gesetz soll die Weiterbildung als Teil des lebenslangen Lernens im Bildungsraum Schweiz gestärkt werden. 2 Dieses Gesetz: a. legt Grundsätze über die Weiterbildung fest; b. legt Voraussetzungen für die Ausrichtung von Finanzhilfen durch den Bund fest; c. bestimmt, wie der Bund die Erforschung und die Entwicklung der Weiterbildung fördert; d. regelt die Förderung des Erwerbs und des Erhalts von Grundkompetenzen Erwachsener durch den Bund. 3 Im Übrigen regelt und fördert der Bund die Weiterbildung über die Spezialgesetzgebung."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "1 Dieses Gesetz gilt für den gesamten Bereich der Weiterbildung, soweit die nachfolgenden Bestimmungen keine andere Regelung vorsehen. 2 Die Umsetzung der Grundsätze dieses Gesetzes im Hochschulbereich bleibt in der Zuständigkeit der gemeinsamen hochschulpolitischen Organe nach dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011 . SR 414.20"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "In diesem Gesetz bedeuten: a. Weiterbildung (nichtformale Bildung): strukturierte Bildung ausserhalb der formalen Bildung; b. formale Bildung: staatlich geregelte Bildung, die: 1. in der obligatorischen Schule stattfindet, oder 2. zu einem der folgenden Abschlüsse führt: – zu einem Abschluss der Sekundarstufe II, zu einem Abschluss der höheren Berufsbildung oder zu einem akademischen Grad, – zu einem Abschluss, der Voraussetzung für eine staatlich reglementierte berufliche Tätigkeit bildet; c. strukturierte Bildung: Bildung namentlich in organisierten Kursen, mit Lernprogrammen und einer definierten Lehr-Lern-Beziehung; d. informelle Bildung: Kompetenzen, die ausserhalb strukturierter Bildung erworben worden sind."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "4",
+      "title": "Ziele",
+      "content": "Der Bund verfolgt in der Weiterbildung gemeinsam mit den Kantonen die folgenden Ziele: a. die Initiative der Einzelnen, sich weiterzubilden, unterstützen; b. Voraussetzungen schaffen, die allen Personen die Teilnahme an Weiterbildung ermöglichen; c. die Arbeitsmarktfähigkeit gering qualifizierter Personen verbessern; d. günstige Rahmenbedingungen für die öffentlich-rechtlichen und die privaten Anbieterinnen und Anbieter von Weiterbildung schaffen; e. die Koordination der von Bund und Kantonen geregelten und unterstützten Weiterbildung sicherstellen; f. die internationalen Entwicklungen der Weiterbildung verfolgen, die nationalen und internationalen Entwicklungen vergleichen und mit Blick auf ihre Wirksamkeit beurteilen."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Grundsätze",
+      "section": "5",
+      "title": "Verantwortung",
+      "content": "1 Der einzelne Mensch trägt die Verantwortung für seine Weiterbildung. 2 Die öffentlichen und die privaten Arbeitgeber begünstigen die Weiterbildung ihrer Mitarbeiterinnen und Mitarbeiter. 3 Bund und Kantone tragen in Ergänzung zur individuellen Verantwortung und zum Angebot Privater dazu bei, dass sich Personen ihren Fähigkeiten entsprechend weiterbilden können. 4 Sie regeln die Weiterbildung, soweit die Erfüllung ihrer Aufgaben dies erfordert."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Grundsätze",
+      "section": "6",
+      "title": "Qualitätssicherung und Qualitätsentwicklung",
+      "content": "1 Die Anbieterinnen und Anbieter von Weiterbildung tragen die Verantwortung für Qualitätssicherung und Qualitätsentwicklung. 2 Bund und Kantone können Verfahren der Qualitätssicherung und der Qualitätsentwicklung unterstützen, um bei den Bildungsgängen und Abschlüssen in der Weiterbildung Transparenz und Vergleichbarkeit zu schaffen. 3 Die Qualitätssicherung und die Qualitätsentwicklung in von Bund oder Kantonen geregelter und unterstützter Weiterbildung sind insbesondere in den folgenden Bereichen sicherzustellen: a. bei der Information über die Angebote; b. bei der Qualifikation der Ausbildnerinnen und Ausbildner; c. in den Lernprogrammen; d. in den Qualifikationsverfahren."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "2. Abschnitt: Grundsätze",
+      "section": "7",
+      "title": "Anrechnung von Bildungsleistungen an die formale Bildung",
+      "content": "1 Bund und Kantone sorgen in Zusammenarbeit mit den involvierten ausbildungs- und prüfungsrelevanten Organisationen der Arbeitswelt sowie den hochschulpolitischen Organen im Sinne des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011 für transparente Verfahren zur Anrechenbarkeit von Weiterbildung und informeller Bildung an die formale Bildung. 2 Bund und Kantone fördern die Durchlässigkeit und Modalitäten zur Leistungsvalidierung. 3 Sie bezeichnen die Organe, welche die Kriterien für die Anrechenbarkeit festlegen und für die Transparenz sorgen. SR 414.20"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "2. Abschnitt: Grundsätze",
+      "section": "8",
+      "title": "Verbesserung der Chancengleichheit",
+      "content": "Bund und Kantone sind bestrebt, mit der von ihnen geregelten oder unterstützten Weiterbildung insbesondere: a. die tatsächliche Gleichstellung von Frauen und Männern zu verwirklichen; b. den besonderen Bedürfnissen von Menschen mit Behinderungen Rechnung zu tragen; c. die Integration von Ausländerinnen und Ausländern zu erleichtern; d. den Wiedereinstieg ins Berufsleben zu erleichtern."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "2. Abschnitt: Grundsätze",
+      "section": "9",
+      "title": "Wettbewerb",
+      "content": "1 Die staatliche Durchführung, Förderung oder Unterstützung von Weiterbildung darf den Wettbewerb nicht beeinträchtigen. 2 Sie beeinträchtigt den Wettbewerb nicht, wenn die Weiterbildung unter Berücksichtigung der Qualität, Leistung und Spezialität: a. zu mindestens kostendeckenden Preisen angeboten wird; oder b. nicht im Wettbewerb mit privaten, nicht subventionierten Angeboten steht. 3 Beeinträchtigungen des Wettbewerbs sind zulässig, sofern sie durch ein überwiegendes öffentliches Interesse gerechtfertigt sind, verhältnismässig sind und auf einer gesetzlichen Grundlage beruhen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Voraussetzungen für die Ausrichtung von Finanzhilfen durch den Bund durch den Bund",
+      "section": "10",
+      "title": "",
+      "content": "1 Der Bund kann im Rahmen der Spezialgesetzgebung Finanzhilfen für Weiterbildungen leisten, wenn: a. für sie ein öffentliches Interesse besteht; b. das Angebot ohne die Finanzhilfen des Bundes nicht oder nicht ausreichend zustande kommt; c. die Ziele und die Kriterien der staatlichen Unterstützung der Weiterbildung festgelegt sind; d. die Grundsätze dieses Gesetzes eingehalten sind; und e. die Wirksamkeit der Finanzhilfe regelmässig überprüft wird. 2 Er leistet Finanzhilfen nachfrageorientiert. Die Spezialgesetzgebung kann Ausnahmen vorsehen."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "4. Abschnitt: Erforschung und Entwicklung der Weiterbildung",
+      "section": "11",
+      "title": "Ressortforschung des Bundes",
+      "content": "Die Ressortforschung des Bundes in der Weiterbildung richtet sich nach Artikel 16 Absatz 2 Buchstaben b–d des Bundesgesetzes vom 14. Dezember 2012 über die Förderung der Forschung und der Innovation. SR 420.1"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "4. Abschnitt: Erforschung und Entwicklung der Weiterbildung",
+      "section": "12",
+      "title": "Finanzhilfen an Organisationen der Weiterbildung",
+      "content": "1 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) kann für Informations- und Koordinationsaufgaben, für die Qualitätssicherung und Qualitätsentwicklung sowie für die Entwicklung der Weiterbildung im Rahmen der bewilligten Kredite Finanzhilfen an Organisationen der Weiterbildung gewähren oder mit ihnen Leistungsvereinbarungen abschliessen. 2 Finanzhilfe an eine Organisation der Weiterbildung wird nur gewährt, wenn die Organisation: a. gesamtschweizerisch tätig ist; und b. nicht gewinnorientiert ist. 3 Der Bundesrat legt weitere Kriterien für die Gewährung der Finanzhilfen fest."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "5. Abschnitt: Erwerb und Erhalt von Grundkompetenzen Erwachsener",
+      "section": "13",
+      "title": "Grundkompetenzen Erwachsener",
+      "content": "1 Grundkompetenzen Erwachsener sind Voraussetzungen für das lebenslange Lernen und umfassen grundlegende Kenntnisse und Fähigkeiten in den folgenden Bereichen: a. Lesen, Schreiben und mündliche Ausdrucksfähigkeit in einer Landessprache; b. Grundkenntnisse der Mathematik; c. Anwendung von Informations- und Kommunikationstechnologien. 2 Die Anbieterinnen und Anbieter von Kursen zum Erwerb und zum Erhalt von Grundkompetenzen Erwachsener sorgen für eine praxisnahe Ausgestaltung des Angebots, indem sie im Alltag relevante gesellschaftliche, wirtschaftliche und rechtliche Themen in die Vermittlung von Grundkompetenzen Erwachsener einbeziehen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "5. Abschnitt: Erwerb und Erhalt von Grundkompetenzen Erwachsener",
+      "section": "14",
+      "title": "Ziel",
+      "content": "1 Der Bund setzt sich gemeinsam mit den Kantonen dafür ein, Erwachsenen den Erwerb und den Erhalt von Grundkompetenzen zu ermöglichen. 2 Bund und Kantone beziehen dabei die Organisationen der Arbeitswelt mit ein."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "5. Abschnitt: Erwerb und Erhalt von Grundkompetenzen Erwachsener",
+      "section": "15",
+      "title": "Zuständigkeit und Koordination",
+      "content": "1 Bund und Kantone fördern den Erwerb und den Erhalt von Grundkompetenzen Erwachsener im Rahmen ihrer Zuständigkeiten. 2 Sie stellen die interinstitutionelle Zusammenarbeit bei der Entwicklung und Durchführung von Angeboten zum Erwerb und zum Erhalt von Grundkompetenzen Erwachsener sicher und koordinieren deren Förderung."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Erwerb und Erhalt von Grundkompetenzen Erwachsener",
+      "section": "16",
+      "title": "Finanzhilfen an die Kantone",
+      "content": "1 Das SBFI kann in Ergänzung zu Massnahmen nach der Spezialgesetzgebung Finanzhilfen an die Kantone für die Förderung des Erwerbs und des Erhalts von Grundkompetenzen Erwachsener leisten. 2 Der Bundesrat legt die Kriterien für die Gewährung der Finanzhilfen fest."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "6. Abschnitt: Finanzierung",
+      "section": "17",
+      "title": "",
+      "content": "1 Der Bundesrat unterbreitet der Bundesversammlung im Rahmen der Botschaft zur Förderung von Bildung, Forschung und Innovation die Schwerpunkte der Weiterbildungspolitik und beantragt die notwendigen Mittel. 2 Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss den Zahlungsrahmen für eine mehrjährige Periode. 3 Der Bund leistet im Rahmen der bewilligten Kredite Finanzhilfen nach den Artikeln 12 und 16."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "7. Abschnitt: Statistik und Monitoring",
+      "section": "18",
+      "title": "Statistik",
+      "content": "Das Bundesamt für Statistik erhebt im Bereich der Weiterbildung die nötigen Daten gemäss dem Bundesstatistikgesetz vom 9. Oktober 1992. SR 431.01"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "7. Abschnitt: Statistik und Monitoring",
+      "section": "19",
+      "title": "Monitoring",
+      "content": "1 Das SBFI führt in Zusammenarbeit mit den Kantonen ein Monitoring über die Beteiligung der verschiedenen Bevölkerungsgruppen an der Weiterbildung und über den Weiterbildungsmarkt. 2 Das SBFI führt zu diesem Zweck den regelmässigen Dialog mit den massgeblich betroffenen Kreisen der Weiterbildung."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "20",
+      "title": "Vollzug",
+      "content": "Der Bundesrat erlässt die Ausführungsbestimmungen."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "21",
+      "title": "Änderung anderer Erlasse",
+      "content": "Die Änderung anderer Erlasse ist im Anhang geregelt."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "8. Abschnitt: Schlussbestimmungen",
+      "section": "22",
+      "title": "Referendum und Inkrafttreten",
+      "content": "1 Dieses Gesetz untersteht dem fakultativen Referendum. 2 Der Bundesrat bestimmt das Inkrafttreten. Datum des Inkrafttretens: 1. Januar 2017 BRB vom 24. Febr. 2016"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Weiterbildung (nichtformale Bildung):",
+      "definition": "Weiterbildung (nichtformale Bildung): strukturierte Bildung ausserhalb der formalen Bildung;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "formale Bildung:",
+      "definition": "formale Bildung: staatlich geregelte Bildung, die: 1. in der obligatorischen Schule stattfindet, oder",
+      "source_provision": "art3"
+    },
+    {
+      "term": "strukturierte Bildung:",
+      "definition": "strukturierte Bildung: Bildung namentlich in organisierten Kursen, mit Lernprogrammen und einer definierten Lehr-Lern-Beziehung;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "informelle Bildung:",
+      "definition": "informelle Bildung: Kompetenzen, die ausserhalb strukturierter Bildung erworben worden sind.",
+      "source_provision": "art3"
+    }
+  ]
+}

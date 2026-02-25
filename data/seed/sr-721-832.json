@@ -1,0 +1,38 @@
+{
+  "id": "sr-721-832",
+  "type": "statute",
+  "title": "Verordnung vom 16. April 1997 über den Anteil am Wasserzins",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/1997/1006_1006_1006/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Höhe",
+      "content": "1 Der Anteil am Wasserzins zur Sicherstellung der Ausgleichszahlungen nach Artikel 22 Absätze 3–5 WRG wird vom Bundesamt für Energie (Bundesamt) jährlich so errechnet, dass die vom Bund zu leistenden Ausgleichszahlungen gedeckt sind. 2 Der Wasserzinsanteil (WZA) errechnet sich wie folgt: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ( SR 170.512.1 ) angepasst."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Berechnung",
+      "content": "1 Der Wasserzinsanteil wird auf der gesamten Bruttoleistung erhoben, für die in einem Kanton der Wasserzins oder eine darauf anrechenbare Abgabe geschuldet ist. 2 Massgebend ist die Bruttoleistung des Vorjahres, die der Kanton nach seinem Recht festgelegt hat; der Kanton muss sie dem Bundesamt jeweils per Ende Februar mitteilen. 3 Legt ein Kanton keine Bruttoleistung fest, so berechnet das Bundesamt diese wie folgt: P B = Bruttoleistung in kW; E = mittlere Produktionserwartung in kWh gemäss Statistik der Wasserkraftanlagen der Schweiz"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Vollzug",
+      "content": "Das Bundesamt vollzieht diese Verordnung."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Schlussbestimmungen",
+      "content": "1 Diese Verordnung tritt am 1. Mai 1997 in Kraft. 2 Der Wasserzinsanteil für das Jahr 1997 wird pro rata temporis zusammen mit demjenigen für das Jahr 1998 erhoben."
+    }
+  ],
+  "definitions": []
+}

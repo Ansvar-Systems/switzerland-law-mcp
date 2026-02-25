@@ -1,0 +1,202 @@
+{
+  "id": "sr-152-31",
+  "type": "statute",
+  "title": "Verordnung vom 24. Mai 2006 über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsverordnung, VBGÖ)",
+  "title_en": "Ordinance of 24 May 2006 on Freedom of Information in the Administration (Freedom of Information Ordinance, FoIO)",
+  "short_name": "VBGÖ",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2006/356/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "Section 1 Definitions",
+      "section": "1",
+      "title": "",
+      "content": "1 Information supplied by an authority in exchange for payment, including information that is of direct use in the manufacture of a product, is deemed to be a commercially used document. 2 A document shall be deemed to have been definitively issued, where: a. it has been signed by the authority from which it originated; or b. its creator has provided a final copy thereof to the recipient for information purposes or so that the latter may take a position or a decision. 3 A document shall be deemed to be for personal use, where it comprises information reserved for work-related purposes, provided that same shall solely be used by its creator or by a limited group of persons as work-supporting documentation, such as notes or working copies of documents."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "2",
+      "title": "Principle of equal access for everybody",
+      "content": "(Art. 6 para. 1 FoIA) If access to a public document is granted to one person, each further applicant is granted such access to the same degree."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "3",
+      "title": "Assistance to the applicant",
+      "content": "(Art. 6 para. 1 and 3 FoIA) 1 The authority shall provide information to the applicant about the official documents available and shall assist him through the procedure, particularly if the applicant is disabled. 2 Where official documents are accessible via the Internet or have been published in an official publication of the Federal Government, the authority may confine itself to providing references as to the sources where they may be found. 3 The authority is not required to translate official documents to which access has been granted in application of the Freedom of Information Act."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "4",
+      "title": "In situ inspection",
+      "content": "(Art. 6 para. 2 FoIA) 1 Inspection of an official document shall take place at the authority which is responsible for processing the application for access. 2 The authority may confine itself to providing the applicant with a copy of the official document for inspection. 3 The identity of the applicant may be verified on entering the premises of the authority within the context of exercising domiciliary rights by the Federal Government pursuant to Article 62 f of the Government and Administration Organisation Act of 21 March 1997. SR 172.010"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "5",
+      "title": "Provision of copies",
+      "content": "(Art. 6 para. 2 FoIA) 1 On request by the applicant, the authority shall provide a copy of the official document, provided that the production of such copies does not affect the physical integrity thereof. 2 If the document is subject to copyright, the authority shall inform the applicant as to the applicable limitations on its use."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "Section 2 Right of Access to Official Documents",
+      "section": "6",
+      "title": "Evaluation of conflicts of interest between the protection of third-party privacy and the public interest",
+      "content": "(Art. 7 para. 2 FoIA) 1 Where it becomes apparent in the evaluation of an application for access that the public interest in obtaining such access would prejudice a third party’s right to the protection of privacy, the competent authority may, by way of an exception, grant access after having weighed up these interests against one another. 2 The public interest in gaining access shall outweigh the right to privacy where, in particular: a. the granting of access to a document serves a specific public interest in obtaining such information, particularly due to important events; b. the granting of access serves to protect a specific public interest, and in particular the protection of public order and security and the protection of public health; or c. the person whose privacy could be prejudiced by access to an official document has a legal or factual relationship with an authority subject to the Freedom of Information Act which affords him significant benefits."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "Section 3 Application for Access to Public Documents and Competencies",
+      "section": "7",
+      "title": "Content of the application",
+      "content": "(Art. 10 FoIA) 1 An application for access to an official document may be submitted in any form without stating the grounds. 2 It must be sufficiently detailed in order to allow the authority to identify the requested document. The applicant must indicate, to the best of his ability: a. generally available data which clearly identify the document, such as the date of issue, title and reference; b. a specific time frame; c. the authority which issued the document; or d. the subject concerned. 3 The authority may request the applicant to provide further details with regard to the application. 4 If the applicant fails to provide, within ten days, the additional details requested in order to identify the official document, the application shall be deemed to have been withdrawn. The authority shall inform the applicant accordingly."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "Section 3 Application for Access to Public Documents and Competencies",
+      "section": "8",
+      "title": "Applications for access to official documents of Swiss representations abroad",
+      "content": "(Art. 10 para. 2 FoIA) 1 Swiss representations abroad as well as Swiss missions to the European Communities and other international organisations shall transmit applications for access concerning official documents which have been issued or received as main addressees by them, to the Federal Department of Foreign Affairs (the Department) which shall be competent for the matter thereinafter. 2 The Department shall regulate the competencies, the processing deadlines and modalities of inspection."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "Section 3 Application for Access to Public Documents and Competencies",
+      "section": "9",
+      "title": "Special needs of the media",
+      "content": "(Art. 10 para. 4 lett. a FoIA) When processing applications filed by journalists, the authority shall, as far as possible, take account of the journalist's reporting deadline."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "Section 3 Application for Access to Public Documents and Competencies",
+      "section": "10",
+      "title": "Applications requiring particularly extensive processing",
+      "content": "(Art. 10 para. 4 lett. c FoIA) 1 An application is deemed to require processing where the authority is not in a position to process the application with the human and infrastructure resources at its disposal without seriously compromising the fulfilment of its other duties. 2 Requests entailing particularly extensive processing shall be dealt with by an appropriate deadline."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "Section 3 Application for Access to Public Documents and Competencies",
+      "section": "11",
+      "title": "Competent authority for decision-making",
+      "content": "(Art. 12 FoIA) 1 Where a document has been prepared by more than one authority, the primary authority shall be competent to take a decision. 2 Where the application for access covers several documents concerning the same matter, and which were issued or received by different authorities subject to the Freedom of Information Act, the authority in charge of the matter is competent to take a decision. 3 Where several authorities are in charge of the matter, they shall jointly determine which authority is competent to decide. The latter shall take a decision with regard to the application for access, in consultation with the other authorities. 4 Where an authority has prepared a document at the request of another authority, the competent authority must consult the requesting authority prior to taking a decision. 5 Where an application for access concerns a classified document, the competency and the procedure is governed by the provisions on the protection of information and classified documents. The competent authority shall consider whether the document may be declassified."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "Section 4 Mediation and Recommendation",
+      "section": "12",
+      "title": "Mediation",
+      "content": "(Art. 13 FoIA) 1 The Federal Data Protection and Information Commissioner (the Commissioner) shall examine whether the application for access was processed lawfully and appropriately. 2 The Commissioner shall hear the parties to mediation proceedings and strive to reach an agreement. Where necessary, he shall submit proposals. The proceedings may be conducted in writing or verbally. 3 The Commissioner shall ascertain the result of mediation proceedings and inform the parties of same in writing."
+    },
+    {
+      "provision_ref": "art12a",
+      "chapter": "Section 4 Mediation and Recommendation",
+      "section": "12a",
+      "title": "a Requests for mediation that require particularly extensive processing",
+      "content": "(Art. 10 para. 4 lett. c, 13 and 14 FoIA) 1 A request for mediation requires particularly extensive processing by the Commissioner if it: a. involves a large number of or especially complex documents; b. raises especially difficult legal, technical or political issues. 2 If a request for mediation requires particularly extensive processing by the Commissioner, he may extend the deadline for the mediation proceedings or for the issue of a recommendation by an appropriate period. Inserted by No. I of the Ordinance of 20 April 2011, in force since 1 July 2011 ( AS 2011 1741 )."
+    },
+    {
+      "provision_ref": "art12b",
+      "chapter": "Section 4 Mediation and Recommendation",
+      "section": "12b",
+      "title": "b Duty to cooperate in mediation proceedings",
+      "content": "(Art. 13 and 20 FoIA) 1 As soon as a request for mediation is submitted, the Commissioner shall inform the authority and allow it a period within which to: a. supplement the justification given for its decision if necessary; b. provide the Commissioner with the required documents; c. provide the Commissioner with the name of its representative in the mediation proceedings. 2 The parties are obliged: a. to assist in ensuring compliance with the deadline within which the mediation proceedings must take place; b. to cooperate in seeking a settlement; c. to participate in the mediation hearing; the authority shall participate in the mediation hearing through the person appointed to represent it. 3 If the applicant fails to participate in the mediation hearing, the request for mediation is deemed to have been withdrawn and to be settled. 4 If the parties refuse to cooperate in seeking a settlement or if they improperly delay the mediation proceedings, the Commissioner may rule that the mediation has failed. Inserted by No. I of the Ordinance of 20 April 2011, in force since 1 July 2011 ( AS 2011 1741 )."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "Section 4 Mediation and Recommendation",
+      "section": "13",
+      "title": "Recommendation",
+      "content": "(Art. 14 FoIA) 1 In his recommendation, the Commissioner shall in particular point out that the parties to the mediation proceedings may request a decision from the authority pursuant to Article 15 FoIA, and shall inform them of the deadline for such a request. 2 The recommendation must not contain any information likely to prejudice protected interests under Article 7(1) FoIA. 3 The Commissioner shall publish his recommendations and shall take the appropriate measures in order to ensure the protection of the personal data of parties to mediation proceedings. 4 Should the protection of personal data not be possible, the Commissioner shall refrain from publishing his recommendation."
+    },
+    {
+      "provision_ref": "art13a",
+      "section": "13a",
+      "title": "a Information provided to the Commissioner by the authority",
+      "content": "(Art. 15 and 16 FoIA) The administrative units of the Central Federal Administration shall provide the Commissioner with a copy of their ruling and any decisions made by the appeal instances. Inserted by No. I of the Ordinance of 20 April 2011, in force since 1 July 2011 ( AS 2011 1741 )."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "Section 5 Fees",
+      "section": "14",
+      "title": "Principle",
+      "content": "Insofar as this Ordinance does not contain specific rules, the provisions of the General Fees Ordinance of 8 September 2004 apply. SR 172.041.1"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "Section 5 Fees",
+      "section": "15",
+      "title": "Waiver or reduction of fees",
+      "content": "(Art. 17 para. 2 and 3 FoIA) 1 The authority shall waive fees where the cost of collecting them would exceed the fee amount. Fees of less than 100 francs shall not be charged. 2 Costs which result exclusively from meeting the special needs of disabled persons are not factored into the calculation of fees. 3 The authority may waive or reduce fees where it denies an application for access or only grants partial access. 4 If the authority charges a fee for an application for access made by a journalist, it shall reduce this fee by at least 50 per cent. It need not make any reduction if the application for access requires particularly extensive processing. Inserted by No. I of the Ordinance of 25 June 2014, in force since 1 Sept. 2014 ( AS 2014 2169 )."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "Section 5 Fees",
+      "section": "16",
+      "title": "Schedule of fees and information on prospective costs",
+      "content": "(Art. 17 para. 3 FoIA) 1 The schedule of fees is set out in Annex 1. 2 If the costs are likely to exceed 100 francs, the authority shall inform the applicant of the expected fee amount. If the applicant does not confirm his application for access within ten days, it shall be deemed to be withdrawn. The authority shall inform the applicant accordingly."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "Section 6 Processing and Publication of Official Documents; Information concerning Official Documents",
+      "section": "17",
+      "title": "Processing of official documents",
+      "content": "(Art. 21 lett. a FoIA) The processing of official documents, and in particular their registration, is governed by Article 22 of the Government and the Administration Organisation Ordinance of 25 November 1998, as well as by the provisions enacted by the competent department in application of the federal legislation governing the archiving of documents. SR 172.010.1"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "Section 6 Processing and Publication of Official Documents; Information concerning Official Documents",
+      "section": "18",
+      "title": "Information concerning official documents",
+      "content": "(Art. 21 lett. b FoIA) In the absence of any legislative provisions to the contrary, the authorities shall inform the public about official documents in the following way: a. they shall publish, on the Internet, information as to their functions and important matters for which they are responsible; b. they shall make available further information, as appropriate, which may facilitate the identification of official documents, insofar as doing so does not give rise to excessive costs."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "Section 6 Processing and Publication of Official Documents; Information concerning Official Documents",
+      "section": "19",
+      "title": "Publication of Official Documents",
+      "content": "(Art. 21 lett. c FoIA) The competent authority shall publish important official documents on the Internet as soon as possible, where: a. this does not give rise to excessive costs; and b. publication on the Internet does not conflict with any statutory provisions."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "Section 7 Advisor for the Implementation of the Principle of Freedom of Information",
+      "section": "20",
+      "title": "",
+      "content": "The Federal Office and the departments shall designate at least one advisor for the implementation of the principle of freedom of information. The advisor shall have the following duties: a. advising the administrative units, persons and organisations outside the Federal Administration, subject to the Freedom of Information Act; b. disseminating information and training staff; c. participating in the implementation of legislation on the principle of freedom of information."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "Section 8 Evaluation",
+      "section": "21",
+      "title": "",
+      "content": "Each authority shall inform the Commissioner, on an annual basis, of: a. the number of applications for access filed during the reporting year; b. the number of such applications granted, refused or partly refused; c. the total amount of fees charged for access to public documents sought under the Freedom of Information Act."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "Section 9 Final Provisions",
+      "section": "22",
+      "title": "Amendments to existing legislation",
+      "content": "Amendments to existing legislation are regulated in Annex 2."
+    },
+    {
+      "provision_ref": "art22a",
+      "chapter": "Section 9 Final Provisions",
+      "section": "22a",
+      "title": "a Transitional provision to the amendment of 20 April 2011",
+      "content": "Requests for mediation that were submitted before the Amendment of 20 April 2011 comes into force are governed by the previous law. Inserted by No. I of the Ordinance of 20 April 2011, in force since 1 July 2011 ( AS 2011 1741 )."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "Section 9 Final Provisions",
+      "section": "23",
+      "title": "Commencement",
+      "content": "This Ordinance comes into force on 1 July 2006."
+    }
+  ],
+  "definitions": []
+}

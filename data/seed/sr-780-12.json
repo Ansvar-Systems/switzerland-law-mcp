@@ -1,0 +1,130 @@
+{
+  "id": "sr-780-12",
+  "type": "statute",
+  "title": "Verordnung vom 15. November 2017 über das Verarbeitungssystem für die Überwachung des Post- und Fernmeldeverkehrs (VVS-ÜPF)",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2018/36/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt den Betrieb und die Nutzung des Verarbeitungssystems des Dienstes Überwachung Post- und Fernmeldeverkehr (Dienst ÜPF)."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "1. Abschnitt: Allgemeine Bestimmungen",
+      "section": "2",
+      "title": "Datenausleitungsnetzwerk",
+      "content": "1 Fernmeldeanbieterinnen (FDA), ausser jene mit reduzierten Überwachungspflichten, und Anbieterinnen abgeleiteter Kommunikationsdienste mit weitergehenden Auskunfts- oder Überwachungspflichten betreiben in Zusammenarbeit mit dem Dienst ÜPF ein Datennetzwerk zum Ausleiten der Daten aus Auskünften und Überwachungen ins Verarbeitungssystem. 2 Über dieses Netzwerk können auch die Auskunftsgesuche und Überwachungsaufträge sowie Informationen über deren Abwicklung ausgetauscht werden. 3 Das Eidgenössische Justiz- und Polizeidepartement erlässt technische und administrative Vorschriften für das Datenausleitungsnetzwerk."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "3",
+      "title": "Daten",
+      "content": "1 Das Verarbeitungssystem enthält folgende Daten: a. von den Mitwirkungspflichtigen übermittelte Daten aus Auskünften und Überwachungen; b. zur Auswertung aufbereitete Daten gemäss Buchstabe a; c. Auskunftsgesuche und Überwachungsanordnungen der anordnenden Behörden; d. von den auswertenden Behörden angebrachte Bearbeitungsmerkmale; e. Daten zur Geschäftsabwicklung und -kontrolle, inklusive Daten zur Qualitätssicherung, Testdaten, Statistik und Buchhaltung; f. Daten zur einfacheren Darstellung und Filterung der Daten gemäss Buchstaben a und b; g. kryptografische Schlüssel. 2 Im Verarbeitungssystem können Daten bearbeitet werden: a. aus Auskünften (3. Kap. 4.–6. Abschnitt der Verordnung vom 15. November 2017 über die Überwachung des Post- und Fernmeldeverkehrs [VÜPF]); b. aus der Echtzeitüberwachung (3. Kap. 8., 9. und 11. Abschnitt VÜPF); c. aus der rückwirkenden Überwachung (3. Kap. 10. und 11. Abschnitt VÜPF); d. zur Abwicklung und Kontrolle der Geschäfte des Dienstes ÜPF (Art. 6). SR 780.11"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "4",
+      "title": "Herkunft der Daten",
+      "content": "1 Die im Verarbeitungssystem registrierten Daten stammen: a. von den anordnenden oder den von diesen bezeichneten Behörden, den Genehmigungsbehörden und den weiteren mit dem Verfahren befassten Behörden; b. von den Mitwirkungspflichtigen; c. vom Dienst ÜPF; d. aus Datenbanken zur Abklärung von Adressierungselementen; e. von den Lieferantinnen von Geoinformationen und Kartenmaterial. 2 Die Behörden dürfen die Daten aus Überwachungen nur um Bearbeitungsmerkmale nach Artikel 3 Absatz 1 Buchstabe d und um kryptografische Schlüssel nach Buchstabe g ergänzen; ein weitergehender Import von Ermittlungsdaten ist unzulässig."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "5",
+      "title": "Bearbeitungsfunktionen für Daten aus Auskünften und Überwachungen",
+      "content": "1 Für die Bearbeitung von Daten aus Auskünften und Überwachungen können folgende Funktionen bestehen: a. Mithören und Nachhören; b. Anzeigen und Drucken; c. Lokalisieren und auf Karten Darstellen; d. Dekodieren und Entschlüsseln; e. Gruppieren; f. Suchen und Filtern; g. Zuordnen einer Sprachaufnahme zu einer im System vorhandenen Stimme; h. Verschriften; i. Kommentieren; j. Alarmieren beim Eintritt bestimmter Ereignisse wie geografische Annäherungen oder Kommunikationsvorgänge; k. gesichertes Übermitteln an die berechtigten Personen; l. Vernichten. 2 Die Funktionen erfassen jeweils nur die Daten, auf die die Person, die sie ausführt, Zugriff hat."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "2. Abschnitt: Daten und Datenbearbeitung",
+      "section": "6",
+      "title": "Datenbearbeitung für die Geschäftsabwicklung und -kontrolle",
+      "content": "Für die Geschäftsabwicklung und -kontrolle werden durch den Dienst ÜPF folgende Daten bearbeitet: a. die Kontaktdaten der anordnenden und die von dieser bezeichneten Behörden, der Genehmigungsbehörden und der weiteren mit dem Verfahren befassten Behörden sowie der von ihnen bezeichneten Personen; b. falls bekannt Namen, Vornamen, Geburtsdaten, Adressen und Berufe der zu überwachenden Personen und deren Rechtsvertreter; c. der Grund für die Auskünfte und Überwachungen, insbesondere die Angabe der Artikel der Straftaten, deren Begehung damit aufgeklärt werden soll; d. die angeordneten Auskunfts- und Überwachungstypen; e. schriftliche und mündliche Mitteilungen sowie nach Artikel 8 VÜPF aufgezeichnete Telefonate; f. behördliche Entscheide, wie Anordnungen, Genehmigungen und Verlängerungen, Entscheide zu strafrechtlichen und administrativen Sanktionen sowie Beschwerdeentscheide; g. die in den Artikel 15 Buchstaben h–k und 49 Absatz 1 Buchstaben h–l und Absatz 2 VÜPF aufgeführten Daten; h. die Referenznummern und Fallnamen der Auskünfte und Überwachungen; i. die Kontaktdaten der Mitwirkungspflichtigen sowie der von ihr bezeichneten Personen, die als Ansprechperson vorgesehen sind; j. Daten zu den Mitwirkungspflichtigen, insbesondere im Zusammenhang mit der Auskunfts- und Überwachungsbereitschaft; k. die verfügbaren Adressierungselemente und Identifikatoren; l. weitere Daten technischer Natur; m. die Daten zur Erhebung von Gebühren und der Ausrichtung von Entschädigungen. SR 780.11"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Berechtigung zum Zugriff auf das Verarbeitungssystem",
+      "content": "1 Der Dienst ÜPF erstellt auf Antrag mittels Antragsformulars persönliche Benutzerkonten für den Zugriff auf das System an sich an folgende Personengruppen, soweit die Zugriffe zur Erfüllung ihrer Aufgaben notwendig sind: a. Mitarbeiterinnen und Mitarbeiter der Behörden; b. Mitarbeiterinnen und Mitarbeiter der Mitwirkungspflichtigen; c. Mitarbeiterinnen und Mitarbeiter des Dienstes ÜPF; d. vom Dienst ÜPF mit Wartungs-, Betriebs- oder Programmieraufgaben betraute Personen. 2 Er kann einzelne Mitarbeiterinnen und Mitarbeiter der in Artikel 9 Absätze 1–3 BÜPF erwähnten Behörden auf Anordnung der zuständigen Person berechtigen, Zugriffe zu vergeben, soweit dies zur Erfüllung ihrer Aufgaben notwendig ist. Die Mitarbeiterinnen und Mitarbeiter bleiben bei Vergabe des Zugriffs für dessen Benutzung verantwortlich und dokumentieren die Vergabe nachvollziehbar. 3 Er überprüft periodisch, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen. 4 Die Zugriffsberechtigungen auf das Verarbeitungssystem sind im Anhang geregelt. Der Dienst ÜPF präzisiert sie im Bearbeitungsreglement (Art. 6 der Datenschutzverordnung vom 31. August 2022). SR 235.11 Fassung gemäss Anhang 2 Ziff. II 86 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Berechtigung zum Zugriff auf Daten aus einzelnen Überwachungen",
+      "content": "1 Mit der Überwachungsanordnung wird dem Dienst ÜPF mitgeteilt, welche Mitarbeiterinnen und Mitarbeiter der in Artikel 9 Absätze 1–3 BÜPF erwähnten Behörden Zugriff auf die Daten welcher Überwachungen benötigen. Nach der Authentifizierung erhalten diese Zugriff mittels Abrufverfahren auf die in der Anordnung vorgesehenen Überwachungsdaten. 2 Ein Gesuch auf Zugriff auf die Überwachungsdaten können die nach Artikel 279 der Strafprozessordnung beziehungsweise nach Artikel 70 j des Militärstrafprozesses vom 23. März 1979, nach Artikel 33 des Nachrichtendienstgesetzes vom 25. September 2015 , nach den Artikeln 35 und 36 BÜPF und nach dem Datenschutzgesetz vom 25. September 2020 betroffenen Personen sowie ihre Rechtsbeistände bei der nach Artikel 10 Absätze 1–3 BÜPF zuständigen Behörde einreichen. Sie erhalten über die zuständige Behörde nach deren jeweils anwendbaren Bestimmungen Zugriff auf die Daten, die sie für die Wahrnehmung des ihnen zustehenden Akteneinsichtsrechts beziehungsweise Rechts auf Auskunft über die Daten benötigen. 3 Der Dienst ÜPF berechtigt einzelne Mitarbeiterinnen und Mitarbeiter der Behörden nach Artikel 7 Absatz 2, Zugriffe innerhalb ihrer Behörde und an nach Absatz 2 berechtigte Personen zu vergeben, soweit diese zur Erfüllung der jeweiligen Aufgaben oder zur Wahrnehmung von Rechten von Dritten notwendig sind. 4 Der Dienst ÜPF präzisiert Absatz 3 im Bearbeitungsreglement. SR 312.0 SR 322.1 SR 121 SR 235.1 Fassung gemäss Anhang 2 Ziff. II 86 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ( AS 2022 568 )."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Schnittstellen",
+      "content": "Das Verarbeitungssystem besitzt Schnittstellen: a. für die Übermittlung von Aufträgen, die Entgegennahme von Daten und Bestätigungen direkt oder über das Ausleitungsnetzwerk zu den Systemen der Mitwirkungspflichtigen; b. für das Kopieren von Daten gemäss Artikel 14 Absatz 1 BÜPF in den polizeilichen Informationssystem-Verbund des Bundesamtes für Polizei und gemäss Artikel 14 a BÜPF zum Informationssystem des Nachrichtendienstes; c. für den Zugriff zu Datenbanken zur Abklärung von Adressierungselementen."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "10",
+      "title": "Massnahmen für die Datensicherheit",
+      "content": "1 Der Dienst ÜPF stellt durch technische und organisatorische Massnahmen insbesondere folgende Punkte sicher: a. Zugriffs- und Änderungsschutz: durch eine sichere Authentifizierung der berechtigten Personen und Stellen sowie eine detaillierte Beschreibung ihrer jeweiligen Lese- und Schreibrechte; b. Transportkontrolle: durch eine gesicherte Übermittlung der Daten des Verarbeitungssystems; c. Zugriffs- und Änderungskontrolle: durch die Protokollierung aller Datenzugriffe und -änderungen und regelmässige stichprobenweise Auswertung auf Unregelmässigkeiten hin. 2 Er bestimmt die zu treffenden Massnahmen gestützt auf eine Risikoanalyse nach Massgabe des Stands der Technik und entsprechender internationaler Standards. 3 Er erlässt zur Umsetzung der Massnahmen die nötigen Anweisungen an die Systembenutzerinnen und -benutzer. 4 Er bewahrt die Protokolle während der gesamten Speicherdauer der jeweiligen Daten aus Auskünften und Überwachungen auf."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "11",
+      "title": "Massnahmen für die Systemsicherheit",
+      "content": "Der Dienst ÜPF entscheidet bei einer drohenden oder bestehenden Störung des ordentlichen Betriebs des Verarbeitungssystems, welche Massnahmen zu treffen sind. Er tut dies nach Möglichkeit nach Anhörung der anordnenden oder auswertenden Behörde."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "3. Abschnitt: Datenschutz und Datensicherheit",
+      "section": "12",
+      "title": "Anonymisierung",
+      "content": "Daten, die für statistische Zwecke benötigt werden, sind vor ihrer Herausgabe zu anonymisieren."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "4. Abschnitt: Zugriff auf Überwachungsdaten im Abrufverfahren, Vernichtung und Archivierung der Daten",
+      "section": "13",
+      "title": "Zugriff auf Überwachungsdaten im Abrufverfahren",
+      "content": "1 Die Überwachungsdaten stehen den Behörden mittels Abrufverfahren mit sämtlichen Bearbeitungsfunktionen gemäss Artikel 5 maximal bis zu folgendem Zeitpunkt zur Verfügung: a. dem Eintritt der Rechtskraft des Entscheids, mit dem das betreffende Strafverfahren abgeschlossen wird; b. sechs Monate nach dem Abschluss der Operation des Nachrichtendienstes des Bundes (NDB); c. sechs Monate nach Abschluss der Notsuche; d. sechs Monate nach Abschluss der Fahndung; d bis . 100 Tage nach Abschluss der Mobilfunklokalisierung einer terroristischen Gefährderin oder eines terroristischen Gefährders gemäss Artikel 23 q Absatz 3 des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit; besteht gemäss Artikel 11 Absatz 4 ter BÜPF ein konkreter Grund zur Annahme, dass die Daten in einem Strafverfahren benötigt werden, so ist Buchstabe a anwendbar; oder e. dem Versand der Datenträger oder Dokumente an die Behörde zur Übermittlung an eine ausländische Behörde im Rahmen eines internationalen Rechtshilfeverfahrens. 2 Anschliessend werden die Daten mit verminderten Bearbeitungsfunktionen bis zum Ende der Aufbewahrungsdauer nach Artikel 11 BÜPF über einen längeren Zeitraum im Verarbeitungssystem aufbewahrt. Die zuständige Behörde kann anordnen, dass die Daten schon früher in dieser Art gehalten werden. 3 Im Fall umfassender technischer Änderungen am Verarbeitungssystem stehen den Behörden die Daten noch während sechs bis zwölf Monaten nach der Änderung mit sämtlichen Bearbeitungsfunktionen zur Verfügung. Eingefügt durch Ziff. I 14 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ( AS 2022 301 ). SR 120"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "4. Abschnitt: Zugriff auf Überwachungsdaten im Abrufverfahren, Vernichtung und Archivierung der Daten",
+      "section": "14",
+      "title": "Vernichtung",
+      "content": "1 Die zuletzt mit dem Verfahren befasste Behörde weist den Dienst ÜPF vor Ablauf der Aufbewahrungsfrist gemäss Artikel 11 BÜPF an: a. die Daten zu vernichten; oder b. die Daten einer von ihr bezeichneten Behörde zur Verfügung zu stellen und sie nach Erhalt der Empfangsbestätigung im System zu vernichten. 2 Ist die zuständige Behörde nach Ablauf der Aufbewahrungsfrist nicht mehr eruierbar oder gibt sie trotz Aufforderung keine Instruktion, so erstellt der Dienst ÜPF einen Datenträger. Diesen stellt er der obersten kantonalen gerichtlichen Behörde oder dem Bundesstrafgericht zu. Nachdem diese den Empfang und die Lesbarkeit der Daten bestätigt haben, vernichtet er die Daten im System. Er protokolliert den Vorgang. 3 Die Daten aus Auskünften werden während zwölf Monaten gespeichert, danach mit verminderten Bearbeitungsfunktionen während der Aufbewahrungsfrist gemäss Artikel 11 BÜPF aufbewahrt und anschliessend vernichtet. Die Berichtigung vom 27. Febr. 2018 betrifft nur den französischen Text ( AS 2018 937 )."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "4. Abschnitt: Zugriff auf Überwachungsdaten im Abrufverfahren, Vernichtung und Archivierung der Daten",
+      "section": "15",
+      "title": "Archivierung",
+      "content": "1 Zur Vernichtung bestimmte archivwürdige Daten des Bundes werden dem Bundesarchiv zur Archivierung angeboten. Nicht archivwürdige Daten werden vernichtet. 2 Zur Vernichtung bestimmte Daten der Kantone werden der zuständigen kantonalen Behörde angeboten, sofern das kantonale Recht dies vorsieht. Die Archivierung von Daten der Kantone ist gemäss Artikel 4 Absatz 2 des Archivierungsgesetzes vom 26. Juni 1998 Sache der Kantone. SR 152.1"
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "5. Abschnitt: Schlussbestimmung",
+      "section": "16",
+      "title": "Übergangsbestimmung",
+      "content": "1 Bis zur Inbetriebnahme der neuen Systemkomponenten kann der Dienst ÜPF die Protokollierungen nach altem Recht vornehmen. 2 Solange die Daten noch nicht zentral über einen längeren Zeitraum aufbewahrt werden, werden diese nach der bestehenden Praxis aufbewahrt. Die Behörden erhalten demnach die Überwachungsdaten zum Zeitpunkt, ab dem nach Artikel 13 nicht mehr sämtliche Bearbeitungsfunktionen zur Verfügung stehen, auf einem Datenträger zugestellt oder können diese in ihr System herunterladen."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "5. Abschnitt: Schlussbestimmung",
+      "section": "17",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. März 2018 in Kraft."
+    }
+  ],
+  "definitions": []
+}

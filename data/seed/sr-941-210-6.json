@@ -1,0 +1,90 @@
+{
+  "id": "sr-941-210-6",
+  "type": "statute",
+  "title": "Verordnung des EJPD vom 5. November 2013 über Taxameter",
+  "title_en": "",
+  "short_name": "",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://www.fedlex.admin.ch/eli/cc/2013/769/en",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Gegenstand",
+      "content": "Diese Verordnung regelt: a. die Anforderungen an Taxameter; b. die Verfahren für das Inverkehrbringen von Taxametern; c. den Einbau und die Verwendung von Taxametern; d. die Verfahren zur Erhaltung der Messbeständigkeit von Taxametern."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Geltungsbereich",
+      "content": "Dieser Verordnung unterstehen Taxameter, die für die Ermittlung des Fahrpreises in Fahrzeugen eingesetzt werden."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Begriffe",
+      "content": "In dieser Verordnung bedeuten: a. Taxameter (Taxuhr): Gerät, das die Fahrtdauer misst, die gefahrene Strecke erfasst, daraus den Fahrpreis berechnet und diesen anzeigt; es wird zusammen mit einer Einrichtung zur Erfassung der Wegstrecke, beispielsweise einem Wegstreckensignalgeber, betrieben; b. Fahrpreis : für eine Fahrt geschuldeter Geldbetrag, bestehend aus einem festen Grundpreis und einem Anteil, der anhand fester Ansätze für die zurückgelegte Strecke (Wegtarif) und für die Fahrtdauer (Zeittarif) berechnet wird; der Fahrpreis umfasst keine Zuschläge für besonderen Aufwand; c. Verwenderin : Halterin oder Halter des Fahrzeuges, in dem der Taxameter eingebaut ist."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Grundlegende Anforderungen",
+      "content": "Taxameter müssen die grundlegenden Anforderungen nach Anhang 1 MessMV und nach Anhang 1 der vorliegenden Verordnung erfüllen."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Verfahren für das Inverkehrbringen",
+      "content": "Die Konformität der Taxameter mit den grundlegenden Anforderungen nach Artikel 4 wird nach Wahl der Herstellerin nach einem der folgenden Verfahren nach Anhang 2 MessMV bewertet und bescheinigt: a. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage der Qualitätssicherung für die Produktion (Modul D); b. Bauartprüfung (Modul B), gefolgt von der Erklärung der Konformität mit der Bauart auf der Grundlage einer Prüfung der Produkte (Modul F); c. Konformitätserklärung auf der Grundlage einer umfassenden Qualitätssicherung, ergänzt durch eine Entwurfsprüfung (Modul H1)."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Verfahren zur Erhaltung der Messbeständigkeit",
+      "content": "1 Taxameter müssen mindestens alle zwölf Monate durch die Verwenderin einem Verfahren zur Erhaltung der Messbeständigkeit nach Anhang 7 Ziffer 5 MessMV und nach Anhang 2 dieser Verordnung unterzogen werden. 2 Das Verfahren nach Absatz 1 muss ebenfalls nach jeder Änderung am Fahrzeug, welche die korrekte Erfassung der Wegstrecke beeinflussen kann, durchgeführt werden. 3 Kann aufgrund des Messresultats die Einhaltung der Fehlergrenzen nach Artikel 8 für die nächsten zwölf Monate nicht garantiert werden, so muss der Taxameter nach Anhang 7 Ziffer 8 MessMV durch eine fachkompetente Person neu justiert und anschliessend wieder gesichert werden."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Einbau, Inbetriebnahme und Verwendung",
+      "content": "1 Zusätzlich zur Verantwortung nach Artikel 21 Absatz 1 MessMV trägt die Verwenderin die Verantwortung dafür, dass: a. die Anweisungen der Herstellerin zum Einbau und zur Inbetriebnahme des Taxameters befolgt werden; b. der Taxameter richtig programmiert ist. 2 Taxameter und Einrichtungen zur Erfassung der gefahrenen Strecke müssen jederzeit mit den von der Herstellerin vorgesehenen Möglichkeiten zur Verhinderung von Eingriffen gesichert sein. 3 Die Anzahl Impulse pro gefahrenen Kilometer von Wegstreckensignalgebern darf nicht verändert werden können. 4 Eingriffe in die Elektronik eines Fahrzeuges sind nur im Rahmen der Wartung in einer Werkstatt zulässig. Verboten ist insbesondere das Mitführen von Geräten und Einrichtungen, welche die Gewinnung der Weginformation beeinflussen können."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Fehlergrenzen",
+      "content": "Die Messfehler des Taxameters und der Einrichtung zur Erfassung der gefahrenen Strecke dürfen zusammen höchstens betragen: a. 2 Prozent der gefahrenen Strecke oder 20 m; es gilt der grössere Wert; b. 1 Prozent der Zeit oder 2 Sekunden; es gilt der grössere Wert."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Übergangsbestimmungen",
+      "content": "1 Taxameter, welche vor dem Inkrafttreten dieser Verordnung in Verkehr gebracht wurden, dürfen weiter verwendet werden, wenn sie die Voraussetzungen dieser Verordnung erfüllen. 2 Taxameter, welche die Voraussetzungen nach Artikel 5 nicht erfüllen, dürfen bis am 31. Dezember 2015 in Verkehr gebracht werden, wenn sie so konstruiert sind, dass die Fehlergrenzen nach Artikel 8 eingehalten werden können. Sie dürfen bis am 31. Dezember 2025 verwendet werden, wenn sie zusammen mit der Einrichtung zur Erfassung der gefahrenen Strecke die Fehlergrenzen nach Artikel 8 einhalten. 3 Taxameter, welche vor dem Inkrafttreten dieser Verordnung in Betrieb genommen wurden, dürfen längstens bis am 31. Dezember 2015 verwendet werden, wenn sie zusammen mit der Einrichtung zur Erfassung der gefahrenen Strecke die Fehlergrenzen nach Artikel 8 nicht einhalten."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Inkrafttreten",
+      "content": "Diese Verordnung tritt am 1. Januar 2014 in Kraft."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Taxameter",
+      "definition": "Taxameter (Taxuhr): Gerät, das die Fahrtdauer misst, die gefahrene Strecke erfasst, daraus den Fahrpreis berechnet und diesen anzeigt; es wird zusammen mit einer Einrichtung zur Erfassung der Wegstrecke, beispielsweise einem Wegstreckensignalgeber, betrieben;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Fahrpreis",
+      "definition": "Fahrpreis : für eine Fahrt geschuldeter Geldbetrag, bestehend aus einem festen Grundpreis und einem Anteil, der anhand fester Ansätze für die zurückgelegte Strecke (Wegtarif) und für die Fahrtdauer (Zeittarif) berechnet wird; der Fahrpreis umfasst keine Zuschläge für besonderen Aufwand;",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Verwenderin",
+      "definition": "Verwenderin : Halterin oder Halter des Fahrzeuges, in dem der Taxameter eingebaut ist.",
+      "source_provision": "art3"
+    }
+  ]
+}
