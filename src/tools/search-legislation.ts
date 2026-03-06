@@ -5,6 +5,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants, buildLikePattern, sanitizeFtsInput } from '../utils/fts-query.js';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
+import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface SearchLegislationInput {
@@ -38,8 +39,27 @@ export async function searchLegislation(
   }
 
   const limit = Math.min(Math.max(input.limit ?? DEFAULT_LIMIT, 1), MAX_LIMIT);
+  // Fetch extra rows to account for deduplication
+  const fetchLimit = limit * 2;
   const queryVariants = buildFtsQueryVariants(sanitizeFtsInput(input.query));
 
+  // Resolve document_id from title if provided (same resolution as get_provision)
+  let resolvedDocId: string | undefined;
+  if (input.document_id) {
+    const resolved = resolveDocumentId(db, input.document_id);
+    resolvedDocId = resolved ?? undefined;
+    if (!resolved) {
+      return {
+        results: [],
+        _metadata: {
+          ...generateResponseMetadata(db),
+          note: `No document found matching "${input.document_id}"`,
+        },
+      };
+    }
+  }
+
+  let queryStrategy = 'none';
   for (const ftsQuery of queryVariants) {
     let sql = `
       SELECT
@@ -58,9 +78,9 @@ export async function searchLegislation(
     `;
     const params: (string | number)[] = [ftsQuery];
 
-    if (input.document_id) {
+    if (resolvedDocId) {
       sql += ' AND lp.document_id = ?';
-      params.push(input.document_id);
+      params.push(resolvedDocId);
     }
 
     if (input.status) {
@@ -69,12 +89,20 @@ export async function searchLegislation(
     }
 
     sql += ' ORDER BY relevance LIMIT ?';
-    params.push(limit);
+    params.push(fetchLimit);
 
     try {
       const rows = db.prepare(sql).all(...params) as SearchLegislationResult[];
       if (rows.length > 0) {
-        return { results: rows, _metadata: generateResponseMetadata(db) };
+        queryStrategy = ftsQuery === queryVariants[0] ? 'exact' : 'fallback';
+        const deduped = deduplicateResults(rows, limit);
+        return {
+          results: deduped,
+          _metadata: {
+            ...generateResponseMetadata(db),
+            ...(queryStrategy === 'fallback' ? { query_strategy: 'broadened' } : {}),
+          },
+        };
       }
     } catch {
       // FTS query syntax error — try next variant
@@ -82,7 +110,6 @@ export async function searchLegislation(
     }
   }
 
-  
   // LIKE fallback — last resort when all FTS5 variants return empty
   {
     const likePattern = buildLikePattern(input.query);
@@ -102,9 +129,9 @@ export async function searchLegislation(
     `;
     const params: (string | number)[] = [likePattern];
 
-    if (input.document_id) {
+    if (resolvedDocId) {
       sql += ' AND lp.document_id = ?';
-      params.push(input.document_id);
+      params.push(resolvedDocId);
     }
 
     if (input.status) {
@@ -113,17 +140,44 @@ export async function searchLegislation(
     }
 
     sql += ' LIMIT ?';
-    params.push(limit);
+    params.push(fetchLimit);
 
     try {
       const rows = db.prepare(sql).all(...params) as SearchLegislationResult[];
       if (rows.length > 0) {
-        return { results: rows, _metadata: generateResponseMetadata(db) };
+        return {
+          results: deduplicateResults(rows, limit),
+          _metadata: {
+            ...generateResponseMetadata(db),
+            query_strategy: 'like_fallback',
+          },
+        };
       }
     } catch {
       // LIKE query failed — fall through to empty return
     }
   }
 
-return { results: [], _metadata: generateResponseMetadata(db) };
+  return { results: [], _metadata: generateResponseMetadata(db) };
+}
+
+/**
+ * Deduplicate search results by document_title + provision_ref.
+ * Duplicate document IDs (numeric vs slug) cause the same provision to appear twice.
+ * Keeps the first (highest-ranked) occurrence.
+ */
+function deduplicateResults(
+  rows: SearchLegislationResult[],
+  limit: number,
+): SearchLegislationResult[] {
+  const seen = new Set<string>();
+  const deduped: SearchLegislationResult[] = [];
+  for (const row of rows) {
+    const key = `${row.document_title}::${row.provision_ref}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    deduped.push(row);
+    if (deduped.length >= limit) break;
+  }
+  return deduped;
 }
