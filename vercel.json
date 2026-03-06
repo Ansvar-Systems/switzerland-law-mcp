@@ -1,9 +1,12 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "crons": [
-    { "path": "/health", "schedule": "*/5 * * * *" }
+    {
+      "path": "/health",
+      "schedule": "*/5 * * * *"
+    }
   ],
-  "buildCommand": "npm run build",
+  "buildCommand": "npm run build:db && npm run build",
   "outputDirectory": ".",
   "functions": {
     "api/mcp.ts": {
@@ -18,8 +21,17 @@
     }
   },
   "rewrites": [
-    { "source": "/mcp", "destination": "/api/mcp" },
-    { "source": "/health", "destination": "/api/health" },
-    { "source": "/version", "destination": "/api/health?version=1" }
+    {
+      "source": "/mcp",
+      "destination": "/api/mcp"
+    },
+    {
+      "source": "/health",
+      "destination": "/api/health"
+    },
+    {
+      "source": "/version",
+      "destination": "/api/health?version=1"
+    }
   ]
 }
